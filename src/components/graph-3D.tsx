@@ -1,0 +1,376 @@
+"use client";
+
+import kanjilist from "@/../data/kanjilist.json";
+import { buildKanjiHref, type MobileTabKey } from "@/lib/kanji-routing";
+import {
+  NODE_SELECTED,
+  NODE_JOYO,
+  NODE_JINMEIYO,
+  NODE_OTHER,
+} from "@/lib/graph-colors";
+import { useTheme } from "next-themes";
+import { useRouter } from "next/navigation";
+import * as React from "react";
+import type { ForceGraphMethods, GraphData } from "react-force-graph-3d";
+import ForceGraph3D, { LinkObject, NodeObject } from "react-force-graph-3d";
+import type { RectReadOnly } from "react-use-measure";
+import * as THREE from "three";
+import SpriteText from "three-spritetext";
+
+type NodeObjectWithData = NodeObject & { data: KanjiInfo };
+
+interface Props {
+  kanjiInfo: KanjiInfo;
+  graphData: BothGraphData | null;
+  showOutLinks: boolean;
+  triggerFocus: number;
+  bounds: RectReadOnly;
+  autoRotate: boolean;
+  showParticles: boolean;
+  navigationTab?: MobileTabKey;
+  enableNodePreview?: boolean;
+  onPreviewNode?: (node: { id: string; data: KanjiInfo | null }) => void;
+  onClosePreview?: () => void;
+}
+
+export const dynamic = "force-dynamic";
+
+const KANJI_SPRITE_OFFSET_Y = 2.0;
+
+const KANJI_GROUPS = kanjilist.reduce(
+  (groups, entry) => {
+    if (entry.g === 1) {
+      groups.joyo.add(entry.k);
+    } else if (entry.g === 2) {
+      groups.jinmeiyo.add(entry.k);
+    }
+
+    return groups;
+  },
+  {
+    joyo: new Set<string>(),
+    jinmeiyo: new Set<string>(),
+  },
+);
+
+const getNodeDefaultColor = (nodeId: string, selectedId: string) => {
+  if (nodeId === selectedId) {
+    return NODE_SELECTED;
+  }
+  if (KANJI_GROUPS.joyo.has(String(nodeId))) {
+    return NODE_JOYO;
+  }
+  if (KANJI_GROUPS.jinmeiyo.has(String(nodeId))) {
+    return NODE_JINMEIYO;
+  }
+
+  return NODE_OTHER;
+};
+
+const resetNodeColor = (node: any, selectedId: string) => {
+  const defaultColor = getNodeDefaultColor(node.id, selectedId);
+  if (node?.__threeObj?.children[1]?.material?.color) {
+    node.__threeObj.children[1].material.color.set(defaultColor);
+  }
+};
+
+const highlightNode = (node: any) => {
+  if (node?.__threeObj?.children[1]?.material?.color) {
+    const color = node.__threeObj.children[1].material.color;
+    node.__threeObj.children[1].material.color.setRGB(
+      color.r * 0.8,
+      color.g * 0.8,
+      color.b * 0.8,
+    );
+  }
+};
+
+const getSharedOnyomi = (data: GraphData | null, kanji1: string, kanji2: string) => {
+  const k1 = data?.nodes?.find((o) => o?.id === kanji1) as NodeObjectWithData;
+  const k2 = data?.nodes?.find((o) => o?.id === kanji2) as NodeObjectWithData;
+  const on1: string[] = k1?.data?.jishoData?.onyomi;
+  const on2: string[] = k2?.data?.jishoData?.onyomi;
+  return on1?.filter((value) => on2?.includes(value)) ?? "";
+};
+
+const getLinkDirectionalArrowRelPos = ({ source, target }: LinkObject) => {
+  if (
+    typeof source === "object" &&
+    typeof target === "object" &&
+    source.x &&
+    target.x &&
+    source.y &&
+    target.y &&
+    source.z &&
+    target.z
+  ) {
+    const linkLength = Math.hypot(
+      target.x - source.x,
+      target.y - source.y,
+      target.z - source.z,
+    );
+    return (linkLength - 8) / linkLength;
+  }
+
+  return 0.8;
+};
+
+const getNodeLabel = (n: NodeObject, enableNodePreview: boolean) => {
+  if (enableNodePreview) {
+    return "";
+  }
+
+  const node = n as NodeObjectWithData;
+  if (!node.data || !node.data.jishoData) {
+    return "";
+  }
+
+  const kunyomi = node.data.jishoData?.kunyomi;
+  const meaning = node.data.jishoData?.meaning;
+  if ((!kunyomi || kunyomi.length === 0) && (!meaning || meaning === "")) {
+    return "";
+  }
+
+  return `<div style="color: #ffffff; background: #000000a6; padding: 4px; border-radius: 4px;">
+            <span>${kunyomi || ""}</span>
+            <br/>
+            <span>${meaning || ""}</span>
+          </div>
+         `;
+};
+
+const createNodeThreeObject = (node: NodeObject, selectedId: string) => {
+  const ball = new THREE.Mesh(
+    new THREE.SphereGeometry(8, 32, 32),
+    new THREE.MeshLambertMaterial({
+      color: getNodeDefaultColor(String(node.id), selectedId),
+      transparent: true,
+      depthWrite: false,
+      opacity: 0.8,
+    }),
+  );
+
+  const sprite = new SpriteText(String(node.id));
+  sprite.fontFace =
+    "Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif";
+  sprite.color = "#000";
+  sprite.textHeight = 10;
+  sprite.fontSize = 120;
+  sprite.padding = 3;
+  sprite.offsetY = KANJI_SPRITE_OFFSET_Y;
+
+  const group = new THREE.Group();
+  group.add(sprite);
+  group.add(ball);
+  return group;
+};
+
+const createLinkThreeObject = (
+  link: LinkObject,
+  data: GraphData | null,
+  resolvedTheme: string | undefined,
+) => {
+  const source = typeof link.source === "object" ? link.source.id : link.source;
+  const target = typeof link.target === "object" ? link.target.id : link.target;
+  const linkText = getSharedOnyomi(data, String(source), String(target));
+
+  if (!linkText || linkText.length === 0) {
+    return null;
+  }
+
+  const sprite = new SpriteText(linkText.join(", "));
+  sprite.color = resolvedTheme === "dark" ? "#ffffff" : "#000000";
+  sprite.textHeight = 6;
+  return sprite;
+};
+
+const updateLinkPosition = (
+  sprite: THREE.Object3D | SpriteText | null | undefined,
+  { start, end }: { start: { x: number; y: number; z: number }; end: { x: number; y: number; z: number } },
+) => {
+  const middlePos = {
+    x: start.x + (end.x - start.x) / 2,
+    y: start.y + (end.y - start.y) / 2,
+    z: start.z + (end.z - start.z) / 2,
+  };
+
+  sprite?.position && Object.assign(sprite.position, middlePos);
+  return null;
+};
+
+const Graph3D = ({
+  kanjiInfo,
+  graphData,
+  showOutLinks,
+  triggerFocus,
+  bounds,
+  autoRotate,
+  showParticles,
+  navigationTab,
+  enableNodePreview = false,
+  onPreviewNode,
+  onClosePreview,
+}: Props) => {
+  const { resolvedTheme } = useTheme();
+  const { push, prefetch } = useRouter();
+
+  const fg3DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
+    React.useRef(undefined);
+
+  const data = React.useMemo<GraphData | null>(
+    () => (showOutLinks ? graphData?.withOutLinks : graphData?.noOutLinks) ?? null,
+    [graphData?.noOutLinks, graphData?.withOutLinks, showOutLinks],
+  );
+
+  const buildNodeHref = React.useCallback(
+    (id: string) =>
+      buildKanjiHref(id, {
+        tab: navigationTab ?? null,
+      }),
+    [navigationTab],
+  );
+
+  const debounce = React.useCallback((func: (...args: any[]) => void, wait: number) => {
+    let timeout: NodeJS.Timeout;
+    return (...args: any[]) => {
+      clearTimeout(timeout);
+      timeout = setTimeout(() => func(...args), wait);
+    };
+  }, []);
+
+  React.useEffect(() => {
+    return () => {
+      if (fg3DRef.current) {
+        fg3DRef.current.renderer().dispose();
+        fg3DRef.current.scene().clear();
+      }
+    };
+  }, []);
+
+  const handleClick = (node: NodeObject) => {
+    const nodeId = String(node?.id);
+
+    if (enableNodePreview && onPreviewNode) {
+      onPreviewNode({
+        id: nodeId,
+        data: ((node as NodeObjectWithData).data ?? null) as KanjiInfo | null,
+      });
+      return;
+    }
+
+    void push(buildNodeHref(nodeId));
+  };
+
+  // prefetch routes for nodes visible in the graph
+  React.useEffect(() => {
+    data?.nodes?.forEach((node) => {
+      void prefetch(buildNodeHref(String(node.id)));
+    });
+  }, [buildNodeHref, data, prefetch]);
+
+  React.useEffect(() => {
+    const controls = fg3DRef?.current?.controls();
+    if (controls) {
+      //@ts-ignore
+      controls.autoRotate = autoRotate;
+    }
+  }, [autoRotate, fg3DRef?.current]);
+
+  // FOCUS  ON MAIN NODE AT START
+  React.useEffect(() => {
+    const focusMain = setTimeout(() => {
+      if (kanjiInfo.id && data && data?.nodes?.length > 0) {
+        const node = data?.nodes?.find((o) => o.id === kanjiInfo.id);
+        const distance = 160;
+        if (
+          node &&
+          node?.x &&
+          node?.y &&
+          node?.z &&
+          fg3DRef &&
+          fg3DRef?.current
+        ) {
+          const distRatio = 1 + distance / Math.hypot(node.x, node.y, node.z);
+          fg3DRef.current.cameraPosition(
+            {
+              x: node.x * distRatio,
+              y: node.y * distRatio,
+              z: node.z * distRatio,
+            }, // new position
+            { x: node.x, y: node.y, z: node.z }, // lookAt ({ x, y, z })
+            1000, // ms transition duration
+          );
+        }
+      }
+    }, 100);
+
+    return () => {
+      clearTimeout(focusMain);
+    };
+  }, [data, kanjiInfo.id, triggerFocus]);
+
+  const debounceResumeAutoRotate = debounce((node: any) => {
+    if (autoRotate && fg3DRef?.current) {
+      // @ts-ignore
+      !node && (fg3DRef.current.controls().autoRotate = true);
+    }
+  }, 500);
+
+  const handleHover = (node: any, prevNode: any) => {
+    // Ensure autoRotate is paused on hover
+    if (autoRotate && fg3DRef?.current) {
+      // @ts-ignore
+      node && (fg3DRef.current.controls().autoRotate = false);
+      debounceResumeAutoRotate(node);
+    }
+
+    // Reset the previous node's color to its default
+    if (prevNode) resetNodeColor(prevNode, kanjiInfo.id);
+
+    // Apply hover effect to the currently hovered node
+    if (node) highlightNode(node);
+  };
+
+  if (!graphData || !kanjiInfo || !data) return <></>;
+
+  return (
+    <ForceGraph3D
+      controlType={"orbit"}
+      width={bounds.width}
+      height={bounds.height}
+      backgroundColor={"#00000000"}
+      graphData={data}
+      linkColor={() => {
+        return resolvedTheme === "dark" ? "#ffffff" : "#000000";
+      }}
+      linkDirectionalArrowLength={5}
+      linkDirectionalArrowRelPos={getLinkDirectionalArrowRelPos}
+      linkDirectionalArrowResolution={8}
+      linkDirectionalParticles={3}
+      linkDirectionalParticleSpeed={0.004}
+      linkDirectionalParticleWidth={showParticles ? 1 : 0.001}
+      linkDirectionalParticleResolution={8}
+      enableNavigationControls={true}
+      showNavInfo={false}
+      ref={fg3DRef}
+      // warmupTicks={120}
+      // cooldownTime={1500}
+      onNodeClick={handleClick}
+      onBackgroundClick={() => {
+        if (enableNodePreview) {
+          onClosePreview?.();
+        }
+      }}
+      onNodeHover={handleHover}
+      nodeLabel={(node) => getNodeLabel(node, enableNodePreview)}
+      nodeThreeObject={(node: NodeObject) => createNodeThreeObject(node, kanjiInfo.id)}
+      // ADD ONYOMI TO LINKS
+      linkThreeObjectExtend={true}
+      // @ts-ignore
+      linkThreeObject={(link: LinkObject) => createLinkThreeObject(link, data, resolvedTheme)}
+      linkPositionUpdate={updateLinkPosition}
+    />
+  );
+};
+
+export default Graph3D;

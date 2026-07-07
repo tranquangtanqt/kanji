@@ -1,0 +1,252 @@
+"use client";
+
+import { useMediaQuery } from "react-responsive";
+import { Kanji } from "@/components/kanji";
+import { MobileLayout } from "@/components/mobile-layout";
+import { Radical } from "@/components/radical";
+import { Examples } from "@/components/examples";
+import { Graphs } from "@/components/graphs";
+import { SearchInput } from "@/components/search-input";
+import { DrawInput } from "@/components/draw-input";
+import { ScrollArea } from "@/components/ui/scroll-area";
+import { SearchIcon } from "lucide-react";
+import {
+  getMobileTabIndex,
+  getMobileTabKey,
+  MOBILE_TAB_PARAM,
+} from "@/lib/kanji-routing";
+import { buildKanjiHref } from "@/lib/kanji-routing";
+import { usePathname, useRouter, useSearchParams } from "next/navigation";
+import React, { Suspense } from "react";
+
+interface KanjiPageContentProps {
+  requestedId: string;
+  canonicalId: string;
+  variantInfo: {
+    aliases: string[];
+  };
+  kanjiInfo: KanjiInfo; // Replace 'any' with the actual type
+  graphData: BothGraphData; // Replace 'any' with the actual type
+  strokeAnimation: string | null; // Replace 'any' with the actual type
+  navigableRadicalIds: string[];
+}
+
+export function KanjiPageContent({
+  ...props
+}: KanjiPageContentProps) {
+  return (
+    <Suspense fallback={<div className="w-full grow overflow-hidden" />}>
+      <KanjiPageContentInner {...props} />
+    </Suspense>
+  );
+}
+
+function KanjiPageContentInner({
+  requestedId,
+  canonicalId,
+  variantInfo,
+  kanjiInfo,
+  graphData,
+  strokeAnimation,
+  navigableRadicalIds,
+}: KanjiPageContentProps) {
+  const isMobile = useMediaQuery({ query: "(max-width: 768px)" });
+  const { replace } = useRouter();
+  const pathname = usePathname();
+  const searchParams = useSearchParams();
+  const getSearchParam = searchParams.get.bind(searchParams);
+  const isHydrated = React.useSyncExternalStore(
+    () => () => {},
+    () => true,
+    () => false,
+  );
+  const urlMobileTab = getMobileTabIndex(getSearchParam(MOBILE_TAB_PARAM));
+  const [mobileTabOverride, setMobileTabOverride] = React.useState<{
+    pathname: string;
+    tab: number;
+  } | null>(null);
+  const activeMobileTab =
+    mobileTabOverride && mobileTabOverride.pathname === pathname
+      ? mobileTabOverride.tab
+      : urlMobileTab;
+
+  React.useEffect(() => {
+    if (
+      mobileTabOverride &&
+      mobileTabOverride.pathname === pathname &&
+      mobileTabOverride.tab === urlMobileTab
+    ) {
+      setMobileTabOverride(null);
+    }
+  }, [mobileTabOverride, pathname, urlMobileTab]);
+
+  const handleMobileTabChange = React.useCallback(
+    (tabIndex: number) => {
+      if (tabIndex === activeMobileTab) {
+        return;
+      }
+
+      setMobileTabOverride({
+        pathname,
+        tab: tabIndex,
+      });
+
+      const nextParams = new URLSearchParams(searchParams.toString());
+      nextParams.set(MOBILE_TAB_PARAM, getMobileTabKey(tabIndex));
+      const nextQuery = nextParams.toString();
+      const nextUrl = nextQuery ? `${pathname}?${nextQuery}` : pathname;
+      window.history.replaceState(window.history.state, "", nextUrl);
+    },
+    [activeMobileTab, pathname, searchParams],
+  );
+
+  React.useEffect(() => {
+    if (isHydrated && requestedId !== canonicalId) {
+      void replace(
+        buildKanjiHref(canonicalId, {
+          tab: getSearchParam(MOBILE_TAB_PARAM)
+            ? getMobileTabKey(activeMobileTab)
+            : null,
+        }),
+      );
+    }
+  }, [
+    activeMobileTab,
+    canonicalId,
+    isHydrated,
+    requestedId,
+    getSearchParam,
+    replace,
+  ]);
+
+  // Render placeholder with same structure to prevent layout shift
+  if (!isHydrated) {
+    return (
+      <>
+        {/* Mobile placeholder */}
+        <div className="w-full grow md:hidden overflow-hidden" />
+        {/* Desktop placeholder */}
+        <div className="w-full grow hidden md:grid grid-cols-1 md:grid-rows-[330px_1fr] overflow-hidden">
+          <div className="top grid grid-cols-[252px_1.5fr_1fr] overflow-hidden border-b border-lighter">
+            <div className="flex flex-col items-center gap-2 mt-3" />
+            <div className="p-4 border-l" />
+            <div className="p-4 border-l" />
+          </div>
+          <div className="bottom grid grid-cols-[2fr_3fr] overflow-hidden">
+            <div />
+            <div className="border-l" />
+          </div>
+        </div>
+      </>
+    );
+  }
+
+  if (isMobile) {
+    return (
+      <div className="w-full grow md:hidden overflow-hidden">
+        <MobileLayout
+          tabs={[
+            {
+              id: 0,
+              label: "漢字",
+              content: (
+                <div className="p-4">
+                  <Kanji
+                    kanjiInfo={kanjiInfo}
+                    variantInfo={variantInfo}
+                    graphData={graphData}
+                    strokeAnimation={strokeAnimation}
+                    screen="mobile"
+                  />
+                </div>
+              ),
+            },
+            {
+              id: 1,
+              label: "部首",
+              content: (
+                <div className="p-4">
+                  <Radical
+                    kanjiInfo={kanjiInfo}
+                    navigableRadicalIds={navigableRadicalIds}
+                  />
+                </div>
+              ),
+            },
+            {
+              id: 2,
+              label: "例",
+              content: (
+                <ScrollArea className="size-full">
+                  <Examples kanjiInfo={kanjiInfo} />
+                </ScrollArea>
+              ),
+            },
+            {
+              id: 3,
+              label: "図",
+              content: (
+                <Graphs
+                  kanjiInfo={kanjiInfo}
+                  graphData={graphData}
+                  enableNodePreview
+                  navigationTab="graph"
+                />
+              ),
+            },
+            {
+              id: 4,
+              label: (
+                <SearchIcon className="size-4 inline-block -translate-y-0.5" />
+              ),
+              content: (
+                <div className="relative mt-8 p-4 flex flex-col items-center gap-12">
+                  <SearchInput searchPlaceholder="Search kanji..." />
+                  <DrawInput />
+                </div>
+              ),
+            },
+          ]}
+          activeTab={activeMobileTab}
+          onActiveTabChange={handleMobileTabChange}
+        />
+      </div>
+    );
+  } else {
+    return (
+      <div className="w-full grow hidden md:grid grid-cols-1 md:grid-rows-[330px_1fr] overflow-hidden">
+        <div className="top grid grid-cols-[252px_1.5fr_1fr] overflow-hidden border-b border-lighter">
+          <div className="flex flex-col items-center gap-2 mt-3">
+            <SearchInput searchPlaceholder="Search..." />
+            <DrawInput />
+          </div>
+          <ScrollArea className="w-full h-full">
+            <div className="p-4 border-l">
+              <Kanji
+                screen="desktop"
+                kanjiInfo={kanjiInfo}
+                variantInfo={variantInfo}
+                graphData={graphData}
+                strokeAnimation={strokeAnimation}
+              />
+            </div>
+          </ScrollArea>
+          <div className="p-4 border-l">
+            <Radical
+              kanjiInfo={kanjiInfo}
+              navigableRadicalIds={navigableRadicalIds}
+            />
+          </div>
+        </div>
+        <div className="bottom grid grid-cols-[2fr_3fr] overflow-hidden">
+          <ScrollArea className="w-full h-full">
+            <Examples kanjiInfo={kanjiInfo} />
+          </ScrollArea>
+          <div className="border-l">
+            <Graphs kanjiInfo={kanjiInfo} graphData={graphData} />
+          </div>
+        </div>
+      </div>
+    );
+  }
+}
