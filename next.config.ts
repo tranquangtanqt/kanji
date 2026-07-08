@@ -1,8 +1,13 @@
 import type { NextConfig } from "next";
 
+const isProd = process.env.NODE_ENV === "production";
+
 const nextConfig: NextConfig = {
-  // Only use static export for production builds, not dev mode
-  ...(process.env.NODE_ENV === "production" && { output: "export" }),
+  ...(isProd && {
+    output: "export",
+    basePath: "/kanji",
+    assetPrefix: "/kanji/",
+  }),
 };
 
 export default nextConfig;
