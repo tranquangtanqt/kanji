@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "kuruma",
-    "meaning": "vehicle, wheel, car",
+    "meaning": "vehicle, wheel, car |(vi) xe, bánh xe, ô tô",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "自転車（じてんしゃ）",
         "meaning": {
-          "english": "bicycle"
+          "english": "bicycle |(vi) xe đạp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuruma_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "電車（でんしゃ）",
         "meaning": {
-          "english": "train"
+          "english": "train |(vi) tàu điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuruma_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "自動車（じどうしゃ）",
         "meaning": {
-          "english": "automobile"
+          "english": "automobile |(vi) ô tô, xe hơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuruma_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "駐車する（ちゅうしゃする）",
         "meaning": {
-          "english": "park a car"
+          "english": "park a car |(vi) đỗ xe, đậu xe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuruma_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "停車する（ていしゃする）",
         "meaning": {
-          "english": "stop a car or train"
+          "english": "stop a car or train |(vi) dừng xe, dừng tàu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuruma_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "車（くるま）",
         "meaning": {
-          "english": "car"
+          "english": "car |(vi) xe, ô tô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuruma_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "車いす（くるまいす）",
         "meaning": {
-          "english": "wheel chair"
+          "english": "wheel chair |(vi) xe lăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuruma_06_g.opus",
@@ -238,7 +238,7 @@
     "kanji": {
       "character": "車",
       "meaning": {
-        "english": "vehicle, wheel, car"
+        "english": "vehicle, wheel, car |(vi) xe, bánh xe, ô tô"
       },
       "strokes": {
         "count": 7,
@@ -290,7 +290,7 @@
         "romaji": "kuruma"
       },
       "meaning": {
-        "english": "vehicle, wheel, car"
+        "english": "vehicle, wheel, car |(vi) Xa (xe, bánh xe)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuruma0.svg",
@@ -311,7 +311,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "333",
     "strokeCount": 7,
-    "meaning": "car",
+    "meaning": "car |(vi) xe, ô tô |(hv) Xa",
     "kunyomi": [
       "くるま"
     ],
@@ -322,49 +322,49 @@
       {
         "example": "車",
         "reading": "シャ",
-        "meaning": "car, vehicle, van, truck, wagon, lorry, (train) car, carriage"
+        "meaning": "car, vehicle, van, truck, wagon, lorry, (train) car, carriage |(vi) xe, xe cộ, xe tải nhỏ, xe tải, toa xe, xe vận tải, toa (tàu), toa hành khách"
       },
       {
         "example": "車検",
         "reading": "シャケン",
-        "meaning": "vehicle inspection"
+        "meaning": "vehicle inspection |(vi) xa kiểm, việc đăng kiểm xe"
       },
       {
         "example": "軽自動車",
         "reading": "ケイジドウシャ",
-        "meaning": "light motor vehicle (up to 660cc and 64bhp), k-car, kei car"
+        "meaning": "light motor vehicle (up to 660cc and 64bhp), k-car, kei car |(vi) xe hạng nhẹ (dung tích tới 660cc, công suất 64 mã lực), xe kei"
       },
       {
         "example": "台車",
         "reading": "ダイシャ",
-        "meaning": "platform truck, hand truck, trolley, dolly, cart, truck, bogie"
+        "meaning": "platform truck, hand truck, trolley, dolly, cart, truck, bogie |(vi) xe đẩy sàn, xe đẩy tay, xe kéo, xe đẩy, giá chuyển hướng (toa tàu)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "車",
         "reading": "くるま",
-        "meaning": "car, automobile, vehicle, wheel, castor, caster"
+        "meaning": "car, automobile, vehicle, wheel, castor, caster |(vi) xe, ô tô, xe cộ, bánh xe, bánh xoay"
       },
       {
         "example": "車椅子",
         "reading": "くるまいす",
-        "meaning": "wheelchair"
+        "meaning": "wheelchair |(vi) xe lăn"
       },
       {
         "example": "火の車",
         "reading": "ひのくるま",
-        "meaning": "fiery chariot (that carries the souls of sinners into hell), desperate financial situation, dire straits"
+        "meaning": "fiery chariot (that carries the souls of sinners into hell), desperate financial situation, dire straits |(vi) hỏa xa (cỗ xe lửa chở linh hồn tội nhân xuống địa ngục), cảnh túng quẫn về tài chính, tình cảnh khốn đốn"
       },
       {
         "example": "お車",
         "reading": "おくるま",
-        "meaning": "car"
+        "meaning": "car |(vi) xe (cách nói lịch sự)"
       }
     ],
     "radical": {
       "symbol": "車",
-      "meaning": "cart, car"
+      "meaning": "cart, car |(vi) Xa (xe, xe cộ)"
     },
     "parts": [
       "車"

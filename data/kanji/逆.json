@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 4,
     "kunyomi": "saka, sakasa, sakarau",
-    "meaning": "reverse, be contrary",
+    "meaning": "reverse, be contrary |(vi) đảo ngược, trái ngược",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "逆（ぎゃく）",
         "meaning": {
-          "english": "opposite [n.]"
+          "english": "opposite [n.] |(vi) sự ngược lại [danh từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(rau)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "逆説（ぎゃくせつ）",
         "meaning": {
-          "english": "paradox"
+          "english": "paradox |(vi) nghịch lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(rau)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "逆流（ぎゃくりゅう）",
         "meaning": {
-          "english": "counter-current"
+          "english": "counter-current |(vi) dòng chảy ngược"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(rau)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "逆境（ぎゃっきょう）",
         "meaning": {
-          "english": "adversity"
+          "english": "adversity |(vi) nghịch cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(rau)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "逆効果（ぎゃくこうか）",
         "meaning": {
-          "english": "opposite effect"
+          "english": "opposite effect |(vi) hiệu ứng ngược"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(rau)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "逆転する（ぎゃくてんする）",
         "meaning": {
-          "english": "reverse [v.i.]"
+          "english": "reverse [v.i.] |(vi) đảo ngược [nội động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(rau)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "反逆する（はんぎゃくする）",
         "meaning": {
-          "english": "rebel [v.i.]"
+          "english": "rebel [v.i.] |(vi) nổi loạn [nội động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(rau)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "逆さま（さかさま）",
         "meaning": {
-          "english": "upside down"
+          "english": "upside down |(vi) lộn ngược"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(rau)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "逆らう（さからう）",
         "meaning": {
-          "english": "go against, disobey"
+          "english": "go against, disobey |(vi) chống lại, bất tuân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(rau)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "逆立ち（さかだち）",
         "meaning": {
-          "english": "handstand"
+          "english": "handstand |(vi) trồng cây chuối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(rau)_06_j.opus",
@@ -236,7 +236,7 @@
     "kanji": {
       "character": "逆",
       "meaning": {
-        "english": "reverse, be contrary"
+        "english": "reverse, be contrary |(vi) đảo ngược, trái ngược"
       },
       "strokes": {
         "count": 9,
@@ -292,7 +292,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đi, tiến bước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -313,7 +313,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "683",
     "strokeCount": 9,
-    "meaning": "inverted, reverse, opposite, wicked",
+    "meaning": "inverted, reverse, opposite, wicked |(vi) đảo ngược, trái lại, ngược, hiểm ác |(hv) Nghịch",
     "kunyomi": [
       "さか",
       "さか.さ",
@@ -327,69 +327,69 @@
       {
         "example": "逆",
         "reading": "ギャク",
-        "meaning": "reverse, opposite, converse (of a hypothesis, etc.), inverse (function)"
+        "meaning": "reverse, opposite, converse (of a hypothesis, etc.), inverse (function) |(vi) sự đảo ngược, trái ngược, mệnh đề đảo (của một giả thuyết...), hàm ngược"
       },
       {
         "example": "逆効果",
         "reading": "ギャクコウカ",
-        "meaning": "opposite effect, adverse effect, backfiring"
+        "meaning": "opposite effect, adverse effect, backfiring |(vi) hiệu ứng ngược, tác dụng phụ, phản tác dụng"
       },
       {
         "example": "反逆",
         "reading": "ハンギャク",
-        "meaning": "treason, treachery, mutiny, rebellion, insurrection"
+        "meaning": "treason, treachery, mutiny, rebellion, insurrection |(vi) sự phản bội, phản nghịch, binh biến, nổi loạn"
       },
       {
         "example": "可逆",
         "reading": "カギャク",
-        "meaning": "reversible, invertible"
+        "meaning": "reversible, invertible |(vi) có thể đảo ngược, khả nghịch"
       },
       {
         "example": "逆旅",
         "reading": "ゲキリョ",
-        "meaning": "inn"
+        "meaning": "inn |(vi) quán trọ"
       },
       {
         "example": "逆鱗",
         "reading": "ゲキリン",
-        "meaning": "one's superior's anger, imperial wrath"
+        "meaning": "one's superior's anger, imperial wrath |(vi) cơn giận của cấp trên, long nhan nổi giận"
       },
       {
         "example": "莫逆",
         "reading": "バクギャク",
-        "meaning": "cordial relations"
+        "meaning": "cordial relations |(vi) quan hệ thân thiết"
       },
       {
         "example": "乱逆",
         "reading": "ランギャク",
-        "meaning": "rebellion"
+        "meaning": "rebellion |(vi) sự nổi loạn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "逆",
         "reading": "さか",
-        "meaning": "inverse, reverse"
+        "meaning": "inverse, reverse |(vi) ngược, đảo"
       },
       {
         "example": "逆さ",
         "reading": "さかさ",
-        "meaning": "inverted, upside down, reversed, back to front"
+        "meaning": "inverted, upside down, reversed, back to front |(vi) lộn ngược, đảo ngược, trái chiều"
       },
       {
         "example": "逆さ",
         "reading": "さかさ",
-        "meaning": "inverted, upside down, reversed, back to front"
+        "meaning": "inverted, upside down, reversed, back to front |(vi) lộn ngược, đảo ngược, trái chiều"
       },
       {
         "example": "逆さま",
         "reading": "さかさま",
-        "meaning": "inverted, upside down, reversed, back to front, wrong way round"
+        "meaning": "inverted, upside down, reversed, back to front, wrong way round |(vi) lộn ngược, đảo ngược, trái chiều, sai hướng"
       },
       {
         "example": "逆らう",
         "reading": "さからう",
-        "meaning": "to go against, to oppose, to disobey, to defy"
+        "meaning": "to go against, to oppose, to disobey, to defy |(vi) chống lại, phản đối, bất tuân, thách thức"
       }
     ],
     "radical": {
@@ -399,7 +399,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, tiến bước)"
     },
     "parts": [
       "屮",

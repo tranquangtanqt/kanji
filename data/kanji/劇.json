@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "drama, play",
+    "meaning": "drama, play |(vi) kịch, vở kịch",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "劇（げき）",
         "meaning": {
-          "english": "drama, play"
+          "english": "drama, play |(vi) kịch, vở kịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(en)geki_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "劇場（げきじょう）",
         "meaning": {
-          "english": "theatre, playhouse"
+          "english": "theatre, playhouse |(vi) nhà hát, rạp hát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(en)geki_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "劇団（げきだん）",
         "meaning": {
-          "english": "troupe, theatrical company"
+          "english": "troupe, theatrical company |(vi) đoàn kịch, đoàn hát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(en)geki_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "演劇（えんげき）",
         "meaning": {
-          "english": "play, performance"
+          "english": "play, performance |(vi) vở kịch, buổi biểu diễn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(en)geki_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "喜劇（きげき）",
         "meaning": {
-          "english": "comedy"
+          "english": "comedy |(vi) hài kịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(en)geki_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "悲劇（ひげき）",
         "meaning": {
-          "english": "tragedy"
+          "english": "tragedy |(vi) bi kịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(en)geki_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "歌劇（かげき）",
         "meaning": {
-          "english": "opera"
+          "english": "opera |(vi) nhạc kịch, opera"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(en)geki_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "時代劇（じだいげき）",
         "meaning": {
-          "english": "historical drama"
+          "english": "historical drama |(vi) kịch lịch sử, phim cổ trang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(en)geki_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "劇的な（げきてきな）",
         "meaning": {
-          "english": "dramatic"
+          "english": "dramatic |(vi) kịch tính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(en)geki_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "悲劇的な（ひげきてきな）",
         "meaning": {
-          "english": "tragic"
+          "english": "tragic |(vi) bi thảm, bi kịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(en)geki_06_j.opus",
@@ -228,7 +228,7 @@
     "kanji": {
       "character": "劇",
       "meaning": {
-        "english": "drama, play"
+        "english": "drama, play |(vi) kịch, vở kịch"
       },
       "strokes": {
         "count": 15,
@@ -296,7 +296,7 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, kiếm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -317,7 +317,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "662",
     "strokeCount": 15,
-    "meaning": "drama, play",
+    "meaning": "drama, play |(vi) kịch, vở kịch |(hv) Kịch",
     "kunyomi": [],
     "onyomi": [
       "ゲキ"
@@ -326,22 +326,22 @@
       {
         "example": "劇",
         "reading": "ゲキ",
-        "meaning": "drama, play, powerful drug"
+        "meaning": "drama, play, powerful drug |(vi) kịch, vở kịch, thuốc mạnh (gây tác dụng mạnh)"
       },
       {
         "example": "劇画",
         "reading": "ゲキガ",
-        "meaning": "comic strip with dramatic story"
+        "meaning": "comic strip with dramatic story |(vi) truyện tranh mang tính kịch tính"
       },
       {
         "example": "新劇",
         "reading": "シンゲキ",
-        "meaning": "shingeki, new drama (movement), form of Japanese theater developed towards the end of the Meiji period inspired by modern Western theater"
+        "meaning": "shingeki, new drama (movement), form of Japanese theater developed towards the end of the Meiji period inspired by modern Western theater |(vi) shingeki, phong trào kịch mới của Nhật Bản cuối thời Minh Trị, chịu ảnh hưởng của kịch nghệ phương Tây hiện đại"
       },
       {
         "example": "京劇",
         "reading": "キョウゲキ",
-        "meaning": "classical Chinese opera"
+        "meaning": "classical Chinese opera |(vi) kinh kịch (kịch Kinh kịch cổ điển Trung Quốc)"
       }
     ],
     "kunyomiExamples": [],
@@ -350,7 +350,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "刈",

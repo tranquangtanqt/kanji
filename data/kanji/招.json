@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "mane, maneku, maneki",
-    "meaning": "invite",
+    "meaning": "invite |(vi) mời",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "招待する（しょうたいする）",
         "meaning": {
-          "english": "invite"
+          "english": "invite |(vi) mời, mời gọi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mane(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "招待状（しょうたいじょう）",
         "meaning": {
-          "english": "invitation letter"
+          "english": "invitation letter |(vi) thư mời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mane(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "招く（まねく）",
         "meaning": {
-          "english": "invite"
+          "english": "invite |(vi) mời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mane(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "招き猫（まねきねこ）",
         "meaning": {
-          "english": "beckoning cat"
+          "english": "beckoning cat |(vi) mèo vẫy tay (maneki-neko)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mane(ku)_06_d.opus",
@@ -181,7 +181,7 @@
     "kanji": {
       "character": "招",
       "meaning": {
-        "english": "invite"
+        "english": "invite |(vi) mời"
       },
       "strokes": {
         "count": 8,
@@ -235,7 +235,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -256,7 +256,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "840",
     "strokeCount": 8,
-    "meaning": "beckon, invite, summon, engage",
+    "meaning": "beckon, invite, summon, engage |(vi) vẫy gọi, mời, triệu tập, thuê mướn |(hv) Chiêu",
     "kunyomi": [
       "まね.く"
     ],
@@ -267,19 +267,19 @@
       {
         "example": "招請",
         "reading": "ショウセイ",
-        "meaning": "invitation"
+        "meaning": "invitation |(vi) lời mời, sự mời"
       },
       {
         "example": "招集",
         "reading": "ショウシュウ",
-        "meaning": "call, summons, convening, convocation"
+        "meaning": "call, summons, convening, convocation |(vi) triệu tập, triệu hồi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "招く",
         "reading": "まねく",
-        "meaning": "to invite, to ask, to beckon, to wave someone in, to gesture to, to call in, to send for, to summon, to bring on oneself, to cause, to incur, to lead to, to result in"
+        "meaning": "to invite, to ask, to beckon, to wave someone in, to gesture to, to call in, to send for, to summon, to bring on oneself, to cause, to incur, to lead to, to result in |(vi) mời, yêu cầu, vẫy gọi, ra hiệu mời vào, ra hiệu, gọi vào, cho mời, triệu tập, tự chuốc lấy, gây ra, dẫn đến, kết quả là"
       }
     ],
     "radical": {
@@ -287,7 +287,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "刀",

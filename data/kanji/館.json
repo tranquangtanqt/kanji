@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "tate",
-    "meaning": "public building",
+    "meaning": "public building |(vi) tòa nhà công cộng",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "開館する（かいかんする）",
         "meaning": {
-          "english": "open a building"
+          "english": "open a building |(vi) mở cửa (tòa nhà, viện bảo tàng...)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "閉館する（へいかんする）",
         "meaning": {
-          "english": "close a building"
+          "english": "close a building |(vi) đóng cửa (tòa nhà)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "休館する（きゅうかんする）",
         "meaning": {
-          "english": "close a library or museum"
+          "english": "close a library or museum |(vi) đóng cửa tạm thời (thư viện, bảo tàng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "図書館（としょかん）",
         "meaning": {
-          "english": "library"
+          "english": "library |(vi) thư viện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "映画館（えいがかん）",
         "meaning": {
-          "english": "movie theater"
+          "english": "movie theater |(vi) rạp chiếu phim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "体育館（たいいくかん）",
         "meaning": {
-          "english": "gym"
+          "english": "gym |(vi) nhà thi đấu, phòng tập thể dục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "大使館（たいしかん）",
         "meaning": {
-          "english": "embassy"
+          "english": "embassy |(vi) đại sứ quán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "旅館（りょかん）",
         "meaning": {
-          "english": "Japanese style hotel"
+          "english": "Japanese style hotel |(vi) nhà trọ kiểu Nhật (ryokan)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "函館（はこだて）",
         "meaning": {
-          "english": "Hakodate"
+          "english": "Hakodate |(vi) Hakodate (tên thành phố)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_i.opus",
@@ -282,7 +282,7 @@
     "kanji": {
       "character": "館",
       "meaning": {
-        "english": "public building"
+        "english": "public building |(vi) tòa nhà công cộng"
       },
       "strokes": {
         "count": 16,
@@ -352,7 +352,7 @@
         "romaji": "shokuhen"
       },
       "meaning": {
-        "english": "food, to eat"
+        "english": "food, to eat |(vi) Thực (ăn, thức ăn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shokuhen0.svg",
@@ -373,7 +373,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "613",
     "strokeCount": 16,
-    "meaning": "building, mansion, large building, palace",
+    "meaning": "building, mansion, large building, palace |(vi) tòa nhà, dinh thự, tòa nhà lớn, cung điện |(hv) Quán",
     "kunyomi": [
       "やかた",
       "たて"
@@ -385,44 +385,44 @@
       {
         "example": "館",
         "reading": "カン",
-        "meaning": "(large) building, public building, hall"
+        "meaning": "(large) building, public building, hall |(vi) tòa nhà (lớn), tòa nhà công cộng, hội trường"
       },
       {
         "example": "館長",
         "reading": "カンチョウ",
-        "meaning": "superintendent, director, curator, chief librarian"
+        "meaning": "superintendent, director, curator, chief librarian |(vi) giám đốc, quản lý, người phụ trách bảo tàng, trưởng thư viện"
       },
       {
         "example": "在外公館",
         "reading": "ザイガイコウカン",
-        "meaning": "diplomatic mission, overseas diplomatic establishment"
+        "meaning": "diplomatic mission, overseas diplomatic establishment |(vi) cơ quan ngoại giao ở nước ngoài"
       },
       {
         "example": "公館",
         "reading": "コウカン",
-        "meaning": "official residence"
+        "meaning": "official residence |(vi) dinh thự chính thức, công quán"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "館",
         "reading": "やかた",
-        "meaning": "mansion, palace, manor house, castle, nobleman, noblewoman, dignitary, cabin (on a boat, carriage, etc.)"
+        "meaning": "mansion, palace, manor house, castle, nobleman, noblewoman, dignitary, cabin (on a boat, carriage, etc.) |(vi) dinh thự, cung điện, biệt thự lớn, lâu đài, quý tộc nam, quý tộc nữ, nhân vật cao quý, khoang (trên thuyền, xe ngựa...)"
       },
       {
         "example": "夏館",
         "reading": "なつやかた",
-        "meaning": "villa arranged appropriately for summer, mansion arranged appropriately for summer"
+        "meaning": "villa arranged appropriately for summer, mansion arranged appropriately for summer |(vi) biệt thự/dinh thự bố trí thích hợp cho mùa hè"
       },
       {
         "example": "恐怖の館",
         "reading": "きょうふのやかた",
-        "meaning": "house of horrors"
+        "meaning": "house of horrors |(vi) ngôi nhà ma, nhà kinh dị"
       },
       {
         "example": "館",
         "reading": "やかた",
-        "meaning": "mansion, palace, manor house, castle, nobleman, noblewoman, dignitary, cabin (on a boat, carriage, etc.)"
+        "meaning": "mansion, palace, manor house, castle, nobleman, noblewoman, dignitary, cabin (on a boat, carriage, etc.) |(vi) dinh thự, cung điện, biệt thự lớn, lâu đài, quý tộc nam, quý tộc nữ, nhân vật cao quý, khoang (trên thuyền, xe ngựa...)"
       }
     ],
     "radical": {
@@ -430,7 +430,7 @@
       "forms": [
         "飠"
       ],
-      "meaning": "eat, food"
+      "meaning": "eat, food |(vi) Thực (ăn, thức ăn)"
     },
     "parts": [
       "口",

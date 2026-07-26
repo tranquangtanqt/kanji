@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "filial piety",
+    "meaning": "filial piety |(vi) hiếu thảo",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "忠孝（ちゅうこう）",
         "meaning": {
-          "english": "loyalty and filial piety"
+          "english": "loyalty and filial piety |(vi) trung hiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(oya)kou(kou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "親孝行な（おやこうこうな）",
         "meaning": {
-          "english": "having filial piety [adj.]"
+          "english": "having filial piety [adj.] |(vi) hiếu thảo với cha mẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(oya)kou(kou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "親不孝な（おやふこうな）",
         "meaning": {
-          "english": "lacking filial piety [adj.]"
+          "english": "lacking filial piety [adj.] |(vi) bất hiếu với cha mẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(oya)kou(kou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "孝行する（こうこうする）",
         "meaning": {
-          "english": "exercise filial piety [v.i.]"
+          "english": "exercise filial piety [v.i.] |(vi) hiếu thảo, phụng dưỡng cha mẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(oya)kou(kou)_06_d.opus",
@@ -131,7 +131,7 @@
     "kanji": {
       "character": "孝",
       "meaning": {
-        "english": "filial piety"
+        "english": "filial piety |(vi) hiếu thảo"
       },
       "strokes": {
         "count": 7,
@@ -183,7 +183,7 @@
         "romaji": "ko"
       },
       "meaning": {
-        "english": "child, son"
+        "english": "child, son |(vi) Tử (con, con trai)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ko0.svg",
@@ -203,7 +203,7 @@
     "taughtIn": "grade 6",
     "newspaperFrequencyRank": "1030",
     "strokeCount": 7,
-    "meaning": "filial piety, child's respect",
+    "meaning": "filial piety, child's respect |(vi) hiếu thảo, sự tôn kính của con cái |(hv) Hiếu",
     "kunyomi": [],
     "onyomi": [
       "コウ",
@@ -213,38 +213,38 @@
       {
         "example": "孝",
         "reading": "コウ",
-        "meaning": "filial piety"
+        "meaning": "filial piety |(vi) hiếu thảo"
       },
       {
         "example": "孝行",
         "reading": "コウコウ",
-        "meaning": "filial piety, showing devotion (to someone)"
+        "meaning": "filial piety, showing devotion (to someone) |(vi) hiếu thảo, phụng dưỡng cha mẹ"
       },
       {
         "example": "親不孝",
         "reading": "オヤフコウ",
-        "meaning": "lack of filial piety, disobedience to one's parents"
+        "meaning": "lack of filial piety, disobedience to one's parents |(vi) bất hiếu, không vâng lời cha mẹ"
       },
       {
         "example": "不孝",
         "reading": "フコウ",
-        "meaning": "undutifulness to one's parents, lack of filial piety, (the crime of) cursing one's parents, disowning one's child"
+        "meaning": "undutifulness to one's parents, lack of filial piety, (the crime of) cursing one's parents, disowning one's child |(vi) bất hiếu, tội chửi mắng cha mẹ, từ bỏ con cái"
       },
       {
         "example": "孝",
         "reading": "コウ",
-        "meaning": "filial piety"
+        "meaning": "filial piety |(vi) hiếu thảo"
       },
       {
         "example": "不孝",
         "reading": "フコウ",
-        "meaning": "undutifulness to one's parents, lack of filial piety, (the crime of) cursing one's parents, disowning one's child"
+        "meaning": "undutifulness to one's parents, lack of filial piety, (the crime of) cursing one's parents, disowning one's child |(vi) bất hiếu, tội chửi mắng cha mẹ, từ bỏ con cái"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "子",
-      "meaning": "child, seed"
+      "meaning": "child, seed |(vi) Tử (con, hạt giống)"
     },
     "parts": [
       "子",

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "ta, tatsu, tateru, tate",
-    "meaning": "build",
+    "meaning": "build |(vi) xây dựng",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "建築（けんちく）",
         "meaning": {
-          "english": "architecture"
+          "english": "architecture |(vi) kiến trúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "建設する（けんせつする）",
         "meaning": {
-          "english": "construct"
+          "english": "construct |(vi) xây dựng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "再建する（さいけんする）",
         "meaning": {
-          "english": "rebuild"
+          "english": "rebuild |(vi) tái thiết, xây dựng lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "建立する（こんりゅうする）",
         "meaning": {
-          "english": "erect (building) [v.t.]"
+          "english": "erect (building) [v.t.] |(vi) dựng lên (công trình) [ngoại đt.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "建つ（たつ）",
         "meaning": {
-          "english": "be built [v.i.]"
+          "english": "be built [v.i.] |(vi) được xây dựng [nội đt.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "建てる（たてる）",
         "meaning": {
-          "english": "build [v.t.]"
+          "english": "build [v.t.] |(vi) xây, dựng [ngoại đt.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "建物（たてもの）",
         "meaning": {
-          "english": "building"
+          "english": "building |(vi) tòa nhà, công trình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "建前（たてまえ）",
         "meaning": {
-          "english": "public position"
+          "english": "public position |(vi) lập trường chính thức, quan điểm công khai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "二階建て（にかいだて）",
         "meaning": {
-          "english": "two-storied building"
+          "english": "two-storied building |(vi) nhà hai tầng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_i.opus",
@@ -266,7 +266,7 @@
     "kanji": {
       "character": "建",
       "meaning": {
-        "english": "build"
+        "english": "build |(vi) xây dựng"
       },
       "strokes": {
         "count": 9,
@@ -322,7 +322,7 @@
         "romaji": "ennyou"
       },
       "meaning": {
-        "english": "to move, stretch"
+        "english": "to move, stretch |(vi) Dẫn (bước dài, kéo dài)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ennyou0.svg",
@@ -343,7 +343,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "300",
     "strokeCount": 9,
-    "meaning": "build",
+    "meaning": "build |(vi) xây dựng |(hv) Kiến",
     "kunyomi": [
       "た.てる",
       "た.て",
@@ -358,59 +358,59 @@
       {
         "example": "建国",
         "reading": "ケンコク",
-        "meaning": "founding of a nation"
+        "meaning": "founding of a nation |(vi) sự lập quốc, sự thành lập đất nước"
       },
       {
         "example": "建議",
         "reading": "ケンギ",
-        "meaning": "proposition, motion, proposal, suggestion"
+        "meaning": "proposition, motion, proposal, suggestion |(vi) kiến nghị, đề xuất, đề nghị"
       },
       {
         "example": "経営再建",
         "reading": "ケイエイサイケン",
-        "meaning": "management reorganization, management reorganisation"
+        "meaning": "management reorganization, management reorganisation |(vi) tái cơ cấu quản lý, cải tổ kinh doanh"
       },
       {
         "example": "財政再建",
         "reading": "ザイセイサイケン",
-        "meaning": "finance reform, fiscal reconstruction"
+        "meaning": "finance reform, fiscal reconstruction |(vi) cải cách tài chính, tái thiết tài chính"
       },
       {
         "example": "建立",
         "reading": "コンリュウ",
-        "meaning": "(act of) building (temple, monument, etc.), erection"
+        "meaning": "(act of) building (temple, monument, etc.), erection |(vi) việc xây dựng (chùa, đài tưởng niệm...), sự dựng lên"
       },
       {
         "example": "再建",
         "reading": "サイコン",
-        "meaning": "(temple or shrine) rebuilding"
+        "meaning": "(temple or shrine) rebuilding |(vi) sự tái thiết (chùa hoặc đền thờ)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "建てる",
         "reading": "たてる",
-        "meaning": "to build, to construct"
+        "meaning": "to build, to construct |(vi) xây, dựng, xây dựng"
       },
       {
         "example": "建て",
         "reading": "たて",
-        "meaning": "contract, commitment"
+        "meaning": "contract, commitment |(vi) hợp đồng, cam kết"
       },
       {
         "example": "建前",
         "reading": "たてまえ",
-        "meaning": "face, official stance, public position or attitude (as opposed to private thoughts), ceremony for the erection of the framework of a house"
+        "meaning": "face, official stance, public position or attitude (as opposed to private thoughts), ceremony for the erection of the framework of a house |(vi) bề ngoài, lập trường chính thức, thái độ công khai (khác với suy nghĩ riêng tư), lễ dựng khung nhà"
       },
       {
         "example": "建つ",
         "reading": "たつ",
-        "meaning": "to be erected, to be built"
+        "meaning": "to be erected, to be built |(vi) được dựng lên, được xây"
       }
     ],
     "radical": {
       "symbol": "廴",
-      "meaning": "long stride"
+      "meaning": "long stride |(vi) Dẫn (bước dài, kéo dài)"
     },
     "parts": [
       "廴",

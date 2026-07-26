@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 5,
     "kunyomi": "kokoroyo, kokoroyoi, kokoroyosa",
-    "meaning": "pleasant",
+    "meaning": "pleasant |(vi) dễ chịu, thoải mái",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "快晴（かいせい）",
         "meaning": {
-          "english": "good weather"
+          "english": "good weather |(vi) trời quang, thời tiết đẹp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroyo(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "快挙（かいきょ）",
         "meaning": {
-          "english": "brilliant achievement"
+          "english": "brilliant achievement |(vi) kỳ tích, thành tựu xuất sắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroyo(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "快感（かいかん）",
         "meaning": {
-          "english": "pleasant feeling"
+          "english": "pleasant feeling |(vi) cảm giác dễ chịu, khoái cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroyo(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "快楽（かいらく）",
         "meaning": {
-          "english": "pleasure"
+          "english": "pleasure |(vi) khoái lạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroyo(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "快速電車（かいそくでんしゃ）",
         "meaning": {
-          "english": "high-speed train"
+          "english": "high-speed train |(vi) tàu tốc hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroyo(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "快適な（かいてきな）",
         "meaning": {
-          "english": "pleasant, comfortable"
+          "english": "pleasant, comfortable |(vi) dễ chịu, thoải mái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroyo(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "快活な（かいかつな）",
         "meaning": {
-          "english": "cheerful, lively"
+          "english": "cheerful, lively |(vi) vui vẻ, hoạt bát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroyo(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "愉快な（ゆかいな）",
         "meaning": {
-          "english": "pleasant, happy"
+          "english": "pleasant, happy |(vi) vui vẻ, sảng khoái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroyo(i)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "不快な（ふかいな）",
         "meaning": {
-          "english": "unpleasant"
+          "english": "unpleasant |(vi) khó chịu, không dễ chịu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroyo(i)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "軽快な（けいかいな）",
         "meaning": {
-          "english": "light, nimble, jaunty"
+          "english": "light, nimble, jaunty |(vi) nhẹ nhàng, nhanh nhẹn, hoạt bát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroyo(i)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "全快する（ぜんかいする）",
         "meaning": {
-          "english": "recover completely (illness)"
+          "english": "recover completely (illness) |(vi) hồi phục hoàn toàn (bệnh tật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroyo(i)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "快い（こころよい）",
         "meaning": {
-          "english": "pleasant, agreeable"
+          "english": "pleasant, agreeable |(vi) dễ chịu, vừa lòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroyo(i)_06_l.opus",
@@ -249,7 +249,7 @@
     "kanji": {
       "character": "快",
       "meaning": {
-        "english": "pleasant"
+        "english": "pleasant |(vi) dễ chịu, thoải mái"
       },
       "strokes": {
         "count": 7,
@@ -301,7 +301,7 @@
         "romaji": "risshinben"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (trái tim, tâm trí)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/risshinben0.svg",
@@ -322,7 +322,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1074",
     "strokeCount": 7,
-    "meaning": "cheerful, pleasant, agreeable, comfortable",
+    "meaning": "cheerful, pleasant, agreeable, comfortable |(vi) vui vẻ, dễ chịu, vừa lòng, thoải mái |(hv) Khoái",
     "kunyomi": [
       "こころよ.い"
     ],
@@ -333,29 +333,29 @@
       {
         "example": "快",
         "reading": "カイ",
-        "meaning": "pleasure, delight, enjoyment"
+        "meaning": "pleasure, delight, enjoyment |(vi) khoái lạc, niềm vui, sự thích thú"
       },
       {
         "example": "快感",
         "reading": "カイカン",
-        "meaning": "pleasant feeling, pleasant sensation, pleasure"
+        "meaning": "pleasant feeling, pleasant sensation, pleasure |(vi) cảm giác dễ chịu, khoái cảm"
       },
       {
         "example": "豪快",
         "reading": "ゴウカイ",
-        "meaning": "hearty, tremendous, magnificent, glorious, splendid, heroic, stirring"
+        "meaning": "hearty, tremendous, magnificent, glorious, splendid, heroic, stirring |(vi) hào sảng, hùng tráng, tráng lệ, hào hùng, kích động lòng người"
       },
       {
         "example": "明快",
         "reading": "メイカイ",
-        "meaning": "clear, clear-cut, lucid, unequivocal, explicit"
+        "meaning": "clear, clear-cut, lucid, unequivocal, explicit |(vi) rõ ràng, mạch lạc, dứt khoát, minh bạch"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "快い",
         "reading": "こころよい",
-        "meaning": "pleasant, agreeable, comfortable, refreshing"
+        "meaning": "pleasant, agreeable, comfortable, refreshing |(vi) dễ chịu, vừa lòng, thoải mái, sảng khoái"
       }
     ],
     "radical": {
@@ -364,7 +364,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim)"
     },
     "parts": [
       "ユ",

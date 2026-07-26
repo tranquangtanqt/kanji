@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "na",
-    "meaning": "vegetable, greens",
+    "meaning": "vegetable, greens |(vi) rau, rau xanh",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "菜園（さいえん）",
         "meaning": {
-          "english": "vegetable garden"
+          "english": "vegetable garden |(vi) vườn rau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)sai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "菜食主義（さいしょくしゅぎ）",
         "meaning": {
-          "english": "vegetarianism"
+          "english": "vegetarianism |(vi) chủ nghĩa ăn chay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)sai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "野菜（やさい）",
         "meaning": {
-          "english": "vegetable"
+          "english": "vegetable |(vi) rau (nói chung)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)sai_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "白菜（はくさい）",
         "meaning": {
-          "english": "Chinese cabbage"
+          "english": "Chinese cabbage |(vi) cải thảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)sai_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "山菜（さんさい）",
         "meaning": {
-          "english": "edible wild plants"
+          "english": "edible wild plants |(vi) rau dại, rau rừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)sai_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "前菜（ぜんさい）",
         "meaning": {
-          "english": "relishes, hors d'oeuvres"
+          "english": "relishes, hors d'oeuvres |(vi) món khai vị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)sai_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "惣菜（そうざい）",
         "meaning": {
-          "english": "everyday household dish"
+          "english": "everyday household dish |(vi) món ăn phụ hàng ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)sai_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "菜の花（なのはな）",
         "meaning": {
-          "english": "rape blossoms"
+          "english": "rape blossoms |(vi) hoa cải dầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)sai_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "菜っ葉（なっぱ）",
         "meaning": {
-          "english": "rape leaves, greens"
+          "english": "rape leaves, greens |(vi) lá cải, rau xanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)sai_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "青菜（あおな）",
         "meaning": {
-          "english": "greens"
+          "english": "greens |(vi) rau xanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)sai_06_j.opus",
@@ -232,7 +232,7 @@
     "kanji": {
       "character": "菜",
       "meaning": {
-        "english": "vegetable, greens"
+        "english": "vegetable, greens |(vi) rau, rau xanh"
       },
       "strokes": {
         "count": 11,
@@ -292,7 +292,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -313,7 +313,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1327",
     "strokeCount": 11,
-    "meaning": "vegetable, side dish, greens",
+    "meaning": "vegetable, side dish, greens |(vi) rau, món ăn kèm, rau xanh |(hv) Thái",
     "kunyomi": [
       "な"
     ],
@@ -324,44 +324,44 @@
       {
         "example": "菜",
         "reading": "サイ",
-        "meaning": "side dish"
+        "meaning": "side dish |(vi) món ăn kèm, món phụ"
       },
       {
         "example": "菜園",
         "reading": "サイエン",
-        "meaning": "vegetable garden"
+        "meaning": "vegetable garden |(vi) vườn rau"
       },
       {
         "example": "山菜",
         "reading": "サンサイ",
-        "meaning": "edible wild plants"
+        "meaning": "edible wild plants |(vi) rau rừng, rau dại"
       },
       {
         "example": "前菜",
         "reading": "ゼンサイ",
-        "meaning": "hors d'oeuvre, appetizer, appetiser, starter"
+        "meaning": "hors d'oeuvre, appetizer, appetiser, starter |(vi) món khai vị"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "菜",
         "reading": "な",
-        "meaning": "greens, vegetables, rape (Brassica napus), rapeseed"
+        "meaning": "greens, vegetables, rape (Brassica napus), rapeseed |(vi) rau xanh, rau cải, cải dầu (Brassica napus)"
       },
       {
         "example": "菜種",
         "reading": "なたね",
-        "meaning": "rapeseed, coleseed"
+        "meaning": "rapeseed, coleseed |(vi) hạt cải dầu"
       },
       {
         "example": "若菜",
         "reading": "わかな",
-        "meaning": "young greens, young herbs"
+        "meaning": "young greens, young herbs |(vi) rau non"
       },
       {
         "example": "うまい菜",
         "reading": "うまいな",
-        "meaning": "Swiss chard"
+        "meaning": "Swiss chard |(vi) cải cầu vồng (Swiss chard)"
       }
     ],
     "radical": {
@@ -369,7 +369,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "木",

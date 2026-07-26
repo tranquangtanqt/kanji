@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "test",
+    "meaning": "test |(vi) thi, thử nghiệm",
     "kstroke": 18,
     "examples": [
       {
         "japanese": "試験する（しけんする）",
         "meaning": {
-          "english": "examine"
+          "english": "examine |(vi) kiểm tra, thi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)ken(kan)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "経験する（けいけんする）",
         "meaning": {
-          "english": "experience [v.t.]"
+          "english": "experience [v.t.] |(vi) trải nghiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)ken(kan)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "実験する（じっけんする）",
         "meaning": {
-          "english": "experiment [v.t.]"
+          "english": "experiment [v.t.] |(vi) thí nghiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)ken(kan)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "受験する（じゅけんする）",
         "meaning": {
-          "english": "take an examination"
+          "english": "take an examination |(vi) dự thi, thi tuyển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)ken(kan)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "体験する（たいけんする）",
         "meaning": {
-          "english": "experience [v.t.]"
+          "english": "experience [v.t.] |(vi) trải nghiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)ken(kan)_06_e.opus",
@@ -216,7 +216,7 @@
     "kanji": {
       "character": "験",
       "meaning": {
-        "english": "test"
+        "english": "test |(vi) thi, thử nghiệm"
       },
       "strokes": {
         "count": 18,
@@ -290,7 +290,7 @@
         "romaji": "umahen"
       },
       "meaning": {
-        "english": "horse"
+        "english": "horse |(vi) Mã (ngựa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/umahen0.svg",
@@ -311,7 +311,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "410",
     "strokeCount": 18,
-    "meaning": "verification, effect, testing",
+    "meaning": "verification, effect, testing |(vi) sự xác minh, hiệu quả, thử nghiệm |(hv) Nghiệm",
     "kunyomi": [
       "あかし",
       "しるし",
@@ -326,64 +326,64 @@
       {
         "example": "験",
         "reading": "ゲン",
-        "meaning": "effect, efficacy, omen"
+        "meaning": "effect, efficacy, omen |(vi) hiệu quả, hiệu nghiệm, điềm báo"
       },
       {
         "example": "験者",
         "reading": "ケンザ",
-        "meaning": "mountaineering ascetic, practitioner of mountain asceticism"
+        "meaning": "mountaineering ascetic, practitioner of mountain asceticism |(vi) người tu khổ hạnh trên núi, hành giả tu núi"
       },
       {
         "example": "治験",
         "reading": "チケン",
-        "meaning": "clinical trial"
+        "meaning": "clinical trial |(vi) thử nghiệm lâm sàng"
       },
       {
         "example": "筆記試験",
         "reading": "ヒッキシケン",
-        "meaning": "written examination"
+        "meaning": "written examination |(vi) bài thi viết"
       },
       {
         "example": "験",
         "reading": "ゲン",
-        "meaning": "effect, efficacy, omen"
+        "meaning": "effect, efficacy, omen |(vi) hiệu quả, hiệu nghiệm, điềm báo"
       },
       {
         "example": "ゲン担ぎ",
         "reading": "ゲンカツギ",
-        "meaning": "superstition, acting superstitiously (for good luck)"
+        "meaning": "superstition, acting superstitiously (for good luck) |(vi) sự mê tín, làm theo điềm may rủi"
       },
       {
         "example": "霊験",
         "reading": "レイゲン",
-        "meaning": "miraculous efficacy, miracle, miraculous virtue"
+        "meaning": "miraculous efficacy, miracle, miraculous virtue |(vi) linh nghiệm, phép màu, đức hạnh thần kỳ"
       },
       {
         "example": "効験",
         "reading": "コウケン",
-        "meaning": "efficacy, effect"
+        "meaning": "efficacy, effect |(vi) hiệu nghiệm, hiệu quả"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "徴",
         "reading": "しるし",
-        "meaning": "sign, indication, omen"
+        "meaning": "sign, indication, omen |(vi) dấu hiệu, điềm báo"
       },
       {
         "example": "試す",
         "reading": "ためす",
-        "meaning": "to try (out), to have a try (at), to test, to put to the test"
+        "meaning": "to try (out), to have a try (at), to test, to put to the test |(vi) thử, thử làm, kiểm tra, đưa vào thử nghiệm"
       },
       {
         "example": "試し",
         "reading": "ためし",
-        "meaning": "trial, test"
+        "meaning": "trial, test |(vi) sự thử nghiệm, phép thử"
       }
     ],
     "radical": {
       "symbol": "馬",
-      "meaning": "horse"
+      "meaning": "horse |(vi) Mã (ngựa)"
     },
     "parts": [
       "个",

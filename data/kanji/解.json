@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "to, toku, takasu, tokeru",
-    "meaning": "take apart, dissolve, clarify, untie",
+    "meaning": "take apart, dissolve, clarify, untie |(vi) tháo rời, hòa tan, làm rõ, cởi ra",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "解決する（かいけつする）",
         "meaning": {
-          "english": "settle, solve"
+          "english": "settle, solve |(vi) giải quyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-to(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "解散する（かいさんする）",
         "meaning": {
-          "english": "break up"
+          "english": "break up |(vi) giải tán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-to(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "理解する（りかいする）",
         "meaning": {
-          "english": "understand"
+          "english": "understand |(vi) hiểu, lý giải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-to(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "誤解する（ごかいする）",
         "meaning": {
-          "english": "misunderstand"
+          "english": "misunderstand |(vi) hiểu lầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-to(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "分解する（ぶんかいする）",
         "meaning": {
-          "english": "disassemble"
+          "english": "disassemble |(vi) phân giải, tháo rời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-to(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "弁解する（べんかいする）",
         "meaning": {
-          "english": "justify"
+          "english": "justify |(vi) biện giải, biện minh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-to(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "和解する（わかいする）",
         "meaning": {
-          "english": "reconcile"
+          "english": "reconcile |(vi) hòa giải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-to(ku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "了解する（りょうかいする）",
         "meaning": {
-          "english": "give consent"
+          "english": "give consent |(vi) chấp thuận, đồng ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-to(ku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "解熱剤（げねつざい）",
         "meaning": {
-          "english": "medicine for a fever"
+          "english": "medicine for a fever |(vi) thuốc hạ sốt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-to(ku)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "解く（とく）",
         "meaning": {
-          "english": "solve [v.t.]"
+          "english": "solve [v.t.] |(vi) giải (ngoại động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-to(ku)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "解かす（とかす）",
         "meaning": {
-          "english": "melt [v.t.]"
+          "english": "melt [v.t.] |(vi) làm tan chảy (ngoại động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-to(ku)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "解ける（とける）",
         "meaning": {
-          "english": "melt, loosen [v.i.]"
+          "english": "melt, loosen [v.i.] |(vi) tan chảy, nới lỏng (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-to(ku)_06_l.opus",
@@ -281,7 +281,7 @@
     "kanji": {
       "character": "解",
       "meaning": {
-        "english": "take apart, dissolve, clarify, untie"
+        "english": "take apart, dissolve, clarify, untie |(vi) tháo rời, hòa tan, làm rõ, cởi ra"
       },
       "strokes": {
         "count": 13,
@@ -345,7 +345,7 @@
         "romaji": "tsunohen"
       },
       "meaning": {
-        "english": "horn, corner"
+        "english": "horn, corner |(vi) Giác (sừng, góc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsunohen0.svg",
@@ -366,7 +366,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "176",
     "strokeCount": 13,
-    "meaning": "unravel, notes, key, explanation, understanding, untie, undo, solve, answer, cancel, absolve, explain, minute",
+    "meaning": "unravel, notes, key, explanation, understanding, untie, undo, solve, answer, cancel, absolve, explain, minute |(vi) tháo gỡ, chú giải, chìa khóa, giải thích, hiểu, cởi ra, tháo ra, giải, đáp, hủy bỏ, xá tội, giải thích, phút |(hv) Giải",
     "kunyomi": [
       "と.く",
       "と.かす",
@@ -384,89 +384,89 @@
       {
         "example": "解",
         "reading": "カイ",
-        "meaning": "solution (of an equation, inequality, etc.), root (e.g. of a polynomial), solution (to a given problem), answer, explanation, interpretation"
+        "meaning": "solution (of an equation, inequality, etc.), root (e.g. of a polynomial), solution (to a given problem), answer, explanation, interpretation |(vi) nghiệm (của phương trình, bất phương trình), lời giải, đáp án, cách diễn giải"
       },
       {
         "example": "解禁",
         "reading": "カイキン",
-        "meaning": "lifting a ban, raising an embargo, opening a season (hunting, fishing, etc.), publishing contents, revealing information"
+        "meaning": "lifting a ban, raising an embargo, opening a season (hunting, fishing, etc.), publishing contents, revealing information |(vi) dỡ bỏ lệnh cấm, mở mùa (săn bắn, câu cá...), công bố nội dung, tiết lộ thông tin"
       },
       {
         "example": "瓦解",
         "reading": "ガカイ",
-        "meaning": "collapse, downfall"
+        "meaning": "collapse, downfall |(vi) sụp đổ, suy tàn"
       },
       {
         "example": "明解",
         "reading": "メイカイ",
-        "meaning": "clear explanation"
+        "meaning": "clear explanation |(vi) giải thích rõ ràng, minh giải"
       },
       {
         "example": "解熱",
         "reading": "ゲネツ",
-        "meaning": "lowering a fever, alleviation of fever"
+        "meaning": "lowering a fever, alleviation of fever |(vi) hạ sốt, giảm sốt"
       },
       {
         "example": "解脱",
         "reading": "ゲダツ",
-        "meaning": "liberation from earthly desires and the woes of man, deliverance of one's soul, moksha, mukti, vimukti"
+        "meaning": "liberation from earthly desires and the woes of man, deliverance of one's soul, moksha, mukti, vimukti |(vi) giải thoát khỏi dục vọng trần tục, giải thoát (Phật giáo)"
       },
       {
         "example": "雪解",
         "reading": "ユキゲ",
-        "meaning": "snow melting, water from melting snow"
+        "meaning": "snow melting, water from melting snow |(vi) tuyết tan, nước tuyết tan"
       },
       {
         "example": "義解",
         "reading": "ギゲ",
-        "meaning": "explanation (of the meaning), interpretation"
+        "meaning": "explanation (of the meaning), interpretation |(vi) giải nghĩa, chú giải"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "解く",
         "reading": "とく",
-        "meaning": "to untie, to unfasten, to unwrap, to undo, to unbind, to unpack, to unsew, to unstitch, to solve, to work out, to answer, to dispel (misunderstanding, etc.), to clear up, to remove (suspicion), to appease, to dissolve (a contract), to cancel, to remove (a prohibition), to lift (a ban), to raise (a siege), to release (from duty), to relieve, to dismiss, to comb (out), to card, to untangle (hair)"
+        "meaning": "to untie, to unfasten, to unwrap, to undo, to unbind, to unpack, to unsew, to unstitch, to solve, to work out, to answer, to dispel (misunderstanding, etc.), to clear up, to remove (suspicion), to appease, to dissolve (a contract), to cancel, to remove (a prohibition), to lift (a ban), to raise (a siege), to release (from duty), to relieve, to dismiss, to comb (out), to card, to untangle (hair) |(vi) cởi, tháo, mở ra, gỡ, giải quyết, giải đáp, xóa bỏ (hiểu lầm), làm rõ, xóa nghi ngờ, hủy (hợp đồng), hủy bỏ, gỡ bỏ (lệnh cấm), giải vây, miễn nhiệm, chải (tóc)"
       },
       {
         "example": "溶かす",
         "reading": "とかす",
-        "meaning": "to dissolve, to melt"
+        "meaning": "to dissolve, to melt |(vi) hòa tan, làm tan chảy"
       },
       {
         "example": "梳かす",
         "reading": "とかす",
-        "meaning": "to comb out, to brush, to untangle, to unravel"
+        "meaning": "to comb out, to brush, to untangle, to unravel |(vi) chải, gỡ rối tóc"
       },
       {
         "example": "解ける",
         "reading": "とける",
-        "meaning": "to be solved, to be resolved, to loosen, to come untied, to come undone, to be removed (of restrictions), to be lifted (e.g. a ban), to be broken (spells, curses, etc.), to dissipate (of anger, tension, etc.), to melt away, to ease, to be appeased, to be resolved (of a dispute, misunderstanding, etc.), to be cleared up"
+        "meaning": "to be solved, to be resolved, to loosen, to come untied, to come undone, to be removed (of restrictions), to be lifted (e.g. a ban), to be broken (spells, curses, etc.), to dissipate (of anger, tension, etc.), to melt away, to ease, to be appeased, to be resolved (of a dispute, misunderstanding, etc.), to be cleared up |(vi) được giải quyết, được tháo gỡ, lỏng ra, được cởi ra, được dỡ bỏ (hạn chế), được xóa (lời nguyền), tan biến (giận dữ, căng thẳng), được xoa dịu, được giải quyết (tranh chấp, hiểu lầm)"
       },
       {
         "example": "溶ける",
         "reading": "とける",
-        "meaning": "to melt, to thaw, to fuse, to dissolve"
+        "meaning": "to melt, to thaw, to fuse, to dissolve |(vi) tan chảy, hòa tan"
       },
       {
         "example": "解く",
         "reading": "ほどく",
-        "meaning": "to undo, to untie, to unfasten, to unlace, to unravel, to loosen, to unpack"
+        "meaning": "to undo, to untie, to unfasten, to unlace, to unravel, to loosen, to unpack |(vi) cởi, tháo, mở, nới lỏng, gỡ"
       },
       {
         "example": "解す",
         "reading": "ほぐす",
-        "meaning": "to disentangle, to untangle, to unravel, to loosen, to break up into pieces, to pick apart, to flake (a fish), to relieve, to ease, to relax"
+        "meaning": "to disentangle, to untangle, to unravel, to loosen, to break up into pieces, to pick apart, to flake (a fish), to relieve, to ease, to relax |(vi) gỡ rối, làm tơi ra, tách rời, xé nhỏ (cá), xoa dịu, thư giãn"
       },
       {
         "example": "分かる",
         "reading": "わかる",
-        "meaning": "to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out, I know!, I think so too!"
+        "meaning": "to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out, I know!, I think so too! |(vi) hiểu, nắm được, hiểu ra, biết, phát hiện ra, à tôi biết rồi!, tôi cũng nghĩ vậy!"
       }
     ],
     "radical": {
       "symbol": "角",
-      "meaning": "horn"
+      "meaning": "horn |(vi) Giác (sừng, góc)"
     },
     "parts": [
       "刀",

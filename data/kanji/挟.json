@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "hasa, hasamu, hasamaru",
-    "meaning": "hold between, interpose",
+    "meaning": "hold between, interpose |(vi) kẹp giữa, chen vào",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "挟撃（きょうげき）",
         "meaning": {
-          "english": "pincer movement"
+          "english": "pincer movement |(vi) đòn tấn công gọng kìm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hasa(maru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "挟む（はさむ）",
         "meaning": {
-          "english": "interpose, insert, pinch [v.t.]"
+          "english": "interpose, insert, pinch [v.t.] |(vi) chen vào, kẹp, cài vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hasa(maru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "挟み撃ち（はさみうち）",
         "meaning": {
-          "english": "pincer attack"
+          "english": "pincer attack |(vi) cuộc tấn công gọng kìm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hasa(maru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "挟まる（はさまる）",
         "meaning": {
-          "english": "get between, be caught in [v.i.]"
+          "english": "get between, be caught in [v.i.] |(vi) bị kẹt giữa, mắc kẹt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hasa(maru)_06_d.opus",
@@ -140,7 +140,7 @@
     "kanji": {
       "character": "挟",
       "meaning": {
-        "english": "hold between, interpose"
+        "english": "hold between, interpose |(vi) kẹp giữa, chen vào"
       },
       "strokes": {
         "count": 9,
@@ -196,7 +196,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (bàn tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -217,7 +217,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1870",
     "strokeCount": 9,
-    "meaning": "pinch, between",
+    "meaning": "pinch, between |(vi) kẹp, xen giữa |(hv) Giáp",
     "kunyomi": [
       "はさ.む",
       "はさ.まる",
@@ -232,29 +232,29 @@
       {
         "example": "挟殺",
         "reading": "キョウサツ",
-        "meaning": "rundown"
+        "meaning": "rundown |(vi) bị kẹp chết (thuật ngữ bóng chày)"
       },
       {
         "example": "挟瞼器",
         "reading": "キョウケンキ",
-        "meaning": "entropion forceps"
+        "meaning": "entropion forceps |(vi) kẹp mí mắt (dụng cụ y tế)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "挟む",
         "reading": "はさむ",
-        "meaning": "to hold between (e.g. one's fingers, chopsticks), to grip (from both sides), to put between, to sandwich between, to insert, to interpose, to catch (e.g. a finger in a door), to trap, to pinch, to insert (e.g. a break into proceedings), to interpose (e.g. an objection), to interject, to throw in (e.g. a joke), to be on either side of (a road, table, etc.), to have between each other, to be across (a street, river, etc.), to harbour (feelings), to cast (e.g. doubt)"
+        "meaning": "to hold between (e.g. one's fingers, chopsticks), to grip (from both sides), to put between, to sandwich between, to insert, to interpose, to catch (e.g. a finger in a door), to trap, to pinch, to insert (e.g. a break into proceedings), to interpose (e.g. an objection), to interject, to throw in (e.g. a joke), to be on either side of (a road, table, etc.), to have between each other, to be across (a street, river, etc.), to harbour (feelings), to cast (e.g. doubt) |(vi) kẹp giữa (ví dụ ngón tay, đũa), giữ chặt từ hai phía, đặt giữa, xen vào, cài vào, kẹp phải (ví dụ ngón tay vào cửa), bị mắc kẹt, chen vào (ví dụ ngắt lời), nằm giữa hai bên (đường, bàn...), mang trong lòng (cảm xúc), gieo (nghi ngờ)"
       },
       {
         "example": "挟まる",
         "reading": "はさまる",
-        "meaning": "to get between, to be caught in"
+        "meaning": "to get between, to be caught in |(vi) bị kẹt giữa, mắc kẹt"
       },
       {
         "example": "差し挟む",
         "reading": "さしはさむ",
-        "meaning": "to insert, to interrupt, to slip in a word, to harbor (e.g. doubts), to harbour, to entertain (e.g. a theory)"
+        "meaning": "to insert, to interrupt, to slip in a word, to harbor (e.g. doubts), to harbour, to entertain (e.g. a theory) |(vi) chen vào, ngắt lời, xen lời, mang trong lòng (nghi ngờ, ý kiến)"
       }
     ],
     "radical": {
@@ -262,7 +262,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (bàn tay)"
     },
     "parts": [
       "丶",

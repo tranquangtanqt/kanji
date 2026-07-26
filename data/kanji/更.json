@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "sara, fu, sarani, fukeru, fukasu",
-    "meaning": "renew, again, further, furthermore",
+    "meaning": "renew, again, further, furthermore |(vi) đổi mới, lại, hơn nữa, thêm nữa",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "更衣室（こういしつ）",
         "meaning": {
-          "english": "locker room, changing room"
+          "english": "locker room, changing room |(vi) phòng thay đồ, phòng thay quần áo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-sara(ni)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "更生する（こうせいする）",
         "meaning": {
-          "english": "rehabilitate, regenerate"
+          "english": "rehabilitate, regenerate |(vi) phục hồi, tái sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-sara(ni)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "更新する（こうしんする）",
         "meaning": {
-          "english": "renew, update"
+          "english": "renew, update |(vi) đổi mới, cập nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-sara(ni)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "変更する（へんこうする）",
         "meaning": {
-          "english": "change, modify, alter"
+          "english": "change, modify, alter |(vi) thay đổi, sửa đổi, biến đổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-sara(ni)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "更に（さらに）",
         "meaning": {
-          "english": "furthermore, again, more"
+          "english": "furthermore, again, more |(vi) hơn nữa, lại, nhiều hơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-sara(ni)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "尚更（なおさら）",
         "meaning": {
-          "english": "all the more, still less"
+          "english": "all the more, still less |(vi) càng thêm, càng không"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-sara(ni)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "今更（いまさら）",
         "meaning": {
-          "english": "at this late time"
+          "english": "at this late time |(vi) vào lúc muộn màng này"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-sara(ni)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "更かす（ふかす）",
         "meaning": {
-          "english": "stay up late [v.t.]"
+          "english": "stay up late [v.t.] |(vi) thức khuya"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-sara(ni)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "夜更かし（よふかし）",
         "meaning": {
-          "english": "staying up late"
+          "english": "staying up late |(vi) việc thức khuya"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-sara(ni)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "更ける（ふける）",
         "meaning": {
-          "english": "get late (time, season) [v.i.]"
+          "english": "get late (time, season) [v.i.] |(vi) trở nên khuya (thời gian, mùa)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-sara(ni)_06_j.opus",
@@ -231,7 +231,7 @@
     "kanji": {
       "character": "更",
       "meaning": {
-        "english": "renew, again, further, furthermore"
+        "english": "renew, again, further, furthermore |(vi) đổi mới, lại, hơn nữa, thêm nữa"
       },
       "strokes": {
         "count": 7,
@@ -283,7 +283,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày, thời gian)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi0.svg",
@@ -304,7 +304,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "861",
     "strokeCount": 7,
-    "meaning": "grow late, night watch, sit up late, of course, renew, renovate, again, more and more, further",
+    "meaning": "grow late, night watch, sit up late, of course, renew, renovate, again, more and more, further |(vi) về khuya, canh đêm, thức khuya, dĩ nhiên, đổi mới, canh tân, lại, càng thêm, hơn nữa |(hv) Canh, Cánh",
     "kunyomi": [
       "さら",
       "さら.に",
@@ -318,69 +318,69 @@
       {
         "example": "更",
         "reading": "コウ",
-        "meaning": "one-fifth of the night (approx. 2 hours)"
+        "meaning": "one-fifth of the night (approx. 2 hours) |(vi) một phần năm của đêm (khoảng 2 tiếng)"
       },
       {
         "example": "更改",
         "reading": "コウカイ",
-        "meaning": "renewal, extension, revision"
+        "meaning": "renewal, extension, revision |(vi) gia hạn, đổi mới, sửa đổi"
       },
       {
         "example": "中更",
         "reading": "チュウコウ",
-        "meaning": "middle watch, 12 midnight-2am"
+        "meaning": "middle watch, 12 midnight-2am |(vi) canh giữa, từ 12 giờ đêm đến 2 giờ sáng"
       },
       {
         "example": "五更",
         "reading": "ゴコウ",
-        "meaning": "the five night watches, fifth watch of the night (approx. 3am to 5am)"
+        "meaning": "the five night watches, fifth watch of the night (approx. 3am to 5am) |(vi) năm canh đêm, canh năm (khoảng 3 giờ đến 5 giờ sáng)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "新",
         "reading": "さら",
-        "meaning": "new, unused, new, obvious, natural"
+        "meaning": "new, unused, new, obvious, natural |(vi) mới, chưa dùng, mới mẻ, hiển nhiên, tự nhiên"
       },
       {
         "example": "更に",
         "reading": "さらに",
-        "meaning": "furthermore, again, after all, more and more, moreover, even more"
+        "meaning": "furthermore, again, after all, more and more, moreover, even more |(vi) hơn nữa, lại, rốt cuộc, càng ngày càng, hơn nữa, thậm chí hơn nữa"
       },
       {
         "example": "真っさら",
         "reading": "まっさら",
-        "meaning": "brand new, fresh"
+        "meaning": "brand new, fresh |(vi) hoàn toàn mới, mới tinh"
       },
       {
         "example": "殊更",
         "reading": "ことさら",
-        "meaning": "intentionally, deliberately, designedly, on purpose, especially, particularly"
+        "meaning": "intentionally, deliberately, designedly, on purpose, especially, particularly |(vi) cố ý, có chủ đích, có tính toán trước, đặc biệt, riêng biệt"
       },
       {
         "example": "更に",
         "reading": "さらに",
-        "meaning": "furthermore, again, after all, more and more, moreover, even more"
+        "meaning": "furthermore, again, after all, more and more, moreover, even more |(vi) hơn nữa, lại, rốt cuộc, càng ngày càng, hơn nữa, thậm chí hơn nữa"
       },
       {
         "example": "さらに困ったことに",
         "reading": "さらにこまったことに",
-        "meaning": "to make matters worse"
+        "meaning": "to make matters worse |(vi) để làm mọi việc tệ hơn"
       },
       {
         "example": "更ける",
         "reading": "ふける",
-        "meaning": "to get late, to advance, to wear on"
+        "meaning": "to get late, to advance, to wear on |(vi) trở nên khuya, tiến triển, trôi qua"
       },
       {
         "example": "更かす",
         "reading": "ふかす",
-        "meaning": "to sit up late"
+        "meaning": "to sit up late |(vi) thức khuya"
       }
     ],
     "radical": {
       "symbol": "曰",
-      "meaning": "say"
+      "meaning": "say |(vi) Viết (nói, rằng)"
     },
     "parts": [
       "ノ",

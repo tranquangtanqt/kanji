@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "yasu, yasui, yasumaru, yasuraka",
-    "meaning": "peaceful, inexpensive",
+    "meaning": "peaceful, inexpensive |(vi) yên bình, rẻ",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "安定する（あんていする）",
         "meaning": {
-          "english": "become stable"
+          "english": "become stable |(vi) trở nên ổn định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yasu(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "安心する（あんしんする）",
         "meaning": {
-          "english": "be relieved"
+          "english": "be relieved |(vi) yên tâm, an tâm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yasu(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "不安な（ふあんな）",
         "meaning": {
-          "english": "anxious"
+          "english": "anxious |(vi) lo lắng, bất an"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yasu(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "安全な（あんぜんな）",
         "meaning": {
-          "english": "safe"
+          "english": "safe |(vi) an toàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yasu(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "治安（ちあん）",
         "meaning": {
-          "english": "public peace and order"
+          "english": "public peace and order |(vi) an ninh trật tự công cộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yasu(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "安い（やすい）",
         "meaning": {
-          "english": "cheap"
+          "english": "cheap |(vi) rẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yasu(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "安らぎ（やすらぎ）",
         "meaning": {
-          "english": "peace"
+          "english": "peace |(vi) sự bình yên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yasu(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "安らか（やすらか）",
         "meaning": {
-          "english": "restful"
+          "english": "restful |(vi) thanh thản, yên bình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yasu(i)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "安まる（やすまる）",
         "meaning": {
-          "english": "feel rested"
+          "english": "feel rested |(vi) cảm thấy được nghỉ ngơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yasu(i)_06_i.opus",
@@ -264,7 +264,7 @@
     "kanji": {
       "character": "安",
       "meaning": {
-        "english": "peaceful, inexpensive"
+        "english": "peaceful, inexpensive |(vi) yên bình, rẻ"
       },
       "strokes": {
         "count": 6,
@@ -314,7 +314,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -335,7 +335,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "144",
     "strokeCount": 6,
-    "meaning": "relax, cheap, low, quiet, rested, contented, peaceful",
+    "meaning": "relax, cheap, low, quiet, rested, contented, peaceful |(vi) thư giãn, rẻ, thấp, yên tĩnh, nghỉ ngơi, mãn nguyện, yên bình |(hv) An",
     "kunyomi": [
       "やす.い",
       "やす.まる",
@@ -349,69 +349,69 @@
       {
         "example": "安価",
         "reading": "アンカ",
-        "meaning": "low-priced, cheap, inexpensive, shallow (e.g. sympathy), superficial, cheap (e.g. government), link back to discussion group, bulletin board, etc. posting"
+        "meaning": "low-priced, cheap, inexpensive, shallow (e.g. sympathy), superficial, cheap (e.g. government), link back to discussion group, bulletin board, etc. posting |(vi) giá rẻ, rẻ tiền, hời hợt (vd sự cảm thông), rẻ (vd chính phủ), liên kết ngược tới nhóm thảo luận, bảng tin..."
       },
       {
         "example": "安易",
         "reading": "アンイ",
-        "meaning": "easy, simple, easygoing, lighthearted, simplistic, irresponsible, careless, quick (to do)"
+        "meaning": "easy, simple, easygoing, lighthearted, simplistic, irresponsible, careless, quick (to do) |(vi) dễ dàng, đơn giản, dễ dãi, nhẹ nhàng, đơn giản hóa, vô trách nhiệm, cẩu thả, nhanh chóng (làm việc gì)"
       },
       {
         "example": "平安",
         "reading": "ヘイアン",
-        "meaning": "peace, tranquility, tranquillity, Heian period (794-1185)"
+        "meaning": "peace, tranquility, tranquillity, Heian period (794-1185) |(vi) hòa bình, yên tĩnh, thời kỳ Heian (794-1185)"
       },
       {
         "example": "慰安",
         "reading": "イアン",
-        "meaning": "solace, relaxation"
+        "meaning": "solace, relaxation |(vi) sự an ủi, sự thư giãn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "安い",
         "reading": "やすい",
-        "meaning": "cheap, inexpensive, calm, peaceful, quiet"
+        "meaning": "cheap, inexpensive, calm, peaceful, quiet |(vi) rẻ, yên tĩnh, bình yên"
       },
       {
         "example": "休まる",
         "reading": "やすまる",
-        "meaning": "to be rested, to feel at ease, to repose, to be relieved"
+        "meaning": "to be rested, to feel at ease, to repose, to be relieved |(vi) được nghỉ ngơi, cảm thấy thoải mái, được yên tâm"
       },
       {
         "example": "安",
         "reading": "やす",
-        "meaning": "cheap, rash, thoughtless, careless, indiscreet, frivolous"
+        "meaning": "cheap, rash, thoughtless, careless, indiscreet, frivolous |(vi) rẻ, hấp tấp, thiếu suy nghĩ, bất cẩn, khinh suất, phù phiếm"
       },
       {
         "example": "安上がり",
         "reading": "やすあがり",
-        "meaning": "cheap, economical"
+        "meaning": "cheap, economical |(vi) rẻ, tiết kiệm"
       },
       {
         "example": "目安",
         "reading": "めやす",
-        "meaning": "criterion, standard, yardstick, reference, aim, rough estimate, approximation"
+        "meaning": "criterion, standard, yardstick, reference, aim, rough estimate, approximation |(vi) tiêu chuẩn, chuẩn mực, thước đo, tham chiếu, mục tiêu, ước tính sơ bộ"
       },
       {
         "example": "最安",
         "reading": "さいやす",
-        "meaning": "cheapest, least expensive, lowest-price"
+        "meaning": "cheapest, least expensive, lowest-price |(vi) rẻ nhất, giá thấp nhất"
       },
       {
         "example": "安らか",
         "reading": "やすらか",
-        "meaning": "peaceful, tranquil, calm, restful"
+        "meaning": "peaceful, tranquil, calm, restful |(vi) yên bình, thanh thản, êm đềm"
       },
       {
         "example": "安らかにお眠りください",
         "reading": "やすらかにおねむりください",
-        "meaning": "rest in peace, requiescat in pace, RIP"
+        "meaning": "rest in peace, requiescat in pace, RIP |(vi) an nghỉ, yên nghỉ (RIP)"
       }
     ],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà)"
     },
     "parts": [
       "女",

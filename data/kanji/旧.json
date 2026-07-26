@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "former, old",
+    "meaning": "former, old |(vi) cũ, trước đây",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "旧（きゅう）",
         "meaning": {
-          "english": "old, ex-"
+          "english": "old, ex- |(vi) cũ, nguyên (chức vụ cũ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(heina)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "旧姓（きゅうせい）",
         "meaning": {
-          "english": "maiden name"
+          "english": "maiden name |(vi) tên thời con gái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(heina)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "旧式（きゅうしき）",
         "meaning": {
-          "english": "old-fashioned"
+          "english": "old-fashioned |(vi) kiểu cũ, lỗi thời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(heina)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "旧制（きゅうせい）",
         "meaning": {
-          "english": "old system, old order"
+          "english": "old system, old order |(vi) hệ thống cũ, trật tự cũ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(heina)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "旧家（きゅうか）",
         "meaning": {
-          "english": "old family"
+          "english": "old family |(vi) gia tộc lâu đời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(heina)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "旧暦（きゅうれき）",
         "meaning": {
-          "english": "old lunar calendar"
+          "english": "old lunar calendar |(vi) âm lịch cũ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(heina)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "旧約聖書（きゅうやくせいしょ）",
         "meaning": {
-          "english": "Old Testament"
+          "english": "Old Testament |(vi) Cựu Ước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(heina)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "新旧（しんきゅう）",
         "meaning": {
-          "english": "new and old"
+          "english": "new and old |(vi) mới và cũ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(heina)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "旧弊な（きゅうへいな）",
         "meaning": {
-          "english": "old-fashioned, conservative"
+          "english": "old-fashioned, conservative |(vi) cổ hủ, bảo thủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(heina)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "復旧する（ふっきゅうする）",
         "meaning": {
-          "english": "restore, restitute, rehabilitate"
+          "english": "restore, restitute, rehabilitate |(vi) khôi phục, phục hồi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(heina)_06_j.opus",
@@ -212,7 +212,7 @@
     "kanji": {
       "character": "旧",
       "meaning": {
-        "english": "former, old"
+        "english": "former, old |(vi) cũ, trước đây"
       },
       "strokes": {
         "count": 5,
@@ -260,7 +260,7 @@
         "romaji": "hihen"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hihen0.svg",
@@ -281,7 +281,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "549",
     "strokeCount": 5,
-    "meaning": "old times, old things, old friend, former, ex-",
+    "meaning": "old times, old things, old friend, former, ex- |(vi) thời xưa, đồ cũ, bạn cũ, nguyên, cựu |(hv) Cựu",
     "kunyomi": [
       "ふる.い",
       "もと"
@@ -293,39 +293,39 @@
       {
         "example": "旧",
         "reading": "キュウ",
-        "meaning": "old, former, ex-, the old, old things, old customs, old times, bygone days, Japan's old (lunisolar) calendar"
+        "meaning": "old, former, ex-, the old, old things, old customs, old times, bygone days, Japan's old (lunisolar) calendar |(vi) cũ, trước đây, cựu, những thứ cũ, phong tục cũ, ngày xưa, thời đã qua, âm dương lịch cũ của Nhật Bản"
       },
       {
         "example": "旧式",
         "reading": "キュウシキ",
-        "meaning": "old type, old style"
+        "meaning": "old type, old style |(vi) kiểu cũ, dạng cũ"
       },
       {
         "example": "新旧",
         "reading": "シンキュウ",
-        "meaning": "new and old, incoming and outgoing"
+        "meaning": "new and old, incoming and outgoing |(vi) mới và cũ, đến và đi"
       },
       {
         "example": "懐旧",
         "reading": "カイキュウ",
-        "meaning": "reminiscence, nostalgia, thinking fondly of the past, recalling the old days"
+        "meaning": "reminiscence, nostalgia, thinking fondly of the past, recalling the old days |(vi) sự hoài niệm, nhớ nhung, hồi tưởng ngày xưa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "古い",
         "reading": "ふるい",
-        "meaning": "old, aged, ancient, antiquated, antique, timeworn, long, since long ago, time-honored, of the distant past, long-ago, stale, threadbare, hackneyed, corny, old-fashioned, outmoded, out-of-date"
+        "meaning": "old, aged, ancient, antiquated, antique, timeworn, long, since long ago, time-honored, of the distant past, long-ago, stale, threadbare, hackneyed, corny, old-fashioned, outmoded, out-of-date |(vi) cũ, già, cổ xưa, lỗi thời, cũ kỹ, lâu đời, từ lâu, có truyền thống lâu đời, xa xưa, đã lâu, sáo mòn, nhàm chán, cổ hủ, lạc hậu, quá thời"
       },
       {
         "example": "元",
         "reading": "もと",
-        "meaning": "former, ex-, past, one-time, earlier times, the past, previous state, formerly, previously, originally, before"
+        "meaning": "former, ex-, past, one-time, earlier times, the past, previous state, formerly, previously, originally, before |(vi) trước đây, cựu, nguyên, thời trước, quá khứ, trạng thái trước, trước kia, ban đầu, xưa kia"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "日",

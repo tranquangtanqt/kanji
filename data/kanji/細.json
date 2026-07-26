@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "hosoi, hosoru, komakai, hoso, koma",
-    "meaning": "slender, minute, narrow, fine, detailed",
+    "meaning": "slender, minute, narrow, fine, detailed |(vi) mảnh, nhỏ, hẹp, tinh vi, chi tiết",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "細胞（さいぼう）",
         "meaning": {
-          "english": "cell"
+          "english": "cell |(vi) tế bào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoso(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "細菌（さいきん）",
         "meaning": {
-          "english": "bacillus, bacterium, germ"
+          "english": "bacillus, bacterium, germ |(vi) vi khuẩn, vi trùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoso(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "細部（さいぶ）",
         "meaning": {
-          "english": "details"
+          "english": "details |(vi) chi tiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoso(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "毛細血管（もうさいけっかん）",
         "meaning": {
-          "english": "capillary vessel, capillary"
+          "english": "capillary vessel, capillary |(vi) mao mạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoso(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "詳細な（しょうさいな）",
         "meaning": {
-          "english": "details, particulars"
+          "english": "details, particulars |(vi) chi tiết, tường tận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoso(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "繊細な（せんさいな）",
         "meaning": {
-          "english": "fine, nice, delicate, subtle"
+          "english": "fine, nice, delicate, subtle |(vi) tinh tế, tinh vi, nhạy cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoso(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "細い（ほそい）",
         "meaning": {
-          "english": "thin, slender, fine"
+          "english": "thin, slender, fine |(vi) mảnh, gầy, nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoso(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "心細い（こころぼそい）",
         "meaning": {
-          "english": "helpless, forlorn, lonely"
+          "english": "helpless, forlorn, lonely |(vi) cô đơn, bất an, lẻ loi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoso(i)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "細かい（こまかい）",
         "meaning": {
-          "english": "small, fine, minute"
+          "english": "small, fine, minute |(vi) nhỏ, chi tiết, tỉ mỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoso(i)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "細々した（こまごました）",
         "meaning": {
-          "english": "sundry, miscellaneous"
+          "english": "sundry, miscellaneous |(vi) lặt vặt, linh tinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoso(i)_06_j.opus",
@@ -260,7 +260,7 @@
     "kanji": {
       "character": "細",
       "meaning": {
-        "english": "slender, minute, narrow, fine, detailed"
+        "english": "slender, minute, narrow, fine, detailed |(vi) mảnh, nhỏ, hẹp, tinh vi, chi tiết"
       },
       "strokes": {
         "count": 11,
@@ -320,7 +320,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi chỉ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -341,7 +341,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "537",
     "strokeCount": 11,
-    "meaning": "dainty, get thin, taper, slender, narrow, detailed, precise",
+    "meaning": "dainty, get thin, taper, slender, narrow, detailed, precise |(vi) thanh mảnh, gầy đi, thon nhỏ, mảnh, hẹp, chi tiết, chính xác |(hv) Tế",
     "kunyomi": [
       "ほそ.い",
       "ほそ.る",
@@ -355,59 +355,59 @@
       {
         "example": "細",
         "reading": "サイ",
-        "meaning": "detail, details"
+        "meaning": "detail, details |(vi) chi tiết"
       },
       {
         "example": "細菌",
         "reading": "サイキン",
-        "meaning": "bacterium, bacteria, germ"
+        "meaning": "bacterium, bacteria, germ |(vi) vi khuẩn, vi trùng"
       },
       {
         "example": "子細",
         "reading": "シサイ",
-        "meaning": "reasons, circumstances, details, particulars, significance, meaning, hindrance, inconvenience, objection"
+        "meaning": "reasons, circumstances, details, particulars, significance, meaning, hindrance, inconvenience, objection |(vi) lý do, hoàn cảnh, chi tiết cụ thể, ý nghĩa, trở ngại, bất tiện, phản đối"
       },
       {
         "example": "精細",
         "reading": "セイサイ",
-        "meaning": "fine, minute, detailed, meticulous, precise"
+        "meaning": "fine, minute, detailed, meticulous, precise |(vi) tinh vi, tỉ mỉ, chi tiết, chính xác"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "細い",
         "reading": "ほそい",
-        "meaning": "thin, slender, fine, unlucky"
+        "meaning": "thin, slender, fine, unlucky |(vi) mảnh, gầy, nhỏ, xui xẻo"
       },
       {
         "example": "細い糸",
         "reading": "ほそいいと",
-        "meaning": "fine thread"
+        "meaning": "fine thread |(vi) sợi chỉ mảnh"
       },
       {
         "example": "細る",
         "reading": "ほそる",
-        "meaning": "to get thin, to taper off"
+        "meaning": "to get thin, to taper off |(vi) gầy đi, thon nhỏ lại"
       },
       {
         "example": "細か",
         "reading": "こまか",
-        "meaning": "small, fine, detailed, stingy"
+        "meaning": "small, fine, detailed, stingy |(vi) nhỏ, chi tiết, tỉ mỉ, keo kiệt"
       },
       {
         "example": "細かい",
         "reading": "こまかい",
-        "meaning": "small, fine, minute, minor, trivial, sensitive, attentive, careful, frugal, stingy"
+        "meaning": "small, fine, minute, minor, trivial, sensitive, attentive, careful, frugal, stingy |(vi) nhỏ, chi tiết, vụn vặt, nhỏ nhặt, nhạy cảm, chu đáo, cẩn thận, tiết kiệm, keo kiệt"
       },
       {
         "example": "細かい",
         "reading": "こまかい",
-        "meaning": "small, fine, minute, minor, trivial, sensitive, attentive, careful, frugal, stingy"
+        "meaning": "small, fine, minute, minor, trivial, sensitive, attentive, careful, frugal, stingy |(vi) nhỏ, chi tiết, vụn vặt, nhỏ nhặt, nhạy cảm, chu đáo, cẩn thận, tiết kiệm, keo kiệt"
       },
       {
         "example": "細かいこと",
         "reading": "こまかいこと",
-        "meaning": "trifles, minor details"
+        "meaning": "trifles, minor details |(vi) chuyện vặt vãnh, chi tiết nhỏ nhặt"
       }
     ],
     "radical": {
@@ -415,7 +415,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi chỉ)"
     },
     "parts": [
       "小",

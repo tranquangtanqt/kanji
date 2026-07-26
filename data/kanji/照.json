@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "te, teru, terasu, tereru",
-    "meaning": "illuminate, shine",
+    "meaning": "illuminate, shine |(vi) chiếu sáng, soi sáng",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "照明（しょうめい）",
         "meaning": {
-          "english": "illumination, lighting"
+          "english": "illumination, lighting |(vi) chiếu sáng, ánh sáng, đèn chiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te(rasu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "残照（ざんしょう）",
         "meaning": {
-          "english": "afterglow"
+          "english": "afterglow |(vi) ánh chiều tà, dư quang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te(rasu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "日照権（にっしょうけん）",
         "meaning": {
-          "english": "the right to sunshine"
+          "english": "the right to sunshine |(vi) quyền hưởng ánh nắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te(rasu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "対照的な（たいしょうてきな）",
         "meaning": {
-          "english": "contrastive"
+          "english": "contrastive |(vi) tương phản, đối chiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te(rasu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "照合する（しょうごうする）",
         "meaning": {
-          "english": "collate, compare"
+          "english": "collate, compare |(vi) đối chiếu, so khớp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te(rasu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "照会する（しょうかいする）",
         "meaning": {
-          "english": "make inquiries"
+          "english": "make inquiries |(vi) hỏi thông tin, tra cứu, thẩm vấn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te(rasu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "参照する（さんしょうする）",
         "meaning": {
-          "english": "compare, consult, refer to"
+          "english": "compare, consult, refer to |(vi) tham chiếu, tham khảo, đối chiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te(rasu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "照る（てる）",
         "meaning": {
-          "english": "shine [v.i.]"
+          "english": "shine [v.i.] |(vi) chiếu sáng, tỏa sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te(rasu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "照らす（てらす）",
         "meaning": {
-          "english": "illuminate [v.t.]"
+          "english": "illuminate [v.t.] |(vi) chiếu sáng, soi rọi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te(rasu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "照れる（てれる）",
         "meaning": {
-          "english": "be shy, feel awkward"
+          "english": "be shy, feel awkward |(vi) ngượng ngùng, bẽn lẽn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te(rasu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "照れくさい（てれくさい）",
         "meaning": {
-          "english": "be embarrassed"
+          "english": "be embarrassed |(vi) ngượng ngùng, xấu hổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te(rasu)_06_k.opus",
@@ -237,7 +237,7 @@
     "kanji": {
       "character": "照",
       "meaning": {
-        "english": "illuminate, shine"
+        "english": "illuminate, shine |(vi) chiếu sáng, soi sáng"
       },
       "strokes": {
         "count": 13,
@@ -301,7 +301,7 @@
         "romaji": "rekka"
       },
       "meaning": {
-        "english": "fire"
+        "english": "fire |(vi) Hỏa (lửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rekka0.svg",
@@ -322,7 +322,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1004",
     "strokeCount": 13,
-    "meaning": "illuminate, shine, compare, bashful",
+    "meaning": "illuminate, shine, compare, bashful |(vi) chiếu sáng, soi sáng, đối chiếu, ngượng ngùng |(hv) Chiếu",
     "kunyomi": [
       "て.る",
       "て.らす",
@@ -335,49 +335,49 @@
       {
         "example": "照射",
         "reading": "ショウシャ",
-        "meaning": "irradiation, radiation, beaming, exposure (to light), illumination"
+        "meaning": "irradiation, radiation, beaming, exposure (to light), illumination |(vi) chiếu xạ, bức xạ, soi sáng, phơi sáng"
       },
       {
         "example": "照会",
         "reading": "ショウカイ",
-        "meaning": "inquiry, query, enquiry, referral (e.g. to a doctor or court), query (of a database)"
+        "meaning": "inquiry, query, enquiry, referral (e.g. to a doctor or court), query (of a database) |(vi) tra cứu, thẩm vấn, hỏi thông tin, truy vấn (cơ sở dữ liệu)"
       },
       {
         "example": "日照",
         "reading": "ニッショウ",
-        "meaning": "sunlight"
+        "meaning": "sunlight |(vi) ánh nắng mặt trời"
       },
       {
         "example": "残照",
         "reading": "ザンショウ",
-        "meaning": "afterglow"
+        "meaning": "afterglow |(vi) ánh chiều tà, dư quang"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "照る",
         "reading": "てる",
-        "meaning": "to shine, to look slightly upward (of a noh mask; indicating joy, etc.)"
+        "meaning": "to shine, to look slightly upward (of a noh mask; indicating joy, etc.) |(vi) chiếu sáng, tỏa sáng; hơi ngước lên (mặt nạ Noh, thể hiện niềm vui)"
       },
       {
         "example": "てるてる坊主",
         "reading": "てるてるぼうず",
-        "meaning": "paper doll to which children pray for fine weather (usu. white, and shaped like a Buddhist priest)"
+        "meaning": "paper doll to which children pray for fine weather (usu. white, and shaped like a Buddhist priest) |(vi) búp bê giấy cầu nắng (teru teru bōzu)"
       },
       {
         "example": "照らす",
         "reading": "てらす",
-        "meaning": "to shine on, to illuminate, to compare (with), to refer to"
+        "meaning": "to shine on, to illuminate, to compare (with), to refer to |(vi) chiếu sáng, soi rọi, đối chiếu, tham khảo"
       },
       {
         "example": "天照",
         "reading": "あまてらす",
-        "meaning": "Amaterasu, sun goddess who is the ancestress of the Imperial House of Japan"
+        "meaning": "Amaterasu, sun goddess who is the ancestress of the Imperial House of Japan |(vi) Amaterasu, nữ thần Mặt Trời, tổ tiên hoàng gia Nhật Bản"
       },
       {
         "example": "照れる",
         "reading": "てれる",
-        "meaning": "to be shy, to be bashful, to feel awkward, to feel embarrassed"
+        "meaning": "to be shy, to be bashful, to feel awkward, to feel embarrassed |(vi) ngượng ngùng, bẽn lẽn, xấu hổ"
       }
     ],
     "radical": {
@@ -385,7 +385,7 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": "fire |(vi) Hỏa (lửa)"
     },
     "parts": [
       "刀",

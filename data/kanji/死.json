@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "shi, shinu, shini",
-    "meaning": "die, death",
+    "meaning": "die, death |(vi) chết, tử vong",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "死去（しきょ）",
         "meaning": {
-          "english": "death"
+          "english": "death |(vi) qua đời, từ trần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(nu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "死刑（しけい）",
         "meaning": {
-          "english": "death penalty"
+          "english": "death penalty |(vi) án tử hình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(nu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "死後（しご）",
         "meaning": {
-          "english": "after death"
+          "english": "after death |(vi) sau khi chết, sau khi mất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(nu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "死体（したい）",
         "meaning": {
-          "english": "corpse"
+          "english": "corpse |(vi) xác chết, tử thi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(nu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "脳死（のうし）",
         "meaning": {
-          "english": "brain death"
+          "english": "brain death |(vi) chết não"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(nu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "必死に（ひっしに）",
         "meaning": {
-          "english": "desperately"
+          "english": "desperately |(vi) liều mạng, hết sức, quyết tử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(nu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "死亡する（しぼうする）",
         "meaning": {
-          "english": "die"
+          "english": "die |(vi) chết, tử vong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(nu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "殉死する（じゅんしする）",
         "meaning": {
-          "english": "die a martyr"
+          "english": "die a martyr |(vi) tuẫn tiết, chết theo (chủ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(nu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "戦死する（せんしする）",
         "meaning": {
-          "english": "die in war"
+          "english": "die in war |(vi) tử trận, hy sinh trong chiến tranh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(nu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "即死する（そくしする）",
         "meaning": {
-          "english": "die instantly"
+          "english": "die instantly |(vi) chết ngay lập tức, chết tại chỗ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(nu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "死ぬ（しぬ）",
         "meaning": {
-          "english": "die"
+          "english": "die |(vi) chết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(nu)_06_k.opus",
@@ -289,7 +289,7 @@
     "kanji": {
       "character": "死",
       "meaning": {
-        "english": "die, death"
+        "english": "die, death |(vi) chết, tử vong"
       },
       "strokes": {
         "count": 6,
@@ -339,7 +339,7 @@
         "romaji": "gatsu"
       },
       "meaning": {
-        "english": "death & dying, to decompose"
+        "english": "death & dying, to decompose |(vi) Ngạt (xương tàn, sự chết)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gatsu0.svg",
@@ -360,7 +360,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "229",
     "strokeCount": 6,
-    "meaning": "death, die",
+    "meaning": "death, die |(vi) chết, tử vong, sự chết |(hv) Tử",
     "kunyomi": [
       "し.ぬ",
       "し.に-"
@@ -372,34 +372,34 @@
       {
         "example": "死",
         "reading": "シ",
-        "meaning": "death, (an) out, death penalty (by strangulation or decapitation; most severe of the five ritsuryō punishments)"
+        "meaning": "death, (an) out, death penalty (by strangulation or decapitation; most severe of the five ritsuryō punishments) |(vi) chết, sự chết, án tử hình (bằng treo cổ hoặc chém đầu; hình phạt nặng nhất trong ngũ hình luật lệnh thời Ritsuryō)"
       },
       {
         "example": "死因",
         "reading": "シイン",
-        "meaning": "cause of death"
+        "meaning": "cause of death |(vi) nguyên nhân tử vong"
       },
       {
         "example": "安楽死",
         "reading": "アンラクシ",
-        "meaning": "euthanasia"
+        "meaning": "euthanasia |(vi) cái chết êm ái, an tử"
       },
       {
         "example": "病死",
         "reading": "ビョウシ",
-        "meaning": "death from disease, death from illness"
+        "meaning": "death from disease, death from illness |(vi) chết vì bệnh, bệnh mà chết"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "死ぬ",
         "reading": "しぬ",
-        "meaning": "to die, to pass away, to lose spirit, to lose vigor, to look dead, to cease, to stop"
+        "meaning": "to die, to pass away, to lose spirit, to lose vigor, to look dead, to cease, to stop |(vi) chết, qua đời, mất tinh thần, mất sức sống, trông như đã chết, ngừng, dừng"
       },
       {
         "example": "死ぬ気で",
         "reading": "しぬきで",
-        "meaning": "all out, like hell, like crazy, desperately, expecting to die"
+        "meaning": "all out, like hell, like crazy, desperately, expecting to die |(vi) hết mình, liều mạng, như điên, quyết tử, chuẩn bị tinh thần đến chết"
       }
     ],
     "radical": {
@@ -407,7 +407,7 @@
       "forms": [
         "歺"
       ],
-      "meaning": "death, decay"
+      "meaning": "death, decay |(vi) Ngạt (xương tàn, sự chết)"
     },
     "parts": [
       "一",

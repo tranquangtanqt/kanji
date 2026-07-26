@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "tasu, tasukeru, tasukaru, suke",
-    "meaning": "help, rescue, assistance",
+    "meaning": "help, rescue, assistance |(vi) giúp đỡ, cứu giúp, hỗ trợ",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "助詞（じょし）",
         "meaning": {
-          "english": "(grammar) particle"
+          "english": "(grammar) particle |(vi) trợ từ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "助手（じょしゅ）",
         "meaning": {
-          "english": "assistant"
+          "english": "assistant |(vi) trợ lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "助教授（じょきょうじゅ）",
         "meaning": {
-          "english": "assistant professor"
+          "english": "assistant professor |(vi) phó giáo sư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "助監督（じょかんとく）",
         "meaning": {
-          "english": "assistant director"
+          "english": "assistant director |(vi) trợ lý đạo diễn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "助言する（じょげんする）",
         "meaning": {
-          "english": "advise"
+          "english": "advise |(vi) khuyên bảo, cho lời khuyên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "援助する（えんじょする）",
         "meaning": {
-          "english": "aid, support"
+          "english": "aid, support |(vi) viện trợ, hỗ trợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "救助する（きゅうじょする）",
         "meaning": {
-          "english": "rescue [v.t.]"
+          "english": "rescue [v.t.] |(vi) cứu hộ, cứu giúp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "助ける（たすける）",
         "meaning": {
-          "english": "help, save [v.t.]"
+          "english": "help, save [v.t.] |(vi) giúp đỡ, cứu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "手助け（てだすけ）",
         "meaning": {
-          "english": "help [n.]"
+          "english": "help [n.] |(vi) sự giúp đỡ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "助かる（たすかる）",
         "meaning": {
-          "english": "be saved, survive [v.i.], helpful [adj.]"
+          "english": "be saved, survive [v.i.], helpful [adj.] |(vi) được cứu, sống sót, có ích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "助っ人（すけっと）",
         "meaning": {
-          "english": "helper"
+          "english": "helper |(vi) người trợ giúp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_k.opus",
@@ -288,7 +288,7 @@
     "kanji": {
       "character": "助",
       "meaning": {
-        "english": "help, rescue, assistance"
+        "english": "help, rescue, assistance |(vi) giúp đỡ, cứu giúp, hỗ trợ"
       },
       "strokes": {
         "count": 7,
@@ -340,7 +340,7 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power |(vi) Lực (sức mạnh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -361,7 +361,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "397",
     "strokeCount": 7,
-    "meaning": "help, rescue, assist",
+    "meaning": "help, rescue, assist |(vi) giúp đỡ, cứu giúp, hỗ trợ |(hv) Trợ",
     "kunyomi": [
       "たす.ける",
       "たす.かる",
@@ -375,59 +375,59 @@
       {
         "example": "助",
         "reading": "ジョ",
-        "meaning": "help, rescue, assistant"
+        "meaning": "help, rescue, assistant |(vi) giúp đỡ, cứu giúp, trợ lý"
       },
       {
         "example": "助演",
         "reading": "ジョエン",
-        "meaning": "supporting performance, playing a supporting role"
+        "meaning": "supporting performance, playing a supporting role |(vi) vai phụ, diễn xuất phụ"
       },
       {
         "example": "互助",
         "reading": "ゴジョ",
-        "meaning": "mutual aid, cooperation, benefit"
+        "meaning": "mutual aid, cooperation, benefit |(vi) tương trợ, hợp tác, lợi ích chung"
       },
       {
         "example": "介助",
         "reading": "カイジョ",
-        "meaning": "help, assistance, aid"
+        "meaning": "help, assistance, aid |(vi) chăm sóc, hỗ trợ, giúp đỡ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "助ける",
         "reading": "たすける",
-        "meaning": "to save, to rescue, to spare, to help, to assist, to support (financially), to contribute (to), to provide aid, to facilitate, to stimulate, to promote, to contribute to"
+        "meaning": "to save, to rescue, to spare, to help, to assist, to support (financially), to contribute (to), to provide aid, to facilitate, to stimulate, to promote, to contribute to |(vi) cứu, giúp, hỗ trợ (tài chính), đóng góp, thúc đẩy"
       },
       {
         "example": "助かる",
         "reading": "たすかる",
-        "meaning": "to be saved, to be rescued, to survive, to escape harm, to be spared damage, to be helped, to be saved trouble"
+        "meaning": "to be saved, to be rescued, to survive, to escape harm, to be spared damage, to be helped, to be saved trouble |(vi) được cứu, sống sót, thoát nạn, được giúp đỡ, đỡ vất vả"
       },
       {
         "example": "助",
         "reading": "すけ",
-        "meaning": "assistance, help, helper, babe, chick, broad"
+        "meaning": "assistance, help, helper, babe, chick, broad |(vi) sự trợ giúp, người trợ giúp, cô gái (tiếng lóng)"
       },
       {
         "example": "助っ人",
         "reading": "すけっと",
-        "meaning": "helper, supporter, second, backer, foreign player (hired to strengthen a team)"
+        "meaning": "helper, supporter, second, backer, foreign player (hired to strengthen a team) |(vi) người trợ giúp, người hỗ trợ, cầu thủ ngoại binh"
       },
       {
         "example": "福助",
         "reading": "ふくすけ",
-        "meaning": "large-headed dwarf statue, bringer of good luck"
+        "meaning": "large-headed dwarf statue, bringer of good luck |(vi) tượng người lùn đầu to mang lại may mắn"
       },
       {
         "example": "デコ助",
         "reading": "デコすけ",
-        "meaning": "big forehead, fivehead, asshole"
+        "meaning": "big forehead, fivehead, asshole |(vi) trán to, kẻ ngốc (tiếng lóng miệt thị)"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": "power, force |(vi) Lực (sức mạnh)"
     },
     "parts": [
       "力",

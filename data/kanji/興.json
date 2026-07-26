@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 4,
     "kunyomi": "oko, okoru, okosu",
-    "meaning": "prosper, amusement, interest, revive",
+    "meaning": "prosper, amusement, interest, revive |(vi) hưng thịnh, thú vị, hứng thú, phục hưng",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "興奮する（こうふんする）",
         "meaning": {
-          "english": "be excited [v.i.]"
+          "english": "be excited [v.i.] |(vi) hưng phấn, kích động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-oko(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "興隆する（こうりゅうする）",
         "meaning": {
-          "english": "prosper"
+          "english": "prosper |(vi) hưng thịnh, thịnh vượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-oko(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "復興する（ふっこうする）",
         "meaning": {
-          "english": "revive [vi., vt.]"
+          "english": "revive [vi., vt.] |(vi) phục hưng, hồi phục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-oko(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "興亡（こうぼう）",
         "meaning": {
-          "english": "rise and fall"
+          "english": "rise and fall |(vi) sự hưng vong, thịnh suy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-oko(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "興（きょう）",
         "meaning": {
-          "english": "interest, entertainment"
+          "english": "interest, entertainment |(vi) hứng thú, sự vui thích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-oko(su)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "興味（きょうみ）",
         "meaning": {
-          "english": "interest (in something)"
+          "english": "interest (in something) |(vi) hứng thú (với điều gì đó)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-oko(su)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "余興（よきょう）",
         "meaning": {
-          "english": "side show"
+          "english": "side show |(vi) tiết mục phụ diễn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-oko(su)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "即興（そっきょう）",
         "meaning": {
-          "english": "improvisation"
+          "english": "improvisation |(vi) sự ứng tác, ngẫu hứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-oko(su)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "興る（おこる）",
         "meaning": {
-          "english": "rise, flourish [v.i.]"
+          "english": "rise, flourish [v.i.] |(vi) nổi lên, hưng thịnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-oko(su)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "興す（おこす）",
         "meaning": {
-          "english": "revive [v.t.]"
+          "english": "revive [v.t.] |(vi) phục hưng, gây dựng lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-oko(su)_06_j.opus",
@@ -243,7 +243,7 @@
     "kanji": {
       "character": "興",
       "meaning": {
-        "english": "prosper, amusement, interest, revive"
+        "english": "prosper, amusement, interest, revive |(vi) hưng thịnh, thú vị, hứng thú, phục hưng"
       },
       "strokes": {
         "count": 16,
@@ -313,7 +313,7 @@
         "romaji": "usu"
       },
       "meaning": {
-        "english": "mortar, quern"
+        "english": "mortar, quern |(vi) Cữu (cối giã)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/usu0.svg",
@@ -334,7 +334,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "734",
     "strokeCount": 16,
-    "meaning": "entertain, revive, retrieve, interest, pleasure",
+    "meaning": "entertain, revive, retrieve, interest, pleasure |(vi) giải trí, phục hưng, khôi phục, hứng thú, niềm vui |(hv) Hưng, Hứng",
     "kunyomi": [
       "おこ.る",
       "おこ.す"
@@ -347,59 +347,59 @@
       {
         "example": "興行",
         "reading": "コウギョウ",
-        "meaning": "show, performance, act, entertainment industry, show business"
+        "meaning": "show, performance, act, entertainment industry, show business |(vi) buổi diễn, buổi biểu diễn, ngành giải trí, ngành công nghiệp biểu diễn"
       },
       {
         "example": "興業",
         "reading": "コウギョウ",
-        "meaning": "promotion of industry, inauguration of a new industrial enterprise"
+        "meaning": "promotion of industry, inauguration of a new industrial enterprise |(vi) sự xúc tiến công nghiệp, khai trương xí nghiệp mới"
       },
       {
         "example": "新興",
         "reading": "シンコウ",
-        "meaning": "rising, developing, emergent, burgeoning, new"
+        "meaning": "rising, developing, emergent, burgeoning, new |(vi) đang nổi lên, đang phát triển, mới nổi"
       },
       {
         "example": "再興",
         "reading": "サイコウ",
-        "meaning": "revival, restoration, resuscitation"
+        "meaning": "revival, restoration, resuscitation |(vi) sự hồi phục, sự khôi phục, sự tái thiết"
       },
       {
         "example": "興",
         "reading": "キョウ",
-        "meaning": "interest, entertainment, pleasure, implicit comparison (style of the Shi Jing)"
+        "meaning": "interest, entertainment, pleasure, implicit comparison (style of the Shi Jing) |(vi) hứng thú, sự giải trí, niềm vui, phép hứng (thể ẩn dụ trong Kinh Thi)"
       },
       {
         "example": "興味",
         "reading": "キョウミ",
-        "meaning": "interest (in something), curiosity (about something), zest (for)"
+        "meaning": "interest (in something), curiosity (about something), zest (for) |(vi) hứng thú (với điều gì đó), sự tò mò, niềm say mê"
       },
       {
         "example": "一興",
         "reading": "イッキョウ",
-        "meaning": "amusement, fun, brief entertainment"
+        "meaning": "amusement, fun, brief entertainment |(vi) sự vui thích, sự thú vị, giải trí ngắn"
       },
       {
         "example": "遊興",
         "reading": "ユウキョウ",
-        "meaning": "merrymaking (esp. wine and women), pleasures"
+        "meaning": "merrymaking (esp. wine and women), pleasures |(vi) cuộc vui chơi (đặc biệt là rượu chè và gái gú), sự khoái lạc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "興る",
         "reading": "おこる",
-        "meaning": "to rise, to flourish"
+        "meaning": "to rise, to flourish |(vi) nổi lên, hưng thịnh"
       },
       {
         "example": "興す",
         "reading": "おこす",
-        "meaning": "to vitalize (e.g. an industry), to invigorate, to energize, to revive, to promote, to make prosperous, to establish (e.g. a company), to build up, to set up, to launch, to commence"
+        "meaning": "to vitalize (e.g. an industry), to invigorate, to energize, to revive, to promote, to make prosperous, to establish (e.g. a company), to build up, to set up, to launch, to commence |(vi) làm sống động (ví dụ một ngành công nghiệp), khích lệ, tiếp sức, phục hồi, xúc tiến, làm cho thịnh vượng, thành lập (ví dụ một công ty), gây dựng, thiết lập, khởi xướng, bắt đầu"
       }
     ],
     "radical": {
       "symbol": "臼",
-      "meaning": "mortar"
+      "meaning": "mortar |(vi) Cữu (cối giã)"
     },
     "parts": [
       "ハ",

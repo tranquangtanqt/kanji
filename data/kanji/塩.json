@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 2,
     "kunyomi": "shio",
-    "meaning": "salt",
+    "meaning": "salt |(vi) muối",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "塩分（えんぶん）",
         "meaning": {
-          "english": "salt, salt content"
+          "english": "salt, salt content |(vi) muối, hàm lượng muối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-shio_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "塩酸（えんさん）",
         "meaning": {
-          "english": "hydrochloric acid"
+          "english": "hydrochloric acid |(vi) axit clohydric"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-shio_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "塩素（えんそ）",
         "meaning": {
-          "english": "chlorine"
+          "english": "chlorine |(vi) clo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-shio_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "塩害（えんがい）",
         "meaning": {
-          "english": "salt-air damage"
+          "english": "salt-air damage |(vi) thiệt hại do muối biển (gió mặn)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-shio_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "食塩（しょくえん）",
         "meaning": {
-          "english": "table salt"
+          "english": "table salt |(vi) muối ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-shio_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "塩（しお）",
         "meaning": {
-          "english": "salt"
+          "english": "salt |(vi) muối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-shio_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "塩味（しおあじ）",
         "meaning": {
-          "english": "salty flavor"
+          "english": "salty flavor |(vi) vị mặn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-shio_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "塩辛い（しおからい）",
         "meaning": {
-          "english": "salty"
+          "english": "salty |(vi) mặn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-shio_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "塩水（しおみず）",
         "meaning": {
-          "english": "salt water, brine"
+          "english": "salt water, brine |(vi) nước muối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-shio_06_i.opus",
@@ -206,7 +206,7 @@
     "kanji": {
       "character": "塩",
       "meaning": {
-        "english": "salt"
+        "english": "salt |(vi) muối"
       },
       "strokes": {
         "count": 13,
@@ -270,7 +270,7 @@
         "romaji": "tsuchihen"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
@@ -291,7 +291,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1148",
     "strokeCount": 13,
-    "meaning": "salt",
+    "meaning": "salt |(vi) muối |(hv) Diêm",
     "kunyomi": [
       "しお"
     ],
@@ -302,49 +302,49 @@
       {
         "example": "塩",
         "reading": "エン",
-        "meaning": "salt (e.g. sodium chloride, calcium sulfate, etc.), chloride"
+        "meaning": "salt (e.g. sodium chloride, calcium sulfate, etc.), chloride |(vi) muối (natri clorua, canxi sulfat...), clorua"
       },
       {
         "example": "塩化",
         "reading": "エンカ",
-        "meaning": "chloridation, salification, chloride"
+        "meaning": "chloridation, salification, chloride |(vi) clo hóa, muối hóa, clorua"
       },
       {
         "example": "減塩",
         "reading": "ゲンエン",
-        "meaning": "reduction of salt, sodium restriction"
+        "meaning": "reduction of salt, sodium restriction |(vi) giảm muối, hạn chế natri"
       },
       {
         "example": "岩塩",
         "reading": "ガンエン",
-        "meaning": "halite, rock salt"
+        "meaning": "halite, rock salt |(vi) muối mỏ, muối đá"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "塩",
         "reading": "しお",
-        "meaning": "salt, common salt, table salt, sodium chloride, hardship, toil, trouble, saltiness, cold, unwelcoming, indifferent"
+        "meaning": "salt, common salt, table salt, sodium chloride, hardship, toil, trouble, saltiness, cold, unwelcoming, indifferent |(vi) muối, muối ăn, natri clorua, gian khổ, vất vả, độ mặn, lạnh nhạt, thờ ơ, không hiếu khách"
       },
       {
         "example": "塩田",
         "reading": "えんでん",
-        "meaning": "saltpan, field for drying salt"
+        "meaning": "saltpan, field for drying salt |(vi) ruộng muối"
       },
       {
         "example": "岩塩",
         "reading": "がんえん",
-        "meaning": "halite, rock salt"
+        "meaning": "halite, rock salt |(vi) muối mỏ, muối đá"
       },
       {
         "example": "手塩",
         "reading": "てしお",
-        "meaning": "table salt, small plate"
+        "meaning": "table salt, small plate |(vi) muối ăn tự nêm, đĩa nhỏ"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "ノ",

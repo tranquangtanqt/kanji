@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "onna, me",
-    "meaning": "woman",
+    "meaning": "woman |(vi) phụ nữ, đàn bà",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "女性（じょせい）",
         "meaning": {
-          "english": "female"
+          "english": "female |(vi) giới nữ, phái nữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onna_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "女子学生（じょしがくせい）",
         "meaning": {
-          "english": "female student"
+          "english": "female student |(vi) nữ sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onna_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "彼女（かのじょ）",
         "meaning": {
-          "english": "she, girl friend"
+          "english": "she, girl friend |(vi) cô ấy, bạn gái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onna_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "長女（ちょうじょ）",
         "meaning": {
-          "english": "eldest daughter"
+          "english": "eldest daughter |(vi) con gái cả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onna_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "女人（にょにん）",
         "meaning": {
-          "english": "women [archaic]"
+          "english": "women [archaic] |(vi) phụ nữ [cổ ngữ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onna_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "女房（にょうぼう）",
         "meaning": {
-          "english": "wife"
+          "english": "wife |(vi) vợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onna_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "女（おんな）",
         "meaning": {
-          "english": "woman"
+          "english": "woman |(vi) phụ nữ, đàn bà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onna_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "女の子（おんなのこ）",
         "meaning": {
-          "english": "girl"
+          "english": "girl |(vi) con gái, bé gái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onna_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "女々しい（めめしい）",
         "meaning": {
-          "english": "effeminate"
+          "english": "effeminate |(vi) ẻo lả, yếu đuối (như con gái)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onna_06_i.opus",
@@ -274,7 +274,7 @@
     "kanji": {
       "character": "女",
       "meaning": {
-        "english": "woman"
+        "english": "woman |(vi) phụ nữ, đàn bà"
       },
       "strokes": {
         "count": 3,
@@ -318,7 +318,7 @@
         "romaji": "onna"
       },
       "meaning": {
-        "english": "woman"
+        "english": "woman |(vi) Nữ (phụ nữ, giống cái)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/onna0.svg",
@@ -339,7 +339,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "151",
     "strokeCount": 3,
-    "meaning": "woman, female",
+    "meaning": "woman, female |(vi) phụ nữ, giống cái |(hv) Nữ",
     "kunyomi": [
       "おんな",
       "め"
@@ -353,99 +353,99 @@
       {
         "example": "女",
         "reading": "ジョ",
-        "meaning": "woman, girl, daughter, Chinese \"Girl\" constellation (one of the 28 mansions), feminine noun"
+        "meaning": "woman, girl, daughter, Chinese \"Girl\" constellation (one of the 28 mansions), feminine noun |(vi) phụ nữ, con gái, con gái (con), sao Nữ (một trong 28 tú), danh từ giống cái"
       },
       {
         "example": "女王",
         "reading": "ジョオウ",
-        "meaning": "queen, female champion"
+        "meaning": "queen, female champion |(vi) nữ hoàng, nhà vô địch nữ"
       },
       {
         "example": "処女",
         "reading": "ショジョ",
-        "meaning": "virgin (usu. female), maiden, virgin (e.g. forest), unspoiled by human activity, debut, maiden (e.g. voyage)"
+        "meaning": "virgin (usu. female), maiden, virgin (e.g. forest), unspoiled by human activity, debut, maiden (e.g. voyage) |(vi) trinh nữ (thường chỉ nữ), thiếu nữ, chưa bị con người tác động (vd. rừng nguyên sinh), lần đầu, chuyến đầu (vd. chuyến ra khơi đầu tiên)"
       },
       {
         "example": "一女",
         "reading": "イチジョ",
-        "meaning": "one daughter, eldest daughter, first-born daughter"
+        "meaning": "one daughter, eldest daughter, first-born daughter |(vi) một con gái, con gái cả, con gái đầu lòng"
       },
       {
         "example": "女王",
         "reading": "ジョオウ",
-        "meaning": "queen, female champion"
+        "meaning": "queen, female champion |(vi) nữ hoàng, nhà vô địch nữ"
       },
       {
         "example": "女房",
         "reading": "ニョウボウ",
-        "meaning": "wife (esp. one's own wife), court lady, female court attache, woman who served at the imperial palace, woman (esp. as a love interest)"
+        "meaning": "wife (esp. one's own wife), court lady, female court attache, woman who served at the imperial palace, woman (esp. as a love interest) |(vi) vợ (nhất là vợ mình), cung nữ, nữ quan trong triều, phụ nữ phục vụ trong hoàng cung, người phụ nữ (nhất là người yêu)"
       },
       {
         "example": "老若男女",
         "reading": "ロウニャクナンニョ",
-        "meaning": "men and women of all ages"
+        "meaning": "men and women of all ages |(vi) già trẻ trai gái, mọi lứa tuổi cả nam lẫn nữ"
       },
       {
         "example": "天女",
         "reading": "テンニョ",
-        "meaning": "heavenly nymph, celestial maiden, beautiful and kind woman"
+        "meaning": "heavenly nymph, celestial maiden, beautiful and kind woman |(vi) tiên nữ trên trời, người con gái xinh đẹp và hiền dịu"
       },
       {
         "example": "女房",
         "reading": "ニョウボウ",
-        "meaning": "wife (esp. one's own wife), court lady, female court attache, woman who served at the imperial palace, woman (esp. as a love interest)"
+        "meaning": "wife (esp. one's own wife), court lady, female court attache, woman who served at the imperial palace, woman (esp. as a love interest) |(vi) vợ (nhất là vợ mình), cung nữ, nữ quan trong triều, phụ nữ phục vụ trong hoàng cung, người phụ nữ (nhất là người yêu)"
       },
       {
         "example": "女官",
         "reading": "ジョカン",
-        "meaning": "court lady, lady-in-waiting"
+        "meaning": "court lady, lady-in-waiting |(vi) cung nữ, thị nữ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "女",
         "reading": "おんな",
-        "meaning": "woman, female, female lover, girlfriend, mistress, (someone's) woman"
+        "meaning": "woman, female, female lover, girlfriend, mistress, (someone's) woman |(vi) phụ nữ, đàn bà, người tình, bạn gái, tình nhân, người phụ nữ (của ai đó)"
       },
       {
         "example": "女形",
         "reading": "おんながた",
-        "meaning": "onnagata, male actor in female kabuki roles, female partner (in a relationship)"
+        "meaning": "onnagata, male actor in female kabuki roles, female partner (in a relationship) |(vi) onnagata, nam diễn viên đóng vai nữ trong kabuki, người bạn gái (trong một mối quan hệ)"
       },
       {
         "example": "醜女",
         "reading": "しゅうじょ",
-        "meaning": "ugly woman, unattractive woman, female demon"
+        "meaning": "ugly woman, unattractive woman, female demon |(vi) phụ nữ xấu xí, người phụ nữ kém sắc, ác nữ"
       },
       {
         "example": "囲い女",
         "reading": "かこいおんな",
-        "meaning": "mistress"
+        "meaning": "mistress |(vi) tình nhân, vợ lẽ"
       },
       {
         "example": "雌",
         "reading": "め",
-        "meaning": "female, smaller (of the two), weaker, woman, wife"
+        "meaning": "female, smaller (of the two), weaker, woman, wife |(vi) giống cái, con nhỏ hơn (trong hai con), yếu hơn, phụ nữ, vợ"
       },
       {
         "example": "女神",
         "reading": "めがみ",
-        "meaning": "goddess"
+        "meaning": "goddess |(vi) nữ thần"
       },
       {
         "example": "早乙女",
         "reading": "さおとめ",
-        "meaning": "young female rice planter, young girl"
+        "meaning": "young female rice planter, young girl |(vi) cô gái trẻ cấy lúa, thiếu nữ"
       },
       {
         "example": "醜女",
         "reading": "しゅうじょ",
-        "meaning": "ugly woman, unattractive woman, female demon"
+        "meaning": "ugly woman, unattractive woman, female demon |(vi) phụ nữ xấu xí, người phụ nữ kém sắc, ác nữ"
       }
     ],
     "radical": {
       "symbol": "女",
-      "meaning": "woman, female"
+      "meaning": "woman, female |(vi) Nữ (phụ nữ, giống cái)"
     },
     "parts": [
       "女"

@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 3,
     "kunyomi": "su, sumu, sumi, sumasu, sumaseru",
-    "meaning": "settle, relieve, finish",
+    "meaning": "settle, relieve, finish |(vi) giải quyết, cứu giúp, hoàn tất",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "経済的な（けいざいてきな）",
         "meaning": {
-          "english": "economical"
+          "english": "economical |(vi) kinh tế (tiết kiệm, hiệu quả về mặt kinh tế)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-su(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "経済（けいざい）",
         "meaning": {
-          "english": "economy"
+          "english": "economy |(vi) kinh tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-su(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "返済する（へんさいする）",
         "meaning": {
-          "english": "repay"
+          "english": "repay |(vi) hoàn tế (trả nợ, hoàn trả)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-su(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "救済する（きゅうさいする）",
         "meaning": {
-          "english": "rescue"
+          "english": "rescue |(vi) cứu tế (cứu giúp, cứu trợ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-su(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "済む（すむ）",
         "meaning": {
-          "english": "get done [v.i.]"
+          "english": "get done [v.i.] |(vi) xong, hoàn tất, kết thúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-su(mu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "済ませる（すませる）",
         "meaning": {
-          "english": "finish [v.t.]"
+          "english": "finish [v.t.] |(vi) làm xong, hoàn tất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-su(mu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "支払い済み（しはらいずみ）",
         "meaning": {
-          "english": "paid"
+          "english": "paid |(vi) đã thanh toán, đã trả tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-su(mu)_06_g.opus",
@@ -222,7 +222,7 @@
     "kanji": {
       "character": "済",
       "meaning": {
-        "english": "settle, relieve, finish"
+        "english": "settle, relieve, finish |(vi) giải quyết, cứu giúp, hoàn tất"
       },
       "strokes": {
         "count": 11,
@@ -282,7 +282,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -303,7 +303,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "168",
     "strokeCount": 11,
-    "meaning": "settle (debt, etc.), relieve (burden), finish, come to an end, excusable, need not",
+    "meaning": "settle (debt, etc.), relieve (burden), finish, come to an end, excusable, need not |(vi) giải quyết (nợ nần), giảm bớt (gánh nặng), hoàn tất, kết thúc, có thể tha thứ, không cần phải |(hv) Tế",
     "kunyomi": [
       "す.む",
       "-ず.み",
@@ -324,64 +324,64 @@
       {
         "example": "済州",
         "reading": "チェジュ",
-        "meaning": "Jeju (special self-governing province and island in South Korea)"
+        "meaning": "Jeju (special self-governing province and island in South Korea) |(vi) Tế Châu (đảo Jeju, Hàn Quốc)"
       },
       {
         "example": "済州大学",
         "reading": "サイシュウダイガク",
-        "meaning": "Cheju National University"
+        "meaning": "Cheju National University |(vi) Đại học Quốc gia Tế Châu"
       },
       {
         "example": "決済",
         "reading": "ケッサイ",
-        "meaning": "settlement (of an account), liquidation of debts, payment"
+        "meaning": "settlement (of an account), liquidation of debts, payment |(vi) quyết tế (thanh toán, quyết toán, chi trả)"
       },
       {
         "example": "弁済",
         "reading": "ベンサイ",
-        "meaning": "repayment, settlement (of a debt), paying off, reimbursement (of expenses)"
+        "meaning": "repayment, settlement (of a debt), paying off, reimbursement (of expenses) |(vi) biện tế (hoàn trả, thanh toán nợ, bồi hoàn)"
       },
       {
         "example": "済世",
         "reading": "サイセイ",
-        "meaning": "saving the world, promoting national welfare"
+        "meaning": "saving the world, promoting national welfare |(vi) tế thế (cứu đời, cứu giúp thế gian)"
       },
       {
         "example": "済美",
         "reading": "セイビ",
-        "meaning": "achieving virtue"
+        "meaning": "achieving virtue |(vi) tế mỹ (đạt được đức hạnh, nối nghiệp tốt đẹp)"
       },
       {
         "example": "既済",
         "reading": "キサイ",
-        "meaning": "already settled, paid-up"
+        "meaning": "already settled, paid-up |(vi) ký tế (đã thanh toán xong, đã trả hết)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "済む",
         "reading": "すむ",
-        "meaning": "to finish, to end, to be completed, to merely result in something less severe than expected, to feel at ease, to feel unease or guilt for troubling someone, to be sorry"
+        "meaning": "to finish, to end, to be completed, to merely result in something less severe than expected, to feel at ease, to feel unease or guilt for troubling someone, to be sorry |(vi) kết thúc, xong, hoàn tất, cảm thấy nhẹ nhõm, cảm thấy áy náy"
       },
       {
         "example": "済まない",
         "reading": "すまない",
-        "meaning": "inexcusable, unjustifiable, unpardonable, sorry, remorseful, apologetic, conscience-stricken, contrite, excuse me, (I'm) sorry, thank you"
+        "meaning": "inexcusable, unjustifiable, unpardonable, sorry, remorseful, apologetic, conscience-stricken, contrite, excuse me, (I'm) sorry, thank you |(vi) không thể tha thứ, áy náy, xin lỗi, cảm ơn"
       },
       {
         "example": "済ます",
         "reading": "すます",
-        "meaning": "to finish, to get it over with, to conclude, to settle, to pay back, to get along (without something), to make do with (without)"
+        "meaning": "to finish, to get it over with, to conclude, to settle, to pay back, to get along (without something), to make do with (without) |(vi) làm cho xong, kết thúc, giải quyết, trả hết, xoay xở (mà không cần)"
       },
       {
         "example": "救う",
         "reading": "すくう",
-        "meaning": "to rescue (someone), to save, to help (out of a difficulty), to relieve (from), to save (spiritually), to redeem (from sin), to deliver (from suffering, distress, etc.), to bring to salvation"
+        "meaning": "to rescue (someone), to save, to help (out of a difficulty), to relieve (from), to save (spiritually), to redeem (from sin), to deliver (from suffering, distress, etc.), to bring to salvation |(vi) cứu giúp, cứu vớt, cứu rỗi, giải thoát"
       },
       {
         "example": "済す",
         "reading": "なす",
-        "meaning": "to settle (a debt or matter), to pay back (money or goods), to fulfill one's obligation of payment, to pay in full"
+        "meaning": "to settle (a debt or matter), to pay back (money or goods), to fulfill one's obligation of payment, to pay in full |(vi) trả hết nợ, thanh toán đầy đủ, hoàn thành nghĩa vụ trả nợ"
       }
     ],
     "radical": {
@@ -390,7 +390,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "ノ",

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "musu, yu, musubu, yuu, yuwaeru",
-    "meaning": "tie, conclude",
+    "meaning": "tie, conclude |(vi) buộc, kết luận",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "結論（けつろん）",
         "meaning": {
-          "english": "conclusion"
+          "english": "conclusion |(vi) kết luận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musu(bu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "結局（けっきょく）",
         "meaning": {
-          "english": "after all"
+          "english": "after all |(vi) rốt cuộc, cuối cùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musu(bu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "結果（けっか）",
         "meaning": {
-          "english": "result"
+          "english": "result |(vi) kết quả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musu(bu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "結核（けっかく）",
         "meaning": {
-          "english": "tuberculosis"
+          "english": "tuberculosis |(vi) bệnh lao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musu(bu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "結構な（けっこうな）",
         "meaning": {
-          "english": "splendid, good"
+          "english": "splendid, good |(vi) tuyệt vời, tốt đẹp, khá tốt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musu(bu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "結婚する（けっこんする）",
         "meaning": {
-          "english": "marry"
+          "english": "marry |(vi) kết hôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musu(bu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "結合する（けつごうする）",
         "meaning": {
-          "english": "combine [v.i.]"
+          "english": "combine [v.i.] |(vi) kết hợp, liên kết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musu(bu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "完結する（かんけつする）",
         "meaning": {
-          "english": "be completed"
+          "english": "be completed |(vi) hoàn kết, hoàn thành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musu(bu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "結ぶ（むすぶ）",
         "meaning": {
-          "english": "tie"
+          "english": "tie |(vi) buộc, thắt, kết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musu(bu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "結う（ゆう）",
         "meaning": {
-          "english": "do up (e.g. hair)"
+          "english": "do up (e.g. hair) |(vi) búi (tóc), tết (tóc)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musu(bu)_06_j.opus",
@@ -272,7 +272,7 @@
     "kanji": {
       "character": "結",
       "meaning": {
-        "english": "tie, conclude"
+        "english": "tie, conclude |(vi) buộc, kết luận"
       },
       "strokes": {
         "count": 12,
@@ -334,7 +334,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi chỉ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -355,7 +355,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "162",
     "strokeCount": 12,
-    "meaning": "tie, bind, contract, join, organize, do up hair, fasten",
+    "meaning": "tie, bind, contract, join, organize, do up hair, fasten |(vi) buộc, ràng buộc, ký kết, kết hợp, tổ chức, búi tóc, thắt chặt |(hv) Kết",
     "kunyomi": [
       "むす.ぶ",
       "ゆ.う",
@@ -369,59 +369,59 @@
       {
         "example": "結末",
         "reading": "ケツマツ",
-        "meaning": "end, conclusion"
+        "meaning": "end, conclusion |(vi) kết thúc, kết cục"
       },
       {
         "example": "結合",
         "reading": "ケツゴウ",
-        "meaning": "combination, union, joining, linking, coupling, bond, join (in relational algebra)"
+        "meaning": "combination, union, joining, linking, coupling, bond, join (in relational algebra) |(vi) kết hợp, liên kết, hợp nhất, phép nối (đại số quan hệ)"
       },
       {
         "example": "完結",
         "reading": "カンケツ",
-        "meaning": "conclusion, completion"
+        "meaning": "conclusion, completion |(vi) kết thúc, hoàn thành"
       },
       {
         "example": "妥結",
         "reading": "ダケツ",
-        "meaning": "settlement, an agreement"
+        "meaning": "settlement, an agreement |(vi) sự dàn xếp, thỏa thuận"
       },
       {
         "example": "結縁",
         "reading": "ケチエン",
-        "meaning": "making a connection (with Buddha)"
+        "meaning": "making a connection (with Buddha) |(vi) kết duyên (với Phật), tạo mối nhân duyên với Phật pháp"
       },
       {
         "example": "結願",
         "reading": "ケチガン",
-        "meaning": "expiration of term of a vow"
+        "meaning": "expiration of term of a vow |(vi) mãn hạn lời nguyện, kết thúc kỳ nguyện"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "結ぶ",
         "reading": "むすぶ",
-        "meaning": "to tie, to bind, to link, to bear (fruit), to close (e.g. deal), to confirm, to conclude, to connect (two distant places), to close tightly, to purse (e.g. lips), to unite (with), to ally, to join hands"
+        "meaning": "to tie, to bind, to link, to bear (fruit), to close (e.g. deal), to confirm, to conclude, to connect (two distant places), to close tightly, to purse (e.g. lips), to unite (with), to ally, to join hands |(vi) buộc, ràng buộc, liên kết, kết trái, chốt (giao dịch), xác nhận, kết luận, nối liền (hai nơi xa), khép chặt, mím (môi), liên minh, đồng minh, bắt tay hợp tác"
       },
       {
         "example": "結ぶ便",
         "reading": "むすぶびん",
-        "meaning": "connecting flight, connecting service"
+        "meaning": "connecting flight, connecting service |(vi) chuyến bay nối chuyến, tuyến kết nối"
       },
       {
         "example": "結う",
         "reading": "ゆう",
-        "meaning": "to do up (hair), to dress, to arrange, to tie, to bind, to fasten, to make (a fence)"
+        "meaning": "to do up (hair), to dress, to arrange, to tie, to bind, to fasten, to make (a fence) |(vi) búi (tóc), chải tóc, sắp xếp, buộc, ràng, cột chặt, dựng (hàng rào)"
       },
       {
         "example": "結城紬",
         "reading": "ゆうきつむぎ",
-        "meaning": "silk products produced near Yūki (using natural indigo dye), Yūki pongee"
+        "meaning": "silk products produced near Yūki (using natural indigo dye), Yūki pongee |(vi) sản phẩm lụa vùng Yūki (nhuộm chàm tự nhiên), lụa Yūki tsumugi"
       },
       {
         "example": "結わえる",
         "reading": "ゆわえる",
-        "meaning": "to bind, to fasten, to tie up"
+        "meaning": "to bind, to fasten, to tie up |(vi) buộc, thắt, cột chặt"
       }
     ],
     "radical": {
@@ -429,7 +429,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi chỉ)"
     },
     "parts": [
       "口",

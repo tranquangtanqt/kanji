@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "shiro",
-    "meaning": "castle",
+    "meaning": "castle |(vi) thành, lâu đài",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "城下町（じょうかまち）",
         "meaning": {
-          "english": "castle town"
+          "english": "castle town |(vi) thị trấn dưới thành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-shiro_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "城主（じょうしゅ）",
         "meaning": {
-          "english": "lord of a castle"
+          "english": "lord of a castle |(vi) chúa thành, lãnh chúa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-shiro_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "城壁（じょうへき）",
         "meaning": {
-          "english": "rampart"
+          "english": "rampart |(vi) tường thành, thành lũy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-shiro_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "城塞（じょうさい）",
         "meaning": {
-          "english": "fortress"
+          "english": "fortress |(vi) pháo đài, thành trì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-shiro_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "大阪城（おおさかじょう）",
         "meaning": {
-          "english": "Osaka castle"
+          "english": "Osaka castle |(vi) thành Osaka"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-shiro_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "築城する（ちくじょうする）",
         "meaning": {
-          "english": "construct a castle"
+          "english": "construct a castle |(vi) xây thành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-shiro_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "落城する（らくじょうする）",
         "meaning": {
-          "english": "surrender (a castle) [v.i.]"
+          "english": "surrender (a castle) [v.i.] |(vi) thất thủ, đầu hàng (thành) (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-shiro_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "城（しろ）",
         "meaning": {
-          "english": "castle"
+          "english": "castle |(vi) thành, lâu đài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-shiro_06_h.opus",
@@ -190,7 +190,7 @@
     "kanji": {
       "character": "城",
       "meaning": {
-        "english": "castle"
+        "english": "castle |(vi) thành, lâu đài"
       },
       "strokes": {
         "count": 9,
@@ -246,7 +246,7 @@
         "romaji": "tsuchihen"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
@@ -267,7 +267,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "795",
     "strokeCount": 9,
-    "meaning": "castle",
+    "meaning": "castle |(vi) thành, lâu đài |(hv) Thành",
     "kunyomi": [
       "しろ"
     ],
@@ -279,59 +279,59 @@
       {
         "example": "城",
         "reading": "ジョウ",
-        "meaning": "castle (in place names), castle, fortress"
+        "meaning": "castle (in place names), castle, fortress |(vi) thành (trong địa danh), thành trì, pháo đài"
       },
       {
         "example": "城内",
         "reading": "ジョウナイ",
-        "meaning": "inside of a castle, area surrounded by castle walls"
+        "meaning": "inside of a castle, area surrounded by castle walls |(vi) bên trong thành, khu vực trong tường thành"
       },
       {
         "example": "荒城",
         "reading": "コウジョウ",
-        "meaning": "ruined castle"
+        "meaning": "ruined castle |(vi) thành hoang phế"
       },
       {
         "example": "開城",
         "reading": "カイジョウ",
-        "meaning": "surrender of a castle, surrender of a fortress, capitulation of a stronghold"
+        "meaning": "surrender of a castle, surrender of a fortress, capitulation of a stronghold |(vi) đầu hàng thành, đầu hàng pháo đài, thất thủ thành trì"
       },
       {
         "example": "傾城",
         "reading": "ケイセイ",
-        "meaning": "beauty, siren, courtesan, prostitute"
+        "meaning": "beauty, siren, courtesan, prostitute |(vi) mỹ nhân khuynh thành, kỹ nữ, gái mại dâm"
       },
       {
         "example": "傾国傾城",
         "reading": "ケイコクケイセイ",
-        "meaning": "woman so glamorous as to bring ruin to a country (castle) as its king (lord) is captivated by her beauty, femme fatale"
+        "meaning": "woman so glamorous as to bring ruin to a country (castle) as its king (lord) is captivated by her beauty, femme fatale |(vi) khuynh quốc khuynh thành, người phụ nữ đẹp đến mức làm vua say mê mà mất nước"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "城",
         "reading": "しろ",
-        "meaning": "castle"
+        "meaning": "castle |(vi) thành, lâu đài"
       },
       {
         "example": "城跡",
         "reading": "しろあと",
-        "meaning": "castle site, ruins of a castle"
+        "meaning": "castle site, ruins of a castle |(vi) di tích thành, tàn tích lâu đài"
       },
       {
         "example": "ハウルの動く城",
         "reading": "ハウルのうごくしろ",
-        "meaning": "Howl's Moving Castle (2004 animated film)"
+        "meaning": "Howl's Moving Castle (2004 animated film) |(vi) Lâu đài di động của Howl (phim hoạt hình 2004)"
       },
       {
         "example": "砂の城",
         "reading": "すなのしろ",
-        "meaning": "sandcastle, sand castle"
+        "meaning": "sandcastle, sand castle |(vi) lâu đài cát"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "ノ",

@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 4,
     "kunyomi": "ogosoka, kibishii, ogoso, kibi",
-    "meaning": "severe, strict, solemn",
+    "meaning": "severe, strict, solemn |(vi) nghiêm khắc, khắt khe, trang nghiêm",
     "kstroke": 17,
     "examples": [
       {
         "japanese": "厳冬（げんとう）",
         "meaning": {
-          "english": "severe winter"
+          "english": "severe winter |(vi) mùa đông khắc nghiệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "威厳（いげん）",
         "meaning": {
-          "english": "dignity"
+          "english": "dignity |(vi) uy nghiêm, oai nghiêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "戒厳令（かいげんれい）",
         "meaning": {
-          "english": "martial law"
+          "english": "martial law |(vi) lệnh giới nghiêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "厳格な（げんかくな）",
         "meaning": {
-          "english": "severe, strict, rigid"
+          "english": "severe, strict, rigid |(vi) nghiêm khắc, nghiêm ngặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "厳密な（げんみつな）",
         "meaning": {
-          "english": "accurate"
+          "english": "accurate |(vi) chính xác, nghiêm mật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "厳重な（げんじゅうな）",
         "meaning": {
-          "english": "strict, austere"
+          "english": "strict, austere |(vi) nghiêm ngặt, chặt chẽ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "厳守する（げんしゅする）",
         "meaning": {
-          "english": "observe (a rule) strictly"
+          "english": "observe (a rule) strictly |(vi) tuân thủ nghiêm ngặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "荘厳な（そうごんな）",
         "meaning": {
-          "english": "solemn, sublime, majestic"
+          "english": "solemn, sublime, majestic |(vi) trang nghiêm, uy nghi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "厳かな（おごそかな）",
         "meaning": {
-          "english": "solemn"
+          "english": "solemn |(vi) trang nghiêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "厳しい（きびしい）",
         "meaning": {
-          "english": "intense (e.g. cold), severe, strict"
+          "english": "intense (e.g. cold), severe, strict |(vi) khắc nghiệt, nghiêm khắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_j.opus",
@@ -263,7 +263,7 @@
     "kanji": {
       "character": "厳",
       "meaning": {
-        "english": "severe, strict, solemn"
+        "english": "severe, strict, solemn |(vi) nghiêm khắc, khắt khe, trang nghiêm"
       },
       "strokes": {
         "count": 17,
@@ -335,7 +335,7 @@
         "romaji": "tsu"
       },
       "meaning": {
-        "english": "Katakana Tsu"
+        "english": "Katakana Tsu |(vi) Tsu (nét katakana tsu)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsu0.svg",
@@ -356,7 +356,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "638",
     "strokeCount": 17,
-    "meaning": "stern, strictness, severity, rigidity",
+    "meaning": "stern, strictness, severity, rigidity |(vi) nghiêm khắc, nghiêm ngặt, khắc nghiệt, cứng rắn |(hv) Nghiêm",
     "kunyomi": [
       "おごそ.か",
       "きび.しい",
@@ -371,59 +371,59 @@
       {
         "example": "厳",
         "reading": "ゲン",
-        "meaning": "strict, stern"
+        "meaning": "strict, stern |(vi) nghiêm khắc, nghiêm nghị"
       },
       {
         "example": "厳格",
         "reading": "ゲンカク",
-        "meaning": "strict, severe, stern, rigid, rigorous, tough"
+        "meaning": "strict, severe, stern, rigid, rigorous, tough |(vi) nghiêm khắc, nghiêm ngặt, khắt khe"
       },
       {
         "example": "謹厳",
         "reading": "キンゲン",
-        "meaning": "stern, grave, solemn, sobersided"
+        "meaning": "stern, grave, solemn, sobersided |(vi) nghiêm nghị, đứng đắn"
       },
       {
         "example": "冷厳",
         "reading": "レイゲン",
-        "meaning": "grim, stern, stark, heartless"
+        "meaning": "grim, stern, stark, heartless |(vi) lạnh lùng nghiêm khắc, khắc nghiệt"
       },
       {
         "example": "華厳",
         "reading": "ケゴン",
-        "meaning": "avatamsa (flower adornment, as a metaphor for becoming a buddha), Avatamska sutra, Kegon (sect of Buddhism)"
+        "meaning": "avatamsa (flower adornment, as a metaphor for becoming a buddha), Avatamska sutra, Kegon (sect of Buddhism) |(vi) Hoa Nghiêm (tông phái Phật giáo, kinh Hoa Nghiêm)"
       },
       {
         "example": "荘厳",
         "reading": "ショウゴン",
-        "meaning": "decorating (a Buddhist statue or temple), adorning"
+        "meaning": "decorating (a Buddhist statue or temple), adorning |(vi) trang nghiêm, tô điểm (tượng Phật)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "厳か",
         "reading": "おごそか",
-        "meaning": "solemn (ceremony, atmosphere, etc.), austere, grave, majestic, dignified, stately, impressive"
+        "meaning": "solemn (ceremony, atmosphere, etc.), austere, grave, majestic, dignified, stately, impressive |(vi) trang nghiêm, uy nghi"
       },
       {
         "example": "厳しい",
         "reading": "きびしい",
-        "meaning": "severe, strict, rigid, unsparing, relentless, hard (to do), difficult, tricky, intense (e.g. cold), harsh (weather), inclement"
+        "meaning": "severe, strict, rigid, unsparing, relentless, hard (to do), difficult, tricky, intense (e.g. cold), harsh (weather), inclement |(vi) nghiêm khắc, khắc nghiệt, khó khăn"
       },
       {
         "example": "厳しい暑さ",
         "reading": "きびしいあつさ",
-        "meaning": "intense heat"
+        "meaning": "intense heat |(vi) cái nóng khắc nghiệt"
       },
       {
         "example": "厳めしい",
         "reading": "いかめしい",
-        "meaning": "stern, grave, austere, imposing, dignified, formidable, solemn, majestic, strict (e.g. security), severe, firm, rigid, rigorous"
+        "meaning": "stern, grave, austere, imposing, dignified, formidable, solemn, majestic, strict (e.g. security), severe, firm, rigid, rigorous |(vi) nghiêm nghị, oai nghiêm"
       }
     ],
     "radical": {
       "symbol": "厂",
-      "meaning": "cliff"
+      "meaning": "cliff |(vi) Hán (vách đá)"
     },
     "parts": [
       "乞",

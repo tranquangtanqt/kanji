@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "guard against, warn, admonish",
+    "meaning": "guard against, warn, admonish |(vi) cảnh giác, cảnh báo, răn đe",
     "kstroke": 19,
     "examples": [
       {
         "japanese": "警察（けいさつ）",
         "meaning": {
-          "english": "police"
+          "english": "police |(vi) cảnh sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(satsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "警官（けいかん）",
         "meaning": {
-          "english": "police officer"
+          "english": "police officer |(vi) cảnh sát viên, sĩ quan cảnh sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(satsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "警備（けいび）",
         "meaning": {
-          "english": "defense, guard, policing"
+          "english": "defense, guard, policing |(vi) canh gác, bảo vệ, tuần tra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(satsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "警部（けいぶ）",
         "meaning": {
-          "english": "police inspector"
+          "english": "police inspector |(vi) thanh tra cảnh sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(satsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "警報（けいほう）",
         "meaning": {
-          "english": "alarm, warning"
+          "english": "alarm, warning |(vi) còi báo động, cảnh báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(satsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "警鐘（けいしょう）",
         "meaning": {
-          "english": "alarm bell, fire bell"
+          "english": "alarm bell, fire bell |(vi) chuông báo động, chuông báo cháy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(satsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "警視庁（けいしちょう）",
         "meaning": {
-          "english": "police headquarters"
+          "english": "police headquarters |(vi) sở cảnh sát (Tokyo), tổng nha cảnh sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(satsu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "婦警（ふけい）",
         "meaning": {
-          "english": "policewoman"
+          "english": "policewoman |(vi) nữ cảnh sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(satsu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "県警（けんけい）",
         "meaning": {
-          "english": "prefectural police"
+          "english": "prefectural police |(vi) cảnh sát tỉnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(satsu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "警告する（けいこくする）",
         "meaning": {
-          "english": "warn, advice"
+          "english": "warn, advice |(vi) cảnh cáo, cảnh báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(satsu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "警戒する（けいかいする）",
         "meaning": {
-          "english": "warn, be vigilant [v.t.]"
+          "english": "warn, be vigilant [v.t.] |(vi) cảnh giác, đề phòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(satsu)_06_k.opus",
@@ -232,7 +232,7 @@
     "kanji": {
       "character": "警",
       "meaning": {
-        "english": "guard against, warn, admonish"
+        "english": "guard against, warn, admonish |(vi) cảnh giác, cảnh báo, răn đe"
       },
       "strokes": {
         "count": 19,
@@ -308,7 +308,7 @@
         "romaji": "gen"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói, nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gen-word0.svg",
@@ -329,7 +329,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "366",
     "strokeCount": 19,
-    "meaning": "admonish, commandment",
+    "meaning": "admonish, commandment |(vi) răn dạy, huấn thị, mệnh lệnh |(hv) Cảnh",
     "kunyomi": [
       "いまし.める"
     ],
@@ -340,29 +340,29 @@
       {
         "example": "警官",
         "reading": "ケイカン",
-        "meaning": "police officer, policeman, constable"
+        "meaning": "police officer, policeman, constable |(vi) cảnh sát viên, sĩ quan cảnh sát"
       },
       {
         "example": "警戒",
         "reading": "ケイカイ",
-        "meaning": "vigilance, caution, alertness, precaution, being on guard"
+        "meaning": "vigilance, caution, alertness, precaution, being on guard |(vi) cảnh giác, thận trọng, đề phòng"
       },
       {
         "example": "県警",
         "reading": "ケンケイ",
-        "meaning": "prefectural police"
+        "meaning": "prefectural police |(vi) cảnh sát tỉnh"
       },
       {
         "example": "府警",
         "reading": "フケイ",
-        "meaning": "prefectural police (Osaka or Kyoto)"
+        "meaning": "prefectural police (Osaka or Kyoto) |(vi) cảnh sát phủ (Osaka hoặc Kyoto)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "戒める",
         "reading": "いましめる",
-        "meaning": "to warn against, to caution against, to admonish, to scold, to rebuke, to prohibit, to forbid, to ban, to be cautious, to detest, to loathe, to punish"
+        "meaning": "to warn against, to caution against, to admonish, to scold, to rebuke, to prohibit, to forbid, to ban, to be cautious, to detest, to loathe, to punish |(vi) răn đe, cảnh cáo, khiển trách, cấm đoán, thận trọng, ghét bỏ, trừng phạt"
       }
     ],
     "radical": {
@@ -370,7 +370,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "乞",

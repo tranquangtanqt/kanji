@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 4,
     "kunyomi": "itona, itonamu, itonami",
-    "meaning": "manage, barracks, conduct business",
+    "meaning": "manage, barracks, conduct business |(vi) quản lý, doanh trại, kinh doanh",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "営利（えいり）",
         "meaning": {
-          "english": "profit making, gain [n.]"
+          "english": "profit making, gain [n.] |(vi) kiếm lợi, lợi nhuận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/itona(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "陣営（じんえい）",
         "meaning": {
-          "english": "camp [n.]"
+          "english": "camp [n.] |(vi) doanh trại, phe cánh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/itona(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "都営（とえい）",
         "meaning": {
-          "english": "run by the city Tokyo"
+          "english": "run by the city Tokyo |(vi) do thành phố Tokyo điều hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/itona(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "市営（しえい）",
         "meaning": {
-          "english": "run by the city, municipal"
+          "english": "run by the city, municipal |(vi) do thành phố điều hành, thuộc thành phố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/itona(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "営業する（えいぎょうする）",
         "meaning": {
-          "english": "run a business"
+          "english": "run a business |(vi) kinh doanh, hoạt động (doanh nghiệp)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/itona(mu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "経営する（けいえいする）",
         "meaning": {
-          "english": "manage"
+          "english": "manage |(vi) quản lý, điều hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/itona(mu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "運営する（うんえいする）",
         "meaning": {
-          "english": "administer"
+          "english": "administer |(vi) vận hành, điều hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/itona(mu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "営む（いとなむ）",
         "meaning": {
-          "english": "hold (ceremony), run (business)"
+          "english": "hold (ceremony), run (business) |(vi) tổ chức (nghi lễ), tiến hành (kinh doanh)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/itona(mu)_06_h.opus",
@@ -210,7 +210,7 @@
     "kanji": {
       "character": "営",
       "meaning": {
-        "english": "manage, barracks, conduct business"
+        "english": "manage, barracks, conduct business |(vi) quản lý, doanh trại, kinh doanh"
       },
       "strokes": {
         "count": 12,
@@ -272,7 +272,7 @@
         "romaji": "tsu"
       },
       "meaning": {
-        "english": "Katakana Tsu"
+        "english": "Katakana Tsu |(vi) Tiểu (nhỏ, dạng biến thể katakana tsu)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsu0.svg",
@@ -293,7 +293,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "303",
     "strokeCount": 12,
-    "meaning": "camp, perform, build, conduct (business)",
+    "meaning": "camp, perform, build, conduct (business) |(vi) doanh trại, thực hiện, xây dựng, tiến hành (kinh doanh) |(hv) Doanh",
     "kunyomi": [
       "いとな.む",
       "いとな.み"
@@ -305,39 +305,39 @@
       {
         "example": "営業所",
         "reading": "エイギョウショ",
-        "meaning": "business office, place of business"
+        "meaning": "business office, place of business |(vi) văn phòng kinh doanh, nơi giao dịch"
       },
       {
         "example": "営業",
         "reading": "エイギョウ",
-        "meaning": "business, trade, operations, sales"
+        "meaning": "business, trade, operations, sales |(vi) kinh doanh, buôn bán, hoạt động, bán hàng"
       },
       {
         "example": "国営",
         "reading": "コクエイ",
-        "meaning": "government management, state management"
+        "meaning": "government management, state management |(vi) do nhà nước quản lý, quốc doanh"
       },
       {
         "example": "公営",
         "reading": "コウエイ",
-        "meaning": "public management"
+        "meaning": "public management |(vi) do nhà nước/công cộng quản lý"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "営む",
         "reading": "いとなむ",
-        "meaning": "to run (a business), to operate, to conduct, to practice (law, medicine, etc.), to carry out, to perform, to lead (a life), to hold (a Buddhist or Shinto ceremony)"
+        "meaning": "to run (a business), to operate, to conduct, to practice (law, medicine, etc.), to carry out, to perform, to lead (a life), to hold (a Buddhist or Shinto ceremony) |(vi) kinh doanh, vận hành, hành nghề (luật, y...), thực hiện, tiến hành, sống (cuộc đời), tổ chức (nghi lễ Phật giáo hay Thần đạo)"
       },
       {
         "example": "営み",
         "reading": "いとなみ",
-        "meaning": "activity, action, performance, execution, occupation, business, work, sexual intercourse, sex, preparations"
+        "meaning": "activity, action, performance, execution, occupation, business, work, sexual intercourse, sex, preparations |(vi) hoạt động, hành động, việc làm, thực hiện, nghề nghiệp, công việc kinh doanh, quan hệ tình dục, sự chuẩn bị"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "ノ",

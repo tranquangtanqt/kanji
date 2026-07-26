@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "hito",
-    "meaning": "one",
+    "meaning": "one |(vi) một",
     "kstroke": 1,
     "examples": [
       {
         "japanese": "一年生（いちねんせい）",
         "meaning": {
-          "english": "first-year student"
+          "english": "first-year student |(vi) học sinh năm nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "一番（いちばん）",
         "meaning": {
-          "english": "number one"
+          "english": "number one |(vi) số một, hạng nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "一度（いちど）",
         "meaning": {
-          "english": "once"
+          "english": "once |(vi) một lần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "一杯（いっぱい）",
         "meaning": {
-          "english": "one cup of, a lot of"
+          "english": "one cup of, a lot of |(vi) một cốc/ly, đầy, nhiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "一緒（いっしょ）",
         "meaning": {
-          "english": "together"
+          "english": "together |(vi) cùng nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "一分（いっぷん）",
         "meaning": {
-          "english": "one minute"
+          "english": "one minute |(vi) một phút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "一枚（いちまい）",
         "meaning": {
-          "english": "one (flat object) "
+          "english": "one (flat object)  |(vi) một (vật phẳng, mỏng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "一つ（ひとつ）",
         "meaning": {
-          "english": "one (object) "
+          "english": "one (object)  |(vi) một (cái, đồ vật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "一人（ひとり）",
         "meaning": {
-          "english": "one person"
+          "english": "one person |(vi) một người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_i.opus",
@@ -276,7 +276,7 @@
     "kanji": {
       "character": "一",
       "meaning": {
-        "english": "one"
+        "english": "one |(vi) một"
       },
       "strokes": {
         "count": 1,
@@ -316,7 +316,7 @@
         "romaji": "ichi"
       },
       "meaning": {
-        "english": "one, horizontal stroke"
+        "english": "one, horizontal stroke |(vi) Nhất (một, nét ngang)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ichi0.svg",
@@ -337,7 +337,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "2",
     "strokeCount": 1,
-    "meaning": "one, one radical (no.1)",
+    "meaning": "one, one radical (no.1) |(vi) một, bộ một (bộ số 1) |(hv) Nhất",
     "kunyomi": [
       "ひと-",
       "ひと.つ"
@@ -350,59 +350,59 @@
       {
         "example": "一",
         "reading": "イチ",
-        "meaning": "one, 1, best, first, foremost, beginning, start, a (single), one (of many), ace, bottom string (on a shamisen, etc.)"
+        "meaning": "one, 1, best, first, foremost, beginning, start, a (single), one (of many), ace, bottom string (on a shamisen, etc.) |(vi) một, số 1, giỏi nhất, đầu tiên, khởi đầu, bắt đầu, một (cái), một (trong nhiều), con át (bài), dây dưới cùng (đàn shamisen)"
       },
       {
         "example": "一位",
         "reading": "イチイ",
-        "meaning": "first place, first rank, units position (of a number)"
+        "meaning": "first place, first rank, units position (of a number) |(vi) hạng nhất, vị trí hàng đơn vị (của một số)"
       },
       {
         "example": "十一",
         "reading": "ジュウイチ",
-        "meaning": "eleven, 11, jack"
+        "meaning": "eleven, 11, jack |(vi) mười một, 11, quân J (bài Tây)"
       },
       {
         "example": "１対１",
         "reading": "イチタイイチ",
-        "meaning": "one-to-one, one-on-one"
+        "meaning": "one-to-one, one-on-one |(vi) một chọi một, đối một"
       },
       {
         "example": "一",
         "reading": "イツ",
-        "meaning": "one, same (mind, path, etc.)"
+        "meaning": "one, same (mind, path, etc.) |(vi) một, giống nhau (tâm trí, con đường...)"
       },
       {
         "example": "一に",
         "reading": "イツニ",
-        "meaning": "solely, entirely, only, or"
+        "meaning": "solely, entirely, only, or |(vi) chỉ, hoàn toàn, duy nhất, hoặc"
       },
       {
         "example": "均一",
         "reading": "キンイツ",
-        "meaning": "uniformity, equality"
+        "meaning": "uniformity, equality |(vi) đồng đều, bình đẳng"
       },
       {
         "example": "画一",
         "reading": "カクイツ",
-        "meaning": "uniformity, standardization, standardisation"
+        "meaning": "uniformity, standardization, standardisation |(vi) đồng nhất, tiêu chuẩn hóa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "一つ",
         "reading": "ひとつ",
-        "meaning": "one, for one thing, only, (not) even, just (e.g. \"just try it\"), some kind of, one type of"
+        "meaning": "one, for one thing, only, (not) even, just (e.g. \"just try it\"), some kind of, one type of |(vi) một, một điều, chỉ, thậm chí (không), chỉ là (vd \"cứ thử xem\"), một loại nào đó, một kiểu"
       },
       {
         "example": "一つ一つ",
         "reading": "ひとつひとつ",
-        "meaning": "one-by-one, separately, in detail"
+        "meaning": "one-by-one, separately, in detail |(vi) từng cái một, riêng lẻ, chi tiết"
       }
     ],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": "one |(vi) Nhất (một)"
     },
     "parts": [
       "一"

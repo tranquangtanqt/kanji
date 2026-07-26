@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 2,
     "kunyomi": "nozo, nozoku",
-    "meaning": "rid of, exclude",
+    "meaning": "rid of, exclude |(vi) loại bỏ, trừ khử",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "除外する（じょがいする）",
         "meaning": {
-          "english": "exclude"
+          "english": "exclude |(vi) loại trừ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jo-nozo(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "除去する（じょきょする）",
         "meaning": {
-          "english": "remove, get rid of"
+          "english": "remove, get rid of |(vi) loại bỏ, khử trừ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jo-nozo(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "除雪する（じょせつする）",
         "meaning": {
-          "english": "remove snow"
+          "english": "remove snow |(vi) dọn tuyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jo-nozo(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "除名する（じょめいする）",
         "meaning": {
-          "english": "dismiss, expel, excommunicate"
+          "english": "dismiss, expel, excommunicate |(vi) khai trừ, trục xuất, rút phép thông công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jo-nozo(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "免除する（めんじょする）",
         "meaning": {
-          "english": "exempt, exonerate"
+          "english": "exempt, exonerate |(vi) miễn trừ, miễn tội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jo-nozo(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "排除する（はいじょする）",
         "meaning": {
-          "english": "exclude, remove, reject"
+          "english": "exclude, remove, reject |(vi) loại trừ, loại bỏ, bác bỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jo-nozo(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "解除する（かいじょする）",
         "meaning": {
-          "english": "cancel, rescind, release"
+          "english": "cancel, rescind, release |(vi) hủy bỏ, bãi bỏ, giải trừ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jo-nozo(ku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "削除する（さくじょする）",
         "meaning": {
-          "english": "eliminate, cancel, delete"
+          "english": "eliminate, cancel, delete |(vi) loại bỏ, hủy bỏ, xóa bỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jo-nozo(ku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "控除する（こうじょする）",
         "meaning": {
-          "english": "deduct, subtract"
+          "english": "deduct, subtract |(vi) khấu trừ, trừ đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jo-nozo(ku)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "掃除する（そうじする）",
         "meaning": {
-          "english": "clean, sweep"
+          "english": "clean, sweep |(vi) dọn dẹp, quét dọn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jo-nozo(ku)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "除く（のぞく）",
         "meaning": {
-          "english": "remove, exclude, exempt"
+          "english": "remove, exclude, exempt |(vi) loại bỏ, trừ ra, miễn trừ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jo-nozo(ku)_06_k.opus",
@@ -242,7 +242,7 @@
     "kanji": {
       "character": "除",
       "meaning": {
-        "english": "rid of, exclude"
+        "english": "rid of, exclude |(vi) loại bỏ, trừ khử"
       },
       "strokes": {
         "count": 10,
@@ -300,7 +300,7 @@
         "romaji": "kozatohen"
       },
       "meaning": {
-        "english": "hill, mound"
+        "english": "hill, mound |(vi) Phụ (gò đất, đê)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kozatohen0.svg",
@@ -321,7 +321,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "594",
     "strokeCount": 10,
-    "meaning": "exclude, division (x/3), remove, abolish, cancel, except",
+    "meaning": "exclude, division (x/3), remove, abolish, cancel, except |(vi) loại trừ, phép chia (x/3), loại bỏ, bãi bỏ, hủy bỏ, ngoại trừ |(hv) Trừ",
     "kunyomi": [
       "のぞ.く",
       "-よ.け"
@@ -334,49 +334,49 @@
       {
         "example": "除",
         "reading": "ジョ",
-        "meaning": "division"
+        "meaning": "division |(vi) phép chia"
       },
       {
         "example": "除外",
         "reading": "ジョガイ",
-        "meaning": "exception, exclusion"
+        "meaning": "exception, exclusion |(vi) ngoại lệ, sự loại trừ"
       },
       {
         "example": "切除",
         "reading": "セツジョ",
-        "meaning": "cut off, cut out, ablation, resection, surgical removal"
+        "meaning": "cut off, cut out, ablation, resection, surgical removal |(vi) cắt bỏ, cắt ra, cắt bỏ (mô), phẫu thuật cắt bỏ, loại bỏ bằng phẫu thuật"
       },
       {
         "example": "防除",
         "reading": "ボウジョ",
-        "meaning": "prevention (of plant disease and insect damage), (pest) control, extermination (of harmful insects), protection (against natural disasters)"
+        "meaning": "prevention (of plant disease and insect damage), (pest) control, extermination (of harmful insects), protection (against natural disasters) |(vi) phòng ngừa (bệnh cây và sâu hại), kiểm soát (sâu bệnh), diệt trừ (côn trùng có hại), phòng chống (thiên tai)"
       },
       {
         "example": "除",
         "reading": "ジョ",
-        "meaning": "division"
+        "meaning": "division |(vi) phép chia"
       },
       {
         "example": "除外",
         "reading": "ジョガイ",
-        "meaning": "exception, exclusion"
+        "meaning": "exception, exclusion |(vi) ngoại lệ, sự loại trừ"
       },
       {
         "example": "分解掃除",
         "reading": "ブンカイソウジ",
-        "meaning": "overhaul, taking apart and cleaning"
+        "meaning": "overhaul, taking apart and cleaning |(vi) tháo rời để bảo dưỡng, tháo ra và làm sạch"
       },
       {
         "example": "掃き掃除",
         "reading": "ハキソウジ",
-        "meaning": "sweeping and cleaning"
+        "meaning": "sweeping and cleaning |(vi) quét dọn và làm sạch"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "除く",
         "reading": "のぞく",
-        "meaning": "to remove, to get rid of, to take away, to eliminate, to exclude, to except, to leave out, to omit, to kill (a traitor, opponent, etc.)"
+        "meaning": "to remove, to get rid of, to take away, to eliminate, to exclude, to except, to leave out, to omit, to kill (a traitor, opponent, etc.) |(vi) loại bỏ, trừ khử, lấy đi, tiêu trừ, loại trừ, ngoại trừ, bỏ ra, bỏ sót, giết (kẻ phản bội, đối thủ...)"
       }
     ],
     "radical": {
@@ -384,7 +384,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "mound, dam (阝 left)"
+      "meaning": "mound, dam (阝 left) |(vi) Phụ (gò đất, đê)"
     },
     "parts": [
       "一",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "chi",
-    "meaning": "blood",
+    "meaning": "blood |(vi) máu",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "血液（けつえき）",
         "meaning": {
-          "english": "blood"
+          "english": "blood |(vi) máu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-chi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "血管（けっかん）",
         "meaning": {
-          "english": "blood vessel"
+          "english": "blood vessel |(vi) mạch máu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-chi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "血圧（けつあつ）",
         "meaning": {
-          "english": "blood pressure"
+          "english": "blood pressure |(vi) huyết áp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-chi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "血統書（けっとうしょ）",
         "meaning": {
-          "english": "a pedigree"
+          "english": "a pedigree |(vi) giấy chứng nhận huyết thống, gia phả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-chi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "貧血（ひんけつ）",
         "meaning": {
-          "english": "anemia"
+          "english": "anemia |(vi) thiếu máu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-chi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "出血する（しゅっけつする）",
         "meaning": {
-          "english": "bleed [v.i.]"
+          "english": "bleed [v.i.] |(vi) chảy máu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-chi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "輸血する（ゆけつする）",
         "meaning": {
-          "english": "give a blood transfusion"
+          "english": "give a blood transfusion |(vi) truyền máu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-chi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "献血する（けんけつする）",
         "meaning": {
-          "english": "donate blood"
+          "english": "donate blood |(vi) hiến máu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-chi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "血（ち）",
         "meaning": {
-          "english": "blood, consanguinity"
+          "english": "blood, consanguinity |(vi) máu, huyết thống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-chi_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "血眼（ちまなこ）",
         "meaning": {
-          "english": "bloodshot eyes, frantic"
+          "english": "bloodshot eyes, frantic |(vi) mắt đỏ ngầu, hớt hải, điên cuồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-chi_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "血塗れ（ちまみれ）",
         "meaning": {
-          "english": "bloodstained, bloody"
+          "english": "bloodstained, bloody |(vi) vấy máu, đẫm máu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-chi_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "鼻血（はなぢ）",
         "meaning": {
-          "english": "nosebleed"
+          "english": "nosebleed |(vi) chảy máu cam"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-chi_06_l.opus",
@@ -233,7 +233,7 @@
     "kanji": {
       "character": "血",
       "meaning": {
-        "english": "blood"
+        "english": "blood |(vi) máu"
       },
       "strokes": {
         "count": 6,
@@ -283,7 +283,7 @@
         "romaji": "chi"
       },
       "meaning": {
-        "english": "blood"
+        "english": "blood |(vi) Huyết (máu)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chi0.svg",
@@ -304,7 +304,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "832",
     "strokeCount": 6,
-    "meaning": "blood",
+    "meaning": "blood |(vi) máu |(hv) Huyết",
     "kunyomi": [
       "ち"
     ],
@@ -315,49 +315,49 @@
       {
         "example": "血液",
         "reading": "ケツエキ",
-        "meaning": "blood"
+        "meaning": "blood |(vi) máu"
       },
       {
         "example": "血圧",
         "reading": "ケツアツ",
-        "meaning": "blood pressure"
+        "meaning": "blood pressure |(vi) huyết áp"
       },
       {
         "example": "脳出血",
         "reading": "ノウシュッケツ",
-        "meaning": "cerebral hemorrhage, cerebral haemorrhage"
+        "meaning": "cerebral hemorrhage, cerebral haemorrhage |(vi) xuất huyết não"
       },
       {
         "example": "熱血",
         "reading": "ネッケツ",
-        "meaning": "hot blood, warm blood, zeal, fervor, fervour, ardor, ardour, enthusiasm"
+        "meaning": "hot blood, warm blood, zeal, fervor, fervour, ardor, ardour, enthusiasm |(vi) nhiệt huyết, máu nóng, hăng hái, nhiệt tình"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "血",
         "reading": "ち",
-        "meaning": "blood, blood, ancestry, lineage, stock, (the) blood, feelings, passions"
+        "meaning": "blood, blood, ancestry, lineage, stock, (the) blood, feelings, passions |(vi) máu, huyết thống, dòng dõi, tình cảm, đam mê"
       },
       {
         "example": "血筋",
         "reading": "ちすじ",
-        "meaning": "lineage, stock, descent, strain, blood relationship"
+        "meaning": "lineage, stock, descent, strain, blood relationship |(vi) dòng dõi, huyết thống, quan hệ máu mủ"
       },
       {
         "example": "黄色い血",
         "reading": "きいろいち",
-        "meaning": "blood low in blood cells (caused by frequent blood donations), yellow blood"
+        "meaning": "blood low in blood cells (caused by frequent blood donations), yellow blood |(vi) máu loãng (do hiến máu nhiều lần), máu nhạt màu"
       },
       {
         "example": "生き血",
         "reading": "いきち",
-        "meaning": "lifeblood"
+        "meaning": "lifeblood |(vi) máu tươi, máu sống"
       }
     ],
     "radical": {
       "symbol": "血",
-      "meaning": "blood"
+      "meaning": "blood |(vi) Huyết (máu)"
     },
     "parts": [
       "皿",

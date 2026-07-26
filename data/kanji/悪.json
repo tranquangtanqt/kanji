@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "waru, a, warui, warusa, ashi, ashiki",
-    "meaning": "bad, evil",
+    "meaning": "bad, evil |(vi) xấu, ác",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "悪魔（あくま）",
         "meaning": {
-          "english": "devil"
+          "english": "devil |(vi) ác quỷ, quỷ dữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "悪事（あくじ）",
         "meaning": {
-          "english": "evil deed"
+          "english": "evil deed |(vi) việc ác, hành vi xấu xa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "最悪（さいあく）",
         "meaning": {
-          "english": "the worst"
+          "english": "the worst |(vi) tệ nhất, xấu nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "悪条件（あくじょうけん）",
         "meaning": {
-          "english": "unfavorable conditions"
+          "english": "unfavorable conditions |(vi) điều kiện bất lợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "悪化する（あっかする）",
         "meaning": {
-          "english": "get worse [v.i.]"
+          "english": "get worse [v.i.] |(vi) trở nên tồi tệ hơn, xấu đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "悪寒（おかん）",
         "meaning": {
-          "english": "chill"
+          "english": "chill |(vi) ớn lạnh, rùng mình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "悪い（わるい）",
         "meaning": {
-          "english": "bad"
+          "english": "bad |(vi) xấu, tệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "悪口（わるくち）",
         "meaning": {
-          "english": "slander, abuse [n.]"
+          "english": "slander, abuse [n.] |(vi) nói xấu, chửi mắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "悪しからず（あしからず）",
         "meaning": {
-          "english": "don't get me wrong, but ..."
+          "english": "don't get me wrong, but ... |(vi) đừng hiểu lầm, xin đừng trách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "善し悪し（よしあし）",
         "meaning": {
-          "english": "good or bad"
+          "english": "good or bad |(vi) tốt xấu, hay dở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_j.opus",
@@ -296,7 +296,7 @@
     "kanji": {
       "character": "悪",
       "meaning": {
-        "english": "bad, evil"
+        "english": "bad, evil |(vi) xấu, ác"
       },
       "strokes": {
         "count": 11,
@@ -356,7 +356,7 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (trái tim, tâm trí, tinh thần)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -377,7 +377,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "530",
     "strokeCount": 11,
-    "meaning": "bad, vice, rascal, false, evil, wrong",
+    "meaning": "bad, vice, rascal, false, evil, wrong |(vi) xấu, tệ nạn, kẻ gian, giả dối, ác, sai trái |(hv) Ác",
     "kunyomi": [
       "わる.い",
       "わる-",
@@ -397,84 +397,84 @@
       {
         "example": "悪",
         "reading": "アク",
-        "meaning": "evil, wickedness, (role of) the villain (in theatre, etc.), the bad guy"
+        "meaning": "evil, wickedness, (role of) the villain (in theatre, etc.), the bad guy |(vi) cái ác, sự độc ác, vai phản diện (trong kịch...), kẻ xấu"
       },
       {
         "example": "悪質",
         "reading": "アクシツ",
-        "meaning": "malicious, vicious, malignant, underhanded, shoddy, inferior, poor-quality, second-rate"
+        "meaning": "malicious, vicious, malignant, underhanded, shoddy, inferior, poor-quality, second-rate |(vi) ác ý, hiểm độc, thâm hiểm, kém chất lượng, hạng hai"
       },
       {
         "example": "害悪",
         "reading": "ガイアク",
-        "meaning": "harm, injury, evil (influence)"
+        "meaning": "harm, injury, evil (influence) |(vi) tác hại, ảnh hưởng xấu"
       },
       {
         "example": "改悪",
         "reading": "カイアク",
-        "meaning": "changing (something) for the worse, disimprovement, deterioration"
+        "meaning": "changing (something) for the worse, disimprovement, deterioration |(vi) sửa đổi làm cho tệ hơn, thoái hóa, xuống cấp"
       },
       {
         "example": "悪寒",
         "reading": "オカン",
-        "meaning": "chill, shakes, ague"
+        "meaning": "chill, shakes, ague |(vi) ớn lạnh, run rẩy, sốt rét"
       },
       {
         "example": "悪血",
         "reading": "アクチ",
-        "meaning": "impure blood"
+        "meaning": "impure blood |(vi) máu xấu, máu độc"
       },
       {
         "example": "自己嫌悪",
         "reading": "ジコケンオ",
-        "meaning": "self-hatred, self-abhorrence, self-loathing"
+        "meaning": "self-hatred, self-abhorrence, self-loathing |(vi) tự ghét bản thân, tự chán ghét mình"
       },
       {
         "example": "好悪",
         "reading": "コウオ",
-        "meaning": "likes and dislikes"
+        "meaning": "likes and dislikes |(vi) thích và ghét, yêu ghét"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "悪い",
         "reading": "わるい",
-        "meaning": "bad, poor, undesirable, poor (quality), inferior, insufficient, evil, sinful, ugly, not beautiful, at fault, to blame, in the wrong, bad (at doing something), unprofitable, unbeneficial, sorry, (my) bad, unforgivable"
+        "meaning": "bad, poor, undesirable, poor (quality), inferior, insufficient, evil, sinful, ugly, not beautiful, at fault, to blame, in the wrong, bad (at doing something), unprofitable, unbeneficial, sorry, (my) bad, unforgivable |(vi) xấu, tệ, không mong muốn, kém chất lượng, không đủ, ác, tội lỗi, xấu xí, không đẹp, có lỗi, đáng trách, sai, kém (khi làm việc gì đó), không có lợi, xin lỗi"
       },
       {
         "example": "悪い行い",
         "reading": "わるいおこない",
-        "meaning": "bad deed, evil deed"
+        "meaning": "bad deed, evil deed |(vi) hành vi xấu, việc làm ác"
       },
       {
         "example": "悪し",
         "reading": "あし",
-        "meaning": "bad, evil"
+        "meaning": "bad, evil |(vi) xấu, ác"
       },
       {
         "example": "悪しからず",
         "reading": "あしからず",
-        "meaning": "don't get me wrong, but ..., I'm sorry"
+        "meaning": "don't get me wrong, but ..., I'm sorry |(vi) đừng hiểu lầm, xin lỗi"
       },
       {
         "example": "難い",
         "reading": "にくい",
-        "meaning": "difficult to ..., hard to ..."
+        "meaning": "difficult to ..., hard to ... |(vi) khó mà..., khó để..."
       },
       {
         "example": "憎い",
         "reading": "にくい",
-        "meaning": "hateful, detestable, abominable, vexing, provoking, amazing, fantastic, admirable, lovely, wonderful"
+        "meaning": "hateful, detestable, abominable, vexing, provoking, amazing, fantastic, admirable, lovely, wonderful |(vi) đáng ghét, đáng căm ghét, đáng khinh, bực mình, khiêu khích, đáng kinh ngạc, tuyệt vời, đáng ngưỡng mộ, đáng yêu, tuyệt diệu"
       },
       {
         "example": "安んぞ",
         "reading": "いずくんぞ",
-        "meaning": "how, why"
+        "meaning": "how, why |(vi) làm sao, tại sao"
       },
       {
         "example": "憎む",
         "reading": "にくむ",
-        "meaning": "to hate, to detest"
+        "meaning": "to hate, to detest |(vi) ghét, căm ghét"
       }
     ],
     "radical": {
@@ -483,7 +483,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim)"
     },
     "parts": [
       "一",

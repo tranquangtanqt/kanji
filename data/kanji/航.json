@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "navigate, sail",
+    "meaning": "navigate, sail |(vi) đi thuyền, hàng hải, bay",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "航海（こうかい）",
         "meaning": {
-          "english": "voyage, cruise, navigation"
+          "english": "voyage, cruise, navigation |(vi) chuyến hải trình, du hành trên biển, hàng hải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(kuuki)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "航路（こうろ）",
         "meaning": {
-          "english": "course, route, run"
+          "english": "course, route, run |(vi) tuyến đường, hải trình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(kuuki)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "航空機（こうくうき）",
         "meaning": {
-          "english": "aircraft"
+          "english": "aircraft |(vi) máy bay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(kuuki)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "航空券（こうくうけん）",
         "meaning": {
-          "english": "air ticket"
+          "english": "air ticket |(vi) vé máy bay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(kuuki)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "航空便（こうくうびん）",
         "meaning": {
-          "english": "air mail"
+          "english": "air mail |(vi) thư gửi bằng đường hàng không"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(kuuki)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "航空会社（こうくうがいしゃ）",
         "meaning": {
-          "english": "airline company"
+          "english": "airline company |(vi) hãng hàng không"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(kuuki)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "運航する（うんこうする）",
         "meaning": {
-          "english": "run (between), ply (the waters)"
+          "english": "run (between), ply (the waters) |(vi) vận hành (giữa các điểm), chạy tuyến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(kuuki)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "難航する（なんこうする）",
         "meaning": {
-          "english": "make a difficult passage"
+          "english": "make a difficult passage |(vi) gặp khó khăn khi di chuyển, hải trình gian nan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(kuuki)_06_h.opus",
@@ -183,7 +183,7 @@
     "kanji": {
       "character": "航",
       "meaning": {
-        "english": "navigate, sail"
+        "english": "navigate, sail |(vi) đi thuyền, hàng hải, bay"
       },
       "strokes": {
         "count": 10,
@@ -241,7 +241,7 @@
         "romaji": "funehen"
       },
       "meaning": {
-        "english": "ship, boat"
+        "english": "ship, boat |(vi) Chu (thuyền, tàu)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/funehen0.svg",
@@ -262,7 +262,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "665",
     "strokeCount": 10,
-    "meaning": "navigate, sail, cruise, fly",
+    "meaning": "navigate, sail, cruise, fly |(vi) đi thuyền, hàng hải, du hành, bay |(hv) Hàng",
     "kunyomi": [],
     "onyomi": [
       "コウ"
@@ -271,28 +271,28 @@
       {
         "example": "航空",
         "reading": "コウクウ",
-        "meaning": "aviation, flying"
+        "meaning": "aviation, flying |(vi) hàng không, bay"
       },
       {
         "example": "航海",
         "reading": "コウカイ",
-        "meaning": "(sea) voyage, navigation, sailing, passage, cruise"
+        "meaning": "(sea) voyage, navigation, sailing, passage, cruise |(vi) hải trình, hàng hải, đi biển"
       },
       {
         "example": "密航",
         "reading": "ミッコウ",
-        "meaning": "smuggling (people), stowing away"
+        "meaning": "smuggling (people), stowing away |(vi) buôn người, vượt biên trái phép"
       },
       {
         "example": "就航",
         "reading": "シュウコウ",
-        "meaning": "entering service (on a route; of a plane or ship), going into commission, being in service"
+        "meaning": "entering service (on a route; of a plane or ship), going into commission, being in service |(vi) bắt đầu khai thác tuyến (máy bay, tàu), đưa vào vận hành"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "舟",
-      "meaning": "boat"
+      "meaning": "boat |(vi) Chu (thuyền, tàu)"
     },
     "parts": [
       "亠",

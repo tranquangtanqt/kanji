@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "onoono",
-    "meaning": "each",
+    "meaning": "each |(vi) mỗi",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "各地（かくち）",
         "meaning": {
-          "english": "each place"
+          "english": "each place |(vi) mỗi nơi, các nơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onoono_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "各国（かっこく）",
         "meaning": {
-          "english": "each nation"
+          "english": "each nation |(vi) mỗi quốc gia, các nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onoono_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "各種（かくしゅ）",
         "meaning": {
-          "english": "each type"
+          "english": "each type |(vi) mỗi loại, các loại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onoono_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "各大学（かくだいがく）",
         "meaning": {
-          "english": "each university"
+          "english": "each university |(vi) mỗi trường đại học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onoono_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "各々（おのおの）",
         "meaning": {
-          "english": "respectively"
+          "english": "respectively |(vi) tương ứng, mỗi người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onoono_06_e.opus",
@@ -174,7 +174,7 @@
     "kanji": {
       "character": "各",
       "meaning": {
-        "english": "each"
+        "english": "each |(vi) mỗi"
       },
       "strokes": {
         "count": 6,
@@ -224,7 +224,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -245,7 +245,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "243",
     "strokeCount": 6,
-    "meaning": "each, every, either",
+    "meaning": "each, every, either |(vi) mỗi, mọi, cả hai |(hv) Các",
     "kunyomi": [
       "おのおの"
     ],
@@ -256,29 +256,29 @@
       {
         "example": "各",
         "reading": "カク",
-        "meaning": "each, every, all"
+        "meaning": "each, every, all |(vi) mỗi, mọi, tất cả"
       },
       {
         "example": "各自",
         "reading": "カクジ",
-        "meaning": "each (person), everyone, individual, respective"
+        "meaning": "each (person), everyone, individual, respective |(vi) mỗi người, mọi người, cá nhân, tương ứng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "各々",
         "reading": "おのおの",
-        "meaning": "each, you (plural)"
+        "meaning": "each, you (plural) |(vi) mỗi, các bạn (số nhiều)"
       },
       {
         "example": "各々方",
         "reading": "おのおのがた",
-        "meaning": "all of you"
+        "meaning": "all of you |(vi) tất cả các vị"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "口",

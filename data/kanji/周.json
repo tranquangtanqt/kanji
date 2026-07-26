@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "mawa, mawari",
-    "meaning": "lap, periphery, circumference",
+    "meaning": "lap, periphery, circumference |(vi) vòng, chu vi, ngoại vi",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "周囲（しゅうい）",
         "meaning": {
-          "english": "perimeter, surroundings"
+          "english": "perimeter, surroundings |(vi) chu vi, xung quanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-mawa(ri)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "周辺（しゅうへん）",
         "meaning": {
-          "english": "outskirts, peripheral"
+          "english": "outskirts, peripheral |(vi) chu biên, vùng ven, ngoại vi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-mawa(ri)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "周期（しゅうき）",
         "meaning": {
-          "english": "cycle, period"
+          "english": "cycle, period |(vi) chu kỳ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-mawa(ri)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "周波数（しゅうはすう）",
         "meaning": {
-          "english": "frequency"
+          "english": "frequency |(vi) tần số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-mawa(ri)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "周遊券（しゅうゆうけん）",
         "meaning": {
-          "english": "excursion ticket"
+          "english": "excursion ticket |(vi) vé du ngoạn trọn tuyến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-mawa(ri)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "円周（えんしゅう）",
         "meaning": {
-          "english": "circumference"
+          "english": "circumference |(vi) chu vi đường tròn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-mawa(ri)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "一周忌（いっしゅうき）",
         "meaning": {
-          "english": "first anniversary of a death"
+          "english": "first anniversary of a death |(vi) giỗ đầu, lễ giáp năm ngày mất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-mawa(ri)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "百周年（ひゃくしゅうねん）",
         "meaning": {
-          "english": "centennial"
+          "english": "centennial |(vi) lễ kỷ niệm 100 năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-mawa(ri)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "一周する（いっしゅうする）",
         "meaning": {
-          "english": "go around once"
+          "english": "go around once |(vi) đi vòng quanh một vòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-mawa(ri)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "周り（まわり）",
         "meaning": {
-          "english": "perimeter, surroundings"
+          "english": "perimeter, surroundings |(vi) chu vi, xung quanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-mawa(ri)_06_j.opus",
@@ -240,7 +240,7 @@
     "kanji": {
       "character": "周",
       "meaning": {
-        "english": "lap, periphery, circumference"
+        "english": "lap, periphery, circumference |(vi) vòng, chu vi, ngoại vi"
       },
       "strokes": {
         "count": 8,
@@ -294,7 +294,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -315,7 +315,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "562",
     "strokeCount": 8,
-    "meaning": "circumference, circuit, lap",
+    "meaning": "circumference, circuit, lap |(vi) chu vi, vòng quanh, vòng chạy |(hv) Chu",
     "kunyomi": [
       "まわ.り"
     ],
@@ -326,39 +326,39 @@
       {
         "example": "周",
         "reading": "シュウ",
-        "meaning": "counter for laps or circuits, perimeter, Zhou dynasty (of China; approx. 1046-256 BCE), Chou dynasty"
+        "meaning": "counter for laps or circuits, perimeter, Zhou dynasty (of China; approx. 1046-256 BCE), Chou dynasty |(vi) lượng từ đếm vòng, chu vi, nhà Chu (Trung Quốc, khoảng 1046–256 TCN)"
       },
       {
         "example": "周囲",
         "reading": "シュウイ",
-        "meaning": "surroundings, environs, circumference"
+        "meaning": "surroundings, environs, circumference |(vi) chu vi, vùng xung quanh, môi trường xung quanh"
       },
       {
         "example": "円周",
         "reading": "エンシュウ",
-        "meaning": "circumference"
+        "meaning": "circumference |(vi) chu vi đường tròn"
       },
       {
         "example": "外周",
         "reading": "ガイシュウ",
-        "meaning": "outer circumference, perimeter, outskirts, periphery"
+        "meaning": "outer circumference, perimeter, outskirts, periphery |(vi) ngoại chu, chu vi ngoài, vành ngoài, vùng ven"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "周り",
         "reading": "まわり",
-        "meaning": "circumference, girth, surroundings, neighbourhood, neighborhood, vicinity, people surrounding oneself, surrounding circumstances"
+        "meaning": "circumference, girth, surroundings, neighbourhood, neighborhood, vicinity, people surrounding oneself, surrounding circumstances |(vi) chu vi, vòng quanh, xung quanh, khu lân cận, vùng phụ cận, những người xung quanh mình, hoàn cảnh xung quanh"
       },
       {
         "example": "回りくどい",
         "reading": "まわりくどい",
-        "meaning": "circuitous, roundabout, indirect"
+        "meaning": "circuitous, roundabout, indirect |(vi) vòng vo, lòng vòng, gián tiếp"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "冂",

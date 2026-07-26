@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "wield, direct, command",
+    "meaning": "wield, direct, command |(vi) vung, chỉ huy, điều khiển",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "揮発油（きはつゆ）",
         "meaning": {
-          "english": "volatile oil"
+          "english": "volatile oil |(vi) xăng, dầu bay hơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)ki(bou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "指揮者（しきしゃ）",
         "meaning": {
-          "english": "conductor"
+          "english": "conductor |(vi) nhạc trưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)ki(bou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "指揮棒（しきぼう）",
         "meaning": {
-          "english": "conductor's baton"
+          "english": "conductor's baton |(vi) đũa chỉ huy (nhạc trưởng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)ki(bou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "指揮する（しきする）",
         "meaning": {
-          "english": "command, direct, conduct"
+          "english": "command, direct, conduct |(vi) chỉ huy, điều khiển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)ki(bou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "発揮する（はっきする）",
         "meaning": {
-          "english": "demonstrate one's ability"
+          "english": "demonstrate one's ability |(vi) phát huy khả năng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)ki(bou)_06_e.opus",
@@ -149,7 +149,7 @@
     "kanji": {
       "character": "揮",
       "meaning": {
-        "english": "wield, direct, command"
+        "english": "wield, direct, command |(vi) vung, chỉ huy, điều khiển"
       },
       "strokes": {
         "count": 12,
@@ -211,7 +211,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -232,7 +232,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "946",
     "strokeCount": 12,
-    "meaning": "brandish, wave, wag, swing, shake",
+    "meaning": "brandish, wave, wag, swing, shake |(vi) vung lên, vẫy, lắc lư, đung đưa, rung lắc |(hv) Huy",
     "kunyomi": [
       "ふる.う"
     ],
@@ -243,29 +243,29 @@
       {
         "example": "揮発",
         "reading": "キハツ",
-        "meaning": "volatilization, volatilisation"
+        "meaning": "volatilization, volatilisation |(vi) sự bay hơi"
       },
       {
         "example": "揮毫",
         "reading": "キゴウ",
-        "meaning": "writing (esp. commissioned calligraphy), drawing, painting"
+        "meaning": "writing (esp. commissioned calligraphy), drawing, painting |(vi) viết chữ (đặc biệt là thư pháp theo đơn đặt hàng), vẽ tranh"
       },
       {
         "example": "総指揮",
         "reading": "ソウシキ",
-        "meaning": "supreme command, direction over all"
+        "meaning": "supreme command, direction over all |(vi) quyền tổng chỉ huy, chỉ đạo chung"
       },
       {
         "example": "陣頭指揮",
         "reading": "ジントウシキ",
-        "meaning": "taking command of a corps in a battle, command exercised by the leader of a group"
+        "meaning": "taking command of a corps in a battle, command exercised by the leader of a group |(vi) trực tiếp chỉ huy quân đội tại trận, sự chỉ đạo của người đứng đầu nhóm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "振るう",
         "reading": "ふるう",
-        "meaning": "to swing, to wield (physically), to exert, to exercise (e.g. power, ability), to exhibit, to display, to wield (metaphorically), to flourish, to prosper, to thrive"
+        "meaning": "to swing, to wield (physically), to exert, to exercise (e.g. power, ability), to exhibit, to display, to wield (metaphorically), to flourish, to prosper, to thrive |(vi) vung, sử dụng (vật lý), phát huy, thực thi (quyền lực, khả năng...), thể hiện, trưng ra, vận dụng (theo nghĩa bóng), hưng thịnh, phát đạt, thịnh vượng"
       }
     ],
     "radical": {
@@ -273,7 +273,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "冖",

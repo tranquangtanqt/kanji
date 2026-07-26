@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "distinguished, England",
+    "meaning": "distinguished, England |(vi) xuất chúng, nước Anh",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "英語（えいご）",
         "meaning": {
-          "english": "English language"
+          "english": "English language |(vi) tiếng Anh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(go)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "英国（えいこく）",
         "meaning": {
-          "english": "England"
+          "english": "England |(vi) nước Anh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(go)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "英国人（えいこくじん）",
         "meaning": {
-          "english": "English person"
+          "english": "English person |(vi) người Anh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(go)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "英会話（えいかいわ）",
         "meaning": {
-          "english": "English conversation"
+          "english": "English conversation |(vi) hội thoại tiếng Anh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(go)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "英和辞典（えいわじてん）",
         "meaning": {
-          "english": "English-Japanese dictionary"
+          "english": "English-Japanese dictionary |(vi) từ điển Anh-Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(go)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "英雄（えいゆう）",
         "meaning": {
-          "english": "hero"
+          "english": "hero |(vi) anh hùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(go)_06_f.opus",
@@ -207,7 +207,7 @@
     "kanji": {
       "character": "英",
       "meaning": {
-        "english": "distinguished, England"
+        "english": "distinguished, England |(vi) xuất chúng, nước Anh"
       },
       "strokes": {
         "count": 8,
@@ -261,7 +261,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -282,7 +282,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "430",
     "strokeCount": 8,
-    "meaning": "England, English, hero, outstanding, calyx",
+    "meaning": "England, English, hero, outstanding, calyx |(vi) nước Anh, tiếng Anh, anh hùng, xuất chúng, đài hoa |(hv) Anh",
     "kunyomi": [
       "はなぶさ"
     ],
@@ -293,29 +293,29 @@
       {
         "example": "英",
         "reading": "エイ",
-        "meaning": "United Kingdom, Britain, English (language)"
+        "meaning": "United Kingdom, Britain, English (language) |(vi) Vương quốc Anh, nước Anh, tiếng Anh"
       },
       {
         "example": "英語",
         "reading": "エイゴ",
-        "meaning": "English (language)"
+        "meaning": "English (language) |(vi) tiếng Anh"
       },
       {
         "example": "育英",
         "reading": "イクエイ",
-        "meaning": "education of gifted young people, providing financial support to gifted students, education"
+        "meaning": "education of gifted young people, providing financial support to gifted students, education |(vi) giáo dục người trẻ tài năng, hỗ trợ tài chính cho học sinh giỏi, giáo dục"
       },
       {
         "example": "和英",
         "reading": "ワエイ",
-        "meaning": "Japanese-English, Japanese-English dictionary"
+        "meaning": "Japanese-English, Japanese-English dictionary |(vi) Nhật-Anh, từ điển Nhật-Anh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "花房",
         "reading": "はなぶさ",
-        "meaning": "calyx, corolla"
+        "meaning": "calyx, corolla |(vi) đài hoa, tràng hoa"
       }
     ],
     "radical": {
@@ -323,7 +323,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "ノ",

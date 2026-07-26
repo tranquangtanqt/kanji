@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 5,
     "kunyomi": "ma, maku, maki",
-    "meaning": "roll up, volume, wind",
+    "meaning": "roll up, volume, wind |(vi) cuộn lại, tập/quyển sách, cuốn",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "巻末（かんまつ）",
         "meaning": {
-          "english": "end of a book"
+          "english": "end of a book |(vi) cuối sách, phần cuối tập sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ma(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "全巻（ぜんかん）",
         "meaning": {
-          "english": "the whole volume"
+          "english": "the whole volume |(vi) toàn bộ tập/quyển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ma(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "別巻（べっかん）",
         "meaning": {
-          "english": "separate volume, extra issue"
+          "english": "separate volume, extra issue |(vi) tập riêng, số phụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ma(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "第一巻（だいいっかん）",
         "meaning": {
-          "english": "first volume"
+          "english": "first volume |(vi) tập một, quyển một"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ma(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "巻く（まく）",
         "meaning": {
-          "english": "wind, coil, roll [v.t.]"
+          "english": "wind, coil, roll [v.t.] |(vi) cuốn, quấn, cuộn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ma(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "巻き添え（まきぞえ）",
         "meaning": {
-          "english": "get mixed up in [n.]"
+          "english": "get mixed up in [n.] |(vi) bị liên lụy, vạ lây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ma(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "葉巻（はまき）",
         "meaning": {
-          "english": "cigar"
+          "english": "cigar |(vi) xì gà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ma(ku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "渦巻き（うずまき）",
         "meaning": {
-          "english": "whirlpool, eddy, coil"
+          "english": "whirlpool, eddy, coil |(vi) xoáy nước, vòng xoáy, cuộn xoắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ma(ku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "のり巻き（のりまき）",
         "meaning": {
-          "english": "Sushi roll"
+          "english": "Sushi roll |(vi) sushi cuộn (cuộn trong rong biển)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ma(ku)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "絵巻物（えまきもの）",
         "meaning": {
-          "english": "picture scroll"
+          "english": "picture scroll |(vi) tranh cuộn (emakimono)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ma(ku)_06_j.opus",
@@ -220,7 +220,7 @@
     "kanji": {
       "character": "巻",
       "meaning": {
-        "english": "roll up, volume, wind"
+        "english": "roll up, volume, wind |(vi) cuộn lại, tập/quyển sách, cuốn"
       },
       "strokes": {
         "count": 9,
@@ -276,7 +276,7 @@
         "romaji": "onore"
       },
       "meaning": {
-        "english": "self"
+        "english": "self |(vi) Kỷ (bản thân, chính mình)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/onore0.svg",
@@ -297,7 +297,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "944",
     "strokeCount": 9,
-    "meaning": "scroll, volume, book, part, roll up, wind up, tie, coil, counter for texts (or book scrolls)",
+    "meaning": "scroll, volume, book, part, roll up, wind up, tie, coil, counter for texts (or book scrolls) |(vi) cuộn giấy, tập/quyển, sách, phần, cuộn lại, quấn lại, buộc, xoắn, lượng từ đếm văn bản (hoặc cuộn sách) |(hv) Quyển",
     "kunyomi": [
       "ま.く",
       "まき",
@@ -311,84 +311,84 @@
       {
         "example": "巻",
         "reading": "カン",
-        "meaning": "volume (of book), reel (of film), scroll (of books or paintings), roll (paper, etc.)"
+        "meaning": "volume (of book), reel (of film), scroll (of books or paintings), roll (paper, etc.) |(vi) tập (sách), cuộn (phim), cuộn tranh/sách, cuộn (giấy...)"
       },
       {
         "example": "巻末",
         "reading": "カンマツ",
-        "meaning": "end of a book"
+        "meaning": "end of a book |(vi) cuối sách, phần cuối tập sách"
       },
       {
         "example": "圧巻",
         "reading": "アッカン",
-        "meaning": "highlight, best part, stunning, incredible, spectacular, breathtaking, to stun, to amaze, to impress, to overwhelm (with emotion)"
+        "meaning": "highlight, best part, stunning, incredible, spectacular, breathtaking, to stun, to amaze, to impress, to overwhelm (with emotion) |(vi) điểm nổi bật nhất, phần hay nhất, tuyệt vời, đáng kinh ngạc, ngoạn mục, choáng ngợp, gây ấn tượng mạnh, áp đảo về cảm xúc"
       },
       {
         "example": "通巻",
         "reading": "ツウカン",
-        "meaning": "consecutive number of volumes, total number of volumes"
+        "meaning": "consecutive number of volumes, total number of volumes |(vi) số thứ tự tập liên tục, tổng số tập"
       },
       {
         "example": "巻雲",
         "reading": "ケンウン",
-        "meaning": "cirrus (cloud)"
+        "meaning": "cirrus (cloud) |(vi) mây ti (mây tầng cao)"
       },
       {
         "example": "巻纓",
         "reading": "ケンエイ",
-        "meaning": "rolled tail (of a traditional Japanese hat), looped tail"
+        "meaning": "rolled tail (of a traditional Japanese hat), looped tail |(vi) dải mũ cuộn (của mũ truyền thống Nhật Bản), dải mũ vòng"
       },
       {
         "example": "席巻",
         "reading": "セッケン",
-        "meaning": "sweeping (over, across), conquering, overwhelming"
+        "meaning": "sweeping (over, across), conquering, overwhelming |(vi) quét sạch, chinh phục, áp đảo, thôn tính"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "巻く",
         "reading": "まく",
-        "meaning": "to wind, to coil, to roll, to wear (e.g. turban, scarf), to envelope, to shroud, to outflank, to skirt, to link (verse), to move ahead (three hours, etc.), to move up"
+        "meaning": "to wind, to coil, to roll, to wear (e.g. turban, scarf), to envelope, to shroud, to outflank, to skirt, to link (verse), to move ahead (three hours, etc.), to move up |(vi) cuốn, quấn, cuộn, đeo/quấn (khăn xếp, khăn choàng...), bao bọc, che phủ, đánh vòng, đi vòng qua, nối tiếp (thơ), tiến lên (ba giờ...), đẩy sớm lên"
       },
       {
         "example": "巻",
         "reading": "まき",
-        "meaning": "roll (e.g. of cloth), winding (e.g. watch), volume (of book), speeding up, heel (of a Japanese sandal)"
+        "meaning": "roll (e.g. of cloth), winding (e.g. watch), volume (of book), speeding up, heel (of a Japanese sandal) |(vi) cuộn (vải...), lên dây (đồng hồ), tập (sách), sự đẩy nhanh, gót guốc geta Nhật"
       },
       {
         "example": "巻き返し",
         "reading": "まきかえし",
-        "meaning": "rally, recovery, comeback, rollback, winding (thread, etc.)"
+        "meaning": "rally, recovery, comeback, rollback, winding (thread, etc.) |(vi) hồi phục, lội ngược dòng, phục hồi, cuốn lại (chỉ...)"
       },
       {
         "example": "絵巻",
         "reading": "えまき",
-        "meaning": "picture scroll"
+        "meaning": "picture scroll |(vi) tranh cuộn"
       },
       {
         "example": "鉢巻",
         "reading": "はちまき",
-        "meaning": "headband"
+        "meaning": "headband |(vi) khăn buộc đầu (hachimaki)"
       },
       {
         "example": "巻",
         "reading": "まき",
-        "meaning": "roll (e.g. of cloth), winding (e.g. watch), volume (of book), speeding up, heel (of a Japanese sandal)"
+        "meaning": "roll (e.g. of cloth), winding (e.g. watch), volume (of book), speeding up, heel (of a Japanese sandal) |(vi) cuộn (vải...), lên dây (đồng hồ), tập (sách), sự đẩy nhanh, gót guốc geta Nhật"
       },
       {
         "example": "巻き返し",
         "reading": "まきかえし",
-        "meaning": "rally, recovery, comeback, rollback, winding (thread, etc.)"
+        "meaning": "rally, recovery, comeback, rollback, winding (thread, etc.) |(vi) hồi phục, lội ngược dòng, phục hồi, cuốn lại (chỉ...)"
       },
       {
         "example": "絵巻",
         "reading": "えまき",
-        "meaning": "picture scroll"
+        "meaning": "picture scroll |(vi) tranh cuộn"
       },
       {
         "example": "鉢巻",
         "reading": "はちまき",
-        "meaning": "headband"
+        "meaning": "headband |(vi) khăn buộc đầu (hachimaki)"
       }
     ],
     "radical": {
@@ -398,7 +398,7 @@
         "已",
         "㔾"
       ],
-      "meaning": "oneself"
+      "meaning": "oneself |(vi) Kỷ (bản thân, chính mình)"
     },
     "parts": [
       "二",

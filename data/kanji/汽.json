@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "steam",
+    "meaning": "steam |(vi) hơi nước",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "汽車（きしゃ）",
         "meaning": {
-          "english": "train [n.]"
+          "english": "train [n.] |(vi) tàu hỏa (chạy bằng hơi nước)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(teki)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "汽船（きせん）",
         "meaning": {
-          "english": "steamship"
+          "english": "steamship |(vi) tàu thủy chạy hơi nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(teki)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "汽笛（きてき）",
         "meaning": {
-          "english": "steam whistle"
+          "english": "steam whistle |(vi) còi hơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(teki)_06_c.opus",
@@ -118,7 +118,7 @@
     "kanji": {
       "character": "汽",
       "meaning": {
-        "english": "steam"
+        "english": "steam |(vi) hơi nước"
       },
       "strokes": {
         "count": 7,
@@ -170,7 +170,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -191,7 +191,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2020",
     "strokeCount": 7,
-    "meaning": "vapor, steam",
+    "meaning": "vapor, steam |(vi) hơi, hơi nước |(hv) Khí",
     "kunyomi": [],
     "onyomi": [
       "キ"
@@ -200,12 +200,12 @@
       {
         "example": "汽車",
         "reading": "キシャ",
-        "meaning": "train (esp. long distance train), steam train"
+        "meaning": "train (esp. long distance train), steam train |(vi) tàu hỏa (đặc biệt tàu đường dài), tàu chạy hơi nước"
       },
       {
         "example": "汽船",
         "reading": "キセン",
-        "meaning": "steamship, steamboat, steamer"
+        "meaning": "steamship, steamboat, steamer |(vi) tàu thủy chạy hơi nước"
       }
     ],
     "kunyomiExamples": [],
@@ -215,7 +215,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "乞",

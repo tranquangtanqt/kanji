@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "kokono, kokonotsu",
-    "meaning": "nine",
+    "meaning": "nine |(vi) chín",
     "kstroke": 2,
     "examples": [
       {
         "japanese": "九州（きゅうしゅう）",
         "meaning": {
-          "english": "Kyuushuu"
+          "english": "Kyuushuu |(vi) Kyushu (đảo Kyushu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/9_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "九回（きゅうかい）",
         "meaning": {
-          "english": "9 times"
+          "english": "9 times |(vi) 9 lần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/9_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "九年（きゅうねん）",
         "meaning": {
-          "english": "9 years"
+          "english": "9 years |(vi) 9 năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/9_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "九月（くがつ）",
         "meaning": {
-          "english": "September"
+          "english": "September |(vi) tháng 9"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/9_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "九時（くじ）",
         "meaning": {
-          "english": "9 o'clock"
+          "english": "9 o'clock |(vi) 9 giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/9_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "十九日（じゅうくにち）",
         "meaning": {
-          "english": "19 days, 19th of the month"
+          "english": "19 days, 19th of the month |(vi) 19 ngày, ngày 19"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/9_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "九日（ここのか）",
         "meaning": {
-          "english": "9 days, 9th of the month"
+          "english": "9 days, 9th of the month |(vi) 9 ngày, ngày 9"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/9_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "九つ（ここのつ）",
         "meaning": {
-          "english": "9 (objects) "
+          "english": "9 (objects)  |(vi) 9 (đồ vật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/9_06_h.opus",
@@ -247,7 +247,7 @@
     "kanji": {
       "character": "九",
       "meaning": {
-        "english": "nine"
+        "english": "nine |(vi) chín"
       },
       "strokes": {
         "count": 2,
@@ -289,7 +289,7 @@
         "romaji": "otsu"
       },
       "meaning": {
-        "english": "the second "
+        "english": "the second  |(vi) Ất (thứ hai)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/otsu-nine0.svg",
@@ -310,7 +310,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "55",
     "strokeCount": 2,
-    "meaning": "nine",
+    "meaning": "nine |(vi) chín |(hv) Cửu",
     "kunyomi": [
       "ここの",
       "ここの.つ"
@@ -323,64 +323,64 @@
       {
         "example": "九",
         "reading": "キュウ",
-        "meaning": "nine, 9"
+        "meaning": "nine, 9 |(vi) chín, số 9"
       },
       {
         "example": "九州",
         "reading": "キュウシュウ",
-        "meaning": "Kyūshū (southernmost of the four main islands of Japan)"
+        "meaning": "Kyūshū (southernmost of the four main islands of Japan) |(vi) Kyushu (đảo cực nam trong bốn đảo chính của Nhật Bản)"
       },
       {
         "example": "十九",
         "reading": "ジュウキュウ",
-        "meaning": "nineteen, 19"
+        "meaning": "nineteen, 19 |(vi) mười chín, 19"
       },
       {
         "example": "２９",
         "reading": "ニジュウキュウ",
-        "meaning": "29, twenty nine, 5am"
+        "meaning": "29, twenty nine, 5am |(vi) 29, hai mươi chín, 5 giờ sáng"
       },
       {
         "example": "九",
         "reading": "キュウ",
-        "meaning": "nine, 9"
+        "meaning": "nine, 9 |(vi) chín, số 9"
       },
       {
         "example": "９月",
         "reading": "クガツ",
-        "meaning": "September, ninth month of the lunar calendar"
+        "meaning": "September, ninth month of the lunar calendar |(vi) tháng 9, tháng thứ chín theo âm lịch"
       },
       {
         "example": "九九",
         "reading": "クク",
-        "meaning": "multiplication table, times table"
+        "meaning": "multiplication table, times table |(vi) bảng cửu chương"
       },
       {
         "example": "第九",
         "reading": "ダイク",
-        "meaning": "ninth, Beethoven's Ninth Symphony"
+        "meaning": "ninth, Beethoven's Ninth Symphony |(vi) thứ chín, Bản giao hưởng số 9 của Beethoven"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "九",
         "reading": "きゅう",
-        "meaning": "nine, 9"
+        "meaning": "nine, 9 |(vi) chín, số 9"
       },
       {
         "example": "九重",
         "reading": "ここのえ",
-        "meaning": "ninefold, imperial palace, the Court"
+        "meaning": "ninefold, imperial palace, the Court |(vi) chín lớp, hoàng cung, triều đình"
       },
       {
         "example": "九つ",
         "reading": "ここのつ",
-        "meaning": "nine, nine years of age, twelve o'clock (old time system)"
+        "meaning": "nine, nine years of age, twelve o'clock (old time system) |(vi) chín, chín tuổi, mười hai giờ (hệ thống giờ cũ)"
       },
       {
         "example": "九つ時",
         "reading": "ここのつどき",
-        "meaning": "(approx.) twelve o'clock (am or pm, old time system), noon, midnight"
+        "meaning": "(approx.) twelve o'clock (am or pm, old time system), noon, midnight |(vi) khoảng mười hai giờ (sáng hoặc tối, hệ thống giờ cũ), giữa trưa, nửa đêm"
       }
     ],
     "radical": {
@@ -390,7 +390,7 @@
         "⺄",
         "乚"
       ],
-      "meaning": "second"
+      "meaning": "second |(vi) Ất (thứ hai)"
     },
     "parts": [
       "九"

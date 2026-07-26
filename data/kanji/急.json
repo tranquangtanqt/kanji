@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "iso, isogu, isogi",
-    "meaning": "urgent, hurry, sudden",
+    "meaning": "urgent, hurry, sudden |(vi) khẩn cấp, vội vàng, đột ngột",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "急用（きゅうよう）",
         "meaning": {
-          "english": "urgent business"
+          "english": "urgent business |(vi) việc gấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iso(gu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "急行（きゅうこう）",
         "meaning": {
-          "english": "express"
+          "english": "express |(vi) tàu tốc hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iso(gu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "急病（きゅうびょう）",
         "meaning": {
-          "english": "sudden illness"
+          "english": "sudden illness |(vi) bệnh đột ngột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iso(gu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "特急電車（とっきゅうでんしゃ）",
         "meaning": {
-          "english": "express train"
+          "english": "express train |(vi) tàu tốc hành đặc biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iso(gu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "急激な（きゅうげきな）",
         "meaning": {
-          "english": "sudden"
+          "english": "sudden |(vi) đột ngột, dữ dội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iso(gu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "緊急な（きんきゅうな）",
         "meaning": {
-          "english": "pressing"
+          "english": "pressing |(vi) cấp bách, khẩn cấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iso(gu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "急増する（きゅうぞうする）",
         "meaning": {
-          "english": "proliferate [v.i.]"
+          "english": "proliferate [v.i.] |(vi) tăng vọt [nội động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iso(gu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "急ぐ（いそぐ）",
         "meaning": {
-          "english": "hurry"
+          "english": "hurry |(vi) vội vàng, gấp gáp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iso(gu)_06_h.opus",
@@ -268,7 +268,7 @@
     "kanji": {
       "character": "急",
       "meaning": {
-        "english": "urgent, hurry, sudden"
+        "english": "urgent, hurry, sudden |(vi) khẩn cấp, vội vàng, đột ngột"
       },
       "strokes": {
         "count": 9,
@@ -324,7 +324,7 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (trái tim, tâm trí)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -345,7 +345,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "309",
     "strokeCount": 9,
-    "meaning": "hurry, emergency, sudden, steep",
+    "meaning": "hurry, emergency, sudden, steep |(vi) vội vàng, khẩn cấp, đột ngột, dốc đứng |(hv) Cấp",
     "kunyomi": [
       "いそ.ぐ",
       "いそ.ぎ",
@@ -358,44 +358,44 @@
       {
         "example": "急",
         "reading": "キュウ",
-        "meaning": "sudden, abrupt, unexpected, urgent, pressing, steep, sharp, precipitous, rapid, swift, fast, emergency, crisis, danger, urgency, hurrying, haste, (in gagaku or noh) end of a song"
+        "meaning": "sudden, abrupt, unexpected, urgent, pressing, steep, sharp, precipitous, rapid, swift, fast, emergency, crisis, danger, urgency, hurrying, haste, (in gagaku or noh) end of a song |(vi) đột ngột, bất ngờ, gấp gáp, cấp bách, dốc đứng, sắc bén, nguy hiểm, nhanh, khẩn cấp, khủng hoảng, sự vội vàng (trong nhã nhạc hay noh: đoạn cuối bài hát)"
       },
       {
         "example": "急遽",
         "reading": "キュウキョ",
-        "meaning": "hurriedly, in a hurry, hastily, in haste, sudden, abrupt"
+        "meaning": "hurriedly, in a hurry, hastily, in haste, sudden, abrupt |(vi) vội vàng, gấp gáp, đột ngột, bất chợt"
       },
       {
         "example": "準急",
         "reading": "ジュンキュウ",
-        "meaning": "semi-express train, local express train, sub-express train"
+        "meaning": "semi-express train, local express train, sub-express train |(vi) tàu bán tốc hành, tàu tốc hành địa phương"
       },
       {
         "example": "快急",
         "reading": "カイキュウ",
-        "meaning": "rapid express (train)"
+        "meaning": "rapid express (train) |(vi) tàu tốc hành nhanh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "急ぐ",
         "reading": "いそぐ",
-        "meaning": "to hurry, to rush, to hasten, to make something happen sooner"
+        "meaning": "to hurry, to rush, to hasten, to make something happen sooner |(vi) vội vàng, gấp rút, thúc đẩy làm sớm hơn"
       },
       {
         "example": "急ぎ",
         "reading": "いそぎ",
-        "meaning": "haste, hurry, expedition, speed, dispatch"
+        "meaning": "haste, hurry, expedition, speed, dispatch |(vi) sự vội vàng, gấp gáp, tốc độ, chuyển phát nhanh"
       },
       {
         "example": "急ぎ足",
         "reading": "いそぎあし",
-        "meaning": "fast pace, quick pace"
+        "meaning": "fast pace, quick pace |(vi) bước đi nhanh, sải chân nhanh"
       },
       {
         "example": "急く",
         "reading": "せく",
-        "meaning": "to hurry, to rush"
+        "meaning": "to hurry, to rush |(vi) vội vàng, gấp rút"
       }
     ],
     "radical": {
@@ -404,7 +404,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim)"
     },
     "parts": [
       "ヨ",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 3,
     "kunyomi": "samu, samui",
-    "meaning": "cold",
+    "meaning": "cold |(vi) lạnh",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "寒気（かんき）",
         "meaning": {
-          "english": "the cold (weather)"
+          "english": "the cold (weather) |(vi) cái lạnh (thời tiết)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/samu(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "寒波（かんぱ）",
         "meaning": {
-          "english": "spell of cold weather"
+          "english": "spell of cold weather |(vi) đợt lạnh, sóng lạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/samu(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "寒い（さむい）",
         "meaning": {
-          "english": "cold (e.g. weather)"
+          "english": "cold (e.g. weather) |(vi) lạnh (thời tiết...)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/samu(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "寒気（さむけ）",
         "meaning": {
-          "english": "chill"
+          "english": "chill |(vi) cảm giác ớn lạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/samu(i)_06_d.opus",
@@ -202,7 +202,7 @@
     "kanji": {
       "character": "寒",
       "meaning": {
-        "english": "cold"
+        "english": "cold |(vi) lạnh"
       },
       "strokes": {
         "count": 12,
@@ -264,7 +264,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà, bộ đầu mái)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -285,7 +285,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1456",
     "strokeCount": 12,
-    "meaning": "cold",
+    "meaning": "cold |(vi) lạnh |(hv) Hàn",
     "kunyomi": [
       "さむ.い"
     ],
@@ -296,34 +296,34 @@
       {
         "example": "寒",
         "reading": "カン",
-        "meaning": "midwinter, cold season, coldest days of the year"
+        "meaning": "midwinter, cold season, coldest days of the year |(vi) giữa mùa đông, mùa lạnh, những ngày lạnh nhất trong năm"
       },
       {
         "example": "寒気",
         "reading": "サムケ",
-        "meaning": "chill, the shivers, shivering fit, cold, coldness, cold air"
+        "meaning": "chill, the shivers, shivering fit, cold, coldness, cold air |(vi) ớn lạnh, rùng mình, cơn rét run, cái lạnh, không khí lạnh"
       },
       {
         "example": "悪寒",
         "reading": "オカン",
-        "meaning": "chill, shakes, ague"
+        "meaning": "chill, shakes, ague |(vi) cảm giác ớn lạnh, rùng mình, sốt rét run"
       },
       {
         "example": "防寒",
         "reading": "ボウカン",
-        "meaning": "protection against the cold"
+        "meaning": "protection against the cold |(vi) chống lạnh, phòng lạnh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "寒い",
         "reading": "さむい",
-        "meaning": "cold (e.g. weather), uninteresting (esp. joke), lame, dull, weak, corny"
+        "meaning": "cold (e.g. weather), uninteresting (esp. joke), lame, dull, weak, corny |(vi) lạnh (thời tiết...), nhạt nhẽo (đặc biệt là chuyện đùa), vô duyên, nhàm chán, yếu, sến"
       }
     ],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà)"
     },
     "parts": [
       "ハ",

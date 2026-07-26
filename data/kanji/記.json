@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "shiru, shirusu",
-    "meaning": "write down",
+    "meaning": "write down |(vi) ghi lại, viết xuống",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "記事（きじ）",
         "meaning": {
-          "english": "news story"
+          "english": "news story |(vi) bài báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-shiru(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "記者（きしゃ）",
         "meaning": {
-          "english": "reporter"
+          "english": "reporter |(vi) phóng viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-shiru(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "記号（きごう）",
         "meaning": {
-          "english": "symbol"
+          "english": "symbol |(vi) ký hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-shiru(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "記念日（きねんび）",
         "meaning": {
-          "english": "anniversary, memorial day"
+          "english": "anniversary, memorial day |(vi) ngày kỷ niệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-shiru(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "日記（にっき）",
         "meaning": {
-          "english": "diary"
+          "english": "diary |(vi) nhật ký"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-shiru(su)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "伝記（でんき）",
         "meaning": {
-          "english": "biography"
+          "english": "biography |(vi) tiểu sử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-shiru(su)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "下記（かき）",
         "meaning": {
-          "english": "things mentioned below (writing)"
+          "english": "things mentioned below (writing) |(vi) những điều nêu dưới đây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-shiru(su)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "記憶する（きおくする）",
         "meaning": {
-          "english": "remember"
+          "english": "remember |(vi) ghi nhớ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-shiru(su)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "記録する（きろくする）",
         "meaning": {
-          "english": "record, document [v.t.]"
+          "english": "record, document [v.t.] |(vi) ghi lại, ghi chép, ghi hồ sơ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-shiru(su)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "記入する（きにゅうする）",
         "meaning": {
-          "english": "fill in forms"
+          "english": "fill in forms |(vi) điền vào (mẫu đơn)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-shiru(su)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "暗記する（あんきする）",
         "meaning": {
-          "english": "memorize, learn by heart"
+          "english": "memorize, learn by heart |(vi) học thuộc lòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-shiru(su)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "記す（しるす）",
         "meaning": {
-          "english": "write down"
+          "english": "write down |(vi) ghi lại, viết xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-shiru(su)_06_l.opus",
@@ -287,7 +287,7 @@
     "kanji": {
       "character": "記",
       "meaning": {
-        "english": "write down"
+        "english": "write down |(vi) ghi lại, viết xuống"
       },
       "strokes": {
         "count": 10,
@@ -345,7 +345,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -366,7 +366,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "149",
     "strokeCount": 10,
-    "meaning": "scribe, account, narrative",
+    "meaning": "scribe, account, narrative |(vi) người ghi chép, sự tường thuật, câu chuyện |(hv) Ký",
     "kunyomi": [
       "しる.す"
     ],
@@ -377,29 +377,29 @@
       {
         "example": "記",
         "reading": "キ",
-        "meaning": "account, history, chronicle, annals, record, notice, note, as follows, Kojiki (earliest historical record of Japan, compiled in 712 CE), Records of Ancient Matters"
+        "meaning": "account, history, chronicle, annals, record, notice, note, as follows, Kojiki (earliest historical record of Japan, compiled in 712 CE), Records of Ancient Matters |(vi) sự tường thuật, lịch sử, biên niên sử, sử ký, ghi chép, thông báo, ghi chú, như sau, Kojiki (bộ sử ký cổ nhất của Nhật Bản, biên soạn năm 712), Cổ Sự Ký"
       },
       {
         "example": "記憶",
         "reading": "キオク",
-        "meaning": "memory, recollection, remembrance, memory, storage"
+        "meaning": "memory, recollection, remembrance, memory, storage |(vi) trí nhớ, hồi tưởng, ký ức, bộ nhớ (lưu trữ)"
       },
       {
         "example": "手記",
         "reading": "シュキ",
-        "meaning": "note, memorandum, memo, memoirs, personal account"
+        "meaning": "note, memorandum, memo, memoirs, personal account |(vi) ghi chú, bản ghi nhớ, hồi ký, tự thuật cá nhân"
       },
       {
         "example": "左記",
         "reading": "サキ",
-        "meaning": "undermentioned (statement), the following, at left"
+        "meaning": "undermentioned (statement), the following, at left |(vi) điều nêu dưới đây, như sau, bên trái (văn bản)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "記す",
         "reading": "しるす",
-        "meaning": "to write down, to note down, to jot down, to take a note of, to mention, to describe, to give an account of, to inscribe, to mark, to brand, to remember, to engrave (in one's mind)"
+        "meaning": "to write down, to note down, to jot down, to take a note of, to mention, to describe, to give an account of, to inscribe, to mark, to brand, to remember, to engrave (in one's mind) |(vi) ghi lại, ghi chú, viết xuống, đề cập, mô tả, tường thuật, khắc, đánh dấu, đóng dấu, ghi nhớ, khắc sâu (trong tâm trí)"
       }
     ],
     "radical": {
@@ -407,7 +407,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "已",

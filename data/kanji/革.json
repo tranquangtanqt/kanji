@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "kawa",
-    "meaning": "leather, reform",
+    "meaning": "leather, reform |(vi) da thuộc, cải cách",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "革命（かくめい）",
         "meaning": {
-          "english": "revolution"
+          "english": "revolution |(vi) cách mạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku-kawa_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "革新的な（かくしんてきな）",
         "meaning": {
-          "english": "revolutionary"
+          "english": "revolutionary |(vi) mang tính cách tân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku-kawa_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "改革する（かいかくする）",
         "meaning": {
-          "english": "reform [v.t.]"
+          "english": "reform [v.t.] |(vi) cải cách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku-kawa_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "革（かわ）",
         "meaning": {
-          "english": "leather"
+          "english": "leather |(vi) da thuộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku-kawa_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "革靴（かわぐつ）",
         "meaning": {
-          "english": "leather shoes"
+          "english": "leather shoes |(vi) giày da"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku-kawa_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "牛革（ぎゅうかわ）",
         "meaning": {
-          "english": "cowhide"
+          "english": "cowhide |(vi) da bò"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku-kawa_06_f.opus",
@@ -172,7 +172,7 @@
     "kanji": {
       "character": "革",
       "meaning": {
-        "english": "leather, reform"
+        "english": "leather, reform |(vi) da thuộc, cải cách"
       },
       "strokes": {
         "count": 9,
@@ -228,7 +228,7 @@
         "romaji": "tsukurigawa"
       },
       "meaning": {
-        "english": "leather"
+        "english": "leather |(vi) Cách (da thuộc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsukurigawa0.svg",
@@ -249,7 +249,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "249",
     "strokeCount": 9,
-    "meaning": "leather, skin, reform, become serious",
+    "meaning": "leather, skin, reform, become serious |(vi) da thuộc, da, cải cách, trở nên nghiêm trọng |(hv) Cách",
     "kunyomi": [
       "かわ"
     ],
@@ -260,49 +260,49 @@
       {
         "example": "革命",
         "reading": "カクメイ",
-        "meaning": "revolution, 58th year of the sexagenary cycle (in Onmyōdō)"
+        "meaning": "revolution, 58th year of the sexagenary cycle (in Onmyōdō) |(vi) cách mạng, năm Mậu (thứ 58 trong lục thập hoa giáp, Âm Dương đạo)"
       },
       {
         "example": "革新",
         "reading": "カクシン",
-        "meaning": "reform, innovation"
+        "meaning": "reform, innovation |(vi) cải cách, đổi mới"
       },
       {
         "example": "行革",
         "reading": "ギョウカク",
-        "meaning": "administrative reform"
+        "meaning": "administrative reform |(vi) cải cách hành chính"
       },
       {
         "example": "農地改革",
         "reading": "ノウチカイカク",
-        "meaning": "agrarian reform"
+        "meaning": "agrarian reform |(vi) cải cách ruộng đất"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "革",
         "reading": "かわ",
-        "meaning": "leather"
+        "meaning": "leather |(vi) da thuộc"
       },
       {
         "example": "革靴",
         "reading": "かわぐつ",
-        "meaning": "leather shoes, leather boots"
+        "meaning": "leather shoes, leather boots |(vi) giày da, ủng da"
       },
       {
         "example": "藍革",
         "reading": "あいかわ",
-        "meaning": "indigo-dyed leather"
+        "meaning": "indigo-dyed leather |(vi) da nhuộm chàm"
       },
       {
         "example": "負い革",
         "reading": "おいかわ",
-        "meaning": "sling (e.g. of a firearm)"
+        "meaning": "sling (e.g. of a firearm) |(vi) dây đeo (vd. súng)"
       }
     ],
     "radical": {
       "symbol": "革",
-      "meaning": "leather, rawhide"
+      "meaning": "leather, rawhide |(vi) Cách (da thuộc)"
     },
     "parts": [
       "十",

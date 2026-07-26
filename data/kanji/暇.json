@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "hima",
-    "meaning": "free time, leisure",
+    "meaning": "free time, leisure |(vi) thời gian rảnh, sự nhàn rỗi",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "余暇（よか）",
         "meaning": {
-          "english": "leisure, spare time"
+          "english": "leisure, spare time |(vi) thời gian rảnh, giải trí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hima_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "休暇（きゅうか）",
         "meaning": {
-          "english": "holiday"
+          "english": "holiday |(vi) kỳ nghỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hima_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "暇（ひま）",
         "meaning": {
-          "english": "free time"
+          "english": "free time |(vi) thời gian rảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hima_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "暇つぶし（ひまつぶし）",
         "meaning": {
-          "english": "killing time"
+          "english": "killing time |(vi) giết thời gian"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hima_06_d.opus",
@@ -165,7 +165,7 @@
     "kanji": {
       "character": "暇",
       "meaning": {
-        "english": "free time, leisure"
+        "english": "free time, leisure |(vi) thời gian rảnh, sự nhàn rỗi"
       },
       "strokes": {
         "count": 13,
@@ -229,7 +229,7 @@
         "romaji": "hihen"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hihen0.svg",
@@ -250,7 +250,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1386",
     "strokeCount": 13,
-    "meaning": "spare time, rest, leisure, time, leave of absence",
+    "meaning": "spare time, rest, leisure, time, leave of absence |(vi) thời gian rảnh, nghỉ ngơi, sự nhàn rỗi, thời gian, nghỉ phép |(hv) Hạ",
     "kunyomi": [
       "ひま",
       "いとま"
@@ -262,54 +262,54 @@
       {
         "example": "暇人",
         "reading": "ヒマジン",
-        "meaning": "person with a lot of free time on their hands, person of leisure, idler, loafer"
+        "meaning": "person with a lot of free time on their hands, person of leisure, idler, loafer |(vi) người rảnh rỗi, kẻ nhàn rỗi, người lười biếng"
       },
       {
         "example": "寸暇",
         "reading": "スンカ",
-        "meaning": "moment's leisure, free minute"
+        "meaning": "moment's leisure, free minute |(vi) chút thời gian rảnh, phút giây rảnh rỗi"
       },
       {
         "example": "請暇",
         "reading": "セイカ",
-        "meaning": "vacation request, request for leave of absence"
+        "meaning": "vacation request, request for leave of absence |(vi) đơn xin nghỉ phép"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "暇",
         "reading": "ひま",
-        "meaning": "spare time, free time, leisure, time (it takes to do something), time required, time off, leave, vacation, holiday, dismissal, firing, severance, divorce, free, not busy, unoccupied, idle, slow (business), slack, dull, to be free, to be not busy, to be available, to be doing nothing"
+        "meaning": "spare time, free time, leisure, time (it takes to do something), time required, time off, leave, vacation, holiday, dismissal, firing, severance, divorce, free, not busy, unoccupied, idle, slow (business), slack, dull, to be free, to be not busy, to be available, to be doing nothing |(vi) thời gian rảnh, sự nhàn rỗi, thời gian (cần để làm gì), thời gian nghỉ, nghỉ phép, kỳ nghỉ, sa thải, ly hôn, rảnh, không bận, nhàn rỗi, ế ẩm (kinh doanh), chậm"
       },
       {
         "example": "暇つぶし",
         "reading": "ひまつぶし",
-        "meaning": "killing time, keeping oneself occupied, time killer, wasting time, waste of time"
+        "meaning": "killing time, keeping oneself occupied, time killer, wasting time, waste of time |(vi) giết thời gian, lãng phí thời gian"
       },
       {
         "example": "暇暇",
         "reading": "ひまひま",
-        "meaning": "one's leisure hours"
+        "meaning": "one's leisure hours |(vi) những lúc rảnh rỗi"
       },
       {
         "example": "暇",
         "reading": "いとま",
-        "meaning": "(spare) time, free time, leisure, time off, leave, vacation, holiday, resignation, dismissal, divorce, leaving, taking one's leave, farewell"
+        "meaning": "(spare) time, free time, leisure, time off, leave, vacation, holiday, resignation, dismissal, divorce, leaving, taking one's leave, farewell |(vi) thời gian (rảnh), thời gian rảnh, sự nhàn rỗi, nghỉ phép, kỳ nghỉ, từ chức, sa thải, ly hôn, rời đi, cáo từ, tạm biệt"
       },
       {
         "example": "暇乞い",
         "reading": "いとまごい",
-        "meaning": "leave-taking, (saying) goodbye, requesting leave (from work)"
+        "meaning": "leave-taking, (saying) goodbye, requesting leave (from work) |(vi) lời từ biệt, xin nghỉ phép"
       },
       {
         "example": "お暇",
         "reading": "おいとま",
-        "meaning": "taking leave (of a visited place), leaving, going home, leaving one's employment, quitting one's job, being dismissed"
+        "meaning": "taking leave (of a visited place), leaving, going home, leaving one's employment, quitting one's job, being dismissed |(vi) cáo từ (nơi đã đến thăm), rời đi, về nhà, thôi việc, nghỉ việc, bị sa thải"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "又",

@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "mimi",
-    "meaning": "ear",
+    "meaning": "ear |(vi) tai",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "耳鼻科（じびか）",
         "meaning": {
-          "english": "otolaryngology"
+          "english": "otolaryngology |(vi) khoa tai mũi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mimi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "耳（みみ）",
         "meaning": {
-          "english": "ear"
+          "english": "ear |(vi) tai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mimi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "初耳（はつみみ）",
         "meaning": {
-          "english": "heard for the first time"
+          "english": "heard for the first time |(vi) lần đầu nghe thấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mimi_06_c.opus",
@@ -174,7 +174,7 @@
     "kanji": {
       "character": "耳",
       "meaning": {
-        "english": "ear"
+        "english": "ear |(vi) tai"
       },
       "strokes": {
         "count": 6,
@@ -224,7 +224,7 @@
         "romaji": "mimi"
       },
       "meaning": {
-        "english": "ear"
+        "english": "ear |(vi) Nhĩ (tai)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mimi0.svg",
@@ -245,7 +245,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1328",
     "strokeCount": 6,
-    "meaning": "ear",
+    "meaning": "ear |(vi) tai |(hv) Nhĩ",
     "kunyomi": [
       "みみ"
     ],
@@ -256,49 +256,49 @@
       {
         "example": "耳鼻科",
         "reading": "ジビカ",
-        "meaning": "otolaryngology, ear, nose, and throat department"
+        "meaning": "otolaryngology, ear, nose, and throat department |(vi) khoa tai mũi họng"
       },
       {
         "example": "耳鼻咽喉科",
         "reading": "ジビインコウカ",
-        "meaning": "otorhinolaryngology, otolaryngology, ear, nose and throat department"
+        "meaning": "otorhinolaryngology, otolaryngology, ear, nose and throat department |(vi) khoa tai mũi họng"
       },
       {
         "example": "中耳",
         "reading": "チュウジ",
-        "meaning": "middle ear, tympanum"
+        "meaning": "middle ear, tympanum |(vi) tai giữa"
       },
       {
         "example": "外耳",
         "reading": "ガイジ",
-        "meaning": "external ear, concha"
+        "meaning": "external ear, concha |(vi) tai ngoài, vành tai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "耳",
         "reading": "みみ",
-        "meaning": "ear, hearing, ear (for music, etc.), edge, crust, heel (of bread or cheese), selvedge (of woven fabric), selvage, ear (of a pot, jug, etc.), handle"
+        "meaning": "ear, hearing, ear (for music, etc.), edge, crust, heel (of bread or cheese), selvedge (of woven fabric), selvage, ear (of a pot, jug, etc.), handle |(vi) tai, thính giác, khiếu nghe nhạc, viền, rìa, phần vỏ cứng của bánh mì/phô mai, biên vải, quai (bình, ấm)"
       },
       {
         "example": "耳障り",
         "reading": "みみざわり",
-        "meaning": "hard (on the ears), offensive (to the ear), rasping, rough, harsh, grating, jarring, cacophonous"
+        "meaning": "hard (on the ears), offensive (to the ear), rasping, rough, harsh, grating, jarring, cacophonous |(vi) chói tai, khó nghe, nghe chướng tai"
       },
       {
         "example": "大耳",
         "reading": "おおみみ",
-        "meaning": "big ears, listening without paying attention"
+        "meaning": "big ears, listening without paying attention |(vi) tai to, nghe mà không để ý"
       },
       {
         "example": "遠耳",
         "reading": "とおみみ",
-        "meaning": "sharp hearing"
+        "meaning": "sharp hearing |(vi) thính tai, nghe xa"
       }
     ],
     "radical": {
       "symbol": "耳",
-      "meaning": "ear"
+      "meaning": "ear |(vi) Nhĩ (tai)"
     },
     "parts": [
       "耳"

@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "tera",
-    "meaning": "buddhist temple",
+    "meaning": "buddhist temple |(vi) chùa (Phật giáo)",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "寺院（じいん）",
         "meaning": {
-          "english": "temple"
+          "english": "temple |(vi) chùa, tự viện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tera_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "社寺（しゃじ）",
         "meaning": {
-          "english": "shrines and temples"
+          "english": "shrines and temples |(vi) đền chùa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tera_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "東大寺（とうだいじ）",
         "meaning": {
-          "english": "Todaiji Temple"
+          "english": "Todaiji Temple |(vi) Chùa Todaiji (Đông Đại Tự)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tera_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "金閣寺（きんかくじ）",
         "meaning": {
-          "english": "Kinkakuji Temple"
+          "english": "Kinkakuji Temple |(vi) Chùa Vàng (Kim Các Tự)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tera_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "寺（てら）",
         "meaning": {
-          "english": "temple"
+          "english": "temple |(vi) chùa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tera_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "寺参り（てらまいり）",
         "meaning": {
-          "english": "ritual visits to a temple"
+          "english": "ritual visits to a temple |(vi) việc đi lễ chùa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tera_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "尼寺（あまでら）",
         "meaning": {
-          "english": "nunnery, convent"
+          "english": "nunnery, convent |(vi) ni viện, tu viện nữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tera_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "山寺（やまでら）",
         "meaning": {
-          "english": "mountain temple"
+          "english": "mountain temple |(vi) chùa trên núi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tera_06_h.opus",
@@ -233,7 +233,7 @@
     "kanji": {
       "character": "寺",
       "meaning": {
-        "english": "buddhist temple"
+        "english": "buddhist temple |(vi) chùa (Phật giáo)"
       },
       "strokes": {
         "count": 6,
@@ -283,7 +283,7 @@
         "romaji": "sun"
       },
       "meaning": {
-        "english": "inch, (2.25 cm)"
+        "english": "inch, (2.25 cm) |(vi) Thốn (tấc, đơn vị đo ~2.25cm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sun0.svg",
@@ -304,7 +304,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "879",
     "strokeCount": 6,
-    "meaning": "Buddhist temple",
+    "meaning": "Buddhist temple |(vi) chùa, chùa Phật giáo |(hv) Tự",
     "kunyomi": [
       "てら"
     ],
@@ -315,44 +315,44 @@
       {
         "example": "寺",
         "reading": "ジ",
-        "meaning": "counter for temples"
+        "meaning": "counter for temples |(vi) lượng từ đếm chùa"
       },
       {
         "example": "寺院",
         "reading": "ジイン",
-        "meaning": "Buddhist temple, religious building, church, cathedral, mosque"
+        "meaning": "Buddhist temple, religious building, church, cathedral, mosque |(vi) chùa, cơ sở tôn giáo, nhà thờ, thánh đường, nhà thờ Hồi giáo"
       },
       {
         "example": "国分寺",
         "reading": "コクブンジ",
-        "meaning": "state-supported provincial temple (Nara period)"
+        "meaning": "state-supported provincial temple (Nara period) |(vi) chùa quốc phân (chùa nhà nước lập ở các tỉnh thời Nara)"
       },
       {
         "example": "古寺",
         "reading": "コジ",
-        "meaning": "old temple"
+        "meaning": "old temple |(vi) chùa cổ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "寺",
         "reading": "てら",
-        "meaning": "temple (Buddhist)"
+        "meaning": "temple (Buddhist) |(vi) chùa (Phật giáo)"
       },
       {
         "example": "寺子屋",
         "reading": "てらこや",
-        "meaning": "temple elementary school (during the Edo period)"
+        "meaning": "temple elementary school (during the Edo period) |(vi) trường học ở chùa (thời Edo)"
       },
       {
         "example": "宮寺",
         "reading": "ぐうじ",
-        "meaning": "Buddhist temple within a Shinto shrine"
+        "meaning": "Buddhist temple within a Shinto shrine |(vi) chùa Phật giáo trong đền Thần đạo"
       }
     ],
     "radical": {
       "symbol": "寸",
-      "meaning": "thumb, inch"
+      "meaning": "thumb, inch |(vi) Thốn (ngón tay cái, tấc)"
     },
     "parts": [
       "土",

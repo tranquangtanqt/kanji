@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "he, ta, heru, tatsu",
-    "meaning": "pass through, manage, sutra",
+    "meaning": "pass through, manage, sutra |(vi) đi qua, quản lý, kinh (kinh sách)",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "経済的な（けいざいてきな）",
         "meaning": {
-          "english": "economical"
+          "english": "economical |(vi) mang tính kinh tế, tiết kiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-he(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "経験（けいけん）",
         "meaning": {
-          "english": "experience"
+          "english": "experience |(vi) kinh nghiệm, trải nghiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-he(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "神経（しんけい）",
         "meaning": {
-          "english": "nerve"
+          "english": "nerve |(vi) thần kinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-he(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "経費（けいひ）",
         "meaning": {
-          "english": "expenses"
+          "english": "expenses |(vi) chi phí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-he(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "経度（けいど）",
         "meaning": {
-          "english": "longitude"
+          "english": "longitude |(vi) kinh độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-he(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "経営する（けいえいする）",
         "meaning": {
-          "english": "run (e.g. company)"
+          "english": "run (e.g. company) |(vi) điều hành, quản lý (công ty)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-he(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "経由する（けいゆする）",
         "meaning": {
-          "english": "go by way of, go via"
+          "english": "go by way of, go via |(vi) đi qua, quá cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-he(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "経過する（けいかする）",
         "meaning": {
-          "english": "pass, elapse [v.i.]"
+          "english": "pass, elapse [v.i.] |(vi) trôi qua, trải qua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-he(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "お経（おきょう）",
         "meaning": {
-          "english": "Buddhist sutras"
+          "english": "Buddhist sutras |(vi) kinh Phật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-he(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "経典（きょうてん）",
         "meaning": {
-          "english": "sacred books"
+          "english": "sacred books |(vi) kinh điển, sách thánh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-he(ru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "経る（へる）",
         "meaning": {
-          "english": "pass by, pass through"
+          "english": "pass by, pass through |(vi) trải qua, đi qua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-he(ru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "経つ（たつ）",
         "meaning": {
-          "english": "elapse [v.i.]"
+          "english": "elapse [v.i.] |(vi) trôi qua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-he(ru)_06_l.opus",
@@ -298,7 +298,7 @@
     "kanji": {
       "character": "経",
       "meaning": {
-        "english": "pass through, manage, sutra"
+        "english": "pass through, manage, sutra |(vi) đi qua, quản lý, kinh (kinh sách)"
       },
       "strokes": {
         "count": 11,
@@ -358,7 +358,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi chỉ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -379,7 +379,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "79",
     "strokeCount": 11,
-    "meaning": "sutra, longitude, pass thru, expire, warp",
+    "meaning": "sutra, longitude, pass thru, expire, warp |(vi) kinh sách, kinh độ, đi qua, hết hạn, sợi dọc (dệt vải) |(hv) Kinh",
     "kunyomi": [
       "へ.る",
       "た.つ",
@@ -396,69 +396,69 @@
       {
         "example": "経",
         "reading": "ケイ",
-        "meaning": "warp (weaving), longitude, scripture, sutra, trans-"
+        "meaning": "warp (weaving), longitude, scripture, sutra, trans- |(vi) sợi dọc (dệt vải), kinh độ, kinh sách, kinh, xuyên-"
       },
       {
         "example": "経団連",
         "reading": "ケイダンレン",
-        "meaning": "Federation of Economic Organizations (Organisation)"
+        "meaning": "Federation of Economic Organizations (Organisation) |(vi) Liên đoàn các Tổ chức Kinh tế (Nhật Bản)"
       },
       {
         "example": "月経",
         "reading": "ゲッケイ",
-        "meaning": "menstruation, menstrual period"
+        "meaning": "menstruation, menstrual period |(vi) kinh nguyệt, chu kỳ kinh nguyệt"
       },
       {
         "example": "政経",
         "reading": "セイケイ",
-        "meaning": "politics and economics"
+        "meaning": "politics and economics |(vi) chính trị và kinh tế"
       },
       {
         "example": "経",
         "reading": "キョウ",
-        "meaning": "sutra, Buddhist scriptures"
+        "meaning": "sutra, Buddhist scriptures |(vi) kinh Phật, kinh điển Phật giáo"
       },
       {
         "example": "経典",
         "reading": "キョウテン",
-        "meaning": "sacred books, sutras, scriptures (Bible, Koran, etc.)"
+        "meaning": "sacred books, sutras, scriptures (Bible, Koran, etc.) |(vi) sách thánh, kinh điển, kinh sách (Kinh Thánh, Kinh Koran, v.v.)"
       },
       {
         "example": "説経",
         "reading": "セッキョウ",
-        "meaning": "lecture on the sutras"
+        "meaning": "lecture on the sutras |(vi) bài giảng về kinh sách, thuyết pháp"
       },
       {
         "example": "法華経",
         "reading": "ホケキョウ",
-        "meaning": "Lotus Sutra"
+        "meaning": "Lotus Sutra |(vi) Kinh Pháp Hoa"
       },
       {
         "example": "経行",
         "reading": "キンヒン",
-        "meaning": "meditation performed while walking"
+        "meaning": "meditation performed while walking |(vi) thiền hành, đi kinh hành"
       },
       {
         "example": "看経",
         "reading": "カンキン",
-        "meaning": "silent reading of the sutras, sutra chanting"
+        "meaning": "silent reading of the sutras, sutra chanting |(vi) tụng kinh thầm, đọc kinh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "経る",
         "reading": "へる",
-        "meaning": "to pass, to elapse, to go by, to pass through, to go through, to experience, to go through, to undergo"
+        "meaning": "to pass, to elapse, to go by, to pass through, to go through, to experience, to go through, to undergo |(vi) trôi qua, trải qua, đi qua, xuyên qua, trải nghiệm, chịu đựng"
       },
       {
         "example": "経つ",
         "reading": "たつ",
-        "meaning": "to pass (of time), to elapse"
+        "meaning": "to pass (of time), to elapse |(vi) trôi qua (thời gian)"
       },
       {
         "example": "縦糸",
         "reading": "たていと",
-        "meaning": "(weaving) warp"
+        "meaning": "(weaving) warp |(vi) sợi dọc (trong dệt vải)"
       }
     ],
     "radical": {
@@ -466,7 +466,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi chỉ)"
     },
     "parts": [
       "又",

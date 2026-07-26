@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "haka, hakaru, hakari, hakarau",
-    "meaning": "plan, compute, measure",
+    "meaning": "plan, compute, measure |(vi) kế hoạch, tính toán, đo lường",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "時計（とけい）",
         "meaning": {
-          "english": "watch, clock"
+          "english": "watch, clock |(vi) đồng hồ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "統計（とうけい）",
         "meaning": {
-          "english": "statistics"
+          "english": "statistics |(vi) thống kê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "会計士（かいけいし）",
         "meaning": {
-          "english": "accountant"
+          "english": "accountant |(vi) kế toán viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "腕時計（うでどけい）",
         "meaning": {
-          "english": "wristwatch"
+          "english": "wristwatch |(vi) đồng hồ đeo tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "体温計（たいおんけい）",
         "meaning": {
-          "english": "medical thermometer"
+          "english": "medical thermometer |(vi) nhiệt kế (đo thân nhiệt)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "温度計（おんどけい）",
         "meaning": {
-          "english": "thermometer"
+          "english": "thermometer |(vi) nhiệt kế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "計画する（けいかくする）",
         "meaning": {
-          "english": "plan [v.t.]"
+          "english": "plan [v.t.] |(vi) lập kế hoạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "計算する（けいさんする）",
         "meaning": {
-          "english": "calculate"
+          "english": "calculate |(vi) tính toán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "設計する（せっけいする）",
         "meaning": {
-          "english": "design"
+          "english": "design |(vi) thiết kế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "合計する（ごうけいする）",
         "meaning": {
-          "english": "add up"
+          "english": "add up |(vi) cộng lại, tính tổng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "計る（はかる）",
         "meaning": {
-          "english": "measure"
+          "english": "measure |(vi) đo lường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_k.opus",
@@ -292,7 +292,7 @@
     "kanji": {
       "character": "計",
       "meaning": {
-        "english": "plan, compute, measure"
+        "english": "plan, compute, measure |(vi) kế hoạch, tính toán, đo lường"
       },
       "strokes": {
         "count": 9,
@@ -348,7 +348,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói, nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -369,7 +369,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "228",
     "strokeCount": 9,
-    "meaning": "plot, plan, scheme, measure",
+    "meaning": "plot, plan, scheme, measure |(vi) mưu kế, kế hoạch, mưu đồ, đo lường |(hv) Kế",
     "kunyomi": [
       "はか.る",
       "はか.らう"
@@ -381,34 +381,34 @@
       {
         "example": "計",
         "reading": "ケイ",
-        "meaning": "plan, meter, measuring device, (in) total, total (of)"
+        "meaning": "plan, meter, measuring device, (in) total, total (of) |(vi) kế hoạch, đồng hồ đo, thiết bị đo lường, tổng cộng"
       },
       {
         "example": "計画",
         "reading": "ケイカク",
-        "meaning": "plan, project, schedule, scheme, program, programme"
+        "meaning": "plan, project, schedule, scheme, program, programme |(vi) kế hoạch, dự án, chương trình"
       },
       {
         "example": "生計",
         "reading": "セイケイ",
-        "meaning": "livelihood, living"
+        "meaning": "livelihood, living |(vi) sinh kế, cuộc sống mưu sinh"
       },
       {
         "example": "推計",
         "reading": "スイケイ",
-        "meaning": "estimate, estimation"
+        "meaning": "estimate, estimation |(vi) ước tính, ước lượng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "計る",
         "reading": "はかる",
-        "meaning": "to measure, to weigh, to survey, to time (sound, gauge, estimate), to conjecture, to infer, to surmise"
+        "meaning": "to measure, to weigh, to survey, to time (sound, gauge, estimate), to conjecture, to infer, to surmise |(vi) đo, cân, khảo sát, tính thời gian, ước lượng, suy đoán"
       },
       {
         "example": "計らう",
         "reading": "はからう",
-        "meaning": "to manage, to arrange, to see to (a matter), to dispose of, to consult (with), to talk (to)"
+        "meaning": "to manage, to arrange, to see to (a matter), to dispose of, to consult (with), to talk (to) |(vi) thu xếp, xử lý (một việc), bàn bạc, trao đổi"
       }
     ],
     "radical": {
@@ -416,7 +416,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "十",

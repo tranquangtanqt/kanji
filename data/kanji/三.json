@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "mi, mikka, mittsu",
-    "meaning": "three",
+    "meaning": "three |(vi) ba",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "三人（さんにん）",
         "meaning": {
-          "english": "3 people"
+          "english": "3 people |(vi) 3 người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/3_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "三時（さんじ）",
         "meaning": {
-          "english": "3 o'clock"
+          "english": "3 o'clock |(vi) 3 giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/3_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "三枚（さんまい）",
         "meaning": {
-          "english": "3 (flat objects)"
+          "english": "3 (flat objects) |(vi) 3 (tờ, tấm - vật phẳng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/3_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "三月（さんがつ）",
         "meaning": {
-          "english": "March"
+          "english": "March |(vi) tháng 3"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/3_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "三日（みっか）",
         "meaning": {
-          "english": "3 days, 3rd day of the month"
+          "english": "3 days, 3rd day of the month |(vi) 3 ngày, ngày mùng 3"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/3_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "三つ（みっつ）",
         "meaning": {
-          "english": "3 (pieces)"
+          "english": "3 (pieces) |(vi) 3 (cái, đồ vật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/3_06_f.opus",
@@ -225,7 +225,7 @@
     "kanji": {
       "character": "三",
       "meaning": {
-        "english": "three"
+        "english": "three |(vi) ba"
       },
       "strokes": {
         "count": 3,
@@ -269,7 +269,7 @@
         "romaji": "ichi"
       },
       "meaning": {
-        "english": "one, horizontal stroke"
+        "english": "one, horizontal stroke |(vi) Nhất (một, nét ngang)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ichi0.svg",
@@ -290,7 +290,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "14",
     "strokeCount": 3,
-    "meaning": "three",
+    "meaning": "three |(vi) ba |(hv) Tam",
     "kunyomi": [
       "み",
       "み.つ",
@@ -304,64 +304,64 @@
       {
         "example": "三",
         "reading": "サン",
-        "meaning": "three, 3"
+        "meaning": "three, 3 |(vi) ba, số 3"
       },
       {
         "example": "三",
         "reading": "サン",
-        "meaning": "three"
+        "meaning": "three |(vi) ba"
       },
       {
         "example": "十三",
         "reading": "ジュウサン",
-        "meaning": "thirteen, 13, king"
+        "meaning": "thirteen, 13, king |(vi) mười ba, 13, vua"
       },
       {
         "example": "七三",
         "reading": "シチサン",
-        "meaning": "7 or 3 ratio, hair parted on one side"
+        "meaning": "7 or 3 ratio, hair parted on one side |(vi) tỷ lệ 7:3, tóc rẽ ngôi lệch"
       },
       {
         "example": "四三",
         "reading": "シソウ",
-        "meaning": "one four-of-a-kind and one three-of-a-kind in a dealt hand, three and a four (in dice games)"
+        "meaning": "one four-of-a-kind and one three-of-a-kind in a dealt hand, three and a four (in dice games) |(vi) một bộ tứ và một bộ tam trong ván bài, ba và bốn (trò xúc xắc)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "三",
         "reading": "さん",
-        "meaning": "three, 3"
+        "meaning": "three, 3 |(vi) ba, số 3"
       },
       {
         "example": "三十日",
         "reading": "みそか",
-        "meaning": "last day of the month"
+        "meaning": "last day of the month |(vi) ngày cuối tháng"
       },
       {
         "example": "三つ",
         "reading": "みっつ",
-        "meaning": "three, three years of age"
+        "meaning": "three, three years of age |(vi) ba, ba tuổi"
       },
       {
         "example": "三つ折り",
         "reading": "みつおり",
-        "meaning": "threefold, folded in three"
+        "meaning": "threefold, folded in three |(vi) gấp ba, gập làm ba"
       },
       {
         "example": "三つ",
         "reading": "みっつ",
-        "meaning": "three, three years of age"
+        "meaning": "three, three years of age |(vi) ba, ba tuổi"
       },
       {
         "example": "３つの密",
         "reading": "みっつのみつ",
-        "meaning": "three Cs, three conditions that facilitate the transmission of infectious diseases (closed spaces, crowds, and close contact)"
+        "meaning": "three Cs, three conditions that facilitate the transmission of infectious diseases (closed spaces, crowds, and close contact) |(vi) ba chữ C (không gian kín, đông người, tiếp xúc gần - ba điều kiện dễ lây bệnh truyền nhiễm)"
       }
     ],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": "one |(vi) Nhất (một, nét ngang)"
     },
     "parts": [
       "一",

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 50,
     "kunyomi": "ya, yaku, yaki, yakeru",
-    "meaning": "burn, roast, broil, bake",
+    "meaning": "burn, roast, broil, bake |(vi) đốt, nướng, quay, nướng bánh",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "焼却する（しょうきゃくする）",
         "meaning": {
-          "english": "incinerate, burn up"
+          "english": "incinerate, burn up |(vi) thiêu hủy, đốt bỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-ya(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "焼死する（しょうしする）",
         "meaning": {
-          "english": "be burned to death"
+          "english": "be burned to death |(vi) chết cháy, bị thiêu chết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-ya(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "全焼する（ぜんしょうする）",
         "meaning": {
-          "english": "burn down completely"
+          "english": "burn down completely |(vi) cháy trụi, thiêu rụi hoàn toàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-ya(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "焼く（やく）",
         "meaning": {
-          "english": "bake, grill [v.t.]"
+          "english": "bake, grill [v.t.] |(vi) nướng, đốt, rang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-ya(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "焼き物（やきもの）",
         "meaning": {
-          "english": "earthenware, pottery, porcelain"
+          "english": "earthenware, pottery, porcelain |(vi) đồ gốm, đồ sứ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-ya(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "焼きもち（やきもち）",
         "meaning": {
-          "english": "jealousy"
+          "english": "jealousy |(vi) ghen tuông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-ya(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "焼き鳥（やきとり）",
         "meaning": {
-          "english": "grilled chicken on a stick"
+          "english": "grilled chicken on a stick |(vi) gà nướng xiên (yakitori)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-ya(ku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "目玉焼き（めだまやき）",
         "meaning": {
-          "english": "eggs fried sunny-side-up"
+          "english": "eggs fried sunny-side-up |(vi) trứng ốp la"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-ya(ku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "焼ける（やける）",
         "meaning": {
-          "english": "be burned, be sunburnt [v.i.]"
+          "english": "be burned, be sunburnt [v.i.] |(vi) bị cháy, bị rám nắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-ya(ku)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "日焼け（ひやけ）",
         "meaning": {
-          "english": "sunburn"
+          "english": "sunburn |(vi) cháy nắng, rám nắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-ya(ku)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "夕焼け（ゆうやけ）",
         "meaning": {
-          "english": "sunset"
+          "english": "sunset |(vi) ráng chiều, hoàng hôn đỏ rực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-ya(ku)_06_k.opus",
@@ -263,7 +263,7 @@
     "kanji": {
       "character": "焼",
       "meaning": {
-        "english": "burn, roast, broil, bake"
+        "english": "burn, roast, broil, bake |(vi) đốt, nướng, quay, nướng bánh"
       },
       "strokes": {
         "count": 12,
@@ -325,7 +325,7 @@
         "romaji": "hihen"
       },
       "meaning": {
-        "english": "fire"
+        "english": "fire |(vi) Hỏa (lửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hihen-fire0.svg",
@@ -346,7 +346,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "982",
     "strokeCount": 12,
-    "meaning": "bake, burning",
+    "meaning": "bake, burning |(vi) nướng, đốt cháy |(hv) Thiêu",
     "kunyomi": [
       "や.く",
       "や.き",
@@ -361,54 +361,54 @@
       {
         "example": "焼死",
         "reading": "ショウシ",
-        "meaning": "death by fire"
+        "meaning": "death by fire |(vi) chết cháy, tử vong do hỏa hoạn"
       },
       {
         "example": "焼却",
         "reading": "ショウキャク",
-        "meaning": "incineration, destruction by fire"
+        "meaning": "incineration, destruction by fire |(vi) thiêu hủy, đốt bỏ"
       },
       {
         "example": "半焼",
         "reading": "ハンショウ",
-        "meaning": "partial destruction by fire"
+        "meaning": "partial destruction by fire |(vi) cháy một phần, cháy dở"
       },
       {
         "example": "延焼",
         "reading": "エンショウ",
-        "meaning": "spread of fire"
+        "meaning": "spread of fire |(vi) cháy lan, lửa lan rộng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "焼く",
         "reading": "やく",
-        "meaning": "to burn, to roast, to broil, to grill, to bake, to toast, to barbecue, to heat, to heat up, to make (charcoal, pottery, bricks, etc.), to bake, to fire, to burn, to tan (i.e. suntan), to burn, to print (a photo), to burn (an optical disc), to be jealous of, to be envious of, to envy"
+        "meaning": "to burn, to roast, to broil, to grill, to bake, to toast, to barbecue, to heat, to heat up, to make (charcoal, pottery, bricks, etc.), to bake, to fire, to burn, to tan (i.e. suntan), to burn, to print (a photo), to burn (an optical disc), to be jealous of, to be envious of, to envy |(vi) nướng, đốt, quay, rang, nung (gốm, than, gạch), tráng (ảnh), ghi (đĩa), rám nắng, ghen tị"
       },
       {
         "example": "焼き",
         "reading": "やき",
-        "meaning": "cooking, esp. frying or stir-frying, heating, tempering, -ware"
+        "meaning": "cooking, esp. frying or stir-frying, heating, tempering, -ware |(vi) nướng, rán, xào, tôi (kim loại), đồ nung"
       },
       {
         "example": "焼肉",
         "reading": "やきにく",
-        "meaning": "yakiniku, Japanese dish of grilled meat similar to Korean barbecue, roasted meat, grill"
+        "meaning": "yakiniku, Japanese dish of grilled meat similar to Korean barbecue, roasted meat, grill |(vi) thịt nướng (yakiniku)"
       },
       {
         "example": "お好み焼き",
         "reading": "おこのみやき",
-        "meaning": "okonomiyaki, savoury pancake fried on an iron griddle with vegetables, meat and/or seafood and topped with various sauces and condiments"
+        "meaning": "okonomiyaki, savoury pancake fried on an iron griddle with vegetables, meat and/or seafood and topped with various sauces and condiments |(vi) bánh xèo Nhật (okonomiyaki)"
       },
       {
         "example": "たこ焼き",
         "reading": "たこやき",
-        "meaning": "takoyaki, octopus dumplings"
+        "meaning": "takoyaki, octopus dumplings |(vi) bánh bạch tuộc chiên (takoyaki)"
       },
       {
         "example": "焼ける",
         "reading": "やける",
-        "meaning": "to burn, to burn down, to go down in flames, to be roasted, to be thoroughly cooked, to be sunburnt, to fade (in the sun), to glow red (i.e. of the sky at sunset), to become hot (from the sun), to be jealous, to be envious"
+        "meaning": "to burn, to burn down, to go down in flames, to be roasted, to be thoroughly cooked, to be sunburnt, to fade (in the sun), to glow red (i.e. of the sky at sunset), to become hot (from the sun), to be jealous, to be envious |(vi) cháy, cháy rụi, chín (do nướng), bị rám nắng, phai màu (do nắng), ửng đỏ (bầu trời), nóng lên, ghen tị"
       }
     ],
     "radical": {
@@ -416,7 +416,7 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": "fire |(vi) Hỏa (lửa)"
     },
     "parts": [
       "儿",

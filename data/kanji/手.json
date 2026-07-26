@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "te, ta",
-    "meaning": "hand",
+    "meaning": "hand |(vi) tay",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "握手する（あくしゅする）",
         "meaning": {
-          "english": "shake hands"
+          "english": "shake hands |(vi) bắt tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "選手（せんしゅ）",
         "meaning": {
-          "english": "player (in game)"
+          "english": "player (in game) |(vi) tuyển thủ, vận động viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "手話（しゅわ）",
         "meaning": {
-          "english": "sign language"
+          "english": "sign language |(vi) thủ ngữ, ngôn ngữ ký hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "上手な（じょうずな）",
         "meaning": {
-          "english": "skillful"
+          "english": "skillful |(vi) giỏi, khéo léo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "手紙（てがみ）",
         "meaning": {
-          "english": "letter"
+          "english": "letter |(vi) lá thư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "手帳（てちょう）",
         "meaning": {
-          "english": "notebook"
+          "english": "notebook |(vi) sổ tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "手伝う（てつだう）",
         "meaning": {
-          "english": "help"
+          "english": "help |(vi) giúp đỡ, phụ giúp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "手前（てまえ）",
         "meaning": {
-          "english": "in front of oneself, this side"
+          "english": "in front of oneself, this side |(vi) trước mặt mình, phía bên này"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "お手洗い（おてあらい）",
         "meaning": {
-          "english": "toilet"
+          "english": "toilet |(vi) nhà vệ sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "手綱（たづな）",
         "meaning": {
-          "english": "bridle"
+          "english": "bridle |(vi) dây cương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "下手な（へたな）",
         "meaning": {
-          "english": "unskillful"
+          "english": "unskillful |(vi) vụng, kém cỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_k.opus",
@@ -294,7 +294,7 @@
     "kanji": {
       "character": "手",
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) tay"
       },
       "strokes": {
         "count": 4,
@@ -340,7 +340,7 @@
         "romaji": "te"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/te0.svg",
@@ -361,7 +361,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "60",
     "strokeCount": 4,
-    "meaning": "hand",
+    "meaning": "hand |(vi) tay |(hv) Thủ",
     "kunyomi": [
       "て",
       "て-",
@@ -376,54 +376,54 @@
       {
         "example": "手術",
         "reading": "シュジュツ",
-        "meaning": "surgery, operation, procedure, skill with one's hands, sleight of hand"
+        "meaning": "surgery, operation, procedure, skill with one's hands, sleight of hand |(vi) thủ thuật, ca phẫu thuật, thủ thuật y khoa, sự khéo tay, tài ảo thuật bằng tay"
       },
       {
         "example": "手記",
         "reading": "シュキ",
-        "meaning": "note, memorandum, memo, memoirs, personal account"
+        "meaning": "note, memorandum, memo, memoirs, personal account |(vi) thủ ký, ghi chép, bản ghi nhớ, hồi ký, tường thuật cá nhân"
       },
       {
         "example": "二塁手",
         "reading": "ニルイシュ",
-        "meaning": "second baseman"
+        "meaning": "second baseman |(vi) chốt chặn gôn hai (bóng chày)"
       },
       {
         "example": "名手",
         "reading": "メイシュ",
-        "meaning": "master, expert, brilliant move (in go, shogi, etc.), excellent move"
+        "meaning": "master, expert, brilliant move (in go, shogi, etc.), excellent move |(vi) danh thủ, bậc thầy, chuyên gia, nước cờ xuất thần (trong cờ vây, shogi...), nước đi tuyệt hay"
       },
       {
         "example": "交際上手",
         "reading": "コウサイジョウズ",
-        "meaning": "good at socializing, sociability, being a good mixer"
+        "meaning": "good at socializing, sociability, being a good mixer |(vi) giỏi giao tiếp, tính hòa đồng, người dễ hòa nhập"
       },
       {
         "example": "処世上手",
         "reading": "ショセイジョウズ",
-        "meaning": "knowing how to get on in the world, knowing the secret of success in life"
+        "meaning": "knowing how to get on in the world, knowing the secret of success in life |(vi) giỏi xử thế, biết cách sống ở đời, nắm được bí quyết thành công"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "手",
         "reading": "て",
-        "meaning": "hand, arm, forepaw, foreleg, handle, hand, worker, help, trouble, care, effort, means, way, trick, move, technique, workmanship, hand, handwriting, kind, type, sort, one's hands, one's possession, ability to cope, hand (of cards), direction, move (in go, shogi, etc.)"
+        "meaning": "hand, arm, forepaw, foreleg, handle, hand, worker, help, trouble, care, effort, means, way, trick, move, technique, workmanship, hand, handwriting, kind, type, sort, one's hands, one's possession, ability to cope, hand (of cards), direction, move (in go, shogi, etc.) |(vi) bàn tay, cánh tay, chân trước (của thú), chân trước, tay cầm, cán, nhân công, sự giúp sức, sự phiền hà, công chăm sóc, công sức, phương tiện, cách thức, mánh khóe, nước đi, kỹ thuật, tay nghề, nét chữ, chữ viết tay, loại, kiểu, hạng, tay mình, sở hữu của mình, khả năng ứng phó, bài trên tay (bài lá), hướng, nước đi (trong cờ vây, shogi...)"
       },
       {
         "example": "手足",
         "reading": "てあし",
-        "meaning": "hands and feet, limbs, person at one's beck and call, person at hand, reliable worker"
+        "meaning": "hands and feet, limbs, person at one's beck and call, person at hand, reliable worker |(vi) chân tay, tứ chi, người sai đâu đánh đó, người luôn kề bên, người làm tin cậy"
       },
       {
         "example": "逆手",
         "reading": "さかて",
-        "meaning": "underhand grip (e.g. in gymnastics, etc.), cross-handed grip (e.g. in golf, etc.), using ones hands backwards from their conventional positioning, reverse grip (e.g. of a sword), turning the tables (on an opponent), reverse arm-lock (in judo), joint lock, foul trick"
+        "meaning": "underhand grip (e.g. in gymnastics, etc.), cross-handed grip (e.g. in golf, etc.), using ones hands backwards from their conventional positioning, reverse grip (e.g. of a sword), turning the tables (on an opponent), reverse arm-lock (in judo), joint lock, foul trick |(vi) thế nắm ngửa tay (như trong thể dục dụng cụ), thế cầm chéo tay (như trong golf), cách đặt tay ngược với thông thường, thế cầm ngược (như cầm kiếm), sự lật ngược thế cờ (với đối thủ), đòn khóa tay ngược (trong judo), đòn khóa khớp, mánh khóe bẩn"
       },
       {
         "example": "担い手",
         "reading": "にないて",
-        "meaning": "bearer, carrier, person bearing responsibility, person in charge, supporter"
+        "meaning": "bearer, carrier, person bearing responsibility, person in charge, supporter |(vi) người gánh vác, người mang, người chịu trách nhiệm, người phụ trách, người hậu thuẫn"
       }
     ],
     "radical": {
@@ -431,7 +431,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "手"

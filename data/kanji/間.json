@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "aida, ma",
-    "meaning": "interval, between",
+    "meaning": "interval, between |(vi) khoảng, ở giữa",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "一週間（いっしゅうかん）",
         "meaning": {
-          "english": "one week"
+          "english": "one week |(vi) một tuần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "二時間（にじかん）",
         "meaning": {
-          "english": "two hours"
+          "english": "two hours |(vi) hai giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "世間（せけん）",
         "meaning": {
-          "english": "society, the public, people"
+          "english": "society, the public, people |(vi) xã hội, công chúng, người đời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "人間（にんげん）",
         "meaning": {
-          "english": "human"
+          "english": "human |(vi) con người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "この間（このあいだ）",
         "meaning": {
-          "english": "the other day"
+          "english": "the other day |(vi) hôm nọ, dạo gần đây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "間に（あいだに）",
         "meaning": {
-          "english": "in between, while"
+          "english": "in between, while |(vi) trong khi, ở giữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "居間（いま）",
         "meaning": {
-          "english": "living room"
+          "english": "living room |(vi) phòng khách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "仲間（なかま）",
         "meaning": {
-          "english": "circle of friends"
+          "english": "circle of friends |(vi) bạn bè, nhóm bạn, đồng đội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "間違い（まちがい）",
         "meaning": {
-          "english": "mistake"
+          "english": "mistake |(vi) sai lầm, lỗi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "間違える（まちがえる）",
         "meaning": {
-          "english": "make a mistake"
+          "english": "make a mistake |(vi) mắc lỗi, nhầm lẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "間に合う（まにあう）",
         "meaning": {
-          "english": "be in time, be enough"
+          "english": "be in time, be enough |(vi) kịp giờ, đủ dùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "昼間（ひるま）",
         "meaning": {
-          "english": "day time"
+          "english": "day time |(vi) ban ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_l.opus",
@@ -320,7 +320,7 @@
     "kanji": {
       "character": "間",
       "meaning": {
-        "english": "interval, between"
+        "english": "interval, between |(vi) khoảng, ở giữa"
       },
       "strokes": {
         "count": 12,
@@ -382,7 +382,7 @@
         "romaji": "mongamae"
       },
       "meaning": {
-        "english": "gate, door"
+        "english": "gate, door |(vi) Môn (cổng, cửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mongamae0.svg",
@@ -403,7 +403,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "33",
     "strokeCount": 12,
-    "meaning": "interval, space",
+    "meaning": "interval, space |(vi) khoảng thời gian, không gian |(hv) Gian",
     "kunyomi": [
       "あいだ",
       "ま",
@@ -417,109 +417,109 @@
       {
         "example": "間",
         "reading": "カン",
-        "meaning": "interval, period of time, among, between, inter-, good opportunity, chance, estrangement, discord, alienation, spy, secret agent"
+        "meaning": "interval, period of time, among, between, inter-, good opportunity, chance, estrangement, discord, alienation, spy, secret agent |(vi) khoảng thời gian, ở giữa, giữa các..., cơ hội tốt, sự bất hòa, mâu thuẫn, sự xa cách, gián điệp, mật vụ"
       },
       {
         "example": "間隔",
         "reading": "カンカク",
-        "meaning": "space, interval, space character, whitespace"
+        "meaning": "space, interval, space character, whitespace |(vi) khoảng cách, khoảng trống, ký tự khoảng trắng"
       },
       {
         "example": "短期間",
         "reading": "タンキカン",
-        "meaning": "short term, short time"
+        "meaning": "short term, short time |(vi) thời gian ngắn, ngắn hạn"
       },
       {
         "example": "右中間",
         "reading": "ウチュウカン",
-        "meaning": "between right and center fielders (centre)"
+        "meaning": "between right and center fielders (centre) |(vi) khoảng giữa vị trí ngoại dã phải và giữa (bóng chày)"
       },
       {
         "example": "間",
         "reading": "ケン",
-        "meaning": "ken (6 shaku, approx. 1.818 m), counter used to number the gaps between pillars"
+        "meaning": "ken (6 shaku, approx. 1.818 m), counter used to number the gaps between pillars |(vi) ken (đơn vị đo dài, bằng 6 shaku, khoảng 1,818m), lượng từ đếm khoảng cách giữa các cột"
       },
       {
         "example": "間数",
         "reading": "ケンスウ",
-        "meaning": "number of ken (in length or breadth)"
+        "meaning": "number of ken (in length or breadth) |(vi) số ken (chiều dài hoặc chiều rộng)"
       },
       {
         "example": "世間",
         "reading": "セケン",
-        "meaning": "world, society, people, the public"
+        "meaning": "world, society, people, the public |(vi) thế gian, xã hội, mọi người, công chúng"
       },
       {
         "example": "六百間",
         "reading": "ロッピャッケン",
-        "meaning": "roppyakken (type of game)"
+        "meaning": "roppyakken (type of game) |(vi) roppyakken (một loại trò chơi)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "間",
         "reading": "あいだ",
-        "meaning": "space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of"
+        "meaning": "space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of |(vi) khoảng cách (giữa), khe hở, khoảng thời gian (trong lúc), giữa (hai bên hoặc hai vật), trong (một nhóm), mối quan hệ (giữa), điểm giữa, trung bình, nửa chừng, do, vì"
       },
       {
         "example": "間中",
         "reading": "あいだじゅう",
-        "meaning": "during"
+        "meaning": "during |(vi) suốt trong khoảng thời gian"
       },
       {
         "example": "候間",
         "reading": "そうろうあいだ",
-        "meaning": "as ..."
+        "meaning": "as ... |(vi) vì là..., bởi vì... (văn phong cổ)"
       },
       {
         "example": "ついこの間",
         "reading": "ついこのあいだ",
-        "meaning": "just the other day, quite recently"
+        "meaning": "just the other day, quite recently |(vi) mới đây thôi, gần đây thôi"
       },
       {
         "example": "間",
         "reading": "ま",
-        "meaning": "time, pause, space, room"
+        "meaning": "time, pause, space, room |(vi) khoảng dừng, không gian, khoảng trống, phòng"
       },
       {
         "example": "間際",
         "reading": "まぎわ",
-        "meaning": "the point just before ..., the point of (doing), the verge (of), the eve (of), (just before the) edge"
+        "meaning": "the point just before ..., the point of (doing), the verge (of), the eve (of), (just before the) edge |(vi) ngay trước lúc..., thời điểm sắp..., bên bờ vực, ngay trước thềm"
       },
       {
         "example": "茶の間",
         "reading": "ちゃのま",
-        "meaning": "(Japanese-style) living room"
+        "meaning": "(Japanese-style) living room |(vi) phòng khách kiểu Nhật"
       },
       {
         "example": "床の間",
         "reading": "とこのま",
-        "meaning": "tokonoma (alcove where art or flowers are displayed)"
+        "meaning": "tokonoma (alcove where art or flowers are displayed) |(vi) tokonoma (hốc tường trưng bày tranh, hoa)"
       },
       {
         "example": "間",
         "reading": "あいだ",
-        "meaning": "space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of"
+        "meaning": "space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of |(vi) khoảng cách (giữa), khe hở, khoảng thời gian (trong lúc), giữa (hai bên hoặc hai vật), trong (một nhóm), mối quan hệ (giữa), điểm giữa, trung bình, nửa chừng, do, vì"
       },
       {
         "example": "間中",
         "reading": "あいだじゅう",
-        "meaning": "during"
+        "meaning": "during |(vi) suốt trong khoảng thời gian"
       },
       {
         "example": "波間",
         "reading": "なみま",
-        "meaning": "interval between the waves, gap between waves"
+        "meaning": "interval between the waves, gap between waves |(vi) khoảng giữa các đợt sóng"
       },
       {
         "example": "幕間",
         "reading": "まくあい",
-        "meaning": "intermission (between acts), interlude"
+        "meaning": "intermission (between acts), interlude |(vi) giờ giải lao (giữa các màn), khoảng nghỉ"
       }
     ],
     "radical": {
       "symbol": "門",
-      "meaning": "gate"
+      "meaning": "gate |(vi) Môn (cổng)"
     },
     "parts": [
       "日",

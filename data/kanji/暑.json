@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "atsu, atsui, atsusa",
-    "meaning": "summer heat, hot",
+    "meaning": "summer heat, hot |(vi) nóng bức mùa hè, nóng",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "残暑（ざんしょ）",
         "meaning": {
-          "english": "lingering summer heat"
+          "english": "lingering summer heat |(vi) cái nóng cuối hè còn sót lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-atsu(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "猛暑（もうしょ）",
         "meaning": {
-          "english": "fierce heat (weather)"
+          "english": "fierce heat (weather) |(vi) nắng nóng gay gắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-atsu(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "避暑（ひしょ）",
         "meaning": {
-          "english": "going to a summer resort"
+          "english": "going to a summer resort |(vi) đi nghỉ mát tránh nóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-atsu(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "暑中見舞（しょちゅうみまい）",
         "meaning": {
-          "english": "summer greeting card"
+          "english": "summer greeting card |(vi) thiếp thăm hỏi mùa hè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-atsu(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "暑い（あつい）",
         "meaning": {
-          "english": "hot"
+          "english": "hot |(vi) nóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-atsu(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "蒸し暑い（むしあつい）",
         "meaning": {
-          "english": "humid"
+          "english": "humid |(vi) oi bức, nóng ẩm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-atsu(i)_06_f.opus",
@@ -237,7 +237,7 @@
     "kanji": {
       "character": "暑",
       "meaning": {
-        "english": "summer heat, hot"
+        "english": "summer heat, hot |(vi) nóng bức mùa hè, nóng"
       },
       "strokes": {
         "count": 12,
@@ -299,7 +299,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày, thời gian)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi0.svg",
@@ -320,7 +320,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1442",
     "strokeCount": 12,
-    "meaning": "sultry, hot, summer heat",
+    "meaning": "sultry, hot, summer heat |(vi) oi bức, nóng, nóng bức mùa hè |(hv) Thử",
     "kunyomi": [
       "あつ.い"
     ],
@@ -331,39 +331,39 @@
       {
         "example": "暑",
         "reading": "ショ",
-        "meaning": "heat, midsummer"
+        "meaning": "heat, midsummer |(vi) nóng bức, giữa hè"
       },
       {
         "example": "暑中見舞",
         "reading": "ショチュウミマイ",
-        "meaning": "summer greeting card, inquiry after someone's health in the hot season"
+        "meaning": "summer greeting card, inquiry after someone's health in the hot season |(vi) thiếp thăm hỏi mùa hè, hỏi thăm sức khỏe trong mùa nóng"
       },
       {
         "example": "残暑",
         "reading": "ザンショ",
-        "meaning": "late summer heat, lingering summer heat"
+        "meaning": "late summer heat, lingering summer heat |(vi) cái nóng cuối hè, nóng còn sót lại"
       },
       {
         "example": "避暑",
         "reading": "ヒショ",
-        "meaning": "escaping the summer heat, going somewhere cooler during the summer, summering"
+        "meaning": "escaping the summer heat, going somewhere cooler during the summer, summering |(vi) tránh nóng, đi nơi mát mẻ trong mùa hè, nghỉ mát mùa hè"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "暑い",
         "reading": "あつい",
-        "meaning": "hot, warm, sultry, heated, passionate, impassioned, burning (desire, etc.), on everybody's mind, on the radar, du jour, interested (gaze, etc.)"
+        "meaning": "hot, warm, sultry, heated, passionate, impassioned, burning (desire, etc.), on everybody's mind, on the radar, du jour, interested (gaze, etc.) |(vi) nóng, ấm, oi bức, sôi nổi, đam mê, cháy bỏng (khát khao...), được mọi người chú ý, đang thịnh hành, ánh mắt quan tâm"
       },
       {
         "example": "暑い盛り",
         "reading": "あついさかり",
-        "meaning": "heat of the day, hottest part of the day"
+        "meaning": "heat of the day, hottest part of the day |(vi) lúc nóng nhất trong ngày, đỉnh điểm nắng nóng"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "日",

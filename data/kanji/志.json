@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "kokoroza, kokorozasu, kokorozashi",
-    "meaning": "ambition, will, intention, aim",
+    "meaning": "ambition, will, intention, aim |(vi) chí hướng, ý chí, ý định, mục tiêu",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "意志（いし）",
         "meaning": {
-          "english": "will, volition"
+          "english": "will, volition |(vi) ý chí, ý muốn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "大志（たいし）",
         "meaning": {
-          "english": "ambition, aspiration"
+          "english": "ambition, aspiration |(vi) chí lớn, hoài bão"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "有志（ゆうし）",
         "meaning": {
-          "english": "voluntary, volunteer"
+          "english": "voluntary, volunteer |(vi) tự nguyện, tình nguyện viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "闘志（とうし）",
         "meaning": {
-          "english": "fighting spirit"
+          "english": "fighting spirit |(vi) đấu chí, tinh thần chiến đấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "遺志（いし）",
         "meaning": {
-          "english": "dying wish"
+          "english": "dying wish |(vi) di chí, di nguyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "志望する（しぼうする）",
         "meaning": {
-          "english": "wish for, desire [v.t.]"
+          "english": "wish for, desire [v.t.] |(vi) mong muốn, khát khao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "志向する（しこうする）",
         "meaning": {
-          "english": "favor, incline towards [v.t.]"
+          "english": "favor, incline towards [v.t.] |(vi) thiên về, hướng tới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "志願する（しがんする）",
         "meaning": {
-          "english": "apply for, volunteer for"
+          "english": "apply for, volunteer for |(vi) xin ứng tuyển, tình nguyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "志す（こころざす）",
         "meaning": {
-          "english": "aspire to, set aims"
+          "english": "aspire to, set aims |(vi) nuôi chí, đặt mục tiêu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "志（こころざし）",
         "meaning": {
-          "english": "will, intention"
+          "english": "will, intention |(vi) ý chí, ý định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_j.opus",
@@ -219,7 +219,7 @@
     "kanji": {
       "character": "志",
       "meaning": {
-        "english": "ambition, will, intention, aim"
+        "english": "ambition, will, intention, aim |(vi) chí hướng, ý chí, ý định, mục tiêu"
       },
       "strokes": {
         "count": 7,
@@ -271,7 +271,7 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (trái tim, tinh thần)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -292,7 +292,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "823",
     "strokeCount": 7,
-    "meaning": "intention, plan, resolve, aspire, motive, hopes, shilling",
+    "meaning": "intention, plan, resolve, aspire, motive, hopes, shilling |(vi) ý định, kế hoạch, quyết tâm, khao khát, động cơ, hy vọng, silinh (đơn vị tiền cũ) |(hv) Chí",
     "kunyomi": [
       "シリング",
       "こころざ.す",
@@ -305,54 +305,54 @@
       {
         "example": "【シリング】",
         "reading": "shilling",
-        "meaning": ""
+        "meaning": " |(vi) silinh (đơn vị tiền tệ cũ của Anh)"
       },
       {
         "example": "志向",
         "reading": "シコウ",
-        "meaning": "intention, aim, preference (for), orientation (towards a goal)"
+        "meaning": "intention, aim, preference (for), orientation (towards a goal) |(vi) ý định, mục đích, sở thích, xu hướng hướng tới mục tiêu"
       },
       {
         "example": "遺志",
         "reading": "イシ",
-        "meaning": "wishes of a deceased person, dying wish"
+        "meaning": "wishes of a deceased person, dying wish |(vi) di nguyện của người đã khuất, di chí"
       },
       {
         "example": "立志",
         "reading": "リッシ",
-        "meaning": "fixing one's aim in life, deciding one's life goal"
+        "meaning": "fixing one's aim in life, deciding one's life goal |(vi) lập chí, xác định mục tiêu cuộc đời"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "【シリング】",
         "reading": "shilling",
-        "meaning": ""
+        "meaning": " |(vi) silinh (đơn vị tiền tệ cũ của Anh)"
       },
       {
         "example": "志す",
         "reading": "こころざす",
-        "meaning": "to plan, to intend, to aspire to, to set aims (sights on)"
+        "meaning": "to plan, to intend, to aspire to, to set aims (sights on) |(vi) định làm, có ý định, nuôi chí, đặt mục tiêu"
       },
       {
         "example": "志",
         "reading": "こころざし",
-        "meaning": "will, resolution, intention, ambition, aim, goal, kindness, goodwill, kind offer, gift (as a token of gratitude)"
+        "meaning": "will, resolution, intention, ambition, aim, goal, kindness, goodwill, kind offer, gift (as a token of gratitude) |(vi) ý chí, quyết tâm, ý định, hoài bão, mục tiêu, lòng tốt, thiện chí, món quà tỏ lòng biết ơn"
       },
       {
         "example": "志ある者は事ついに成る",
         "reading": "こころざしあるものはことついになる",
-        "meaning": "where there's a will, there's a way, with ambition one can achieve anything"
+        "meaning": "where there's a will, there's a way, with ambition one can achieve anything |(vi) có chí thì nên, có ý chí ắt thành công"
       },
       {
         "example": "お志",
         "reading": "おこころざし",
-        "meaning": "kindness, courtesy"
+        "meaning": "kindness, courtesy |(vi) lòng tốt, sự tử tế"
       },
       {
         "example": "青雲の志",
         "reading": "せいうんのこころざし",
-        "meaning": "high (lofty) ambition"
+        "meaning": "high (lofty) ambition |(vi) hoài bão cao xa, chí lớn"
       }
     ],
     "radical": {
@@ -361,7 +361,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim, tinh thần)"
     },
     "parts": [
       "士",

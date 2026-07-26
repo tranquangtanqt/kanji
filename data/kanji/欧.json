@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "Europe",
+    "meaning": "Europe |(vi) châu Âu",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "欧州（おうしゅう）",
         "meaning": {
-          "english": "Europe"
+          "english": "Europe |(vi) châu Âu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "欧米（おうべい）",
         "meaning": {
-          "english": "Europe and America, the West"
+          "english": "Europe and America, the West |(vi) Âu Mỹ, phương Tây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "西欧（せいおう）",
         "meaning": {
-          "english": "Western Europe"
+          "english": "Western Europe |(vi) Tây Âu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "東欧（とうおう）",
         "meaning": {
-          "english": "Eastern Europe"
+          "english": "Eastern Europe |(vi) Đông Âu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "南欧（なんおう）",
         "meaning": {
-          "english": "Southern Europe"
+          "english": "Southern Europe |(vi) Nam Âu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "北欧（ほくおう）",
         "meaning": {
-          "english": "Northern Europe"
+          "english": "Northern Europe |(vi) Bắc Âu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_f.opus",
@@ -172,7 +172,7 @@
     "kanji": {
       "character": "欧",
       "meaning": {
-        "english": "Europe"
+        "english": "Europe |(vi) châu Âu"
       },
       "strokes": {
         "count": 8,
@@ -226,7 +226,7 @@
         "romaji": "akubi"
       },
       "meaning": {
-        "english": "to lack, yawn"
+        "english": "to lack, yawn |(vi) Khiếm (thiếu, ngáp)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/akubi0.svg",
@@ -247,7 +247,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "421",
     "strokeCount": 8,
-    "meaning": "Europe",
+    "meaning": "Europe |(vi) châu Âu |(hv) Âu",
     "kunyomi": [
       "うた.う",
       "は.く"
@@ -259,28 +259,28 @@
       {
         "example": "欧",
         "reading": "オウ",
-        "meaning": "Europe"
+        "meaning": "Europe |(vi) châu Âu"
       },
       {
         "example": "欧州",
         "reading": "オウシュウ",
-        "meaning": "Europe"
+        "meaning": "Europe |(vi) châu Âu"
       },
       {
         "example": "東欧",
         "reading": "トウオウ",
-        "meaning": "Eastern Europe"
+        "meaning": "Eastern Europe |(vi) Đông Âu"
       },
       {
         "example": "西欧",
         "reading": "セイオウ",
-        "meaning": "Western Europe, the West, the Occident, Europe"
+        "meaning": "Western Europe, the West, the Occident, Europe |(vi) Tây Âu, phương Tây, châu Âu"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "欠",
-      "meaning": "lack, yawn"
+      "meaning": "lack, yawn |(vi) Khiếm (thiếu, ngáp)"
     },
     "parts": [
       "ノ",

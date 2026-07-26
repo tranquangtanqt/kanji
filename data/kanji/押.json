@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "o, osu, osaeru",
-    "meaning": "push",
+    "meaning": "push |(vi) đẩy, ấn",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "押収する（おうしゅうする）",
         "meaning": {
-          "english": "seize, confiscate"
+          "english": "seize, confiscate |(vi) tịch thu, thu giữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou-o(saeru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "押印する（おういんする）",
         "meaning": {
-          "english": "affix one's seal"
+          "english": "affix one's seal |(vi) đóng dấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou-o(saeru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "押捺する（おうなつする）",
         "meaning": {
-          "english": "seal, stamp, imprint"
+          "english": "seal, stamp, imprint |(vi) đóng dấu, in dấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou-o(saeru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "押す（おす）",
         "meaning": {
-          "english": "push, press, stamp"
+          "english": "push, press, stamp |(vi) đẩy, ấn, đóng dấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou-o(saeru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "押し売り（おしうり）",
         "meaning": {
-          "english": "high-pressure salesmanship"
+          "english": "high-pressure salesmanship |(vi) bán hàng ép buộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou-o(saeru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "押し問答（おしもんどう）",
         "meaning": {
-          "english": "dispute, heated Q&A"
+          "english": "dispute, heated Q&A |(vi) tranh cãi, hỏi đáp gay gắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou-o(saeru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "押し入れ（おしいれ）",
         "meaning": {
-          "english": "closet"
+          "english": "closet |(vi) tủ tường, tủ chứa đồ (kiểu Nhật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou-o(saeru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "押さえる（おさえる）",
         "meaning": {
-          "english": "press down, stop, seize"
+          "english": "press down, stop, seize |(vi) ấn xuống, giữ lại, tóm lấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou-o(saeru)_06_h.opus",
@@ -215,7 +215,7 @@
     "kanji": {
       "character": "押",
       "meaning": {
-        "english": "push"
+        "english": "push |(vi) đẩy, ấn"
       },
       "strokes": {
         "count": 8,
@@ -269,7 +269,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -290,7 +290,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "789",
     "strokeCount": 8,
-    "meaning": "push, stop, check, subdue, attach, seize, weight, shove, press, seal, do in spite of",
+    "meaning": "push, stop, check, subdue, attach, seize, weight, shove, press, seal, do in spite of |(vi) đẩy, dừng lại, kiềm chế, chế ngự, gắn vào, bắt giữ, đè, xô đẩy, ấn, đóng dấu, cứ làm bất chấp |(hv) Áp",
     "kunyomi": [
       "お.す",
       "お.し-",
@@ -305,39 +305,39 @@
       {
         "example": "押収",
         "reading": "オウシュウ",
-        "meaning": "seizure, confiscation"
+        "meaning": "seizure, confiscation |(vi) tịch thu, thu giữ"
       },
       {
         "example": "押印",
         "reading": "オウイン",
-        "meaning": "affixing a seal (to), putting one's seal (on)"
+        "meaning": "affixing a seal (to), putting one's seal (on) |(vi) đóng dấu"
       },
       {
         "example": "花押",
         "reading": "カオウ",
-        "meaning": "written seal, stylized signature"
+        "meaning": "written seal, stylized signature |(vi) chữ ký cách điệu, con dấu chữ ký"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "押す",
         "reading": "おす",
-        "meaning": "to push, to thrust, to shove, to press (down), to push (e.g. a button), to exert pressure on, to stamp (e.g. one's name), to affix (a seal), to affix (e.g. gold leaf), to push (someone for something), to press, to put pressure on (someone), to overwhelm, to overpower, to put (someone) under pressure, to be superior to, to push ahead (with a policy, plan, etc.), to proceed, to stick to, to do ... in spite of ..., to defy, to brave, to push aside, to make sure, to fall behind schedule"
+        "meaning": "to push, to thrust, to shove, to press (down), to push (e.g. a button), to exert pressure on, to stamp (e.g. one's name), to affix (a seal), to affix (e.g. gold leaf), to push (someone for something), to press, to put pressure on (someone), to overwhelm, to overpower, to put (someone) under pressure, to be superior to, to push ahead (with a policy, plan, etc.), to proceed, to stick to, to do ... in spite of ..., to defy, to brave, to push aside, to make sure, to fall behind schedule |(vi) đẩy, thúc, xô, ấn (xuống), nhấn (nút), gây áp lực lên, đóng dấu (tên mình), dán (lá vàng), thúc giục (ai đó), gây áp lực, áp đảo, vượt trội, thúc đẩy (chính sách, kế hoạch...), tiếp tục, bám vào, cứ làm bất chấp, thách thức, đẩy sang một bên, chắc chắn, bị chậm tiến độ"
       },
       {
         "example": "押忍",
         "reading": "おっす",
-        "meaning": "hi!, yo!, hey man!, hey dude!, yessir!, understood!"
+        "meaning": "hi!, yo!, hey man!, hey dude!, yessir!, understood! |(vi) chào (kiểu thân mật, thường dùng trong võ thuật), rõ!"
       },
       {
         "example": "押さえる",
         "reading": "おさえる",
-        "meaning": "to pin down, to hold down, to press down, to hold in place, to hold steady, to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part), to get a hold of, to obtain, to seize, to catch, to arrest, to grasp (a point), to comprehend, to quell, to subdue, to suppress, to repress, to hold back, to check, to curb, to contain"
+        "meaning": "to pin down, to hold down, to press down, to hold in place, to hold steady, to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part), to get a hold of, to obtain, to seize, to catch, to arrest, to grasp (a point), to comprehend, to quell, to subdue, to suppress, to repress, to hold back, to check, to curb, to contain |(vi) ghim chặt, giữ chặt, ấn xuống, giữ cố định, che (một phần cơ thể bằng tay), ôm (chỗ đau), nắm được, thu được, bắt giữ, tóm được, nắm bắt (một điểm), hiểu, dập tắt, chế ngự, đàn áp, kiềm chế, kìm lại, kiểm soát"
       },
       {
         "example": "押さえる",
         "reading": "おさえる",
-        "meaning": "to pin down, to hold down, to press down, to hold in place, to hold steady, to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part), to get a hold of, to obtain, to seize, to catch, to arrest, to grasp (a point), to comprehend, to quell, to subdue, to suppress, to repress, to hold back, to check, to curb, to contain"
+        "meaning": "to pin down, to hold down, to press down, to hold in place, to hold steady, to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part), to get a hold of, to obtain, to seize, to catch, to arrest, to grasp (a point), to comprehend, to quell, to subdue, to suppress, to repress, to hold back, to check, to curb, to contain |(vi) ghim chặt, giữ chặt, ấn xuống, giữ cố định, che (một phần cơ thể bằng tay), ôm (chỗ đau), nắm được, thu được, bắt giữ, tóm được, nắm bắt (một điểm), hiểu, dập tắt, chế ngự, đàn áp, kiềm chế, kìm lại, kiểm soát"
       }
     ],
     "radical": {
@@ -345,7 +345,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "扎",

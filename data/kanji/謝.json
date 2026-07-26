@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "ayamaru, ayama",
-    "meaning": "thank, apologize, gratitude",
+    "meaning": "thank, apologize, gratitude |(vi) cảm tạ, xin lỗi, lòng biết ơn",
     "kstroke": 17,
     "examples": [
       {
         "japanese": "謝礼（しゃれい）",
         "meaning": {
-          "english": "honorarium"
+          "english": "honorarium |(vi) tiền thù lao, lễ tạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-ayama(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "謝恩会（しゃおんかい）",
         "meaning": {
-          "english": "thank-you party"
+          "english": "thank-you party |(vi) tiệc tri ân (thầy cô)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-ayama(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "月謝（げっしゃ）",
         "meaning": {
-          "english": "monthly tuition fee"
+          "english": "monthly tuition fee |(vi) học phí hằng tháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-ayama(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "感謝祭（かんしゃさい）",
         "meaning": {
-          "english": "Thanksgiving"
+          "english": "Thanksgiving |(vi) Lễ Tạ ơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-ayama(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "新陳代謝（しんちんたいしゃ）",
         "meaning": {
-          "english": "metabolism"
+          "english": "metabolism |(vi) sự trao đổi chất, tân trần đại tạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-ayama(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "謝罪する（しゃざいする）",
         "meaning": {
-          "english": "apologize"
+          "english": "apologize |(vi) tạ tội, xin lỗi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-ayama(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "感謝する（かんしゃする）",
         "meaning": {
-          "english": "show gratitude"
+          "english": "show gratitude |(vi) cảm tạ, bày tỏ lòng biết ơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-ayama(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "謝る（あやまる）",
         "meaning": {
-          "english": "apologize"
+          "english": "apologize |(vi) xin lỗi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-ayama(ru)_06_h.opus",
@@ -213,7 +213,7 @@
     "kanji": {
       "character": "謝",
       "meaning": {
-        "english": "thank, apologize, gratitude"
+        "english": "thank, apologize, gratitude |(vi) cảm tạ, xin lỗi, lòng biết ơn"
       },
       "strokes": {
         "count": 17,
@@ -285,7 +285,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói, nói năng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -306,7 +306,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1028",
     "strokeCount": 17,
-    "meaning": "apologize, thank, refuse",
+    "meaning": "apologize, thank, refuse |(vi) xin lỗi, cảm tạ, từ chối |(hv) Tạ",
     "kunyomi": [
       "あやま.る"
     ],
@@ -317,29 +317,29 @@
       {
         "example": "謝罪",
         "reading": "シャザイ",
-        "meaning": "apology"
+        "meaning": "apology |(vi) tạ tội, lời xin lỗi"
       },
       {
         "example": "謝意",
         "reading": "シャイ",
-        "meaning": "gratitude, thanks, apology"
+        "meaning": "gratitude, thanks, apology |(vi) tạ ý, lòng biết ơn, lời cảm ơn, lời xin lỗi"
       },
       {
         "example": "慰謝",
         "reading": "イシャ",
-        "meaning": "consolation"
+        "meaning": "consolation |(vi) ủy tạ, sự an ủi, sự vỗ về"
       },
       {
         "example": "代謝",
         "reading": "タイシャ",
-        "meaning": "metabolism, renewal, regeneration, replacing the old with the new"
+        "meaning": "metabolism, renewal, regeneration, replacing the old with the new |(vi) đại tạ, sự trao đổi chất, sự đổi mới, sự tái sinh, sự thay cũ đổi mới"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "謝る",
         "reading": "あやまる",
-        "meaning": "to apologize, to apologise, to refuse, to decline, to be unable to bear, to be defeated (by), to be at a loss"
+        "meaning": "to apologize, to apologise, to refuse, to decline, to be unable to bear, to be defeated (by), to be at a loss |(vi) xin lỗi, tạ lỗi, từ chối, khước từ, không chịu nổi, chịu thua, bó tay"
       }
     ],
     "radical": {
@@ -347,7 +347,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "寸",

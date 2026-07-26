@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "su, suu",
-    "meaning": "suck, breathe in, inhale, smoke",
+    "meaning": "suck, breathe in, inhale, smoke |(vi) hút, hít vào, hít thở, hút thuốc",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "吸水性（きゅうすいせい）",
         "meaning": {
-          "english": "water absorbency"
+          "english": "water absorbency |(vi) khả năng hút nước, tính thấm nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "吸血鬼（きゅうけつき）",
         "meaning": {
-          "english": "vampire, bloodsucker"
+          "english": "vampire, bloodsucker |(vi) ma cà rồng, kẻ hút máu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "吸盤（きゅうばん）",
         "meaning": {
-          "english": "suction pad, suction cup"
+          "english": "suction pad, suction cup |(vi) đĩa hút, giác hút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "深呼吸（しんこきゅう）",
         "meaning": {
-          "english": "deep breath"
+          "english": "deep breath |(vi) hít thở sâu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "吸収する（きゅうしゅうする）",
         "meaning": {
-          "english": "absorb, assimilate, suck in"
+          "english": "absorb, assimilate, suck in |(vi) hấp thụ, đồng hóa, hút vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "吸引する（きゅういんする）",
         "meaning": {
-          "english": "absorb, suck in, attract"
+          "english": "absorb, suck in, attract |(vi) hấp thụ, hút vào, thu hút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "呼吸する（こきゅうする）",
         "meaning": {
-          "english": "breathe"
+          "english": "breathe |(vi) hít thở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "吸う（すう）",
         "meaning": {
-          "english": "breathe, smoke, suck in"
+          "english": "breathe, smoke, suck in |(vi) hít thở, hút thuốc, hút vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "吸い殻（すいがら）",
         "meaning": {
-          "english": "cigarette end , tobacco ashes"
+          "english": "cigarette end , tobacco ashes |(vi) đầu mẩu thuốc lá, tàn thuốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_i.opus",
@@ -213,7 +213,7 @@
     "kanji": {
       "character": "吸",
       "meaning": {
-        "english": "suck, breathe in, inhale, smoke"
+        "english": "suck, breathe in, inhale, smoke |(vi) hút, hít vào, hít thở, hút thuốc"
       },
       "strokes": {
         "count": 6,
@@ -263,7 +263,7 @@
         "romaji": "kuchihen"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchihen0.svg",
@@ -284,7 +284,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1054",
     "strokeCount": 6,
-    "meaning": "suck, imbibe, inhale, sip",
+    "meaning": "suck, imbibe, inhale, sip |(vi) hút, uống vào, hít vào, nhấp |(hv) Hấp",
     "kunyomi": [
       "す.う"
     ],
@@ -295,34 +295,34 @@
       {
         "example": "吸収",
         "reading": "キュウシュウ",
-        "meaning": "absorption, suction, attraction"
+        "meaning": "absorption, suction, attraction |(vi) sự hấp thụ, hút, thu hút"
       },
       {
         "example": "吸血鬼",
         "reading": "キュウケツキ",
-        "meaning": "vampire, bloodsucker"
+        "meaning": "vampire, bloodsucker |(vi) ma cà rồng, kẻ hút máu"
       },
       {
         "example": "腹式呼吸",
         "reading": "フクシキコキュウ",
-        "meaning": "diaphragmatic breathing, abdominal breathing"
+        "meaning": "diaphragmatic breathing, abdominal breathing |(vi) hô hấp bằng cơ hoành, hô hấp bụng"
       },
       {
         "example": "外呼吸",
         "reading": "ガイコキュウ",
-        "meaning": "external respiration"
+        "meaning": "external respiration |(vi) hô hấp ngoài"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "吸う",
         "reading": "すう",
-        "meaning": "to smoke, to breathe in, to inhale, to suck, to sip, to slurp, to absorb, to soak up, to kiss"
+        "meaning": "to smoke, to breathe in, to inhale, to suck, to sip, to slurp, to absorb, to soak up, to kiss |(vi) hút thuốc, hít vào, hút, nhấp, hớp, hấp thụ, thấm hút, hôn"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng)"
     },
     "parts": [
       "ノ",

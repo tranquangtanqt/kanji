@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "hatasu, hateru, hate, ha",
-    "meaning": "fruit",
+    "meaning": "fruit |(vi) quả, trái cây",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "果実（かじつ）",
         "meaning": {
-          "english": "fruit, nut"
+          "english": "fruit, nut |(vi) quả, hạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(tasu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "結果（けっか）",
         "meaning": {
-          "english": "result, consequence"
+          "english": "result, consequence |(vi) kết quả, hệ quả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(tasu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "効果（こうか）",
         "meaning": {
-          "english": "effect, effectiveness"
+          "english": "effect, effectiveness |(vi) hiệu quả, tác dụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(tasu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "因果関係（いんがかんけい）",
         "meaning": {
-          "english": "causal relationship"
+          "english": "causal relationship |(vi) mối quan hệ nhân quả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(tasu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "果たす（はたす）",
         "meaning": {
-          "english": "accomplish, fulfill [v.t.]"
+          "english": "accomplish, fulfill [v.t.] |(vi) hoàn thành, thực hiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(tasu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "果てる（はてる）",
         "meaning": {
-          "english": "be exhausted, die [v.i]"
+          "english": "be exhausted, die [v.i] |(vi) kiệt sức, chết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(tasu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "果てしない（はてしない）",
         "meaning": {
-          "english": "endless"
+          "english": "endless |(vi) vô tận, không giới hạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(tasu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "*果物（くだもの）",
         "meaning": {
-          "english": "fruit"
+          "english": "fruit |(vi) trái cây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(tasu)_06_h.opus",
@@ -233,7 +233,7 @@
     "kanji": {
       "character": "果",
       "meaning": {
-        "english": "fruit"
+        "english": "fruit |(vi) quả, trái cây"
       },
       "strokes": {
         "count": 8,
@@ -287,7 +287,7 @@
         "romaji": "ki"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ki0.svg",
@@ -308,7 +308,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "258",
     "strokeCount": 8,
-    "meaning": "fruit, reward, carry out, achieve, complete, end, finish, succeed",
+    "meaning": "fruit, reward, carry out, achieve, complete, end, finish, succeed |(vi) quả, phần thưởng, thực hiện, đạt được, hoàn thành, kết thúc, thành công |(hv) Quả",
     "kunyomi": [
       "は.たす",
       "はた.す",
@@ -324,59 +324,59 @@
       {
         "example": "果",
         "reading": "カ",
-        "meaning": "phala (attained state, result), enlightenment (as the fruits of one's Buddhist practice), fruit, counter for pieces of fruit"
+        "meaning": "phala (attained state, result), enlightenment (as the fruits of one's Buddhist practice), fruit, counter for pieces of fruit |(vi) quả vị (trạng thái đạt được, kết quả), giác ngộ (thành quả tu tập Phật giáo), quả (trái cây), lượng từ đếm quả"
       },
       {
         "example": "果敢",
         "reading": "カカン",
-        "meaning": "resolute, determined, bold"
+        "meaning": "resolute, determined, bold |(vi) quyết đoán, kiên quyết, táo bạo"
       },
       {
         "example": "青果",
         "reading": "セイカ",
-        "meaning": "fruits and vegetables, produce"
+        "meaning": "fruits and vegetables, produce |(vi) rau quả, nông sản"
       },
       {
         "example": "研究結果",
         "reading": "ケンキュウケッカ",
-        "meaning": "results of a scientific investigation, findings"
+        "meaning": "results of a scientific investigation, findings |(vi) kết quả nghiên cứu khoa học"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "果たす",
         "reading": "はたす",
-        "meaning": "to accomplish, to achieve, to carry out, to fulfill, to fulfil, to realize, to execute, to perform, to do, to do ... completely, to do ... entirely"
+        "meaning": "to accomplish, to achieve, to carry out, to fulfill, to fulfil, to realize, to execute, to perform, to do, to do ... completely, to do ... entirely |(vi) hoàn thành, đạt được, thực hiện, thi hành, làm trọn"
       },
       {
         "example": "果たす",
         "reading": "はたす",
-        "meaning": "to accomplish, to achieve, to carry out, to fulfill, to fulfil, to realize, to execute, to perform, to do, to do ... completely, to do ... entirely"
+        "meaning": "to accomplish, to achieve, to carry out, to fulfill, to fulfil, to realize, to execute, to perform, to do, to do ... completely, to do ... entirely |(vi) hoàn thành, đạt được, thực hiện, thi hành, làm trọn"
       },
       {
         "example": "果てる",
         "reading": "はてる",
-        "meaning": "to end, to be finished, to be exhausted, to die, to perish, to do utterly, to do completely"
+        "meaning": "to end, to be finished, to be exhausted, to die, to perish, to do utterly, to do completely |(vi) kết thúc, xong, kiệt sức, chết, qua đời, làm triệt để, làm hoàn toàn"
       },
       {
         "example": "果て",
         "reading": "はて",
-        "meaning": "end, extremity, limit, result, outcome, upshot, consequence"
+        "meaning": "end, extremity, limit, result, outcome, upshot, consequence |(vi) cuối cùng, giới hạn, kết quả, hệ quả"
       },
       {
         "example": "果てしない",
         "reading": "はてしない",
-        "meaning": "endless, boundless, everlasting"
+        "meaning": "endless, boundless, everlasting |(vi) vô tận, không giới hạn, vĩnh cửu"
       },
       {
         "example": "挙句の果て",
         "reading": "あげくのはて",
-        "meaning": "finally, in the end, after all that, eventually, on top of all that"
+        "meaning": "finally, in the end, after all that, eventually, on top of all that |(vi) cuối cùng, rốt cuộc, sau tất cả"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "木",

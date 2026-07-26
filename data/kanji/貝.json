@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "kai",
-    "meaning": "shellfish, shell",
+    "meaning": "shellfish, shell |(vi) sò, vỏ sò",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "貝（かい）",
         "meaning": {
-          "english": "shell, shellfish"
+          "english": "shell, shellfish |(vi) sò, hải sản có vỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(gara)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "貝柱（かいばしら）",
         "meaning": {
-          "english": "adductor muscle (of shellfish)"
+          "english": "adductor muscle (of shellfish) |(vi) cơ khép vỏ (của loài có vỏ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(gara)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "貝殻（かいがら）",
         "meaning": {
-          "english": "shell"
+          "english": "shell |(vi) vỏ sò"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(gara)_06_c.opus",
@@ -142,7 +142,7 @@
     "kanji": {
       "character": "貝",
       "meaning": {
-        "english": "shellfish, shell"
+        "english": "shellfish, shell |(vi) sò, vỏ sò"
       },
       "strokes": {
         "count": 7,
@@ -194,7 +194,7 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (vỏ sò, của cải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -215,7 +215,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1787",
     "strokeCount": 7,
-    "meaning": "shellfish",
+    "meaning": "shellfish |(vi) loài có vỏ, sò hến |(hv) Bối",
     "kunyomi": [
       "かい"
     ],
@@ -226,49 +226,49 @@
       {
         "example": "【バイ】",
         "reading": "Japanese Babylon (Babylonia japonica), Japanese ivory shell, spinning top (traditionally made from a Japanese Babylon shell)",
-        "meaning": ""
+        "meaning": " |(vi) ốc Babylon Nhật Bản, con quay truyền thống làm từ vỏ ốc này"
       },
       {
         "example": "貝貨",
         "reading": "バイカ",
-        "meaning": "shell money"
+        "meaning": "shell money |(vi) tiền vỏ sò"
       },
       {
         "example": "越虫貝",
         "reading": "エッチュウバイ",
-        "meaning": "finely-striate buccinum (Buccinum striatissimum)"
+        "meaning": "finely-striate buccinum (Buccinum striatissimum) |(vi) ốc buccinum có vân mảnh"
       },
       {
         "example": "蝦夷貝",
         "reading": "エゾバイ",
-        "meaning": "Middendorf's whelk (Buccinum middendorffi)"
+        "meaning": "Middendorf's whelk (Buccinum middendorffi) |(vi) ốc buccinum Middendorf"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "貝",
         "reading": "かい",
-        "meaning": "shellfish, seashell, shell"
+        "meaning": "shellfish, seashell, shell |(vi) loài có vỏ, sò biển, vỏ sò"
       },
       {
         "example": "貝殻",
         "reading": "かいがら",
-        "meaning": "seashell, shell"
+        "meaning": "seashell, shell |(vi) vỏ sò"
       },
       {
         "example": "魚介",
         "reading": "ぎょかい",
-        "meaning": "marine products, seafood, fish and shellfish"
+        "meaning": "marine products, seafood, fish and shellfish |(vi) hải sản, cá và các loài có vỏ"
       },
       {
         "example": "パウア貝",
         "reading": "パウアかい",
-        "meaning": "paua (edible New Zealand abalone; species Haliotis iris, H. australis, H. virginea)"
+        "meaning": "paua (edible New Zealand abalone; species Haliotis iris, H. australis, H. virginea) |(vi) bào ngư paua (New Zealand)"
       }
     ],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò, của cải)"
     },
     "parts": [
       "ハ",

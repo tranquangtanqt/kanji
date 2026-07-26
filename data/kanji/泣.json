@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "na, naku",
-    "meaning": "cry",
+    "meaning": "cry |(vi) khóc",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "号泣する（ごうきゅうする）",
         "meaning": {
-          "english": "wail"
+          "english": "wail |(vi) khóc lớn, gào khóc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-na(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "泣く（なく）",
         "meaning": {
-          "english": "cry"
+          "english": "cry |(vi) khóc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-na(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "泣き声（なきごえ）",
         "meaning": {
-          "english": "crying voice"
+          "english": "crying voice |(vi) giọng khóc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-na(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "泣き顔（なきがお）",
         "meaning": {
-          "english": "tear-stained face"
+          "english": "tear-stained face |(vi) khuôn mặt đẫm nước mắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-na(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "泣き叫ぶ（なきさけぶ）",
         "meaning": {
-          "english": "cry and shout"
+          "english": "cry and shout |(vi) khóc la, gào khóc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-na(ku)_06_e.opus",
@@ -227,7 +227,7 @@
     "kanji": {
       "character": "泣",
       "meaning": {
-        "english": "cry"
+        "english": "cry |(vi) khóc"
       },
       "strokes": {
         "count": 8,
@@ -281,7 +281,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -302,7 +302,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1380",
     "strokeCount": 8,
-    "meaning": "cry, weep, moan",
+    "meaning": "cry, weep, moan |(vi) khóc, than khóc, rên rỉ |(hv) Khấp",
     "kunyomi": [
       "な.く"
     ],
@@ -313,29 +313,29 @@
       {
         "example": "泣訴",
         "reading": "キュウソ",
-        "meaning": "imploring with tears in one's eyes"
+        "meaning": "imploring with tears in one's eyes |(vi) van xin trong nước mắt"
       },
       {
         "example": "号泣",
         "reading": "ゴウキュウ",
-        "meaning": "crying loudly, bawling, wailing, lamentation, crying one's eyes out (without making noise), breaking into a flood of tears, crying buckets, weeping"
+        "meaning": "crying loudly, bawling, wailing, lamentation, crying one's eyes out (without making noise), breaking into a flood of tears, crying buckets, weeping |(vi) khóc lớn, gào khóc, than khóc, khóc nức nở (không thành tiếng), khóc như mưa"
       },
       {
         "example": "哀泣",
         "reading": "アイキュウ",
-        "meaning": "crying with sadness"
+        "meaning": "crying with sadness |(vi) khóc vì buồn bã"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "泣く",
         "reading": "なく",
-        "meaning": "to cry, to shed tears, to weep, to sob, to suffer (from), to be troubled (by), to face hardship, to accept (an unreasonable request, loss, etc.), to do reluctantly, to make sacrifices, to be not worth worth the name, to suffer (of a reputation), to be spoiled, to be put to shame, to lament, to bemoan, to bewail"
+        "meaning": "to cry, to shed tears, to weep, to sob, to suffer (from), to be troubled (by), to face hardship, to accept (an unreasonable request, loss, etc.), to do reluctantly, to make sacrifices, to be not worth worth the name, to suffer (of a reputation), to be spoiled, to be put to shame, to lament, to bemoan, to bewail |(vi) khóc, rơi lệ, than khóc, nức nở, chịu đựng (khổ sở), bối rối, đối mặt khó khăn, chấp nhận (yêu cầu vô lý, thua thiệt...), miễn cưỡng làm, hy sinh, không xứng đáng, chịu thiệt (về danh tiếng), bị hư hỏng, bị bẽ mặt, than thở, than vãn"
       },
       {
         "example": "泣く子と地頭には勝てない",
         "reading": "なくことじとうにはかてない",
-        "meaning": "you cannot win against someone who doesn't listen to reason, you can't fight City Hall"
+        "meaning": "you cannot win against someone who doesn't listen to reason, you can't fight City Hall |(vi) không thể thắng được kẻ không biết điều, không thể chống lại chính quyền"
       }
     ],
     "radical": {
@@ -344,7 +344,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "汁",

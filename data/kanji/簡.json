@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "simple, brief",
+    "meaning": "simple, brief |(vi) đơn giản, ngắn gọn",
     "kstroke": 18,
     "examples": [
       {
         "japanese": "簡単な（かんたんな）",
         "meaning": {
-          "english": "simple"
+          "english": "simple |(vi) đơn giản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(tan)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "簡単過ぎる（かんたんすぎる）",
         "meaning": {
-          "english": "too simple"
+          "english": "too simple |(vi) quá đơn giản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(tan)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "簡素な（かんそな）",
         "meaning": {
-          "english": "plain"
+          "english": "plain |(vi) giản dị, mộc mạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(tan)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "簡略な（かんりゃくな）",
         "meaning": {
-          "english": "simple"
+          "english": "simple |(vi) giản lược, đơn giản hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(tan)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "簡潔な（かんけつな）　",
         "meaning": {
-          "english": "brief"
+          "english": "brief |(vi) ngắn gọn, súc tích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(tan)_06_e.opus",
@@ -177,7 +177,7 @@
     "kanji": {
       "character": "簡",
       "meaning": {
-        "english": "simple, brief"
+        "english": "simple, brief |(vi) đơn giản, ngắn gọn"
       },
       "strokes": {
         "count": 18,
@@ -251,7 +251,7 @@
         "romaji": "takekanmuri"
       },
       "meaning": {
-        "english": "bamboo"
+        "english": "bamboo |(vi) Trúc (tre)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takekanmuri0.svg",
@@ -272,7 +272,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "983",
     "strokeCount": 18,
-    "meaning": "simplicity, brevity",
+    "meaning": "simplicity, brevity |(vi) sự đơn giản, sự ngắn gọn |(hv) Giản",
     "kunyomi": [
       "えら.ぶ",
       "ふだ"
@@ -285,34 +285,34 @@
       {
         "example": "簡",
         "reading": "カン",
-        "meaning": "simplicity, brevity, letter, note, correspondence, bamboo writing strip (in ancient China), simplified Chinese character"
+        "meaning": "simplicity, brevity, letter, note, correspondence, bamboo writing strip (in ancient China), simplified Chinese character |(vi) sự đơn giản, sự ngắn gọn, thư từ, ghi chú, thẻ tre viết chữ (Trung Hoa cổ), chữ Hán giản thể"
       },
       {
         "example": "簡易",
         "reading": "カンイ",
-        "meaning": "simple, simplified, easy, plain"
+        "meaning": "simple, simplified, easy, plain |(vi) đơn giản, giản tiện, dễ dàng, mộc mạc"
       },
       {
         "example": "書簡",
         "reading": "ショカン",
-        "meaning": "letter, note, epistle, correspondence"
+        "meaning": "letter, note, epistle, correspondence |(vi) thư từ, thư tín"
       },
       {
         "example": "来簡",
         "reading": "ライカン",
-        "meaning": "correspondence, received letter"
+        "meaning": "correspondence, received letter |(vi) thư nhận được, thư từ gửi đến"
       },
       {
         "example": "不料簡",
         "reading": "フリョウケン",
-        "meaning": "indiscretion, bad idea, thoughtlessness, indiscreetness"
+        "meaning": "indiscretion, bad idea, thoughtlessness, indiscreetness |(vi) sự thiếu suy nghĩ, ý tưởng tồi, sự khinh suất"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "札",
         "reading": "ふだ",
-        "meaning": "ticket, token, check, receipt, label, tag, sign, card, plate, playing card, charm, talisman, slip of paper posted on shrine pillars by pilgrims"
+        "meaning": "ticket, token, check, receipt, label, tag, sign, card, plate, playing card, charm, talisman, slip of paper posted on shrine pillars by pilgrims |(vi) vé, thẻ, phiếu, biên nhận, nhãn, thẻ đeo, biển hiệu, thẻ bài, bài tây, bùa hộ mệnh, lá bùa, mảnh giấy khách hành hương dán lên cột đền thờ"
       }
     ],
     "radical": {
@@ -320,7 +320,7 @@
       "forms": [
         "⺮"
       ],
-      "meaning": "bamboo"
+      "meaning": "bamboo |(vi) Trúc (tre)"
     },
     "parts": [
       "乞",

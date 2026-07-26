@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "era, erai",
-    "meaning": "great, eminent, remarkable",
+    "meaning": "great, eminent, remarkable |(vi) vĩ đại, lỗi lạc, đáng chú ý",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "偉才（いさい）",
         "meaning": {
-          "english": "great talent"
+          "english": "great talent |(vi) nhân tài kiệt xuất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/era(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "偉業（いぎょう）",
         "meaning": {
-          "english": "great enterprise"
+          "english": "great enterprise |(vi) sự nghiệp vĩ đại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/era(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "偉大な（いだいな）",
         "meaning": {
-          "english": "great, grand"
+          "english": "great, grand |(vi) vĩ đại, to lớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/era(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "偉い（えらい）",
         "meaning": {
-          "english": "remarkable"
+          "english": "remarkable |(vi) đáng khâm phục, giỏi giang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/era(i)_06_d.opus",
@@ -156,7 +156,7 @@
     "kanji": {
       "character": "偉",
       "meaning": {
-        "english": "great, eminent, remarkable"
+        "english": "great, eminent, remarkable |(vi) vĩ đại, lỗi lạc, đáng chú ý"
       },
       "strokes": {
         "count": 12,
@@ -218,7 +218,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -239,7 +239,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1639",
     "strokeCount": 12,
-    "meaning": "admirable, greatness, remarkable, conceited, famous, excellent",
+    "meaning": "admirable, greatness, remarkable, conceited, famous, excellent |(vi) đáng khâm phục, vĩ đại, đáng chú ý, tự cao, nổi tiếng, xuất sắc |(hv) Vĩ",
     "kunyomi": [
       "えら.い"
     ],
@@ -250,34 +250,34 @@
       {
         "example": "偉",
         "reading": "イ",
-        "meaning": "greatness, excellence, magnificence"
+        "meaning": "greatness, excellence, magnificence |(vi) sự vĩ đại, sự xuất sắc, sự lộng lẫy"
       },
       {
         "example": "偉業",
         "reading": "イギョウ",
-        "meaning": "great achievement, great feat, great work, great undertaking"
+        "meaning": "great achievement, great feat, great work, great undertaking |(vi) thành tựu vĩ đại, kỳ tích lớn lao"
       },
       {
         "example": "魁偉",
         "reading": "カイイ",
-        "meaning": "brawny, muscular, impressive, gigantic"
+        "meaning": "brawny, muscular, impressive, gigantic |(vi) vạm vỡ, cơ bắp, ấn tượng, to lớn"
       },
       {
         "example": "容貌魁偉",
         "reading": "ヨウボウカイイ",
-        "meaning": "(a man) having a commanding face and a powerful physique"
+        "meaning": "(a man) having a commanding face and a powerful physique |(vi) (người đàn ông) có khuôn mặt uy nghi và vóc dáng mạnh mẽ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "偉い",
         "reading": "えらい",
-        "meaning": "great, excellent, admirable, commendable, laudable, honorable, wonderful, outstanding, extraordinary, distinguished, important, high-ranking, powerful, eminent, famous, awful, terrible, serious, tremendous, great, mighty, severe, tiring, tough, hard, very, extremely"
+        "meaning": "great, excellent, admirable, commendable, laudable, honorable, wonderful, outstanding, extraordinary, distinguished, important, high-ranking, powerful, eminent, famous, awful, terrible, serious, tremendous, great, mighty, severe, tiring, tough, hard, very, extremely |(vi) vĩ đại, xuất sắc, đáng khâm phục, đáng kính, tuyệt vời, nổi bật, quan trọng, cấp cao, quyền lực, nổi tiếng, kinh khủng, nghiêm trọng, cực kỳ, vất vả, khó khăn"
       },
       {
         "example": "偉いこっちゃ",
         "reading": "えらいこっちゃ",
-        "meaning": "what are we going to do?, uh-oh, oh crap, what a mess, oh brother"
+        "meaning": "what are we going to do?, uh-oh, oh crap, what a mess, oh brother |(vi) biết làm sao đây, ôi không, thật là rắc rối"
       }
     ],
     "radical": {
@@ -285,7 +285,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "化",

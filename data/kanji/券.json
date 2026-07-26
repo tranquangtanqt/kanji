@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "ticket, certificate",
+    "meaning": "ticket, certificate |(vi) vé, giấy chứng nhận",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "券（けん）",
         "meaning": {
-          "english": "ticket, coupon, bond, certificate"
+          "english": "ticket, coupon, bond, certificate |(vi) vé, phiếu, trái phiếu, giấy chứng nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryo)ken_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "券売機（けんばいき）",
         "meaning": {
-          "english": "ticket machine"
+          "english": "ticket machine |(vi) máy bán vé"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryo)ken_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "旅券（りょけん）",
         "meaning": {
-          "english": "passport"
+          "english": "passport |(vi) hộ chiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryo)ken_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "証券（しょうけん）",
         "meaning": {
-          "english": "securities, bonds, certificates"
+          "english": "securities, bonds, certificates |(vi) chứng khoán, trái phiếu, giấy chứng nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryo)ken_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "債券（さいけん）",
         "meaning": {
-          "english": "bond, debenture"
+          "english": "bond, debenture |(vi) trái phiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryo)ken_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "株券（かぶけん）",
         "meaning": {
-          "english": "stock certificate"
+          "english": "stock certificate |(vi) cổ phiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryo)ken_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "食券（しょっけん）",
         "meaning": {
-          "english": "meal ticket"
+          "english": "meal ticket |(vi) phiếu ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryo)ken_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "乗車券（じょうしゃけん）",
         "meaning": {
-          "english": "passenger ticket"
+          "english": "passenger ticket |(vi) vé tàu xe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryo)ken_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "特急券（とっきゅうけん）",
         "meaning": {
-          "english": "special-express ticket"
+          "english": "special-express ticket |(vi) vé tàu tốc hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryo)ken_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "入場券（にゅうじょうけん）",
         "meaning": {
-          "english": "ticket of admission"
+          "english": "ticket of admission |(vi) vé vào cửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryo)ken_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "定期券（ていきけん）",
         "meaning": {
-          "english": "commuter pass, season ticket"
+          "english": "commuter pass, season ticket |(vi) vé đi lại định kỳ, vé tháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryo)ken_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "回数券（かいすうけん）",
         "meaning": {
-          "english": "book of tickets"
+          "english": "book of tickets |(vi) tập vé (vé xé nhiều lần)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryo)ken_06_l.opus",
@@ -236,7 +236,7 @@
     "kanji": {
       "character": "券",
       "meaning": {
-        "english": "ticket, certificate"
+        "english": "ticket, certificate |(vi) vé, giấy chứng nhận"
       },
       "strokes": {
         "count": 8,
@@ -290,7 +290,7 @@
         "romaji": "katana"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, kiếm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/katana0.svg",
@@ -311,7 +311,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "583",
     "strokeCount": 8,
-    "meaning": "ticket",
+    "meaning": "ticket |(vi) vé, giấy chứng nhận |(hv) Khoán",
     "kunyomi": [],
     "onyomi": [
       "ケン"
@@ -320,22 +320,22 @@
       {
         "example": "券",
         "reading": "ケン",
-        "meaning": "ticket, coupon, bond, certificate"
+        "meaning": "ticket, coupon, bond, certificate |(vi) vé, phiếu, trái phiếu, giấy chứng nhận"
       },
       {
         "example": "券売機",
         "reading": "ケンバイキ",
-        "meaning": "ticket machine, ticket-vending machine"
+        "meaning": "ticket machine, ticket-vending machine |(vi) máy bán vé"
       },
       {
         "example": "有価証券",
         "reading": "ユウカショウケン",
-        "meaning": "marketable securities, stocks and bonds"
+        "meaning": "marketable securities, stocks and bonds |(vi) chứng khoán có giá trị, cổ phiếu và trái phiếu"
       },
       {
         "example": "旅行券",
         "reading": "リョコウケン",
-        "meaning": "travel voucher, travel coupon"
+        "meaning": "travel voucher, travel coupon |(vi) phiếu du lịch, phiếu quà tặng du lịch"
       }
     ],
     "kunyomiExamples": [],
@@ -344,7 +344,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "一",

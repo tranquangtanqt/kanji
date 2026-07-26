@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "Chinese, fellow",
+    "meaning": "Chinese, fellow |(vi) người Hán, gã (đàn ông)",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "漢字（かんじ）",
         "meaning": {
-          "english": "Chinese characters"
+          "english": "Chinese characters |(vi) chữ Hán, chữ Kanji"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(ji)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "漢語（かんご）",
         "meaning": {
-          "english": "Sino-Japanese word"
+          "english": "Sino-Japanese word |(vi) từ Hán (từ gốc Hán trong tiếng Nhật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(ji)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "漢和辞典（かんわじてん）",
         "meaning": {
-          "english": "character dictionary"
+          "english": "character dictionary |(vi) từ điển Hán-Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(ji)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "熱血漢（ねっけつかん）",
         "meaning": {
-          "english": "hot-blooded person"
+          "english": "hot-blooded person |(vi) người nhiệt huyết, gã máu nóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(ji)_06_d.opus",
@@ -181,7 +181,7 @@
     "kanji": {
       "character": "漢",
       "meaning": {
-        "english": "Chinese, fellow"
+        "english": "Chinese, fellow |(vi) người Hán, gã (đàn ông)"
       },
       "strokes": {
         "count": 13,
@@ -245,7 +245,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -266,7 +266,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1487",
     "strokeCount": 13,
-    "meaning": "Sino-, China",
+    "meaning": "Sino-, China |(vi) Hán, Trung Hoa |(hv) Hán",
     "kunyomi": [],
     "onyomi": [
       "カン"
@@ -275,22 +275,22 @@
       {
         "example": "漢",
         "reading": "カン",
-        "meaning": "China, Han dynasty (of China; 202 BCE-220 CE), Han (majority Chinese ethnic group), man"
+        "meaning": "China, Han dynasty (of China; 202 BCE-220 CE), Han (majority Chinese ethnic group), man |(vi) Trung Quốc, nhà Hán (202 TCN-220 SCN), người Hán (dân tộc đa số ở Trung Quốc), gã đàn ông"
       },
       {
         "example": "漢字",
         "reading": "カンジ",
-        "meaning": "kanji, Chinese character"
+        "meaning": "kanji, Chinese character |(vi) chữ Hán, chữ Kanji"
       },
       {
         "example": "巨漢",
         "reading": "キョカン",
-        "meaning": "giant"
+        "meaning": "giant |(vi) người khổng lồ, gã to lớn"
       },
       {
         "example": "門外漢",
         "reading": "モンガイカン",
-        "meaning": "outsider, layman, amateur"
+        "meaning": "outsider, layman, amateur |(vi) người ngoại đạo, người không chuyên, kẻ tay ngang"
       }
     ],
     "kunyomiExamples": [],
@@ -300,7 +300,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "一",

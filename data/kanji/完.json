@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 50,
     "kunyomi": "n/a",
-    "meaning": "complete",
+    "meaning": "complete |(vi) hoàn thành, hoàn tất",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "完成する（かんせいする）",
         "meaning": {
-          "english": "complete, finish"
+          "english": "complete, finish |(vi) hoàn thành, hoàn tất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(peki)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "完了する（かんりょうする）",
         "meaning": {
-          "english": "complete"
+          "english": "complete |(vi) hoàn tất, kết thúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(peki)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "完結する（かんけつする）",
         "meaning": {
-          "english": "conclude, finish"
+          "english": "conclude, finish |(vi) kết thúc, hoàn kết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(peki)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "完備する（かんびする）",
         "meaning": {
-          "english": "equip fully"
+          "english": "equip fully |(vi) trang bị đầy đủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(peki)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "完全な（かんぜんな）",
         "meaning": {
-          "english": "perfect"
+          "english": "perfect |(vi) hoàn toàn, trọn vẹn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(peki)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "完璧な（かんぺきな）",
         "meaning": {
-          "english": "flawless"
+          "english": "flawless |(vi) hoàn hảo, không tì vết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(peki)_06_f.opus",
@@ -196,7 +196,7 @@
     "kanji": {
       "character": "完",
       "meaning": {
-        "english": "complete"
+        "english": "complete |(vi) hoàn thành, hoàn tất"
       },
       "strokes": {
         "count": 7,
@@ -248,7 +248,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà, bộ đầu mái)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -269,7 +269,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "595",
     "strokeCount": 7,
-    "meaning": "perfect, completion, end",
+    "meaning": "perfect, completion, end |(vi) hoàn hảo, hoàn thành, kết thúc |(hv) Hoàn",
     "kunyomi": [],
     "onyomi": [
       "カン"
@@ -278,28 +278,28 @@
       {
         "example": "完",
         "reading": "カン",
-        "meaning": "The End, Finis, completion, conclusion, end, full provision"
+        "meaning": "The End, Finis, completion, conclusion, end, full provision |(vi) Hết, Kết thúc, hoàn thành, hoàn kết, cung cấp đầy đủ"
       },
       {
         "example": "完結",
         "reading": "カンケツ",
-        "meaning": "conclusion, completion"
+        "meaning": "conclusion, completion |(vi) kết thúc, hoàn kết"
       },
       {
         "example": "未完",
         "reading": "ミカン",
-        "meaning": "incomplete, unfinished"
+        "meaning": "incomplete, unfinished |(vi) chưa hoàn thành, dang dở"
       },
       {
         "example": "追完",
         "reading": "ツイカン",
-        "meaning": "subsequent completion"
+        "meaning": "subsequent completion |(vi) bổ sung hoàn thiện sau"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà)"
     },
     "parts": [
       "二",

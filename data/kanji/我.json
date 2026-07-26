@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "ware, wa",
-    "meaning": "self, I, my, our",
+    "meaning": "self, I, my, our |(vi) bản thân, tôi, của tôi, của chúng ta",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "我流（がりゅう）",
         "meaning": {
-          "english": "one's own style"
+          "english": "one's own style |(vi) phong cách riêng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-ware_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "我欲（がよく）",
         "meaning": {
-          "english": "selfishness"
+          "english": "selfishness |(vi) lòng ích kỷ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-ware_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "自我（じが）",
         "meaning": {
-          "english": "self, ego"
+          "english": "self, ego |(vi) bản ngã, cái tôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-ware_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "無我（むが）",
         "meaning": {
-          "english": "selflessness"
+          "english": "selflessness |(vi) vô ngã, quên mình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-ware_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "怪我（けが）",
         "meaning": {
-          "english": "injury"
+          "english": "injury |(vi) vết thương, chấn thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-ware_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "我慢する（がまんする）",
         "meaning": {
-          "english": "endure, put up with"
+          "english": "endure, put up with |(vi) chịu đựng, nhẫn nhịn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-ware_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "我（われ）",
         "meaning": {
-          "english": "I, self, oneself, ego"
+          "english": "I, self, oneself, ego |(vi) tôi, bản thân, cái tôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-ware_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "我々（われわれ）",
         "meaning": {
-          "english": "we"
+          "english": "we |(vi) chúng tôi, chúng ta"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-ware_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "我が家（わがや）",
         "meaning": {
-          "english": "our house, our home"
+          "english": "our house, our home |(vi) nhà của chúng tôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-ware_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "我が国（わがくに）",
         "meaning": {
-          "english": "our country, our land"
+          "english": "our country, our land |(vi) đất nước chúng tôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-ware_06_j.opus",
@@ -216,7 +216,7 @@
     "kanji": {
       "character": "我",
       "meaning": {
-        "english": "self, I, my, our"
+        "english": "self, I, my, our |(vi) bản thân, tôi, của tôi, của chúng ta"
       },
       "strokes": {
         "count": 7,
@@ -268,7 +268,7 @@
         "romaji": "hoko"
       },
       "meaning": {
-        "english": "spear, weapon"
+        "english": "spear, weapon |(vi) Qua (cây giáo, vũ khí)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hoko0.svg",
@@ -289,7 +289,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "829",
     "strokeCount": 7,
-    "meaning": "ego, I, selfish, our, oneself",
+    "meaning": "ego, I, selfish, our, oneself |(vi) cái tôi, tôi, ích kỷ, của chúng ta, bản thân |(hv) Ngã",
     "kunyomi": [
       "われ",
       "わ",
@@ -303,54 +303,54 @@
       {
         "example": "我",
         "reading": "ガ",
-        "meaning": "obstinacy, atman, the self, the ego"
+        "meaning": "obstinacy, atman, the self, the ego |(vi) sự cố chấp, ngã (Phật giáo: bản ngã), cái tôi"
       },
       {
         "example": "我慢",
         "reading": "ガマン",
-        "meaning": "endurance, patience, perseverance, bearing (with something), self-control, self-restraint"
+        "meaning": "endurance, patience, perseverance, bearing (with something), self-control, self-restraint |(vi) kiên nhẫn, chịu đựng, nhẫn nại, tự chủ, tự kiềm chế"
       },
       {
         "example": "無我",
         "reading": "ムガ",
-        "meaning": "selflessness, self-effacement, self-renunciation, anatta, anatman, doctrine that states that humans do not possess souls"
+        "meaning": "selflessness, self-effacement, self-renunciation, anatta, anatman, doctrine that states that humans do not possess souls |(vi) vô ngã, quên mình, xả kỷ, học thuyết cho rằng con người không có linh hồn"
       },
       {
         "example": "小我",
         "reading": "ショウガ",
-        "meaning": "the self, the ego"
+        "meaning": "the self, the ego |(vi) cái tôi nhỏ bé, bản ngã cá nhân"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "我",
         "reading": "われ",
-        "meaning": "I, me, oneself, you, prefix indicating familiarity or contempt"
+        "meaning": "I, me, oneself, you, prefix indicating familiarity or contempt |(vi) tôi, ta, bản thân, ngươi, tiền tố thể hiện sự thân mật hoặc khinh miệt"
       },
       {
         "example": "我々",
         "reading": "われわれ",
-        "meaning": "we"
+        "meaning": "we |(vi) chúng tôi, chúng ta"
       },
       {
         "example": "人は人、我は我",
         "reading": "ひとはひと、われはわれ",
-        "meaning": "live and let live, you do you and I'll do me, people are people; I am myself"
+        "meaning": "live and let live, you do you and I'll do me, people are people; I am myself |(vi) sống và để người khác sống, ai lo phận nấy, người là người, ta là ta"
       },
       {
         "example": "我",
         "reading": "われ",
-        "meaning": "I, me, oneself, you, prefix indicating familiarity or contempt"
+        "meaning": "I, me, oneself, you, prefix indicating familiarity or contempt |(vi) tôi, ta, bản thân, ngươi, tiền tố thể hiện sự thân mật hoặc khinh miệt"
       },
       {
         "example": "我が",
         "reading": "わが",
-        "meaning": "my, our, one's own"
+        "meaning": "my, our, one's own |(vi) của tôi, của chúng tôi, của riêng mình"
       }
     ],
     "radical": {
       "symbol": "戈",
-      "meaning": "spear, halberd"
+      "meaning": "spear, halberd |(vi) Qua (cây giáo, vũ khí)"
     },
     "parts": [
       "亅",

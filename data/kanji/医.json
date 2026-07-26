@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "medicine, doctor",
+    "meaning": "medicine, doctor |(vi) y học, bác sĩ",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "医者（いしゃ）",
         "meaning": {
-          "english": "doctor (medical)"
+          "english": "doctor (medical) |(vi) bác sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(gaku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "医師（いし）",
         "meaning": {
-          "english": "doctor (medical)"
+          "english": "doctor (medical) |(vi) bác sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(gaku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "医療（いりょう）",
         "meaning": {
-          "english": "medical care"
+          "english": "medical care |(vi) chăm sóc y tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(gaku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "医学（いがく）",
         "meaning": {
-          "english": "medical science"
+          "english": "medical science |(vi) y học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(gaku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "医院（いいん）",
         "meaning": {
-          "english": "clinic"
+          "english": "clinic |(vi) phòng khám"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(gaku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "医薬品（いやくひん）",
         "meaning": {
-          "english": "medical supplies"
+          "english": "medical supplies |(vi) dược phẩm, vật tư y tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(gaku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "獣医（じゅうい）",
         "meaning": {
-          "english": "veterinarian"
+          "english": "veterinarian |(vi) bác sĩ thú y"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(gaku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "歯科医（しかい）",
         "meaning": {
-          "english": "dentist"
+          "english": "dentist |(vi) nha sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(gaku)_06_h.opus",
@@ -258,7 +258,7 @@
     "kanji": {
       "character": "医",
       "meaning": {
-        "english": "medicine, doctor"
+        "english": "medicine, doctor |(vi) y học, bác sĩ"
       },
       "strokes": {
         "count": 7,
@@ -310,7 +310,7 @@
         "romaji": "hakogamae"
       },
       "meaning": {
-        "english": "box"
+        "english": "box |(vi) Hệ (hộp, che giấu)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hakogamae0.svg",
@@ -331,7 +331,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "437",
     "strokeCount": 7,
-    "meaning": "doctor, medicine",
+    "meaning": "doctor, medicine |(vi) bác sĩ, y học |(hv) Y",
     "kunyomi": [
       "い.やす",
       "い.する",
@@ -344,39 +344,39 @@
       {
         "example": "医",
         "reading": "イ",
-        "meaning": "medicine, the healing art, healing, curing, doctor"
+        "meaning": "medicine, the healing art, healing, curing, doctor |(vi) y học, nghệ thuật chữa bệnh, chữa lành, bác sĩ"
       },
       {
         "example": "医院",
         "reading": "イイン",
-        "meaning": "doctor's office, doctor's surgery, clinic"
+        "meaning": "doctor's office, doctor's surgery, clinic |(vi) phòng khám bác sĩ"
       },
       {
         "example": "軍医",
         "reading": "グンイ",
-        "meaning": "military physician or surgeon"
+        "meaning": "military physician or surgeon |(vi) quân y"
       },
       {
         "example": "校医",
         "reading": "コウイ",
-        "meaning": "school doctor"
+        "meaning": "school doctor |(vi) bác sĩ học đường"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "医する",
         "reading": "いする",
-        "meaning": "to cure, to heal"
+        "meaning": "to cure, to heal |(vi) chữa trị, chữa lành"
       },
       {
         "example": "薬師",
         "reading": "くすし",
-        "meaning": "doctor"
+        "meaning": "doctor |(vi) thầy thuốc"
       }
     ],
     "radical": {
       "symbol": "匸",
-      "meaning": "hiding enclosure"
+      "meaning": "hiding enclosure |(vi) Hệ (giấu, che)"
     },
     "parts": [
       "乞",

@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "suwa, suwaru",
-    "meaning": "seat, sit",
+    "meaning": "seat, sit |(vi) chỗ ngồi, ngồi",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "座席（ざせき）",
         "meaning": {
-          "english": "seat"
+          "english": "seat |(vi) chỗ ngồi, ghế ngồi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/za-suwa(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "座敷（ざしき）",
         "meaning": {
-          "english": "tatami room"
+          "english": "tatami room |(vi) phòng tatami, phòng kiểu Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/za-suwa(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "座禅（ざぜん）",
         "meaning": {
-          "english": "meditation"
+          "english": "meditation |(vi) tọa thiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/za-suwa(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "座談会（ざだんかい）",
         "meaning": {
-          "english": "symposium, round-table"
+          "english": "symposium, round-table |(vi) buổi tọa đàm, hội thảo bàn tròn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/za-suwa(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "座右の書（ざゆうのしょ）",
         "meaning": {
-          "english": "one's bedside book"
+          "english": "one's bedside book |(vi) sách gối đầu giường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/za-suwa(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "星座（せいざ）",
         "meaning": {
-          "english": "constellation"
+          "english": "constellation |(vi) chòm sao, cung hoàng đạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/za-suwa(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "王座（おうざ）",
         "meaning": {
-          "english": "throne"
+          "english": "throne |(vi) ngai vàng, ngôi vị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/za-suwa(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "銀座（ぎんざ）",
         "meaning": {
-          "english": "silver mint, Ginza (place name)"
+          "english": "silver mint, Ginza (place name) |(vi) xưởng đúc bạc, Ginza (tên địa danh)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/za-suwa(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "講座（こうざ）",
         "meaning": {
-          "english": "course (of lectures)"
+          "english": "course (of lectures) |(vi) khóa giảng, chuyên mục giảng dạy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/za-suwa(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "銀行口座（ぎんこうこうざ）",
         "meaning": {
-          "english": "bank account"
+          "english": "bank account |(vi) tài khoản ngân hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/za-suwa(ru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "座る（すわる）",
         "meaning": {
-          "english": "sit, squat"
+          "english": "sit, squat |(vi) ngồi, ngồi xổm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/za-suwa(ru)_06_k.opus",
@@ -267,7 +267,7 @@
     "kanji": {
       "character": "座",
       "meaning": {
-        "english": "seat, sit"
+        "english": "seat, sit |(vi) chỗ ngồi, ngồi"
       },
       "strokes": {
         "count": 10,
@@ -325,7 +325,7 @@
         "romaji": "madare"
       },
       "meaning": {
-        "english": "slanting roof"
+        "english": "slanting roof |(vi) Nghiễm (mái nhà dốc, mái hiên)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/madare0.svg",
@@ -346,7 +346,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "588",
     "strokeCount": 10,
-    "meaning": "squat, seat, cushion, gathering, sit",
+    "meaning": "squat, seat, cushion, gathering, sit |(vi) ngồi xổm, chỗ ngồi, đệm ngồi, buổi họp mặt, ngồi |(hv) Tọa",
     "kunyomi": [
       "すわ.る"
     ],
@@ -357,34 +357,34 @@
       {
         "example": "座",
         "reading": "ザ",
-        "meaning": "seat, place, position, status, gathering, party, company, atmosphere (of a gathering), stand, pedestal, platform, trade guild, attaches to the names of constellations, attaches to the names of theatres, cinemas and theatrical troupes, counter for theatres, deities, Buddhist images, tall mountains, and satokagura songs"
+        "meaning": "seat, place, position, status, gathering, party, company, atmosphere (of a gathering), stand, pedestal, platform, trade guild, attaches to the names of constellations, attaches to the names of theatres, cinemas and theatrical troupes, counter for theatres, deities, Buddhist images, tall mountains, and satokagura songs |(vi) chỗ ngồi, vị trí, thân phận, buổi họp mặt, tiệc, hội, không khí (buổi họp), bệ, chân đế, bục, phường hội buôn bán, hậu tố tên chòm sao, hậu tố tên rạp hát/rạp chiếu phim/đoàn kịch, lượng từ đếm nhà hát, thần linh, tượng Phật, núi cao và bài hát satokagura"
       },
       {
         "example": "座敷",
         "reading": "ザシキ",
-        "meaning": "tatami room, tatami mat room, formal Japanese room, dinner party in a tatami room (esp. when a geisha or maiko attends)"
+        "meaning": "tatami room, tatami mat room, formal Japanese room, dinner party in a tatami room (esp. when a geisha or maiko attends) |(vi) phòng tatami, phòng kiểu Nhật trang trọng, tiệc trong phòng tatami (thường có geisha/maiko tiếp)"
       },
       {
         "example": "連座",
         "reading": "レンザ",
-        "meaning": "implication (in a crime), involvement, sitting in a row (in the same seat)"
+        "meaning": "implication (in a crime), involvement, sitting in a row (in the same seat) |(vi) liên can (trong tội), liên lụy, ngồi thành hàng (cùng chỗ ngồi)"
       },
       {
         "example": "同坐",
         "reading": "ドウザ",
-        "meaning": "sitting together, the same theater (theatre), involvement, entanglement, implication"
+        "meaning": "sitting together, the same theater (theatre), involvement, entanglement, implication |(vi) cùng ngồi, cùng rạp hát, liên can, dính líu, liên lụy"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "座る",
         "reading": "すわる",
-        "meaning": "to sit, to squat, to assume (a position), to hold steady, to hold still"
+        "meaning": "to sit, to squat, to assume (a position), to hold steady, to hold still |(vi) ngồi, ngồi xổm, vào vị trí (ngồi), đứng vững, giữ yên"
       }
     ],
     "radical": {
       "symbol": "广",
-      "meaning": "house on cliff"
+      "meaning": "house on cliff |(vi) Nghiễm (mái nhà dốc, mái hiên)"
     },
     "parts": [
       "人",

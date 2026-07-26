@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "enlarge, extend, expand",
+    "meaning": "enlarge, extend, expand |(vi) mở rộng, kéo dài, phóng to",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "拡声器（かくせいき）",
         "meaning": {
-          "english": "megaphone, bullhorn"
+          "english": "megaphone, bullhorn |(vi) loa phóng thanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(daisuru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "拡大する（かくだいする）",
         "meaning": {
-          "english": "magnify, enlarge"
+          "english": "magnify, enlarge |(vi) phóng to, mở rộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(daisuru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "拡張する（かくちょうする）",
         "meaning": {
-          "english": "extend, expand"
+          "english": "extend, expand |(vi) mở rộng, kéo dài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(daisuru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "拡充する（かくじゅうする）",
         "meaning": {
-          "english": "expand"
+          "english": "expand |(vi) mở rộng, tăng cường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(daisuru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "拡散する（かくさんする）",
         "meaning": {
-          "english": "scatter"
+          "english": "scatter |(vi) lan tỏa, khuếch tán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(daisuru)_06_e.opus",
@@ -169,7 +169,7 @@
     "kanji": {
       "character": "拡",
       "meaning": {
-        "english": "enlarge, extend, expand"
+        "english": "enlarge, extend, expand |(vi) mở rộng, kéo dài, phóng to"
       },
       "strokes": {
         "count": 8,
@@ -223,7 +223,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -244,7 +244,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "611",
     "strokeCount": 8,
-    "meaning": "broaden, extend, expand, enlarge",
+    "meaning": "broaden, extend, expand, enlarge |(vi) mở rộng, kéo dài, phóng to, làm to ra |(hv) Khuếch",
     "kunyomi": [
       "ひろ.がる",
       "ひろ.げる",
@@ -258,29 +258,29 @@
       {
         "example": "拡充",
         "reading": "カクジュウ",
-        "meaning": "expansion"
+        "meaning": "expansion |(vi) mở rộng, tăng cường"
       },
       {
         "example": "拡散",
         "reading": "カクサン",
-        "meaning": "spreading, disseminating, scattering, diffusion (of light, gas)"
+        "meaning": "spreading, disseminating, scattering, diffusion (of light, gas) |(vi) lan tỏa, phổ biến, khuếch tán (ánh sáng, khí)"
       },
       {
         "example": "軍拡",
         "reading": "グンカク",
-        "meaning": "military expansion, arms buildup"
+        "meaning": "military expansion, arms buildup |(vi) mở rộng quân đội, tăng cường vũ trang"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "広がる",
         "reading": "ひろがる",
-        "meaning": "to spread (out), to extend, to stretch, to reach to, to get around, to fill (e.g. a space)"
+        "meaning": "to spread (out), to extend, to stretch, to reach to, to get around, to fill (e.g. a space) |(vi) lan rộng, mở rộng, kéo dài, vươn tới, lan truyền, lấp đầy (không gian)"
       },
       {
         "example": "広げる",
         "reading": "ひろげる",
-        "meaning": "to spread, to extend, to expand, to enlarge, to widen, to broaden, to unfold, to open, to unroll, to unwrap, to scatter about, to spread around, to make flourish, to cause to prosper"
+        "meaning": "to spread, to extend, to expand, to enlarge, to widen, to broaden, to unfold, to open, to unroll, to unwrap, to scatter about, to spread around, to make flourish, to cause to prosper |(vi) mở rộng, kéo dài, phóng to, làm rộng ra, trải ra, mở ra, cuộn mở, tháo (gói), rải rác, lan tỏa, làm hưng thịnh, làm thịnh vượng"
       }
     ],
     "radical": {
@@ -288,7 +288,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "厶",

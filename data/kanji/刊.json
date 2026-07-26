@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "publish",
+    "meaning": "publish |(vi) xuất bản, in ấn",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "朝刊（ちょうかん）",
         "meaning": {
-          "english": "morning newspaper"
+          "english": "morning newspaper |(vi) báo buổi sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sou)kan(gou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "夕刊（ゆうかん）",
         "meaning": {
-          "english": "evening paper"
+          "english": "evening paper |(vi) báo buổi chiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sou)kan(gou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "新刊書（しんかんしょ）",
         "meaning": {
-          "english": "new book, new publication"
+          "english": "new book, new publication |(vi) sách mới xuất bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sou)kan(gou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "創刊号（そうかんごう）",
         "meaning": {
-          "english": "first edition, first printing"
+          "english": "first edition, first printing |(vi) số đầu tiên khi mới phát hành, số ra mắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sou)kan(gou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "週刊誌（しゅうかんし）",
         "meaning": {
-          "english": "weekly publication"
+          "english": "weekly publication |(vi) tạp chí tuần, tuần san"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sou)kan(gou)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "月刊誌（げっかんし）",
         "meaning": {
-          "english": "monthly publication"
+          "english": "monthly publication |(vi) tạp chí tháng, nguyệt san"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sou)kan(gou)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "季刊誌（きかんし）",
         "meaning": {
-          "english": "quarterly publication"
+          "english": "quarterly publication |(vi) tạp chí quý, quý san"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sou)kan(gou)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "刊行する（かんこうする）",
         "meaning": {
-          "english": "publish, issue"
+          "english": "publish, issue |(vi) xuất bản, phát hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sou)kan(gou)_06_h.opus",
@@ -177,7 +177,7 @@
     "kanji": {
       "character": "刊",
       "meaning": {
-        "english": "publish"
+        "english": "publish |(vi) xuất bản, in ấn"
       },
       "strokes": {
         "count": 5,
@@ -225,7 +225,7 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, kiếm - dạng đứng lập đao)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -246,7 +246,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "855",
     "strokeCount": 5,
-    "meaning": "publish, carve, engrave",
+    "meaning": "publish, carve, engrave |(vi) xuất bản, khắc, chạm khắc |(hv) San",
     "kunyomi": [],
     "onyomi": [
       "カン"
@@ -255,22 +255,22 @@
       {
         "example": "刊",
         "reading": "カン",
-        "meaning": "publication, edition (e.g. morning, evening, special), published in (year), publication frequency (e.g. daily, monthly)"
+        "meaning": "publication, edition (e.g. morning, evening, special), published in (year), publication frequency (e.g. daily, monthly) |(vi) ấn phẩm, số báo (buổi sáng, buổi chiều, đặc biệt...), năm xuất bản, tần suất phát hành (ngày, tháng...)"
       },
       {
         "example": "刊行",
         "reading": "カンコウ",
-        "meaning": "publication, issue"
+        "meaning": "publication, issue |(vi) sự xuất bản, phát hành"
       },
       {
         "example": "週刊",
         "reading": "シュウカン",
-        "meaning": "weekly publication"
+        "meaning": "weekly publication |(vi) tuần san, ấn phẩm hàng tuần"
       },
       {
         "example": "休刊",
         "reading": "キュウカン",
-        "meaning": "suspension of publication"
+        "meaning": "suspension of publication |(vi) tạm ngừng phát hành, đình bản tạm thời"
       }
     ],
     "kunyomiExamples": [],
@@ -279,7 +279,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "刈",

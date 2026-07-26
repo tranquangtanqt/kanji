@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 5,
     "kunyomi": "kizu, ita, itamu, itameru",
-    "meaning": "wound, injury, hurt",
+    "meaning": "wound, injury, hurt |(vi) vết thương, tổn thương, đau",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "傷害事件（しょうがいじけん）",
         "meaning": {
-          "english": "assault [n.]"
+          "english": "assault [n.] |(vi) vụ hành hung, vụ gây thương tích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "損傷（そんしょう）",
         "meaning": {
-          "english": "damage, injury"
+          "english": "damage, injury |(vi) hư hại, tổn thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "重傷（じゅうしょう）",
         "meaning": {
-          "english": "serious wound or injury"
+          "english": "serious wound or injury |(vi) trọng thương, bị thương nặng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "中傷する（ちゅうしょうする）",
         "meaning": {
-          "english": "slander, defame"
+          "english": "slander, defame |(vi) vu khống, phỉ báng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "負傷する（ふしょうする）",
         "meaning": {
-          "english": "be injured, be wounded"
+          "english": "be injured, be wounded |(vi) bị thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "傷（きず）",
         "meaning": {
-          "english": "wound, injury, hurt, cut"
+          "english": "wound, injury, hurt, cut |(vi) vết thương, vết cắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "傷口（きずぐち）",
         "meaning": {
-          "english": "wound"
+          "english": "wound |(vi) miệng vết thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "傷跡（きずあと）",
         "meaning": {
-          "english": "scar"
+          "english": "scar |(vi) vết sẹo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "傷つける（きずつける）",
         "meaning": {
-          "english": "hurt, wound [v.t.]"
+          "english": "hurt, wound [v.t.] |(vi) làm bị thương, làm tổn thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "傷める（いためる）",
         "meaning": {
-          "english": "damage, impair, hurt [v.t.]"
+          "english": "damage, impair, hurt [v.t.] |(vi) làm hư hại, làm tổn thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "傷む（いたむ）",
         "meaning": {
-          "english": "be damaged, go bad [v.i.]"
+          "english": "be damaged, go bad [v.i.] |(vi) bị hư hại, bị hỏng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "*火傷（やけど）",
         "meaning": {
-          "english": "burn [n.]"
+          "english": "burn [n.] |(vi) vết bỏng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_l.opus",
@@ -250,7 +250,7 @@
     "kanji": {
       "character": "傷",
       "meaning": {
-        "english": "wound, injury, hurt"
+        "english": "wound, injury, hurt |(vi) vết thương, tổn thương, đau"
       },
       "strokes": {
         "count": 13,
@@ -314,7 +314,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -335,7 +335,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "845",
     "strokeCount": 13,
-    "meaning": "wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point",
+    "meaning": "wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point |(vi) vết thương, làm bị thương, tổn hại, đau đớn, thương tích, vết cắt, vết sẹo, điểm yếu |(hv) Thương",
     "kunyomi": [
       "きず",
       "いた.む",
@@ -348,54 +348,54 @@
       {
         "example": "傷跡",
         "reading": "キズアト",
-        "meaning": "scar"
+        "meaning": "scar |(vi) vết sẹo"
       },
       {
         "example": "傷害",
         "reading": "ショウガイ",
-        "meaning": "injury, inflicting bodily injury"
+        "meaning": "injury, inflicting bodily injury |(vi) thương tích, gây thương tích"
       },
       {
         "example": "殺傷",
         "reading": "サッショウ",
-        "meaning": "killing and wounding, bloodshed"
+        "meaning": "killing and wounding, bloodshed |(vi) giết và làm bị thương, đổ máu"
       },
       {
         "example": "脳挫傷",
         "reading": "ノウザショウ",
-        "meaning": "cerebral contusion"
+        "meaning": "cerebral contusion |(vi) chấn thương não, dập não"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "傷",
         "reading": "きず",
-        "meaning": "wound, injury, cut, gash, bruise, scratch, scrape, scar, chip, crack, scratch, nick, flaw, defect, weakness, weak point, stain (on one's reputation), disgrace, dishonor, dishonour, (emotional) hurt, hurt feelings"
+        "meaning": "wound, injury, cut, gash, bruise, scratch, scrape, scar, chip, crack, scratch, nick, flaw, defect, weakness, weak point, stain (on one's reputation), disgrace, dishonor, dishonour, (emotional) hurt, hurt feelings |(vi) vết thương, vết cắt, vết bầm, vết trầy xước, vết sẹo, khuyết điểm, điểm yếu, vết nhơ (danh dự), tổn thương tinh thần"
       },
       {
         "example": "傷跡",
         "reading": "きずあと",
-        "meaning": "scar"
+        "meaning": "scar |(vi) vết sẹo"
       },
       {
         "example": "無傷",
         "reading": "むきず",
-        "meaning": "unhurt, uninjured, unwounded, unscathed, unharmed, flawless (e.g. gem), unblemished, undamaged, perfect (condition), spotless (e.g. reputation), faultless (e.g. performance), perfect (record), without failure, without defeat"
+        "meaning": "unhurt, uninjured, unwounded, unscathed, unharmed, flawless (e.g. gem), unblemished, undamaged, perfect (condition), spotless (e.g. reputation), faultless (e.g. performance), perfect (record), without failure, without defeat |(vi) không bị thương, nguyên vẹn, không tì vết, hoàn hảo, bất bại"
       },
       {
         "example": "古傷",
         "reading": "ふるきず",
-        "meaning": "old wound, scar, unpleasant past experience, painful memory, past misdeed"
+        "meaning": "old wound, scar, unpleasant past experience, painful memory, past misdeed |(vi) vết thương cũ, sẹo cũ, kỷ niệm đau buồn trong quá khứ"
       },
       {
         "example": "痛む",
         "reading": "いたむ",
-        "meaning": "to hurt, to ache, to feel a pain, to be injured, to be spoiled (e.g. food), to be damaged"
+        "meaning": "to hurt, to ache, to feel a pain, to be injured, to be spoiled (e.g. food), to be damaged |(vi) đau, nhức, bị thương, bị hỏng (thức ăn)"
       },
       {
         "example": "痛める",
         "reading": "いためる",
-        "meaning": "to hurt, to injure, to cause pain, to harm, to damage, to spoil, to worry, to bother, to be grieved over, to afflict, to cause financial loss, to hurt one's pocket"
+        "meaning": "to hurt, to injure, to cause pain, to harm, to damage, to spoil, to worry, to bother, to be grieved over, to afflict, to cause financial loss, to hurt one's pocket |(vi) làm đau, làm bị thương, gây hại, làm tổn hại tài chính"
       }
     ],
     "radical": {
@@ -403,7 +403,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "ノ",

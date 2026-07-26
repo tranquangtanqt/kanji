@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 2,
     "kunyomi": "on",
-    "meaning": "general honorific term, polite prefix",
+    "meaning": "general honorific term, polite prefix |(vi) kính ngữ, tiền tố lịch sự",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "制御する（せいぎょする）",
         "meaning": {
-          "english": "control, restrain"
+          "english": "control, restrain |(vi) điều khiển, khống chế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(chisou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "防御する（ぼうぎょする）",
         "meaning": {
-          "english": "defend, protect"
+          "english": "defend, protect |(vi) phòng thủ, bảo vệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(chisou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "御両親（ごりょうしん）",
         "meaning": {
-          "english": "parents [hon.]"
+          "english": "parents [hon.] |(vi) song thân (kính ngữ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(chisou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "御家族（ごかぞく）",
         "meaning": {
-          "english": "family [hon.]"
+          "english": "family [hon.] |(vi) gia đình (kính ngữ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(chisou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "御自身（ごじしん）",
         "meaning": {
-          "english": "oneself [hon.]"
+          "english": "oneself [hon.] |(vi) bản thân (kính ngữ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(chisou)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "御馳走（ごちそう）",
         "meaning": {
-          "english": "feast [n.]"
+          "english": "feast [n.] |(vi) bữa tiệc thịnh soạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(chisou)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "御飯（ごはん）",
         "meaning": {
-          "english": "rice (cooked), meal"
+          "english": "rice (cooked), meal |(vi) cơm, bữa ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(chisou)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "御存知（ごぞんじ）",
         "meaning": {
-          "english": "know [hon.]"
+          "english": "know [hon.] |(vi) biết (kính ngữ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(chisou)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "御身（おんみ）",
         "meaning": {
-          "english": "(polite term for) your body [hon.]"
+          "english": "(polite term for) your body [hon.] |(vi) tấm thân (kính ngữ), bản thân ngài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(chisou)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "*御日様（おひさま）",
         "meaning": {
-          "english": "sun"
+          "english": "sun |(vi) mặt trời (ông mặt trời)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(chisou)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "*御顔（おかお）",
         "meaning": {
-          "english": "face [hon.]"
+          "english": "face [hon.] |(vi) khuôn mặt (kính ngữ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(chisou)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "*御堂（みどう）",
         "meaning": {
-          "english": "temple building [hon.]"
+          "english": "temple building [hon.] |(vi) chánh điện, nhà chùa (kính ngữ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(chisou)_06_l.opus",
@@ -275,7 +275,7 @@
     "kanji": {
       "character": "御",
       "meaning": {
-        "english": "general honorific term, polite prefix"
+        "english": "general honorific term, polite prefix |(vi) kính ngữ, tiền tố lịch sự"
       },
       "strokes": {
         "count": 12,
@@ -337,7 +337,7 @@
         "romaji": "gyouninben"
       },
       "meaning": {
-        "english": "step, stride, street, to go"
+        "english": "step, stride, street, to go |(vi) Xích (bước chân nhỏ, đi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
@@ -358,7 +358,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1087",
     "strokeCount": 12,
-    "meaning": "honorable, manipulate, govern",
+    "meaning": "honorable, manipulate, govern |(vi) kính trọng, điều khiển, cai trị |(hv) Ngự",
     "kunyomi": [
       "おん-",
       "お-",
@@ -372,48 +372,48 @@
       {
         "example": "御",
         "reading": "ギョ",
-        "meaning": "honorific affix, honorific prefix"
+        "meaning": "honorific affix, honorific prefix |(vi) tiếp đầu ngữ kính ngữ"
       },
       {
         "example": "御苑",
         "reading": "ギョエン",
-        "meaning": "imperial garden"
+        "meaning": "imperial garden |(vi) vườn ngự uyển, vườn hoàng gia"
       },
       {
         "example": "自動制御",
         "reading": "ジドウセイギョ",
-        "meaning": "automatic control"
+        "meaning": "automatic control |(vi) điều khiển tự động"
       },
       {
         "example": "ファジィ制御",
         "reading": "ファジィセイギョ",
-        "meaning": "fuzzy control"
+        "meaning": "fuzzy control |(vi) điều khiển mờ (fuzzy)"
       },
       {
         "example": "御",
         "reading": "ゴ",
-        "meaning": "honorific/polite/humble prefix, honorific suffix"
+        "meaning": "honorific/polite/humble prefix, honorific suffix |(vi) tiếp đầu ngữ/tiếp vĩ ngữ kính ngữ, khiêm nhường ngữ"
       },
       {
         "example": "御所",
         "reading": "ゴショ",
-        "meaning": "imperial palace (esp. Kyoto Imperial Palace), imperial residence, residence of a shogun, minister, etc., emperor, ex-emperor, empress, imperial prince, shogun, minister"
+        "meaning": "imperial palace (esp. Kyoto Imperial Palace), imperial residence, residence of a shogun, minister, etc., emperor, ex-emperor, empress, imperial prince, shogun, minister |(vi) hoàng cung (đặc biệt là Kyoto), nơi ở của thiên hoàng/tướng quân/đại thần, chỉ thiên hoàng, thái thượng hoàng, hoàng hậu, hoàng tử, tướng quân, đại thần"
       },
       {
         "example": "甥御",
         "reading": "オイゴ",
-        "meaning": "(another person's) nephew"
+        "meaning": "(another person's) nephew |(vi) cháu trai (của người khác, kính ngữ)"
       },
       {
         "example": "大御",
         "reading": "オオイゴ",
-        "meaning": "older lady"
+        "meaning": "older lady |(vi) quý bà lớn tuổi"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "彳",
-      "meaning": "step"
+      "meaning": "step |(vi) Xích (bước chân nhỏ, đi)"
     },
     "parts": [
       "ノ",

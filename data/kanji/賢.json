@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "kashiko, kashikoi",
-    "meaning": "wise, intelligent",
+    "meaning": "wise, intelligent |(vi) khôn ngoan, thông minh",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "賢者（けんじゃ）",
         "meaning": {
-          "english": "wise man, sage"
+          "english": "wise man, sage |(vi) người hiền, bậc hiền triết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kashiko(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "賢母（けんぼ）",
         "meaning": {
-          "english": "wise mother"
+          "english": "wise mother |(vi) người mẹ hiền, người mẹ khôn ngoan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kashiko(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "賢明な（けんめいな）",
         "meaning": {
-          "english": "wise, intelligent, prudent"
+          "english": "wise, intelligent, prudent |(vi) khôn ngoan, sáng suốt, thận trọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kashiko(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "賢い（かしこい）",
         "meaning": {
-          "english": "wise, clever, smart"
+          "english": "wise, clever, smart |(vi) khôn ngoan, thông minh, lanh lợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kashiko(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "悪賢い（わるがしこい）",
         "meaning": {
-          "english": "cunning, crafty, wily, sly"
+          "english": "cunning, crafty, wily, sly |(vi) xảo quyệt, gian xảo, ranh mãnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kashiko(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "ずる賢い（ずるがしこい）",
         "meaning": {
-          "english": "sly"
+          "english": "sly |(vi) ranh mãnh, xảo quyệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kashiko(i)_06_f.opus",
@@ -176,7 +176,7 @@
     "kanji": {
       "character": "賢",
       "meaning": {
-        "english": "wise, intelligent"
+        "english": "wise, intelligent |(vi) khôn ngoan, thông minh"
       },
       "strokes": {
         "count": 16,
@@ -246,7 +246,7 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (vỏ sò, của cải, tài sản)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -267,7 +267,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1159",
     "strokeCount": 16,
-    "meaning": "intelligent, wise, wisdom, cleverness",
+    "meaning": "intelligent, wise, wisdom, cleverness |(vi) thông minh, khôn ngoan, trí tuệ, sự lanh lợi |(hv) Hiền",
     "kunyomi": [
       "かしこ.い"
     ],
@@ -278,34 +278,34 @@
       {
         "example": "賢",
         "reading": "ケン",
-        "meaning": "intelligence, genius, scholarship, virtue"
+        "meaning": "intelligence, genius, scholarship, virtue |(vi) trí tuệ, thiên tài, học vấn, đức hạnh"
       },
       {
         "example": "賢人",
         "reading": "ケンジン",
-        "meaning": "wise person, virtuous person, sage, unrefined sake"
+        "meaning": "wise person, virtuous person, sage, unrefined sake |(vi) người hiền, bậc hiền đức, hiền triết, rượu sake chưa lọc"
       },
       {
         "example": "遺賢",
         "reading": "イケン",
-        "meaning": "able men left out of office"
+        "meaning": "able men left out of office |(vi) người tài giỏi bị bỏ sót, không được trọng dụng"
       },
       {
         "example": "聖賢",
         "reading": "セイケン",
-        "meaning": "saints and sages"
+        "meaning": "saints and sages |(vi) thánh hiền"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "賢い",
         "reading": "かしこい",
-        "meaning": "wise, clever, smart, well-behaved (esp. children and pets), obedient, good"
+        "meaning": "wise, clever, smart, well-behaved (esp. children and pets), obedient, good |(vi) khôn ngoan, thông minh, lanh lợi, ngoan ngoãn (đặc biệt trẻ em, thú cưng), biết nghe lời, tốt"
       }
     ],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò)"
     },
     "parts": [
       "ハ",

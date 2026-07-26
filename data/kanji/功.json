@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "merit, success",
+    "meaning": "merit, success |(vi) công lao, thành công",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "成功する（せいこうする）",
         "meaning": {
-          "english": "succeed"
+          "english": "succeed |(vi) thành công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)kou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "年功序列（ねんこうじょれつ）",
         "meaning": {
-          "english": "achievement"
+          "english": "achievement |(vi) thành tích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)kou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "功績（こうせき）",
         "meaning": {
-          "english": "seniority system"
+          "english": "seniority system |(vi) chế độ thâm niên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)kou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "功労者（こうろうしゃ）",
         "meaning": {
-          "english": "meritorious person"
+          "english": "meritorious person |(vi) người có công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)kou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "功徳（くどく）",
         "meaning": {
-          "english": "piousness, charity"
+          "english": "piousness, charity |(vi) lòng thành kính, việc từ thiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)kou_06_e.opus",
@@ -168,7 +168,7 @@
     "kanji": {
       "character": "功",
       "meaning": {
-        "english": "merit, success"
+        "english": "merit, success |(vi) công lao, thành công"
       },
       "strokes": {
         "count": 5,
@@ -216,7 +216,7 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power |(vi) Lực (sức mạnh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -237,7 +237,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "857",
     "strokeCount": 5,
-    "meaning": "achievement, merits, success, honor, credit",
+    "meaning": "achievement, merits, success, honor, credit |(vi) thành tích, công lao, thành công, danh dự, công trạng |(hv) Công",
     "kunyomi": [
       "いさお"
     ],
@@ -249,44 +249,44 @@
       {
         "example": "功",
         "reading": "コウ",
-        "meaning": "merit, success, meritorious deed, achievement, accumulated experience"
+        "meaning": "merit, success, meritorious deed, achievement, accumulated experience |(vi) công lao, thành công, việc làm có công, thành tích, kinh nghiệm tích lũy"
       },
       {
         "example": "功績",
         "reading": "コウセキ",
-        "meaning": "achievement, meritorious deed, distinguished service, contribution"
+        "meaning": "achievement, meritorious deed, distinguished service, contribution |(vi) thành tích, việc làm có công, công lao đặc biệt, sự đóng góp"
       },
       {
         "example": "即効",
         "reading": "ソッコウ",
-        "meaning": "immediate effect, instant effect"
+        "meaning": "immediate effect, instant effect |(vi) hiệu quả tức thời, tác dụng ngay lập tức"
       },
       {
         "example": "奏功",
         "reading": "ソウコウ",
-        "meaning": "success, achievement, fruition"
+        "meaning": "success, achievement, fruition |(vi) thành công, thành tựu, kết quả"
       },
       {
         "example": "工夫",
         "reading": "クフウ",
-        "meaning": "devising (a way), contriving, inventing, thinking up, figuring out, coming up with, working out, device, design, idea, plan, invention, dedication to spiritual improvement (esp. through Zen meditation)"
+        "meaning": "devising (a way), contriving, inventing, thinking up, figuring out, coming up with, working out, device, design, idea, plan, invention, dedication to spiritual improvement (esp. through Zen meditation) |(vi) suy nghĩ tìm cách, sáng kiến, phát minh, nghĩ ra, tính toán, thiết kế, ý tưởng, kế hoạch, sự tu tập tinh thần (đặc biệt qua thiền)"
       },
       {
         "example": "効能",
         "reading": "コウノウ",
-        "meaning": "effect, effectiveness, efficacy, virtue, benefit"
+        "meaning": "effect, effectiveness, efficacy, virtue, benefit |(vi) hiệu quả, công dụng, hiệu lực, lợi ích"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "勲",
         "reading": "いさお",
-        "meaning": "distinguished service, meritorious service"
+        "meaning": "distinguished service, meritorious service |(vi) công trạng nổi bật, việc làm có công"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": "power, force |(vi) Lực (sức mạnh)"
     },
     "parts": [
       "力",

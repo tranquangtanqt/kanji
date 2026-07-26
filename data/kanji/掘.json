@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ho, horu",
-    "meaning": "dig",
+    "meaning": "dig |(vi) đào, khai quật",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "掘削する（くっさくする）",
         "meaning": {
-          "english": "dig out, excavate"
+          "english": "dig out, excavate |(vi) đào, khai quật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kutsu-ho(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "発掘する（はっくつする）",
         "meaning": {
-          "english": "excavate, unearth, exhume"
+          "english": "excavate, unearth, exhume |(vi) khai quật, khai quật cổ vật, quật mộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kutsu-ho(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "採掘する（さいくつする）",
         "meaning": {
-          "english": "mine [v.t.]"
+          "english": "mine [v.t.] |(vi) khai thác (mỏ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kutsu-ho(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "掘る（ほる）",
         "meaning": {
-          "english": "dig, excavate"
+          "english": "dig, excavate |(vi) đào, khai quật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kutsu-ho(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "掘り下げる（ほりさげる）",
         "meaning": {
-          "english": "dig down, delve into"
+          "english": "dig down, delve into |(vi) đào sâu, tìm hiểu sâu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kutsu-ho(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "掘り返す（ほりかえす）",
         "meaning": {
-          "english": "dig up, turn up, tear up"
+          "english": "dig up, turn up, tear up |(vi) đào lên, lật lên, xới lên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kutsu-ho(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "掘り出し物（ほりだしもの）",
         "meaning": {
-          "english": "good buy, bargain, treasure"
+          "english": "good buy, bargain, treasure |(vi) món hời, đồ mua rẻ, báu vật tình cờ tìm được"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kutsu-ho(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "露天堀り（ろてんぼり）",
         "meaning": {
-          "english": "open air strip mining"
+          "english": "open air strip mining |(vi) khai thác mỏ lộ thiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kutsu-ho(ru)_06_h.opus",
@@ -185,7 +185,7 @@
     "kanji": {
       "character": "掘",
       "meaning": {
-        "english": "dig"
+        "english": "dig |(vi) đào, khai quật"
       },
       "strokes": {
         "count": 11,
@@ -245,7 +245,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (bàn tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -266,7 +266,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1257",
     "strokeCount": 11,
-    "meaning": "dig, delve, excavate",
+    "meaning": "dig, delve, excavate |(vi) đào, khai quật, moi sâu |(hv) Quật",
     "kunyomi": [
       "ほ.る"
     ],
@@ -277,19 +277,19 @@
       {
         "example": "採掘",
         "reading": "サイクツ",
-        "meaning": "mining, digging, working (a mine)"
+        "meaning": "mining, digging, working (a mine) |(vi) khai thác mỏ, đào, khai thác (mỏ)"
       },
       {
         "example": "盗掘",
         "reading": "トウクツ",
-        "meaning": "illegal digging, illegal mining, grave robbing, tomb robbing"
+        "meaning": "illegal digging, illegal mining, grave robbing, tomb robbing |(vi) đào trộm, khai thác trái phép, đào trộm mộ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "掘る",
         "reading": "ほる",
-        "meaning": "to dig, to excavate, to hollow, to delve into, to dig up (e.g. vegetables), (for two men) to have anal sex"
+        "meaning": "to dig, to excavate, to hollow, to delve into, to dig up (e.g. vegetables), (for two men) to have anal sex |(vi) đào, khai quật, khoét, moi sâu vào, đào lên (ví dụ rau củ), (tiếng lóng) quan hệ tình dục qua đường hậu môn (giữa hai người nam)"
       }
     ],
     "radical": {
@@ -297,7 +297,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (bàn tay)"
     },
     "parts": [
       "凵",

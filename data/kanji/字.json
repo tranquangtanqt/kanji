@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "aza",
-    "meaning": "character",
+    "meaning": "character |(vi) chữ, ký tự",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "字（じ）",
         "meaning": {
-          "english": "character, hand-writing"
+          "english": "character, hand-writing |(vi) chữ, chữ viết tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-aza_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "漢字（かんじ）",
         "meaning": {
-          "english": "Chinese characters"
+          "english": "Chinese characters |(vi) chữ Hán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-aza_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "文字（もじ）",
         "meaning": {
-          "english": "character"
+          "english": "character |(vi) chữ, ký tự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-aza_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "ローマ字（ローマじ）",
         "meaning": {
-          "english": "Roman letters (alphabet)"
+          "english": "Roman letters (alphabet) |(vi) chữ La Mã (bảng chữ cái)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-aza_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "数字（すうじ）",
         "meaning": {
-          "english": "numeral"
+          "english": "numeral |(vi) chữ số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-aza_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "名字（みょうじ）",
         "meaning": {
-          "english": "family name"
+          "english": "family name |(vi) họ (tên họ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-aza_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "習字（しゅうじ）",
         "meaning": {
-          "english": "penmanship"
+          "english": "penmanship |(vi) thư pháp, luyện chữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-aza_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "赤字（あかじ）",
         "meaning": {
-          "english": "deficit"
+          "english": "deficit |(vi) thâm hụt, lỗ (số âm)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-aza_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "大字（おおあざ）",
         "meaning": {
-          "english": "larger section (of village)"
+          "english": "larger section (of village) |(vi) khu lớn (trong làng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-aza_06_i.opus",
@@ -242,7 +242,7 @@
     "kanji": {
       "character": "字",
       "meaning": {
-        "english": "character"
+        "english": "character |(vi) chữ, ký tự"
       },
       "strokes": {
         "count": 6,
@@ -292,7 +292,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -313,7 +313,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "485",
     "strokeCount": 6,
-    "meaning": "character, letter, word, section of village",
+    "meaning": "character, letter, word, section of village |(vi) chữ, ký tự, từ, khu vực trong làng |(hv) Tự",
     "kunyomi": [
       "あざ",
       "あざな",
@@ -326,54 +326,54 @@
       {
         "example": "字",
         "reading": "ジ",
-        "meaning": "character (esp. kanji), letter, written text, handwriting, penmanship, the ... word (e.g. \"the L word\" = \"love\")"
+        "meaning": "character (esp. kanji), letter, written text, handwriting, penmanship, the ... word (e.g. \"the L word\" = \"love\") |(vi) chữ (đặc biệt là kanji), ký tự, văn bản, chữ viết tay, thư pháp; từ ám chỉ (ví dụ \"từ chữ L\" = \"love\")"
       },
       {
         "example": "字形",
         "reading": "ジケイ",
-        "meaning": "character style, character form"
+        "meaning": "character style, character form |(vi) kiểu chữ, dạng chữ"
       },
       {
         "example": "題字",
         "reading": "ダイジ",
-        "meaning": "title lettering"
+        "meaning": "title lettering |(vi) chữ đề tựa, chữ trên tiêu đề"
       },
       {
         "example": "英字",
         "reading": "エイジ",
-        "meaning": "English letter, alphabetic character"
+        "meaning": "English letter, alphabetic character |(vi) chữ cái tiếng Anh, ký tự bảng chữ cái"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "字",
         "reading": "あざ",
-        "meaning": "section of village"
+        "meaning": "section of village |(vi) khu vực trong làng"
       },
       {
         "example": "字",
         "reading": "あざな",
-        "meaning": "Chinese courtesy name (name formerly given to adult Chinese men, used in place of their given name in formal situations), nickname, section of a village"
+        "meaning": "Chinese courtesy name (name formerly given to adult Chinese men, used in place of their given name in formal situations), nickname, section of a village |(vi) tên tự (tên gọi khác đặt cho đàn ông Trung Quốc trưởng thành, dùng thay tên chính thức trong trường hợp trang trọng), biệt danh, khu vực trong làng"
       },
       {
         "example": "大字",
         "reading": "おおあざ",
-        "meaning": "larger section (of village)"
+        "meaning": "larger section (of village) |(vi) khu lớn (trong làng)"
       },
       {
         "example": "小字",
         "reading": "こあざ",
-        "meaning": "small administrative unit (of a village)"
+        "meaning": "small administrative unit (of a village) |(vi) đơn vị hành chính nhỏ (trong làng)"
       },
       {
         "example": "字",
         "reading": "あざな",
-        "meaning": "Chinese courtesy name (name formerly given to adult Chinese men, used in place of their given name in formal situations), nickname, section of a village"
+        "meaning": "Chinese courtesy name (name formerly given to adult Chinese men, used in place of their given name in formal situations), nickname, section of a village |(vi) tên tự (tên gọi khác đặt cho đàn ông Trung Quốc trưởng thành, dùng thay tên chính thức trong trường hợp trang trọng), biệt danh, khu vực trong làng"
       }
     ],
     "radical": {
       "symbol": "子",
-      "meaning": "child, seed"
+      "meaning": "child, seed |(vi) Tử (con, hạt giống)"
     },
     "parts": [
       "子",

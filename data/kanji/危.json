@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 6,
     "kunyomi": "abu, aya, abunai, ayaui, ayabumu, ayauku",
-    "meaning": "dangerous",
+    "meaning": "dangerous |(vi) nguy hiểm",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "危機（きき）",
         "meaning": {
-          "english": "crisis"
+          "english": "crisis |(vi) khủng hoảng, nguy cơ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "危害（きがい）",
         "meaning": {
-          "english": "injury, harm, danger"
+          "english": "injury, harm, danger |(vi) gây hại, tổn thương, nguy hiểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "危篤（きとく）",
         "meaning": {
-          "english": "on the verge of death"
+          "english": "on the verge of death |(vi) nguy kịch, thập tử nhất sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "危惧（きぐ）",
         "meaning": {
-          "english": "fear, misgivings"
+          "english": "fear, misgivings |(vi) lo sợ, e ngại, quan ngại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "危険な（きけんな）",
         "meaning": {
-          "english": "dangerous, perilous, hazardous"
+          "english": "dangerous, perilous, hazardous |(vi) nguy hiểm, nguy hại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "危ない（あぶない）",
         "meaning": {
-          "english": "dangerous, watch out! [adj.]"
+          "english": "dangerous, watch out! [adj.] |(vi) nguy hiểm, coi chừng!"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "危うく（あやうく）",
         "meaning": {
-          "english": "in imminent danger of, almost"
+          "english": "in imminent danger of, almost |(vi) suýt nữa, gần như"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "危うい（あやうい）",
         "meaning": {
-          "english": "dangerous, critical [adj.]"
+          "english": "dangerous, critical [adj.] |(vi) nguy hiểm, nguy cấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "危ぶむ（あやぶむ）",
         "meaning": {
-          "english": "have misgivings [v.t.]"
+          "english": "have misgivings [v.t.] |(vi) lo ngại, nghi ngại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_i.opus",
@@ -228,7 +228,7 @@
     "kanji": {
       "character": "危",
       "meaning": {
-        "english": "dangerous"
+        "english": "dangerous |(vi) nguy hiểm"
       },
       "strokes": {
         "count": 6,
@@ -278,7 +278,7 @@
         "romaji": "fushizukuri"
       },
       "meaning": {
-        "english": "stamp, seal"
+        "english": "stamp, seal |(vi) Tiết (ấn tín, người quỳ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/fushizukuri0.svg",
@@ -299,7 +299,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "606",
     "strokeCount": 6,
-    "meaning": "dangerous, fear, uneasy",
+    "meaning": "dangerous, fear, uneasy |(vi) nguy hiểm, sợ hãi, bất an |(hv) Nguy",
     "kunyomi": [
       "あぶ.ない",
       "あや.うい",
@@ -312,44 +312,44 @@
       {
         "example": "危",
         "reading": "キ",
-        "meaning": "danger, Chinese \"rooftop\" constellation (one of the 28 mansions)"
+        "meaning": "danger, Chinese \"rooftop\" constellation (one of the 28 mansions) |(vi) nguy hiểm, sao Nguy (một trong 28 tú)"
       },
       {
         "example": "危害",
         "reading": "キガイ",
-        "meaning": "injury, harm, danger"
+        "meaning": "injury, harm, danger |(vi) gây hại, tổn thương, nguy hiểm"
       },
       {
         "example": "安危",
         "reading": "アンキ",
-        "meaning": "fate, safety, welfare"
+        "meaning": "fate, safety, welfare |(vi) an nguy, sự an toàn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "危ない",
         "reading": "あぶない",
-        "meaning": "dangerous, risky, hazardous, perilous, precarious, in danger, in jeopardy, critical, grave, at risk, uncertain, unreliable, insecure, unsteady, doubtful, close (call), narrow (escape), look out!, watch out!, be careful!"
+        "meaning": "dangerous, risky, hazardous, perilous, precarious, in danger, in jeopardy, critical, grave, at risk, uncertain, unreliable, insecure, unsteady, doubtful, close (call), narrow (escape), look out!, watch out!, be careful! |(vi) nguy hiểm, rủi ro, đáng lo ngại, trong tình trạng nguy hiểm, không chắc chắn, không đáng tin cậy, sát nút (thoát hiểm), coi chừng! cẩn thận!"
       },
       {
         "example": "危ない橋を渡る",
         "reading": "あぶないはしをわたる",
-        "meaning": "to tread on thin ice, to go out on a limb, to walk a tightrope, to take risks, to cross a dangerous bridge"
+        "meaning": "to tread on thin ice, to go out on a limb, to walk a tightrope, to take risks, to cross a dangerous bridge |(vi) đi trên băng mỏng, liều lĩnh mạo hiểm, đánh cược rủi ro"
       },
       {
         "example": "危うい",
         "reading": "あやうい",
-        "meaning": "dangerous, in danger, facing imminent danger, precarious (situation), perilous (state, balance, etc.), in doubt, in jeopardy, uncertain, insecure, concerning, worrying"
+        "meaning": "dangerous, in danger, facing imminent danger, precarious (situation), perilous (state, balance, etc.), in doubt, in jeopardy, uncertain, insecure, concerning, worrying |(vi) nguy hiểm, đang gặp nguy, tình thế bấp bênh, không chắc chắn, đáng lo ngại"
       },
       {
         "example": "危ぶむ",
         "reading": "あやぶむ",
-        "meaning": "to fear, to doubt, to have misgivings about, to worry about, to be anxious about, to be apprehensive about"
+        "meaning": "to fear, to doubt, to have misgivings about, to worry about, to be anxious about, to be apprehensive about |(vi) lo sợ, nghi ngờ, e ngại, lo lắng, băn khoăn"
       }
     ],
     "radical": {
       "symbol": "卩",
-      "meaning": "kneel"
+      "meaning": "kneel |(vi) Tiết (ấn tín, người quỳ)"
     },
     "parts": [
       "勹",

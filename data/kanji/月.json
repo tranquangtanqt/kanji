@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "tsuki",
-    "meaning": "moon, month",
+    "meaning": "moon, month |(vi) mặt trăng, tháng",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "来月（らいげつ）",
         "meaning": {
-          "english": "next month"
+          "english": "next month |(vi) tháng sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "月曜日（げつようび）",
         "meaning": {
-          "english": "Monday"
+          "english": "Monday |(vi) thứ Hai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "先月（せんげつ）",
         "meaning": {
-          "english": "last month"
+          "english": "last month |(vi) tháng trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "今月（こんげつ）",
         "meaning": {
-          "english": "this month"
+          "english": "this month |(vi) tháng này"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "満月（まんげつ）",
         "meaning": {
-          "english": "full moon"
+          "english": "full moon |(vi) trăng tròn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "正月（しょうがつ）",
         "meaning": {
-          "english": "New Year"
+          "english": "New Year |(vi) năm mới, Tết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "生年月日（せいねんがっぴ）",
         "meaning": {
-          "english": "birth date"
+          "english": "birth date |(vi) ngày tháng năm sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "月見（つきみ）",
         "meaning": {
-          "english": "moon viewing"
+          "english": "moon viewing |(vi) ngắm trăng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "毎月（まいつき/まいげつ）",
         "meaning": {
-          "english": "every month"
+          "english": "every month |(vi) hàng tháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_i.opus",
@@ -260,7 +260,7 @@
     "kanji": {
       "character": "月",
       "meaning": {
-        "english": "moon, month"
+        "english": "moon, month |(vi) mặt trăng, tháng"
       },
       "strokes": {
         "count": 4,
@@ -306,7 +306,7 @@
         "romaji": "tsuki"
       },
       "meaning": {
-        "english": "moon, month, period"
+        "english": "moon, month, period |(vi) Nguyệt (mặt trăng, tháng, kỳ hạn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuki0.svg",
@@ -327,7 +327,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "23",
     "strokeCount": 4,
-    "meaning": "month, moon",
+    "meaning": "month, moon |(vi) tháng, mặt trăng |(hv) Nguyệt",
     "kunyomi": [
       "つき"
     ],
@@ -339,64 +339,64 @@
       {
         "example": "月",
         "reading": "ゲツ",
-        "meaning": "Monday"
+        "meaning": "Monday |(vi) thứ Hai"
       },
       {
         "example": "月額",
         "reading": "ゲツガク",
-        "meaning": "monthly amount (sum)"
+        "meaning": "monthly amount (sum) |(vi) số tiền hàng tháng"
       },
       {
         "example": "隔月",
         "reading": "カクゲツ",
-        "meaning": "every second month, every other month"
+        "meaning": "every second month, every other month |(vi) cách tháng, hai tháng một lần"
       },
       {
         "example": "望月",
         "reading": "モチヅキ",
-        "meaning": "full moon, moon on the 15th day of the month (by the lunar calendar), full moon of the eighth lunar month"
+        "meaning": "full moon, moon on the 15th day of the month (by the lunar calendar), full moon of the eighth lunar month |(vi) trăng tròn, trăng rằm (ngày 15 âm lịch), trăng tròn tháng 8 âm lịch"
       },
       {
         "example": "月輪",
         "reading": "ゲツリン",
-        "meaning": "(full) moon, moon when it's round"
+        "meaning": "(full) moon, moon when it's round |(vi) trăng tròn, vầng trăng tròn"
       },
       {
         "example": "旧正月",
         "reading": "キュウショウガツ",
-        "meaning": "lunar New Year (esp. the Chinese New Year)"
+        "meaning": "lunar New Year (esp. the Chinese New Year) |(vi) Tết âm lịch (đặc biệt là Tết Trung Quốc)"
       },
       {
         "example": "お正月",
         "reading": "オショウガツ",
-        "meaning": "New Year (esp. first three days), first month of the year, January"
+        "meaning": "New Year (esp. first three days), first month of the year, January |(vi) năm mới (đặc biệt ba ngày đầu năm), tháng Giêng, tháng 1"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "月",
         "reading": "つき",
-        "meaning": "Moon, month, moonlight, (a) moon, natural satellite"
+        "meaning": "Moon, month, moonlight, (a) moon, natural satellite |(vi) mặt trăng, tháng, ánh trăng, vệ tinh tự nhiên"
       },
       {
         "example": "月末",
         "reading": "げつまつ",
-        "meaning": "end of the month"
+        "meaning": "end of the month |(vi) cuối tháng"
       },
       {
         "example": "卯月",
         "reading": "うづき",
-        "meaning": "fourth month of the lunar calendar"
+        "meaning": "fourth month of the lunar calendar |(vi) tháng tư âm lịch"
       },
       {
         "example": "祥月",
         "reading": "しょうつき",
-        "meaning": "month of a person's death"
+        "meaning": "month of a person's death |(vi) tháng giỗ, tháng mất của một người"
       }
     ],
     "radical": {
       "symbol": "月",
-      "meaning": "moon, month"
+      "meaning": "moon, month |(vi) Nguyệt (mặt trăng, tháng)"
     },
     "parts": [
       "月"

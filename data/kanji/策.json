@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "scheme, measure, plan, means, policy",
+    "meaning": "scheme, measure, plan, means, policy |(vi) mưu kế, biện pháp, kế hoạch, phương tiện, chính sách",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "策（さく）",
         "meaning": {
-          "english": "plan, policy"
+          "english": "plan, policy |(vi) kế sách, chính sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zengo)saku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "策略（さくりゃく）",
         "meaning": {
-          "english": "scheme, tactic, strategy"
+          "english": "scheme, tactic, strategy |(vi) sách lược, mưu kế, chiến thuật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zengo)saku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "策士（さくし）",
         "meaning": {
-          "english": "intriguer, tactician, schemer"
+          "english": "intriguer, tactician, schemer |(vi) người mưu kế, nhà chiến lược, kẻ mưu mô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zengo)saku_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "対策（たいさく）",
         "meaning": {
-          "english": "counter-plan, counter-measure"
+          "english": "counter-plan, counter-measure |(vi) đối sách, biện pháp đối phó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zengo)saku_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "政策（せいさく）",
         "meaning": {
-          "english": "government policy"
+          "english": "government policy |(vi) chính sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zengo)saku_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "方策（ほうさく）",
         "meaning": {
-          "english": "plan, policy"
+          "english": "plan, policy |(vi) phương sách, kế hoạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zengo)saku_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "善後策（ぜんごさく）",
         "meaning": {
-          "english": "remedy, countermeasure"
+          "english": "remedy, countermeasure |(vi) biện pháp khắc phục hậu quả, biện pháp xử lý sau sự việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zengo)saku_06_g.opus",
@@ -184,7 +184,7 @@
     "kanji": {
       "character": "策",
       "meaning": {
-        "english": "scheme, measure, plan, means, policy"
+        "english": "scheme, measure, plan, means, policy |(vi) mưu kế, biện pháp, kế hoạch, phương tiện, chính sách"
       },
       "strokes": {
         "count": 12,
@@ -246,7 +246,7 @@
         "romaji": "takekanmuri"
       },
       "meaning": {
-        "english": "bamboo"
+        "english": "bamboo |(vi) Trúc (tre, trúc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takekanmuri0.svg",
@@ -267,7 +267,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "209",
     "strokeCount": 12,
-    "meaning": "scheme, plan, policy, step, means",
+    "meaning": "scheme, plan, policy, step, means |(vi) mưu kế, kế hoạch, chính sách, bước đi, phương tiện |(hv) Sách",
     "kunyomi": [],
     "onyomi": [
       "サク"
@@ -276,22 +276,22 @@
       {
         "example": "策",
         "reading": "サク",
-        "meaning": "plan, policy, means, measure, stratagem, scheme, fifth principle of the Eight Principles of Yong, right upward flick"
+        "meaning": "plan, policy, means, measure, stratagem, scheme, fifth principle of the Eight Principles of Yong, right upward flick |(vi) kế sách, chính sách, phương tiện, biện pháp, mưu lược, nguyên tắc thứ năm trong Bát pháp của chữ Vĩnh, nét hất lên bên phải"
       },
       {
         "example": "作戦",
         "reading": "サクセン",
-        "meaning": "tactics, strategy, military operation, naval operation"
+        "meaning": "tactics, strategy, military operation, naval operation |(vi) chiến thuật, chiến lược, chiến dịch quân sự, tác chiến hải quân"
       },
       {
         "example": "施策",
         "reading": "シサク",
-        "meaning": "policy, measure"
+        "meaning": "policy, measure |(vi) chính sách, biện pháp thi hành"
       },
       {
         "example": "国策",
         "reading": "コクサク",
-        "meaning": "national policy"
+        "meaning": "national policy |(vi) quốc sách, chính sách quốc gia"
       }
     ],
     "kunyomiExamples": [],
@@ -300,7 +300,7 @@
       "forms": [
         "⺮"
       ],
-      "meaning": "bamboo"
+      "meaning": "bamboo |(vi) Trúc (tre, trúc)"
     },
     "parts": [
       "ハ",

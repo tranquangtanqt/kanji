@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "prize",
+    "meaning": "prize |(vi) phần thưởng, giải thưởng",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "賞金（しょうきん）",
         "meaning": {
-          "english": "monetary award"
+          "english": "monetary award |(vi) tiền thưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(batsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "賞状（しょうじょう）",
         "meaning": {
-          "english": "certificate of merit"
+          "english": "certificate of merit |(vi) giấy khen, bằng khen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(batsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "賞品（しょうひん）",
         "meaning": {
-          "english": "prize"
+          "english": "prize |(vi) phần thưởng, quà tặng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(batsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "一等賞（いっとうしょう）",
         "meaning": {
-          "english": "first prize"
+          "english": "first prize |(vi) giải nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(batsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "鑑賞する（かんしょうする）",
         "meaning": {
-          "english": "admire (art or decoration)"
+          "english": "admire (art or decoration) |(vi) thưởng thức, chiêm ngưỡng (nghệ thuật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(batsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "受賞する（じゅしょうする）",
         "meaning": {
-          "english": "win a prize"
+          "english": "win a prize |(vi) đoạt giải, nhận giải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(batsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "授賞する（じゅしょうする）",
         "meaning": {
-          "english": "award a prize"
+          "english": "award a prize |(vi) trao giải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(batsu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "賞賛する（しょうさんする）",
         "meaning": {
-          "english": "praise, admire"
+          "english": "praise, admire |(vi) khen ngợi, ca ngợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(batsu)_06_h.opus",
@@ -202,7 +202,7 @@
     "kanji": {
       "character": "賞",
       "meaning": {
-        "english": "prize"
+        "english": "prize |(vi) phần thưởng, giải thưởng"
       },
       "strokes": {
         "count": 15,
@@ -270,7 +270,7 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (vỏ sò, của cải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -291,7 +291,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "426",
     "strokeCount": 15,
-    "meaning": "prize, reward, praise",
+    "meaning": "prize, reward, praise |(vi) phần thưởng, tiền thưởng, khen ngợi |(hv) Thưởng",
     "kunyomi": [
       "ほ.める"
     ],
@@ -302,34 +302,34 @@
       {
         "example": "賞",
         "reading": "ショウ",
-        "meaning": "prize, award"
+        "meaning": "prize, award |(vi) phần thưởng, giải thưởng"
       },
       {
         "example": "賞金",
         "reading": "ショウキン",
-        "meaning": "prize money, monetary award, reward"
+        "meaning": "prize money, monetary award, reward |(vi) tiền thưởng, giải thưởng bằng tiền"
       },
       {
         "example": "副賞",
         "reading": "フクショウ",
-        "meaning": "supplementary prize, additional prize, auxiliary prize, bonus prize"
+        "meaning": "supplementary prize, additional prize, auxiliary prize, bonus prize |(vi) giải thưởng phụ, phần thưởng kèm theo, giải thưởng bổ sung"
       },
       {
         "example": "表彰",
         "reading": "ヒョウショウ",
-        "meaning": "(official) commendation, public recognition (of someone's achievements, good deeds, etc.), awarding, honouring"
+        "meaning": "(official) commendation, public recognition (of someone's achievements, good deeds, etc.), awarding, honouring |(vi) tuyên dương (chính thức), công nhận công khai (thành tích, việc tốt...), khen thưởng, vinh danh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "褒める",
         "reading": "ほめる",
-        "meaning": "to praise, to commend, to compliment, to speak well of, to speak highly of"
+        "meaning": "to praise, to commend, to compliment, to speak well of, to speak highly of |(vi) khen ngợi, tán dương, khen tặng, nói tốt về, đánh giá cao"
       }
     ],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò)"
     },
     "parts": [
       "ハ",

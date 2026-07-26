@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "yue",
-    "meaning": "old, the late, deceased, reason",
+    "meaning": "old, the late, deceased, reason |(vi) cũ, quá cố, đã mất, lý do",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "故郷（こきょう）",
         "meaning": {
-          "english": "home town"
+          "english": "home town |(vi) quê hương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yue_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "故国（ここく）",
         "meaning": {
-          "english": "one's native land"
+          "english": "one's native land |(vi) quê hương, tổ quốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yue_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "故人（こじん）",
         "meaning": {
-          "english": "the deceased"
+          "english": "the deceased |(vi) người đã khuất, người quá cố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yue_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "故田中氏（こたなかし）",
         "meaning": {
-          "english": "the late Mr. Tanaka"
+          "english": "the late Mr. Tanaka |(vi) cố ông Tanaka (đã qua đời)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yue_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "事故（じこ）",
         "meaning": {
-          "english": "accident"
+          "english": "accident |(vi) tai nạn, sự cố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yue_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "故意に（こいに）",
         "meaning": {
-          "english": "purposefully"
+          "english": "purposefully |(vi) cố ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yue_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "故障する（こしょうする）",
         "meaning": {
-          "english": "break down, malfunction [v.i.]"
+          "english": "break down, malfunction [v.i.] |(vi) hỏng hóc, trục trặc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yue_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "故（ゆえ）",
         "meaning": {
-          "english": "reason [n.]"
+          "english": "reason [n.] |(vi) lý do"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yue_06_h.opus",
@@ -225,7 +225,7 @@
     "kanji": {
       "character": "故",
       "meaning": {
-        "english": "old, the late, deceased, reason"
+        "english": "old, the late, deceased, reason |(vi) cũ, quá cố, đã mất, lý do"
       },
       "strokes": {
         "count": 9,
@@ -281,7 +281,7 @@
         "romaji": "bokuzukuri"
       },
       "meaning": {
-        "english": "activity, to strike, hit"
+        "english": "activity, to strike, hit |(vi) Phốc (đánh, gõ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/bokuzukuri0.svg",
@@ -302,7 +302,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "612",
     "strokeCount": 9,
-    "meaning": "happenstance, especially, intentionally, reason, cause, circumstances, the late, therefore, consequently",
+    "meaning": "happenstance, especially, intentionally, reason, cause, circumstances, the late, therefore, consequently |(vi) sự việc ngẫu nhiên, đặc biệt, cố ý, lý do, nguyên nhân, hoàn cảnh, quá cố, vì vậy, do đó |(hv) Cố",
     "kunyomi": [
       "ゆえ",
       "ふる.い",
@@ -315,49 +315,49 @@
       {
         "example": "故",
         "reading": "コ",
-        "meaning": "the late, the deceased"
+        "meaning": "the late, the deceased |(vi) cố, người đã khuất"
       },
       {
         "example": "殊更",
         "reading": "コトサラ",
-        "meaning": "intentionally, deliberately, designedly, on purpose, especially, particularly"
+        "meaning": "intentionally, deliberately, designedly, on purpose, especially, particularly |(vi) cố ý, có chủ đích, đặc biệt"
       },
       {
         "example": "物故",
         "reading": "ブッコ",
-        "meaning": "death (of a person)"
+        "meaning": "death (of a person) |(vi) sự qua đời (của một người)"
       },
       {
         "example": "人身事故",
         "reading": "ジンシンジコ",
-        "meaning": "accident resulting in personal injury or death (esp. traffic, rail, etc.)"
+        "meaning": "accident resulting in personal injury or death (esp. traffic, rail, etc.) |(vi) tai nạn gây thương vong (giao thông, đường sắt...)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "故",
         "reading": "ゆえ",
-        "meaning": "reason, cause, circumstances"
+        "meaning": "reason, cause, circumstances |(vi) lý do, nguyên nhân, hoàn cảnh"
       },
       {
         "example": "故に",
         "reading": "ゆえに",
-        "meaning": "therefore, consequently"
+        "meaning": "therefore, consequently |(vi) vì vậy, do đó"
       },
       {
         "example": "何故",
         "reading": "なにゆえ",
-        "meaning": "why"
+        "meaning": "why |(vi) tại sao, vì lẽ gì"
       },
       {
         "example": "古い",
         "reading": "ふるい",
-        "meaning": "old, aged, ancient, antiquated, antique, timeworn, long, since long ago, time-honored, of the distant past, long-ago, stale, threadbare, hackneyed, corny, old-fashioned, outmoded, out-of-date"
+        "meaning": "old, aged, ancient, antiquated, antique, timeworn, long, since long ago, time-honored, of the distant past, long-ago, stale, threadbare, hackneyed, corny, old-fashioned, outmoded, out-of-date |(vi) cũ, cổ, lâu đời, cũ kỹ, lỗi thời, sáo rỗng"
       },
       {
         "example": "元",
         "reading": "もと",
-        "meaning": "former, ex-, past, one-time, earlier times, the past, previous state, formerly, previously, originally, before"
+        "meaning": "former, ex-, past, one-time, earlier times, the past, previous state, formerly, previously, originally, before |(vi) trước kia, cựu, quá khứ, tình trạng trước đây, trước đây, ban đầu"
       }
     ],
     "radical": {
@@ -365,7 +365,7 @@
       "forms": [
         "攵"
       ],
-      "meaning": "rap"
+      "meaning": "rap |(vi) Phốc (đánh nhẹ, gõ)"
     },
     "parts": [
       "乞",

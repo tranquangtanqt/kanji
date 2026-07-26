@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "ba, bakeru, bakasu",
-    "meaning": "change into",
+    "meaning": "change into |(vi) biến đổi thành, hóa thành",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "変化する（へんかする）",
         "meaning": {
-          "english": "change [v.i.]"
+          "english": "change [v.i.] |(vi) thay đổi, biến hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "強化する（きょうかする）",
         "meaning": {
-          "english": "strengthen"
+          "english": "strengthen |(vi) tăng cường, củng cố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "悪化する（あっかする）",
         "meaning": {
-          "english": "grow worse"
+          "english": "grow worse |(vi) trở nên tồi tệ hơn, xấu đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "消化する（しょうかする）",
         "meaning": {
-          "english": "digest"
+          "english": "digest |(vi) tiêu hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "近代化する（きんだいかする）",
         "meaning": {
-          "english": "modernize"
+          "english": "modernize |(vi) hiện đại hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "映画化する（えいがかする）",
         "meaning": {
-          "english": "adapt (a book) to film"
+          "english": "adapt (a book) to film |(vi) chuyển thể thành phim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "化学（かがく）",
         "meaning": {
-          "english": "chemistry"
+          "english": "chemistry |(vi) hóa học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "化粧品（けしょうひん）",
         "meaning": {
-          "english": "cosmetics"
+          "english": "cosmetics |(vi) mỹ phẩm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "化ける（ばける）",
         "meaning": {
-          "english": "appear in disguise [v.i.]"
+          "english": "appear in disguise [v.i.] |(vi) biến hình, hóa trang, giả dạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "お化け（おばけ）",
         "meaning": {
-          "english": "ghost"
+          "english": "ghost |(vi) ma, quỷ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "化かす（ばかす）",
         "meaning": {
-          "english": "bewitch [v.t.]"
+          "english": "bewitch [v.t.] |(vi) mê hoặc, lừa gạt (bằng phép thuật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_k.opus",
@@ -285,7 +285,7 @@
     "kanji": {
       "character": "化",
       "meaning": {
-        "english": "change into"
+        "english": "change into |(vi) biến đổi thành, hóa thành"
       },
       "strokes": {
         "count": 4,
@@ -331,7 +331,7 @@
         "romaji": "saji"
       },
       "meaning": {
-        "english": "spoon"
+        "english": "spoon |(vi) Chủy (cái thìa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/saji0.svg",
@@ -352,7 +352,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "89",
     "strokeCount": 4,
-    "meaning": "change, take the form of, influence, enchant, delude, -ization",
+    "meaning": "change, take the form of, influence, enchant, delude, -ization |(vi) biến đổi, mang hình dạng, ảnh hưởng, mê hoặc, lừa gạt, hóa (hậu tố) |(hv) Hóa",
     "kunyomi": [
       "ば.ける",
       "ば.かす",
@@ -367,64 +367,64 @@
       {
         "example": "化",
         "reading": "カ",
-        "meaning": "change to ..., becoming ..., making into ..., -ization, -ification"
+        "meaning": "change to ..., becoming ..., making into ..., -ization, -ification |(vi) biến thành..., trở thành..., -hóa"
       },
       {
         "example": "化学",
         "reading": "カガク",
-        "meaning": "chemistry"
+        "meaning": "chemistry |(vi) hóa học"
       },
       {
         "example": "機械化",
         "reading": "キカイカ",
-        "meaning": "mechanization, mechanisation"
+        "meaning": "mechanization, mechanisation |(vi) cơ giới hóa"
       },
       {
         "example": "民営化",
         "reading": "ミンエイカ",
-        "meaning": "privatization, privatisation"
+        "meaning": "privatization, privatisation |(vi) tư nhân hóa"
       },
       {
         "example": "化粧",
         "reading": "ケショウ",
-        "meaning": "make-up, makeup, cosmetics, decoration, dressing, veneer"
+        "meaning": "make-up, makeup, cosmetics, decoration, dressing, veneer |(vi) trang điểm, mỹ phẩm, trang trí, lớp vỏ ngoài"
       },
       {
         "example": "化粧水",
         "reading": "ケショウスイ",
-        "meaning": "skin lotion, face lotion"
+        "meaning": "skin lotion, face lotion |(vi) nước hoa hồng, sữa dưỡng da"
       },
       {
         "example": "応化",
         "reading": "オウゲ",
-        "meaning": "assumption of a suitable form (by a buddha or bodhisattva)"
+        "meaning": "assumption of a suitable form (by a buddha or bodhisattva) |(vi) hóa thân phù hợp (của Phật hay Bồ Tát)"
       },
       {
         "example": "教化",
         "reading": "キョウケ",
-        "meaning": "guidance, teaching people and leading them to Buddhism"
+        "meaning": "guidance, teaching people and leading them to Buddhism |(vi) giáo hóa, dẫn dắt người theo Phật pháp"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "化ける",
         "reading": "ばける",
-        "meaning": "to take the form of (esp. in ref. to a spirit, fox, raccoon dog, etc.), to assume the shape of, to turn oneself into, to transform oneself into, to disguise oneself as, to change radically, to metamorphose, to improve unexpectedly and dramatically (esp. of an actor, artist, rikishi, etc.)"
+        "meaning": "to take the form of (esp. in ref. to a spirit, fox, raccoon dog, etc.), to assume the shape of, to turn oneself into, to transform oneself into, to disguise oneself as, to change radically, to metamorphose, to improve unexpectedly and dramatically (esp. of an actor, artist, rikishi, etc.) |(vi) biến hình (đặc biệt là hồn ma, cáo, lửng...), giả dạng, biến đổi mạnh mẽ, cải thiện đột phá bất ngờ (diễn viên, nghệ sĩ, đô vật sumo...)"
       },
       {
         "example": "化かす",
         "reading": "ばかす",
-        "meaning": "to bewitch, to confuse, to enchant, to delude"
+        "meaning": "to bewitch, to confuse, to enchant, to delude |(vi) mê hoặc, làm rối trí, quyến rũ, lừa gạt"
       },
       {
         "example": "老ける",
         "reading": "ふける",
-        "meaning": "to age, to grow old (esp. in appearance), to show marks of age"
+        "meaning": "to age, to grow old (esp. in appearance), to show marks of age |(vi) già đi, có dấu hiệu tuổi tác (ngoại hình)"
       }
     ],
     "radical": {
       "symbol": "匕",
-      "meaning": "spoon"
+      "meaning": "spoon |(vi) Chủy (cái thìa)"
     },
     "parts": [
       "匕",

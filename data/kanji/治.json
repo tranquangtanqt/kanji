@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "osa, nao, osameru, osamaru, naoru, naosu",
-    "meaning": "govern, cure, heal",
+    "meaning": "govern, cure, heal |(vi) cai trị, chữa bệnh, chữa lành",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "明治（めいじ）",
         "meaning": {
-          "english": "Meiji era"
+          "english": "Meiji era |(vi) thời Minh Trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-nao(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "政治（せいじ）",
         "meaning": {
-          "english": "politics"
+          "english": "politics |(vi) chính trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-nao(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "退治する（たいじする）",
         "meaning": {
-          "english": "exterminate"
+          "english": "exterminate |(vi) tiêu diệt, trừ khử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-nao(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "治療する（ちりょうする）",
         "meaning": {
-          "english": "give medical treatment"
+          "english": "give medical treatment |(vi) điều trị, chữa trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-nao(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "治安（ちあん）",
         "meaning": {
-          "english": "public peace and order"
+          "english": "public peace and order |(vi) an ninh trật tự công cộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-nao(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "治まる（おさまる）",
         "meaning": {
-          "english": "be subdued [v.i.]"
+          "english": "be subdued [v.i.] |(vi) được dẹp yên, ổn định (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-nao(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "治める（おさめる）",
         "meaning": {
-          "english": "subdue [v.t.]"
+          "english": "subdue [v.t.] |(vi) dẹp yên, cai trị (ngoại động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-nao(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "治る（なおる）",
         "meaning": {
-          "english": "heal, get well [v.i.]"
+          "english": "heal, get well [v.i.] |(vi) lành bệnh, khỏi bệnh (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-nao(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "治す（なおす）",
         "meaning": {
-          "english": "cure, fix [v.t.]"
+          "english": "cure, fix [v.t.] |(vi) chữa khỏi, chữa lành (ngoại động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-nao(ru)_06_i.opus",
@@ -265,7 +265,7 @@
     "kanji": {
       "character": "治",
       "meaning": {
-        "english": "govern, cure, heal"
+        "english": "govern, cure, heal |(vi) cai trị, chữa bệnh, chữa lành"
       },
       "strokes": {
         "count": 8,
@@ -319,7 +319,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước, bộ ba chấm thủy)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -340,7 +340,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "109",
     "strokeCount": 8,
-    "meaning": "reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve",
+    "meaning": "reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve |(vi) cai trị, thái bình, dẹp yên, trấn áp, chính quyền, chữa bệnh, chữa lành, cai quản, bảo tồn |(hv) Trị",
     "kunyomi": [
       "おさ.める",
       "おさ.まる",
@@ -355,64 +355,64 @@
       {
         "example": "治療",
         "reading": "チリョウ",
-        "meaning": "(medical) treatment, care, therapy, cure, remedy"
+        "meaning": "(medical) treatment, care, therapy, cure, remedy |(vi) điều trị, chăm sóc y tế, liệu pháp, chữa bệnh, phương thuốc"
       },
       {
         "example": "治安",
         "reading": "ジアン",
-        "meaning": "Jian era (1021.2.2-1024.7.13)"
+        "meaning": "Jian era (1021.2.2-1024.7.13) |(vi) niên hiệu Jian (2/2/1021 - 13/7/1024)"
       },
       {
         "example": "完治",
         "reading": "カンチ",
-        "meaning": "complete recovery"
+        "meaning": "complete recovery |(vi) hồi phục hoàn toàn, khỏi hẳn"
       },
       {
         "example": "政党政治",
         "reading": "セイトウセイジ",
-        "meaning": "party politics"
+        "meaning": "party politics |(vi) chính trị đảng phái"
       },
       {
         "example": "治",
         "reading": "チ",
-        "meaning": "politics, government, administration, rule, peace, medical treatment, cure"
+        "meaning": "politics, government, administration, rule, peace, medical treatment, cure |(vi) chính trị, chính quyền, hành chính, cai trị, thái bình, điều trị y tế, chữa bệnh"
       },
       {
         "example": "治安",
         "reading": "チアン",
-        "meaning": "public order, public peace, public security, law and order"
+        "meaning": "public order, public peace, public security, law and order |(vi) trật tự công cộng, an ninh công cộng, luật pháp và trật tự"
       },
       {
         "example": "完治",
         "reading": "カンチ",
-        "meaning": "complete recovery"
+        "meaning": "complete recovery |(vi) hồi phục hoàn toàn, khỏi hẳn"
       },
       {
         "example": "地方自治",
         "reading": "チホウジチ",
-        "meaning": "local (governmental) autonomy"
+        "meaning": "local (governmental) autonomy |(vi) tự trị địa phương"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "治める",
         "reading": "おさめる",
-        "meaning": "to rule, to govern, to reign over, to administer, to manage (e.g. a household), to subdue, to suppress, to quell, to settle (e.g. a dispute)"
+        "meaning": "to rule, to govern, to reign over, to administer, to manage (e.g. a household), to subdue, to suppress, to quell, to settle (e.g. a dispute) |(vi) cai trị, quản lý, cai quản (ví dụ một gia đình), dẹp yên, trấn áp, giải quyết (ví dụ một tranh chấp)"
       },
       {
         "example": "治まる",
         "reading": "おさまる",
-        "meaning": "to die down (storm, anger, conflict, etc.), to calm down, to cool off, to abate, to be settled, to be brought under control, to be at peace, to be governed well, to subside (of pain, symptoms, etc.), to be alleviated, to get better, to ease off"
+        "meaning": "to die down (storm, anger, conflict, etc.), to calm down, to cool off, to abate, to be settled, to be brought under control, to be at peace, to be governed well, to subside (of pain, symptoms, etc.), to be alleviated, to get better, to ease off |(vi) lắng xuống (bão, giận dữ, xung đột,...), dịu lại, hạ nhiệt, thuyên giảm, được giải quyết, được kiểm soát, được yên ổn, được cai trị tốt, thuyên giảm (đau, triệu chứng,...), được xoa dịu, khá hơn, dịu bớt"
       },
       {
         "example": "治る",
         "reading": "なおる",
-        "meaning": "to get better, to get well, to recover (from an illness), to be cured, to be restored, to heal"
+        "meaning": "to get better, to get well, to recover (from an illness), to be cured, to be restored, to heal |(vi) khá hơn, khỏe lại, hồi phục (sau bệnh), được chữa khỏi, được phục hồi, lành bệnh"
       },
       {
         "example": "治す",
         "reading": "なおす",
-        "meaning": "to cure, to heal"
+        "meaning": "to cure, to heal |(vi) chữa khỏi, chữa lành"
       }
     ],
     "radical": {
@@ -421,7 +421,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "厶",

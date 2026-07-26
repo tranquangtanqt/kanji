@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "kemu, kemuru, kemui, kemuri",
-    "meaning": "smoke",
+    "meaning": "smoke |(vi) khói",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "煙突（えんとつ）",
         "meaning": {
-          "english": "chimney"
+          "english": "chimney |(vi) ống khói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kemu(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "煙幕（えんまく）",
         "meaning": {
-          "english": "smokescreen"
+          "english": "smokescreen |(vi) màn khói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kemu(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "黒煙（こくえん）",
         "meaning": {
-          "english": "black smoke"
+          "english": "black smoke |(vi) khói đen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kemu(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "発煙筒（はつえんとう）",
         "meaning": {
-          "english": "smoke candle"
+          "english": "smoke candle |(vi) ống khói tín hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kemu(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "喫煙所（きつえんじょ）",
         "meaning": {
-          "english": "smoking area"
+          "english": "smoking area |(vi) khu vực hút thuốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kemu(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "禁煙する（きんえんする）",
         "meaning": {
-          "english": "quit smoking"
+          "english": "quit smoking |(vi) cai thuốc lá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kemu(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "煙（けむり）",
         "meaning": {
-          "english": "smoke, fumes"
+          "english": "smoke, fumes |(vi) khói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kemu(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "煙る（けむる）",
         "meaning": {
-          "english": "smoke, appear dim [v.i.]"
+          "english": "smoke, appear dim [v.i.] |(vi) bốc khói, mờ ảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kemu(i)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "煙たい（けむたい）",
         "meaning": {
-          "english": "smoky, awkward feeling [adj.]"
+          "english": "smoky, awkward feeling [adj.] |(vi) ngột ngạt khói, khó chịu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kemu(i)_06_i.opus",
@@ -212,7 +212,7 @@
     "kanji": {
       "character": "煙",
       "meaning": {
-        "english": "smoke"
+        "english": "smoke |(vi) khói"
       },
       "strokes": {
         "count": 13,
@@ -276,7 +276,7 @@
         "romaji": "hihen"
       },
       "meaning": {
-        "english": "fire"
+        "english": "fire |(vi) Hỏa (lửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hihen-fire0.svg",
@@ -297,7 +297,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1290",
     "strokeCount": 13,
-    "meaning": "smoke",
+    "meaning": "smoke |(vi) khói |(hv) Yên",
     "kunyomi": [
       "けむ.る",
       "けむり",
@@ -310,54 +310,54 @@
       {
         "example": "煙突",
         "reading": "エントツ",
-        "meaning": "chimney, smokestack, funnel (of a ship), stovepipe, carrying a passenger without turning on the taximeter"
+        "meaning": "chimney, smokestack, funnel (of a ship), stovepipe, carrying a passenger without turning on the taximeter |(vi) ống khói, ống khói tàu, ống khói bếp lò, chạy taxi mà không bật đồng hồ tính tiền"
       },
       {
         "example": "煙幕",
         "reading": "エンマク",
-        "meaning": "smokescreen"
+        "meaning": "smokescreen |(vi) màn khói"
       },
       {
         "example": "噴煙",
         "reading": "フンエン",
-        "meaning": "(eruption of) smoke"
+        "meaning": "(eruption of) smoke |(vi) khói phun ra (núi lửa)"
       },
       {
         "example": "黒煙",
         "reading": "コクエン",
-        "meaning": "black smoke"
+        "meaning": "black smoke |(vi) khói đen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "煙る",
         "reading": "けむる",
-        "meaning": "to smoke (e.g. fire), to billow smoke, to smoulder, to smolder, to be hazy, to look dim"
+        "meaning": "to smoke (e.g. fire), to billow smoke, to smoulder, to smolder, to be hazy, to look dim |(vi) bốc khói, tỏa khói, âm ỉ cháy, mờ ảo, trông lờ mờ"
       },
       {
         "example": "煙",
         "reading": "けむり",
-        "meaning": "smoke, fumes"
+        "meaning": "smoke, fumes |(vi) khói"
       },
       {
         "example": "煙感知器",
         "reading": "けむりかんちき",
-        "meaning": "smoke detector"
+        "meaning": "smoke detector |(vi) đầu báo khói"
       },
       {
         "example": "黒煙",
         "reading": "こくえん",
-        "meaning": "black smoke"
+        "meaning": "black smoke |(vi) khói đen"
       },
       {
         "example": "砂煙",
         "reading": "すなけむり",
-        "meaning": "cloud of sand (dust, etc.)"
+        "meaning": "cloud of sand (dust, etc.) |(vi) đám bụi cát"
       },
       {
         "example": "煙い",
         "reading": "けむい",
-        "meaning": "smoky"
+        "meaning": "smoky |(vi) ngột ngạt khói, cay khói"
       }
     ],
     "radical": {
@@ -365,7 +365,7 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": "fire |(vi) Hỏa (lửa)"
     },
     "parts": [
       "土",

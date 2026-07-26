@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "kagiru, kagiri, kagi",
-    "meaning": "limit",
+    "meaning": "limit |(vi) giới hạn",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "限度（げんど）",
         "meaning": {
-          "english": "limit [n.]"
+          "english": "limit [n.] |(vi) giới hạn, mức độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kagi(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "限界（げんかい）",
         "meaning": {
-          "english": "limit [n.]"
+          "english": "limit [n.] |(vi) giới hạn, ranh giới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kagi(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "期限（きげん）",
         "meaning": {
-          "english": "expiration date, due date"
+          "english": "expiration date, due date |(vi) hạn, thời hạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kagi(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "無限（むげん）",
         "meaning": {
-          "english": "infinity"
+          "english": "infinity |(vi) vô hạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kagi(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "最小限（さいしょうげん）",
         "meaning": {
-          "english": "minimum"
+          "english": "minimum |(vi) tối thiểu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kagi(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "最大限（さいだいげん）",
         "meaning": {
-          "english": "maximum"
+          "english": "maximum |(vi) tối đa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kagi(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "制限する（せいげんする）",
         "meaning": {
-          "english": "restrict, limit"
+          "english": "restrict, limit |(vi) hạn chế, giới hạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kagi(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "限定する（げんていする）",
         "meaning": {
-          "english": "restrict, limit"
+          "english": "restrict, limit |(vi) hạn định, giới hạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kagi(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "限る（かぎる）",
         "meaning": {
-          "english": "restrict, limit"
+          "english": "restrict, limit |(vi) hạn chế, giới hạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kagi(ru)_06_i.opus",
@@ -221,7 +221,7 @@
     "kanji": {
       "character": "限",
       "meaning": {
-        "english": "limit"
+        "english": "limit |(vi) giới hạn"
       },
       "strokes": {
         "count": 9,
@@ -277,7 +277,7 @@
         "romaji": "kozatohen"
       },
       "meaning": {
-        "english": "hill, mound"
+        "english": "hill, mound |(vi) Phụ (gò đất, đê)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kozatohen0.svg",
@@ -298,7 +298,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "405",
     "strokeCount": 9,
-    "meaning": "limit, restrict, to best of ability",
+    "meaning": "limit, restrict, to best of ability |(vi) giới hạn, hạn chế, hết sức có thể |(hv) Hạn",
     "kunyomi": [
       "かぎ.る",
       "かぎ.り",
@@ -311,49 +311,49 @@
       {
         "example": "限定",
         "reading": "ゲンテイ",
-        "meaning": "limit, restriction"
+        "meaning": "limit, restriction |(vi) giới hạn, hạn định"
       },
       {
         "example": "限界",
         "reading": "ゲンカイ",
-        "meaning": "limit, bound"
+        "meaning": "limit, bound |(vi) giới hạn, ranh giới"
       },
       {
         "example": "上限",
         "reading": "ジョウゲン",
-        "meaning": "upper limit, supremum"
+        "meaning": "upper limit, supremum |(vi) giới hạn trên, cận trên"
       },
       {
         "example": "有限",
         "reading": "ユウゲン",
-        "meaning": "finite, limited"
+        "meaning": "finite, limited |(vi) hữu hạn, có giới hạn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "限る",
         "reading": "かぎる",
-        "meaning": "to restrict, to limit, to confine, to be restricted to, to be limited to, to be confined to, to be best (for), to be the best plan, to be the only way (to)"
+        "meaning": "to restrict, to limit, to confine, to be restricted to, to be limited to, to be confined to, to be best (for), to be the best plan, to be the only way (to) |(vi) hạn chế, giới hạn, giới hạn trong phạm vi, là phương án tốt nhất, là cách duy nhất"
       },
       {
         "example": "限り",
         "reading": "かぎり",
-        "meaning": "limit, limits, bounds, degree, extent, scope, the end, the last, as long as ..., as far as ..., as much as ..., to the limits of ..., all of ..., unless ..., (not) included in ..., (not) part of ..., being very much (in a certain state), extreme amount (of a feeling, etc.), ... only (e.g. \"one time only\", \"today only\"), end of one's life, final moments, death, funeral, burial"
+        "meaning": "limit, limits, bounds, degree, extent, scope, the end, the last, as long as ..., as far as ..., as much as ..., to the limits of ..., all of ..., unless ..., (not) included in ..., (not) part of ..., being very much (in a certain state), extreme amount (of a feeling, etc.), ... only (e.g. \"one time only\", \"today only\"), end of one's life, final moments, death, funeral, burial |(vi) giới hạn, phạm vi, mức độ, chừng nào... thì, chỉ..., trừ khi..., những ngày cuối đời, phút cuối, cái chết, tang lễ"
       },
       {
         "example": "限りない",
         "reading": "かぎりない",
-        "meaning": "unlimited, endless, boundless, infinite"
+        "meaning": "unlimited, endless, boundless, infinite |(vi) vô hạn, không giới hạn, bao la"
       },
       {
         "example": "中限",
         "reading": "なかぎり",
-        "meaning": "next-month delivery"
+        "meaning": "next-month delivery |(vi) giao hàng tháng sau"
       },
       {
         "example": "お見限り",
         "reading": "おみかぎり",
-        "meaning": "ceased patronage (of a client, customer, etc.), discontinued attendance"
+        "meaning": "ceased patronage (of a client, customer, etc.), discontinued attendance |(vi) ngừng bảo trợ (khách hàng...), thôi lui tới"
       }
     ],
     "radical": {
@@ -361,7 +361,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "mound, dam (阝 left)"
+      "meaning": "mound, dam (阝 left) |(vi) Phụ (gò đất, đê)"
     },
     "parts": [
       "艮",

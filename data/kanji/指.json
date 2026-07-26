@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "yubi, sa, sasu",
-    "meaning": "finger, point",
+    "meaning": "finger, point |(vi) ngón tay, chỉ",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "指紋（しもん）",
         "meaning": {
-          "english": "fingerprint"
+          "english": "fingerprint |(vi) dấu vân tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yubi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "指令（しれい）",
         "meaning": {
-          "english": "orders"
+          "english": "orders |(vi) mệnh lệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yubi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "指揮者（しきしゃ）",
         "meaning": {
-          "english": "(orchestral) conductor"
+          "english": "(orchestral) conductor |(vi) nhạc trưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yubi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "指定席（していせき）",
         "meaning": {
-          "english": "reserved seat"
+          "english": "reserved seat |(vi) ghế đặt trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yubi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "指定する（していする）",
         "meaning": {
-          "english": "specify"
+          "english": "specify |(vi) chỉ định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yubi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "指示する（しじする）",
         "meaning": {
-          "english": "instruct"
+          "english": "instruct |(vi) chỉ thị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yubi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "指摘する（してきする）",
         "meaning": {
-          "english": "point out"
+          "english": "point out |(vi) chỉ ra, vạch ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yubi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "指導する（しどうする）",
         "meaning": {
-          "english": "guide, lead, coach [v.t.]"
+          "english": "guide, lead, coach [v.t.] |(vi) hướng dẫn, dẫn dắt, huấn luyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yubi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "指（ゆび）",
         "meaning": {
-          "english": "finger [n.]"
+          "english": "finger [n.] |(vi) ngón tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yubi_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "指輪（ゆびわ）",
         "meaning": {
-          "english": "ring"
+          "english": "ring |(vi) nhẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yubi_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "親指（おやゆび）",
         "meaning": {
-          "english": "thumb"
+          "english": "thumb |(vi) ngón cái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yubi_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "指す（さす）",
         "meaning": {
-          "english": "point at"
+          "english": "point at |(vi) chỉ vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yubi_06_l.opus",
@@ -286,7 +286,7 @@
     "kanji": {
       "character": "指",
       "meaning": {
-        "english": "finger, point"
+        "english": "finger, point |(vi) ngón tay, chỉ"
       },
       "strokes": {
         "count": 9,
@@ -342,7 +342,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -363,7 +363,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "155",
     "strokeCount": 9,
-    "meaning": "finger, point to, indicate, put into, play (chess), measure (ruler)",
+    "meaning": "finger, point to, indicate, put into, play (chess), measure (ruler) |(vi) ngón tay, chỉ vào, chỉ ra, đặt vào, đi cờ (cờ vây/tướng), đo (bằng thước) |(hv) Chỉ",
     "kunyomi": [
       "ゆび",
       "さ.す",
@@ -376,54 +376,54 @@
       {
         "example": "指揮者",
         "reading": "シキシャ",
-        "meaning": "(musical) conductor, commander, leader, director"
+        "meaning": "(musical) conductor, commander, leader, director |(vi) nhạc trưởng, người chỉ huy, lãnh đạo, đạo diễn"
       },
       {
         "example": "指揮",
         "reading": "シキ",
-        "meaning": "command, direction, supervision, conducting (an orchestra, choir, etc.)"
+        "meaning": "command, direction, supervision, conducting (an orchestra, choir, etc.) |(vi) chỉ huy, hướng dẫn, giám sát, điều khiển (dàn nhạc, hợp xướng...)"
       },
       {
         "example": "中指",
         "reading": "ナカユビ",
-        "meaning": "middle finger, long finger, second finger, tall finger, middle toe, third toe"
+        "meaning": "middle finger, long finger, second finger, tall finger, middle toe, third toe |(vi) ngón tay giữa, ngón chân giữa"
       },
       {
         "example": "食指",
         "reading": "ショクシ",
-        "meaning": "index finger, forefinger"
+        "meaning": "index finger, forefinger |(vi) ngón trỏ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "指",
         "reading": "ゆび",
-        "meaning": "finger, toe, digit"
+        "meaning": "finger, toe, digit |(vi) ngón tay, ngón chân"
       },
       {
         "example": "指先",
         "reading": "ゆびさき",
-        "meaning": "fingertip, finger, toe tip, toe"
+        "meaning": "fingertip, finger, toe tip, toe |(vi) đầu ngón tay, đầu ngón chân"
       },
       {
         "example": "中指",
         "reading": "なかゆび",
-        "meaning": "middle finger, long finger, second finger, tall finger, middle toe, third toe"
+        "meaning": "middle finger, long finger, second finger, tall finger, middle toe, third toe |(vi) ngón tay giữa, ngón chân giữa"
       },
       {
         "example": "食指",
         "reading": "しょくし",
-        "meaning": "index finger, forefinger"
+        "meaning": "index finger, forefinger |(vi) ngón trỏ"
       },
       {
         "example": "指す",
         "reading": "さす",
-        "meaning": "to point, to nominate, to select someone, to specify some person, to identify, to indicate, to point out, to play (a game of shogi), to move (a piece), to extend one's arm straight ahead (in dance)"
+        "meaning": "to point, to nominate, to select someone, to specify some person, to identify, to indicate, to point out, to play (a game of shogi), to move (a piece), to extend one's arm straight ahead (in dance) |(vi) chỉ vào, đề cử, chọn ai đó, chỉ định người nào đó, xác định, chỉ ra, vạch ra, đi cờ (shogi), di chuyển quân cờ, duỗi thẳng cánh tay về phía trước (trong múa)"
       },
       {
         "example": "刺股",
         "reading": "さすまた",
-        "meaning": "sasumata, man catcher, two-pronged weapon for catching criminals"
+        "meaning": "sasumata, man catcher, two-pronged weapon for catching criminals |(vi) sasumata, chĩa hai ngạnh dùng để bắt tội phạm"
       }
     ],
     "radical": {
@@ -431,7 +431,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "匕",

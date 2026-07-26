@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "timber, material",
+    "meaning": "timber, material |(vi) gỗ, vật liệu",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "教材（きょうざい）",
         "meaning": {
-          "english": "teaching materials"
+          "english": "teaching materials |(vi) giáo tài (tài liệu giảng dạy)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(moku)zai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "木材（もくざい）",
         "meaning": {
-          "english": "lumber, timber"
+          "english": "lumber, timber |(vi) mộc tài (gỗ, gỗ xẻ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(moku)zai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "人材（じんざい）",
         "meaning": {
-          "english": "man of talent"
+          "english": "man of talent |(vi) nhân tài (người có tài)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(moku)zai_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "素材（そざい）",
         "meaning": {
-          "english": "raw materials"
+          "english": "raw materials |(vi) tố tài (nguyên liệu thô, chất liệu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(moku)zai_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "材料（ざいりょう）",
         "meaning": {
-          "english": "ingredients"
+          "english": "ingredients |(vi) tài liệu (nguyên liệu, thành phần)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(moku)zai_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "材質（ざいしつ）",
         "meaning": {
-          "english": "quality of material"
+          "english": "quality of material |(vi) tài chất (chất liệu, chất lượng vật liệu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(moku)zai_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "取材する（しゅざいする）",
         "meaning": {
-          "english": "gather material (for news story)"
+          "english": "gather material (for news story) |(vi) thủ tài (thu thập tư liệu, lấy tin)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(moku)zai_06_g.opus",
@@ -177,7 +177,7 @@
     "kanji": {
       "character": "材",
       "meaning": {
-        "english": "timber, material"
+        "english": "timber, material |(vi) gỗ, vật liệu"
       },
       "strokes": {
         "count": 7,
@@ -229,7 +229,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -250,7 +250,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "565",
     "strokeCount": 7,
-    "meaning": "lumber, log, timber, wood, materials, ingredients, talent",
+    "meaning": "lumber, log, timber, wood, materials, ingredients, talent |(vi) gỗ xẻ, khúc gỗ, gỗ, vật liệu, nguyên liệu, tài năng |(hv) Tài",
     "kunyomi": [],
     "onyomi": [
       "ザイ"
@@ -259,28 +259,28 @@
       {
         "example": "材",
         "reading": "ザイ",
-        "meaning": "wood, lumber, timber, (raw) material, stuff, talent, ability, capable person"
+        "meaning": "wood, lumber, timber, (raw) material, stuff, talent, ability, capable person |(vi) gỗ, vật liệu, nguyên liệu, tài năng, người có tài"
       },
       {
         "example": "材質",
         "reading": "ザイシツ",
-        "meaning": "material, material properties, quality of material, quality of wood, quality of lumber"
+        "meaning": "material, material properties, quality of material, quality of wood, quality of lumber |(vi) tài chất (chất liệu, tính chất vật liệu)"
       },
       {
         "example": "器材",
         "reading": "キザイ",
-        "meaning": "tools and materials, equipment and materials"
+        "meaning": "tools and materials, equipment and materials |(vi) khí tài (dụng cụ và vật liệu, trang thiết bị)"
       },
       {
         "example": "廃材",
         "reading": "ハイザイ",
-        "meaning": "scrap wood, waste wood, waste, waste material, scrap material"
+        "meaning": "scrap wood, waste wood, waste, waste material, scrap material |(vi) phế tài (gỗ phế thải, vật liệu phế thải)"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "ノ",

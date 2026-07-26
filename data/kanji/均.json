@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "even, equal",
+    "meaning": "even, equal |(vi) đều, bằng nhau",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "均整（きんせい）",
         "meaning": {
-          "english": "symmetry, balance"
+          "english": "symmetry, balance |(vi) cân đối, hài hòa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "均衡（きんこう）",
         "meaning": {
-          "english": "equilibrium, balance"
+          "english": "equilibrium, balance |(vi) cân bằng, thăng bằng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "平均（へいきん）",
         "meaning": {
-          "english": "average, mean [n.]"
+          "english": "average, mean [n.] |(vi) trung bình [danh từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "均一な（きんいつな）",
         "meaning": {
-          "english": "uniform, equal"
+          "english": "uniform, equal |(vi) đồng đều, bằng nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "均質な（きんしつな）",
         "meaning": {
-          "english": "homogeneous"
+          "english": "homogeneous |(vi) đồng nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "均等に（きんとうに）",
         "meaning": {
-          "english": "equally, uniformly, evenly"
+          "english": "equally, uniformly, evenly |(vi) một cách đều nhau, đồng đều, công bằng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_f.opus",
@@ -171,7 +171,7 @@
     "kanji": {
       "character": "均",
       "meaning": {
-        "english": "even, equal"
+        "english": "even, equal |(vi) đều, bằng nhau"
       },
       "strokes": {
         "count": 7,
@@ -223,7 +223,7 @@
         "romaji": "tsuchihen"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
@@ -244,7 +244,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "715",
     "strokeCount": 7,
-    "meaning": "level, average",
+    "meaning": "level, average |(vi) bằng phẳng, trung bình |(hv) Quân",
     "kunyomi": [
       "なら.す"
     ],
@@ -255,34 +255,34 @@
       {
         "example": "均衡",
         "reading": "キンコウ",
-        "meaning": "equilibrium, balance"
+        "meaning": "equilibrium, balance |(vi) cân bằng, thăng bằng"
       },
       {
         "example": "均一",
         "reading": "キンイツ",
-        "meaning": "uniformity, equality"
+        "meaning": "uniformity, equality |(vi) đồng đều, bình đẳng"
       },
       {
         "example": "１００均",
         "reading": "ヒャッキン",
-        "meaning": "hundred-yen store, 100 yen shop"
+        "meaning": "hundred-yen store, 100 yen shop |(vi) cửa hàng đồng giá 100 yên"
       },
       {
         "example": "移動平均",
         "reading": "イドウヘイキン",
-        "meaning": "moving average"
+        "meaning": "moving average |(vi) trung bình động"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "均す",
         "reading": "ならす",
-        "meaning": "to make even, to make smooth, to make level, to flatten, to average"
+        "meaning": "to make even, to make smooth, to make level, to flatten, to average |(vi) làm cho đều, làm cho mịn, làm cho bằng phẳng, san phẳng, lấy trung bình"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "二",

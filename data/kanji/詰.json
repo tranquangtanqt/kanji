@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "tsu, tsumeru, tsumaru, tsumu",
-    "meaning": "reprimand, stuff, closely packed, cram",
+    "meaning": "reprimand, stuff, closely packed, cram |(vi) khiển trách, nhồi nhét, chật cứng, nhét đầy",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "詰問する（きつもんする）",
         "meaning": {
-          "english": "cross-examine"
+          "english": "cross-examine |(vi) chất vấn, tra hỏi gay gắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kitsu-tsu(meru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "詰める（つめる）",
         "meaning": {
-          "english": "pack, fill, plug, shorten [v.t.]"
+          "english": "pack, fill, plug, shorten [v.t.] |(vi) nhồi, nhét đầy, bịt kín, rút ngắn [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kitsu-tsu(meru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "缶詰め（かんづめ）",
         "meaning": {
-          "english": "canned goods, tin can"
+          "english": "canned goods, tin can |(vi) đồ hộp, lon đồ hộp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kitsu-tsu(meru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "箱詰め（はこづめ）",
         "meaning": {
-          "english": "packed in a box [n.]"
+          "english": "packed in a box [n.] |(vi) đóng trong hộp [danh từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kitsu-tsu(meru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "詰まる（つまる）",
         "meaning": {
-          "english": "be blocked, be packed [v.i.]"
+          "english": "be blocked, be packed [v.i.] |(vi) bị tắc nghẽn, bị nhồi nhét [nội động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kitsu-tsu(meru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "鼻詰まり（はなづまり）",
         "meaning": {
-          "english": "nasal congestion"
+          "english": "nasal congestion |(vi) nghẹt mũi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kitsu-tsu(meru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "気詰まり（きづまり）",
         "meaning": {
-          "english": "feel ill at ease, constraint [n.]"
+          "english": "feel ill at ease, constraint [n.] |(vi) cảm thấy khó chịu, gò bó [danh từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kitsu-tsu(meru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "詰む（つむ）",
         "meaning": {
-          "english": "close, become fine"
+          "english": "close, become fine |(vi) dày đặc lại, trở nên tinh xảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kitsu-tsu(meru)_06_h.opus",
@@ -200,7 +200,7 @@
     "kanji": {
       "character": "詰",
       "meaning": {
-        "english": "reprimand, stuff, closely packed, cram"
+        "english": "reprimand, stuff, closely packed, cram |(vi) khiển trách, nhồi nhét, chật cứng, nhét đầy"
       },
       "strokes": {
         "count": 13,
@@ -264,7 +264,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -285,7 +285,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1020",
     "strokeCount": 13,
-    "meaning": "packed, close, pressed, reprove, rebuke, blame",
+    "meaning": "packed, close, pressed, reprove, rebuke, blame |(vi) nhồi nhét, chật, bị ép, khiển trách, quở trách, đổ lỗi |(hv) Cật",
     "kunyomi": [
       "つ.める",
       "つ.め",
@@ -301,54 +301,54 @@
       {
         "example": "詰問",
         "reading": "キツモン",
-        "meaning": "cross-examination, close questioning, demanding an explanation"
+        "meaning": "cross-examination, close questioning, demanding an explanation |(vi) sự chất vấn, tra hỏi gắt gao, đòi giải thích"
       },
       {
         "example": "難詰",
         "reading": "ナンキツ",
-        "meaning": "reprimand"
+        "meaning": "reprimand |(vi) sự khiển trách"
       },
       {
         "example": "面詰",
         "reading": "メンキツ",
-        "meaning": "reprimanding (a person) personally, personal reproof"
+        "meaning": "reprimanding (a person) personally, personal reproof |(vi) sự khiển trách trực tiếp (một người), quở trách trước mặt"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "詰める",
         "reading": "つめる",
-        "meaning": "to stuff into, to jam, to cram, to pack, to fill, to plug, to stop up, to shorten, to move closer together, to reduce (spending), to conserve, to focus intently on, to strain oneself to do, to go through thoroughly, to work out (details), to bring to a conclusion, to wind up, to be on duty, to be stationed, to corner (esp. an opponent's king in shogi), to trap, to checkmate, to cut off (one's finger as an act of apology), to catch (one's finger in a door, etc.), to do non-stop, to do continuously, to keep doing (without a break), to do completely, to do thoroughly, to force someone into a difficult situation by ..."
+        "meaning": "to stuff into, to jam, to cram, to pack, to fill, to plug, to stop up, to shorten, to move closer together, to reduce (spending), to conserve, to focus intently on, to strain oneself to do, to go through thoroughly, to work out (details), to bring to a conclusion, to wind up, to be on duty, to be stationed, to corner (esp. an opponent's king in shogi), to trap, to checkmate, to cut off (one's finger as an act of apology), to catch (one's finger in a door, etc.), to do non-stop, to do continuously, to keep doing (without a break), to do completely, to do thoroughly, to force someone into a difficult situation by ... |(vi) nhồi vào, nhét chặt, đóng gói, bịt kín, rút ngắn, xích lại gần nhau, cắt giảm (chi tiêu), tập trung cao độ, hoàn thiện chi tiết, đi đến kết luận, trực ban, dồn ép (đối thủ trong shogi), chiếu bí, chặt (ngón tay để tạ lỗi), kẹt (ngón tay vào cửa), làm liên tục không nghỉ, làm triệt để, dồn ai đó vào thế khó"
       },
       {
         "example": "詰め",
         "reading": "つめ",
-        "meaning": "stuffing, packing, endgame, final stage, end, conclusion, end (esp. of a bridge), edge, sweet eel sauce (brushed on a sushi topping), lowest-ranking guest at a tea ceremony, tea master"
+        "meaning": "stuffing, packing, endgame, final stage, end, conclusion, end (esp. of a bridge), edge, sweet eel sauce (brushed on a sushi topping), lowest-ranking guest at a tea ceremony, tea master |(vi) phần nhồi, phần đóng gói, tàn cuộc, giai đoạn cuối, kết thúc, mép (đặc biệt của cây cầu), nước sốt lươn ngọt (quét lên sushi), khách xếp hạng thấp nhất trong trà đạo, trà sư"
       },
       {
         "example": "詰める",
         "reading": "つめる",
-        "meaning": "to stuff into, to jam, to cram, to pack, to fill, to plug, to stop up, to shorten, to move closer together, to reduce (spending), to conserve, to focus intently on, to strain oneself to do, to go through thoroughly, to work out (details), to bring to a conclusion, to wind up, to be on duty, to be stationed, to corner (esp. an opponent's king in shogi), to trap, to checkmate, to cut off (one's finger as an act of apology), to catch (one's finger in a door, etc.), to do non-stop, to do continuously, to keep doing (without a break), to do completely, to do thoroughly, to force someone into a difficult situation by ..."
+        "meaning": "to stuff into, to jam, to cram, to pack, to fill, to plug, to stop up, to shorten, to move closer together, to reduce (spending), to conserve, to focus intently on, to strain oneself to do, to go through thoroughly, to work out (details), to bring to a conclusion, to wind up, to be on duty, to be stationed, to corner (esp. an opponent's king in shogi), to trap, to checkmate, to cut off (one's finger as an act of apology), to catch (one's finger in a door, etc.), to do non-stop, to do continuously, to keep doing (without a break), to do completely, to do thoroughly, to force someone into a difficult situation by ... |(vi) nhồi vào, nhét chặt, đóng gói, bịt kín, rút ngắn, xích lại gần nhau, cắt giảm (chi tiêu), tập trung cao độ, hoàn thiện chi tiết, đi đến kết luận, trực ban, dồn ép (đối thủ trong shogi), chiếu bí, chặt (ngón tay để tạ lỗi), kẹt (ngón tay vào cửa), làm liên tục không nghỉ, làm triệt để, dồn ai đó vào thế khó"
       },
       {
         "example": "お詰め",
         "reading": "おつめ",
-        "meaning": "lowest-ranking guest at tea ceremony, tea master"
+        "meaning": "lowest-ranking guest at tea ceremony, tea master |(vi) khách xếp hạng thấp nhất trong trà đạo, trà sư"
       },
       {
         "example": "詰まる",
         "reading": "つまる",
-        "meaning": "to be packed (with), to be filled, to be full (e.g. of a schedule), to be blocked (of a pipe, nose, etc.), to be clogged, to be stopped up, to be become shorter, to shrink, to narrow, to be at a loss (for), to be pressed (for), to be stuck (for), to come to the end, to be settled, to become a geminate consonant, to hit the bat close to the batter's hands (of a pitch), to hit off the fists, to get jammed"
+        "meaning": "to be packed (with), to be filled, to be full (e.g. of a schedule), to be blocked (of a pipe, nose, etc.), to be clogged, to be stopped up, to be become shorter, to shrink, to narrow, to be at a loss (for), to be pressed (for), to be stuck (for), to come to the end, to be settled, to become a geminate consonant, to hit the bat close to the batter's hands (of a pitch), to hit off the fists, to get jammed |(vi) bị nhồi nhét đầy, chật kín (lịch trình), bị tắc nghẽn (ống, mũi...), bị thu hẹp, bí từ, cạn kiệt, đi đến hồi kết, được giải quyết, trở thành phụ âm kép, đánh sát tay người đánh (bóng chày), kẹt lại"
       },
       {
         "example": "詰まるところ",
         "reading": "つまるところ",
-        "meaning": "in short, in brief, to sum up, ultimately, in the end, in the long run, when all is said and done, what it all comes down to, when you get right down to it"
+        "meaning": "in short, in brief, to sum up, ultimately, in the end, in the long run, when all is said and done, what it all comes down to, when you get right down to it |(vi) nói tóm lại, tóm gọn lại, rốt cuộc, cuối cùng"
       },
       {
         "example": "詰む",
         "reading": "つむ",
-        "meaning": "to become fine (of fabric), to be checkmated, to be hard pressed, to be at a loss, to reach the limits"
+        "meaning": "to become fine (of fabric), to be checkmated, to be hard pressed, to be at a loss, to reach the limits |(vi) trở nên mịn (vải), bị chiếu bí, bị dồn ép, bí từ, đạt tới giới hạn"
       }
     ],
     "radical": {
@@ -356,7 +356,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "口",

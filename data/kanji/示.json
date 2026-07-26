@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "shime, shimesu",
-    "meaning": "show",
+    "meaning": "show |(vi) chỉ ra, biểu thị, cho xem",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "示唆する（しさする）",
         "meaning": {
-          "english": "suggest, give a hint"
+          "english": "suggest, give a hint |(vi) gợi ý, ám chỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-shime(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "示談（じだん）",
         "meaning": {
-          "english": "settlement out of court"
+          "english": "settlement out of court |(vi) dàn xếp ngoài tòa, hòa giải riêng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-shime(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "掲示する（けいじする）",
         "meaning": {
-          "english": "put up a notice"
+          "english": "put up a notice |(vi) dán thông báo, niêm yết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-shime(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "指示する（しじする）",
         "meaning": {
-          "english": "indicate, instruct, direct"
+          "english": "indicate, instruct, direct |(vi) chỉ thị, hướng dẫn, chỉ đạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-shime(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "誇示する（こじする）",
         "meaning": {
-          "english": "emphasize, show off, display"
+          "english": "emphasize, show off, display |(vi) phô trương, khoe khoang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-shime(su)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "展示する（てんじする）",
         "meaning": {
-          "english": "exhibit, display [v.t.]"
+          "english": "exhibit, display [v.t.] |(vi) trưng bày, triển lãm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-shime(su)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "表示する（ひょうじする）",
         "meaning": {
-          "english": "mark, display [v.t.]"
+          "english": "mark, display [v.t.] |(vi) hiển thị, biểu thị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-shime(su)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "暗示する（あんじする）",
         "meaning": {
-          "english": "hint, suggest"
+          "english": "hint, suggest |(vi) ám chỉ, gợi ý ngầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-shime(su)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "訓示する（くんじする）",
         "meaning": {
-          "english": "instruct, give instructions"
+          "english": "instruct, give instructions |(vi) huấn thị, chỉ thị, huấn dụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-shime(su)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "啓示する（けいじする）",
         "meaning": {
-          "english": "apocalypse, reveal"
+          "english": "apocalypse, reveal |(vi) khải thị, mặc khải, tiết lộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-shime(su)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "示す（しめす）",
         "meaning": {
-          "english": "point out, indicate"
+          "english": "point out, indicate |(vi) chỉ ra, biểu thị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-shime(su)_06_k.opus",
@@ -246,7 +246,7 @@
     "kanji": {
       "character": "示",
       "meaning": {
-        "english": "show"
+        "english": "show |(vi) chỉ ra, biểu thị, cho xem"
       },
       "strokes": {
         "count": 5,
@@ -294,7 +294,7 @@
         "romaji": "shimesu"
       },
       "meaning": {
-        "english": "altar, festival, religious service"
+        "english": "altar, festival, religious service |(vi) Thị (bàn thờ, tế lễ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shimesu0.svg",
@@ -315,7 +315,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "237",
     "strokeCount": 5,
-    "meaning": "show, indicate, point out, express, display",
+    "meaning": "show, indicate, point out, express, display |(vi) chỉ ra, biểu thị, chỉ thị, bày tỏ, hiển thị |(hv) Thị",
     "kunyomi": [
       "しめ.す"
     ],
@@ -327,54 +327,54 @@
       {
         "example": "示談",
         "reading": "ジダン",
-        "meaning": "settlement out of court, private settlement"
+        "meaning": "settlement out of court, private settlement |(vi) dàn xếp ngoài tòa, hòa giải riêng"
       },
       {
         "example": "示威",
         "reading": "ジイ",
-        "meaning": "demonstration, show of force"
+        "meaning": "demonstration, show of force |(vi) biểu tình, phô trương thanh thế"
       },
       {
         "example": "内示",
         "reading": "ナイジ",
-        "meaning": "unofficial announcement"
+        "meaning": "unofficial announcement |(vi) thông báo không chính thức"
       },
       {
         "example": "開示",
         "reading": "カイジ",
-        "meaning": "release (of information, documents, etc.), disclosure, display, discovery"
+        "meaning": "release (of information, documents, etc.), disclosure, display, discovery |(vi) công khai, tiết lộ, trình bày (tài liệu, thông tin)"
       },
       {
         "example": "示し",
         "reading": "シメシ",
-        "meaning": "lesson, discipline, example (e.g. set a bad example), revelation"
+        "meaning": "lesson, discipline, example (e.g. set a bad example), revelation |(vi) bài học, gương mẫu, sự khải thị"
       },
       {
         "example": "示唆",
         "reading": "シサ",
-        "meaning": "suggestion, hint, implication"
+        "meaning": "suggestion, hint, implication |(vi) gợi ý, ám chỉ, ngụ ý"
       },
       {
         "example": "公示",
         "reading": "コウジ",
-        "meaning": "public announcement, official notice, edict"
+        "meaning": "public announcement, official notice, edict |(vi) thông báo công khai, cáo thị"
       },
       {
         "example": "内示",
         "reading": "ナイジ",
-        "meaning": "unofficial announcement"
+        "meaning": "unofficial announcement |(vi) thông báo không chính thức"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "示す",
         "reading": "しめす",
-        "meaning": "to (take out and) show, to demonstrate, to tell, to exemplify, to make apparent, to point out (finger, clock hand, needle, etc.), to indicate, to show, to represent, to signify, to display"
+        "meaning": "to (take out and) show, to demonstrate, to tell, to exemplify, to make apparent, to point out (finger, clock hand, needle, etc.), to indicate, to show, to represent, to signify, to display |(vi) chỉ ra, biểu thị, thể hiện, bày tỏ"
       },
       {
         "example": "示偏",
         "reading": "しめすへん",
-        "meaning": "kanji \"show\" radical at left (radical 113)"
+        "meaning": "kanji \"show\" radical at left (radical 113) |(vi) bộ Thị (bên trái chữ Hán, bộ số 113)"
       }
     ],
     "radical": {
@@ -382,7 +382,7 @@
       "forms": [
         "礻"
       ],
-      "meaning": "sign"
+      "meaning": "sign |(vi) Thị (điềm báo, bàn thờ)"
     },
     "parts": [
       "二",

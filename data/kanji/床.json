@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "toko, yuka",
-    "meaning": "bed, floor",
+    "meaning": "bed, floor |(vi) giường, sàn",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "臨床医（りんしょうい）",
         "meaning": {
-          "english": "clinician"
+          "english": "clinician |(vi) bác sĩ lâm sàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuka_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "温床（おんしょう）",
         "meaning": {
-          "english": "hotbed, breeding ground"
+          "english": "hotbed, breeding ground |(vi) ổ, môi trường thuận lợi (cho cái xấu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuka_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "病床（びょうしょう）",
         "meaning": {
-          "english": "sickbed"
+          "english": "sickbed |(vi) giường bệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuka_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "起床する（きしょうする）",
         "meaning": {
-          "english": "get up, get out of bed"
+          "english": "get up, get out of bed |(vi) thức dậy, rời giường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuka_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "床（とこ）",
         "meaning": {
-          "english": "bed"
+          "english": "bed |(vi) giường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuka_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "床屋（とこや）",
         "meaning": {
-          "english": "barber"
+          "english": "barber |(vi) tiệm hớt tóc, thợ cắt tóc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuka_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "床の間（とこのま）",
         "meaning": {
-          "english": "alcove"
+          "english": "alcove |(vi) hốc tường trang trí (tokonoma)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuka_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "寝床（ねどこ）",
         "meaning": {
-          "english": "bed"
+          "english": "bed |(vi) giường ngủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuka_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "床（ゆか）",
         "meaning": {
-          "english": "floor"
+          "english": "floor |(vi) sàn nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuka_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "床下（ゆかした）",
         "meaning": {
-          "english": "under the floor"
+          "english": "under the floor |(vi) dưới sàn nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuka_06_j.opus",
@@ -208,7 +208,7 @@
     "kanji": {
       "character": "床",
       "meaning": {
-        "english": "bed, floor"
+        "english": "bed, floor |(vi) giường, sàn"
       },
       "strokes": {
         "count": 7,
@@ -260,7 +260,7 @@
         "romaji": "madare"
       },
       "meaning": {
-        "english": "slanting roof"
+        "english": "slanting roof |(vi) Nghiễm (mái nhà dốc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/madare0.svg",
@@ -281,7 +281,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1175",
     "strokeCount": 7,
-    "meaning": "bed, counter for beds, floor, padding, tatami",
+    "meaning": "bed, counter for beds, floor, padding, tatami |(vi) giường, sàn, lượng từ đếm giường, chiếu đệm |(hv) Sàng",
     "kunyomi": [
       "とこ",
       "ゆか"
@@ -293,69 +293,69 @@
       {
         "example": "床",
         "reading": "ショウ",
-        "meaning": "counter for beds"
+        "meaning": "counter for beds |(vi) lượng từ đếm giường"
       },
       {
         "example": "床几",
         "reading": "ショウギ",
-        "meaning": "camp stool, folding stool"
+        "meaning": "camp stool, folding stool |(vi) ghế xếp dã chiến, ghế gấp"
       },
       {
         "example": "臨床",
         "reading": "リンショウ",
-        "meaning": "clinical (e.g. pathology, physiology)"
+        "meaning": "clinical (e.g. pathology, physiology) |(vi) lâm sàng"
       },
       {
         "example": "温床",
         "reading": "オンショウ",
-        "meaning": "hotbed, breeding ground"
+        "meaning": "hotbed, breeding ground |(vi) ổ, môi trường thuận lợi (cho cái xấu)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "床",
         "reading": "とこ",
-        "meaning": "bed, bedding, sickbed, alcove, riverbed, seedbed, straw \"core\" of a tatami mat, floor"
+        "meaning": "bed, bedding, sickbed, alcove, riverbed, seedbed, straw \"core\" of a tatami mat, floor |(vi) giường, chăn đệm, giường bệnh, hốc tường trang trí, lòng sông, luống ươm cây, ruột chiếu tatami, sàn nhà"
       },
       {
         "example": "床の間",
         "reading": "とこのま",
-        "meaning": "tokonoma (alcove where art or flowers are displayed)"
+        "meaning": "tokonoma (alcove where art or flowers are displayed) |(vi) hốc tường trang trí (tokonoma)"
       },
       {
         "example": "鋏",
         "reading": "やっとこ",
-        "meaning": "pincers, nippers, pliers"
+        "meaning": "pincers, nippers, pliers |(vi) kìm, kẹp"
       },
       {
         "example": "金床",
         "reading": "かなとこ",
-        "meaning": "anvil"
+        "meaning": "anvil |(vi) cái đe"
       },
       {
         "example": "床",
         "reading": "ゆか",
-        "meaning": "floor, stage (for the narrator and the shamisen player), dining platform built across a river"
+        "meaning": "floor, stage (for the narrator and the shamisen player), dining platform built across a river |(vi) sàn nhà, sân khấu (cho người kể chuyện và nghệ nhân đàn shamisen), sàn ăn bắc qua sông"
       },
       {
         "example": "床下",
         "reading": "ゆかした",
-        "meaning": "under the floor"
+        "meaning": "under the floor |(vi) dưới sàn nhà"
       },
       {
         "example": "河床",
         "reading": "かしょう",
-        "meaning": "riverbed, raised platform on the bank of a river for enjoying the cool in summer"
+        "meaning": "riverbed, raised platform on the bank of a river for enjoying the cool in summer |(vi) lòng sông, sàn nâng bên bờ sông để hóng mát mùa hè"
       },
       {
         "example": "納涼床",
         "reading": "のうりょうゆか",
-        "meaning": "raised platform on the bank of a river for enjoying the summer cool"
+        "meaning": "raised platform on the bank of a river for enjoying the summer cool |(vi) sàn nâng bên bờ sông để hóng mát mùa hè"
       }
     ],
     "radical": {
       "symbol": "广",
-      "meaning": "house on cliff"
+      "meaning": "house on cliff |(vi) Nghiễm (mái nhà trên sườn dốc)"
     },
     "parts": [
       "广",

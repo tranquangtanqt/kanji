@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "mizuka, ono, mizukara, onozukara",
-    "meaning": "self",
+    "meaning": "self |(vi) bản thân, tự mình",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "自慢する（じまんする）",
         "meaning": {
-          "english": "boast"
+          "english": "boast |(vi) tự hào, khoe khoang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizuka(ra)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "自転車（じてんしゃ）",
         "meaning": {
-          "english": "bicycle"
+          "english": "bicycle |(vi) xe đạp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizuka(ra)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "自動車（じどうしゃ）",
         "meaning": {
-          "english": "automobile"
+          "english": "automobile |(vi) ô tô, xe hơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizuka(ra)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "自由（じゆう）",
         "meaning": {
-          "english": "freedom"
+          "english": "freedom |(vi) tự do"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizuka(ra)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "自分（じぶん）",
         "meaning": {
-          "english": "oneself"
+          "english": "oneself |(vi) bản thân, chính mình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizuka(ra)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "自信（じしん）",
         "meaning": {
-          "english": "self-confidence"
+          "english": "self-confidence |(vi) tự tin"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizuka(ra)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "独自（どくじ）",
         "meaning": {
-          "english": "original, independent"
+          "english": "original, independent |(vi) độc đáo, riêng biệt, độc lập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizuka(ra)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "自然な（しぜんな）",
         "meaning": {
-          "english": "natural"
+          "english": "natural |(vi) tự nhiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizuka(ra)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "自ら（みずから）",
         "meaning": {
-          "english": "by one's self"
+          "english": "by one's self |(vi) tự mình, đích thân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizuka(ra)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "自ずから（おのずから）",
         "meaning": {
-          "english": "naturally"
+          "english": "naturally |(vi) tự nhiên, tự động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizuka(ra)_06_j.opus",
@@ -291,7 +291,7 @@
     "kanji": {
       "character": "自",
       "meaning": {
-        "english": "self"
+        "english": "self |(vi) bản thân, tự mình"
       },
       "strokes": {
         "count": 6,
@@ -341,7 +341,7 @@
         "romaji": "mizukara"
       },
       "meaning": {
-        "english": "self"
+        "english": "self |(vi) Tự (tự mình, bản thân)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mizukara0.svg",
@@ -362,7 +362,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "19",
     "strokeCount": 6,
-    "meaning": "oneself",
+    "meaning": "oneself |(vi) bản thân, tự mình |(hv) Tự",
     "kunyomi": [
       "みずか.ら",
       "おの.ずから",
@@ -376,69 +376,69 @@
       {
         "example": "自",
         "reading": "ジ",
-        "meaning": "self-, from (a time or place)"
+        "meaning": "self-, from (a time or place) |(vi) tự-, từ (thời gian hoặc nơi chốn)"
       },
       {
         "example": "自営",
         "reading": "ジエイ",
-        "meaning": "running one's own business, doing business on one's own, self-employment"
+        "meaning": "running one's own business, doing business on one's own, self-employment |(vi) tự kinh doanh, kinh doanh riêng"
       },
       {
         "example": "出自",
         "reading": "シュツジ",
-        "meaning": "origin, birthplace, descent, lineage, ancestry, stock"
+        "meaning": "origin, birthplace, descent, lineage, ancestry, stock |(vi) xuất thân, nguồn gốc, dòng dõi"
       },
       {
         "example": "海自",
         "reading": "カイジ",
-        "meaning": "Maritime Self-Defense Force"
+        "meaning": "Maritime Self-Defense Force |(vi) Lực lượng Phòng vệ Biển (Nhật Bản)"
       },
       {
         "example": "自然界",
         "reading": "シゼンカイ",
-        "meaning": "nature, the natural world, realm of nature"
+        "meaning": "nature, the natural world, realm of nature |(vi) thế giới tự nhiên, giới tự nhiên"
       },
       {
         "example": "自然",
         "reading": "シゼン",
-        "meaning": "nature, natural, spontaneous, automatic, naturally, spontaneously, automatically"
+        "meaning": "nature, natural, spontaneous, automatic, naturally, spontaneously, automatically |(vi) tự nhiên, thiên nhiên, tự động"
       },
       {
         "example": "己がじし",
         "reading": "オノガジシ",
-        "meaning": "each (and every one), individually"
+        "meaning": "each (and every one), individually |(vi) mỗi người, từng cá nhân"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "自ら",
         "reading": "みずから",
-        "meaning": "oneself, oneself, for oneself, personally, in person"
+        "meaning": "oneself, oneself, for oneself, personally, in person |(vi) tự mình, đích thân, cá nhân"
       },
       {
         "example": "自ら進んで",
         "reading": "みずからすすんで",
-        "meaning": "by choice, of one's own free will, on one's own initiative, off one's own bat"
+        "meaning": "by choice, of one's own free will, on one's own initiative, off one's own bat |(vi) tự nguyện, theo ý mình, chủ động"
       },
       {
         "example": "自ずから",
         "reading": "おのずから",
-        "meaning": "naturally, in due course, by itself, of its own accord"
+        "meaning": "naturally, in due course, by itself, of its own accord |(vi) tự nhiên, tự động, tự nó"
       },
       {
         "example": "自ずから明らか",
         "reading": "おのずからあきらか",
-        "meaning": "self-evident"
+        "meaning": "self-evident |(vi) hiển nhiên, rõ ràng tự nó"
       },
       {
         "example": "自ずと",
         "reading": "おのずと",
-        "meaning": "naturally, in due course, by itself, of its own accord"
+        "meaning": "naturally, in due course, by itself, of its own accord |(vi) tự nhiên, tự động, tự nó"
       }
     ],
     "radical": {
       "symbol": "自",
-      "meaning": "self"
+      "meaning": "self |(vi) Tự (tự mình, bản thân)"
     },
     "parts": [
       "目",

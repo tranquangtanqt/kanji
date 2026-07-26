@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "instruct, teaching, precept",
+    "meaning": "instruct, teaching, precept |(vi) dạy bảo, giáo huấn, lời răn",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "訓練する（くんれんする）",
         "meaning": {
-          "english": "train [v.t.]"
+          "english": "train [v.t.] |(vi) huấn luyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kun(ren)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "訓辞（くんじ）",
         "meaning": {
-          "english": "admonitory speech"
+          "english": "admonitory speech |(vi) lời huấn thị, lời răn dạy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kun(ren)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "訓読み（くんよみ）",
         "meaning": {
-          "english": "Japanese reading of kanji"
+          "english": "Japanese reading of kanji |(vi) cách đọc kun (âm thuần Nhật của kanji)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kun(ren)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "訓読（くんどく）",
         "meaning": {
-          "english": "Japanese reading of Chinese text"
+          "english": "Japanese reading of Chinese text |(vi) cách đọc kun của văn bản chữ Hán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kun(ren)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "教訓（きょうくん）",
         "meaning": {
-          "english": "lesson, moral (of a story)"
+          "english": "lesson, moral (of a story) |(vi) bài học, lời răn dạy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kun(ren)_06_e.opus",
@@ -160,7 +160,7 @@
     "kanji": {
       "character": "訓",
       "meaning": {
-        "english": "instruct, teaching, precept"
+        "english": "instruct, teaching, precept |(vi) dạy bảo, giáo huấn, lời răn"
       },
       "strokes": {
         "count": 10,
@@ -218,7 +218,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói, nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -239,7 +239,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1134",
     "strokeCount": 10,
-    "meaning": "instruction, Japanese character reading, explanation, read",
+    "meaning": "instruction, Japanese character reading, explanation, read |(vi) sự chỉ dạy, cách đọc kun của kanji, giải thích, đọc |(hv) Huấn",
     "kunyomi": [
       "おし.える",
       "よ.む",
@@ -253,54 +253,54 @@
       {
         "example": "訓",
         "reading": "クン",
-        "meaning": "native Japanese reading of a Chinese character, precept, lesson, one's teachings"
+        "meaning": "native Japanese reading of a Chinese character, precept, lesson, one's teachings |(vi) cách đọc thuần Nhật (kun) của chữ Hán, lời răn dạy, bài học, lời dạy bảo"
       },
       {
         "example": "訓示",
         "reading": "クンジ",
-        "meaning": "instruction, direction, briefing"
+        "meaning": "instruction, direction, briefing |(vi) lời huấn thị, chỉ thị, buổi phổ biến"
       },
       {
         "example": "特訓",
         "reading": "トックン",
-        "meaning": "special training, intensive training, crash course"
+        "meaning": "special training, intensive training, crash course |(vi) huấn luyện đặc biệt, luyện tập cấp tốc"
       },
       {
         "example": "校訓",
         "reading": "コウクン",
-        "meaning": "school precepts"
+        "meaning": "school precepts |(vi) châm ngôn nhà trường, nội quy giáo dục của trường"
       },
       {
         "example": "庭訓",
         "reading": "テイキン",
-        "meaning": "home education"
+        "meaning": "home education |(vi) giáo dục gia đình, lời dạy trong nhà"
       },
       {
         "example": "家訓",
         "reading": "カクン",
-        "meaning": "family precepts, family motto, rule of the home"
+        "meaning": "family precepts, family motto, rule of the home |(vi) gia huấn, châm ngôn gia đình"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "教える",
         "reading": "おしえる",
-        "meaning": "to teach, to instruct, to tell, to inform, to show, to preach"
+        "meaning": "to teach, to instruct, to tell, to inform, to show, to preach |(vi) dạy, chỉ bảo, cho biết, thông báo, chỉ cho, thuyết giảng"
       },
       {
         "example": "読む",
         "reading": "よむ",
-        "meaning": "to read, to recite (e.g. a sutra), to chant, to predict, to guess, to forecast, to read (someone's thoughts), to see (e.g. into someone's heart), to divine, to pronounce, to read (e.g. a kanji), to decipher, to read (a meter, graph, music, etc.), to tell (the time), to count, to estimate, to read (a kanji) with its native Japanese reading"
+        "meaning": "to read, to recite (e.g. a sutra), to chant, to predict, to guess, to forecast, to read (someone's thoughts), to see (e.g. into someone's heart), to divine, to pronounce, to read (e.g. a kanji), to decipher, to read (a meter, graph, music, etc.), to tell (the time), to count, to estimate, to read (a kanji) with its native Japanese reading |(vi) đọc, tụng (kinh), niệm, dự đoán, đoán, tiên đoán, đọc thấu (suy nghĩ của ai đó), nhìn thấu (lòng người), bói, phát âm, đọc (kanji), giải mã, đọc (đồng hồ đo, biểu đồ, bản nhạc...), xem (giờ), đếm, ước tính, đọc (kanji) theo âm thuần Nhật"
       },
       {
         "example": "訓む",
         "reading": "よむ",
-        "meaning": "to read (a kanji) with its native Japanese reading"
+        "meaning": "to read (a kanji) with its native Japanese reading |(vi) đọc (kanji) theo âm thuần Nhật (kun)"
       },
       {
         "example": "訓ずる",
         "reading": "くんずる",
-        "meaning": "to read kanji using its native Japanese pronunciation"
+        "meaning": "to read kanji using its native Japanese pronunciation |(vi) đọc kanji theo cách phát âm thuần Nhật"
       }
     ],
     "radical": {
@@ -308,7 +308,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "川",

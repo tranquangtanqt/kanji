@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "tsukue",
-    "meaning": "desk",
+    "meaning": "desk |(vi) bàn học, bàn làm việc",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "机上の空論（きじょうのくうろん）",
         "meaning": {
-          "english": "empty theory"
+          "english": "empty theory |(vi) lý thuyết suông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsukue_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "机（つくえ）",
         "meaning": {
-          "english": "desk"
+          "english": "desk |(vi) bàn học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsukue_06_b.opus",
@@ -123,7 +123,7 @@
     "kanji": {
       "character": "机",
       "meaning": {
-        "english": "desk"
+        "english": "desk |(vi) bàn học, bàn làm việc"
       },
       "strokes": {
         "count": 6,
@@ -173,7 +173,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -194,7 +194,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1671",
     "strokeCount": 6,
-    "meaning": "desk, table",
+    "meaning": "desk, table |(vi) bàn học, bàn |(hv) Kỷ",
     "kunyomi": [
       "つくえ"
     ],
@@ -205,44 +205,44 @@
       {
         "example": "机上",
         "reading": "キジョウ",
-        "meaning": "on the desk, theoretical, academic, armchair (e.g. plan), desktop, paper, not yet implemented"
+        "meaning": "on the desk, theoretical, academic, armchair (e.g. plan), desktop, paper, not yet implemented |(vi) trên bàn, mang tính lý thuyết, hàn lâm, kế hoạch suông, trên giấy tờ, chưa được thực hiện"
       },
       {
         "example": "几案",
         "reading": "キアン",
-        "meaning": "desk"
+        "meaning": "desk |(vi) bàn làm việc"
       },
       {
         "example": "明窓浄机",
         "reading": "メイソウジョウキ",
-        "meaning": "dustless desk by a well-lit window, well-lit and clean study conducive to learning"
+        "meaning": "dustless desk by a well-lit window, well-lit and clean study conducive to learning |(vi) bàn học sạch bên cửa sổ sáng sủa, phòng học sáng sủa sạch sẽ thuận lợi cho việc học"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "机",
         "reading": "つくえ",
-        "meaning": "desk"
+        "meaning": "desk |(vi) bàn học"
       },
       {
         "example": "机に向かう",
         "reading": "つくえにむかう",
-        "meaning": "to sit at a desk (to study), to be at one's desk, to set to work on revision, homework, etc."
+        "meaning": "to sit at a desk (to study), to be at one's desk, to set to work on revision, homework, etc. |(vi) ngồi vào bàn học, chuyên tâm học bài/ôn tập"
       },
       {
         "example": "片袖机",
         "reading": "かたそでづくえ",
-        "meaning": "desk with a tier of drawers on one side"
+        "meaning": "desk with a tier of drawers on one side |(vi) bàn có ngăn kéo một bên"
       },
       {
         "example": "八足の机",
         "reading": "やつあしのつくえ",
-        "meaning": "eight-legged table (used as a stand for religious offerings, etc.)"
+        "meaning": "eight-legged table (used as a stand for religious offerings, etc.) |(vi) bàn tám chân (dùng làm bệ đặt lễ vật cúng tế)"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây)"
     },
     "parts": [
       "几",

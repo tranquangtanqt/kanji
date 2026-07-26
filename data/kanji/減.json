@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 5,
     "kunyomi": "he, heru, herasu",
-    "meaning": "decrease",
+    "meaning": "decrease |(vi) giảm, giảm bớt",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "加減（かげん）",
         "meaning": {
-          "english": "moderation"
+          "english": "moderation |(vi) mức độ, sự điều chỉnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(rasu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "減少する（げんしょうする）",
         "meaning": {
-          "english": "decrease, be reduced, lessen"
+          "english": "decrease, be reduced, lessen |(vi) giảm, giảm bớt, giảm sút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(rasu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "減点する（げんてんする）",
         "meaning": {
-          "english": "take off points, give bad mark"
+          "english": "take off points, give bad mark |(vi) trừ điểm, chấm điểm kém"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(rasu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "減税する（げんぜいする）",
         "meaning": {
-          "english": "reduce taxes"
+          "english": "reduce taxes |(vi) giảm thuế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(rasu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "減速する（げんそくする）",
         "meaning": {
-          "english": "decelerate"
+          "english": "decelerate |(vi) giảm tốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(rasu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "削減する（さくげんする）",
         "meaning": {
-          "english": "cut down on, curtail"
+          "english": "cut down on, curtail |(vi) cắt giảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(rasu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "増減する（ぞうげんする）",
         "meaning": {
-          "english": "fluctuate"
+          "english": "fluctuate |(vi) tăng giảm, biến động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(rasu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "半減する（はんげんする）",
         "meaning": {
-          "english": "reduce by half"
+          "english": "reduce by half |(vi) giảm một nửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(rasu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "減る（へる）",
         "meaning": {
-          "english": "decrease, diminish [v.i.]"
+          "english": "decrease, diminish [v.i.] |(vi) giảm, giảm bớt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(rasu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "減らす（へらす）",
         "meaning": {
-          "english": "reduce, curtail [v.t.]"
+          "english": "reduce, curtail [v.t.] |(vi) giảm, cắt giảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(rasu)_06_j.opus",
@@ -246,7 +246,7 @@
     "kanji": {
       "character": "減",
       "meaning": {
-        "english": "decrease"
+        "english": "decrease |(vi) giảm, giảm bớt"
       },
       "strokes": {
         "count": 12,
@@ -308,7 +308,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -329,7 +329,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "261",
     "strokeCount": 12,
-    "meaning": "dwindle, decrease, reduce, decline, curtail, get hungry",
+    "meaning": "dwindle, decrease, reduce, decline, curtail, get hungry |(vi) giảm dần, giảm bớt, giảm sút, suy giảm, cắt giảm, đói bụng |(hv) Giảm",
     "kunyomi": [
       "へ.る",
       "へ.らす"
@@ -341,39 +341,39 @@
       {
         "example": "減",
         "reading": "ゲン",
-        "meaning": "reduction, decrease, subtraction, reduction of penalty (under the ritsuryō codes)"
+        "meaning": "reduction, decrease, subtraction, reduction of penalty (under the ritsuryō codes) |(vi) sự giảm, sự giảm bớt, phép trừ, sự giảm hình phạt (theo luật lệnh thời xưa)"
       },
       {
         "example": "減員",
         "reading": "ゲンイン",
-        "meaning": "reduction of staff"
+        "meaning": "reduction of staff |(vi) giảm biên chế"
       },
       {
         "example": "増減",
         "reading": "ゾウゲン",
-        "meaning": "increase and decrease, fluctuation"
+        "meaning": "increase and decrease, fluctuation |(vi) tăng giảm, biến động"
       },
       {
         "example": "軽減",
         "reading": "ケイゲン",
-        "meaning": "abatement, reduction"
+        "meaning": "abatement, reduction |(vi) giảm nhẹ, giảm bớt"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "減る",
         "reading": "へる",
-        "meaning": "to decrease (in size or number), to diminish, to abate"
+        "meaning": "to decrease (in size or number), to diminish, to abate |(vi) giảm (về số lượng hay kích thước), suy giảm, thuyên giảm"
       },
       {
         "example": "減るもんじゃない",
         "reading": "へるもんじゃない",
-        "meaning": "it's no big deal, it's nothing to fret about, it's not like it's the end of the world"
+        "meaning": "it's no big deal, it's nothing to fret about, it's not like it's the end of the world |(vi) không đáng gì, không việc gì phải bận tâm, chẳng phải chuyện to tát"
       },
       {
         "example": "減らす",
         "reading": "へらす",
-        "meaning": "to abate, to decrease, to diminish, to shorten"
+        "meaning": "to abate, to decrease, to diminish, to shorten |(vi) giảm bớt, giảm sút, rút ngắn"
       }
     ],
     "radical": {
@@ -382,7 +382,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "亅",

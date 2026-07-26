@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "sono",
-    "meaning": "garden",
+    "meaning": "garden |(vi) vườn",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "園芸（えんげい）",
         "meaning": {
-          "english": "horticulture, gardening"
+          "english": "horticulture, gardening |(vi) làm vườn, nghề trồng cây cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "園児（えんじ）",
         "meaning": {
-          "english": "kindergarten pupil"
+          "english": "kindergarten pupil |(vi) học sinh mẫu giáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "公園（こうえん）",
         "meaning": {
-          "english": "park [n.]"
+          "english": "park [n.] |(vi) công viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "庭園（ていえん）",
         "meaning": {
-          "english": "garden, park"
+          "english": "garden, park |(vi) vườn, công viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "楽園（らくえん）",
         "meaning": {
-          "english": "pleasure garden, paradise"
+          "english": "pleasure garden, paradise |(vi) thiên đường, vườn địa đàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "遊園地（ゆうえんち）",
         "meaning": {
-          "english": "amusement park"
+          "english": "amusement park |(vi) công viên giải trí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "動物園（どうぶつえん）",
         "meaning": {
-          "english": "zoo, zoological gardens"
+          "english": "zoo, zoological gardens |(vi) vườn thú, sở thú"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "果樹園（かじゅえん）",
         "meaning": {
-          "english": "orchard"
+          "english": "orchard |(vi) vườn cây ăn quả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "幼稚園（ようちえん）",
         "meaning": {
-          "english": "kindergarten"
+          "english": "kindergarten |(vi) trường mẫu giáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "園（その）",
         "meaning": {
-          "english": "garden, park, plantation"
+          "english": "garden, park, plantation |(vi) vườn, công viên, đồn điền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "花園（はなぞの）",
         "meaning": {
-          "english": "flower garden"
+          "english": "flower garden |(vi) vườn hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_k.opus",
@@ -282,7 +282,7 @@
     "kanji": {
       "character": "園",
       "meaning": {
-        "english": "garden"
+        "english": "garden |(vi) vườn"
       },
       "strokes": {
         "count": 13,
@@ -346,7 +346,7 @@
         "romaji": "kunigamae"
       },
       "meaning": {
-        "english": "border, territorial boundaries"
+        "english": "border, territorial boundaries |(vi) Vi (bao quanh, ranh giới)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kunigamae0.svg",
@@ -367,7 +367,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "628",
     "strokeCount": 13,
-    "meaning": "park, garden, yard, farm",
+    "meaning": "park, garden, yard, farm |(vi) công viên, vườn, sân, nông trại |(hv) Viên",
     "kunyomi": [
       "その"
     ],
@@ -378,49 +378,49 @@
       {
         "example": "園",
         "reading": "エン",
-        "meaning": "garden, orchard, park, plantation, kindergarten, nursery school, preschool"
+        "meaning": "garden, orchard, park, plantation, kindergarten, nursery school, preschool |(vi) vườn, vườn cây ăn quả, công viên, đồn điền, trường mẫu giáo"
       },
       {
         "example": "園芸",
         "reading": "エンゲイ",
-        "meaning": "horticulture, gardening"
+        "meaning": "horticulture, gardening |(vi) làm vườn, nghề trồng cây cảnh"
       },
       {
         "example": "花園",
         "reading": "ハナゾノ",
-        "meaning": "flower garden"
+        "meaning": "flower garden |(vi) vườn hoa"
       },
       {
         "example": "霊園",
         "reading": "レイエン",
-        "meaning": "(garden) cemetery, park-style cemetery, memorial park"
+        "meaning": "(garden) cemetery, park-style cemetery, memorial park |(vi) nghĩa trang kiểu công viên"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "園",
         "reading": "その",
-        "meaning": "garden, orchard, park, place, world, environment"
+        "meaning": "garden, orchard, park, place, world, environment |(vi) vườn, vườn cây ăn quả, công viên, nơi chốn, thế giới, môi trường"
       },
       {
         "example": "園生",
         "reading": "えんせい",
-        "meaning": "garden (esp. with trees), park"
+        "meaning": "garden (esp. with trees), park |(vi) vườn (đặc biệt có cây cối), công viên"
       },
       {
         "example": "竹の園",
         "reading": "たけのその",
-        "meaning": "bamboo garden, Imperial family"
+        "meaning": "bamboo garden, Imperial family |(vi) vườn tre, hoàng tộc"
       },
       {
         "example": "女の園",
         "reading": "おんなのその",
-        "meaning": "woman's world, feminine environment"
+        "meaning": "woman's world, feminine environment |(vi) thế giới của phụ nữ, môi trường nữ giới"
       }
     ],
     "radical": {
       "symbol": "囗",
-      "meaning": "enclosure"
+      "meaning": "enclosure |(vi) Vi (bao quanh, ranh giới)"
     },
     "parts": [
       "口",

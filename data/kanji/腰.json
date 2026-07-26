@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "koshi",
-    "meaning": "waist, loins, hips, small of back",
+    "meaning": "waist, loins, hips, small of back |(vi) eo, thắt lưng, hông, vùng lưng dưới",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "腰痛（ようつう）",
         "meaning": {
-          "english": "back pain"
+          "english": "back pain |(vi) đau lưng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koshi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "腰（こし）",
         "meaning": {
-          "english": "waist"
+          "english": "waist |(vi) eo, thắt lưng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koshi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "腰骨（こしぼね）",
         "meaning": {
-          "english": "hipbone, innominate bone"
+          "english": "hipbone, innominate bone |(vi) xương chậu, xương hông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koshi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "足腰（あしこし）",
         "meaning": {
-          "english": "legs and loins"
+          "english": "legs and loins |(vi) chân và eo lưng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koshi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "弱腰（よわごし）",
         "meaning": {
-          "english": "weak attitude"
+          "english": "weak attitude |(vi) thái độ yếu ớt, rụt rè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koshi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "物腰（ものごし）",
         "meaning": {
-          "english": "manner, demeanor"
+          "english": "manner, demeanor |(vi) cử chỉ, phong thái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koshi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "本腰（ほんごし）",
         "meaning": {
-          "english": "strenuous effort, earnestness"
+          "english": "strenuous effort, earnestness |(vi) nỗ lực hết mình, sự nghiêm túc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koshi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "腰掛ける（こしかける）",
         "meaning": {
-          "english": "sit"
+          "english": "sit |(vi) ngồi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koshi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "腰掛け（こしかけ）",
         "meaning": {
-          "english": "seat, bench"
+          "english": "seat, bench |(vi) ghế ngồi, băng ghế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koshi_06_i.opus",
@@ -204,7 +204,7 @@
     "kanji": {
       "character": "腰",
       "meaning": {
-        "english": "waist, loins, hips, small of back"
+        "english": "waist, loins, hips, small of back |(vi) eo, thắt lưng, hông, vùng lưng dưới"
       },
       "strokes": {
         "count": 13,
@@ -270,7 +270,7 @@
         "romaji": "nikuzuki"
       },
       "meaning": {
-        "english": "meat, flesh"
+        "english": "meat, flesh |(vi) Nhục (thịt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nikuzuki0.svg",
@@ -291,7 +291,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1306",
     "strokeCount": 13,
-    "meaning": "loins, hips, waist, low wainscoting",
+    "meaning": "loins, hips, waist, low wainscoting |(vi) hông, eo, thắt lưng, chân tường thấp |(hv) Yêu",
     "kunyomi": [
       "こし"
     ],
@@ -302,44 +302,44 @@
       {
         "example": "腰",
         "reading": "コシ",
-        "meaning": "counter for swords, hakama, obi, etc. worn around the waist, counter for quivers of arrows"
+        "meaning": "counter for swords, hakama, obi, etc. worn around the waist, counter for quivers of arrows |(vi) lượng từ đếm kiếm, hakama, obi... đeo quanh eo, lượng từ đếm ống đựng tên"
       },
       {
         "example": "腰痛",
         "reading": "ヨウツウ",
-        "meaning": "lower back pain, lumbago"
+        "meaning": "lower back pain, lumbago |(vi) đau lưng dưới, đau thắt lưng"
       },
       {
         "example": "細腰",
         "reading": "サイヨウ",
-        "meaning": "slender hips, slim waist"
+        "meaning": "slender hips, slim waist |(vi) eo thon, hông thon"
       },
       {
         "example": "柳腰",
         "reading": "ヤナギゴシ",
-        "meaning": "slim waist, slender figure, willowy figure, waist of a willow tree"
+        "meaning": "slim waist, slender figure, willowy figure, waist of a willow tree |(vi) eo thon, dáng người mảnh mai, dáng liễu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "腰",
         "reading": "こし",
-        "meaning": "lower back, waist, hips, lumbar region, body (of hair, noodle, paper, etc.), resilience, spring"
+        "meaning": "lower back, waist, hips, lumbar region, body (of hair, noodle, paper, etc.), resilience, spring |(vi) lưng dưới, eo, hông, vùng thắt lưng, độ dai (của tóc, mì, giấy...), độ đàn hồi"
       },
       {
         "example": "腰",
         "reading": "こし",
-        "meaning": "counter for swords, hakama, obi, etc. worn around the waist, counter for quivers of arrows"
+        "meaning": "counter for swords, hakama, obi, etc. worn around the waist, counter for quivers of arrows |(vi) lượng từ đếm kiếm, hakama, obi... đeo quanh eo, lượng từ đếm ống đựng tên"
       },
       {
         "example": "お腰",
         "reading": "おこし",
-        "meaning": "buttocks, lower back, waist, hips, kimono underskirt"
+        "meaning": "buttocks, lower back, waist, hips, kimono underskirt |(vi) mông, lưng dưới, eo, hông, váy lót kimono"
       },
       {
         "example": "太刀二腰",
         "reading": "たちふたこし",
-        "meaning": "two swords"
+        "meaning": "two swords |(vi) hai thanh kiếm"
       }
     ],
     "radical": {
@@ -347,7 +347,7 @@
       "forms": [
         "⺼"
       ],
-      "meaning": "meat"
+      "meaning": "meat |(vi) Nhục (thịt)"
     },
     "parts": [
       "女",

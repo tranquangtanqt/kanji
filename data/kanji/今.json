@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ima",
-    "meaning": "present, this",
+    "meaning": "present, this |(vi) hiện tại, này",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "今月（こんげつ）",
         "meaning": {
-          "english": "this month"
+          "english": "this month |(vi) tháng này"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ima_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "今週（こんしゅう）",
         "meaning": {
-          "english": "this week"
+          "english": "this week |(vi) tuần này"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ima_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "今晩（こんばん）",
         "meaning": {
-          "english": "tonight"
+          "english": "tonight |(vi) tối nay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ima_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "今後（こんご）",
         "meaning": {
-          "english": "from now on"
+          "english": "from now on |(vi) từ nay về sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ima_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "今回（こんかい）",
         "meaning": {
-          "english": "this time"
+          "english": "this time |(vi) lần này"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ima_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "今度（こんど）",
         "meaning": {
-          "english": "this time, next time"
+          "english": "this time, next time |(vi) lần này, lần sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ima_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "今上（きんじょう）",
         "meaning": {
-          "english": "current emperor"
+          "english": "current emperor |(vi) đương kim hoàng đế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ima_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "今（いま）",
         "meaning": {
-          "english": "now"
+          "english": "now |(vi) bây giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ima_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "今風（いまふう）",
         "meaning": {
-          "english": "modern style"
+          "english": "modern style |(vi) phong cách hiện đại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ima_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "*今年（ことし）",
         "meaning": {
-          "english": "this year"
+          "english": "this year |(vi) năm nay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ima_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "*今日（きょう）",
         "meaning": {
-          "english": "today"
+          "english": "today |(vi) hôm nay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ima_06_k.opus",
@@ -298,7 +298,7 @@
     "kanji": {
       "character": "今",
       "meaning": {
-        "english": "present, this"
+        "english": "present, this |(vi) hiện tại, này"
       },
       "strokes": {
         "count": 4,
@@ -344,7 +344,7 @@
         "romaji": "hitoyane"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoyane0.svg",
@@ -365,7 +365,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "49",
     "strokeCount": 4,
-    "meaning": "now",
+    "meaning": "now |(vi) bây giờ, hiện nay |(hv) Kim",
     "kunyomi": [
       "いま"
     ],
@@ -377,54 +377,54 @@
       {
         "example": "今",
         "reading": "コン",
-        "meaning": "the current ..., this, today's ..."
+        "meaning": "the current ..., this, today's ... |(vi) hiện tại, này, của hôm nay..."
       },
       {
         "example": "今夏",
         "reading": "コンカ",
-        "meaning": "this summer, next summer, last summer"
+        "meaning": "this summer, next summer, last summer |(vi) mùa hè này, mùa hè tới, mùa hè trước"
       },
       {
         "example": "往古来今",
         "reading": "オウコライコン",
-        "meaning": "in all ages, since antiquity"
+        "meaning": "in all ages, since antiquity |(vi) xưa nay, từ cổ chí kim"
       },
       {
         "example": "当今",
         "reading": "トウコン",
-        "meaning": "nowadays, these days, at present"
+        "meaning": "nowadays, these days, at present |(vi) hiện nay, ngày nay, hiện tại"
       },
       {
         "example": "今古",
         "reading": "キンコ",
-        "meaning": "now and anciently"
+        "meaning": "now and anciently |(vi) kim cổ, xưa và nay"
       },
       {
         "example": "今上",
         "reading": "キンジョウ",
-        "meaning": "His Majesty the Emperor, the present emperor, the reigning emperor"
+        "meaning": "His Majesty the Emperor, the present emperor, the reigning emperor |(vi) đương kim hoàng thượng, hoàng đế đương nhiệm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "今",
         "reading": "いま",
-        "meaning": "now, the present time, just now, soon, immediately, another, more"
+        "meaning": "now, the present time, just now, soon, immediately, another, more |(vi) bây giờ, hiện tại, vừa mới, sắp, ngay, thêm nữa"
       },
       {
         "example": "今に",
         "reading": "いまに",
-        "meaning": "before long, even now"
+        "meaning": "before long, even now |(vi) chẳng bao lâu nữa, đến tận bây giờ"
       },
       {
         "example": "中今",
         "reading": "なかいま",
-        "meaning": "the present (esp. as a privileged moment in eternity)"
+        "meaning": "the present (esp. as a privileged moment in eternity) |(vi) hiện tại (khoảnh khắc đặc biệt trong vĩnh hằng)"
       },
       {
         "example": "今が今",
         "reading": "いまがいま",
-        "meaning": "just now"
+        "meaning": "just now |(vi) ngay lúc này"
       }
     ],
     "radical": {
@@ -432,7 +432,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "一",

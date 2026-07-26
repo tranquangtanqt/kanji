@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 4,
     "kunyomi": "shirushi",
-    "meaning": "mark, seal, stamp",
+    "meaning": "mark, seal, stamp |(vi) dấu, con dấu, tem",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "印象（いんしょう）",
         "meaning": {
-          "english": "impression"
+          "english": "impression |(vi) ấn tượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-shirushi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "印鑑（いんかん）",
         "meaning": {
-          "english": "stamp [n.]"
+          "english": "stamp [n.] |(vi) con dấu, dấu triện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-shirushi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "印税（いんぜい）",
         "meaning": {
-          "english": "royalty (on book)"
+          "english": "royalty (on book) |(vi) tiền bản quyền (sách)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-shirushi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "消印（けしいん）",
         "meaning": {
-          "english": "postmark"
+          "english": "postmark |(vi) dấu bưu điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-shirushi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "印刷する（いんさつする）",
         "meaning": {
-          "english": "print [v.t.]"
+          "english": "print [v.t.] |(vi) in ấn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-shirushi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "印（しるし）",
         "meaning": {
-          "english": "mark [n.]"
+          "english": "mark [n.] |(vi) dấu hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-shirushi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "目印（めじるし）",
         "meaning": {
-          "english": "mark, landmark"
+          "english": "mark, landmark |(vi) dấu hiệu, mốc đánh dấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-shirushi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "矢印（やじるし）",
         "meaning": {
-          "english": "arrow mark, signpost"
+          "english": "arrow mark, signpost |(vi) mũi tên, biển chỉ dẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-shirushi_06_h.opus",
@@ -223,7 +223,7 @@
     "kanji": {
       "character": "印",
       "meaning": {
-        "english": "mark, seal, stamp"
+        "english": "mark, seal, stamp |(vi) dấu, con dấu, tem"
       },
       "strokes": {
         "count": 6,
@@ -273,7 +273,7 @@
         "romaji": "fushizukuri"
       },
       "meaning": {
-        "english": "stamp, seal"
+        "english": "stamp, seal |(vi) Tiết (dấu, thẻ tin)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/fushizukuri0.svg",
@@ -294,7 +294,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "682",
     "strokeCount": 6,
-    "meaning": "stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India",
+    "meaning": "stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India |(vi) con dấu, dấu ấn, biểu tượng, nhãn hiệu, bằng chứng, vật kỷ niệm, Ấn Độ |(hv) Ấn",
     "kunyomi": [
       "しるし",
       "-じるし",
@@ -307,49 +307,49 @@
       {
         "example": "印",
         "reading": "イン",
-        "meaning": "stamp, seal, chop, seal impression, seal, sealing, stamp, mark, print, mudra (symbolic hand gesture), ninja hand sign, India"
+        "meaning": "stamp, seal, chop, seal impression, seal, sealing, stamp, mark, print, mudra (symbolic hand gesture), ninja hand sign, India |(vi) con dấu, dấu triện, ấn tín, ấn chỉ tay (mudra), ấn quyết ninja, Ấn Độ"
       },
       {
         "example": "印鑑",
         "reading": "インカン",
-        "meaning": "stamp, seal"
+        "meaning": "stamp, seal |(vi) con dấu, dấu triện"
       },
       {
         "example": "消印",
         "reading": "ケシイン",
-        "meaning": "postmark, (postal) cancellation mark"
+        "meaning": "postmark, (postal) cancellation mark |(vi) dấu bưu điện, dấu hủy tem"
       },
       {
         "example": "認め印",
         "reading": "ミトメイン",
-        "meaning": "private seal, personal seal, unregistered seal, informal seal, signet"
+        "meaning": "private seal, personal seal, unregistered seal, informal seal, signet |(vi) con dấu cá nhân chưa đăng ký, dấu không chính thức"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "印",
         "reading": "しるし",
-        "meaning": "mark, sign, symbol, emblem, badge, crest, flag, evidence, proof, token (of gratitude, affection, etc.)"
+        "meaning": "mark, sign, symbol, emblem, badge, crest, flag, evidence, proof, token (of gratitude, affection, etc.) |(vi) dấu hiệu, ký hiệu, biểu tượng, huy hiệu, gia huy, cờ hiệu, bằng chứng, vật làm tin (của lòng biết ơn, tình cảm...)"
       },
       {
         "example": "印半纏",
         "reading": "しるしばんてん",
-        "meaning": "livery coat"
+        "meaning": "livery coat |(vi) áo khoác đồng phục có in dấu hiệu"
       },
       {
         "example": "感謝の印",
         "reading": "かんしゃのしるし",
-        "meaning": "token of appreciation"
+        "meaning": "token of appreciation |(vi) món quà thể hiện lòng biết ơn"
       },
       {
         "example": "印す",
         "reading": "しるす",
-        "meaning": "to leave (a mark, trace, etc.), to print, to stamp, to be a sign of, to be an omen for"
+        "meaning": "to leave (a mark, trace, etc.), to print, to stamp, to be a sign of, to be an omen for |(vi) để lại (dấu vết...), in, đóng dấu, là dấu hiệu của, là điềm báo cho"
       }
     ],
     "radical": {
       "symbol": "卩",
-      "meaning": "kneel"
+      "meaning": "kneel |(vi) Tiết (quỳ, thẻ tin)"
     },
     "parts": [
       "卩",

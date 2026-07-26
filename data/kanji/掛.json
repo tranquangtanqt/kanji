@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ka, kakeru, kake, kakaru, kakari",
-    "meaning": "set, hang",
+    "meaning": "set, hang |(vi) đặt, treo",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "掛け算（かけざん）",
         "meaning": {
-          "english": "multiplication"
+          "english": "multiplication |(vi) phép nhân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "腰掛け（こしかけ）",
         "meaning": {
-          "english": "seat, bench"
+          "english": "seat, bench |(vi) ghế ngồi, băng ghế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "仕掛け（しかけ）",
         "meaning": {
-          "english": "device, trick, mechanism"
+          "english": "device, trick, mechanism |(vi) cơ chế, thiết bị, mánh khóe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "掛ける（かける）",
         "meaning": {
-          "english": "hang, cover, sit down, pour [v.t.]"
+          "english": "hang, cover, sit down, pour [v.t.] |(vi) treo, phủ, ngồi xuống, rót"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "出掛ける（でかける）",
         "meaning": {
-          "english": "got out, depart"
+          "english": "got out, depart |(vi) ra ngoài, khởi hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "言い掛ける（いいかける）",
         "meaning": {
-          "english": "begin speaking"
+          "english": "begin speaking |(vi) bắt đầu nói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "心掛ける（こころがける）",
         "meaning": {
-          "english": "bear in mind, aim to"
+          "english": "bear in mind, aim to |(vi) lưu tâm, cố gắng hướng tới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "見せ掛ける（みせかける）",
         "meaning": {
-          "english": "pretend, feign"
+          "english": "pretend, feign |(vi) giả vờ, giả bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "掛かる（かかる）",
         "meaning": {
-          "english": "hang, be locked [v.i.]"
+          "english": "hang, be locked [v.i.] |(vi) treo, bị khóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "掛（かかり）",
         "meaning": {
-          "english": "charge, duty, post"
+          "english": "charge, duty, post |(vi) trách nhiệm, nhiệm vụ, chức vụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "親掛かり（おやがかり）",
         "meaning": {
-          "english": "dependent on one's parents"
+          "english": "dependent on one's parents |(vi) phụ thuộc vào cha mẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_k.opus",
@@ -227,7 +227,7 @@
     "kanji": {
       "character": "掛",
       "meaning": {
-        "english": "set, hang"
+        "english": "set, hang |(vi) đặt, treo"
       },
       "strokes": {
         "count": 11,
@@ -287,7 +287,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -308,7 +308,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1027",
     "strokeCount": 11,
-    "meaning": "hang, suspend, depend, arrive at, tax, pour",
+    "meaning": "hang, suspend, depend, arrive at, tax, pour |(vi) treo, treo lơ lửng, phụ thuộc, đạt tới, đánh thuế, rót |(hv) Quải",
     "kunyomi": [
       "か.ける",
       "-か.ける",
@@ -331,59 +331,59 @@
       {
         "example": "掛留",
         "reading": "ケイリュウ",
-        "meaning": "music suspension"
+        "meaning": "music suspension |(vi) nốt treo (âm nhạc, suspension)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "掛ける",
         "reading": "かける",
-        "meaning": "to hang up (e.g. a coat, a picture on the wall), to let hang, to suspend (from), to hoist (e.g. sail), to raise (e.g. flag), to put on (e.g. a blanket), to put on top of, to cover, to lay, to spread, to put on (glasses, etc.), to wear (a necklace, etc.), to make (a call), to spend (time, money), to expend, to use, to pour (liquid) onto, to sprinkle (powder or spices) onto, to splash, to throw (e.g. water) onto, to turn on (an engine, radio, etc.), to set (a dial, alarm clock, etc.), to put on (a DVD, song, etc.), to use (a device, implement, etc.), to cause (someone inconvenience, trouble, etc.), to burden (someone), to impose, to multiply (arithmetic operation), to secure (e.g. lock), to take a seat, to sit, to rest (something on something else), to support (something on something else), to bind, to wager, to bet, to risk, to stake, to gamble, to put an effect (spell, anaesthetic, etc.) on, to hold (a play, festival, etc.), to hold an emotion for (pity, hope, etc.), to argue (in court), to deliberate (in a meeting), to present (e.g. idea to a conference, etc.), to increase further, to catch (in a trap, etc.), to set atop, to erect (a makeshift building), to apply (insurance), to pun (on a word), to use (a word) as a pivot word, to play on words, to be partway doing ..., to begin (but not complete) ..., to be about to ..., to address (someone), to direct (something, to someone), to do (something, to someone)"
+        "meaning": "to hang up (e.g. a coat, a picture on the wall), to let hang, to suspend (from), to hoist (e.g. sail), to raise (e.g. flag), to put on (e.g. a blanket), to put on top of, to cover, to lay, to spread, to put on (glasses, etc.), to wear (a necklace, etc.), to make (a call), to spend (time, money), to expend, to use, to pour (liquid) onto, to sprinkle (powder or spices) onto, to splash, to throw (e.g. water) onto, to turn on (an engine, radio, etc.), to set (a dial, alarm clock, etc.), to put on (a DVD, song, etc.), to use (a device, implement, etc.), to cause (someone inconvenience, trouble, etc.), to burden (someone), to impose, to multiply (arithmetic operation), to secure (e.g. lock), to take a seat, to sit, to rest (something on something else), to support (something on something else), to bind, to wager, to bet, to risk, to stake, to gamble, to put an effect (spell, anaesthetic, etc.) on, to hold (a play, festival, etc.), to hold an emotion for (pity, hope, etc.), to argue (in court), to deliberate (in a meeting), to present (e.g. idea to a conference, etc.), to increase further, to catch (in a trap, etc.), to set atop, to erect (a makeshift building), to apply (insurance), to pun (on a word), to use (a word) as a pivot word, to play on words, to be partway doing ..., to begin (but not complete) ..., to be about to ..., to address (someone), to direct (something, to someone), to do (something, to someone) |(vi) treo lên (áo khoác, tranh trên tường...), thả treo, kéo (buồm), giương (cờ), phủ (chăn), đặt lên trên, trải, đeo (kính, dây chuyền...), gọi (điện thoại), tốn (thời gian, tiền bạc), rót (chất lỏng) lên, rắc (bột, gia vị) lên, bắn tóe, bật (động cơ, radio...), đặt (đồng hồ báo thức...), bật (DVD, bài hát...), sử dụng (thiết bị...), gây (phiền phức cho ai đó), áp đặt, nhân (phép toán), khóa (chặt), ngồi xuống, đặt cược, đánh cược, liều lĩnh, tác động phép thuật/gây mê lên, tổ chức (vở kịch, lễ hội...), giữ cảm xúc (thương xót, hy vọng...), tranh luận (tại tòa), thảo luận (trong cuộc họp), trình bày (ý tưởng), tăng thêm, bẫy (vào bẫy...), dựng (công trình tạm), áp dụng (bảo hiểm), chơi chữ, bắt đầu (nhưng chưa hoàn thành)..., sắp sửa..."
       },
       {
         "example": "掛け",
         "reading": "かけ",
-        "meaning": "credit, money owed on an account, bill, hanger, holder, rest, rack, peg, hook, stand, in the process of (doing), midway through, half-(done), on the verge of, just about to, hot noodles in broth, wholesale price as a proportion of the list price (in tenths)"
+        "meaning": "credit, money owed on an account, bill, hanger, holder, rest, rack, peg, hook, stand, in the process of (doing), midway through, half-(done), on the verge of, just about to, hot noodles in broth, wholesale price as a proportion of the list price (in tenths) |(vi) nợ, tiền còn nợ trên tài khoản, hóa đơn, móc treo, giá đỡ, giá treo, móc, đang trong quá trình (làm gì), giữa chừng, nửa chừng, sắp sửa, mì nóng trong nước dùng, giá bán buôn theo tỷ lệ phần mười so với giá niêm yết"
       },
       {
         "example": "掛け金",
         "reading": "かけきん",
-        "meaning": "installment, instalment, premium, bill"
+        "meaning": "installment, instalment, premium, bill |(vi) khoản trả góp, phí bảo hiểm, hóa đơn"
       },
       {
         "example": "切っ掛け",
         "reading": "きっかけ",
-        "meaning": "chance, start, cue, excuse, motive, impetus, occasion"
+        "meaning": "chance, start, cue, excuse, motive, impetus, occasion |(vi) cơ hội, khởi đầu, tín hiệu, cái cớ, động cơ, động lực, dịp"
       },
       {
         "example": "打ち掛け",
         "reading": "うちかけ",
-        "meaning": "women's bridal robe with trailing skirts worn over a kimono, ending play for the day, leaving a game unfinished (esp. Go)"
+        "meaning": "women's bridal robe with trailing skirts worn over a kimono, ending play for the day, leaving a game unfinished (esp. Go) |(vi) áo choàng cô dâu có vạt kéo lê mặc bên ngoài kimono, kết thúc ván chơi trong ngày, để dở ván cờ (đặc biệt cờ vây)"
       },
       {
         "example": "掛かる",
         "reading": "かかる",
-        "meaning": "to take (a resource, e.g. time or money), to hang, to come into view, to arrive, to come under (a contract, a tax), to start (engines, motors), to attend, to deal with, to handle, to have started to, to be on the verge of, to overlap (e.g. information in a manual), to cover, to (come) at, to be fastened, to be covered (e.g. with dust, a table-cloth, etc.), to be caught in, to get a call, to depend on, to begin (a task), to set about (doing), to get down to"
+        "meaning": "to take (a resource, e.g. time or money), to hang, to come into view, to arrive, to come under (a contract, a tax), to start (engines, motors), to attend, to deal with, to handle, to have started to, to be on the verge of, to overlap (e.g. information in a manual), to cover, to (come) at, to be fastened, to be covered (e.g. with dust, a table-cloth, etc.), to be caught in, to get a call, to depend on, to begin (a task), to set about (doing), to get down to |(vi) tốn (nguồn lực, vd. thời gian hoặc tiền bạc), treo, hiện ra, đến, chịu sự ràng buộc của (hợp đồng, thuế), khởi động (động cơ, máy móc), tham dự, xử lý, đối phó, đã bắt đầu, sắp sửa, chồng lên (vd. thông tin trong sách hướng dẫn), che phủ, được cố định, được phủ (vd. bụi, khăn trải bàn...), bị mắc vào, nhận cuộc gọi, phụ thuộc vào, bắt tay vào (làm)"
       },
       {
         "example": "掛かり",
         "reading": "かかり",
-        "meaning": "starting (e.g. of an engine), engaging (e.g. of a lock), expenses, costs, attack (esp. a corner approach), barb (of a fish hook), charge, duty, person in charge, official, clerk"
+        "meaning": "starting (e.g. of an engine), engaging (e.g. of a lock), expenses, costs, attack (esp. a corner approach), barb (of a fish hook), charge, duty, person in charge, official, clerk |(vi) khởi động (vd. động cơ), khóa (vd. ổ khóa), chi phí, tấn công (đặc biệt góc tiếp cận), ngạnh (lưỡi câu cá), trách nhiệm, nhiệm vụ, người phụ trách, viên chức, nhân viên"
       },
       {
         "example": "係員",
         "reading": "かかりいん",
-        "meaning": "person in charge, official, attendant"
+        "meaning": "person in charge, official, attendant |(vi) người phụ trách, viên chức, nhân viên"
       },
       {
         "example": "掛かり",
         "reading": "かかり",
-        "meaning": "starting (e.g. of an engine), engaging (e.g. of a lock), expenses, costs, attack (esp. a corner approach), barb (of a fish hook), charge, duty, person in charge, official, clerk"
+        "meaning": "starting (e.g. of an engine), engaging (e.g. of a lock), expenses, costs, attack (esp. a corner approach), barb (of a fish hook), charge, duty, person in charge, official, clerk |(vi) khởi động (vd. động cơ), khóa (vd. ổ khóa), chi phí, tấn công (đặc biệt góc tiếp cận), ngạnh (lưỡi câu cá), trách nhiệm, nhiệm vụ, người phụ trách, viên chức, nhân viên"
       },
       {
         "example": "係員",
         "reading": "かかりいん",
-        "meaning": "person in charge, official, attendant"
+        "meaning": "person in charge, official, attendant |(vi) người phụ trách, viên chức, nhân viên"
       }
     ],
     "radical": {
@@ -391,7 +391,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "卜",

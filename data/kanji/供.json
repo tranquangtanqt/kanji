@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "sona, tomo, sonae, sonaeru",
-    "meaning": "offer, accompany",
+    "meaning": "offer, accompany |(vi) cung cấp, dâng, đi cùng",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "試供品（しきょうひん）",
         "meaning": {
-          "english": "sample"
+          "english": "sample |(vi) hàng mẫu, mẫu thử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sona(eru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "提供する（ていきょうする）",
         "meaning": {
-          "english": "offer"
+          "english": "offer |(vi) cung cấp, đề xuất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sona(eru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "供給する（きょうきゅうする）",
         "meaning": {
-          "english": "supply"
+          "english": "supply |(vi) cung cấp, cấp phát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sona(eru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "供物（くもつ）",
         "meaning": {
-          "english": "offering (for Buddhist altar)"
+          "english": "offering (for Buddhist altar) |(vi) đồ cúng (trên bàn thờ Phật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sona(eru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "供養する（くようする）",
         "meaning": {
-          "english": "hold service for the deceased"
+          "english": "hold service for the deceased |(vi) làm lễ cầu siêu cho người đã khuất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sona(eru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "供える（そなえる）",
         "meaning": {
-          "english": "dedicate"
+          "english": "dedicate |(vi) dâng cúng, dâng lên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sona(eru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "お供する（おともする）",
         "meaning": {
-          "english": "keep company"
+          "english": "keep company |(vi) tháp tùng, đi cùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sona(eru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "子供（こども）",
         "meaning": {
-          "english": "child"
+          "english": "child |(vi) trẻ con, con cái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sona(eru)_06_h.opus",
@@ -230,7 +230,7 @@
     "kanji": {
       "character": "供",
       "meaning": {
-        "english": "offer, accompany"
+        "english": "offer, accompany |(vi) cung cấp, dâng, đi cùng"
       },
       "strokes": {
         "count": 8,
@@ -284,7 +284,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -305,7 +305,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "313",
     "strokeCount": 8,
-    "meaning": "submit, offer, present, serve (meal), accompany",
+    "meaning": "submit, offer, present, serve (meal), accompany |(vi) trình nộp, dâng, cung cấp, phục vụ (bữa ăn), đi cùng |(hv) Cung",
     "kunyomi": [
       "そな.える",
       "とも",
@@ -321,94 +321,94 @@
       {
         "example": "供述",
         "reading": "キョウジュツ",
-        "meaning": "affidavit, deposition, testimony"
+        "meaning": "affidavit, deposition, testimony |(vi) bản khai, lời khai, chứng từ"
       },
       {
         "example": "供給",
         "reading": "キョウキュウ",
-        "meaning": "supply, provision"
+        "meaning": "supply, provision |(vi) cung cấp, nguồn cung"
       },
       {
         "example": "情報提供",
         "reading": "ジョウホウテイキョウ",
-        "meaning": "provision of information"
+        "meaning": "provision of information |(vi) cung cấp thông tin"
       },
       {
         "example": "臓器提供",
         "reading": "ゾウキテイキョウ",
-        "meaning": "organ donation"
+        "meaning": "organ donation |(vi) hiến tạng"
       },
       {
         "example": "供養",
         "reading": "クヨウ",
-        "meaning": "memorial service for the dead, holding a service"
+        "meaning": "memorial service for the dead, holding a service |(vi) lễ cầu siêu cho người đã khuất, làm lễ tưởng niệm"
       },
       {
         "example": "供物",
         "reading": "クモツ",
-        "meaning": "offering (e.g. to the gods), votive offering"
+        "meaning": "offering (e.g. to the gods), votive offering |(vi) đồ cúng (ví dụ dâng thần linh), lễ vật"
       },
       {
         "example": "節句",
         "reading": "セック",
-        "meaning": "seasonal festival"
+        "meaning": "seasonal festival |(vi) lễ hội theo mùa"
       },
       {
         "example": "初節供",
         "reading": "ハツゼック",
-        "meaning": "baby's first annual festival"
+        "meaning": "baby's first annual festival |(vi) lễ hội thường niên đầu tiên của trẻ sơ sinh"
       },
       {
         "example": "供花",
         "reading": "キョウカ",
-        "meaning": "offering of flowers (at shrine, grave, etc.), floral tribute"
+        "meaning": "offering of flowers (at shrine, grave, etc.), floral tribute |(vi) dâng hoa (tại đền, mộ, v.v.), vòng hoa viếng"
       },
       {
         "example": "人身御供",
         "reading": "ヒトミゴクウ",
-        "meaning": "human sacrifice, victim"
+        "meaning": "human sacrifice, victim |(vi) vật hiến tế con người, nạn nhân bị hiến tế"
       },
       {
         "example": "供御",
         "reading": "クゴ",
-        "meaning": "emperor's meal"
+        "meaning": "emperor's meal |(vi) bữa ăn của thiên hoàng"
       },
       {
         "example": "供祭",
         "reading": "グサイ",
-        "meaning": "offerings, offerings and worship"
+        "meaning": "offerings, offerings and worship |(vi) lễ vật, dâng cúng và thờ phụng"
       },
       {
         "example": "内供",
         "reading": "ナイグ",
-        "meaning": "inner offerer (any of the 10 high-ranking monks serving at the inner offering hall)"
+        "meaning": "inner offerer (any of the 10 high-ranking monks serving at the inner offering hall) |(vi) nội cung phụng (một trong 10 vị cao tăng phục vụ tại điện dâng cúng nội cung)"
       },
       {
         "example": "応供",
         "reading": "オウグ",
-        "meaning": "arhat (meritorious person, esp. an epithet of Buddha)"
+        "meaning": "arhat (meritorious person, esp. an epithet of Buddha) |(vi) A-la-hán (bậc có công đức, đặc biệt là danh hiệu của Đức Phật)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "供える",
         "reading": "そなえる",
-        "meaning": "to offer, to sacrifice, to dedicate"
+        "meaning": "to offer, to sacrifice, to dedicate |(vi) dâng cúng, hiến tế, dâng hiến"
       },
       {
         "example": "供",
         "reading": "とも",
-        "meaning": "companion, follower, attendant, retinue"
+        "meaning": "companion, follower, attendant, retinue |(vi) bạn đồng hành, người theo hầu, tùy tùng, đoàn tùy tùng"
       },
       {
         "example": "共に",
         "reading": "ともに",
-        "meaning": "together, jointly, at the same time, with, as ..., including, along with, both"
+        "meaning": "together, jointly, at the same time, with, as ..., including, along with, both |(vi) cùng nhau, cùng, đồng thời, với, như là..., bao gồm, cùng với, cả hai"
       },
       {
         "example": "酒のお供",
         "reading": "さけのおとも",
-        "meaning": "appetizer or snack served with drinks, accompaniment to an (alcoholic) drink"
+        "meaning": "appetizer or snack served with drinks, accompaniment to an (alcoholic) drink |(vi) món khai vị hoặc đồ nhắm dùng kèm rượu"
       }
     ],
     "radical": {
@@ -416,7 +416,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "ハ",

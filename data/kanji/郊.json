@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "suburb, outskirts",
+    "meaning": "suburb, outskirts |(vi) ngoại ô, vùng ven",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "郊外（こうがい）",
         "meaning": {
-          "english": "suburb, outskirts"
+          "english": "suburb, outskirts |(vi) ngoại ô, vùng ven"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(gaijuutaku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "近郊（きんこう）",
         "meaning": {
-          "english": "suburbs, outskirts, neighboring"
+          "english": "suburbs, outskirts, neighboring |(vi) vùng lân cận, ngoại ô, vùng phụ cận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(gaijuutaku)_06_b.opus",
@@ -120,7 +120,7 @@
     "kanji": {
       "character": "郊",
       "meaning": {
-        "english": "suburb, outskirts"
+        "english": "suburb, outskirts |(vi) ngoại ô, vùng ven"
       },
       "strokes": {
         "count": 9,
@@ -176,7 +176,7 @@
         "romaji": "oozato"
       },
       "meaning": {
-        "english": "village, country, city"
+        "english": "village, country, city |(vi) Ấp (làng, thị trấn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/oozato0.svg",
@@ -197,7 +197,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1304",
     "strokeCount": 9,
-    "meaning": "outskirts, suburbs, rural area",
+    "meaning": "outskirts, suburbs, rural area |(vi) ngoại ô, vùng ven, vùng nông thôn |(hv) Giao",
     "kunyomi": [],
     "onyomi": [
       "コウ"
@@ -206,22 +206,22 @@
       {
         "example": "郊外",
         "reading": "コウガイ",
-        "meaning": "suburb, residential area on the outskirt of a city, commuter belt"
+        "meaning": "suburb, residential area on the outskirt of a city, commuter belt |(vi) ngoại ô, khu dân cư ven thành phố, vành đai người đi làm"
       },
       {
         "example": "郊外化",
         "reading": "コウガイカ",
-        "meaning": "suburbanization"
+        "meaning": "suburbanization |(vi) quá trình ngoại ô hóa"
       },
       {
         "example": "南郊",
         "reading": "ナンコウ",
-        "meaning": "southern suburbs"
+        "meaning": "southern suburbs |(vi) vùng ngoại ô phía nam"
       },
       {
         "example": "北郊",
         "reading": "ホッコウ",
-        "meaning": "northern suburbs"
+        "meaning": "northern suburbs |(vi) vùng ngoại ô phía bắc"
       }
     ],
     "kunyomiExamples": [],
@@ -230,7 +230,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "town (阝 right)"
+      "meaning": "town (阝 right) |(vi) Ấp (làng, thị trấn)"
     },
     "parts": [
       "亠",

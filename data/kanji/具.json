@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "implement, tool",
+    "meaning": "implement, tool |(vi) dụng cụ, công cụ",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "具（ぐ）",
         "meaning": {
-          "english": "ingredients"
+          "english": "ingredients |(vi) nguyên liệu, gia vị (thêm vào món ăn)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)gu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "道具（どうぐ）",
         "meaning": {
-          "english": "tool"
+          "english": "tool |(vi) dụng cụ, công cụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)gu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "家具（かぐ）",
         "meaning": {
-          "english": "furniture"
+          "english": "furniture |(vi) đồ nội thất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)gu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "文房具（ぶんぼうぐ）",
         "meaning": {
-          "english": "stationery"
+          "english": "stationery |(vi) văn phòng phẩm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)gu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "用具（ようぐ）",
         "meaning": {
-          "english": "tool"
+          "english": "tool |(vi) dụng cụ, đồ dùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)gu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "具合（ぐあい）",
         "meaning": {
-          "english": "condition [n.]"
+          "english": "condition [n.] |(vi) tình trạng, tình hình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)gu_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "具体的な（ぐたいてきな）",
         "meaning": {
-          "english": "concrete [adj.]"
+          "english": "concrete [adj.] |(vi) cụ thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)gu_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "具備する（ぐびする）",
         "meaning": {
-          "english": "be furnished/equipped with [v.t.]"
+          "english": "be furnished/equipped with [v.t.] |(vi) được trang bị đầy đủ, hội đủ điều kiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)gu_06_h.opus",
@@ -209,7 +209,7 @@
     "kanji": {
       "character": "具",
       "meaning": {
-        "english": "implement, tool"
+        "english": "implement, tool |(vi) dụng cụ, công cụ"
       },
       "strokes": {
         "count": 8,
@@ -263,7 +263,7 @@
         "romaji": "hachi"
       },
       "meaning": {
-        "english": "eight"
+        "english": "eight |(vi) Bát (số tám)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hachi0.svg",
@@ -284,7 +284,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "629",
     "strokeCount": 8,
-    "meaning": "tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture",
+    "meaning": "tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture |(vi) dụng cụ, đồ dùng, phương tiện, sở hữu, nguyên liệu, lượng từ đếm bộ áo giáp, bộ đồ nội thất |(hv) Cụ",
     "kunyomi": [
       "そな.える",
       "つぶさ.に"
@@ -296,39 +296,39 @@
       {
         "example": "具",
         "reading": "グ",
-        "meaning": "tool, means, ingredients (added to soup, rice, etc.), counter for sets of armor, utensils, furniture, etc."
+        "meaning": "tool, means, ingredients (added to soup, rice, etc.), counter for sets of armor, utensils, furniture, etc. |(vi) dụng cụ, phương tiện, nguyên liệu (thêm vào canh, cơm...), lượng từ đếm bộ áo giáp, đồ dùng, nội thất, v.v."
       },
       {
         "example": "具合",
         "reading": "グアイ",
-        "meaning": "condition, state, health, state (of health), way, manner, circumstance, luck, face, dignity, decency, propriety"
+        "meaning": "condition, state, health, state (of health), way, manner, circumstance, luck, face, dignity, decency, propriety |(vi) tình trạng, thể trạng, sức khỏe, cách thức, hoàn cảnh, vận may, thể diện, sự đứng đắn"
       },
       {
         "example": "文具",
         "reading": "ブング",
-        "meaning": "stationery"
+        "meaning": "stationery |(vi) văn phòng phẩm"
       },
       {
         "example": "金具",
         "reading": "カナグ",
-        "meaning": "metal fittings, metal fixtures"
+        "meaning": "metal fittings, metal fixtures |(vi) phụ kiện kim loại, chi tiết kim loại"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "備える",
         "reading": "そなえる",
-        "meaning": "to furnish with, to equip with, to provide, to install, to prepare for, to make preparations for, to make provision for, to possess (all that is needed), to be endowed with, to be equipped with, to be born with, to have since birth"
+        "meaning": "to furnish with, to equip with, to provide, to install, to prepare for, to make preparations for, to make provision for, to possess (all that is needed), to be endowed with, to be equipped with, to be born with, to have since birth |(vi) trang bị, chuẩn bị, sở hữu đầy đủ những gì cần thiết, bẩm sinh có sẵn"
       },
       {
         "example": "具に",
         "reading": "つぶさに",
-        "meaning": "in detail, with great care, completely, fully"
+        "meaning": "in detail, with great care, completely, fully |(vi) một cách chi tiết, tỉ mỉ, đầy đủ, hoàn toàn"
       }
     ],
     "radical": {
       "symbol": "八",
-      "meaning": "eight"
+      "meaning": "eight |(vi) Bát (số tám)"
     },
     "parts": [
       "ハ",

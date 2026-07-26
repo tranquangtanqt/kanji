@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "sa, saru",
-    "meaning": "go away, leave",
+    "meaning": "go away, leave |(vi) rời đi, đi khỏi",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "去年（きょねん）",
         "meaning": {
-          "english": "last year"
+          "english": "last year |(vi) năm ngoái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-sa(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "去来する（きょらいする）",
         "meaning": {
-          "english": "come and go"
+          "english": "come and go |(vi) đến và đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-sa(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "退去する（たいきょする）",
         "meaning": {
-          "english": "depart, leave"
+          "english": "depart, leave |(vi) rời đi, ra khỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-sa(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "死去する（しきょする）",
         "meaning": {
-          "english": "pass away, die"
+          "english": "pass away, die |(vi) qua đời, mất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-sa(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "過去（かこ）",
         "meaning": {
-          "english": "the past"
+          "english": "the past |(vi) quá khứ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-sa(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "去る（さる）",
         "meaning": {
-          "english": "leave, go away"
+          "english": "leave, go away |(vi) rời đi, ra đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-sa(ru)_06_f.opus",
@@ -230,7 +230,7 @@
     "kanji": {
       "character": "去",
       "meaning": {
-        "english": "go away, leave"
+        "english": "go away, leave |(vi) rời đi, đi khỏi"
       },
       "strokes": {
         "count": 5,
@@ -278,7 +278,7 @@
         "romaji": "mu"
       },
       "meaning": {
-        "english": "private, Katakana Mu"
+        "english": "private, Katakana Mu |(vi) Khư (riêng tư)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mu0.svg",
@@ -299,7 +299,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "440",
     "strokeCount": 5,
-    "meaning": "gone, past, quit, leave, elapse, eliminate, divorce",
+    "meaning": "gone, past, quit, leave, elapse, eliminate, divorce |(vi) đã qua, quá khứ, bỏ, rời đi, trôi qua, loại bỏ, ly hôn |(hv) Khứ",
     "kunyomi": [
       "さ.る",
       "-さ.る"
@@ -312,54 +312,54 @@
       {
         "example": "去年",
         "reading": "キョネン",
-        "meaning": "last year"
+        "meaning": "last year |(vi) năm ngoái"
       },
       {
         "example": "去就",
         "reading": "キョシュウ",
-        "meaning": "leaving or staying, (one's) course of action, (one's) position, (one's) attitude"
+        "meaning": "leaving or staying, (one's) course of action, (one's) position, (one's) attitude |(vi) ở lại hay ra đi, hướng hành động, lập trường, thái độ (của ai đó)"
       },
       {
         "example": "消去",
         "reading": "ショウキョ",
-        "meaning": "erasure, deletion, elimination, clearing, elimination (of variables), extinction"
+        "meaning": "erasure, deletion, elimination, clearing, elimination (of variables), extinction |(vi) sự xóa bỏ, loại bỏ, khử (biến số), tuyệt diệt"
       },
       {
         "example": "国外退去",
         "reading": "コクガイタイキョ",
-        "meaning": "deportation"
+        "meaning": "deportation |(vi) trục xuất khỏi nước"
       },
       {
         "example": "去年",
         "reading": "キョネン",
-        "meaning": "last year"
+        "meaning": "last year |(vi) năm ngoái"
       },
       {
         "example": "大過去",
         "reading": "ダイカコ",
-        "meaning": "past perfect tense, pluperfect"
+        "meaning": "past perfect tense, pluperfect |(vi) thì quá khứ hoàn thành"
       },
       {
         "example": "不定過去",
         "reading": "フテイカコ",
-        "meaning": "aorist tense (in Greek), past-perfective tense"
+        "meaning": "aorist tense (in Greek), past-perfective tense |(vi) thì aorist (trong tiếng Hy Lạp), thì quá khứ hoàn thành"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "去る",
         "reading": "さる",
-        "meaning": "to leave, to go away, to pass, to elapse, to be distant, to send away, to drive off, to divorce, to (do) completely, last ... (e.g. \"last April\")"
+        "meaning": "to leave, to go away, to pass, to elapse, to be distant, to send away, to drive off, to divorce, to (do) completely, last ... (e.g. \"last April\") |(vi) rời đi, ra đi, trôi qua, xa cách, đuổi đi, ly hôn, làm hoàn toàn, ... trước (ví dụ \"tháng Tư vừa qua\")"
       },
       {
         "example": "去る者追わず",
         "reading": "さるものおわず",
-        "meaning": "do not chase the one who leaves"
+        "meaning": "do not chase the one who leaves |(vi) không đuổi theo kẻ đã ra đi"
       }
     ],
     "radical": {
       "symbol": "厶",
-      "meaning": "private"
+      "meaning": "private |(vi) Khư (riêng tư)"
     },
     "parts": [
       "厶",

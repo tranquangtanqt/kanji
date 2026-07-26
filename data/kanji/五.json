@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "itsu, itsutsu",
-    "meaning": "five",
+    "meaning": "five |(vi) năm, số 5",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "五月（ごがつ）",
         "meaning": {
-          "english": "May"
+          "english": "May |(vi) tháng Năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "五時間（ごじかん）",
         "meaning": {
-          "english": "5 hours"
+          "english": "5 hours |(vi) 5 tiếng đồng hồ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "五階（ごかい）",
         "meaning": {
-          "english": "5th floor"
+          "english": "5th floor |(vi) tầng 5"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "五人（ごにん）",
         "meaning": {
-          "english": "5 people"
+          "english": "5 people |(vi) 5 người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "五つ（いつつ）",
         "meaning": {
-          "english": "5 (objects)"
+          "english": "5 (objects) |(vi) 5 (đồ vật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "五日（いつか）",
         "meaning": {
-          "english": "5 days, 5th of the month"
+          "english": "5 days, 5th of the month |(vi) 5 ngày, ngày 5 trong tháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_f.opus",
@@ -221,7 +221,7 @@
     "kanji": {
       "character": "五",
       "meaning": {
-        "english": "five"
+        "english": "five |(vi) năm, số 5"
       },
       "strokes": {
         "count": 4,
@@ -267,7 +267,7 @@
         "romaji": "ni"
       },
       "meaning": {
-        "english": "two"
+        "english": "two |(vi) Nhị (hai)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ni0.svg",
@@ -288,7 +288,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "31",
     "strokeCount": 4,
-    "meaning": "five",
+    "meaning": "five |(vi) năm, số 5 |(hv) Ngũ",
     "kunyomi": [
       "いつ",
       "いつ.つ"
@@ -300,49 +300,49 @@
       {
         "example": "五",
         "reading": "ゴ",
-        "meaning": "five, 5"
+        "meaning": "five, 5 |(vi) năm, số 5"
       },
       {
         "example": "５月",
         "reading": "ゴガツ",
-        "meaning": "May, fifth month of the lunar calendar"
+        "meaning": "May, fifth month of the lunar calendar |(vi) tháng Năm, tháng 5 âm lịch"
       },
       {
         "example": "端午",
         "reading": "タンゴ",
-        "meaning": "Boys' Day celebration (May 5), Dragon Boat Festival (China)"
+        "meaning": "Boys' Day celebration (May 5), Dragon Boat Festival (China) |(vi) lễ Tết Đoan Ngọ (mùng 5 tháng 5), Tết Thiếu nhi Nhật Bản"
       },
       {
         "example": "第五",
         "reading": "ダイゴ",
-        "meaning": "fifth"
+        "meaning": "fifth |(vi) thứ năm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "五",
         "reading": "ご",
-        "meaning": "five, 5"
+        "meaning": "five, 5 |(vi) năm, số 5"
       },
       {
         "example": "五つ",
         "reading": "いつつ",
-        "meaning": "five, five years of age, eight o'clock (old time system)"
+        "meaning": "five, five years of age, eight o'clock (old time system) |(vi) năm (số đếm), 5 tuổi, 8 giờ (theo hệ thời gian cổ)"
       },
       {
         "example": "五つ",
         "reading": "いつつ",
-        "meaning": "five, five years of age, eight o'clock (old time system)"
+        "meaning": "five, five years of age, eight o'clock (old time system) |(vi) năm (số đếm), 5 tuổi, 8 giờ (theo hệ thời gian cổ)"
       },
       {
         "example": "五つ子",
         "reading": "いつつご",
-        "meaning": "quintuplets"
+        "meaning": "quintuplets |(vi) sinh năm"
       }
     ],
     "radical": {
       "symbol": "二",
-      "meaning": "two"
+      "meaning": "two |(vi) Nhị (hai)"
     },
     "parts": [
       "五"

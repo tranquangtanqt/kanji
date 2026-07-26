@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "kata, katai",
-    "meaning": "hard, firm",
+    "meaning": "hard, firm |(vi) cứng, rắn chắc",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "硬度（こうど）",
         "meaning": {
-          "english": "hardness, solidity"
+          "english": "hardness, solidity |(vi) độ cứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kata(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "硬貨（こうか）",
         "meaning": {
-          "english": "coin"
+          "english": "coin |(vi) tiền xu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kata(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "硬派（こうは）",
         "meaning": {
-          "english": "hard-liner"
+          "english": "hard-liner |(vi) phái cứng rắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kata(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "硬式テニス（こうしきテニス）",
         "meaning": {
-          "english": "tennis (using standard ball)"
+          "english": "tennis (using standard ball) |(vi) quần vợt (dùng bóng cứng tiêu chuẩn)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kata(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "強硬な（きょうこうな）",
         "meaning": {
-          "english": "firm, unbending, unyielding"
+          "english": "firm, unbending, unyielding |(vi) cứng rắn, không khoan nhượng, không lay chuyển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kata(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "硬直する（こうちょくする）",
         "meaning": {
-          "english": "stiffen"
+          "english": "stiffen |(vi) cứng lại, tê cứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kata(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "硬化する（こうかする）",
         "meaning": {
-          "english": "stiffen, harden, go solid"
+          "english": "stiffen, harden, go solid |(vi) cứng lại, đông cứng, hóa rắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kata(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "硬い（かたい）",
         "meaning": {
-          "english": "solid, hard, stiff, firm"
+          "english": "solid, hard, stiff, firm |(vi) rắn, cứng, chắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kata(i)_06_h.opus",
@@ -196,7 +196,7 @@
     "kanji": {
       "character": "硬",
       "meaning": {
-        "english": "hard, firm"
+        "english": "hard, firm |(vi) cứng, rắn chắc"
       },
       "strokes": {
         "count": 12,
@@ -258,7 +258,7 @@
         "romaji": "ishihen"
       },
       "meaning": {
-        "english": "stone"
+        "english": "stone |(vi) Thạch (đá)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ishihen0.svg",
@@ -279,7 +279,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1101",
     "strokeCount": 12,
-    "meaning": "stiff, hard",
+    "meaning": "stiff, hard |(vi) cứng, rắn |(hv) Ngạnh",
     "kunyomi": [
       "かた.い"
     ],
@@ -290,39 +290,39 @@
       {
         "example": "硬",
         "reading": "コウ",
-        "meaning": "hardness"
+        "meaning": "hardness |(vi) độ cứng"
       },
       {
         "example": "硬貨",
         "reading": "コウカ",
-        "meaning": "coin, hard currency"
+        "meaning": "coin, hard currency |(vi) tiền xu, tiền cứng"
       },
       {
         "example": "生硬",
         "reading": "セイコウ",
-        "meaning": "crude, immature, unpolished"
+        "meaning": "crude, immature, unpolished |(vi) thô sơ, non nớt, chưa trau chuốt"
       },
       {
         "example": "重硬",
         "reading": "ジュウコウ",
-        "meaning": "heavy and hard (of a wood)"
+        "meaning": "heavy and hard (of a wood) |(vi) nặng và cứng (của gỗ)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "硬い",
         "reading": "かたい",
-        "meaning": "hard, solid, tough, stiff, tight, wooden, unpolished (e.g. writing), strong, firm (not viscous or easily moved), safe, steady, honest, steadfast, obstinate, stubborn, bookish, formal, stuffy"
+        "meaning": "hard, solid, tough, stiff, tight, wooden, unpolished (e.g. writing), strong, firm (not viscous or easily moved), safe, steady, honest, steadfast, obstinate, stubborn, bookish, formal, stuffy |(vi) cứng, rắn, chắc, khô cứng, gỗ (văn phong), khỏe, vững (không loãng hay dễ lay), an toàn, ổn định, thật thà, kiên định, ngoan cố, bảo thủ, cứng nhắc, trang trọng, tù túng"
       },
       {
         "example": "かたいことは言いっこなし",
         "reading": "かたいことはいいっこなし",
-        "meaning": "let's put formalities aside, let's not speak so stiffly"
+        "meaning": "let's put formalities aside, let's not speak so stiffly |(vi) thôi bỏ khách sáo đi, đừng nói cứng nhắc thế"
       }
     ],
     "radical": {
       "symbol": "石",
-      "meaning": "stone"
+      "meaning": "stone |(vi) Thạch (đá)"
     },
     "parts": [
       "ノ",

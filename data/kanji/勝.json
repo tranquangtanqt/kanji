@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "ka, katsu, kachi, masa, masaru",
-    "meaning": "win, excel, be superior",
+    "meaning": "win, excel, be superior |(vi) chiến thắng, vượt trội, ưu việt",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "勝者（しょうしゃ）",
         "meaning": {
-          "english": "winner, victor"
+          "english": "winner, victor |(vi) người chiến thắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "勝利（しょうり）",
         "meaning": {
-          "english": "victory, triumph"
+          "english": "victory, triumph |(vi) chiến thắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "勝敗（しょうはい）",
         "meaning": {
-          "english": "victory or defeat"
+          "english": "victory or defeat |(vi) thắng bại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "決勝戦（けっしょうせん）",
         "meaning": {
-          "english": "finals game of a tournament"
+          "english": "finals game of a tournament |(vi) trận chung kết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "二勝三敗（にしょうさんぱい）",
         "meaning": {
-          "english": "two victories & three defeats"
+          "english": "two victories & three defeats |(vi) hai thắng ba thua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "勝負する（しょうぶする）",
         "meaning": {
-          "english": "play, fight, contest [v.i.]"
+          "english": "play, fight, contest [v.i.] |(vi) thi đấu, đấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "優勝する（ゆうしょうする）",
         "meaning": {
-          "english": "win a championship [v.i.]"
+          "english": "win a championship [v.i.] |(vi) vô địch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "連勝する（れんしょうする）",
         "meaning": {
-          "english": "win consecutively [v.i.]"
+          "english": "win consecutively [v.i.] |(vi) thắng liên tiếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "勝つ（かつ）",
         "meaning": {
-          "english": "win, gain victory [v.i.]"
+          "english": "win, gain victory [v.i.] |(vi) thắng, giành chiến thắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "勝手な（かってな）",
         "meaning": {
-          "english": "selfish"
+          "english": "selfish |(vi) ích kỷ, tùy tiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "勝る（まさる）",
         "meaning": {
-          "english": "excel, surpass, outrival"
+          "english": "excel, surpass, outrival |(vi) vượt trội, hơn hẳn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "男勝り（おとこまさり）",
         "meaning": {
-          "english": "strong-minded, manly"
+          "english": "strong-minded, manly |(vi) mạnh mẽ, có khí chất hơn cả đàn ông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_l.opus",
@@ -269,7 +269,7 @@
     "kanji": {
       "character": "勝",
       "meaning": {
-        "english": "win, excel, be superior"
+        "english": "win, excel, be superior |(vi) chiến thắng, vượt trội, ưu việt"
       },
       "strokes": {
         "count": 12,
@@ -331,7 +331,7 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power |(vi) Lực (sức mạnh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -352,7 +352,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "185",
     "strokeCount": 12,
-    "meaning": "victory, win, prevail, excel",
+    "meaning": "victory, win, prevail, excel |(vi) chiến thắng, thắng, áp đảo, vượt trội |(hv) Thắng",
     "kunyomi": [
       "か.つ",
       "-が.ち",
@@ -367,74 +367,74 @@
       {
         "example": "勝",
         "reading": "ショウ",
-        "meaning": "win, victory, beautiful scenery, scenic spot, counter for wins"
+        "meaning": "win, victory, beautiful scenery, scenic spot, counter for wins |(vi) thắng, chiến thắng, cảnh đẹp, danh lam thắng cảnh, lượng từ đếm số trận thắng"
       },
       {
         "example": "勝因",
         "reading": "ショウイン",
-        "meaning": "cause of victory, reason for (one's) success"
+        "meaning": "cause of victory, reason for (one's) success |(vi) nguyên nhân chiến thắng, lý do thành công"
       },
       {
         "example": "必勝",
         "reading": "ヒッショウ",
-        "meaning": "certain victory"
+        "meaning": "certain victory |(vi) chắc chắn thắng, tất thắng"
       },
       {
         "example": "快勝",
         "reading": "カイショウ",
-        "meaning": "sweeping victory, easy victory"
+        "meaning": "sweeping victory, easy victory |(vi) thắng lớn, thắng dễ dàng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "勝つ",
         "reading": "かつ",
-        "meaning": "to win, to gain victory"
+        "meaning": "to win, to gain victory |(vi) thắng, giành chiến thắng"
       },
       {
         "example": "褐色",
         "reading": "かちいろ",
-        "meaning": "dark indigo (almost black)"
+        "meaning": "dark indigo (almost black) |(vi) màu chàm sẫm (gần đen)"
       },
       {
         "example": "ドン勝",
         "reading": "ドンかつ",
-        "meaning": "winning a match, coming in first, victory"
+        "meaning": "winning a match, coming in first, victory |(vi) thắng trận, về nhất, chiến thắng"
       },
       {
         "example": "勝る",
         "reading": "まさる",
-        "meaning": "to excel, to surpass, to exceed, to have an edge, to be superior, to outrival, to outweigh, to preponderate"
+        "meaning": "to excel, to surpass, to exceed, to have an edge, to be superior, to outrival, to outweigh, to preponderate |(vi) vượt trội, hơn hẳn, ưu thế hơn, áp đảo"
       },
       {
         "example": "優るとも劣らない",
         "reading": "まさるともおとらない",
-        "meaning": "not at all inferior to, rival or surpass, compare favorably (with)"
+        "meaning": "not at all inferior to, rival or surpass, compare favorably (with) |(vi) không hề thua kém, ngang bằng hoặc hơn"
       },
       {
         "example": "優れる",
         "reading": "すぐれる",
-        "meaning": "to be better (than), to be superior, to surpass, to excel, to be excellent"
+        "meaning": "to be better (than), to be superior, to surpass, to excel, to be excellent |(vi) tốt hơn, ưu việt, vượt trội, xuất sắc"
       },
       {
         "example": "勝つ",
         "reading": "かつ",
-        "meaning": "to win, to gain victory"
+        "meaning": "to win, to gain victory |(vi) thắng, giành chiến thắng"
       },
       {
         "example": "褐色",
         "reading": "かちいろ",
-        "meaning": "dark indigo (almost black)"
+        "meaning": "dark indigo (almost black) |(vi) màu chàm sẫm (gần đen)"
       },
       {
         "example": "ドン勝",
         "reading": "ドンかつ",
-        "meaning": "winning a match, coming in first, victory"
+        "meaning": "winning a match, coming in first, victory |(vi) thắng trận, về nhất, chiến thắng"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": "power, force |(vi) Lực (sức mạnh)"
     },
     "parts": [
       "二",

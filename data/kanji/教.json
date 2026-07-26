@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "oshi, oso, oshieru, osowaru",
-    "meaning": "teach, religion",
+    "meaning": "teach, religion |(vi) dạy, tôn giáo",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "教育する（きょういくする）",
         "meaning": {
-          "english": "educate"
+          "english": "educate |(vi) giáo dục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "教授（きょうじゅ）",
         "meaning": {
-          "english": "teaching, professor"
+          "english": "teaching, professor |(vi) giảng dạy, giáo sư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "教師（きょうし）",
         "meaning": {
-          "english": "teacher"
+          "english": "teacher |(vi) giáo viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "教室（きょうしつ）",
         "meaning": {
-          "english": "classroom"
+          "english": "classroom |(vi) lớp học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "教科書（きょうかしょ）",
         "meaning": {
-          "english": "text book"
+          "english": "text book |(vi) sách giáo khoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "教養（きょうよう）",
         "meaning": {
-          "english": "cultivation, culture"
+          "english": "cultivation, culture |(vi) sự tu dưỡng, văn hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "教会（きょうかい）",
         "meaning": {
-          "english": "church"
+          "english": "church |(vi) nhà thờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "宗教（しゅうきょう）",
         "meaning": {
-          "english": "religion"
+          "english": "religion |(vi) tôn giáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "仏教（ぶっきょう）",
         "meaning": {
-          "english": "Buddhism"
+          "english": "Buddhism |(vi) Phật giáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "教える（おしえる）",
         "meaning": {
-          "english": "teach, inform [v.t.]"
+          "english": "teach, inform [v.t.] |(vi) dạy, chỉ bảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "教わる（おそわる）",
         "meaning": {
-          "english": "be taught [v.i.]"
+          "english": "be taught [v.i.] |(vi) được dạy, được học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_k.opus",
@@ -310,7 +310,7 @@
     "kanji": {
       "character": "教",
       "meaning": {
-        "english": "teach, religion"
+        "english": "teach, religion |(vi) dạy, tôn giáo"
       },
       "strokes": {
         "count": 11,
@@ -370,7 +370,7 @@
         "romaji": "bokuzukuri"
       },
       "meaning": {
-        "english": "activity, to strike, hit"
+        "english": "activity, to strike, hit |(vi) Phộc (đánh nhẹ, gõ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/bokuzukuri0.svg",
@@ -391,7 +391,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "166",
     "strokeCount": 11,
-    "meaning": "teach, faith, doctrine",
+    "meaning": "teach, faith, doctrine |(vi) dạy, đức tin, giáo lý |(hv) Giáo",
     "kunyomi": [
       "おし.える",
       "おそ.わる"
@@ -403,34 +403,34 @@
       {
         "example": "教育委員会",
         "reading": "キョウイクイインカイ",
-        "meaning": "Board of Education"
+        "meaning": "Board of Education |(vi) hội đồng giáo dục, ủy ban giáo dục"
       },
       {
         "example": "教育",
         "reading": "キョウイク",
-        "meaning": "education, schooling, training, instruction, teaching, upbringing, culture, cultivation, education"
+        "meaning": "education, schooling, training, instruction, teaching, upbringing, culture, cultivation, education |(vi) giáo dục, sự đào tạo, sự dạy dỗ, sự giáo dưỡng"
       },
       {
         "example": "政教",
         "reading": "セイキョウ",
-        "meaning": "religion and politics, church and state"
+        "meaning": "religion and politics, church and state |(vi) tôn giáo và chính trị, giáo hội và nhà nước"
       },
       {
         "example": "正教",
         "reading": "セイキョウ",
-        "meaning": "orthodoxy, (Greek) orthodox church"
+        "meaning": "orthodoxy, (Greek) orthodox church |(vi) chính thống giáo, giáo hội chính thống (Hy Lạp)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "教える",
         "reading": "おしえる",
-        "meaning": "to teach, to instruct, to tell, to inform, to show, to preach"
+        "meaning": "to teach, to instruct, to tell, to inform, to show, to preach |(vi) dạy, chỉ dẫn, kể cho biết, thông báo, chỉ cho thấy, thuyết giảng"
       },
       {
         "example": "教わる",
         "reading": "おそわる",
-        "meaning": "to be taught, to learn, to take lessons in"
+        "meaning": "to be taught, to learn, to take lessons in |(vi) được dạy, học được, học lấy"
       }
     ],
     "radical": {
@@ -438,7 +438,7 @@
       "forms": [
         "攵"
       ],
-      "meaning": "rap"
+      "meaning": "rap |(vi) Phộc (đánh nhẹ, gõ)"
     },
     "parts": [
       "乞",

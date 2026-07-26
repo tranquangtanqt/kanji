@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "general, approximate",
+    "meaning": "general, approximate |(vi) khái quát, gần đúng",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "概論（がいろん）",
         "meaning": {
-          "english": "intro, outline, general remarks"
+          "english": "intro, outline, general remarks |(vi) khái luận, tổng quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gai(nen)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "概念（がいねん）",
         "meaning": {
-          "english": "general idea, concept, notion"
+          "english": "general idea, concept, notion |(vi) khái niệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gai(nen)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "概略（がいりゃく）",
         "meaning": {
-          "english": "outline, summary, gist"
+          "english": "outline, summary, gist |(vi) sơ lược, tóm tắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gai(nen)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "概況（がいきょう）",
         "meaning": {
-          "english": "outlook, general situation"
+          "english": "outlook, general situation |(vi) tình hình chung, khái quát tình hình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gai(nen)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "概要（がいよう）",
         "meaning": {
-          "english": "outline, summary"
+          "english": "outline, summary |(vi) tóm tắt, tổng quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gai(nen)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "一概に（いちがいに）",
         "meaning": {
-          "english": "unconditionally, as a rule"
+          "english": "unconditionally, as a rule |(vi) nói chung, theo nguyên tắc chung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gai(nen)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "概算する（がいさんする）",
         "meaning": {
-          "english": "approximate, estimate"
+          "english": "approximate, estimate |(vi) ước tính, tính gần đúng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gai(nen)_06_g.opus",
@@ -191,7 +191,7 @@
     "kanji": {
       "character": "概",
       "meaning": {
-        "english": "general, approximate"
+        "english": "general, approximate |(vi) khái quát, gần đúng"
       },
       "strokes": {
         "count": 14,
@@ -257,7 +257,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -278,7 +278,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1335",
     "strokeCount": 14,
-    "meaning": "outline, condition, approximation, generally",
+    "meaning": "outline, condition, approximation, generally |(vi) sơ lược, tình trạng, ước lượng, nói chung |(hv) Khái",
     "kunyomi": [
       "おおむ.ね"
     ],
@@ -289,34 +289,34 @@
       {
         "example": "概",
         "reading": "ガイ",
-        "meaning": "appearance, look, aspect, strong spirit, mettle"
+        "meaning": "appearance, look, aspect, strong spirit, mettle |(vi) diện mạo, dáng vẻ, khí phách, bản lĩnh"
       },
       {
         "example": "概算",
         "reading": "ガイサン",
-        "meaning": "approximation, rough estimate, ballpark figure"
+        "meaning": "approximation, rough estimate, ballpark figure |(vi) ước tính, con số ước lượng"
       },
       {
         "example": "感慨",
         "reading": "カンガイ",
-        "meaning": "deep emotion, strong feelings"
+        "meaning": "deep emotion, strong feelings |(vi) cảm xúc sâu sắc, cảm khái"
       },
       {
         "example": "気概",
         "reading": "キガイ",
-        "meaning": "strong spirit, mettle, backbone, guts, fighting spirit"
+        "meaning": "strong spirit, mettle, backbone, guts, fighting spirit |(vi) khí phách, bản lĩnh, tinh thần chiến đấu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "概ね",
         "reading": "おおむね",
-        "meaning": "in general, generally, mostly, roughly, largely, mainly, on the whole, by and large, gist, point, main idea"
+        "meaning": "in general, generally, mostly, roughly, largely, mainly, on the whole, by and large, gist, point, main idea |(vi) nói chung, phần lớn, đại khái, chủ yếu, nhìn chung, ý chính"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "木",

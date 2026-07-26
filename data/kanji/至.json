@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "ita, itaru",
-    "meaning": "come to, arrive, lead to",
+    "meaning": "come to, arrive, lead to |(vi) đến, tới, đưa đến",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "至急（しきゅう）",
         "meaning": {
-          "english": "urgent, pressing"
+          "english": "urgent, pressing |(vi) khẩn cấp, gấp gáp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ita(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "至上（しじょう）",
         "meaning": {
-          "english": "supremacy"
+          "english": "supremacy |(vi) tối cao, tối thượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ita(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "至難（しなん）",
         "meaning": {
-          "english": "most difficult, next to impossible"
+          "english": "most difficult, next to impossible |(vi) cực kỳ khó, gần như bất khả thi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ita(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "至極（しごく）",
         "meaning": {
-          "english": "very, extremely, exceedingly"
+          "english": "very, extremely, exceedingly |(vi) rất, cực kỳ, hết sức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ita(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "夏至（げし）",
         "meaning": {
-          "english": "summer solstice"
+          "english": "summer solstice |(vi) hạ chí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ita(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "冬至（とうじ）",
         "meaning": {
-          "english": "winter solstice"
+          "english": "winter solstice |(vi) đông chí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ita(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "必至（ひっし）",
         "meaning": {
-          "english": "inevitable, desperate"
+          "english": "inevitable, desperate |(vi) tất yếu, không tránh khỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ita(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "至る（いたる）",
         "meaning": {
-          "english": "come, arrive"
+          "english": "come, arrive |(vi) đến, tới nơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ita(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "至る所（いたるところ）",
         "meaning": {
-          "english": "everywhere"
+          "english": "everywhere |(vi) khắp nơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ita(ru)_06_i.opus",
@@ -208,7 +208,7 @@
     "kanji": {
       "character": "至",
       "meaning": {
-        "english": "come to, arrive, lead to"
+        "english": "come to, arrive, lead to |(vi) đến, tới, đưa đến"
       },
       "strokes": {
         "count": 6,
@@ -258,7 +258,7 @@
         "romaji": "itaru"
       },
       "meaning": {
-        "english": "to arrive, reach"
+        "english": "to arrive, reach |(vi) Chí (đến, tới nơi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itaru0.svg",
@@ -279,7 +279,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "996",
     "strokeCount": 6,
-    "meaning": "climax, arrive, proceed, reach, attain, result in",
+    "meaning": "climax, arrive, proceed, reach, attain, result in |(vi) đỉnh điểm, đến, tiến tới, đạt tới, dẫn đến |(hv) Chí",
     "kunyomi": [
       "いた.る"
     ],
@@ -290,39 +290,39 @@
       {
         "example": "至",
         "reading": "シ",
-        "meaning": "to (a place), until (a time)"
+        "meaning": "to (a place), until (a time) |(vi) đến (một nơi), cho đến (một thời điểm)"
       },
       {
         "example": "至上",
         "reading": "シジョウ",
-        "meaning": "supremacy"
+        "meaning": "supremacy |(vi) tối cao, tối thượng"
       },
       {
         "example": "必至",
         "reading": "ヒッシ",
-        "meaning": "inevitable, necessary, foregone, brinkmate (inevitable checkmate)"
+        "meaning": "inevitable, necessary, foregone, brinkmate (inevitable checkmate) |(vi) tất yếu, không thể tránh khỏi"
       },
       {
         "example": "夏至",
         "reading": "ゲシ",
-        "meaning": "summer solstice"
+        "meaning": "summer solstice |(vi) hạ chí"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "至る",
         "reading": "いたる",
-        "meaning": "to arrive at (e.g. a decision), to reach (a stage), to attain, to lead to (a place), to get to, in the extreme case of, to come, to arrive, to result in"
+        "meaning": "to arrive at (e.g. a decision), to reach (a stage), to attain, to lead to (a place), to get to, in the extreme case of, to come, to arrive, to result in |(vi) đi đến (quyết định), đạt đến (giai đoạn), dẫn đến (một nơi), đến, tới, dẫn đến kết quả"
       },
       {
         "example": "至る所",
         "reading": "いたるところ",
-        "meaning": "everywhere, all over, throughout"
+        "meaning": "everywhere, all over, throughout |(vi) khắp nơi, khắp chốn"
       }
     ],
     "radical": {
       "symbol": "至",
-      "meaning": "arrive"
+      "meaning": "arrive |(vi) Chí (đến, tới nơi)"
     },
     "parts": [
       "一",

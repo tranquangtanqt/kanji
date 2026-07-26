@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "visitor, customer, guest",
+    "meaning": "visitor, customer, guest |(vi) khách, khách hàng, khách viếng thăm",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "客（きゃく）",
         "meaning": {
-          "english": "guest, customer"
+          "english": "guest, customer |(vi) khách, khách hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(rai)kyaku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "客席（きゃくせき）",
         "meaning": {
-          "english": "seat (e.g. theater)"
+          "english": "seat (e.g. theater) |(vi) chỗ ngồi (rạp hát, v.v.)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(rai)kyaku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "来客（らいきゃく）",
         "meaning": {
-          "english": "visitor"
+          "english": "visitor |(vi) khách viếng thăm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(rai)kyaku_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "乗客（じょうきゃく）",
         "meaning": {
-          "english": "passenger"
+          "english": "passenger |(vi) hành khách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(rai)kyaku_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "観光客（かんこうきゃく）",
         "meaning": {
-          "english": "tourist"
+          "english": "tourist |(vi) khách du lịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(rai)kyaku_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "客観的な（きゃっかんてきな）",
         "meaning": {
-          "english": "objective [adj.]"
+          "english": "objective [adj.] |(vi) khách quan [tính từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(rai)kyaku_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "刺客（しかく）",
         "meaning": {
-          "english": "assassin"
+          "english": "assassin |(vi) sát thủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(rai)kyaku_06_g.opus",
@@ -240,7 +240,7 @@
     "kanji": {
       "character": "客",
       "meaning": {
-        "english": "visitor, customer, guest"
+        "english": "visitor, customer, guest |(vi) khách, khách hàng, khách viếng thăm"
       },
       "strokes": {
         "count": 9,
@@ -296,7 +296,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -317,7 +317,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "557",
     "strokeCount": 9,
-    "meaning": "guest, visitor, customer, client",
+    "meaning": "guest, visitor, customer, client |(vi) khách, người đến thăm, khách hàng, thân chủ |(hv) Khách",
     "kunyomi": [],
     "onyomi": [
       "キャク",
@@ -327,48 +327,48 @@
       {
         "example": "客",
         "reading": "キャク",
-        "meaning": "guest, visitor, customer, client, shopper, spectator, audience, tourist, sightseer, passenger, counter for containers used to entertain guests"
+        "meaning": "guest, visitor, customer, client, shopper, spectator, audience, tourist, sightseer, passenger, counter for containers used to entertain guests |(vi) khách, người đến thăm, khách hàng, người mua sắm, khán giả, khách du lịch, hành khách, từ đếm số bộ dụng cụ tiếp khách"
       },
       {
         "example": "客足",
         "reading": "キャクアシ",
-        "meaning": "customer traffic, customers, custom"
+        "meaning": "customer traffic, customers, custom |(vi) lượng khách, khách hàng thường xuyên"
       },
       {
         "example": "論客",
         "reading": "ロンキャク",
-        "meaning": "controversialist, polemic, disputant"
+        "meaning": "controversialist, polemic, disputant |(vi) người hay tranh luận, người thích tranh cãi"
       },
       {
         "example": "賓客",
         "reading": "ヒンキャク",
-        "meaning": "guest of honour, guest of honor, privileged guest, visitor"
+        "meaning": "guest of honour, guest of honor, privileged guest, visitor |(vi) khách quý, khách danh dự"
       },
       {
         "example": "客",
         "reading": "キャク",
-        "meaning": "guest, visitor, customer, client, shopper, spectator, audience, tourist, sightseer, passenger, counter for containers used to entertain guests"
+        "meaning": "guest, visitor, customer, client, shopper, spectator, audience, tourist, sightseer, passenger, counter for containers used to entertain guests |(vi) khách, người đến thăm, khách hàng, người mua sắm, khán giả, khách du lịch, hành khách, từ đếm số bộ dụng cụ tiếp khách"
       },
       {
         "example": "客員",
         "reading": "キャクイン",
-        "meaning": "guest member, associate member, honorary member"
+        "meaning": "guest member, associate member, honorary member |(vi) hội viên danh dự, thành viên khách mời"
       },
       {
         "example": "論客",
         "reading": "ロンキャク",
-        "meaning": "controversialist, polemic, disputant"
+        "meaning": "controversialist, polemic, disputant |(vi) người hay tranh luận, người thích tranh cãi"
       },
       {
         "example": "賓客",
         "reading": "ヒンキャク",
-        "meaning": "guest of honour, guest of honor, privileged guest, visitor"
+        "meaning": "guest of honour, guest of honor, privileged guest, visitor |(vi) khách quý, khách danh dự"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà)"
     },
     "parts": [
       "口",

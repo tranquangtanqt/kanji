@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ino, inoru, inori",
-    "meaning": "pray",
+    "meaning": "pray |(vi) cầu nguyện",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "祈祷（きとう）",
         "meaning": {
-          "english": "prayer"
+          "english": "prayer |(vi) lễ cầu nguyện, cầu khấn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ino(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "祈願する（きがんする）",
         "meaning": {
-          "english": "pray"
+          "english": "pray |(vi) cầu nguyện, cầu xin"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ino(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "祈る（いのる）",
         "meaning": {
-          "english": "pray, wish, hope"
+          "english": "pray, wish, hope |(vi) cầu nguyện, ước mong, hy vọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ino(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "祈り（いのり）",
         "meaning": {
-          "english": "prayer"
+          "english": "prayer |(vi) lời cầu nguyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ino(ru)_06_d.opus",
@@ -156,7 +156,7 @@
     "kanji": {
       "character": "祈",
       "meaning": {
-        "english": "pray"
+        "english": "pray |(vi) cầu nguyện"
       },
       "strokes": {
         "count": 8,
@@ -210,7 +210,7 @@
         "romaji": "shimesuhen"
       },
       "meaning": {
-        "english": "altar, festival, religious service"
+        "english": "altar, festival, religious service |(vi) Thị (bàn thờ, điềm báo)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shimesuhen0.svg",
@@ -231,7 +231,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1462",
     "strokeCount": 8,
-    "meaning": "pray, wish",
+    "meaning": "pray, wish |(vi) cầu nguyện, ước mong |(hv) Kỳ",
     "kunyomi": [
       "いの.る"
     ],
@@ -242,19 +242,19 @@
       {
         "example": "祈念",
         "reading": "キネン",
-        "meaning": "prayer"
+        "meaning": "prayer |(vi) cầu nguyện, cầu khấn"
       },
       {
         "example": "祈願",
         "reading": "キガン",
-        "meaning": "prayer (for something), supplication"
+        "meaning": "prayer (for something), supplication |(vi) cầu nguyện (cho điều gì), khẩn cầu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "祈る",
         "reading": "いのる",
-        "meaning": "to pray, to say a prayer, to say grace, to wish, to hope"
+        "meaning": "to pray, to say a prayer, to say grace, to wish, to hope |(vi) cầu nguyện, đọc lời cầu nguyện, tạ ơn trước bữa ăn, ước mong, hy vọng"
       }
     ],
     "radical": {
@@ -262,7 +262,7 @@
       "forms": [
         "礻"
       ],
-      "meaning": "sign"
+      "meaning": "sign |(vi) Thị (điềm báo, chỉ dẫn)"
     },
     "parts": [
       "斤",

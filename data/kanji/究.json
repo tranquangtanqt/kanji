@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "kiwa, kiwameru",
-    "meaning": "study exhaustively",
+    "meaning": "study exhaustively |(vi) nghiên cứu thấu đáo",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "究極（きゅうきょく）",
         "meaning": {
-          "english": "ultimate"
+          "english": "ultimate |(vi) tối thượng, cuối cùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-kiwa(meru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "研究する（けんきゅうする）",
         "meaning": {
-          "english": "research [v.t.]"
+          "english": "research [v.t.] |(vi) nghiên cứu [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-kiwa(meru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "追究する（ついきゅうする）",
         "meaning": {
-          "english": "investigate thoroughly"
+          "english": "investigate thoroughly |(vi) điều tra kỹ lưỡng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-kiwa(meru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "探究する（たんきゅうする）",
         "meaning": {
-          "english": "search [v.t.]"
+          "english": "search [v.t.] |(vi) tìm tòi, khám phá [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-kiwa(meru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "究める（きわめる）",
         "meaning": {
-          "english": "master"
+          "english": "master |(vi) tinh thông, đạt đến đỉnh cao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-kiwa(meru)_06_e.opus",
@@ -197,7 +197,7 @@
     "kanji": {
       "character": "究",
       "meaning": {
-        "english": "study exhaustively"
+        "english": "study exhaustively |(vi) nghiên cứu thấu đáo"
       },
       "strokes": {
         "count": 7,
@@ -249,7 +249,7 @@
         "romaji": "anakanmuri"
       },
       "meaning": {
-        "english": "hole, cave"
+        "english": "hole, cave |(vi) Huyệt (hang, lỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/anakanmuri0.svg",
@@ -270,7 +270,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "368",
     "strokeCount": 7,
-    "meaning": "research, study",
+    "meaning": "research, study |(vi) nghiên cứu, học tập |(hv) Cứu",
     "kunyomi": [
       "きわ.める"
     ],
@@ -282,44 +282,44 @@
       {
         "example": "究明",
         "reading": "キュウメイ",
-        "meaning": "investigation (esp. in academic and scientific contexts), finding out the facts, bringing (a matter) to light, inquiring into"
+        "meaning": "investigation (esp. in academic and scientific contexts), finding out the facts, bringing (a matter) to light, inquiring into |(vi) sự điều tra (đặc biệt trong bối cảnh học thuật và khoa học), tìm ra sự thật, làm sáng tỏ (một vấn đề), tra cứu"
       },
       {
         "example": "究極",
         "reading": "キュウキョク",
-        "meaning": "ultimate, final, last, eventual"
+        "meaning": "ultimate, final, last, eventual |(vi) tối thượng, cuối cùng, sau cùng, kết cục"
       },
       {
         "example": "最新研究",
         "reading": "サイシンケンキュウ",
-        "meaning": "the newest research"
+        "meaning": "the newest research |(vi) nghiên cứu mới nhất"
       },
       {
         "example": "学究",
         "reading": "ガッキュウ",
-        "meaning": "scholar, student"
+        "meaning": "scholar, student |(vi) học giả, nhà nghiên cứu"
       },
       {
         "example": "究竟",
         "reading": "クキョウ",
-        "meaning": "culmination, conclusion"
+        "meaning": "culmination, conclusion |(vi) đỉnh điểm, kết luận"
       },
       {
         "example": "究竟",
         "reading": "クッキョウ",
-        "meaning": "after all, in the end, finally, excellent, superb, handy, appropriate, ideal, robust, brawny, muscular, strong, sturdy"
+        "meaning": "after all, in the end, finally, excellent, superb, handy, appropriate, ideal, robust, brawny, muscular, strong, sturdy |(vi) rốt cuộc, cuối cùng, xuất sắc, tuyệt vời, tiện dụng, thích hợp, lý tưởng, khỏe mạnh, vạm vỡ, cơ bắp, mạnh mẽ, chắc chắn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "究める",
         "reading": "きわめる",
-        "meaning": "to investigate thoroughly, to research thoroughly, to master, to understand completely"
+        "meaning": "to investigate thoroughly, to research thoroughly, to master, to understand completely |(vi) điều tra thấu đáo, nghiên cứu kỹ lưỡng, thông thạo, hiểu thấu hoàn toàn"
       }
     ],
     "radical": {
       "symbol": "穴",
-      "meaning": "cave"
+      "meaning": "cave |(vi) Huyệt (hang, lỗ)"
     },
     "parts": [
       "九",

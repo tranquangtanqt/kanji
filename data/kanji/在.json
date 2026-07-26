@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "a, aru",
-    "meaning": "be, exist",
+    "meaning": "be, exist |(vi) tồn tại, có mặt",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "在学する（ざいがくする）",
         "meaning": {
-          "english": "be enrolled (school)"
+          "english": "be enrolled (school) |(vi) đang theo học, đang là học sinh/sinh viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "在籍する（ざいせきする）",
         "meaning": {
-          "english": "be registered (school)"
+          "english": "be registered (school) |(vi) có tên trong danh sách (trường học), đang đăng ký học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "在宅する（ざいたくする）",
         "meaning": {
-          "english": "be at home"
+          "english": "be at home |(vi) ở nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "存在する（そんざいする）",
         "meaning": {
-          "english": "exist"
+          "english": "exist |(vi) tồn tại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "実在する（じつざいする）",
         "meaning": {
-          "english": "(really) exist"
+          "english": "(really) exist |(vi) thực sự tồn tại, có thật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "滞在する（たいざいする）",
         "meaning": {
-          "english": "stay"
+          "english": "stay |(vi) lưu trú, ở lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "在日（ざいにち）",
         "meaning": {
-          "english": "living/staying in Japan"
+          "english": "living/staying in Japan |(vi) sống/cư trú tại Nhật Bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "在庫（ざいこ）",
         "meaning": {
-          "english": "stock, inventory"
+          "english": "stock, inventory |(vi) hàng tồn kho, tồn kho"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "現在（げんざい）",
         "meaning": {
-          "english": "present [n.]"
+          "english": "present [n.] |(vi) hiện tại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "不在（ふざい）",
         "meaning": {
-          "english": "absent"
+          "english": "absent |(vi) vắng mặt, không có mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "自由自在に（じゆうじざいに）",
         "meaning": {
-          "english": "freely"
+          "english": "freely |(vi) tự do tự tại, thoải mái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "在る（ある）",
         "meaning": {
-          "english": "be, exist"
+          "english": "be, exist |(vi) có, tồn tại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_l.opus",
@@ -255,7 +255,7 @@
     "kanji": {
       "character": "在",
       "meaning": {
-        "english": "be, exist"
+        "english": "be, exist |(vi) tồn tại, có mặt"
       },
       "strokes": {
         "count": 6,
@@ -305,7 +305,7 @@
         "romaji": "tsuchi"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
@@ -326,7 +326,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "211",
     "strokeCount": 6,
-    "meaning": "exist, outskirts, suburbs, located in",
+    "meaning": "exist, outskirts, suburbs, located in |(vi) tồn tại, có, vùng ngoại ô, ngoại thành, nằm ở |(hv) Tại",
     "kunyomi": [
       "あ.る"
     ],
@@ -337,39 +337,39 @@
       {
         "example": "在",
         "reading": "ザイ",
-        "meaning": "the country, countryside, outskirts, suburbs, presence, being in attendance, situated in, staying in, resident in"
+        "meaning": "the country, countryside, outskirts, suburbs, presence, being in attendance, situated in, staying in, resident in |(vi) vùng nông thôn, ngoại ô, sự hiện diện, có mặt, cư trú tại"
       },
       {
         "example": "在外",
         "reading": "ザイガイ",
-        "meaning": "overseas, abroad"
+        "meaning": "overseas, abroad |(vi) ở nước ngoài, hải ngoại"
       },
       {
         "example": "顕在",
         "reading": "ケンザイ",
-        "meaning": "being actual (as opposed to hidden or latent), being apparent, being obvious, being tangible, being revealed"
+        "meaning": "being actual (as opposed to hidden or latent), being apparent, being obvious, being tangible, being revealed |(vi) hiển hiện, rõ ràng, hữu hình, được bộc lộ"
       },
       {
         "example": "介在",
         "reading": "カイザイ",
-        "meaning": "existing (between), interposition, intervention, involvement"
+        "meaning": "existing (between), interposition, intervention, involvement |(vi) xen vào giữa, can dự, tồn tại ở giữa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "有る",
         "reading": "ある",
-        "meaning": "to be, to exist, to live, to have, to be located, to be equipped with, to happen, to come about, to exist (in a completed state), to be (something unchanged in its current state)"
+        "meaning": "to be, to exist, to live, to have, to be located, to be equipped with, to happen, to come about, to exist (in a completed state), to be (something unchanged in its current state) |(vi) có, tồn tại, sống, sở hữu, nằm ở, được trang bị, xảy ra, diễn ra"
       },
       {
         "example": "在るがまま",
         "reading": "あるがまま",
-        "meaning": "as it is, plain (truth), bare, undisguised, unvarnished, unexaggerated, honest, true, frank, candid"
+        "meaning": "as it is, plain (truth), bare, undisguised, unvarnished, unexaggerated, honest, true, frank, candid |(vi) y như vốn có, chân thật, trần trụi, không tô vẽ, thẳng thắn"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "ノ",

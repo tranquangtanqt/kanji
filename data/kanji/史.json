@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "history",
+    "meaning": "history |(vi) lịch sử",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "史跡（しせき）",
         "meaning": {
-          "english": "historical landmark"
+          "english": "historical landmark |(vi) di tích lịch sử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "史料（しりょう）",
         "meaning": {
-          "english": "historical sources"
+          "english": "historical sources |(vi) sử liệu, tư liệu lịch sử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "史実（しじつ）",
         "meaning": {
-          "english": "historical fact"
+          "english": "historical fact |(vi) sự thật lịch sử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "史学科（しがくか）",
         "meaning": {
-          "english": "department of history"
+          "english": "department of history |(vi) khoa lịch sử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "歴史（れきし）",
         "meaning": {
-          "english": "history"
+          "english": "history |(vi) lịch sử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "世界史（せかいし）",
         "meaning": {
-          "english": "world history"
+          "english": "world history |(vi) lịch sử thế giới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "日本史（にほんし）",
         "meaning": {
-          "english": "history of Japan"
+          "english": "history of Japan |(vi) lịch sử Nhật Bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "美術史（びじゅつし）",
         "meaning": {
-          "english": "art history"
+          "english": "art history |(vi) lịch sử mỹ thuật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "文学史（ぶんがくし）",
         "meaning": {
-          "english": "history of literature"
+          "english": "history of literature |(vi) lịch sử văn học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_i.opus",
@@ -227,7 +227,7 @@
     "kanji": {
       "character": "史",
       "meaning": {
-        "english": "history"
+        "english": "history |(vi) lịch sử"
       },
       "strokes": {
         "count": 5,
@@ -275,7 +275,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng, lỗ mở)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -296,7 +296,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "511",
     "strokeCount": 5,
-    "meaning": "history, chronicle",
+    "meaning": "history, chronicle |(vi) lịch sử, biên niên sử |(hv) Sử",
     "kunyomi": [],
     "onyomi": [
       "シ"
@@ -305,28 +305,28 @@
       {
         "example": "史",
         "reading": "シ",
-        "meaning": "history"
+        "meaning": "history |(vi) lịch sử"
       },
       {
         "example": "史家",
         "reading": "シカ",
-        "meaning": "historian"
+        "meaning": "historian |(vi) sử gia, nhà sử học"
       },
       {
         "example": "通史",
         "reading": "ツウシ",
-        "meaning": "overview of history"
+        "meaning": "overview of history |(vi) tổng quan lịch sử, thông sử"
       },
       {
         "example": "正史",
         "reading": "セイシ",
-        "meaning": "official history, authorized history"
+        "meaning": "official history, authorized history |(vi) chính sử, sử liệu chính thức"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "ノ",

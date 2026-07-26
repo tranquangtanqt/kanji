@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "silver",
+    "meaning": "silver |(vi) bạc",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "銀行（ぎんこう）",
         "meaning": {
-          "english": "bank"
+          "english": "bank |(vi) ngân hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gin(za)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "銀河（ぎんが）",
         "meaning": {
-          "english": "galaxy"
+          "english": "galaxy |(vi) thiên hà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gin(za)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "銀色（ぎんいろ）",
         "meaning": {
-          "english": "silver color"
+          "english": "silver color |(vi) màu bạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gin(za)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "水銀（すいぎん）",
         "meaning": {
-          "english": "mercury"
+          "english": "mercury |(vi) thủy ngân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gin(za)_06_d.opus",
@@ -183,7 +183,7 @@
     "kanji": {
       "character": "銀",
       "meaning": {
-        "english": "silver"
+        "english": "silver |(vi) bạc"
       },
       "strokes": {
         "count": 14,
@@ -249,7 +249,7 @@
         "romaji": "kanehen"
       },
       "meaning": {
-        "english": "metal, gold, mineral"
+        "english": "metal, gold, mineral |(vi) Kim (kim loại, vàng, khoáng vật)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kanehen0.svg",
@@ -270,7 +270,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "395",
     "strokeCount": 14,
-    "meaning": "silver",
+    "meaning": "silver |(vi) bạc |(hv) Ngân",
     "kunyomi": [
       "しろがね"
     ],
@@ -281,34 +281,34 @@
       {
         "example": "銀",
         "reading": "ギン",
-        "meaning": "silver (Ag), silver (color), silver (medal, prize, etc.), silver coin, silver general, bank, money"
+        "meaning": "silver (Ag), silver (color), silver (medal, prize, etc.), silver coin, silver general, bank, money |(vi) bạc (Ag), màu bạc, huy chương bạc, đồng bạc, tướng bạc (cờ tướng), ngân hàng, tiền"
       },
       {
         "example": "銀色",
         "reading": "ギンイロ",
-        "meaning": "silver (color, colour)"
+        "meaning": "silver (color, colour) |(vi) màu bạc"
       },
       {
         "example": "世銀",
         "reading": "セギン",
-        "meaning": "World Bank"
+        "meaning": "World Bank |(vi) Ngân hàng Thế giới"
       },
       {
         "example": "水銀",
         "reading": "スイギン",
-        "meaning": "mercury (Hg)"
+        "meaning": "mercury (Hg) |(vi) thủy ngân (Hg)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "銀",
         "reading": "しろがね",
-        "meaning": "silver, silver coin, silver (color)"
+        "meaning": "silver, silver coin, silver (color) |(vi) bạc, đồng bạc, màu bạc"
       },
       {
         "example": "銀鯵",
         "reading": "しろがねあじ",
-        "meaning": "lookdown (Selene vomer)"
+        "meaning": "lookdown (Selene vomer) |(vi) cá chim bạc (Selene vomer)"
       }
     ],
     "radical": {
@@ -316,7 +316,7 @@
       "forms": [
         "釒"
       ],
-      "meaning": "metal, gold"
+      "meaning": "metal, gold |(vi) Kim (kim loại, vàng)"
     },
     "parts": [
       "艮",

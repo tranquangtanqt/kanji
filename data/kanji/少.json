@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "suku, suko, sukunai, sukoshi",
-    "meaning": "little",
+    "meaning": "little |(vi) ít, nhỏ",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "少々（しょうしょう）",
         "meaning": {
-          "english": "small quantity, a little"
+          "english": "small quantity, a little |(vi) một chút, một ít"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "少数（しょうすう）",
         "meaning": {
-          "english": "minority"
+          "english": "minority |(vi) thiểu số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "少量（しょうりょう）",
         "meaning": {
-          "english": "small quantity"
+          "english": "small quantity |(vi) số lượng nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "少額（しょうがく）",
         "meaning": {
-          "english": "small sum (of money)"
+          "english": "small sum (of money) |(vi) số tiền nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "多少（たしょう）",
         "meaning": {
-          "english": "more or less"
+          "english": "more or less |(vi) ít nhiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "少年（しょうねん）",
         "meaning": {
-          "english": "boy"
+          "english": "boy |(vi) thiếu niên, cậu bé"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "減少する（げんしょうする）",
         "meaning": {
-          "english": "decrease [v.i.]"
+          "english": "decrease [v.i.] |(vi) giảm bớt, giảm thiểu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "少ない（すくない）",
         "meaning": {
-          "english": "a few, a little"
+          "english": "a few, a little |(vi) một ít, một chút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "少なくとも（すくなくとも）",
         "meaning": {
-          "english": "at least"
+          "english": "at least |(vi) ít nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "少し（すこし）",
         "meaning": {
-          "english": "small quantity, a little"
+          "english": "small quantity, a little |(vi) một chút, một ít"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_j.opus",
@@ -274,7 +274,7 @@
     "kanji": {
       "character": "少",
       "meaning": {
-        "english": "little"
+        "english": "little |(vi) ít, nhỏ"
       },
       "strokes": {
         "count": 4,
@@ -320,7 +320,7 @@
         "romaji": "shou"
       },
       "meaning": {
-        "english": "small"
+        "english": "small |(vi) Tiểu (nhỏ, bé)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shou0.svg",
@@ -341,7 +341,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "287",
     "strokeCount": 4,
-    "meaning": "few, little",
+    "meaning": "few, little |(vi) ít, hiếm |(hv) Thiểu",
     "kunyomi": [
       "すく.ない",
       "すこ.し"
@@ -353,44 +353,44 @@
       {
         "example": "少",
         "reading": "ショウ",
-        "meaning": "small, little, few"
+        "meaning": "small, little, few |(vi) nhỏ, ít, hiếm"
       },
       {
         "example": "少輔",
         "reading": "ショウ",
-        "meaning": "assistant vice-minister (ritsuryō system, early Meiji period)"
+        "meaning": "assistant vice-minister (ritsuryō system, early Meiji period) |(vi) phụ tá thứ trưởng (thời Luật lệnh, đầu thời Minh Trị)"
       },
       {
         "example": "最少",
         "reading": "サイショウ",
-        "meaning": "fewest, least, smallest (number), lowest, minimum, youngest"
+        "meaning": "fewest, least, smallest (number), lowest, minimum, youngest |(vi) ít nhất, nhỏ nhất, thấp nhất, trẻ nhất"
       },
       {
         "example": "過少",
         "reading": "カショウ",
-        "meaning": "too few, too little, insufficient"
+        "meaning": "too few, too little, insufficient |(vi) quá ít, thiếu hụt"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "少ない",
         "reading": "すくない",
-        "meaning": "few, little, small (amount), low, scarce, insufficient, seldom, rare"
+        "meaning": "few, little, small (amount), low, scarce, insufficient, seldom, rare |(vi) ít, hiếm, thiếu, khan hiếm"
       },
       {
         "example": "少し",
         "reading": "すこし",
-        "meaning": "a little, a bit, a small amount, a few, some, slightly, somewhat, a little while, a short time, a moment, a minute, a little way, a short distance"
+        "meaning": "a little, a bit, a small amount, a few, some, slightly, somewhat, a little while, a short time, a moment, a minute, a little way, a short distance |(vi) một chút, một ít, một lát, một đoạn ngắn"
       },
       {
         "example": "少しも",
         "reading": "すこしも",
-        "meaning": "(not) at all, (not) a bit, (not) in the least, (not) in the slightest"
+        "meaning": "(not) at all, (not) a bit, (not) in the least, (not) in the slightest |(vi) không hề, không một chút nào"
       }
     ],
     "radical": {
       "symbol": "小",
-      "meaning": "small, insignificant"
+      "meaning": "small, insignificant |(vi) Tiểu (nhỏ, không đáng kể)"
     },
     "parts": [
       "ノ",

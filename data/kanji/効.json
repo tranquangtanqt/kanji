@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "ki, kiku",
-    "meaning": "effect, be effective",
+    "meaning": "effect, be effective |(vi) hiệu quả, có tác dụng",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "効（こう）",
         "meaning": {
-          "english": "efficacy, benefit, effect"
+          "english": "efficacy, benefit, effect |(vi) hiệu quả, lợi ích, tác dụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yak)kou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "効果（こうか）",
         "meaning": {
-          "english": "efficacy, benefit, effect"
+          "english": "efficacy, benefit, effect |(vi) hiệu quả, lợi ích, tác dụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yak)kou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "効率（こうりつ）",
         "meaning": {
-          "english": "efficiency"
+          "english": "efficiency |(vi) hiệu suất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yak)kou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "効力（こうりょく）",
         "meaning": {
-          "english": "efficacy, benefit, effect"
+          "english": "efficacy, benefit, effect |(vi) hiệu lực, tác dụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yak)kou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "無効（むこう）",
         "meaning": {
-          "english": "invalid, of no effect [n.]"
+          "english": "invalid, of no effect [n.] |(vi) vô hiệu, không có tác dụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yak)kou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "時効（じこう）",
         "meaning": {
-          "english": "statute of limitations"
+          "english": "statute of limitations |(vi) thời hiệu, hết hạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yak)kou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "薬効（やっこう）",
         "meaning": {
-          "english": "efficacy of a drug or medicine"
+          "english": "efficacy of a drug or medicine |(vi) hiệu quả của thuốc, dược hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yak)kou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "特効薬（とっこうやく）",
         "meaning": {
-          "english": "specific medicine, wonder drug"
+          "english": "specific medicine, wonder drug |(vi) thuốc đặc trị, thần dược"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yak)kou_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "即効性（そっこうせい）",
         "meaning": {
-          "english": "immediate effect"
+          "english": "immediate effect |(vi) tính tức thời, hiệu quả nhanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yak)kou_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "有効な（ゆうこうな）",
         "meaning": {
-          "english": "valid, effective"
+          "english": "valid, effective |(vi) có hiệu lực, hữu hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yak)kou_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "効く（きく）",
         "meaning": {
-          "english": "be effective, take effect"
+          "english": "be effective, take effect |(vi) có tác dụng, phát huy hiệu quả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yak)kou_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "効き目（ききめ）",
         "meaning": {
-          "english": "efficacy, benefit, effect"
+          "english": "efficacy, benefit, effect |(vi) hiệu quả, tác dụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yak)kou_06_l.opus",
@@ -251,7 +251,7 @@
     "kanji": {
       "character": "効",
       "meaning": {
-        "english": "effect, be effective"
+        "english": "effect, be effective |(vi) hiệu quả, có tác dụng"
       },
       "strokes": {
         "count": 8,
@@ -305,7 +305,7 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power |(vi) Lực (sức mạnh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -326,7 +326,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "538",
     "strokeCount": 8,
-    "meaning": "merit, efficacy, efficiency, benefit",
+    "meaning": "merit, efficacy, efficiency, benefit |(vi) công lao, hiệu quả, hiệu suất, lợi ích |(hv) Hiệu",
     "kunyomi": [
       "き.く",
       "ききめ",
@@ -339,39 +339,39 @@
       {
         "example": "効",
         "reading": "コウ",
-        "meaning": "efficacy, benefit, efficiency, effect, result, success"
+        "meaning": "efficacy, benefit, efficiency, effect, result, success |(vi) hiệu quả, lợi ích, hiệu suất, tác dụng, kết quả, thành công"
       },
       {
         "example": "効果",
         "reading": "コウカ",
-        "meaning": "effect, effectiveness, efficacy, result, effects (e.g. sound effects, visual effects, special effects)"
+        "meaning": "effect, effectiveness, efficacy, result, effects (e.g. sound effects, visual effects, special effects) |(vi) hiệu quả, hiệu lực, kết quả, hiệu ứng (âm thanh, hình ảnh, đặc biệt)"
       },
       {
         "example": "実効",
         "reading": "ジッコウ",
-        "meaning": "practical effect, efficacy, efficiency"
+        "meaning": "practical effect, efficacy, efficiency |(vi) hiệu quả thực tế, hiệu lực, hiệu suất"
       },
       {
         "example": "時効",
         "reading": "ジコウ",
-        "meaning": "statute of limitations, lapse of rights after a period of time, prescription (including acquisitive and extinctive prescription), becoming invalid or void after a set time, ageing, aging"
+        "meaning": "statute of limitations, lapse of rights after a period of time, prescription (including acquisitive and extinctive prescription), becoming invalid or void after a set time, ageing, aging |(vi) thời hiệu, hết thời hạn hiệu lực, sự lão hóa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "効く",
         "reading": "きく",
-        "meaning": "to be effective, to take effect, to be good (for), to work, to function well, to be possible (to do, use, etc.), to be able to, to taste (alcohol), to try"
+        "meaning": "to be effective, to take effect, to be good (for), to work, to function well, to be possible (to do, use, etc.), to be able to, to taste (alcohol), to try |(vi) có hiệu quả, phát huy tác dụng, có tác dụng tốt, hoạt động tốt"
       },
       {
         "example": "効き目",
         "reading": "ききめ",
-        "meaning": "effect, virtue, efficacy, impression, one's dominant eye"
+        "meaning": "effect, virtue, efficacy, impression, one's dominant eye |(vi) hiệu quả, tác dụng, ấn tượng, mắt chủ đạo"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": "power, force |(vi) Lực (sức mạnh)"
     },
     "parts": [
       "亠",

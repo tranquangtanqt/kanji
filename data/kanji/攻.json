@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "semeru, se",
-    "meaning": "attack",
+    "meaning": "attack |(vi) tấn công",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "専攻（せんこう）",
         "meaning": {
-          "english": "major (at university)"
+          "english": "major (at university) |(vi) chuyên ngành (ở đại học)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-se(meru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "攻撃する（こうげきする）",
         "meaning": {
-          "english": "attack [v.t.]"
+          "english": "attack [v.t.] |(vi) tấn công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-se(meru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "攻略する（こうりゃくする）",
         "meaning": {
-          "english": "capture"
+          "english": "capture |(vi) chiếm được, đánh chiếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-se(meru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "攻める（せめる）",
         "meaning": {
-          "english": "attack, criticize"
+          "english": "attack, criticize |(vi) tấn công, công kích, chỉ trích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-se(meru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "質問攻め（しつもんぜめ）",
         "meaning": {
-          "english": "barrage of questions"
+          "english": "barrage of questions |(vi) hàng loạt câu hỏi dồn dập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-se(meru)_06_e.opus",
@@ -158,7 +158,7 @@
     "kanji": {
       "character": "攻",
       "meaning": {
-        "english": "attack"
+        "english": "attack |(vi) tấn công"
       },
       "strokes": {
         "count": 7,
@@ -210,7 +210,7 @@
         "romaji": "bokuzukuri"
       },
       "meaning": {
-        "english": "activity, to strike, hit"
+        "english": "activity, to strike, hit |(vi) Phộc (đánh nhẹ, gõ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/bokuzukuri0.svg",
@@ -231,7 +231,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "532",
     "strokeCount": 7,
-    "meaning": "aggression, attack, criticize, polish",
+    "meaning": "aggression, attack, criticize, polish |(vi) xâm lược, tấn công, chỉ trích, mài giũa |(hv) Công",
     "kunyomi": [
       "せ.める"
     ],
@@ -242,29 +242,29 @@
       {
         "example": "攻守",
         "reading": "コウシュ",
-        "meaning": "offense and defense, offence and defence, batting and fielding"
+        "meaning": "offense and defense, offence and defence, batting and fielding |(vi) tấn công và phòng thủ, tấn công và phòng ngự, đánh và giữ"
       },
       {
         "example": "攻撃",
         "reading": "コウゲキ",
-        "meaning": "attack, assault, raid, onslaught, offensive, criticism, censure, denunciation, condemnation"
+        "meaning": "attack, assault, raid, onslaught, offensive, criticism, censure, denunciation, condemnation |(vi) tấn công, tập kích, đột kích, tấn công dồn dập, chỉ trích, khiển trách, lên án"
       },
       {
         "example": "速攻",
         "reading": "ソッコウ",
-        "meaning": "swift attack, quick attack, fast break, right away, without delay, immediately"
+        "meaning": "swift attack, quick attack, fast break, right away, without delay, immediately |(vi) tấn công chớp nhoáng, tấn công nhanh, phản công nhanh, ngay lập tức, không chậm trễ"
       },
       {
         "example": "猛攻",
         "reading": "モウコウ",
-        "meaning": "fierce attack"
+        "meaning": "fierce attack |(vi) tấn công dữ dội"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "攻める",
         "reading": "せめる",
-        "meaning": "to attack, to assault, to assail"
+        "meaning": "to attack, to assault, to assail |(vi) tấn công, công kích, đột kích"
       }
     ],
     "radical": {
@@ -272,7 +272,7 @@
       "forms": [
         "攵"
       ],
-      "meaning": "rap"
+      "meaning": "rap |(vi) Phộc (đánh nhẹ, gõ)"
     },
     "parts": [
       "乞",

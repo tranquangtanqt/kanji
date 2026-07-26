@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 6,
     "kunyomi": "ka, kau",
-    "meaning": "raise animals",
+    "meaning": "raise animals |(vi) nuôi động vật",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "飼料（しりょう）",
         "meaning": {
-          "english": "fodder, feed"
+          "english": "fodder, feed |(vi) thức ăn chăn nuôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ka(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "飼育する（しいくする）",
         "meaning": {
-          "english": "breed, raise, rear"
+          "english": "breed, raise, rear |(vi) nuôi dưỡng, chăn nuôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ka(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "飼う（かう）",
         "meaning": {
-          "english": "keep as a pet"
+          "english": "keep as a pet |(vi) nuôi (thú cưng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ka(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "飼い犬（かいいぬ）",
         "meaning": {
-          "english": "pet dog"
+          "english": "pet dog |(vi) chó nuôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ka(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "羊飼い（ひつじかい）",
         "meaning": {
-          "english": "shepherd, shepherdess"
+          "english": "shepherd, shepherdess |(vi) người chăn cừu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ka(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "放し飼い（はなしがい）",
         "meaning": {
-          "english": "pasturing, grazing"
+          "english": "pasturing, grazing |(vi) thả rông, chăn thả tự do"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ka(u)_06_f.opus",
@@ -177,7 +177,7 @@
     "kanji": {
       "character": "飼",
       "meaning": {
-        "english": "raise animals"
+        "english": "raise animals |(vi) nuôi động vật"
       },
       "strokes": {
         "count": 13,
@@ -241,7 +241,7 @@
         "romaji": "shokuhen"
       },
       "meaning": {
-        "english": "food, to eat"
+        "english": "food, to eat |(vi) Thực (ăn, thức ăn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shokuhen0.svg",
@@ -262,7 +262,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1392",
     "strokeCount": 13,
-    "meaning": "domesticate, raise, keep, feed",
+    "meaning": "domesticate, raise, keep, feed |(vi) thuần hóa, nuôi dưỡng, chăn nuôi, cho ăn |(hv) Tự",
     "kunyomi": [
       "か.う"
     ],
@@ -273,24 +273,24 @@
       {
         "example": "飼料",
         "reading": "シリョウ",
-        "meaning": "fodder, feed"
+        "meaning": "fodder, feed |(vi) thức ăn chăn nuôi"
       },
       {
         "example": "飼育",
         "reading": "シイク",
-        "meaning": "breeding, raising, rearing, keeping"
+        "meaning": "breeding, raising, rearing, keeping |(vi) sự nuôi dưỡng, chăn nuôi"
       },
       {
         "example": "放飼",
         "reading": "ホウシ",
-        "meaning": "free-range rearing, letting (animals) roam freely, pasturing, releasing (insects) into the wild"
+        "meaning": "free-range rearing, letting (animals) roam freely, pasturing, releasing (insects) into the wild |(vi) chăn thả tự do, thả rông"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "飼う",
         "reading": "かう",
-        "meaning": "to keep (a pet or other animal), to have, to own, to raise, to rear, to feed"
+        "meaning": "to keep (a pet or other animal), to have, to own, to raise, to rear, to feed |(vi) nuôi (thú cưng hoặc động vật), chăm nuôi"
       }
     ],
     "radical": {
@@ -298,7 +298,7 @@
       "forms": [
         "飠"
       ],
-      "meaning": "eat, food"
+      "meaning": "eat, food |(vi) Thực (ăn, thức ăn)"
     },
     "parts": [
       "个",

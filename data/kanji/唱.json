@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "tona, tonaeru",
-    "meaning": "sing",
+    "meaning": "sing |(vi) hát, xướng",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "万歳三唱（ばんざいさんしょう）",
         "meaning": {
-          "english": "three cheers"
+          "english": "three cheers |(vi) ba lần hô vạn tuế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(banzaisan)shou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "唱和する（しょうわする）",
         "meaning": {
-          "english": "sing/cheer in chorus"
+          "english": "sing/cheer in chorus |(vi) hô/hát đồng thanh, hưởng ứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(banzaisan)shou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "合唱する（がっしょうする）",
         "meaning": {
-          "english": "sing in chorus"
+          "english": "sing in chorus |(vi) hợp xướng, hát đồng ca"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(banzaisan)shou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "独唱する（どくしょうする）",
         "meaning": {
-          "english": "sing a solo"
+          "english": "sing a solo |(vi) hát đơn ca"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(banzaisan)shou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "暗唱する（あんしょうする）",
         "meaning": {
-          "english": "recite (from memory)"
+          "english": "recite (from memory) |(vi) đọc thuộc lòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(banzaisan)shou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "提唱する（ていしょうする）",
         "meaning": {
-          "english": "propose, advocate"
+          "english": "propose, advocate |(vi) đề xướng, đề xuất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(banzaisan)shou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "唱える（となえる）",
         "meaning": {
-          "english": "recite, chant, call upon"
+          "english": "recite, chant, call upon |(vi) tụng niệm, hô, xướng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(banzaisan)shou_06_g.opus",
@@ -182,7 +182,7 @@
     "kanji": {
       "character": "唱",
       "meaning": {
-        "english": "sing"
+        "english": "sing |(vi) hát, xướng"
       },
       "strokes": {
         "count": 11,
@@ -242,7 +242,7 @@
         "romaji": "kuchihen"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng, lỗ mở)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchihen0.svg",
@@ -263,7 +263,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1123",
     "strokeCount": 11,
-    "meaning": "chant, recite, call upon, yell",
+    "meaning": "chant, recite, call upon, yell |(vi) tụng niệm, đọc, hô, la lớn |(hv) Xướng",
     "kunyomi": [
       "とな.える"
     ],
@@ -274,34 +274,34 @@
       {
         "example": "唱和",
         "reading": "ショウワ",
-        "meaning": "cheering in chorus, saying in unison"
+        "meaning": "cheering in chorus, saying in unison |(vi) hô/hát đồng thanh, nói cùng lúc"
       },
       {
         "example": "唱歌",
         "reading": "ショウカ",
-        "meaning": "singing, song, music class (at pre-WWII schools), song for music classes"
+        "meaning": "singing, song, music class (at pre-WWII schools), song for music classes |(vi) ca hát, bài hát, môn âm nhạc (trường học trước Thế chiến II)"
       },
       {
         "example": "斉唱",
         "reading": "セイショウ",
-        "meaning": "singing in unison, chanting in unison"
+        "meaning": "singing in unison, chanting in unison |(vi) hát đồng ca, tụng đồng thanh"
       },
       {
         "example": "主唱",
         "reading": "シュショウ",
-        "meaning": "advocacy, promotion"
+        "meaning": "advocacy, promotion |(vi) đề xướng, khởi xướng, cổ vũ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "唱える",
         "reading": "となえる",
-        "meaning": "to recite, to chant, to cry, to yell, to shout, to advocate, to advance, to preach, to insist"
+        "meaning": "to recite, to chant, to cry, to yell, to shout, to advocate, to advance, to preach, to insist |(vi) tụng, niệm, hô, la lớn, đề xướng, thúc đẩy, thuyết giảng, khăng khăng"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "口",

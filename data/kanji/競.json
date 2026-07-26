@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "kisou, seru, kiso, se",
-    "meaning": "compete",
+    "meaning": "compete |(vi) cạnh tranh, thi đấu",
     "kstroke": 20,
     "examples": [
       {
         "japanese": "競争する（きょうそうする）",
         "meaning": {
-          "english": "compete"
+          "english": "compete |(vi) cạnh tranh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-kiso(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "競走する（きょうそうする）",
         "meaning": {
-          "english": "race [v.i.]"
+          "english": "race [v.i.] |(vi) chạy đua, thi chạy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-kiso(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "競争率（きょうそうりつ）",
         "meaning": {
-          "english": "ratio of successful (applicants)"
+          "english": "ratio of successful (applicants) |(vi) tỷ lệ chọi (thí sinh)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-kiso(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "競技（きょうぎ）",
         "meaning": {
-          "english": "game, match"
+          "english": "game, match |(vi) thi đấu, trận đấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-kiso(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "競売（きょうばい）",
         "meaning": {
-          "english": "auction"
+          "english": "auction |(vi) đấu giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-kiso(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "競輪（けいりん）",
         "meaning": {
-          "english": "bicycle racing"
+          "english": "bicycle racing |(vi) đua xe đạp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-kiso(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "競馬（けいば）",
         "meaning": {
-          "english": "horse racing"
+          "english": "horse racing |(vi) đua ngựa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-kiso(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "競う（きそう）",
         "meaning": {
-          "english": "compete, contend"
+          "english": "compete, contend |(vi) cạnh tranh, tranh đua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-kiso(u)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "競る（せる）",
         "meaning": {
-          "english": "compete, bid"
+          "english": "compete, bid |(vi) cạnh tranh, đấu giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-kiso(u)_06_i.opus",
@@ -228,7 +228,7 @@
     "kanji": {
       "character": "競",
       "meaning": {
-        "english": "compete"
+        "english": "compete |(vi) cạnh tranh, thi đấu"
       },
       "strokes": {
         "count": 20,
@@ -306,7 +306,7 @@
         "romaji": "tatsu"
       },
       "meaning": {
-        "english": "to stand"
+        "english": "to stand |(vi) Lập (đứng, dựng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tatsu0.svg",
@@ -327,7 +327,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "610",
     "strokeCount": 20,
-    "meaning": "emulate, compete with, bid, sell at auction, bout, contest, race",
+    "meaning": "emulate, compete with, bid, sell at auction, bout, contest, race |(vi) ganh đua, cạnh tranh, đấu giá, bán đấu giá, trận đấu, cuộc thi, cuộc đua |(hv) Cạnh",
     "kunyomi": [
       "きそ.う",
       "せ.る",
@@ -341,44 +341,44 @@
       {
         "example": "競演",
         "reading": "キョウエン",
-        "meaning": "contest (between performers), competitive performance, competition between theatres putting on the same show"
+        "meaning": "contest (between performers), competitive performance, competition between theatres putting on the same show |(vi) cuộc thi biểu diễn, buổi trình diễn cạnh tranh, cuộc thi giữa các rạp hát cùng diễn một vở"
       },
       {
         "example": "競泳",
         "reading": "キョウエイ",
-        "meaning": "competitive swimming, swimming race"
+        "meaning": "competitive swimming, swimming race |(vi) bơi thi đấu, cuộc đua bơi"
       },
       {
         "example": "競馬",
         "reading": "ケイバ",
-        "meaning": "horse racing"
+        "meaning": "horse racing |(vi) đua ngựa"
       },
       {
         "example": "競売",
         "reading": "キョウバイ",
-        "meaning": "auction"
+        "meaning": "auction |(vi) đấu giá"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "競う",
         "reading": "きそう",
-        "meaning": "to compete, to contend, to vie, to contest"
+        "meaning": "to compete, to contend, to vie, to contest |(vi) cạnh tranh, ganh đua, tranh giành, thi đấu"
       },
       {
         "example": "競る",
         "reading": "せる",
-        "meaning": "to compete, to bid, to sell at auction"
+        "meaning": "to compete, to bid, to sell at auction |(vi) cạnh tranh, đấu giá, bán đấu giá"
       },
       {
         "example": "比べる",
         "reading": "くらべる",
-        "meaning": "to compare, to make a comparison (between), to compete (on), to measure (one's strength, ability, etc. against another's)"
+        "meaning": "to compare, to make a comparison (between), to compete (on), to measure (one's strength, ability, etc. against another's) |(vi) so sánh, đối chiếu, cạnh tranh, đo lường (sức mạnh, khả năng v.v. với người khác)"
       }
     ],
     "radical": {
       "symbol": "立",
-      "meaning": "stand, erect"
+      "meaning": "stand, erect |(vi) Lập (đứng, dựng)"
     },
     "parts": [
       "儿",

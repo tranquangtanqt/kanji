@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "ha",
-    "meaning": "tooth",
+    "meaning": "tooth |(vi) răng",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "歯科医（しかい）",
         "meaning": {
-          "english": "dentist"
+          "english": "dentist |(vi) nha sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ha_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "永久歯（えいきゅうし）",
         "meaning": {
-          "english": "permanent tooth"
+          "english": "permanent tooth |(vi) răng vĩnh viễn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ha_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "乳歯（にゅうし）",
         "meaning": {
-          "english": "milk tooth, first set of teeth"
+          "english": "milk tooth, first set of teeth |(vi) răng sữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ha_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "歯（は）",
         "meaning": {
-          "english": "tooth"
+          "english": "tooth |(vi) răng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ha_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "歯車（はぐるま）",
         "meaning": {
-          "english": "gear, cog"
+          "english": "gear, cog |(vi) bánh răng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ha_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "歯医者（はいしゃ）",
         "meaning": {
-          "english": "dentist"
+          "english": "dentist |(vi) nha sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ha_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "歯ブラシ（はブラシ）",
         "meaning": {
-          "english": "toothbrush"
+          "english": "toothbrush |(vi) bàn chải đánh răng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ha_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "歯磨き（はみがき）",
         "meaning": {
-          "english": "brushing (one's ) teeth"
+          "english": "brushing (one's ) teeth |(vi) đánh răng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ha_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "歯止め（はどめ）",
         "meaning": {
-          "english": "brake [n.]"
+          "english": "brake [n.] |(vi) cái hãm, phanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ha_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "虫歯（むしば）",
         "meaning": {
-          "english": "(tooth) cavity"
+          "english": "(tooth) cavity |(vi) sâu răng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ha_06_j.opus",
@@ -229,7 +229,7 @@
     "kanji": {
       "character": "歯",
       "meaning": {
-        "english": "tooth"
+        "english": "tooth |(vi) răng"
       },
       "strokes": {
         "count": 12,
@@ -291,7 +291,7 @@
         "romaji": "ha"
       },
       "meaning": {
-        "english": "tooth"
+        "english": "tooth |(vi) Xỉ (răng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ha0.svg",
@@ -312,7 +312,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1106",
     "strokeCount": 12,
-    "meaning": "tooth, cog",
+    "meaning": "tooth, cog |(vi) răng, bánh răng |(hv) Xỉ",
     "kunyomi": [
       "よわい",
       "は",
@@ -326,74 +326,74 @@
       {
         "example": "歯",
         "reading": "シ",
-        "meaning": "tooth, age, years"
+        "meaning": "tooth, age, years |(vi) răng, tuổi, số năm"
       },
       {
         "example": "歯科",
         "reading": "シカ",
-        "meaning": "dentistry"
+        "meaning": "dentistry |(vi) nha khoa"
       },
       {
         "example": "義歯",
         "reading": "ギシ",
-        "meaning": "artificial tooth"
+        "meaning": "artificial tooth |(vi) răng giả"
       },
       {
         "example": "生歯",
         "reading": "セイシ",
-        "meaning": "teething, cutting teeth, dentition"
+        "meaning": "teething, cutting teeth, dentition |(vi) mọc răng, hàm răng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "齢",
         "reading": "よわい",
-        "meaning": "(one's) age"
+        "meaning": "(one's) age |(vi) tuổi (của ai đó)"
       },
       {
         "example": "歯する",
         "reading": "よわいする",
-        "meaning": "to associate (with), to join the company of, to stand alongside (as an equal)"
+        "meaning": "to associate (with), to join the company of, to stand alongside (as an equal) |(vi) kết giao (với), gia nhập, đứng ngang hàng (với)"
       },
       {
         "example": "歯",
         "reading": "は",
-        "meaning": "tooth, teeth, tooth (of a comb, saw, etc.), cog, support (of a geta)"
+        "meaning": "tooth, teeth, tooth (of a comb, saw, etc.), cog, support (of a geta) |(vi) răng, răng (của lược, cưa,...), bánh răng, gót guốc (geta)"
       },
       {
         "example": "歯切れ",
         "reading": "はぎれ",
-        "meaning": "feel when biting, manner of enunciation"
+        "meaning": "feel when biting, manner of enunciation |(vi) cảm giác khi cắn, cách phát âm rõ ràng"
       },
       {
         "example": "継ぎ歯",
         "reading": "つぎば",
-        "meaning": "capped tooth, (dental) crown"
+        "meaning": "capped tooth, (dental) crown |(vi) răng bọc, mão răng"
       },
       {
         "example": "年端",
         "reading": "としは",
-        "meaning": "age, years (old)"
+        "meaning": "age, years (old) |(vi) tuổi, số năm (tuổi)"
       },
       {
         "example": "齢",
         "reading": "よわい",
-        "meaning": "(one's) age"
+        "meaning": "(one's) age |(vi) tuổi (của ai đó)"
       },
       {
         "example": "歯する",
         "reading": "よわいする",
-        "meaning": "to associate (with), to join the company of, to stand alongside (as an equal)"
+        "meaning": "to associate (with), to join the company of, to stand alongside (as an equal) |(vi) kết giao (với), gia nhập, đứng ngang hàng (với)"
       },
       {
         "example": "歯する",
         "reading": "よわいする",
-        "meaning": "to associate (with), to join the company of, to stand alongside (as an equal)"
+        "meaning": "to associate (with), to join the company of, to stand alongside (as an equal) |(vi) kết giao (với), gia nhập, đứng ngang hàng (với)"
       }
     ],
     "radical": {
       "symbol": "止",
-      "meaning": "stop"
+      "meaning": "stop |(vi) Chỉ (dừng lại)"
     },
     "parts": [
       "凵",

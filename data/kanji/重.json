@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "e, omo, kasa, omoi, omosa, omori, omotai, omoshi, kasaneru, kasanaru",
-    "meaning": "heavy",
+    "meaning": "heavy |(vi) nặng",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "体重（たいじゅう）",
         "meaning": {
-          "english": "body weight"
+          "english": "body weight |(vi) trọng lượng cơ thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "厳重な（げんじゅうな）",
         "meaning": {
-          "english": "strict"
+          "english": "strict |(vi) nghiêm ngặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "重要な（じゅうような）",
         "meaning": {
-          "english": "important"
+          "english": "important |(vi) quan trọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "重視する（じゅうしする）",
         "meaning": {
-          "english": "give serious consideration"
+          "english": "give serious consideration |(vi) coi trọng, chú trọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "尊重する（そんちょうする）",
         "meaning": {
-          "english": "respect"
+          "english": "respect |(vi) tôn trọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "慎重な（しんちょうな）",
         "meaning": {
-          "english": "prudent"
+          "english": "prudent |(vi) thận trọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "貴重な（きちょうな）",
         "meaning": {
-          "english": "precious"
+          "english": "precious |(vi) quý giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "二重（ふたえ）",
         "meaning": {
-          "english": "two layers"
+          "english": "two layers |(vi) hai lớp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "重さ（おもさ）",
         "meaning": {
-          "english": "weight"
+          "english": "weight |(vi) trọng lượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "重い（おもい）",
         "meaning": {
-          "english": "heavy"
+          "english": "heavy |(vi) nặng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "重ねる（かさねる）",
         "meaning": {
-          "english": "pile up [v.t.]"
+          "english": "pile up [v.t.] |(vi) chồng lên, xếp chồng [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "重なる（かさなる）",
         "meaning": {
-          "english": "be piled up [v.i.]"
+          "english": "be piled up [v.i.] |(vi) bị chồng lên nhau [nội động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_l.opus",
@@ -322,7 +322,7 @@
     "kanji": {
       "character": "重",
       "meaning": {
-        "english": "heavy"
+        "english": "heavy |(vi) nặng"
       },
       "strokes": {
         "count": 9,
@@ -378,7 +378,7 @@
         "romaji": "sato"
       },
       "meaning": {
-        "english": "village, (3.93 km)"
+        "english": "village, (3.93 km) |(vi) Lý (làng, dặm, 3.93 km)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sato0.svg",
@@ -399,7 +399,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "193",
     "strokeCount": 9,
-    "meaning": "heavy, important, esteem, respect, heap up, pile up, nest of boxes, -fold",
+    "meaning": "heavy, important, esteem, respect, heap up, pile up, nest of boxes, -fold |(vi) nặng, quan trọng, quý trọng, tôn trọng, chồng chất, xếp lớp, bộ hộp lồng, lớp/-trùng |(hv) Trọng",
     "kunyomi": [
       "え",
       "おも.い",
@@ -417,109 +417,109 @@
       {
         "example": "重",
         "reading": "ジュウ",
-        "meaning": "jūbako, multi-tiered food box, heavy, serious, extreme, -fold, -ply"
+        "meaning": "jūbako, multi-tiered food box, heavy, serious, extreme, -fold, -ply |(vi) jūbako, hộp đựng thức ăn nhiều tầng, nặng, nghiêm trọng, cực độ, lớp/-trùng"
       },
       {
         "example": "重圧",
         "reading": "ジュウアツ",
-        "meaning": "strong pressure, heavy pressure"
+        "meaning": "strong pressure, heavy pressure |(vi) áp lực mạnh, áp lực nặng nề"
       },
       {
         "example": "九重",
         "reading": "ココノエ",
-        "meaning": "ninefold, imperial palace, the Court"
+        "meaning": "ninefold, imperial palace, the Court |(vi) chín tầng, hoàng cung, triều đình"
       },
       {
         "example": "加重",
         "reading": "カジュウ",
-        "meaning": "weighting (in averaging), aggravation"
+        "meaning": "weighting (in averaging), aggravation |(vi) trọng số (khi lấy trung bình), sự làm nặng thêm"
       },
       {
         "example": "重複",
         "reading": "チョウフク",
-        "meaning": "duplication, repetition, overlapping, redundancy, restoration"
+        "meaning": "duplication, repetition, overlapping, redundancy, restoration |(vi) trùng lặp, lặp lại, chồng chéo, dư thừa, phục hồi"
       },
       {
         "example": "重厚",
         "reading": "ジュウコウ",
-        "meaning": "profound, deep, grave, solid, dignified, stately, solemn, composed, substantial, massive"
+        "meaning": "profound, deep, grave, solid, dignified, stately, solemn, composed, substantial, massive |(vi) sâu sắc, sâu xa, trang trọng, vững chắc, uy nghiêm, đường bệ, trịnh trọng, điềm tĩnh, vững chãi, đồ sộ"
       },
       {
         "example": "加重",
         "reading": "カジュウ",
-        "meaning": "weighting (in averaging), aggravation"
+        "meaning": "weighting (in averaging), aggravation |(vi) trọng số (khi lấy trung bình), sự làm nặng thêm"
       },
       {
         "example": "九重",
         "reading": "ココノエ",
-        "meaning": "ninefold, imperial palace, the Court"
+        "meaning": "ninefold, imperial palace, the Court |(vi) chín tầng, hoàng cung, triều đình"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "重",
         "reading": "え",
-        "meaning": "-fold, -ply"
+        "meaning": "-fold, -ply |(vi) lớp/-trùng"
       },
       {
         "example": "八重",
         "reading": "やえ",
-        "meaning": "multilayered, doubled"
+        "meaning": "multilayered, doubled |(vi) nhiều lớp, gấp đôi"
       },
       {
         "example": "九重",
         "reading": "ここのえ",
-        "meaning": "ninefold, imperial palace, the Court"
+        "meaning": "ninefold, imperial palace, the Court |(vi) chín tầng, hoàng cung, triều đình"
       },
       {
         "example": "重い",
         "reading": "おもい",
-        "meaning": "heavy, weighty, heavy (feeling), depressed, gloomy, blue, uneasy, slow, sluggish, lumbering, ponderous, clumsy, important (position, responsibility, etc.), serious, grave, serious (punishment, illness, etc.), severe, critical, solid, established, dignified, sensible"
+        "meaning": "heavy, weighty, heavy (feeling), depressed, gloomy, blue, uneasy, slow, sluggish, lumbering, ponderous, clumsy, important (position, responsibility, etc.), serious, grave, serious (punishment, illness, etc.), severe, critical, solid, established, dignified, sensible |(vi) nặng, nặng nề, nặng nề (cảm giác), chán nản, u ám, buồn bã, bất an, chậm chạp, ì ạch, cồng kềnh, vụng về, quan trọng (vị trí, trách nhiệm...), nghiêm trọng, nghiêm trọng (hình phạt, bệnh tật...), khắc nghiệt, nguy kịch, vững chắc, có uy tín, chín chắn"
       },
       {
         "example": "重い腰を上げる",
         "reading": "おもいこしをあげる",
-        "meaning": "to get off one's backside, to bestir oneself"
+        "meaning": "to get off one's backside, to bestir oneself |(vi) chịu đứng dậy hành động, tự thúc đẩy bản thân"
       },
       {
         "example": "重り",
         "reading": "おもり",
-        "meaning": "weight, sinker"
+        "meaning": "weight, sinker |(vi) trọng lượng, vật nặng để dằn"
       },
       {
         "example": "重ねる",
         "reading": "かさねる",
-        "meaning": "to pile up, to heap up, to stack up, to put on top of another, to repeat many times over, to go through repeatedly, to accumulate"
+        "meaning": "to pile up, to heap up, to stack up, to put on top of another, to repeat many times over, to go through repeatedly, to accumulate |(vi) chồng lên, xếp chồng, đắp lên, đặt lên trên cái khác, lặp lại nhiều lần, trải qua liên tục, tích lũy"
       },
       {
         "example": "重なる",
         "reading": "かさなる",
-        "meaning": "to be piled up, to lie on top of one another, to come one after another, to happen over and over, to pile up (e.g. stress), to accumulate, to overlap (each other), to occur at the same time, to happen simultaneously"
+        "meaning": "to be piled up, to lie on top of one another, to come one after another, to happen over and over, to pile up (e.g. stress), to accumulate, to overlap (each other), to occur at the same time, to happen simultaneously |(vi) bị chồng lên nhau, nằm chồng lên nhau, xảy ra liên tiếp, xảy ra lặp đi lặp lại, chất chồng (ví dụ căng thẳng), tích lũy, trùng lặp (với nhau), xảy ra đồng thời, xảy ra cùng lúc"
       },
       {
         "example": "主",
         "reading": "おも",
-        "meaning": "chief, main, principal, important, main secondary or supporting role (in kyogen)"
+        "meaning": "chief, main, principal, important, main secondary or supporting role (in kyogen) |(vi) chính, chủ yếu, quan trọng, vai phụ chính (trong kịch kyogen)"
       },
       {
         "example": "重き",
         "reading": "おもき",
-        "meaning": "importance, emphasis, stress"
+        "meaning": "importance, emphasis, stress |(vi) tầm quan trọng, sự nhấn mạnh, trọng tâm"
       },
       {
         "example": "身重",
         "reading": "みおも",
-        "meaning": "pregnant"
+        "meaning": "pregnant |(vi) mang thai"
       },
       {
         "example": "気重",
         "reading": "きおも",
-        "meaning": "heavy-hearted"
+        "meaning": "heavy-hearted |(vi) nặng lòng, u sầu"
       }
     ],
     "radical": {
       "symbol": "里",
-      "meaning": "village, mile"
+      "meaning": "village, mile |(vi) Lý (làng, dặm)"
     },
     "parts": [
       "ノ",

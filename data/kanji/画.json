@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "picture",
+    "meaning": "picture |(vi) bức tranh, hình vẽ",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "映画（えいが）",
         "meaning": {
-          "english": "movie"
+          "english": "movie |(vi) phim điện ảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ei)ga_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "漫画（まんが）",
         "meaning": {
-          "english": "comic"
+          "english": "comic |(vi) truyện tranh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ei)ga_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "絵画（かいが）",
         "meaning": {
-          "english": "painting"
+          "english": "painting |(vi) hội họa, tranh vẽ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ei)ga_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "画面（がめん）",
         "meaning": {
-          "english": "screen"
+          "english": "screen |(vi) màn hình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ei)ga_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "計画する（けいかくする）",
         "meaning": {
-          "english": "plan"
+          "english": "plan |(vi) lập kế hoạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ei)ga_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "企画する（きかくする）",
         "meaning": {
-          "english": "plan (e.g. project)"
+          "english": "plan (e.g. project) |(vi) hoạch định, lên kế hoạch (dự án)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ei)ga_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "画数（かくすう）",
         "meaning": {
-          "english": "stroke count"
+          "english": "stroke count |(vi) số nét (chữ Hán)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ei)ga_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "画期的（かっきてき）",
         "meaning": {
-          "english": "epoch-making"
+          "english": "epoch-making |(vi) mang tính bước ngoặt, đột phá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ei)ga_06_h.opus",
@@ -250,7 +250,7 @@
     "kanji": {
       "character": "画",
       "meaning": {
-        "english": "picture"
+        "english": "picture |(vi) bức tranh, hình vẽ"
       },
       "strokes": {
         "count": 8,
@@ -304,7 +304,7 @@
         "romaji": "kannyou"
       },
       "meaning": {
-        "english": "container, open box"
+        "english": "container, open box |(vi) Khảm (hố, miệng mở)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kannyou0.svg",
@@ -325,7 +325,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "199",
     "strokeCount": 8,
-    "meaning": "brush-stroke, picture",
+    "meaning": "brush-stroke, picture |(vi) nét bút, bức tranh |(hv) Họa",
     "kunyomi": [
       "えが.く",
       "かく.する",
@@ -343,79 +343,79 @@
       {
         "example": "絵",
         "reading": "エ",
-        "meaning": "picture, drawing, painting, sketch, image (TV, film, etc.), picture, footage"
+        "meaning": "picture, drawing, painting, sketch, image (TV, film, etc.), picture, footage |(vi) hình vẽ, bức tranh, bức họa, phác thảo, hình ảnh (TV, phim...), cảnh quay"
       },
       {
         "example": "画家",
         "reading": "ガカ",
-        "meaning": "painter, artist"
+        "meaning": "painter, artist |(vi) họa sĩ"
       },
       {
         "example": "洋画",
         "reading": "ヨウガ",
-        "meaning": "Western painting, Western film, Western movie"
+        "meaning": "Western painting, Western film, Western movie |(vi) tranh phương Tây, phim phương Tây"
       },
       {
         "example": "邦画",
         "reading": "ホウガ",
-        "meaning": "Japanese film, Japanese painting"
+        "meaning": "Japanese film, Japanese painting |(vi) phim Nhật, tranh Nhật"
       },
       {
         "example": "画",
         "reading": "カク",
-        "meaning": "stroke (of a kanji)"
+        "meaning": "stroke (of a kanji) |(vi) nét (của chữ Hán)"
       },
       {
         "example": "描く",
         "reading": "エガク",
-        "meaning": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
+        "meaning": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.) |(vi) vẽ, phác thảo, mô tả, hình dung, tưởng tượng, tạo thành hình dạng nhất định (đường đi của hành động, hình dáng vật thể...)"
       },
       {
         "example": "参画",
         "reading": "サンカク",
-        "meaning": "taking part (in planning), participation"
+        "meaning": "taking part (in planning), participation |(vi) tham gia (lập kế hoạch)"
       },
       {
         "example": "家族計画",
         "reading": "カゾクケイカク",
-        "meaning": "family planning"
+        "meaning": "family planning |(vi) kế hoạch hóa gia đình"
       },
       {
         "example": "絵",
         "reading": "エ",
-        "meaning": "picture, drawing, painting, sketch, image (TV, film, etc.), picture, footage"
+        "meaning": "picture, drawing, painting, sketch, image (TV, film, etc.), picture, footage |(vi) hình vẽ, bức tranh, bức họa, phác thảo, hình ảnh (TV, phim...), cảnh quay"
       },
       {
         "example": "描く",
         "reading": "エガク",
-        "meaning": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
+        "meaning": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.) |(vi) vẽ, phác thảo, mô tả, hình dung, tưởng tượng, tạo thành hình dạng nhất định (đường đi của hành động, hình dáng vật thể...)"
       },
       {
         "example": "似顔絵",
         "reading": "ニガオエ",
-        "meaning": "portrait, likeness, sketch (of a face)"
+        "meaning": "portrait, likeness, sketch (of a face) |(vi) chân dung, ký họa khuôn mặt"
       },
       {
         "example": "影絵",
         "reading": "カゲエ",
-        "meaning": "shadow picture, silhouette, shadowgraph"
+        "meaning": "shadow picture, silhouette, shadowgraph |(vi) hình bóng, tranh bóng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "描く",
         "reading": "えがく",
-        "meaning": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
+        "meaning": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.) |(vi) vẽ, phác thảo, mô tả, hình dung, tưởng tượng, tạo thành hình dạng nhất định (đường đi của hành động, hình dáng vật thể...)"
       },
       {
         "example": "画する",
         "reading": "かくする",
-        "meaning": "to draw (a line), to demarcate, to mark, to divide, to map out, to plan"
+        "meaning": "to draw (a line), to demarcate, to mark, to divide, to map out, to plan |(vi) vạch (đường), phân định, đánh dấu, chia ranh giới, hoạch định, lập kế hoạch"
       }
     ],
     "radical": {
       "symbol": "田",
-      "meaning": "field"
+      "meaning": "field |(vi) Điền (ruộng)"
     },
     "parts": [
       "一",

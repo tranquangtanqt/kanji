@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "sasa, sasaeru",
-    "meaning": "branch, support",
+    "meaning": "branch, support |(vi) chi nhánh, hỗ trợ",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "支店（してん）",
         "meaning": {
-          "english": "branch store"
+          "english": "branch store |(vi) cửa hàng chi nhánh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sasa(eru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "支社（ししゃ）",
         "meaning": {
-          "english": "branch office"
+          "english": "branch office |(vi) chi nhánh công ty, văn phòng chi nhánh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sasa(eru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "支出（ししゅつ）",
         "meaning": {
-          "english": "expenditure"
+          "english": "expenditure |(vi) chi tiêu, khoản chi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sasa(eru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "収支（しゅうし）",
         "meaning": {
-          "english": "income and expenditure"
+          "english": "income and expenditure |(vi) thu chi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sasa(eru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "支払う（しはらう）",
         "meaning": {
-          "english": "pay [v.t.]"
+          "english": "pay [v.t.] |(vi) chi trả, thanh toán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sasa(eru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "支持する（しじする）",
         "meaning": {
-          "english": "support [v.t.]"
+          "english": "support [v.t.] |(vi) ủng hộ, hỗ trợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sasa(eru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "支援する（しえんする）",
         "meaning": {
-          "english": "support, aid [v.t.]"
+          "english": "support, aid [v.t.] |(vi) hỗ trợ, viện trợ, giúp đỡ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sasa(eru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "支度する（したくする）",
         "meaning": {
-          "english": "prepare"
+          "english": "prepare |(vi) chuẩn bị, sửa soạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sasa(eru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "支配する（しはいする）",
         "meaning": {
-          "english": "rule, control"
+          "english": "rule, control |(vi) cai trị, chi phối, kiểm soát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sasa(eru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "支給する（しきゅうする）",
         "meaning": {
-          "english": "provide, pay"
+          "english": "provide, pay |(vi) cấp phát, chi trả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sasa(eru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "支える（ささえる）",
         "meaning": {
-          "english": "support, prop up"
+          "english": "support, prop up |(vi) chống đỡ, nâng đỡ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sasa(eru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "*差し支える（さしつかえる）",
         "meaning": {
-          "english": "be hindered [v.i.]"
+          "english": "be hindered [v.i.] |(vi) bị cản trở, bị vướng mắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sasa(eru)_06_l.opus",
@@ -259,7 +259,7 @@
     "kanji": {
       "character": "支",
       "meaning": {
-        "english": "branch, support"
+        "english": "branch, support |(vi) chi nhánh, hỗ trợ"
       },
       "strokes": {
         "count": 4,
@@ -305,7 +305,7 @@
         "romaji": "shinyou"
       },
       "meaning": {
-        "english": "branch"
+        "english": "branch |(vi) Chi (nhánh, cành)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinyou0.svg",
@@ -326,7 +326,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "159",
     "strokeCount": 4,
-    "meaning": "branch, support, sustain, branch radical (no. 65)",
+    "meaning": "branch, support, sustain, branch radical (no. 65) |(vi) chi nhánh, hỗ trợ, duy trì, bộ Chi (bộ thủ số 65) |(hv) Chi",
     "kunyomi": [
       "ささ.える",
       "つか.える",
@@ -339,44 +339,44 @@
       {
         "example": "支",
         "reading": "シ",
-        "meaning": "China"
+        "meaning": "China |(vi) Trung Hoa, Chi Na (tên gọi cũ của Trung Quốc)"
       },
       {
         "example": "支援",
         "reading": "シエン",
-        "meaning": "support, backing, aid, assistance"
+        "meaning": "support, backing, aid, assistance |(vi) hỗ trợ, viện trợ, giúp đỡ"
       },
       {
         "example": "気管支",
         "reading": "キカンシ",
-        "meaning": "bronchus, bronchial tube"
+        "meaning": "bronchus, bronchial tube |(vi) phế quản, ống phế quản"
       },
       {
         "example": "干支",
         "reading": "エト",
-        "meaning": "sexagenary cycle, 60-term cycle of 12 zodiac animals combined with 5 elements in the traditional Chinese calendar; currently used in Japan for years, historically also for days, 12-year Chinese zodiac"
+        "meaning": "sexagenary cycle, 60-term cycle of 12 zodiac animals combined with 5 elements in the traditional Chinese calendar; currently used in Japan for years, historically also for days, 12-year Chinese zodiac |(vi) can chi, chu kỳ 60 năm kết hợp 12 con giáp và 5 hành trong lịch Trung Hoa cổ; hiện dùng ở Nhật để tính năm, trước đây còn dùng cho ngày; 12 con giáp"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "支える",
         "reading": "ささえる",
-        "meaning": "to support, to prop, to sustain, to underlay, to hold up, to defend, to hold at bay, to stem, to check"
+        "meaning": "to support, to prop, to sustain, to underlay, to hold up, to defend, to hold at bay, to stem, to check |(vi) chống đỡ, nâng đỡ, duy trì, kê đỡ, giữ vững, bảo vệ, cầm cự, ngăn chặn, kiềm chế"
       },
       {
         "example": "閊える",
         "reading": "つかえる",
-        "meaning": "to stick, to get stuck, to get caught, to get jammed, to clog, to be unavailable, to be busy, to be occupied, to be full, to be piled up (e.g. of work), to halt (in one's speech), to stumble (over one's words), to stutter, to stammer, to feel blocked (of one's chest or throat, due to grief, anxiety, illness, etc.), to feel pressure, to feel pain"
+        "meaning": "to stick, to get stuck, to get caught, to get jammed, to clog, to be unavailable, to be busy, to be occupied, to be full, to be piled up (e.g. of work), to halt (in one's speech), to stumble (over one's words), to stutter, to stammer, to feel blocked (of one's chest or throat, due to grief, anxiety, illness, etc.), to feel pressure, to feel pain |(vi) bị kẹt, bị mắc lại, bị tắc nghẽn, không rảnh, bận rộn, kín lịch, đầy ứ (công việc), ấp úng (khi nói), vấp lời, nói lắp, cảm thấy nghẹn (ngực hoặc họng, do buồn phiền, lo lắng, bệnh tật), cảm thấy áp lực, cảm thấy đau"
       },
       {
         "example": "支う",
         "reading": "かう",
-        "meaning": "to support, to prop up"
+        "meaning": "to support, to prop up |(vi) chống đỡ, nâng đỡ"
       }
     ],
     "radical": {
       "symbol": "支",
-      "meaning": "branch"
+      "meaning": "branch |(vi) Chi (nhánh, cành)"
     },
     "parts": [
       "十",

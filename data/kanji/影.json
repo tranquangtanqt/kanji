@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "kage",
-    "meaning": "shadow, silhouette",
+    "meaning": "shadow, silhouette |(vi) bóng, hình bóng",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "影響する（えいきょうする）",
         "meaning": {
-          "english": "influence [v.t.]"
+          "english": "influence [v.t.] |(vi) ảnh hưởng đến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei-kage_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "撮影する（さつえいする）",
         "meaning": {
-          "english": "take a picture, film a movie"
+          "english": "take a picture, film a movie |(vi) chụp ảnh, quay phim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei-kage_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "投影する（とうえいする）",
         "meaning": {
-          "english": "project [v.t.]"
+          "english": "project [v.t.] |(vi) chiếu, phản chiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei-kage_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "陰影（いんえい）",
         "meaning": {
-          "english": "shading"
+          "english": "shading |(vi) bóng đổ, sắc độ tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei-kage_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "影（かげ）",
         "meaning": {
-          "english": "shadow"
+          "english": "shadow |(vi) bóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei-kage_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "影武者（かげむしゃ）",
         "meaning": {
-          "english": "Kagemusha (shadow warrior)"
+          "english": "Kagemusha (shadow warrior) |(vi) Kagemusha (võ sĩ đóng thế, bóng người)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei-kage_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "面影（おもかげ）",
         "meaning": {
-          "english": "vestiges"
+          "english": "vestiges |(vi) dấu vết, hình bóng cũ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei-kage_06_g.opus",
@@ -195,7 +195,7 @@
     "kanji": {
       "character": "影",
       "meaning": {
-        "english": "shadow, silhouette"
+        "english": "shadow, silhouette |(vi) bóng, hình bóng"
       },
       "strokes": {
         "count": 15,
@@ -263,7 +263,7 @@
         "romaji": "sanzukuri"
       },
       "meaning": {
-        "english": "hair-style, light rays"
+        "english": "hair-style, light rays |(vi) Sam (lông, tia sáng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzukuri0.svg",
@@ -284,7 +284,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "464",
     "strokeCount": 15,
-    "meaning": "shadow, silhouette, phantom",
+    "meaning": "shadow, silhouette, phantom |(vi) bóng, hình bóng, bóng ma |(hv) Ảnh",
     "kunyomi": [
       "かげ"
     ],
@@ -295,49 +295,49 @@
       {
         "example": "影響",
         "reading": "エイキョウ",
-        "meaning": "influence, effect, impact"
+        "meaning": "influence, effect, impact |(vi) ảnh hưởng, tác động"
       },
       {
         "example": "影響力",
         "reading": "エイキョウリョク",
-        "meaning": "influence, clout, leverage"
+        "meaning": "influence, clout, leverage |(vi) sức ảnh hưởng, thế lực"
       },
       {
         "example": "遺影",
         "reading": "イエイ",
-        "meaning": "portrait of a deceased person"
+        "meaning": "portrait of a deceased person |(vi) di ảnh (người đã mất)"
       },
       {
         "example": "投影",
         "reading": "トウエイ",
-        "meaning": "projection"
+        "meaning": "projection |(vi) sự chiếu, phép chiếu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "影",
         "reading": "かげ",
-        "meaning": "shadow, silhouette, figure, shape, reflection, image, ominous sign, light (stars, moon), trace, shadow (of one's former self), behind, background, other side"
+        "meaning": "shadow, silhouette, figure, shape, reflection, image, ominous sign, light (stars, moon), trace, shadow (of one's former self), behind, background, other side |(vi) bóng, hình bóng, dáng vẻ, hình ảnh phản chiếu, điềm gở, ánh sáng (sao, trăng), dấu vết, cái bóng (của con người trước đây), phía sau, hậu trường, mặt khuất"
       },
       {
         "example": "陰口",
         "reading": "かげぐち",
-        "meaning": "malicious gossip, backbiting, speaking ill behind someone's back"
+        "meaning": "malicious gossip, backbiting, speaking ill behind someone's back |(vi) nói xấu sau lưng, đâm bị thóc chọc bị gạo"
       },
       {
         "example": "山陰",
         "reading": "やまかげ",
-        "meaning": "place in the shade of a mountain, shelter of the mountains, mountain recess"
+        "meaning": "place in the shade of a mountain, shelter of the mountains, mountain recess |(vi) chỗ khuất bóng núi, nơi ẩn náu trong núi, hẻm núi"
       },
       {
         "example": "夕影",
         "reading": "ゆうかげ",
-        "meaning": "light of the setting sun, figure lit by the evening sun"
+        "meaning": "light of the setting sun, figure lit by the evening sun |(vi) ánh nắng chiều tà, hình bóng dưới ánh chiều"
       }
     ],
     "radical": {
       "symbol": "彡",
-      "meaning": "bristle, beard"
+      "meaning": "bristle, beard |(vi) Sam (lông tơ, lông mao)"
     },
     "parts": [
       "亠",

@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ama, amai, amasa, amaeru, amae, amayakasu",
-    "meaning": "sweet",
+    "meaning": "sweet |(vi) ngọt",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "甘味料（かんみりょう）",
         "meaning": {
-          "english": "sweeteners, sweetening materials,"
+          "english": "sweeteners, sweetening materials, |(vi) chất tạo ngọt, chất làm ngọt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ama(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "甘美な（かんびな）",
         "meaning": {
-          "english": "sweet"
+          "english": "sweet |(vi) ngọt ngào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ama(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "甘い（あまい）",
         "meaning": {
-          "english": "sweet, not strict"
+          "english": "sweet, not strict |(vi) ngọt, dễ dãi (không nghiêm khắc)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ama(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "甘える（あまえる）",
         "meaning": {
-          "english": "presume goodwill"
+          "english": "presume goodwill |(vi) nũng nịu, ỷ lại (vào lòng tốt của ai)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ama(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "甘やかす（あまやかす）",
         "meaning": {
-          "english": "pamper, spoil"
+          "english": "pamper, spoil |(vi) nuông chiều, làm hư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ama(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "甘んじる（あまんじる）",
         "meaning": {
-          "english": "put up with, submit to"
+          "english": "put up with, submit to |(vi) cam chịu, chấp nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ama(i)_06_f.opus",
@@ -184,7 +184,7 @@
     "kanji": {
       "character": "甘",
       "meaning": {
-        "english": "sweet"
+        "english": "sweet |(vi) ngọt"
       },
       "strokes": {
         "count": 5,
@@ -232,7 +232,7 @@
         "romaji": "amai"
       },
       "meaning": {
-        "english": "sweet"
+        "english": "sweet |(vi) Cam (ngọt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/amai0.svg",
@@ -253,7 +253,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1248",
     "strokeCount": 5,
-    "meaning": "sweet, coax, pamper, be content, sugary",
+    "meaning": "sweet, coax, pamper, be content, sugary |(vi) ngọt, dỗ dành, nuông chiều, cam lòng, có đường |(hv) Cam",
     "kunyomi": [
       "あま.い",
       "あま.える",
@@ -267,49 +267,49 @@
       {
         "example": "さつま芋",
         "reading": "サツマイモ",
-        "meaning": "sweet potato (Ipomoea batatas)"
+        "meaning": "sweet potato (Ipomoea batatas) |(vi) khoai lang"
       },
       {
         "example": "甘言",
         "reading": "カンゲン",
-        "meaning": "sweet words, smooth talk, cajolery, flattery, sycophancy"
+        "meaning": "sweet words, smooth talk, cajolery, flattery, sycophancy |(vi) lời ngọt ngào, lời dụ dỗ, xu nịnh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "甘い",
         "reading": "あまい",
-        "meaning": "sweet-tasting, sweet, sugary, sugared, fragrant (smelling), sweet (music), lightly salted, light in salt, not spicy, naive, overly optimistic, soft on, generous, indulgent, easy-going, lenient, half-hearted, not finished properly, insufficient, not satisfactory, inadequate, loose, mild, tempting, enticing, luring"
+        "meaning": "sweet-tasting, sweet, sugary, sugared, fragrant (smelling), sweet (music), lightly salted, light in salt, not spicy, naive, overly optimistic, soft on, generous, indulgent, easy-going, lenient, half-hearted, not finished properly, insufficient, not satisfactory, inadequate, loose, mild, tempting, enticing, luring |(vi) có vị ngọt, ngọt ngào, có đường, thơm (mùi), du dương (âm nhạc), nhạt muối, không cay, ngây thơ, quá lạc quan, mềm lòng, rộng lượng, dễ dãi, khoan dung, nửa vời, chưa hoàn thiện đúng mức, không đủ, không thỏa đáng, lỏng lẻo, nhẹ nhàng, hấp dẫn, quyến rũ, mê hoặc"
       },
       {
         "example": "甘い顔をする",
         "reading": "あまいかおをする",
-        "meaning": "to go easy on someone, to be easygoing, to be lenient"
+        "meaning": "to go easy on someone, to be easygoing, to be lenient |(vi) dễ dãi với ai đó, xuề xòa, khoan dung"
       },
       {
         "example": "甘える",
         "reading": "あまえる",
-        "meaning": "to behave like a spoiled child, to fawn on, to take advantage of, to presume upon (e.g. another's benevolence), to depend on"
+        "meaning": "to behave like a spoiled child, to fawn on, to take advantage of, to presume upon (e.g. another's benevolence), to depend on |(vi) hành xử như trẻ được nuông chiều, nịnh nọt, lợi dụng, ỷ lại vào (lòng tốt của người khác), dựa dẫm"
       },
       {
         "example": "甘やかす",
         "reading": "あまやかす",
-        "meaning": "to pamper, to spoil"
+        "meaning": "to pamper, to spoil |(vi) nuông chiều, làm hư"
       },
       {
         "example": "上手い",
         "reading": "うまい",
-        "meaning": "skillful, skilful, skilled, good, expert, clever (expression, trick, etc.), apt, appropriate, delicious, tasty, good, nice, good (deal, idea, etc.), profitable, promising, lucky, fortunate, successful, satisfactory, splendid"
+        "meaning": "skillful, skilful, skilled, good, expert, clever (expression, trick, etc.), apt, appropriate, delicious, tasty, good, nice, good (deal, idea, etc.), profitable, promising, lucky, fortunate, successful, satisfactory, splendid |(vi) khéo léo, thành thạo, giỏi, tài tình (cách diễn đạt, mánh khóe...), phù hợp, thích hợp, ngon, ngon miệng, tốt, hay, có lợi, hứa hẹn, may mắn, thành công, thỏa đáng, xuất sắc"
       },
       {
         "example": "うまい話",
         "reading": "うまいはなし",
-        "meaning": "too-good-to-be-true offers (e.g. scams and frauds), too-good-to-be-true stories"
+        "meaning": "too-good-to-be-true offers (e.g. scams and frauds), too-good-to-be-true stories |(vi) lời đề nghị nghe quá hời (thường là lừa đảo), câu chuyện nghe quá tốt để là thật"
       }
     ],
     "radical": {
       "symbol": "甘",
-      "meaning": "sweet"
+      "meaning": "sweet |(vi) Cam (ngọt)"
     },
     "parts": [
       "甘"

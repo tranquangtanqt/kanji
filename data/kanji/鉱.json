@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "ore, mine",
+    "meaning": "ore, mine |(vi) quặng, mỏ",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "鉱石（こうせき）",
         "meaning": {
-          "english": "ore, mineral, crystal"
+          "english": "ore, mineral, crystal |(vi) quặng, khoáng vật, tinh thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(myaku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "鉱山（こうざん）",
         "meaning": {
-          "english": "mine [n.]"
+          "english": "mine [n.] |(vi) mỏ (danh từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(myaku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "鉱脈（こうみゃく）",
         "meaning": {
-          "english": "vein, lode"
+          "english": "vein, lode |(vi) mạch khoáng, vỉa quặng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(myaku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "金鉱（きんこう）",
         "meaning": {
-          "english": "gold mine"
+          "english": "gold mine |(vi) mỏ vàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(myaku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "炭鉱（たんこう）",
         "meaning": {
-          "english": "coal mine, coal pit"
+          "english": "coal mine, coal pit |(vi) mỏ than"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(myaku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "鉄鉱石（てっこうせき）",
         "meaning": {
-          "english": "iron ore"
+          "english": "iron ore |(vi) quặng sắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(myaku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "採鉱する（さいこうする）",
         "meaning": {
-          "english": "mine [v.t.]"
+          "english": "mine [v.t.] |(vi) khai thác quặng (động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(myaku)_06_g.opus",
@@ -175,7 +175,7 @@
     "kanji": {
       "character": "鉱",
       "meaning": {
-        "english": "ore, mine"
+        "english": "ore, mine |(vi) quặng, mỏ"
       },
       "strokes": {
         "count": 13,
@@ -239,7 +239,7 @@
         "romaji": "kanehen"
       },
       "meaning": {
-        "english": "metal, gold, mineral"
+        "english": "metal, gold, mineral |(vi) Kim (kim loại, vàng, khoáng chất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kanehen0.svg",
@@ -260,7 +260,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1376",
     "strokeCount": 13,
-    "meaning": "mineral, ore",
+    "meaning": "mineral, ore |(vi) khoáng sản, quặng |(hv) Khoáng",
     "kunyomi": [
       "あらがね"
     ],
@@ -271,29 +271,29 @@
       {
         "example": "鉱区",
         "reading": "コウク",
-        "meaning": "mining area, mine lot"
+        "meaning": "mining area, mine lot |(vi) khu mỏ, lô khai thác mỏ"
       },
       {
         "example": "鉱業",
         "reading": "コウギョウ",
-        "meaning": "mining industry"
+        "meaning": "mining industry |(vi) ngành khai khoáng"
       },
       {
         "example": "廃坑",
         "reading": "ハイコウ",
-        "meaning": "closure of a mine, abandoned mine, disused mine"
+        "meaning": "closure of a mine, abandoned mine, disused mine |(vi) đóng cửa mỏ, mỏ bị bỏ hoang, mỏ ngừng khai thác"
       },
       {
         "example": "採鉱",
         "reading": "サイコウ",
-        "meaning": "mining"
+        "meaning": "mining |(vi) khai thác mỏ, khai khoáng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "粗金",
         "reading": "あらがね",
-        "meaning": "ore"
+        "meaning": "ore |(vi) quặng thô"
       }
     ],
     "radical": {
@@ -301,7 +301,7 @@
       "forms": [
         "釒"
       ],
-      "meaning": "metal, gold"
+      "meaning": "metal, gold |(vi) Kim (kim loại, vàng)"
     },
     "parts": [
       "厶",

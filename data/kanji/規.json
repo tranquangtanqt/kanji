@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "regulation, measure",
+    "meaning": "regulation, measure |(vi) quy định, thước đo",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "規則（きそく）",
         "meaning": {
-          "english": "regulation"
+          "english": "regulation |(vi) quy tắc, quy định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(bo)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "規模（きぼ）",
         "meaning": {
-          "english": "scale"
+          "english": "scale |(vi) quy mô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(bo)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "新規（しんき）",
         "meaning": {
-          "english": "novel, new"
+          "english": "novel, new |(vi) mới, mới mẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(bo)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "正規（せいき）",
         "meaning": {
-          "english": "regular"
+          "english": "regular |(vi) chính quy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(bo)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "不規則な（ふきそくな）",
         "meaning": {
-          "english": "irregular"
+          "english": "irregular |(vi) bất quy tắc, không đều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(bo)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "規制する（きせいする）",
         "meaning": {
-          "english": "regulate"
+          "english": "regulate |(vi) điều tiết, quản chế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(bo)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "定規（じょうぎ）",
         "meaning": {
-          "english": "(measuring) ruler"
+          "english": "(measuring) ruler |(vi) thước kẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(bo)_06_g.opus",
@@ -187,7 +187,7 @@
     "kanji": {
       "character": "規",
       "meaning": {
-        "english": "regulation, measure"
+        "english": "regulation, measure |(vi) quy định, thước đo"
       },
       "strokes": {
         "count": 11,
@@ -247,7 +247,7 @@
         "romaji": "miru"
       },
       "meaning": {
-        "english": "to see"
+        "english": "to see |(vi) Kiến (nhìn thấy)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/miru0.svg",
@@ -268,7 +268,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "349",
     "strokeCount": 11,
-    "meaning": "standard, measure",
+    "meaning": "standard, measure |(vi) tiêu chuẩn, thước đo |(hv) Quy",
     "kunyomi": [],
     "onyomi": [
       "キ"
@@ -277,28 +277,28 @@
       {
         "example": "基準",
         "reading": "キジュン",
-        "meaning": "standard, criterion, norm, benchmark, measure, gauge, basis"
+        "meaning": "standard, criterion, norm, benchmark, measure, gauge, basis |(vi) tiêu chuẩn, chuẩn mực, thước đo, cơ sở"
       },
       {
         "example": "規格",
         "reading": "キカク",
-        "meaning": "standard, norm"
+        "meaning": "standard, norm |(vi) tiêu chuẩn, quy cách"
       },
       {
         "example": "内規",
         "reading": "ナイキ",
-        "meaning": "private regulations, bylaws, internal rules, tradition"
+        "meaning": "private regulations, bylaws, internal rules, tradition |(vi) quy định nội bộ, điều lệ riêng, truyền thống"
       },
       {
         "example": "正規",
         "reading": "セイキ",
-        "meaning": "regular, normal, formal, legal, established, legitimate"
+        "meaning": "regular, normal, formal, legal, established, legitimate |(vi) chính quy, bình thường, chính thức, hợp pháp, được thiết lập"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "見",
-      "meaning": "see"
+      "meaning": "see |(vi) Kiến (nhìn thấy)"
     },
     "parts": [
       "二",

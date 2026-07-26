@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "saka",
-    "meaning": "slope, hill",
+    "meaning": "slope, hill |(vi) dốc, đồi",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "登坂する（とはんする）",
         "meaning": {
-          "english": "climb a hill"
+          "english": "climb a hill |(vi) leo dốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "坂（さか）",
         "meaning": {
-          "english": "slope hill"
+          "english": "slope hill |(vi) dốc, đồi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "坂道（さかみち）",
         "meaning": {
-          "english": "hill road"
+          "english": "hill road |(vi) đường dốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "上り坂（のぼりざか）",
         "meaning": {
-          "english": "uphill, upgrade"
+          "english": "uphill, upgrade |(vi) đường lên dốc, dốc lên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "下り坂（くだりざか）",
         "meaning": {
-          "english": "downhill, downgrade"
+          "english": "downhill, downgrade |(vi) đường xuống dốc, dốc xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka_06_e.opus",
@@ -160,7 +160,7 @@
     "kanji": {
       "character": "坂",
       "meaning": {
-        "english": "slope, hill"
+        "english": "slope, hill |(vi) dốc, đồi"
       },
       "strokes": {
         "count": 7,
@@ -212,7 +212,7 @@
         "romaji": "tsuchihen"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
@@ -233,7 +233,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "865",
     "strokeCount": 7,
-    "meaning": "slope, incline, hill",
+    "meaning": "slope, incline, hill |(vi) dốc, nghiêng, đồi |(hv) Bản",
     "kunyomi": [
       "さか"
     ],
@@ -244,44 +244,44 @@
       {
         "example": "坂路",
         "reading": "ハンロ",
-        "meaning": "ramp, slope"
+        "meaning": "ramp, slope |(vi) đường dốc, đường nghiêng"
       },
       {
         "example": "京阪",
         "reading": "ケイハン",
-        "meaning": "Kyoto and Osaka, Kyoto-Osaka area"
+        "meaning": "Kyoto and Osaka, Kyoto-Osaka area |(vi) vùng Kyoto-Osaka, Kinh Bản"
       },
       {
         "example": "登坂",
         "reading": "トウハン",
-        "meaning": "climbing a slope (hill), ascending a hill"
+        "meaning": "climbing a slope (hill), ascending a hill |(vi) leo dốc, lên đồi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "坂",
         "reading": "さか",
-        "meaning": "slope, incline, hill, milestone, (age) mark"
+        "meaning": "slope, incline, hill, milestone, (age) mark |(vi) dốc, nghiêng, đồi, mốc (tuổi)"
       },
       {
         "example": "坂道",
         "reading": "さかみち",
-        "meaning": "hill road"
+        "meaning": "hill road |(vi) đường dốc"
       },
       {
         "example": "海境",
         "reading": "うなさか",
-        "meaning": "boundary between the world of men and the world of the sea god"
+        "meaning": "boundary between the world of men and the world of the sea god |(vi) ranh giới giữa cõi người và biển cả"
       },
       {
         "example": "急な坂",
         "reading": "きゅうなさか",
-        "meaning": "sudden drop, precipitous slope"
+        "meaning": "sudden drop, precipitous slope |(vi) dốc đứng, dốc gấp"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "厂",

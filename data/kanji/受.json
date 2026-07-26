@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 2,
     "kunyomi": "u, ukeru, ukaru",
-    "meaning": "receive",
+    "meaning": "receive |(vi) nhận, tiếp nhận",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "受講する（じゅこうする）",
         "meaning": {
-          "english": "attend class"
+          "english": "attend class |(vi) tham dự khóa học, theo học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "受賞する（じゅしょうする）",
         "meaning": {
-          "english": "win (a prize)"
+          "english": "win (a prize) |(vi) đoạt giải, được trao giải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "受験する（じゅけんする）",
         "meaning": {
-          "english": "take an exam"
+          "english": "take an exam |(vi) dự thi, đi thi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "受信する（じゅしんする）",
         "meaning": {
-          "english": "receive (transmission)"
+          "english": "receive (transmission) |(vi) nhận (tín hiệu, tin nhắn)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "受動的な（じゅどうてきな）",
         "meaning": {
-          "english": "passive"
+          "english": "passive |(vi) thụ động, bị động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "感受性（かんじゅせい）",
         "meaning": {
-          "english": "sensitivity"
+          "english": "sensitivity |(vi) cảm thụ tính, sự nhạy cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "受ける（うける）",
         "meaning": {
-          "english": "receive, accept, take [v.t.]"
+          "english": "receive, accept, take [v.t.] |(vi) nhận, chấp nhận, tiếp nhận [tha động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "受かる（うかる）",
         "meaning": {
-          "english": "pass (exam, interview) [v.i.]"
+          "english": "pass (exam, interview) [v.i.] |(vi) đỗ, trúng tuyển (kỳ thi, phỏng vấn) [tự động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "*受付（うけつけ）",
         "meaning": {
-          "english": "reception desk"
+          "english": "reception desk |(vi) quầy lễ tân, bàn tiếp nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_i.opus",
@@ -281,7 +281,7 @@
     "kanji": {
       "character": "受",
       "meaning": {
-        "english": "receive"
+        "english": "receive |(vi) nhận, tiếp nhận"
       },
       "strokes": {
         "count": 8,
@@ -335,7 +335,7 @@
         "romaji": "mata"
       },
       "meaning": {
-        "english": "again, right hand"
+        "english": "again, right hand |(vi) Hựu (lại nữa, bàn tay phải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mata0.svg",
@@ -356,7 +356,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "136",
     "strokeCount": 8,
-    "meaning": "accept, undergo, answer (phone), take, get, catch, receive",
+    "meaning": "accept, undergo, answer (phone), take, get, catch, receive |(vi) chấp nhận, chịu, nghe (điện thoại), tiếp nhận, nhận được, bắt lấy, thu nhận |(hv) Thụ",
     "kunyomi": [
       "う.ける",
       "-う.け",
@@ -369,39 +369,39 @@
       {
         "example": "受",
         "reading": "ジュ",
-        "meaning": "vedana (sensation)"
+        "meaning": "vedana (sensation) |(vi) thọ (vedana — cảm thọ trong Phật giáo)"
       },
       {
         "example": "受益",
         "reading": "ジュエキ",
-        "meaning": "benefitting by, benefiting by"
+        "meaning": "benefitting by, benefiting by |(vi) thụ ích, sự được hưởng lợi"
       },
       {
         "example": "授受",
         "reading": "ジュジュ",
-        "meaning": "giving and receiving, transferring, transfer, changing hands"
+        "meaning": "giving and receiving, transferring, transfer, changing hands |(vi) thụ thụ, sự trao và nhận, sự chuyển giao, sự sang tay"
       },
       {
         "example": "収受",
         "reading": "シュウジュ",
-        "meaning": "reception, receiving"
+        "meaning": "reception, receiving |(vi) thu thụ, sự tiếp nhận, sự thu nhận"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "受ける",
         "reading": "うける",
-        "meaning": "to receive, to get, to catch (e.g. a ball), to be struck by (wind, waves, sunlight, etc.), to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence), to undergo (e.g. surgery), to take (a test), to accept (a challenge), to be given (e.g. life, talent), to find funny, to find humorous, to be amused (by), to follow, to succeed, to be descended from, to face (south, etc.), to be modified by, to obtain (a pawned item, etc.) by paying a fee, to be well-received, to become popular, to go down well"
+        "meaning": "to receive, to get, to catch (e.g. a ball), to be struck by (wind, waves, sunlight, etc.), to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence), to undergo (e.g. surgery), to take (a test), to accept (a challenge), to be given (e.g. life, talent), to find funny, to find humorous, to be amused (by), to follow, to succeed, to be descended from, to face (south, etc.), to be modified by, to obtain (a pawned item, etc.) by paying a fee, to be well-received, to become popular, to go down well |(vi) nhận, nhận được, bắt (bóng...), hứng chịu (gió, sóng, nắng...), chịu (thiệt hại), gánh (tổn thất), bị (thương), chịu (ảnh hưởng), trải qua (phẫu thuật...), dự (kỳ thi), nhận (lời thách đấu), được ban cho (sự sống, tài năng...), thấy buồn cười, thấy hài hước, được chọc cười, kế tục, kế thừa, xuất thân từ, quay về hướng (nam...), được bổ nghĩa bởi, chuộc lại (đồ cầm cố...) bằng cách trả phí, được đón nhận nồng nhiệt, trở nên nổi tiếng, được ưa chuộng"
       },
       {
         "example": "受かる",
         "reading": "うかる",
-        "meaning": "to pass (examination)"
+        "meaning": "to pass (examination) |(vi) đỗ, thi đậu (kỳ thi)"
       }
     ],
     "radical": {
       "symbol": "又",
-      "meaning": "right hand"
+      "meaning": "right hand |(vi) Hựu (bàn tay phải)"
     },
     "parts": [
       "冖",

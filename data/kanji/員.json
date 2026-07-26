@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "member",
+    "meaning": "member |(vi) thành viên",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "社員（しゃいん）",
         "meaning": {
-          "english": "company employee"
+          "english": "company employee |(vi) nhân viên công ty"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ginkou)in_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "店員（てんいん）",
         "meaning": {
-          "english": "salesperson"
+          "english": "salesperson |(vi) nhân viên bán hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ginkou)in_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "職員（しょくいん）",
         "meaning": {
-          "english": "staff member"
+          "english": "staff member |(vi) nhân viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ginkou)in_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "議員（ぎいん）",
         "meaning": {
-          "english": "member of congress"
+          "english": "member of congress |(vi) nghị sĩ, đại biểu quốc hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ginkou)in_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "委員（いいん）",
         "meaning": {
-          "english": "committee member"
+          "english": "committee member |(vi) ủy viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ginkou)in_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "全員（ぜんいん）",
         "meaning": {
-          "english": "all members"
+          "english": "all members |(vi) toàn thể thành viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ginkou)in_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "満員（まんいん）",
         "meaning": {
-          "english": "full, crowded [n.]"
+          "english": "full, crowded [n.] |(vi) đầy, chật kín"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ginkou)in_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "定員（ていいん）",
         "meaning": {
-          "english": "fixed number, capacity"
+          "english": "fixed number, capacity |(vi) số lượng quy định, sức chứa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ginkou)in_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "会社員（かいしゃいん）",
         "meaning": {
-          "english": "company employee"
+          "english": "company employee |(vi) nhân viên công ty"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ginkou)in_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "公務員（こうむいん）",
         "meaning": {
-          "english": "public (civil) servant"
+          "english": "public (civil) servant |(vi) công chức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ginkou)in_06_j.opus",
@@ -273,7 +273,7 @@
     "kanji": {
       "character": "員",
       "meaning": {
-        "english": "member"
+        "english": "member |(vi) thành viên"
       },
       "strokes": {
         "count": 10,
@@ -331,7 +331,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -352,7 +352,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "54",
     "strokeCount": 10,
-    "meaning": "employee, member, number, the one in charge",
+    "meaning": "employee, member, number, the one in charge |(vi) nhân viên, thành viên, số lượng, người phụ trách |(hv) Viên",
     "kunyomi": [],
     "onyomi": [
       "イン"
@@ -361,28 +361,28 @@
       {
         "example": "員",
         "reading": "イン",
-        "meaning": "member"
+        "meaning": "member |(vi) thành viên"
       },
       {
         "example": "員数",
         "reading": "インズウ",
-        "meaning": "(total) number (of people or things), count, quota"
+        "meaning": "(total) number (of people or things), count, quota |(vi) tổng số (người hoặc vật), số lượng, hạn ngạch"
       },
       {
         "example": "随員",
         "reading": "ズイイン",
-        "meaning": "member of an entourage or retinue or party, attendant"
+        "meaning": "member of an entourage or retinue or party, attendant |(vi) thành viên đoàn tùy tùng, người hộ tống"
       },
       {
         "example": "執行委員",
         "reading": "シッコウイイン",
-        "meaning": "executive committee"
+        "meaning": "executive committee |(vi) ủy ban điều hành"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "ハ",

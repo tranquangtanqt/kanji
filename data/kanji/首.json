@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kubi",
-    "meaning": "head, neck, leader",
+    "meaning": "head, neck, leader |(vi) đầu, cổ, thủ lĩnh",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "首都（しゅと）",
         "meaning": {
-          "english": "capital city"
+          "english": "capital city |(vi) thủ đô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-kubi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "首脳（しゅのう）",
         "meaning": {
-          "english": "head, leader, chief"
+          "english": "head, leader, chief |(vi) thủ não, người đứng đầu, lãnh đạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-kubi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "首相（しゅしょう）",
         "meaning": {
-          "english": "Prime Minister, Chancellor"
+          "english": "Prime Minister, Chancellor |(vi) thủ tướng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-kubi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "首席（しゅせき）",
         "meaning": {
-          "english": "top seat"
+          "english": "top seat |(vi) thủ tịch, vị trí đứng đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-kubi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "首位（しゅい）",
         "meaning": {
-          "english": "first place, head position"
+          "english": "first place, head position |(vi) thủ vị, vị trí số một, hạng nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-kubi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "部首（ぶしゅ）",
         "meaning": {
-          "english": "radical (of kanji)"
+          "english": "radical (of kanji) |(vi) bộ thủ (của chữ Hán)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-kubi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "党首（とうしゅ）",
         "meaning": {
-          "english": "party leader"
+          "english": "party leader |(vi) đảng thủ, lãnh tụ đảng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-kubi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "機首（きしゅ）",
         "meaning": {
-          "english": "nose of a plane"
+          "english": "nose of a plane |(vi) mũi máy bay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-kubi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "絞首刑（こうしゅけい）",
         "meaning": {
-          "english": "death by hanging"
+          "english": "death by hanging |(vi) giảo thủ hình, án treo cổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-kubi_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "自首する（じしゅする）",
         "meaning": {
-          "english": "surrender, give oneself up"
+          "english": "surrender, give oneself up |(vi) tự thú, ra đầu thú"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-kubi_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "首（くび）",
         "meaning": {
-          "english": "neck"
+          "english": "neck |(vi) cổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-kubi_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "手首（てくび）",
         "meaning": {
-          "english": "wrist"
+          "english": "wrist |(vi) cổ tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-kubi_06_l.opus",
@@ -270,7 +270,7 @@
     "kanji": {
       "character": "首",
       "meaning": {
-        "english": "head, neck, leader"
+        "english": "head, neck, leader |(vi) đầu, cổ, thủ lĩnh"
       },
       "strokes": {
         "count": 9,
@@ -326,7 +326,7 @@
         "romaji": "kubi"
       },
       "meaning": {
-        "english": "head"
+        "english": "head |(vi) Thủ (đầu)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kubi0.svg",
@@ -347,7 +347,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "98",
     "strokeCount": 9,
-    "meaning": "neck, counter for songs and poems",
+    "meaning": "neck, counter for songs and poems |(vi) cổ, lượng từ đếm bài hát và bài thơ |(hv) Thủ",
     "kunyomi": [
       "くび"
     ],
@@ -358,49 +358,49 @@
       {
         "example": "首",
         "reading": "シュ",
-        "meaning": "counter for songs and poems"
+        "meaning": "counter for songs and poems |(vi) lượng từ đếm bài hát và bài thơ"
       },
       {
         "example": "首級",
         "reading": "シュキュウ",
-        "meaning": "decapitated head of an enemy"
+        "meaning": "decapitated head of an enemy |(vi) thủ cấp, đầu kẻ địch bị chặt"
       },
       {
         "example": "元首",
         "reading": "ゲンシュ",
-        "meaning": "sovereign, ruler, head of state"
+        "meaning": "sovereign, ruler, head of state |(vi) nguyên thủ, người trị vì, nguyên thủ quốc gia"
       },
       {
         "example": "百人一首",
         "reading": "ヒャクニンイッシュ",
-        "meaning": "(Ogura) Hyakunin Isshu, classical Japanese anthology of one hundred Japanese waka by one hundred poets, hyakunin isshu karuta, hyakunin isshu poetry cards, deck of 200 cards, the 100 waka of the Hyakunin Isshu split between them, to be matched together during the game"
+        "meaning": "(Ogura) Hyakunin Isshu, classical Japanese anthology of one hundred Japanese waka by one hundred poets, hyakunin isshu karuta, hyakunin isshu poetry cards, deck of 200 cards, the 100 waka of the Hyakunin Isshu split between them, to be matched together during the game |(vi) Bách Nhân Nhất Thủ (Ogura), tuyển tập cổ điển gồm 100 bài waka của 100 nhà thơ Nhật; bài karuta Hyakunin Isshu, bộ bài thơ Hyakunin Isshu, bộ 200 lá chia 100 bài waka thành từng cặp để ghép trong lúc chơi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "首",
         "reading": "くび",
-        "meaning": "neck, head, dismissal (from a job), firing, sacking"
+        "meaning": "neck, head, dismissal (from a job), firing, sacking |(vi) cổ, đầu, sự sa thải (khỏi công việc), việc đuổi việc"
       },
       {
         "example": "首飾り",
         "reading": "くびかざり",
-        "meaning": "necklace, choker"
+        "meaning": "necklace, choker |(vi) vòng cổ, dây chuyền"
       },
       {
         "example": "縛り首",
         "reading": "しばりくび",
-        "meaning": "(death by) hanging"
+        "meaning": "(death by) hanging |(vi) án treo cổ, sự bị treo cổ"
       },
       {
         "example": "猪首",
         "reading": "いくび",
-        "meaning": "bull neck"
+        "meaning": "bull neck |(vi) cổ ngắn to, cổ trâu"
       }
     ],
     "radical": {
       "symbol": "首",
-      "meaning": "head"
+      "meaning": "head |(vi) Thủ (đầu)"
     },
     "parts": [
       "并",

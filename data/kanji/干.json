@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "ho, hi, hosu, hoshi, hiru",
-    "meaning": "dry",
+    "meaning": "dry |(vi) khô",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "干満（かんまん）",
         "meaning": {
-          "english": "ebb and flow (of a tide)"
+          "english": "ebb and flow (of a tide) |(vi) lên xuống của thủy triều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ho(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "干潮（かんちょう）",
         "meaning": {
-          "english": "ebb tide"
+          "english": "ebb tide |(vi) triều thấp, thủy triều xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ho(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "若干（じゃっかん）",
         "meaning": {
-          "english": "some, a few [n., adv.]"
+          "english": "some, a few [n., adv.] |(vi) một vài, một chút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ho(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "干渉する（かんしょうする）",
         "meaning": {
-          "english": "interfere, intervene"
+          "english": "interfere, intervene |(vi) can thiệp, xen vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ho(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "干拓する（かんたくする）",
         "meaning": {
-          "english": "reclaim land"
+          "english": "reclaim land |(vi) khai hoang lấn biển, cải tạo đất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ho(su)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "干す（ほす）",
         "meaning": {
-          "english": "dry, drain"
+          "english": "dry, drain |(vi) phơi khô, làm cạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ho(su)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "梅干し（うめぼし）",
         "meaning": {
-          "english": "dried plum"
+          "english": "dried plum |(vi) mơ muối khô (umeboshi)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ho(su)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "干る（ひる）",
         "meaning": {
-          "english": "dry [v.i.]"
+          "english": "dry [v.i.] |(vi) khô, cạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ho(su)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "干上がる（ひあがる）",
         "meaning": {
-          "english": "dry up, parch"
+          "english": "dry up, parch |(vi) khô cạn, cạn kiệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ho(su)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "潮干狩り（しおひがり）",
         "meaning": {
-          "english": "shell gathering (at low tide)"
+          "english": "shell gathering (at low tide) |(vi) bắt sò/nghêu (lúc triều thấp)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ho(su)_06_j.opus",
@@ -208,7 +208,7 @@
     "kanji": {
       "character": "干",
       "meaning": {
-        "english": "dry"
+        "english": "dry |(vi) khô"
       },
       "strokes": {
         "count": 3,
@@ -252,7 +252,7 @@
         "romaji": "kan"
       },
       "meaning": {
-        "english": "to dry, shield"
+        "english": "to dry, shield |(vi) Can (khô, cái mộc/lá chắn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kan0.svg",
@@ -273,7 +273,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1349",
     "strokeCount": 3,
-    "meaning": "dry, parch, ebb, recede, interfere, intercede",
+    "meaning": "dry, parch, ebb, recede, interfere, intercede |(vi) khô, khô cạn, triều xuống, rút lui, can thiệp, xen vào |(hv) Can",
     "kunyomi": [
       "ほ.す",
       "ほ.し-",
@@ -287,39 +287,39 @@
       {
         "example": "関与",
         "reading": "カンヨ",
-        "meaning": "participation, taking part in, participating in, being concerned in"
+        "meaning": "participation, taking part in, participating in, being concerned in |(vi) sự tham gia, có liên quan đến"
       },
       {
         "example": "干渉",
         "reading": "カンショウ",
-        "meaning": "interference, intervention, meddling"
+        "meaning": "interference, intervention, meddling |(vi) sự can thiệp, xen vào, gây rối"
       },
       {
         "example": "水干",
         "reading": "スイカン",
-        "meaning": "everyday garment worn by nobles in ancient Japan, silk dried after having been washed in plain water and stretched out"
+        "meaning": "everyday garment worn by nobles in ancient Japan, silk dried after having been washed in plain water and stretched out |(vi) trang phục thường ngày của quý tộc Nhật cổ, lụa được giặt bằng nước thường rồi phơi kéo căng cho khô"
       },
       {
         "example": "十干",
         "reading": "ジッカン",
-        "meaning": "ten celestial stems (two types each of wood, fire, earth, metal, water), ten heavenly stems"
+        "meaning": "ten celestial stems (two types each of wood, fire, earth, metal, water), ten heavenly stems |(vi) Thập Can (mười can: mỗi loại Mộc, Hỏa, Thổ, Kim, Thủy có hai can)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "干す",
         "reading": "ほす",
-        "meaning": "to air, to dry, to desiccate, to drain (off), to drink up, to deprive of a role, job, etc."
+        "meaning": "to air, to dry, to desiccate, to drain (off), to drink up, to deprive of a role, job, etc. |(vi) phơi, làm khô, tháo cạn, uống cạn, cách chức, sa thải"
       },
       {
         "example": "干る",
         "reading": "ひる",
-        "meaning": "to dry (up), to become parched, to ebb, to recede"
+        "meaning": "to dry (up), to become parched, to ebb, to recede |(vi) khô đi, cạn, rút (nước triều)"
       }
     ],
     "radical": {
       "symbol": "干",
-      "meaning": "pestle"
+      "meaning": "pestle |(vi) Can (cái chày)"
     },
     "parts": [
       "一",

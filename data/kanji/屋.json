@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "ya",
-    "meaning": "house, small shop",
+    "meaning": "house, small shop |(vi) nhà, cửa hàng nhỏ",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "屋上（おくじょう）",
         "meaning": {
-          "english": "rooftop"
+          "english": "rooftop |(vi) sân thượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oku-ya_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "屋内（おくない）",
         "meaning": {
-          "english": "indoor"
+          "english": "indoor |(vi) trong nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oku-ya_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "屋外（おくがい）",
         "meaning": {
-          "english": "outdoor"
+          "english": "outdoor |(vi) ngoài trời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oku-ya_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "屋敷（やしき）",
         "meaning": {
-          "english": "mansion"
+          "english": "mansion |(vi) dinh thự, biệt thự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oku-ya_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "屋根（やね）",
         "meaning": {
-          "english": "roof"
+          "english": "roof |(vi) mái nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oku-ya_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "本屋（ほんや）",
         "meaning": {
-          "english": "bookstore"
+          "english": "bookstore |(vi) hiệu sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oku-ya_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "部屋（へや）",
         "meaning": {
-          "english": "room"
+          "english": "room |(vi) phòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oku-ya_06_g.opus",
@@ -238,7 +238,7 @@
     "kanji": {
       "character": "屋",
       "meaning": {
-        "english": "house, small shop"
+        "english": "house, small shop |(vi) nhà, cửa hàng nhỏ"
       },
       "strokes": {
         "count": 9,
@@ -294,7 +294,7 @@
         "romaji": "shikabane"
       },
       "meaning": {
-        "english": "corpse, awning"
+        "english": "corpse, awning |(vi) Thi (xác chết)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shikabane0.svg",
@@ -315,7 +315,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "616",
     "strokeCount": 9,
-    "meaning": "roof, house, shop, dealer, seller",
+    "meaning": "roof, house, shop, dealer, seller |(vi) mái nhà, nhà, cửa hàng, người bán, người kinh doanh |(hv) Ốc",
     "kunyomi": [
       "や"
     ],
@@ -326,49 +326,49 @@
       {
         "example": "屋",
         "reading": "オク",
-        "meaning": "house, building, roof"
+        "meaning": "house, building, roof |(vi) nhà, công trình, mái nhà"
       },
       {
         "example": "屋外",
         "reading": "オクガイ",
-        "meaning": "outdoors, outside"
+        "meaning": "outdoors, outside |(vi) ngoài trời, bên ngoài"
       },
       {
         "example": "草屋",
         "reading": "ソウオク",
-        "meaning": "thatched hut"
+        "meaning": "thatched hut |(vi) nhà tranh"
       },
       {
         "example": "塔屋",
         "reading": "トウヤ",
-        "meaning": "rooftop structure, e.g. tower, elevator machine room, etc."
+        "meaning": "rooftop structure, e.g. tower, elevator machine room, etc. |(vi) kết cấu trên mái (tháp, phòng máy thang máy...)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "屋",
         "reading": "や",
-        "meaning": "shop, store, restaurant, someone who sells (something) or works as (something), someone with a (certain) personality trait, house, roof"
+        "meaning": "shop, store, restaurant, someone who sells (something) or works as (something), someone with a (certain) personality trait, house, roof |(vi) cửa hàng, quán, nhà hàng, người bán (thứ gì đó) hoặc làm nghề (gì đó), người có (một đặc điểm tính cách nào đó), nhà, mái nhà"
       },
       {
         "example": "屋敷",
         "reading": "やしき",
-        "meaning": "residence, estate, grounds, premises, mansion"
+        "meaning": "residence, estate, grounds, premises, mansion |(vi) dinh thự, khu đất, cơ ngơi"
       },
       {
         "example": "居酒屋",
         "reading": "いざかや",
-        "meaning": "izakaya, tavern, bar, etc. that also serves various dishes and snacks"
+        "meaning": "izakaya, tavern, bar, etc. that also serves various dishes and snacks |(vi) izakaya (quán rượu kiêm phục vụ món ăn nhẹ)"
       },
       {
         "example": "総会屋",
         "reading": "そうかいや",
-        "meaning": "extortionist that threatens to disrupt stock-holder meetings, sokaiya"
+        "meaning": "extortionist that threatens to disrupt stock-holder meetings, sokaiya |(vi) kẻ tống tiền đe dọa phá rối đại hội cổ đông (sokaiya)"
       }
     ],
     "radical": {
       "symbol": "尸",
-      "meaning": "corpse"
+      "meaning": "corpse |(vi) Thi (xác chết)"
     },
     "parts": [
       "厶",

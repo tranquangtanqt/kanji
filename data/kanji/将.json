@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "general, officer",
+    "meaning": "general, officer |(vi) tướng, sĩ quan",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "将来（しょうらい）",
         "meaning": {
-          "english": "future, prospects"
+          "english": "future, prospects |(vi) tương lai, triển vọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(gun)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "将軍（しょうぐん）",
         "meaning": {
-          "english": "general, shogun"
+          "english": "general, shogun |(vi) tướng quân, shogun"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(gun)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "大将（たいしょう）",
         "meaning": {
-          "english": "general, admiral"
+          "english": "general, admiral |(vi) đại tướng, đô đốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(gun)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "王将（おうしょう）",
         "meaning": {
-          "english": "king (shogi game)"
+          "english": "king (shogi game) |(vi) vua (tướng, trong cờ shogi)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(gun)_06_d.opus",
@@ -169,7 +169,7 @@
     "kanji": {
       "character": "将",
       "meaning": {
-        "english": "general, officer"
+        "english": "general, officer |(vi) tướng, sĩ quan"
       },
       "strokes": {
         "count": 10,
@@ -227,7 +227,7 @@
         "romaji": "sun"
       },
       "meaning": {
-        "english": "inch, (2.25 cm)"
+        "english": "inch, (2.25 cm) |(vi) Thốn (tấc, đơn vị đo ~2,25cm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sun0.svg",
@@ -248,7 +248,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "634",
     "strokeCount": 10,
-    "meaning": "leader, commander, general, admiral, or, and again, soon, from now on, just about",
+    "meaning": "leader, commander, general, admiral, or, and again, soon, from now on, just about |(vi) thủ lĩnh, chỉ huy, tướng, đô đốc, hoặc, và lại, sắp, từ nay trở đi, gần như |(hv) Tướng",
     "kunyomi": [
       "まさ.に",
       "はた",
@@ -264,54 +264,54 @@
       {
         "example": "将",
         "reading": "ショウ",
-        "meaning": "commander, general, leader"
+        "meaning": "commander, general, leader |(vi) chỉ huy, tướng, thủ lĩnh"
       },
       {
         "example": "将棋",
         "reading": "ショウギ",
-        "meaning": "shogi, Japanese chess"
+        "meaning": "shogi, Japanese chess |(vi) shogi, cờ tướng Nhật Bản"
       },
       {
         "example": "少将",
         "reading": "ショウショウ",
-        "meaning": "major general, rear admiral, air commodore"
+        "meaning": "major general, rear admiral, air commodore |(vi) thiếu tướng, chuẩn đô đốc, chuẩn tướng không quân"
       },
       {
         "example": "王将",
         "reading": "オウショウ",
-        "meaning": "king (of the senior player), Ōshō (one of the eight major titles in professional shogi)"
+        "meaning": "king (of the senior player), Ōshō (one of the eight major titles in professional shogi) |(vi) vua (của kỳ thủ cấp trên), Ōshō (một trong tám danh hiệu shogi chuyên nghiệp lớn)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "将に",
         "reading": "まさに",
-        "meaning": "just (about to), on the point of, on the verge of, on the brink of"
+        "meaning": "just (about to), on the point of, on the verge of, on the brink of |(vi) sắp, sắp sửa, đang trên bờ vực"
       },
       {
         "example": "将",
         "reading": "はた",
-        "meaning": "or, otherwise, furthermore, also, perhaps, by some chance, possibly, that being said, be that as it may, however, but, not to mention, needless to say, as expected, sure enough, really, at all"
+        "meaning": "or, otherwise, furthermore, also, perhaps, by some chance, possibly, that being said, be that as it may, however, but, not to mention, needless to say, as expected, sure enough, really, at all |(vi) hoặc, hoặc là, hơn nữa, cũng, có lẽ, biết đâu, dù sao đi nữa, tuy nhiên, nhưng, chưa kể, không cần nói cũng biết, quả nhiên, thực sự, hoàn toàn"
       },
       {
         "example": "将又",
         "reading": "はたまた",
-        "meaning": "or"
+        "meaning": "or |(vi) hoặc"
       },
       {
         "example": "将門記",
         "reading": "しょうもんき",
-        "meaning": "Shōmonki (chronicle of the Taira-no-Masakado Rebellion, ca 940CE)"
+        "meaning": "Shōmonki (chronicle of the Taira-no-Masakado Rebellion, ca 940CE) |(vi) Shōmonki (biên niên sử về cuộc nổi loạn Taira-no-Masakado, khoảng năm 940)"
       },
       {
         "example": "将に",
         "reading": "まさに",
-        "meaning": "just (about to), on the point of, on the verge of, on the brink of"
+        "meaning": "just (about to), on the point of, on the verge of, on the brink of |(vi) sắp, sắp sửa, đang trên bờ vực"
       }
     ],
     "radical": {
       "symbol": "寸",
-      "meaning": "thumb, inch"
+      "meaning": "thumb, inch |(vi) Thốn (tấc, ngón tay cái)"
     },
     "parts": [
       "寸",

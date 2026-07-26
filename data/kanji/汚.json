@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": null,
     "kunyomi": "kega, yogo, kitana, kegasu, kegareru, kegarawashii, yogosu, yogoreru, kitanai",
-    "meaning": "dirty",
+    "meaning": "dirty |(vi) bẩn, dơ",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "汚水（おすい）",
         "meaning": {
-          "english": "filthy water, sewage"
+          "english": "filthy water, sewage |(vi) nước bẩn, nước thải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yogo(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "汚物（おぶつ）",
         "meaning": {
-          "english": "filth, muck, dirt"
+          "english": "filth, muck, dirt |(vi) chất bẩn, rác bẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yogo(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "汚職（おしょく）",
         "meaning": {
-          "english": "corruption, graft"
+          "english": "corruption, graft |(vi) tham nhũng, hối lộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yogo(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "汚名（おめい）",
         "meaning": {
-          "english": "stigma, dishonor, infamy"
+          "english": "stigma, dishonor, infamy |(vi) tiếng xấu, ô danh, nhục nhã"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yogo(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "汚点（おてん）",
         "meaning": {
-          "english": "stain, blot, flaw, disgrace"
+          "english": "stain, blot, flaw, disgrace |(vi) vết nhơ, tì vết, ô danh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yogo(su)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "汚染する（おせんする）",
         "meaning": {
-          "english": "pollute, contaminate"
+          "english": "pollute, contaminate |(vi) ô nhiễm, làm bẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yogo(su)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "汚す（けがす）",
         "meaning": {
-          "english": "disgrace, dishonor [v.t.]"
+          "english": "disgrace, dishonor [v.t.] |(vi) làm ô uế, làm nhục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yogo(su)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "汚れる（けがれる）",
         "meaning": {
-          "english": "be corrupted, be polluted [v.i.]"
+          "english": "be corrupted, be polluted [v.i.] |(vi) bị ô uế, bị vấy bẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yogo(su)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "汚らわしい（けがらわしい）",
         "meaning": {
-          "english": "filthy, obscene, dirty"
+          "english": "filthy, obscene, dirty |(vi) bẩn thỉu, nhơ nhớp, ghê tởm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yogo(su)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "汚す（よごす）",
         "meaning": {
-          "english": "make dirty[v.t.]"
+          "english": "make dirty[v.t.] |(vi) làm bẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yogo(su)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "汚れる（よごれる）",
         "meaning": {
-          "english": "get dirty, become dirty [v.i.]"
+          "english": "get dirty, become dirty [v.i.] |(vi) bị bẩn, trở nên dơ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yogo(su)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "汚い（きたない）",
         "meaning": {
-          "english": "dirty, unclean, filthy"
+          "english": "dirty, unclean, filthy |(vi) bẩn, dơ, không sạch sẽ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yogo(su)_06_l.opus",
@@ -265,7 +265,7 @@
     "kanji": {
       "character": "汚",
       "meaning": {
-        "english": "dirty"
+        "english": "dirty |(vi) bẩn, dơ"
       },
       "strokes": {
         "count": 6,
@@ -315,7 +315,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -336,7 +336,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "908",
     "strokeCount": 6,
-    "meaning": "dirty, pollute, disgrace, rape, defile",
+    "meaning": "dirty, pollute, disgrace, rape, defile |(vi) bẩn, làm ô nhiễm, làm nhục, cưỡng hiếp, làm ô uế |(hv) Ô",
     "kunyomi": [
       "けが.す",
       "けが.れる",
@@ -352,59 +352,59 @@
       {
         "example": "汚水",
         "reading": "オスイ",
-        "meaning": "filthy water, sewage"
+        "meaning": "filthy water, sewage |(vi) nước bẩn, nước thải"
       },
       {
         "example": "汚職",
         "reading": "オショク",
-        "meaning": "corruption"
+        "meaning": "corruption |(vi) tham nhũng"
       },
       {
         "example": "防汚",
         "reading": "ボウオ",
-        "meaning": "antifouling, stain resistance, stain-proofing, anti-soiling"
+        "meaning": "antifouling, stain resistance, stain-proofing, anti-soiling |(vi) chống bám bẩn, chống ố"
       },
       {
         "example": "貪汚",
         "reading": "タンオ",
-        "meaning": "greed, corruption"
+        "meaning": "greed, corruption |(vi) tham lam, tham nhũng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "汚す",
         "reading": "よごす",
-        "meaning": "to pollute, to contaminate, to soil, to make dirty, to stain, to disgrace, to dishonour, to dishonor, to defile"
+        "meaning": "to pollute, to contaminate, to soil, to make dirty, to stain, to disgrace, to dishonour, to dishonor, to defile |(vi) làm ô nhiễm, làm bẩn, làm ố, làm nhục, làm ô danh"
       },
       {
         "example": "汚れる",
         "reading": "けがれる",
-        "meaning": "to be violated, to be corrupted, to be polluted, to be stained"
+        "meaning": "to be violated, to be corrupted, to be polluted, to be stained |(vi) bị xâm phạm, bị hủ hóa, bị ô nhiễm, bị vấy bẩn"
       },
       {
         "example": "汚らわしい",
         "reading": "けがらわしい",
-        "meaning": "filthy, unfair, dirty, untouchable, disgusting, nasty, foul, odious, repulsive"
+        "meaning": "filthy, unfair, dirty, untouchable, disgusting, nasty, foul, odious, repulsive |(vi) bẩn thỉu, bất công, dơ dáy, không thể chạm vào, ghê tởm, kinh tởm"
       },
       {
         "example": "汚す",
         "reading": "よごす",
-        "meaning": "to pollute, to contaminate, to soil, to make dirty, to stain, to disgrace, to dishonour, to dishonor, to defile"
+        "meaning": "to pollute, to contaminate, to soil, to make dirty, to stain, to disgrace, to dishonour, to dishonor, to defile |(vi) làm ô nhiễm, làm bẩn, làm ố, làm nhục, làm ô danh"
       },
       {
         "example": "汚れる",
         "reading": "よごれる",
-        "meaning": "to get dirty, to become dirty, to become sullied, to become corrupted, to lose one's chastity"
+        "meaning": "to get dirty, to become dirty, to become sullied, to become corrupted, to lose one's chastity |(vi) bị bẩn, trở nên dơ, bị vấy bẩn, bị hủ hóa, mất trinh tiết"
       },
       {
         "example": "汚い",
         "reading": "きたない",
-        "meaning": "dirty, filthy, foul, unclean, disordered, messy, untidy, poor (e.g. handwriting), indecent (language, etc.), dirty, vulgar, coarse, dastardly, mean, base, underhanded, stingy, greedy"
+        "meaning": "dirty, filthy, foul, unclean, disordered, messy, untidy, poor (e.g. handwriting), indecent (language, etc.), dirty, vulgar, coarse, dastardly, mean, base, underhanded, stingy, greedy |(vi) bẩn, dơ, nhơ nhớp, không sạch, lộn xộn, bừa bộn, xấu (chữ viết...), tục tĩu (ngôn ngữ...), thô tục, hèn hạ, ti tiện, đê tiện, keo kiệt, tham lam"
       },
       {
         "example": "汚い戦争",
         "reading": "きたないせんそう",
-        "meaning": "Dirty War (period of state terrorism in Argentina; 1976-1983)"
+        "meaning": "Dirty War (period of state terrorism in Argentina; 1976-1983) |(vi) Chiến tranh Bẩn thỉu (thời kỳ khủng bố nhà nước ở Argentina, 1976-1983)"
       }
     ],
     "radical": {
@@ -413,7 +413,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "一",

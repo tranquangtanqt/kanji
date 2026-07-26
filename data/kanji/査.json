@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "look into, investigate",
+    "meaning": "look into, investigate |(vi) tìm hiểu, điều tra",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "検査する（けんさする）",
         "meaning": {
-          "english": "inspect"
+          "english": "inspect |(vi) kiểm tra (thanh tra, xem xét)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shin)sa_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "調査する（ちょうさする）",
         "meaning": {
-          "english": "research, investigate"
+          "english": "research, investigate |(vi) điều tra (nghiên cứu, khảo sát)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shin)sa_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "捜査する（そうさする）",
         "meaning": {
-          "english": "investigate (criminal case)"
+          "english": "investigate (criminal case) |(vi) sưu tra (điều tra hình sự)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shin)sa_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "審査する（しんさする）",
         "meaning": {
-          "english": "examine"
+          "english": "examine |(vi) thẩm tra (xét duyệt, thẩm định)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shin)sa_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "巡査（じゅんさ）",
         "meaning": {
-          "english": "policeman"
+          "english": "policeman |(vi) tuần tra (cảnh sát viên)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shin)sa_06_e.opus",
@@ -180,7 +180,7 @@
     "kanji": {
       "character": "査",
       "meaning": {
-        "english": "look into, investigate"
+        "english": "look into, investigate |(vi) tìm hiểu, điều tra"
       },
       "strokes": {
         "count": 9,
@@ -236,7 +236,7 @@
         "romaji": "ki"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ki0.svg",
@@ -257,7 +257,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "184",
     "strokeCount": 9,
-    "meaning": "investigate",
+    "meaning": "investigate |(vi) điều tra, kiểm tra |(hv) Tra",
     "kunyomi": [],
     "onyomi": [
       "サ"
@@ -266,28 +266,28 @@
       {
         "example": "査証",
         "reading": "サショウ",
-        "meaning": "visa, endorsing (e.g. a passport), stamping"
+        "meaning": "visa, endorsing (e.g. a passport), stamping |(vi) tra chứng (thị thực, đóng dấu xác nhận hộ chiếu)"
       },
       {
         "example": "査察",
         "reading": "ササツ",
-        "meaning": "inspection (for compliance), investigation (tax, etc.)"
+        "meaning": "inspection (for compliance), investigation (tax, etc.) |(vi) tra sát (thanh tra, kiểm tra tuân thủ)"
       },
       {
         "example": "主査",
         "reading": "シュサ",
-        "meaning": "chief examiner or investigator"
+        "meaning": "chief examiner or investigator |(vi) chủ tra (giám khảo trưởng, điều tra viên chính)"
       },
       {
         "example": "実態調査",
         "reading": "ジッタイチョウサ",
-        "meaning": "fact-finding investigation, investigation into actual conditions, fact-finding survey"
+        "meaning": "fact-finding investigation, investigation into actual conditions, fact-finding survey |(vi) thực thái điều tra (khảo sát thực trạng, điều tra thực tế)"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "一",

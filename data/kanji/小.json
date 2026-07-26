@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "chii, chiisai, ko, o",
-    "meaning": "small",
+    "meaning": "small |(vi) nhỏ",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "小説（しょうせつ）",
         "meaning": {
-          "english": "a novel"
+          "english": "a novel |(vi) tiểu thuyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chii(sai)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "小学校（しょうがっこう）",
         "meaning": {
-          "english": "elementary school"
+          "english": "elementary school |(vi) trường tiểu học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chii(sai)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "最小（さいしょう）",
         "meaning": {
-          "english": "minimum"
+          "english": "minimum |(vi) tối thiểu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chii(sai)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "大小（だいしょう）",
         "meaning": {
-          "english": "size"
+          "english": "size |(vi) kích cỡ, lớn nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chii(sai)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "小さい（ちいさい）",
         "meaning": {
-          "english": "small"
+          "english": "small |(vi) nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chii(sai)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "小麦（こむぎ）",
         "meaning": {
-          "english": "wheat"
+          "english": "wheat |(vi) lúa mì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chii(sai)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "小鳥（ことり）",
         "meaning": {
-          "english": "small bird"
+          "english": "small bird |(vi) chim nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chii(sai)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "小川（おがわ）",
         "meaning": {
-          "english": "small stream, brook"
+          "english": "small stream, brook |(vi) suối nhỏ, con lạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chii(sai)_06_h.opus",
@@ -262,7 +262,7 @@
     "kanji": {
       "character": "小",
       "meaning": {
-        "english": "small"
+        "english": "small |(vi) nhỏ"
       },
       "strokes": {
         "count": 3,
@@ -306,7 +306,7 @@
         "romaji": "shou"
       },
       "meaning": {
-        "english": "small"
+        "english": "small |(vi) Tiểu (nhỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shou0.svg",
@@ -327,7 +327,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "114",
     "strokeCount": 3,
-    "meaning": "little, small",
+    "meaning": "little, small |(vi) nhỏ, bé |(hv) Tiểu",
     "kunyomi": [
       "ちい.さい",
       "こ-",
@@ -341,39 +341,39 @@
       {
         "example": "小",
         "reading": "ショウ",
-        "meaning": "smallness, small item, short month (i.e. having fewer than 31 days), elementary school, smaller (of two things, places, etc. with the same name), inferior, younger (of two people with the same name), junior, unit of field area (approx. 400 sq m)"
+        "meaning": "smallness, small item, short month (i.e. having fewer than 31 days), elementary school, smaller (of two things, places, etc. with the same name), inferior, younger (of two people with the same name), junior, unit of field area (approx. 400 sq m) |(vi) nhỏ bé, vật nhỏ, tháng thiếu (ít hơn 31 ngày), trường tiểu học, nhỏ hơn (giữa hai vật, nơi... cùng tên), kém hơn, trẻ hơn (giữa hai người cùng tên), cấp dưới, đơn vị diện tích ruộng (khoảng 400 m2)"
       },
       {
         "example": "小雨",
         "reading": "コサメ",
-        "meaning": "light rain, drizzle"
+        "meaning": "light rain, drizzle |(vi) mưa nhỏ, mưa phùn"
       },
       {
         "example": "微小",
         "reading": "ビショウ",
-        "meaning": "microscopic"
+        "meaning": "microscopic |(vi) siêu nhỏ, vi mô"
       },
       {
         "example": "中小",
         "reading": "チュウショウ",
-        "meaning": "small and medium"
+        "meaning": "small and medium |(vi) vừa và nhỏ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "小さい",
         "reading": "ちいさい",
-        "meaning": "small, little, tiny, slight, below average (in degree, amount, etc.), minor, small, low (e.g. sound), soft (e.g. voice), unimportant, petty, insignificant, trifling, trivial, young, juvenile"
+        "meaning": "small, little, tiny, slight, below average (in degree, amount, etc.), minor, small, low (e.g. sound), soft (e.g. voice), unimportant, petty, insignificant, trifling, trivial, young, juvenile |(vi) nhỏ, bé, tí hon, nhẹ, dưới mức trung bình (về độ, lượng...), thứ yếu, thấp (vd. âm thanh), khẽ (vd. giọng nói), không quan trọng, vặt vãnh, nhỏ nhặt, trẻ con, non nớt"
       },
       {
         "example": "小さい頃",
         "reading": "ちいさいころ",
-        "meaning": "as a child, when one was a child"
+        "meaning": "as a child, when one was a child |(vi) hồi còn nhỏ, khi còn là trẻ con"
       }
     ],
     "radical": {
       "symbol": "小",
-      "meaning": "small, insignificant"
+      "meaning": "small, insignificant |(vi) Tiểu (nhỏ, không đáng kể)"
     },
     "parts": [
       "小"

@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "arawa, arawareru, arawasu",
-    "meaning": "actual, appear, present",
+    "meaning": "actual, appear, present |(vi) thực tại, xuất hiện, hiện tại",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "現在（げんざい）",
         "meaning": {
-          "english": "present, current"
+          "english": "present, current |(vi) hiện tại, bây giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-arawa(reru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "現代（げんだい）",
         "meaning": {
-          "english": "present-day"
+          "english": "present-day |(vi) hiện đại, ngày nay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-arawa(reru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "現実（げんじつ）",
         "meaning": {
-          "english": "reality"
+          "english": "reality |(vi) hiện thực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-arawa(reru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "現金（げんきん）",
         "meaning": {
-          "english": "cash"
+          "english": "cash |(vi) tiền mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-arawa(reru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "現住所（げんじゅうしょ）",
         "meaning": {
-          "english": "present address"
+          "english": "present address |(vi) địa chỉ hiện tại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-arawa(reru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "現存する（げんそんする）",
         "meaning": {
-          "english": "exist currently"
+          "english": "exist currently |(vi) hiện còn tồn tại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-arawa(reru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "出現する（しゅつげんする）",
         "meaning": {
-          "english": "appear"
+          "english": "appear |(vi) xuất hiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-arawa(reru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "表現する（ひょうげんする）",
         "meaning": {
-          "english": "express [v.t.]"
+          "english": "express [v.t.] |(vi) biểu hiện, diễn đạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-arawa(reru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "再現する（さいげんする）",
         "meaning": {
-          "english": "reproduce, recreate"
+          "english": "reproduce, recreate |(vi) tái hiện, khôi phục lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-arawa(reru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "現れる（あらわれる）",
         "meaning": {
-          "english": "appear [v.i.]"
+          "english": "appear [v.i.] |(vi) xuất hiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-arawa(reru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "現す（あらわす）",
         "meaning": {
-          "english": "show, display [v.t.]"
+          "english": "show, display [v.t.] |(vi) biểu lộ, bộc lộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-arawa(reru)_06_k.opus",
@@ -273,7 +273,7 @@
     "kanji": {
       "character": "現",
       "meaning": {
-        "english": "actual, appear, present"
+        "english": "actual, appear, present |(vi) thực tại, xuất hiện, hiện tại"
       },
       "strokes": {
         "count": 11,
@@ -333,7 +333,7 @@
         "romaji": "ouhen"
       },
       "meaning": {
-        "english": "jewelry, jeweled king"
+        "english": "jewelry, jeweled king |(vi) Ngọc (đá quý, vua)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ouhen0.svg",
@@ -354,7 +354,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "85",
     "strokeCount": 11,
-    "meaning": "present, existing, actual",
+    "meaning": "present, existing, actual |(vi) hiện tại, đang tồn tại, thực tại |(hv) Hiện",
     "kunyomi": [
       "あらわ.れる",
       "あらわ.す",
@@ -368,54 +368,54 @@
       {
         "example": "現",
         "reading": "ゲン",
-        "meaning": "present (e.g. government, administration), current, existing"
+        "meaning": "present (e.g. government, administration), current, existing |(vi) hiện tại (ví dụ chính quyền, hành chính), đương nhiệm, đang tồn tại"
       },
       {
         "example": "現役",
         "reading": "ゲンエキ",
-        "meaning": "active duty, active service, student taking (university) entrance exams while still enrolled in school, student who passed their university entrance exams on the first try"
+        "meaning": "active duty, active service, student taking (university) entrance exams while still enrolled in school, student who passed their university entrance exams on the first try |(vi) tại ngũ, đang phục vụ, học sinh đang học dự thi đại học, học sinh đỗ đại học ngay lần thi đầu"
       },
       {
         "example": "具現",
         "reading": "グゲン",
-        "meaning": "incarnation, embodiment, realization, giving concrete form (to)"
+        "meaning": "incarnation, embodiment, realization, giving concrete form (to) |(vi) hiện thân, sự cụ thể hóa, hiện thực hóa"
       },
       {
         "example": "体現",
         "reading": "タイゲン",
-        "meaning": "personification, impersonation, embodiment"
+        "meaning": "personification, impersonation, embodiment |(vi) hiện thân, sự thể hiện"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "現れる",
         "reading": "あらわれる",
-        "meaning": "to appear, to come in sight, to become visible, to come out, to embody, to materialize, to materialise, to be expressed (e.g. emotions), to become apparent (e.g. trends, effects)"
+        "meaning": "to appear, to come in sight, to become visible, to come out, to embody, to materialize, to materialise, to be expressed (e.g. emotions), to become apparent (e.g. trends, effects) |(vi) xuất hiện, hiện ra, trở nên rõ ràng, hiện lên, được thể hiện (cảm xúc), trở nên rõ nét (xu hướng, hiệu ứng)"
       },
       {
         "example": "表す",
         "reading": "あらわす",
-        "meaning": "to represent, to signify, to stand for, to reveal, to show, to display, to express, to make widely known"
+        "meaning": "to represent, to signify, to stand for, to reveal, to show, to display, to express, to make widely known |(vi) đại diện cho, biểu thị, thể hiện, bộc lộ, cho thấy, phổ biến rộng rãi"
       },
       {
         "example": "現つ",
         "reading": "うつつ",
-        "meaning": "reality, consciousness"
+        "meaning": "reality, consciousness |(vi) thực tại, ý thức"
       },
       {
         "example": "現責",
         "reading": "うつつぜめ",
-        "meaning": "sleep deprivation (Edo-period torture method)"
+        "meaning": "sleep deprivation (Edo-period torture method) |(vi) hình phạt tước ngủ (thời Edo)"
       },
       {
         "example": "現つ",
         "reading": "うつつ",
-        "meaning": "reality, consciousness"
+        "meaning": "reality, consciousness |(vi) thực tại, ý thức"
       },
       {
         "example": "現責",
         "reading": "うつつぜめ",
-        "meaning": "sleep deprivation (Edo-period torture method)"
+        "meaning": "sleep deprivation (Edo-period torture method) |(vi) hình phạt tước ngủ (thời Edo)"
       }
     ],
     "radical": {
@@ -423,7 +423,7 @@
       "forms": [
         "王"
       ],
-      "meaning": "jade (king)"
+      "meaning": "jade (king) |(vi) Ngọc (đá quý, vua)"
     },
     "parts": [
       "王",

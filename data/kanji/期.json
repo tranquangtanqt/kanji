@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "term, time, expect",
+    "meaning": "term, time, expect |(vi) kỳ hạn, thời gian, mong đợi",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "期間（きかん）",
         "meaning": {
-          "english": "period"
+          "english": "period |(vi) khoảng thời gian, giai đoạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)ki_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "期限（きげん）",
         "meaning": {
-          "english": "time limit, deadline"
+          "english": "time limit, deadline |(vi) thời hạn, hạn chót"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)ki_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "初期（しょき）",
         "meaning": {
-          "english": "early (e.g. stage)"
+          "english": "early (e.g. stage) |(vi) giai đoạn đầu, thời kỳ đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)ki_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "満期（まんき）",
         "meaning": {
-          "english": "maturity (e.g. investment)"
+          "english": "maturity (e.g. investment) |(vi) đáo hạn (đầu tư)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)ki_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "秋学期（あきがっき）",
         "meaning": {
-          "english": "fall semester"
+          "english": "fall semester |(vi) học kỳ mùa thu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)ki_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "学期末試験（がっきまつしけん）",
         "meaning": {
-          "english": "final exam"
+          "english": "final exam |(vi) kỳ thi cuối học kỳ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)ki_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "画期的な（かっきてきな）",
         "meaning": {
-          "english": "epoch-making"
+          "english": "epoch-making |(vi) mang tính bước ngoặt, mở ra kỷ nguyên mới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)ki_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "期待する（きたいする）",
         "meaning": {
-          "english": "hope"
+          "english": "hope |(vi) kỳ vọng, mong đợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)ki_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "予期する（よきする）",
         "meaning": {
-          "english": "expect"
+          "english": "expect |(vi) dự đoán, tiên liệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)ki_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "一期一会（いちごいちえ）",
         "meaning": {
-          "english": "one chance in a lifetime"
+          "english": "one chance in a lifetime |(vi) một đời một lần gặp (ichigo ichie)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)ki_06_j.opus",
@@ -270,7 +270,7 @@
     "kanji": {
       "character": "期",
       "meaning": {
-        "english": "term, time, expect"
+        "english": "term, time, expect |(vi) kỳ hạn, thời gian, mong đợi"
       },
       "strokes": {
         "count": 12,
@@ -332,7 +332,7 @@
         "romaji": "tsuki"
       },
       "meaning": {
-        "english": "moon, month, period"
+        "english": "moon, month, period |(vi) Nguyệt (trăng, tháng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuki0.svg",
@@ -353,7 +353,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "117",
     "strokeCount": 12,
-    "meaning": "period, time, date, term",
+    "meaning": "period, time, date, term |(vi) giai đoạn, thời gian, ngày, kỳ hạn |(hv) Kỳ",
     "kunyomi": [],
     "onyomi": [
       "キ",
@@ -363,48 +363,48 @@
       {
         "example": "期",
         "reading": "キ",
-        "meaning": "period, time, opportunity, chance, occasion, age, term (e.g. in office), session (e.g. of parliament), stage (e.g. of a disease), season (e.g. of a TV series)"
+        "meaning": "period, time, opportunity, chance, occasion, age, term (e.g. in office), session (e.g. of parliament), stage (e.g. of a disease), season (e.g. of a TV series) |(vi) giai đoạn, thời điểm, cơ hội, dịp, thời đại, nhiệm kỳ (chức vụ), kỳ họp (quốc hội), giai đoạn (bệnh), mùa (phim truyền hình)"
       },
       {
         "example": "期間",
         "reading": "キカン",
-        "meaning": "period, term, interval"
+        "meaning": "period, term, interval |(vi) khoảng thời gian, kỳ hạn, khoảng cách thời gian"
       },
       {
         "example": "周期",
         "reading": "シュウキ",
-        "meaning": "cycle, period"
+        "meaning": "cycle, period |(vi) chu kỳ"
       },
       {
         "example": "当期",
         "reading": "トウキ",
-        "meaning": "current term (period)"
+        "meaning": "current term (period) |(vi) kỳ hiện tại"
       },
       {
         "example": "期",
         "reading": "ゴ",
-        "meaning": "time, moment, limit, time of death, last moment, midnight in red-light districts during the Edo period"
+        "meaning": "time, moment, limit, time of death, last moment, midnight in red-light districts during the Edo period |(vi) thời điểm, khoảnh khắc, giới hạn, thời điểm chết, giây phút cuối, nửa đêm ở khu đèn đỏ thời Edo"
       },
       {
         "example": "期日",
         "reading": "キジツ",
-        "meaning": "fixed date, appointed date, set date, deadline, due date"
+        "meaning": "fixed date, appointed date, set date, deadline, due date |(vi) ngày ấn định, ngày hẹn, thời hạn, ngày đến hạn"
       },
       {
         "example": "一期",
         "reading": "イチゴ",
-        "meaning": "one's whole life, one's lifetime"
+        "meaning": "one's whole life, one's lifetime |(vi) cả cuộc đời, trọn kiếp"
       },
       {
         "example": "非業の最期",
         "reading": "ヒゴウノサイゴ",
-        "meaning": "unnatural death, violent death"
+        "meaning": "unnatural death, violent death |(vi) cái chết bất đắc kỳ tử, chết oan uổng"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "月",
-      "meaning": "moon, month"
+      "meaning": "moon, month |(vi) Nguyệt (trăng, tháng)"
     },
     "parts": [
       "ハ",

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "ya, yameru",
-    "meaning": "word, resign, quit",
+    "meaning": "word, resign, quit |(vi) lời nói, từ chức, thôi việc",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "辞典（じてん）",
         "meaning": {
-          "english": "dictionary"
+          "english": "dictionary |(vi) từ điển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ya(meru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "辞書（じしょ）",
         "meaning": {
-          "english": "dictionary, lexicon"
+          "english": "dictionary, lexicon |(vi) từ điển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ya(meru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "辞表（じひょう）",
         "meaning": {
-          "english": "letter of resignation"
+          "english": "letter of resignation |(vi) đơn xin từ chức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ya(meru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "祝辞（しゅくじ）",
         "meaning": {
-          "english": "congratulatory address"
+          "english": "congratulatory address |(vi) lời chúc mừng, diễn văn chúc mừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ya(meru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "お世辞（おせじ）",
         "meaning": {
-          "english": "flattery, compliment"
+          "english": "flattery, compliment |(vi) lời khen xã giao, nịnh hót"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ya(meru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "お辞儀（おじぎ）",
         "meaning": {
-          "english": "bow [n.]"
+          "english": "bow [n.] |(vi) cúi chào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ya(meru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "辞退する（じたいする）",
         "meaning": {
-          "english": "refuse, decline"
+          "english": "refuse, decline |(vi) từ chối, thoái thác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ya(meru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "辞職する（じしょく）",
         "meaning": {
-          "english": "resign"
+          "english": "resign |(vi) từ chức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ya(meru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "辞める（やめる）",
         "meaning": {
-          "english": "resign, retire"
+          "english": "resign, retire |(vi) từ chức, nghỉ việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ya(meru)_06_i.opus",
@@ -240,7 +240,7 @@
     "kanji": {
       "character": "辞",
       "meaning": {
-        "english": "word, resign, quit"
+        "english": "word, resign, quit |(vi) lời nói, từ chức, thôi việc"
       },
       "strokes": {
         "count": 13,
@@ -304,7 +304,7 @@
         "romaji": "karai"
       },
       "meaning": {
-        "english": "bitter"
+        "english": "bitter |(vi) Tân (cay, khổ cực)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/karai0.svg",
@@ -325,7 +325,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "633",
     "strokeCount": 13,
-    "meaning": "resign, word, term, expression",
+    "meaning": "resign, word, term, expression |(vi) từ chức, lời nói, từ ngữ, cách diễn đạt |(hv) Từ",
     "kunyomi": [
       "や.める",
       "いな.む"
@@ -337,39 +337,39 @@
       {
         "example": "辞",
         "reading": "ジ",
-        "meaning": "address (e.g. opening or closing remarks), speech, words, ci (Chinese literary form), ancillary word"
+        "meaning": "address (e.g. opening or closing remarks), speech, words, ci (Chinese literary form), ancillary word |(vi) lời phát biểu, bài diễn văn, từ ngữ, từ (thể văn học Trung Hoa), hư từ"
       },
       {
         "example": "辞意",
         "reading": "ジイ",
-        "meaning": "intention to resign"
+        "meaning": "intention to resign |(vi) ý định từ chức"
       },
       {
         "example": "弔辞",
         "reading": "チョウジ",
-        "meaning": "message of condolence, memorial address"
+        "meaning": "message of condolence, memorial address |(vi) điếu văn, lời chia buồn"
       },
       {
         "example": "修辞",
         "reading": "シュウジ",
-        "meaning": "figure of speech, rhetorical flourish"
+        "meaning": "figure of speech, rhetorical flourish |(vi) tu từ, cách diễn đạt hoa mỹ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "辞める",
         "reading": "やめる",
-        "meaning": "to resign, to retire, to quit, to leave (one's job, etc.)"
+        "meaning": "to resign, to retire, to quit, to leave (one's job, etc.) |(vi) từ chức, thôi việc, nghỉ việc"
       },
       {
         "example": "否む",
         "reading": "いなむ",
-        "meaning": "to refuse, to decline, to deny"
+        "meaning": "to refuse, to decline, to deny |(vi) từ chối, khước từ, phủ nhận"
       }
     ],
     "radical": {
       "symbol": "辛",
-      "meaning": "bitter"
+      "meaning": "bitter |(vi) Tân (cay, khổ cực)"
     },
     "parts": [
       "十",

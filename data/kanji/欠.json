@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "ka, kakeru, kaku, kakasu",
-    "meaning": "lack",
+    "meaning": "lack |(vi) thiếu, thiếu hụt",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "欠員（けついん）",
         "meaning": {
-          "english": "vacancy, vacant position"
+          "english": "vacancy, vacant position |(vi) chỗ trống, vị trí khuyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-ka(keru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "欠点（けってん）",
         "meaning": {
-          "english": "faults, defect, weakness"
+          "english": "faults, defect, weakness |(vi) khuyết điểm, nhược điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-ka(keru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "欠陥（けっかん）",
         "meaning": {
-          "english": "defect, fault, deficiency"
+          "english": "defect, fault, deficiency |(vi) khiếm khuyết, lỗi, thiếu sót"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-ka(keru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "出欠（しゅっけつ）",
         "meaning": {
-          "english": "presence or absence"
+          "english": "presence or absence |(vi) có mặt hay vắng mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-ka(keru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "補欠（ほけつ）",
         "meaning": {
-          "english": "substitute, spare, alternate"
+          "english": "substitute, spare, alternate |(vi) người thay thế, dự bị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-ka(keru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "不可欠な（ふかけつな）",
         "meaning": {
-          "english": "indispensable, essential"
+          "english": "indispensable, essential |(vi) không thể thiếu, thiết yếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-ka(keru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "欠席する（けっせきする）",
         "meaning": {
-          "english": "be absent, not attend"
+          "english": "be absent, not attend |(vi) vắng mặt, không tham dự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-ka(keru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "欠乏する（けつぼうする）",
         "meaning": {
-          "english": "be short of, lack, want"
+          "english": "be short of, lack, want |(vi) thiếu hụt, khan hiếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-ka(keru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "欠如する（けつじょする）",
         "meaning": {
-          "english": "be short of, lack, want"
+          "english": "be short of, lack, want |(vi) thiếu, thiếu hụt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-ka(keru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "欠ける（かける）",
         "meaning": {
-          "english": "be lacking, be chipped [v.i.]"
+          "english": "be lacking, be chipped [v.i.] |(vi) bị thiếu, bị sứt mẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-ka(keru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "欠く（かく）",
         "meaning": {
-          "english": "be short of, lack, neglect [v.t.]"
+          "english": "be short of, lack, neglect [v.t.] |(vi) thiếu, bỏ sót, sao lãng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-ka(keru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "欠かせない（かかせない）",
         "meaning": {
-          "english": "indispensable"
+          "english": "indispensable |(vi) không thể thiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ketsu-ka(keru)_06_l.opus",
@@ -261,7 +261,7 @@
     "kanji": {
       "character": "欠",
       "meaning": {
-        "english": "lack"
+        "english": "lack |(vi) thiếu, thiếu hụt"
       },
       "strokes": {
         "count": 4,
@@ -307,7 +307,7 @@
         "romaji": "akubi"
       },
       "meaning": {
-        "english": "to lack, yawn"
+        "english": "to lack, yawn |(vi) Khiếm (thiếu, ngáp)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/akubi0.svg",
@@ -328,7 +328,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "860",
     "strokeCount": 4,
-    "meaning": "lack, gap, fail, yawning radical (no. 76)",
+    "meaning": "lack, gap, fail, yawning radical (no. 76) |(vi) thiếu, khoảng trống, thất bại, bộ ngáp (bộ thủ số 76) |(hv) Khiếm",
     "kunyomi": [
       "か.ける",
       "か.く"
@@ -341,59 +341,59 @@
       {
         "example": "欠",
         "reading": "ケツ",
-        "meaning": "lack, deficiency, vacancy, absence, non-attendance"
+        "meaning": "lack, deficiency, vacancy, absence, non-attendance |(vi) thiếu, khiếm khuyết, chỗ trống, vắng mặt, không tham dự"
       },
       {
         "example": "欠員",
         "reading": "ケツイン",
-        "meaning": "vacant position, vacancy, opening, unfilled position"
+        "meaning": "vacant position, vacancy, opening, unfilled position |(vi) vị trí khuyết, chỗ trống, vị trí chưa có người"
       },
       {
         "example": "補欠",
         "reading": "ホケツ",
-        "meaning": "filling a vacancy, supplementation, substitute, deputy, alternate, spare"
+        "meaning": "filling a vacancy, supplementation, substitute, deputy, alternate, spare |(vi) lấp chỗ trống, bổ sung, người thay thế, người dự bị"
       },
       {
         "example": "出欠",
         "reading": "シュッケツ",
-        "meaning": "attendance or absence"
+        "meaning": "attendance or absence |(vi) có mặt hay vắng mặt"
       },
       {
         "example": "欠缺",
         "reading": "ケンケツ",
-        "meaning": "lacuna, gap where something is lacked"
+        "meaning": "lacuna, gap where something is lacked |(vi) chỗ khuyết, khoảng trống bị thiếu"
       },
       {
         "example": "欠缺利札",
         "reading": "ケンケツリサツ",
-        "meaning": "invalid coupon"
+        "meaning": "invalid coupon |(vi) phiếu lãi không hợp lệ"
       },
       {
         "example": "阿毘羅吽欠",
         "reading": "アビラウンケン",
-        "meaning": "a-bi-ra-un-ken (mantra directed to Vairocana)"
+        "meaning": "a-bi-ra-un-ken (mantra directed to Vairocana) |(vi) a-bi-ra-un-ken (thần chú hướng đến Đại Nhật Như Lai)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "欠ける",
         "reading": "かける",
-        "meaning": "to chip, to be chipped, to break (off), to be damaged, to be missing (from a set, team, etc.), to be absent, to become lost, to be lacking (in), to be short (of), to be deficient, to be wanting (in), to wane (of the moon), to go into eclipse"
+        "meaning": "to chip, to be chipped, to break (off), to be damaged, to be missing (from a set, team, etc.), to be absent, to become lost, to be lacking (in), to be short (of), to be deficient, to be wanting (in), to wane (of the moon), to go into eclipse |(vi) sứt mẻ, bị sứt, bị vỡ, bị hỏng, bị thiếu (trong một bộ, đội, v.v.), vắng mặt, bị mất, thiếu, không đủ, khiếm khuyết, khuyết (mặt trăng), bị che khuất (nhật/nguyệt thực)"
       },
       {
         "example": "欠く",
         "reading": "かく",
-        "meaning": "to chip, to nick, to break, to crack, to lack"
+        "meaning": "to chip, to nick, to break, to crack, to lack |(vi) sứt, mẻ, vỡ, nứt, thiếu"
       },
       {
         "example": "欠くことができない",
         "reading": "かくことができない",
-        "meaning": "indispensable, essential, necessary"
+        "meaning": "indispensable, essential, necessary |(vi) không thể thiếu, thiết yếu, cần thiết"
       }
     ],
     "radical": {
       "symbol": "欠",
-      "meaning": "lack, yawn"
+      "meaning": "lack, yawn |(vi) Khiếm (thiếu, ngáp)"
     },
     "parts": [
       "人",

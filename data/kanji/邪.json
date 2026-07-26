@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "evil, wrong",
+    "meaning": "evil, wrong |(vi) tà ác, sai trái",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "邪心（じゃしん）",
         "meaning": {
-          "english": "malice, evil intentions"
+          "english": "malice, evil intentions |(vi) tà tâm, ác ý, lòng dạ xấu xa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ja(akuna)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "邪道な（じゃどうな）",
         "meaning": {
-          "english": "heresy, the course of evil"
+          "english": "heresy, the course of evil |(vi) tà đạo, đường tà, dị giáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ja(akuna)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "邪魔な（じゃまな）",
         "meaning": {
-          "english": "obstructive, burdensome"
+          "english": "obstructive, burdensome |(vi) vướng víu, phiền toái, cản trở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ja(akuna)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "邪悪な（じゃあくな）",
         "meaning": {
-          "english": "wicked, evil"
+          "english": "wicked, evil |(vi) tà ác, độc ác, gian tà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ja(akuna)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "無邪気な（むじゃきな）",
         "meaning": {
-          "english": "innocent, simple"
+          "english": "innocent, simple |(vi) ngây thơ, hồn nhiên, vô tư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ja(akuna)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "邪魔する（じゃまする）",
         "meaning": {
-          "english": "get in the way, be a nuisance"
+          "english": "get in the way, be a nuisance |(vi) quấy rầy, làm vướng chân, gây phiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ja(akuna)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "*風邪（かぜ）",
         "meaning": {
-          "english": "a cold (as in an illness)"
+          "english": "a cold (as in an illness) |(vi) bệnh cảm, cảm lạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ja(akuna)_06_g.opus",
@@ -186,7 +186,7 @@
     "kanji": {
       "character": "邪",
       "meaning": {
-        "english": "evil, wrong"
+        "english": "evil, wrong |(vi) tà ác, sai trái"
       },
       "strokes": {
         "count": 8,
@@ -240,7 +240,7 @@
         "romaji": "oozato"
       },
       "meaning": {
-        "english": "village, country, city"
+        "english": "village, country, city |(vi) Ấp (làng xóm, đô thị)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/oozato0.svg",
@@ -261,7 +261,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1612",
     "strokeCount": 8,
-    "meaning": "wicked, injustice, wrong",
+    "meaning": "wicked, injustice, wrong |(vi) gian tà, bất công, sai trái |(hv) Tà",
     "kunyomi": [
       "よこし.ま"
     ],
@@ -272,34 +272,34 @@
       {
         "example": "邪",
         "reading": "ジャ",
-        "meaning": "wickedness, evil, wicked person"
+        "meaning": "wickedness, evil, wicked person |(vi) sự gian tà, điều ác, kẻ xấu xa"
       },
       {
         "example": "邪魔",
         "reading": "ジャマ",
-        "meaning": "hindrance, obstacle, nuisance, disturbance, interruption, interference, to visit (someone's home), demon who hinders Buddhist training, demon who obstructs sentient beings from maintaining moral behaviour"
+        "meaning": "hindrance, obstacle, nuisance, disturbance, interruption, interference, to visit (someone's home), demon who hinders Buddhist training, demon who obstructs sentient beings from maintaining moral behaviour |(vi) tà ma, sự cản trở, chướng ngại, sự quấy rầy, sự làm phiền, sự gián đoạn, sự can thiệp, ghé thăm (nhà ai), ác ma cản trở việc tu hành, ác ma ngăn chúng sinh giữ giới"
       },
       {
         "example": "妖邪",
         "reading": "ヨウジャ",
-        "meaning": "evil intent, malice"
+        "meaning": "evil intent, malice |(vi) yêu tà, ác ý, lòng hiểm độc"
       },
       {
         "example": "破邪",
         "reading": "ハジャ",
-        "meaning": "crushing evil, destroying heresy"
+        "meaning": "crushing evil, destroying heresy |(vi) phá tà, sự trừ gian diệt ác, sự đập tan tà thuyết"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "邪",
         "reading": "よこしま",
-        "meaning": "wicked, evil, wrong, bad"
+        "meaning": "wicked, evil, wrong, bad |(vi) gian tà, độc ác, sai trái, xấu xa"
       },
       {
         "example": "邪まな心",
         "reading": "よこしまなこころ",
-        "meaning": "evil heart"
+        "meaning": "evil heart |(vi) tâm địa xấu xa, lòng dạ gian tà"
       }
     ],
     "radical": {
@@ -307,7 +307,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "town (阝 right)"
+      "meaning": "town (阝 right) |(vi) Ấp (làng xóm, đô thị; dạng 阝 bên phải)"
     },
     "parts": [
       "牙",

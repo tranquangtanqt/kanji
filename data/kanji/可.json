@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": " - able, approve",
+    "meaning": " - able, approve |(vi)  - có thể, chấp thuận",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "可能性（かのうせい）",
         "meaning": {
-          "english": "potentiality, possibility"
+          "english": "potentiality, possibility |(vi) khả năng, tính khả thi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "可燃物（かねんぶつ）",
         "meaning": {
-          "english": "flammable materials"
+          "english": "flammable materials |(vi) vật liệu dễ cháy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "可愛らしい（かわいらしい）",
         "meaning": {
-          "english": "lovely, sweet"
+          "english": "lovely, sweet |(vi) đáng yêu, dễ thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "可能な（かのうな）",
         "meaning": {
-          "english": "possible"
+          "english": "possible |(vi) có thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "不可能な（ふかのうな）",
         "meaning": {
-          "english": "impossible"
+          "english": "impossible |(vi) không thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "不可分な（ふかぶんな）",
         "meaning": {
-          "english": "indivisible"
+          "english": "indivisible |(vi) không thể tách rời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "不可解な（ふかかいな）",
         "meaning": {
-          "english": "mysterious, baffling"
+          "english": "mysterious, baffling |(vi) khó hiểu, bí ẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "可決する（かけつする）",
         "meaning": {
-          "english": "approve"
+          "english": "approve |(vi) thông qua, chấp thuận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "許可する（きょかする）",
         "meaning": {
-          "english": "permit [v.t.]"
+          "english": "permit [v.t.] |(vi) cho phép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_i.opus",
@@ -212,7 +212,7 @@
     "kanji": {
       "character": "可",
       "meaning": {
-        "english": " - able, approve"
+        "english": " - able, approve |(vi)  - có thể, chấp thuận"
       },
       "strokes": {
         "count": 5,
@@ -260,7 +260,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -280,7 +280,7 @@
     "taughtIn": "grade 5",
     "newspaperFrequencyRank": "314",
     "strokeCount": 5,
-    "meaning": "can, passable, approval",
+    "meaning": "can, passable, approval |(vi) có thể, đạt yêu cầu, sự chấp thuận |(hv) Khả",
     "kunyomi": [
       "-べ.き",
       "-べ.し"
@@ -293,28 +293,28 @@
       {
         "example": "可",
         "reading": "カ",
-        "meaning": "acceptable, satisfactory, allowed, permitted, approval, being in favour, (a) vote in favour, aye, Pass (grade), Fair, C, D"
+        "meaning": "acceptable, satisfactory, allowed, permitted, approval, being in favour, (a) vote in favour, aye, Pass (grade), Fair, C, D |(vi) chấp nhận được, thỏa đáng, được phép, được cho phép, sự chấp thuận, tán thành, phiếu thuận, đạt (điểm), khá, C, D"
       },
       {
         "example": "可決",
         "reading": "カケツ",
-        "meaning": "approval, adoption (of a motion, bill, etc.), passage"
+        "meaning": "approval, adoption (of a motion, bill, etc.), passage |(vi) thông qua, chấp thuận (một kiến nghị, dự luật...)"
       },
       {
         "example": "裁可",
         "reading": "サイカ",
-        "meaning": "sanction, approval"
+        "meaning": "sanction, approval |(vi) phê chuẩn, chấp thuận"
       },
       {
         "example": "不裁可",
         "reading": "フサイカ",
-        "meaning": "veto, rejection"
+        "meaning": "veto, rejection |(vi) phủ quyết, từ chối"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "一",

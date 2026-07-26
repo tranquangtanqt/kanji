@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "sa, sasu, sasaru, sashi",
-    "meaning": "stab, pierce",
+    "meaning": "stab, pierce |(vi) đâm, đâm chọc",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "刺繍（ししゅう）",
         "meaning": {
-          "english": "embroidery"
+          "english": "embroidery |(vi) thêu, thêu thùa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sa(saru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "刺客（しかく）",
         "meaning": {
-          "english": "assassin"
+          "english": "assassin |(vi) thích khách, kẻ ám sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sa(saru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "名刺（めいし）",
         "meaning": {
-          "english": "business card"
+          "english": "business card |(vi) danh thiếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sa(saru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "刺激する（しげきする）",
         "meaning": {
-          "english": "stimulate, stir up, excite"
+          "english": "stimulate, stir up, excite |(vi) kích thích, khuấy động, kích động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sa(saru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "刺傷する（ししょうする）",
         "meaning": {
-          "english": "stab, puncture, wound"
+          "english": "stab, puncture, wound |(vi) đâm, đâm thủng, gây thương tích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sa(saru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "風刺する（ふうしする）",
         "meaning": {
-          "english": "satirize, lampoon"
+          "english": "satirize, lampoon |(vi) châm biếm, chế giễu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sa(saru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "刺す（さす）",
         "meaning": {
-          "english": "pierce, stab [v.t.]"
+          "english": "pierce, stab [v.t.] |(vi) đâm, chọc [v.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sa(saru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "刺さる（ささる）",
         "meaning": {
-          "english": "be stuck [v.i.]"
+          "english": "be stuck [v.i.] |(vi) bị đâm, bị cắm vào [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sa(saru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "刺身（さしみ）",
         "meaning": {
-          "english": "sliced raw fish"
+          "english": "sliced raw fish |(vi) cá sống thái lát (sashimi)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sa(saru)_06_i.opus",
@@ -209,7 +209,7 @@
     "kanji": {
       "character": "刺",
       "meaning": {
-        "english": "stab, pierce"
+        "english": "stab, pierce |(vi) đâm, đâm chọc"
       },
       "strokes": {
         "count": 8,
@@ -263,7 +263,7 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, kiếm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -284,7 +284,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1031",
     "strokeCount": 8,
-    "meaning": "thorn, pierce, stab, prick, sting, calling card",
+    "meaning": "thorn, pierce, stab, prick, sting, calling card |(vi) gai, đâm, chọc, châm, chích, danh thiếp |(hv) Thích",
     "kunyomi": [
       "さ.す",
       "さ.さる",
@@ -299,94 +299,94 @@
       {
         "example": "刺",
         "reading": "シ",
-        "meaning": "calling card"
+        "meaning": "calling card |(vi) danh thiếp"
       },
       {
         "example": "刺激",
         "reading": "シゲキ",
-        "meaning": "stimulus, stimulation, irritation (esp. of the body, e.g. skin, eyes), impetus, impulse, stimulus, spur, incentive, encouragement, stimulation, motivation, provocation, excitement, thrill"
+        "meaning": "stimulus, stimulation, irritation (esp. of the body, e.g. skin, eyes), impetus, impulse, stimulus, spur, incentive, encouragement, stimulation, motivation, provocation, excitement, thrill |(vi) kích thích, sự kích thích, xung lực, động lực, khuyến khích, hưng phấn"
       },
       {
         "example": "牛刺",
         "reading": "ギュウサシ",
-        "meaning": "sliced raw beef"
+        "meaning": "sliced raw beef |(vi) thịt bò sống thái lát"
       },
       {
         "example": "肉刺し",
         "reading": "ニクサシ",
-        "meaning": "fork"
+        "meaning": "fork |(vi) cái dĩa (xiên thịt)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "刺す",
         "reading": "さす",
-        "meaning": "to pierce, to stab, to prick, to stick, to thrust, to sting, to bite, to sew, to stitch, to embroider, to pole (a boat), to catch (with a limed pole), to put (a runner) out, to pick off"
+        "meaning": "to pierce, to stab, to prick, to stick, to thrust, to sting, to bite, to sew, to stitch, to embroider, to pole (a boat), to catch (with a limed pole), to put (a runner) out, to pick off |(vi) đâm, chọc, châm, cắm, xiên, chích, cắn, khâu, may, thêu, chống thuyền bằng sào, bắt bằng sào nhựa dính, loại người chạy ra, nhặt ra"
       },
       {
         "example": "刺刀",
         "reading": "さすが",
-        "meaning": "dagger"
+        "meaning": "dagger |(vi) dao găm"
       },
       {
         "example": "刺さる",
         "reading": "ささる",
-        "meaning": "to stick into (of something with a sharp point), to prick, to pierce, to get stuck (in), to lodge (in), to resonate emotionally, to move"
+        "meaning": "to stick into (of something with a sharp point), to prick, to pierce, to get stuck (in), to lodge (in), to resonate emotionally, to move |(vi) cắm vào, đâm vào, mắc vào, kẹt vào, gây xúc động, cảm động"
       },
       {
         "example": "刺し",
         "reading": "さし",
-        "meaning": "grain thief, sharpened tube for testing rice in bags, sashimi (sliced raw fish), stabbing, piercing, pricking"
+        "meaning": "grain thief, sharpened tube for testing rice in bags, sashimi (sliced raw fish), stabbing, piercing, pricking |(vi) kẻ trộm lúa, ống nhọn kiểm tra gạo trong bao, sashimi (cá sống thái lát), sự đâm, sự chọc, sự châm"
       },
       {
         "example": "刺身",
         "reading": "さしみ",
-        "meaning": "sashimi (raw sliced fish, shellfish or crustaceans)"
+        "meaning": "sashimi (raw sliced fish, shellfish or crustaceans) |(vi) sashimi (cá, sò, giáp xác sống thái lát)"
       },
       {
         "example": "牛刺",
         "reading": "ぎゅうさし",
-        "meaning": "sliced raw beef"
+        "meaning": "sliced raw beef |(vi) thịt bò sống thái lát"
       },
       {
         "example": "肉刺し",
         "reading": "にくさし",
-        "meaning": "fork"
+        "meaning": "fork |(vi) cái dĩa (xiên thịt)"
       },
       {
         "example": "刺し",
         "reading": "さし",
-        "meaning": "grain thief, sharpened tube for testing rice in bags, sashimi (sliced raw fish), stabbing, piercing, pricking"
+        "meaning": "grain thief, sharpened tube for testing rice in bags, sashimi (sliced raw fish), stabbing, piercing, pricking |(vi) kẻ trộm lúa, ống nhọn kiểm tra gạo trong bao, sashimi (cá sống thái lát), sự đâm, sự chọc, sự châm"
       },
       {
         "example": "刺身",
         "reading": "さしみ",
-        "meaning": "sashimi (raw sliced fish, shellfish or crustaceans)"
+        "meaning": "sashimi (raw sliced fish, shellfish or crustaceans) |(vi) sashimi (cá, sò, giáp xác sống thái lát)"
       },
       {
         "example": "牛刺",
         "reading": "ぎゅうさし",
-        "meaning": "sliced raw beef"
+        "meaning": "sliced raw beef |(vi) thịt bò sống thái lát"
       },
       {
         "example": "肉刺し",
         "reading": "にくさし",
-        "meaning": "fork"
+        "meaning": "fork |(vi) cái dĩa (xiên thịt)"
       },
       {
         "example": "刺",
         "reading": "とげ",
-        "meaning": "thorn, spine, prickle, splinter (esp. lodged in one's flesh), hard sharp item (esp. lodged in one's throat, e.g. fish bone), biting words"
+        "meaning": "thorn, spine, prickle, splinter (esp. lodged in one's flesh), hard sharp item (esp. lodged in one's throat, e.g. fish bone), biting words |(vi) gai, gai nhọn, dằm mắc vào da thịt, vật nhọn cứng mắc trong họng như xương cá, lời nói cay nghiệt"
       },
       {
         "example": "棘魚",
         "reading": "とげうお",
-        "meaning": "stickleback (Gasterosteidae spp.)"
+        "meaning": "stickleback (Gasterosteidae spp.) |(vi) cá gai (họ Gasterosteidae)"
       },
       {
         "example": "刺々",
         "reading": "とげとげ",
-        "meaning": "sharply, harshly, stingingly"
+        "meaning": "sharply, harshly, stingingly |(vi) sắc bén, gay gắt, cay nghiệt"
       }
     ],
     "radical": {
@@ -394,7 +394,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "ハ",

@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "hoko, hokoru, hokori",
-    "meaning": "boast, be proud of",
+    "meaning": "boast, be proud of |(vi) khoe khoang, tự hào",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "誇大妄想（こだいもうそう）",
         "meaning": {
-          "english": "megalomania"
+          "english": "megalomania |(vi) hoang tưởng tự đại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoko(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "誇張する（こちょうする）",
         "meaning": {
-          "english": "exaggerate"
+          "english": "exaggerate |(vi) phóng đại, cường điệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoko(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "誇示する（こじする）",
         "meaning": {
-          "english": "display, show off"
+          "english": "display, show off |(vi) phô trương, khoe khoang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoko(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "誇る（ほこる）",
         "meaning": {
-          "english": "boast of, be proud of"
+          "english": "boast of, be proud of |(vi) khoe khoang, tự hào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoko(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "誇り（ほこり）",
         "meaning": {
-          "english": "pride"
+          "english": "pride |(vi) niềm tự hào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoko(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "誇らしい（ほこらしい）",
         "meaning": {
-          "english": "proud"
+          "english": "proud |(vi) đáng tự hào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoko(ru)_06_f.opus",
@@ -182,7 +182,7 @@
     "kanji": {
       "character": "誇",
       "meaning": {
-        "english": "boast, be proud of"
+        "english": "boast, be proud of |(vi) khoe khoang, tự hào"
       },
       "strokes": {
         "count": 13,
@@ -246,7 +246,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói, nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -267,7 +267,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1272",
     "strokeCount": 13,
-    "meaning": "boast, be proud, pride, triumphantly",
+    "meaning": "boast, be proud, pride, triumphantly |(vi) khoe khoang, tự hào, kiêu hãnh, đắc thắng |(hv) Khoa",
     "kunyomi": [
       "ほこ.る"
     ],
@@ -278,19 +278,19 @@
       {
         "example": "誇張",
         "reading": "コチョウ",
-        "meaning": "exaggeration"
+        "meaning": "exaggeration |(vi) sự phóng đại, khoa trương"
       },
       {
         "example": "誇大",
         "reading": "コダイ",
-        "meaning": "exaggeration, hyperbole"
+        "meaning": "exaggeration, hyperbole |(vi) sự khoa trương, phóng đại"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "誇る",
         "reading": "ほこる",
-        "meaning": "to boast of, to be proud of, to take pride in"
+        "meaning": "to boast of, to be proud of, to take pride in |(vi) khoe khoang, tự hào, lấy làm hãnh diện"
       }
     ],
     "radical": {
@@ -298,7 +298,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói, nói)"
     },
     "parts": [
       "二",

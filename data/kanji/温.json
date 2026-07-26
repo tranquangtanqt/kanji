@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "atata, atataka, atatakai, atatamaru, atatameru",
-    "meaning": "warm",
+    "meaning": "warm |(vi) ấm",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "温度（おんど）",
         "meaning": {
-          "english": "temperature"
+          "english": "temperature |(vi) nhiệt độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(sen)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "温度計（おんどけい）",
         "meaning": {
-          "english": "thermometer"
+          "english": "thermometer |(vi) nhiệt kế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(sen)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "温室（おんしつ）",
         "meaning": {
-          "english": "greenhouse"
+          "english": "greenhouse |(vi) nhà kính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(sen)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "温泉（おんせん）",
         "meaning": {
-          "english": "spa, hot spring, onsen"
+          "english": "spa, hot spring, onsen |(vi) suối nước nóng, onsen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(sen)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "気温（きおん）",
         "meaning": {
-          "english": "air temperature"
+          "english": "air temperature |(vi) nhiệt độ không khí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(sen)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "体温（たいおん）",
         "meaning": {
-          "english": "body temperature"
+          "english": "body temperature |(vi) thân nhiệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(sen)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "温暖な（おんだんな）",
         "meaning": {
-          "english": "warm, mild, temperate"
+          "english": "warm, mild, temperate |(vi) ấm áp, ôn hòa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(sen)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "温和な（おんわな）",
         "meaning": {
-          "english": "gentle, mild, mild-tempered"
+          "english": "gentle, mild, mild-tempered |(vi) dịu dàng, ôn hòa, tính tình hiền hòa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(sen)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "保温する（ほおんする）",
         "meaning": {
-          "english": "retain warmth, keep in heat"
+          "english": "retain warmth, keep in heat |(vi) giữ ấm, giữ nhiệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(sen)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "温める（あたためる）",
         "meaning": {
-          "english": "warm, heat up [v.t.]"
+          "english": "warm, heat up [v.t.] |(vi) làm ấm, hâm nóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(sen)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "温まる（あたたまる）",
         "meaning": {
-          "english": "warm up [v.i.]"
+          "english": "warm up [v.i.] |(vi) ấm lên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(sen)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "温かい（あたたかい）",
         "meaning": {
-          "english": "warm [adj.]"
+          "english": "warm [adj.] |(vi) ấm áp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(sen)_06_l.opus",
@@ -286,7 +286,7 @@
     "kanji": {
       "character": "温",
       "meaning": {
-        "english": "warm"
+        "english": "warm |(vi) ấm"
       },
       "strokes": {
         "count": 12,
@@ -348,7 +348,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -369,7 +369,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "838",
     "strokeCount": 12,
-    "meaning": "warm",
+    "meaning": "warm |(vi) ấm |(hv) Ôn",
     "kunyomi": [
       "あたた.か",
       "あたた.かい",
@@ -384,69 +384,69 @@
       {
         "example": "温厚",
         "reading": "オンコウ",
-        "meaning": "gentle, mild-mannered"
+        "meaning": "gentle, mild-mannered |(vi) hiền hòa, ôn hòa, dịu dàng"
       },
       {
         "example": "穏健",
         "reading": "オンケン",
-        "meaning": "moderate (view, politics, etc.), temperate, sensible, sober, non-radical"
+        "meaning": "moderate (view, politics, etc.), temperate, sensible, sober, non-radical |(vi) ôn hòa (quan điểm, chính trị...), chừng mực, sáng suốt, không cực đoan"
       },
       {
         "example": "保温",
         "reading": "ホオン",
-        "meaning": "retaining warmth, keeping heat in, heat insulation"
+        "meaning": "retaining warmth, keeping heat in, heat insulation |(vi) giữ ấm, cách nhiệt"
       },
       {
         "example": "室温",
         "reading": "シツオン",
-        "meaning": "room temperature"
+        "meaning": "room temperature |(vi) nhiệt độ phòng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "暖か",
         "reading": "あたたか",
-        "meaning": "warm, mild, genial"
+        "meaning": "warm, mild, genial |(vi) ấm áp, ôn hòa, dễ chịu"
       },
       {
         "example": "暖かい",
         "reading": "あたたかい",
-        "meaning": "warm, mild, (pleasantly) hot, considerate, kind, genial, warm (of a colour), mellow, having enough money"
+        "meaning": "warm, mild, (pleasantly) hot, considerate, kind, genial, warm (of a colour), mellow, having enough money |(vi) ấm áp, ôn hòa, (dễ chịu) nóng, chu đáo, tử tế, dịu dàng, ấm (màu sắc), êm dịu, có đủ tiền"
       },
       {
         "example": "暖かい",
         "reading": "あたたかい",
-        "meaning": "warm, mild, (pleasantly) hot, considerate, kind, genial, warm (of a colour), mellow, having enough money"
+        "meaning": "warm, mild, (pleasantly) hot, considerate, kind, genial, warm (of a colour), mellow, having enough money |(vi) ấm áp, ôn hòa, (dễ chịu) nóng, chu đáo, tử tế, dịu dàng, ấm (màu sắc), êm dịu, có đủ tiền"
       },
       {
         "example": "温かい歓迎",
         "reading": "あたたかいかんげい",
-        "meaning": "warm reception, cordial welcome, warm greeting"
+        "meaning": "warm reception, cordial welcome, warm greeting |(vi) sự đón tiếp nồng hậu, lời chào ấm áp"
       },
       {
         "example": "温まる",
         "reading": "あたたまる",
-        "meaning": "to warm oneself, to sun oneself, to warm up, to get warm"
+        "meaning": "to warm oneself, to sun oneself, to warm up, to get warm |(vi) sưởi ấm bản thân, tắm nắng, ấm lên"
       },
       {
         "example": "温める",
         "reading": "あたためる",
-        "meaning": "to warm (up), to heat (up), to sit on (an idea, plan, etc.), to keep to oneself, to nurse, to mull over, to renew (an old friendship), to take for oneself"
+        "meaning": "to warm (up), to heat (up), to sit on (an idea, plan, etc.), to keep to oneself, to nurse, to mull over, to renew (an old friendship), to take for oneself |(vi) làm ấm, hâm nóng, ấp ủ (ý tưởng, kế hoạch...), giữ kín, nung nấu, nối lại (tình bạn cũ), giữ cho riêng mình"
       },
       {
         "example": "温",
         "reading": "ぬく",
-        "meaning": "idiot, dummy, slow person"
+        "meaning": "idiot, dummy, slow person |(vi) kẻ ngốc, đồ ngu, người chậm chạp"
       },
       {
         "example": "温まる",
         "reading": "あたたまる",
-        "meaning": "to warm oneself, to sun oneself, to warm up, to get warm"
+        "meaning": "to warm oneself, to sun oneself, to warm up, to get warm |(vi) sưởi ấm bản thân, tắm nắng, ấm lên"
       },
       {
         "example": "温々",
         "reading": "ぬくぬく",
-        "meaning": "snugly, cosily, warmly, comfortably, carefree, easily, safely, without hardship, freshly made and still warm, imprudently, shamelessly"
+        "meaning": "snugly, cosily, warmly, comfortably, carefree, easily, safely, without hardship, freshly made and still warm, imprudently, shamelessly |(vi) ấm cúng, thoải mái, dễ chịu, vô tư, dễ dàng, an toàn, không khó khăn, mới làm và còn ấm, thiếu thận trọng, trơ trẽn"
       }
     ],
     "radical": {
@@ -455,7 +455,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "日",

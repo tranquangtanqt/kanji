@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "guard, defend, protect",
+    "meaning": "guard, defend, protect |(vi) canh gác, phòng thủ, bảo vệ",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "衛星（えいせい）",
         "meaning": {
-          "english": "satellite"
+          "english": "satellite |(vi) vệ tinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bou)ei_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "衛生（えいせい）",
         "meaning": {
-          "english": "health, hygiene, sanitation"
+          "english": "health, hygiene, sanitation |(vi) vệ sinh, sức khỏe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bou)ei_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "守衛（しゅえい）",
         "meaning": {
-          "english": "security guard, doorkeeper"
+          "english": "security guard, doorkeeper |(vi) bảo vệ, người gác cổng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bou)ei_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "自衛隊（じえいたい）",
         "meaning": {
-          "english": "self-defense force"
+          "english": "self-defense force |(vi) lực lượng phòng vệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bou)ei_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "護衛術（ごえいじゅつ）",
         "meaning": {
-          "english": "guard, convoy, escort"
+          "english": "guard, convoy, escort |(vi) kỹ thuật hộ tống, bảo vệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bou)ei_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "前衛的な（ぜんえいてきな）",
         "meaning": {
-          "english": "radical, avant-garde"
+          "english": "radical, avant-garde |(vi) tiên phong, cấp tiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bou)ei_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "防衛する（ぼうえいする）",
         "meaning": {
-          "english": "defend, protect"
+          "english": "defend, protect |(vi) phòng thủ, bảo vệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bou)ei_06_g.opus",
@@ -197,7 +197,7 @@
     "kanji": {
       "character": "衛",
       "meaning": {
-        "english": "guard, defend, protect"
+        "english": "guard, defend, protect |(vi) canh gác, phòng thủ, bảo vệ"
       },
       "strokes": {
         "count": 16,
@@ -267,7 +267,7 @@
         "romaji": "gyougamae"
       },
       "meaning": {
-        "english": "to go"
+        "english": "to go |(vi) Hành (đi, làm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyougamae0.svg",
@@ -288,7 +288,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "400",
     "strokeCount": 16,
-    "meaning": "defense, protection",
+    "meaning": "defense, protection |(vi) phòng thủ, bảo vệ |(hv) Vệ",
     "kunyomi": [],
     "onyomi": [
       "エイ",
@@ -298,48 +298,48 @@
       {
         "example": "衛星",
         "reading": "エイセイ",
-        "meaning": "(natural) satellite, moon, (artificial) satellite"
+        "meaning": "(natural) satellite, moon, (artificial) satellite |(vi) vệ tinh (tự nhiên), mặt trăng, vệ tinh (nhân tạo)"
       },
       {
         "example": "衛生",
         "reading": "エイセイ",
-        "meaning": "hygiene, sanitation, health"
+        "meaning": "hygiene, sanitation, health |(vi) vệ sinh, sức khỏe"
       },
       {
         "example": "自衛",
         "reading": "ジエイ",
-        "meaning": "self-defense, self-defence"
+        "meaning": "self-defense, self-defence |(vi) tự vệ"
       },
       {
         "example": "専守防衛",
         "reading": "センシュボウエイ",
-        "meaning": "nonaggressive defense (policy) (defence)"
+        "meaning": "nonaggressive defense (policy) (defence) |(vi) chính sách phòng thủ thuần túy (không tấn công)"
       },
       {
         "example": "衛星",
         "reading": "エイセイ",
-        "meaning": "(natural) satellite, moon, (artificial) satellite"
+        "meaning": "(natural) satellite, moon, (artificial) satellite |(vi) vệ tinh (tự nhiên), mặt trăng, vệ tinh (nhân tạo)"
       },
       {
         "example": "衛生",
         "reading": "エイセイ",
-        "meaning": "hygiene, sanitation, health"
+        "meaning": "hygiene, sanitation, health |(vi) vệ sinh, sức khỏe"
       },
       {
         "example": "近衛",
         "reading": "コノエ",
-        "meaning": "Imperial Guards"
+        "meaning": "Imperial Guards |(vi) cận vệ hoàng gia"
       },
       {
         "example": "兵衛",
         "reading": "ヒョウエ",
-        "meaning": "middle palace guard (ritsuryō system)"
+        "meaning": "middle palace guard (ritsuryō system) |(vi) vệ binh cung điện (hệ thống ritsuryō)"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "行",
-      "meaning": "go, do"
+      "meaning": "go, do |(vi) Hành (đi, làm)"
     },
     "parts": [
       "口",

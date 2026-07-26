@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "inspect, guess, surmise, judge",
+    "meaning": "inspect, guess, surmise, judge |(vi) xem xét, đoán, suy đoán, phán đoán",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "警察（けいさつ）",
         "meaning": {
-          "english": "police"
+          "english": "police |(vi) cảnh sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kei)satsu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "検察（けんさつ）",
         "meaning": {
-          "english": "prosecutor"
+          "english": "prosecutor |(vi) công tố, kiểm sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kei)satsu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "洞察力（どうさつりょく）",
         "meaning": {
-          "english": "insight, discernment"
+          "english": "insight, discernment |(vi) khả năng thấu hiểu, óc quan sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kei)satsu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "察知する（さっちする）",
         "meaning": {
-          "english": "sense, infer"
+          "english": "sense, infer |(vi) cảm nhận, suy ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kei)satsu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "視察する（しさつする）",
         "meaning": {
-          "english": "inspect, observe"
+          "english": "inspect, observe |(vi) thị sát, quan sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kei)satsu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "査察する（ささつする）",
         "meaning": {
-          "english": "inspect, investigate"
+          "english": "inspect, investigate |(vi) thanh tra, kiểm tra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kei)satsu_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "診察する（しんさつする）",
         "meaning": {
-          "english": "perform a medical exam"
+          "english": "perform a medical exam |(vi) khám bệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kei)satsu_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "観察する（かんさつする）",
         "meaning": {
-          "english": "observe, survey"
+          "english": "observe, survey |(vi) quan sát, khảo sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kei)satsu_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "推察する（すいさつする）",
         "meaning": {
-          "english": "guess, conjecture, surmise"
+          "english": "guess, conjecture, surmise |(vi) suy đoán, phỏng đoán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kei)satsu_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "考察する（こうさつする）",
         "meaning": {
-          "english": "consider, inquire"
+          "english": "consider, inquire |(vi) khảo sát, xem xét"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kei)satsu_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "察する（さっする）",
         "meaning": {
-          "english": "guess, sense, presume"
+          "english": "guess, sense, presume |(vi) đoán, cảm nhận, phỏng đoán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kei)satsu_06_k.opus",
@@ -234,7 +234,7 @@
     "kanji": {
       "character": "察",
       "meaning": {
-        "english": "inspect, guess, surmise, judge"
+        "english": "inspect, guess, surmise, judge |(vi) xem xét, đoán, suy đoán, phán đoán"
       },
       "strokes": {
         "count": 14,
@@ -300,7 +300,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà, nóc nhà)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -321,7 +321,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "477",
     "strokeCount": 14,
-    "meaning": "guess, presume, surmise, judge, understand",
+    "meaning": "guess, presume, surmise, judge, understand |(vi) đoán, suy đoán, phán đoán, hiểu |(hv) Sát",
     "kunyomi": [],
     "onyomi": [
       "サツ"
@@ -330,23 +330,23 @@
       {
         "example": "察",
         "reading": "サツ",
-        "meaning": "cops, police"
+        "meaning": "cops, police |(vi) cảnh sát"
       },
       {
         "example": "監察",
         "reading": "カンサツ",
-        "meaning": "inspection, inspector"
+        "meaning": "inspection, inspector |(vi) giám sát, thanh tra viên"
       },
       {
         "example": "偵察",
         "reading": "テイサツ",
-        "meaning": "scouting, reconnaissance"
+        "meaning": "scouting, reconnaissance |(vi) trinh sát, do thám"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà, nóc nhà)"
     },
     "parts": [
       "ノ",

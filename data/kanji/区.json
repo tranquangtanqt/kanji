@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "district, ward",
+    "meaning": "district, ward |(vi) khu vực, quận",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "区（く）",
         "meaning": {
-          "english": "ward, district, section"
+          "english": "ward, district, section |(vi) quận, khu vực, khu phố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(iki)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "東京都23区（とうきょうと23く）",
         "meaning": {
-          "english": "Tokyo metro area, 23 wards"
+          "english": "Tokyo metro area, 23 wards |(vi) 23 quận nội thành Tokyo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(iki)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "区域（くいき）",
         "meaning": {
-          "english": "limits, boundary, domain, zone"
+          "english": "limits, boundary, domain, zone |(vi) khu vực, ranh giới, phạm vi, vùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(iki)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "区間（くかん）",
         "meaning": {
-          "english": "section"
+          "english": "section |(vi) đoạn, khu đoạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(iki)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "区立（くりつ）",
         "meaning": {
-          "english": "ward run, ward operated"
+          "english": "ward run, ward operated |(vi) do quận điều hành, thuộc quận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(iki)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "区役所（くやくしょ）",
         "meaning": {
-          "english": "ward office, council"
+          "english": "ward office, council |(vi) văn phòng quận, ủy ban quận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(iki)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "地区（ちく）",
         "meaning": {
-          "english": "district, section, sector"
+          "english": "district, section, sector |(vi) khu vực, địa phận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(iki)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "学区（がっく）",
         "meaning": {
-          "english": "school district"
+          "english": "school district |(vi) khu vực trường học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(iki)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "選挙区（せんきょく）",
         "meaning": {
-          "english": "electoral district, precinct"
+          "english": "electoral district, precinct |(vi) khu vực bầu cử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(iki)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "新宿区（しんじゅくく）",
         "meaning": {
-          "english": "Shinjuku ward"
+          "english": "Shinjuku ward |(vi) quận Shinjuku"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(iki)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "区別する（くべつする）",
         "meaning": {
-          "english": "distinguish, differentiate"
+          "english": "distinguish, differentiate |(vi) phân biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(iki)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "区切る（くぎる）",
         "meaning": {
-          "english": "punctuate, cut off, mark off"
+          "english": "punctuate, cut off, mark off |(vi) ngắt đoạn, phân đoạn, đánh dấu ranh giới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(iki)_06_l.opus",
@@ -257,7 +257,7 @@
     "kanji": {
       "character": "区",
       "meaning": {
-        "english": "district, ward"
+        "english": "district, ward |(vi) khu vực, quận"
       },
       "strokes": {
         "count": 4,
@@ -303,7 +303,7 @@
         "romaji": "hakogamae"
       },
       "meaning": {
-        "english": "box"
+        "english": "box |(vi) Phương (hộp vuông)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hakogamae0.svg",
@@ -324,7 +324,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "137",
     "strokeCount": 4,
-    "meaning": "ward, district",
+    "meaning": "ward, district |(vi) quận, khu vực |(hv) Khu",
     "kunyomi": [],
     "onyomi": [
       "ク",
@@ -335,28 +335,28 @@
       {
         "example": "区",
         "reading": "ク",
-        "meaning": "ward, borough, city (in Tokyo), district (e.g. electoral), section, zone (e.g. postal)"
+        "meaning": "ward, borough, city (in Tokyo), district (e.g. electoral), section, zone (e.g. postal) |(vi) quận, phường, thành phố (ở Tokyo), khu vực (như khu bầu cử), phân đoạn, vùng (như vùng bưu chính)"
       },
       {
         "example": "区域",
         "reading": "クイキ",
-        "meaning": "area, zone, district, quarter, section, limits, boundary"
+        "meaning": "area, zone, district, quarter, section, limits, boundary |(vi) khu vực, vùng, quận, khu, phân đoạn, ranh giới"
       },
       {
         "example": "学区",
         "reading": "ガック",
-        "meaning": "school district, school area"
+        "meaning": "school district, school area |(vi) khu vực trường học"
       },
       {
         "example": "鉱区",
         "reading": "コウク",
-        "meaning": "mining area, mine lot"
+        "meaning": "mining area, mine lot |(vi) khu vực khai thác mỏ, lô mỏ"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "匸",
-      "meaning": "hiding enclosure"
+      "meaning": "hiding enclosure |(vi) Hệ (che giấu, ẩn náu)"
     },
     "parts": [
       "ノ",

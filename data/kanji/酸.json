@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "su, sui",
-    "meaning": "acid, oxygen",
+    "meaning": "acid, oxygen |(vi) axit, oxy",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "酸（さん）",
         "meaning": {
-          "english": "acid"
+          "english": "acid |(vi) axit"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-sui_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "酸素（さんそ）",
         "meaning": {
-          "english": "oxygen"
+          "english": "oxygen |(vi) oxy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-sui_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "酸味（さんみ）",
         "meaning": {
-          "english": "sourness, acidity"
+          "english": "sourness, acidity |(vi) vị chua, độ chua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-sui_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "酸性（さんせい）",
         "meaning": {
-          "english": "acidity"
+          "english": "acidity |(vi) tính axit"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-sui_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "酸性雨（さんせいう）",
         "meaning": {
-          "english": "acid rain"
+          "english": "acid rain |(vi) mưa axit"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-sui_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "辛酸（しんさん）",
         "meaning": {
-          "english": "hardships, privation"
+          "english": "hardships, privation |(vi) cay đắng, gian khổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-sui_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "硫酸（りゅうさん）",
         "meaning": {
-          "english": "sulfuric acid"
+          "english": "sulfuric acid |(vi) axit sunfuric"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-sui_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "塩酸（えんさん）",
         "meaning": {
-          "english": "hydrochloric acid"
+          "english": "hydrochloric acid |(vi) axit clohydric"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-sui_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "胃酸（いさん）",
         "meaning": {
-          "english": "stomach acid"
+          "english": "stomach acid |(vi) axit dạ dày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-sui_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "酸化する（さんかする）",
         "meaning": {
-          "english": "oxidize [v.i.]"
+          "english": "oxidize [v.i.] |(vi) oxy hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-sui_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "酸い（すい）",
         "meaning": {
-          "english": "sour, acid"
+          "english": "sour, acid |(vi) chua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-sui_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "酸っぱい（すっぱい）",
         "meaning": {
-          "english": "sour, acid"
+          "english": "sour, acid |(vi) chua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-sui_06_l.opus",
@@ -240,7 +240,7 @@
     "kanji": {
       "character": "酸",
       "meaning": {
-        "english": "acid, oxygen"
+        "english": "acid, oxygen |(vi) axit, oxy"
       },
       "strokes": {
         "count": 14,
@@ -306,7 +306,7 @@
         "romaji": "torihen"
       },
       "meaning": {
-        "english": "sake jar, bird"
+        "english": "sake jar, bird |(vi) Dậu (chum rượu, chim)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/torihen0.svg",
@@ -327,7 +327,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1218",
     "strokeCount": 14,
-    "meaning": "acid, bitterness, sour, tart",
+    "meaning": "acid, bitterness, sour, tart |(vi) chua, cay đắng, chua, chát |(hv) Toan",
     "kunyomi": [
       "す.い"
     ],
@@ -338,39 +338,39 @@
       {
         "example": "酸",
         "reading": "サン",
-        "meaning": "acid, sourness, sour taste"
+        "meaning": "acid, sourness, sour taste |(vi) axit, vị chua, độ chua"
       },
       {
         "example": "酸化",
         "reading": "サンカ",
-        "meaning": "oxidation, oxidization"
+        "meaning": "oxidation, oxidization |(vi) sự oxy hóa"
       },
       {
         "example": "炭酸",
         "reading": "タンサン",
-        "meaning": "carbonic acid, carbonated water, carbonated drink, baking soda, sodium carbonate"
+        "meaning": "carbonic acid, carbonated water, carbonated drink, baking soda, sodium carbonate |(vi) axit cacbonic, nước có ga, đồ uống có ga, baking soda, natri cacbonat"
       },
       {
         "example": "アミノ酸",
         "reading": "アミノサン",
-        "meaning": "amino acid"
+        "meaning": "amino acid |(vi) axit amin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "酸い",
         "reading": "すい",
-        "meaning": "sour, acid"
+        "meaning": "sour, acid |(vi) chua"
       },
       {
         "example": "酸葉",
         "reading": "すいば",
-        "meaning": "sorrel (Rumex acetosa), Common sorrel, garden sorrel, spinach dock"
+        "meaning": "sorrel (Rumex acetosa), Common sorrel, garden sorrel, spinach dock |(vi) cây chua me lá me (Rumex acetosa), rau chua me"
       }
     ],
     "radical": {
       "symbol": "酉",
-      "meaning": "wine, alcohol"
+      "meaning": "wine, alcohol |(vi) Dậu (rượu, men rượu)"
     },
     "parts": [
       "儿",

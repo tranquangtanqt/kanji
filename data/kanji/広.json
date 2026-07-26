@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "hiro, hiromaru, hiromeru, hirogaru, hirogeru, hiroi, hirosa",
-    "meaning": "wide",
+    "meaning": "wide |(vi) rộng, rộng lớn",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "広大な（こうだいな）",
         "meaning": {
-          "english": "very large"
+          "english": "very large |(vi) rất rộng lớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-hiro(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "広範囲（こうはんい）",
         "meaning": {
-          "english": "vast range"
+          "english": "vast range |(vi) phạm vi rộng lớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-hiro(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "広告（こうこく）",
         "meaning": {
-          "english": "advertisement"
+          "english": "advertisement |(vi) quảng cáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-hiro(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "広い（ひろい）",
         "meaning": {
-          "english": "spacious"
+          "english": "spacious |(vi) rộng rãi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-hiro(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "広まる（ひろまる）",
         "meaning": {
-          "english": "spread [v.i.]"
+          "english": "spread [v.i.] |(vi) lan rộng, lan truyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-hiro(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "広がる（ひろがる）",
         "meaning": {
-          "english": "spread [v.i.]"
+          "english": "spread [v.i.] |(vi) lan ra, mở rộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-hiro(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "広げる（ひろげる）",
         "meaning": {
-          "english": "spread [v.t.]"
+          "english": "spread [v.t.] |(vi) mở rộng, trải rộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-hiro(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "広場（ひろば）",
         "meaning": {
-          "english": "plaza"
+          "english": "plaza |(vi) quảng trường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-hiro(i)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "広島（ひろしま）",
         "meaning": {
-          "english": "Hiroshima"
+          "english": "Hiroshima |(vi) Hiroshima"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-hiro(i)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "背広（せびろ）",
         "meaning": {
-          "english": "business suit"
+          "english": "business suit |(vi) bộ com-lê, âu phục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-hiro(i)_06_j.opus",
@@ -274,7 +274,7 @@
     "kanji": {
       "character": "広",
       "meaning": {
-        "english": "wide"
+        "english": "wide |(vi) rộng, rộng lớn"
       },
       "strokes": {
         "count": 5,
@@ -322,7 +322,7 @@
         "romaji": "madare"
       },
       "meaning": {
-        "english": "slanting roof"
+        "english": "slanting roof |(vi) Nghiễm (mái nhà dốc, mái hiên)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/madare0.svg",
@@ -343,7 +343,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "263",
     "strokeCount": 5,
-    "meaning": "wide, broad, spacious",
+    "meaning": "wide, broad, spacious |(vi) rộng, rộng lớn, rộng rãi |(hv) Quảng",
     "kunyomi": [
       "ひろ.い",
       "ひろ.まる",
@@ -358,54 +358,54 @@
       {
         "example": "広告",
         "reading": "コウコク",
-        "meaning": "advertisement, advertising, announcement, notice"
+        "meaning": "advertisement, advertising, announcement, notice |(vi) quảng cáo, thông báo"
       },
       {
         "example": "広域",
         "reading": "コウイキ",
-        "meaning": "wide area, wide view (of a digitally displayed map), zoomed-out view"
+        "meaning": "wide area, wide view (of a digitally displayed map), zoomed-out view |(vi) phạm vi rộng, khu vực rộng, chế độ xem thu nhỏ (bản đồ)"
       },
       {
         "example": "曠々",
         "reading": "コウコウ",
-        "meaning": "extensive, spacious"
+        "meaning": "extensive, spacious |(vi) rộng lớn, bao la"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "広い",
         "reading": "ひろい",
-        "meaning": "spacious, vast, wide"
+        "meaning": "spacious, vast, wide |(vi) rộng rãi, bao la, rộng lớn"
       },
       {
         "example": "広い支持",
         "reading": "ひろいしじ",
-        "meaning": "broad support, wide-ranging support"
+        "meaning": "broad support, wide-ranging support |(vi) sự ủng hộ rộng rãi, sự ủng hộ trên diện rộng"
       },
       {
         "example": "広まる",
         "reading": "ひろまる",
-        "meaning": "to spread, to be propagated"
+        "meaning": "to spread, to be propagated |(vi) lan rộng, được truyền bá"
       },
       {
         "example": "広める",
         "reading": "ひろめる",
-        "meaning": "to spread, to propagate, to popularize, to disseminate, to broaden, to extend, to widen, to enlarge"
+        "meaning": "to spread, to propagate, to popularize, to disseminate, to broaden, to extend, to widen, to enlarge |(vi) lan truyền, truyền bá, phổ biến, mở rộng, làm rộng ra"
       },
       {
         "example": "広がる",
         "reading": "ひろがる",
-        "meaning": "to spread (out), to extend, to stretch, to reach to, to get around, to fill (e.g. a space)"
+        "meaning": "to spread (out), to extend, to stretch, to reach to, to get around, to fill (e.g. a space) |(vi) lan ra, mở rộng, kéo dài, lan tới, phủ khắp (một không gian)"
       },
       {
         "example": "広げる",
         "reading": "ひろげる",
-        "meaning": "to spread, to extend, to expand, to enlarge, to widen, to broaden, to unfold, to open, to unroll, to unwrap, to scatter about, to spread around, to make flourish, to cause to prosper"
+        "meaning": "to spread, to extend, to expand, to enlarge, to widen, to broaden, to unfold, to open, to unroll, to unwrap, to scatter about, to spread around, to make flourish, to cause to prosper |(vi) trải rộng, mở rộng, phóng to, làm rộng ra, mở ra, trải ra, phát triển, làm hưng thịnh"
       }
     ],
     "radical": {
       "symbol": "广",
-      "meaning": "house on cliff"
+      "meaning": "house on cliff |(vi) Nghiễm (nhà trên vách núi)"
     },
     "parts": [
       "厶",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "grade",
+    "meaning": "grade |(vi) cấp bậc, lớp",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "進級する（しんきゅうする）",
         "meaning": {
-          "english": "advance (in school)"
+          "english": "advance (in school) |(vi) lên lớp (ở trường)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ni)kyuu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "級友（きゅうゆう）",
         "meaning": {
-          "english": "classmate"
+          "english": "classmate |(vi) bạn cùng lớp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ni)kyuu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "同級生（どうきゅうせい）",
         "meaning": {
-          "english": "classmate"
+          "english": "classmate |(vi) bạn cùng lớp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ni)kyuu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "上級（じょうきゅう）",
         "meaning": {
-          "english": "advanced level, senior"
+          "english": "advanced level, senior |(vi) trình độ cao cấp, cao cấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ni)kyuu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "中級（ちゅうきゅう）",
         "meaning": {
-          "english": "intermediate level"
+          "english": "intermediate level |(vi) trình độ trung cấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ni)kyuu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "初級（しょきゅう）",
         "meaning": {
-          "english": "elementary level"
+          "english": "elementary level |(vi) trình độ sơ cấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ni)kyuu_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "高級（こうきゅう）",
         "meaning": {
-          "english": "high class"
+          "english": "high class |(vi) hạng sang, cao cấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ni)kyuu_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "低級（ていきゅう）",
         "meaning": {
-          "english": "low grade"
+          "english": "low grade |(vi) hạng thấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ni)kyuu_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "一級（いっきゅう）",
         "meaning": {
-          "english": "first class"
+          "english": "first class |(vi) hạng nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ni)kyuu_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "階級（かいきゅう）",
         "meaning": {
-          "english": "class, rank"
+          "english": "class, rank |(vi) giai cấp, đẳng cấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ni)kyuu_06_j.opus",
@@ -220,7 +220,7 @@
     "kanji": {
       "character": "級",
       "meaning": {
-        "english": "grade"
+        "english": "grade |(vi) cấp bậc, lớp"
       },
       "strokes": {
         "count": 9,
@@ -276,7 +276,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -297,7 +297,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "785",
     "strokeCount": 9,
-    "meaning": "class, rank, grade",
+    "meaning": "class, rank, grade |(vi) lớp, hạng, cấp bậc |(hv) Cấp",
     "kunyomi": [],
     "onyomi": [
       "キュウ"
@@ -306,22 +306,22 @@
       {
         "example": "級",
         "reading": "キュウ",
-        "meaning": "(school) grade, year, class, class, grade, rank, level, kyu (junior rank in martial arts, go, shogi, etc.)"
+        "meaning": "(school) grade, year, class, class, grade, rank, level, kyu (junior rank in martial arts, go, shogi, etc.) |(vi) lớp (ở trường), khối, hạng, cấp bậc, trình độ, kyu (đẳng cấp sơ cấp trong võ thuật, cờ vây, shogi...)"
       },
       {
         "example": "級友",
         "reading": "キュウユウ",
-        "meaning": "classmate, friend in the same class"
+        "meaning": "classmate, friend in the same class |(vi) bạn cùng lớp, bạn học cùng khối"
       },
       {
         "example": "同級",
         "reading": "ドウキュウ",
-        "meaning": "the same grade, same class"
+        "meaning": "the same grade, same class |(vi) cùng khối, cùng lớp"
       },
       {
         "example": "最高級",
         "reading": "サイコウキュウ",
-        "meaning": "highest grade, top class"
+        "meaning": "highest grade, top class |(vi) hạng cao nhất, đẳng cấp cao nhất"
       }
     ],
     "kunyomiExamples": [],
@@ -330,7 +330,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi)"
     },
     "parts": [
       "ノ",

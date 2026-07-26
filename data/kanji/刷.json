@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "su, suru",
-    "meaning": "print",
+    "meaning": "print |(vi) in ấn",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "刷新する（さっしんする）",
         "meaning": {
-          "english": "reform, renovate"
+          "english": "reform, renovate |(vi) cải cách, đổi mới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "印刷する（いんさつする）",
         "meaning": {
-          "english": "print"
+          "english": "print |(vi) in ấn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "縮刷する（しゅくさつする）",
         "meaning": {
-          "english": "print in reduced size"
+          "english": "print in reduced size |(vi) in thu nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "増刷する（ぞうさつする）",
         "meaning": {
-          "english": "reprint"
+          "english": "reprint |(vi) in thêm, tái bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "刷る（する）",
         "meaning": {
-          "english": "print [v.t.]"
+          "english": "print [v.t.] |(vi) in"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_e.opus",
@@ -156,7 +156,7 @@
     "kanji": {
       "character": "刷",
       "meaning": {
-        "english": "print"
+        "english": "print |(vi) in ấn"
       },
       "strokes": {
         "count": 8,
@@ -210,7 +210,7 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, bộ đao đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -231,7 +231,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1352",
     "strokeCount": 8,
-    "meaning": "printing, print, brush",
+    "meaning": "printing, print, brush |(vi) in ấn, bản in, chải quét |(hv) Loát",
     "kunyomi": [
       "す.る",
       "-ず.り",
@@ -245,34 +245,34 @@
       {
         "example": "刷",
         "reading": "サツ",
-        "meaning": "printing, impression, issue"
+        "meaning": "printing, impression, issue |(vi) sự in ấn, lần in, số phát hành"
       },
       {
         "example": "刷数",
         "reading": "サツスウ",
-        "meaning": "number (of books) printed"
+        "meaning": "number (of books) printed |(vi) số lượng (sách) in ra"
       },
       {
         "example": "凸版印刷",
         "reading": "トッパンインサツ",
-        "meaning": "letterpress, relief printing"
+        "meaning": "letterpress, relief printing |(vi) in typo (in nổi), in bản nổi"
       },
       {
         "example": "増刷",
         "reading": "ゾウサツ",
-        "meaning": "additional printing (esp. of books, etc.), additional run"
+        "meaning": "additional printing (esp. of books, etc.), additional run |(vi) in thêm (sách...), lần in bổ sung"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "刷る",
         "reading": "する",
-        "meaning": "to print, to color or pattern fabric using a wooden mold"
+        "meaning": "to print, to color or pattern fabric using a wooden mold |(vi) in, nhuộm hoặc in hoa văn vải bằng khuôn gỗ"
       },
       {
         "example": "刷く",
         "reading": "はく",
-        "meaning": "to daub, to brush, to touch up"
+        "meaning": "to daub, to brush, to touch up |(vi) quét, chải, tô lại"
       }
     ],
     "radical": {
@@ -280,7 +280,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "刈",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "ki, ke, kieru, kesu",
-    "meaning": "extinguish, delete, disappear, erase",
+    "meaning": "extinguish, delete, disappear, erase |(vi) dập tắt, xóa, biến mất, xóa bỏ",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "消防車（しょうぼうしゃ）",
         "meaning": {
-          "english": "fire-engine"
+          "english": "fire-engine |(vi) xe cứu hỏa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(eru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "消費者（しょうひしゃ）",
         "meaning": {
-          "english": "consumer"
+          "english": "consumer |(vi) người tiêu dùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(eru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "消火器（しょうかき）",
         "meaning": {
-          "english": "fire extinguisher"
+          "english": "fire extinguisher |(vi) bình chữa cháy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(eru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "消極的な（しょうきょくてきな）",
         "meaning": {
-          "english": "passive"
+          "english": "passive |(vi) tiêu cực, thụ động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(eru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "消火する（しょうかする）",
         "meaning": {
-          "english": "extinguish a fire"
+          "english": "extinguish a fire |(vi) dập lửa, chữa cháy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(eru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "消化する（しょうかする）",
         "meaning": {
-          "english": "digest [v.t.]"
+          "english": "digest [v.t.] |(vi) tiêu hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(eru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "消毒する（しょうどくする）",
         "meaning": {
-          "english": "disinfect, sterilize"
+          "english": "disinfect, sterilize |(vi) khử trùng, tiệt trùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(eru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "解消する（かいしょうする）",
         "meaning": {
-          "english": "cancel, liquidate"
+          "english": "cancel, liquidate |(vi) hủy bỏ, giải quyết, thanh lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(eru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "消える（きえる）",
         "meaning": {
-          "english": "go out, disappear [v.i.]"
+          "english": "go out, disappear [v.i.] |(vi) tắt, biến mất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(eru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "消す（けす）",
         "meaning": {
-          "english": "erase, delete, turn off [v.t.]"
+          "english": "erase, delete, turn off [v.t.] |(vi) xóa, tắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(eru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "消しゴム（けしゴム）",
         "meaning": {
-          "english": "eraser"
+          "english": "eraser |(vi) cục tẩy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(eru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "消印（けしいん）",
         "meaning": {
-          "english": "postmark"
+          "english": "postmark |(vi) dấu bưu điện, dấu hủy tem"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(eru)_06_l.opus",
@@ -277,7 +277,7 @@
     "kanji": {
       "character": "消",
       "meaning": {
-        "english": "extinguish, delete, disappear, erase"
+        "english": "extinguish, delete, disappear, erase |(vi) dập tắt, xóa, biến mất, xóa bỏ"
       },
       "strokes": {
         "count": 10,
@@ -335,7 +335,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -356,7 +356,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "345",
     "strokeCount": 10,
-    "meaning": "extinguish, blow out, turn off, neutralize, cancel",
+    "meaning": "extinguish, blow out, turn off, neutralize, cancel |(vi) dập tắt, thổi tắt, tắt, trung hòa, hủy bỏ |(hv) Tiêu",
     "kunyomi": [
       "き.える",
       "け.す"
@@ -368,34 +368,34 @@
       {
         "example": "消火",
         "reading": "ショウカ",
-        "meaning": "extinguishing a fire, fire fighting"
+        "meaning": "extinguishing a fire, fire fighting |(vi) dập lửa, chữa cháy"
       },
       {
         "example": "消化",
         "reading": "ショウカ",
-        "meaning": "digestion (of food), digestion (of information), assimilation, thorough understanding, consumption, absorption, using up, meeting (e.g. a quota), completion, losing one's form and turning into something else"
+        "meaning": "digestion (of food), digestion (of information), assimilation, thorough understanding, consumption, absorption, using up, meeting (e.g. a quota), completion, losing one's form and turning into something else |(vi) tiêu hóa (thức ăn), tiêu hóa (thông tin), hấp thu, thấu hiểu, tiêu thụ, hấp thụ, dùng hết, hoàn thành (chỉ tiêu), mất dạng biến thành thứ khác"
       },
       {
         "example": "費消",
         "reading": "ヒショウ",
-        "meaning": "spending, consumption, misappropriation, embezzlement"
+        "meaning": "spending, consumption, misappropriation, embezzlement |(vi) tiêu dùng, tiêu thụ; biển thủ, tham ô"
       },
       {
         "example": "曖昧性解消",
         "reading": "アイマイセイカイショウ",
-        "meaning": "disambiguation"
+        "meaning": "disambiguation |(vi) giải quyết sự mơ hồ, khử nhập nhằng (disambiguation)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "消える",
         "reading": "きえる",
-        "meaning": "to disappear, to vanish, to go out of sight, to go away, to become lost, to go out (of a fire, light, etc.), to die, to turn off (e.g. of a TV screen), to fade (of a feeling, impression, etc.), to vanish (e.g. of hope), to go away (e.g. of a smell, itchiness, sleepiness), to disappear, to fade away (e.g. of footsteps), to wear away (e.g. of an inscription), to rub out (of writing), to fade (e.g. of ink), to be lost (e.g. of a tradition), to die out, to disappear"
+        "meaning": "to disappear, to vanish, to go out of sight, to go away, to become lost, to go out (of a fire, light, etc.), to die, to turn off (e.g. of a TV screen), to fade (of a feeling, impression, etc.), to vanish (e.g. of hope), to go away (e.g. of a smell, itchiness, sleepiness), to disappear, to fade away (e.g. of footsteps), to wear away (e.g. of an inscription), to rub out (of writing), to fade (e.g. of ink), to be lost (e.g. of a tradition), to die out, to disappear |(vi) biến mất, tan biến, khuất khỏi tầm mắt, mất đi, tắt (lửa, ánh sáng...), chết, tắt (màn hình TV...), phai nhạt (cảm giác, ấn tượng...), tan biến (hy vọng), phai đi (mùi, ngứa, buồn ngủ...), mờ dần (tiếng bước chân), mòn đi (chữ khắc), phai (mực), bị mai một (truyền thống), biến mất hoàn toàn"
       },
       {
         "example": "消す",
         "reading": "けす",
-        "meaning": "to erase, to rub out, to rub off, to cross out, to delete, to turn off (a light, TV, heater, etc.), to switch off, to extinguish (a fire, candle, etc.), to put out, to remove (a smell, pain, etc.), to eliminate, to get rid of, to relieve (pain, anxiety, etc.), to neutralize (poison), to drown out (a sound), to deaden, to absorb, to muffle, to kill, to murder, to bump off, to rub out"
+        "meaning": "to erase, to rub out, to rub off, to cross out, to delete, to turn off (a light, TV, heater, etc.), to switch off, to extinguish (a fire, candle, etc.), to put out, to remove (a smell, pain, etc.), to eliminate, to get rid of, to relieve (pain, anxiety, etc.), to neutralize (poison), to drown out (a sound), to deaden, to absorb, to muffle, to kill, to murder, to bump off, to rub out |(vi) xóa, tẩy, gạch bỏ, xóa bỏ, tắt (đèn, TV, máy sưởi...), tắt đi, dập tắt (lửa, nến...), khử (mùi, đau...), loại bỏ, giảm (đau, lo lắng...), trung hòa (chất độc), át đi (âm thanh), làm câm lặng, hấp thụ, làm nghẹt, giết, sát hại, thủ tiêu"
       }
     ],
     "radical": {
@@ -404,7 +404,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "尚",

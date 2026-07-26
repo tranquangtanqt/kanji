@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "perform",
+    "meaning": "perform |(vi) biểu diễn",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "演劇（えんげき）",
         "meaning": {
-          "english": "play, performance"
+          "english": "play, performance |(vi) vở kịch, biểu diễn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en(geki)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "演説（えんぜつ）",
         "meaning": {
-          "english": "speech, address,"
+          "english": "speech, address, |(vi) bài diễn thuyết, diễn văn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en(geki)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "講演（こうえん）",
         "meaning": {
-          "english": "lecture, address"
+          "english": "lecture, address |(vi) bài giảng, bài diễn thuyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en(geki)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "主演俳優（しゅえんはいゆう）",
         "meaning": {
-          "english": "star (of a play or film)"
+          "english": "star (of a play or film) |(vi) diễn viên chính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en(geki)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "演じる（えんじる）",
         "meaning": {
-          "english": "perform, act"
+          "english": "perform, act |(vi) diễn, đóng vai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en(geki)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "演技する（えんぎする）",
         "meaning": {
-          "english": "act, perform"
+          "english": "act, perform |(vi) diễn xuất, biểu diễn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en(geki)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "演出する（えんしゅつする）",
         "meaning": {
-          "english": "direct, produce, stage"
+          "english": "direct, produce, stage |(vi) đạo diễn, dàn dựng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en(geki)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "演奏する（えんそうする）",
         "meaning": {
-          "english": "perform music"
+          "english": "perform music |(vi) biểu diễn âm nhạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en(geki)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "上演する（じょうえんする）",
         "meaning": {
-          "english": "present, project (a play)"
+          "english": "present, project (a play) |(vi) công diễn (một vở kịch)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en(geki)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "共演する（きょうえんする）",
         "meaning": {
-          "english": "appear together, co-star"
+          "english": "appear together, co-star |(vi) đóng chung, cùng biểu diễn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en(geki)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "出演する（しゅつえんする）",
         "meaning": {
-          "english": "make an appearance [v.i.]"
+          "english": "make an appearance [v.i.] |(vi) xuất hiện, tham gia biểu diễn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en(geki)_06_k.opus",
@@ -252,7 +252,7 @@
     "kanji": {
       "character": "演",
       "meaning": {
-        "english": "perform"
+        "english": "perform |(vi) biểu diễn"
       },
       "strokes": {
         "count": 14,
@@ -318,7 +318,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -339,7 +339,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "267",
     "strokeCount": 14,
-    "meaning": "performance, act, play, render, stage",
+    "meaning": "performance, act, play, render, stage |(vi) biểu diễn, diễn xuất, vở kịch, thể hiện, dàn dựng |(hv) Diễn",
     "kunyomi": [],
     "onyomi": [
       "エン"
@@ -348,22 +348,22 @@
       {
         "example": "演技",
         "reading": "エンギ",
-        "meaning": "acting, performance"
+        "meaning": "acting, performance |(vi) diễn xuất, biểu diễn"
       },
       {
         "example": "演歌",
         "reading": "エンカ",
-        "meaning": "enka, traditional-style Japanese popular ballad, troubadour"
+        "meaning": "enka, traditional-style Japanese popular ballad, troubadour |(vi) enka (nhạc ballad truyền thống Nhật Bản)"
       },
       {
         "example": "共演",
         "reading": "キョウエン",
-        "meaning": "appearing together (in a film, play, etc.), performing together (at a concert, etc.), acting together, co-starring, playing together (in a sports match)"
+        "meaning": "appearing together (in a film, play, etc.), performing together (at a concert, etc.), acting together, co-starring, playing together (in a sports match) |(vi) cùng xuất hiện (trong phim, kịch...), cùng biểu diễn (buổi hòa nhạc...), đóng chung, đồng diễn, thi đấu chung (trận thể thao)"
       },
       {
         "example": "再演",
         "reading": "サイエン",
-        "meaning": "another showing (of a play), playing the same role again (i.e. of an actor), recapitulation"
+        "meaning": "another showing (of a play), playing the same role again (i.e. of an actor), recapitulation |(vi) công diễn lại (vở kịch), đóng lại vai diễn cũ, tóm tắt lại"
       }
     ],
     "kunyomiExamples": [],
@@ -373,7 +373,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "ハ",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "no, nomu",
-    "meaning": "drink",
+    "meaning": "drink |(vi) uống",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "飲食店（いんしょくてん）",
         "meaning": {
-          "english": "restaurant"
+          "english": "restaurant |(vi) nhà hàng, quán ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-no(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "飲酒運転（いんしゅうんてん）",
         "meaning": {
-          "english": "drunk driving"
+          "english": "drunk driving |(vi) lái xe khi say rượu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-no(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "飲料水（いんりょうすい）",
         "meaning": {
-          "english": "drinking water"
+          "english": "drinking water |(vi) nước uống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-no(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "飲む（のむ）",
         "meaning": {
-          "english": "drink"
+          "english": "drink |(vi) uống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-no(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "飲み屋（のみや）",
         "meaning": {
-          "english": "bar"
+          "english": "bar |(vi) quán nhậu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-no(mu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "飲み物（のみもの）",
         "meaning": {
-          "english": "beverage"
+          "english": "beverage |(vi) đồ uống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-no(mu)_06_f.opus",
@@ -224,7 +224,7 @@
     "kanji": {
       "character": "飲",
       "meaning": {
-        "english": "drink"
+        "english": "drink |(vi) uống"
       },
       "strokes": {
         "count": 12,
@@ -286,7 +286,7 @@
         "romaji": "shokuhen"
       },
       "meaning": {
-        "english": "food, to eat"
+        "english": "food, to eat |(vi) Thực (ăn, thức ăn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shokuhen0.svg",
@@ -307,7 +307,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "969",
     "strokeCount": 12,
-    "meaning": "drink, smoke, take",
+    "meaning": "drink, smoke, take |(vi) uống, hút (thuốc), dùng |(hv) Ẩm",
     "kunyomi": [
       "の.む",
       "-の.み"
@@ -320,44 +320,44 @@
       {
         "example": "飲",
         "reading": "イン",
-        "meaning": "drinking (sometimes esp. alcohol), drink, drinking party"
+        "meaning": "drinking (sometimes esp. alcohol), drink, drinking party |(vi) uống (đặc biệt rượu), đồ uống, buổi tiệc uống rượu"
       },
       {
         "example": "飲酒",
         "reading": "インシュ",
-        "meaning": "drinking alcohol"
+        "meaning": "drinking alcohol |(vi) uống rượu"
       },
       {
         "example": "暴飲",
         "reading": "ボウイン",
-        "meaning": "heavy drinking"
+        "meaning": "heavy drinking |(vi) uống nhiều, uống quá độ"
       },
       {
         "example": "愛飲",
         "reading": "アイイン",
-        "meaning": "drinking habitually, being fond of (a drink)"
+        "meaning": "drinking habitually, being fond of (a drink) |(vi) thường xuyên uống, ưa thích (một loại đồ uống)"
       },
       {
         "example": "飲食",
         "reading": "インショク",
-        "meaning": "food and drink, eating and drinking"
+        "meaning": "food and drink, eating and drinking |(vi) ăn uống"
       },
       {
         "example": "飲酒",
         "reading": "オンジュ",
-        "meaning": "consumption of alcohol (as prohibited by one of the Buddhist precepts), Buddhist precept prohibiting the consumption of alcohol"
+        "meaning": "consumption of alcohol (as prohibited by one of the Buddhist precepts), Buddhist precept prohibiting the consumption of alcohol |(vi) việc uống rượu (bị cấm theo giới luật Phật giáo), giới cấm uống rượu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "飲む",
         "reading": "のむ",
-        "meaning": "to drink, to swallow, to take (medicine), to smoke (tobacco), to swallow up, to engulf, to suppress (one's anger, bitter feelings, etc.), to keep down, to hold back, to swallow (one's tears), to catch (one's breath), to accept (a demand, conditions, etc.), to agree to, to make light of (someone), to think nothing of, to overwhelm, to overawe, to carry (a concealed dagger, etc.), to conceal (up one's sleeve, etc.)"
+        "meaning": "to drink, to swallow, to take (medicine), to smoke (tobacco), to swallow up, to engulf, to suppress (one's anger, bitter feelings, etc.), to keep down, to hold back, to swallow (one's tears), to catch (one's breath), to accept (a demand, conditions, etc.), to agree to, to make light of (someone), to think nothing of, to overwhelm, to overawe, to carry (a concealed dagger, etc.), to conceal (up one's sleeve, etc.) |(vi) uống, nuốt, uống (thuốc), hút (thuốc lá), nuốt chửng, kìm nén (giận dữ, cay đắng...), nén (nước mắt), nín (thở), chấp nhận (yêu cầu, điều kiện...), đồng ý, xem thường ai đó, coi thường, áp đảo, mang theo (dao găm giấu kín...), giấu (trong tay áo...)"
       },
       {
         "example": "飲む打つ買う",
         "reading": "のむうつかう",
-        "meaning": "drinking, gambling, and buying women in prostitution"
+        "meaning": "drinking, gambling, and buying women in prostitution |(vi) rượu chè, cờ bạc và trai gái"
       }
     ],
     "radical": {
@@ -365,7 +365,7 @@
       "forms": [
         "飠"
       ],
-      "meaning": "eat, food"
+      "meaning": "eat, food |(vi) Thực (ăn, thức ăn)"
     },
     "parts": [
       "欠",

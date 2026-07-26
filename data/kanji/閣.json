@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "tower, tall magnificent building, cabinet",
+    "meaning": "tower, tall magnificent building, cabinet |(vi) tòa tháp, tòa nhà tráng lệ, nội các",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "閣僚（かくりょう）",
         "meaning": {
-          "english": "cabinet ministers"
+          "english": "cabinet ministers |(vi) các bộ trưởng, thành viên nội các"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(ryou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "閣議（かくぎ）",
         "meaning": {
-          "english": "cabinet meeting"
+          "english": "cabinet meeting |(vi) phiên họp nội các"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(ryou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "閣下（かっか）",
         "meaning": {
-          "english": "Your excellency"
+          "english": "Your excellency |(vi) kính ngài (xưng hô kính trọng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(ryou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "内閣（ないかく）",
         "meaning": {
-          "english": "cabinet, ministry"
+          "english": "cabinet, ministry |(vi) nội các, chính phủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(ryou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "楼閣（ろうかく）",
         "meaning": {
-          "english": "multistoried building"
+          "english": "multistoried building |(vi) tòa lầu nhiều tầng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(ryou)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "仏閣（ぶっかく）",
         "meaning": {
-          "english": "Buddhist temple"
+          "english": "Buddhist temple |(vi) chùa Phật giáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(ryou)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "金閣寺（きんかくじ）",
         "meaning": {
-          "english": "Kinkakuji Temple"
+          "english": "Kinkakuji Temple |(vi) chùa Kim Các"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(ryou)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "銀閣寺（ぎんかくじ）",
         "meaning": {
-          "english": "Ginkakuji Temple"
+          "english": "Ginkakuji Temple |(vi) chùa Ngân Các"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(ryou)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "天守閣（てんしゅかく）",
         "meaning": {
-          "english": "castle tower"
+          "english": "castle tower |(vi) tháp lâu đài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(ryou)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "組閣する（そかくする）",
         "meaning": {
-          "english": "form a cabinet"
+          "english": "form a cabinet |(vi) thành lập nội các"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(ryou)_06_j.opus",
@@ -217,7 +217,7 @@
     "kanji": {
       "character": "閣",
       "meaning": {
-        "english": "tower, tall magnificent building, cabinet"
+        "english": "tower, tall magnificent building, cabinet |(vi) tòa tháp, tòa nhà tráng lệ, nội các"
       },
       "strokes": {
         "count": 14,
@@ -283,7 +283,7 @@
         "romaji": "mongamae"
       },
       "meaning": {
-        "english": "gate, door"
+        "english": "gate, door |(vi) Môn (cửa, cổng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mongamae0.svg",
@@ -304,7 +304,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "444",
     "strokeCount": 14,
-    "meaning": "tower, tall building, palace",
+    "meaning": "tower, tall building, palace |(vi) tòa tháp, tòa nhà cao, cung điện |(hv) Các",
     "kunyomi": [],
     "onyomi": [
       "カク"
@@ -313,28 +313,28 @@
       {
         "example": "閣内",
         "reading": "カクナイ",
-        "meaning": "(inside the) Cabinet"
+        "meaning": "(inside the) Cabinet |(vi) (bên trong) nội các"
       },
       {
         "example": "閣議",
         "reading": "カクギ",
-        "meaning": "cabinet meeting"
+        "meaning": "cabinet meeting |(vi) phiên họp nội các"
       },
       {
         "example": "倒閣",
         "reading": "トウカク",
-        "meaning": "overthrow of government"
+        "meaning": "overthrow of government |(vi) lật đổ chính phủ"
       },
       {
         "example": "影の内閣",
         "reading": "カゲノナイカク",
-        "meaning": "shadow cabinet"
+        "meaning": "shadow cabinet |(vi) nội các đối lập, nội các bóng"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "門",
-      "meaning": "gate"
+      "meaning": "gate |(vi) Môn (cửa, cổng)"
     },
     "parts": [
       "口",

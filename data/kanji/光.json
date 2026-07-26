@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "hika, hikaru, hikari",
-    "meaning": "light",
+    "meaning": "light |(vi) ánh sáng",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "光線（こうせん）",
         "meaning": {
-          "english": "light ray"
+          "english": "light ray |(vi) tia sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hikari_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "光景（こうけい）",
         "meaning": {
-          "english": "scene, spectacle"
+          "english": "scene, spectacle |(vi) cảnh tượng, quang cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hikari_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "光年（こうねん）",
         "meaning": {
-          "english": "light year"
+          "english": "light year |(vi) năm ánh sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hikari_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "日光（にっこう）",
         "meaning": {
-          "english": "sunlight"
+          "english": "sunlight |(vi) ánh nắng mặt trời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hikari_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "月光（げっこう）",
         "meaning": {
-          "english": "moonlight"
+          "english": "moonlight |(vi) ánh trăng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hikari_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "栄光（えいこう）",
         "meaning": {
-          "english": "glory"
+          "english": "glory |(vi) vinh quang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hikari_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "観光する（かんこうする）",
         "meaning": {
-          "english": "go sightseeing"
+          "english": "go sightseeing |(vi) đi tham quan, du lịch ngắm cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hikari_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "発光する（はっこうする）",
         "meaning": {
-          "english": "luminescence, radiation"
+          "english": "luminescence, radiation |(vi) phát quang, phát sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hikari_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "光る（ひかる）",
         "meaning": {
-          "english": "shine [v.i.]"
+          "english": "shine [v.i.] |(vi) chiếu sáng, lấp lánh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hikari_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "光（ひかり）",
         "meaning": {
-          "english": "light [n.]"
+          "english": "light [n.] |(vi) ánh sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hikari_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "稲光（いなびかり）",
         "meaning": {
-          "english": "(flash of) lightning"
+          "english": "(flash of) lightning |(vi) ánh chớp, tia chớp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hikari_06_k.opus",
@@ -276,7 +276,7 @@
     "kanji": {
       "character": "光",
       "meaning": {
-        "english": "light"
+        "english": "light |(vi) ánh sáng"
       },
       "strokes": {
         "count": 6,
@@ -326,7 +326,7 @@
         "romaji": "hitoashi"
       },
       "meaning": {
-        "english": "human legs"
+        "english": "human legs |(vi) Nhân (chân người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoashi0.svg",
@@ -347,7 +347,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "527",
     "strokeCount": 6,
-    "meaning": "ray, light",
+    "meaning": "ray, light |(vi) tia sáng, ánh sáng |(hv) Quang",
     "kunyomi": [
       "ひか.る",
       "ひかり"
@@ -359,59 +359,59 @@
       {
         "example": "光学",
         "reading": "コウガク",
-        "meaning": "optics"
+        "meaning": "optics |(vi) quang học"
       },
       {
         "example": "光栄",
         "reading": "コウエイ",
-        "meaning": "honour, honor, glory, privilege"
+        "meaning": "honour, honor, glory, privilege |(vi) vinh dự, vinh quang, đặc ân"
       },
       {
         "example": "脚光",
         "reading": "キャッコウ",
-        "meaning": "footlight, limelight"
+        "meaning": "footlight, limelight |(vi) ánh đèn sân khấu, tâm điểm chú ý"
       },
       {
         "example": "発光",
         "reading": "ハッコウ",
-        "meaning": "emission (of light), radiation (of light), luminescence"
+        "meaning": "emission (of light), radiation (of light), luminescence |(vi) sự phát quang, sự bức xạ ánh sáng, sự phát sáng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "光る",
         "reading": "ひかる",
-        "meaning": "to shine, to glitter, to be bright"
+        "meaning": "to shine, to glitter, to be bright |(vi) chiếu sáng, lấp lánh, tỏa sáng"
       },
       {
         "example": "光る棒",
         "reading": "ひかるぼう",
-        "meaning": "glowstick, neon light stick"
+        "meaning": "glowstick, neon light stick |(vi) gậy phát sáng, que dạ quang"
       },
       {
         "example": "光",
         "reading": "ひかり",
-        "meaning": "light, illumination, ray, beam, gleam, glow, happiness, hope, influence, power, vision, eyesight, optical fiber, optical fibre"
+        "meaning": "light, illumination, ray, beam, gleam, glow, happiness, hope, influence, power, vision, eyesight, optical fiber, optical fibre |(vi) ánh sáng, sự chiếu sáng, tia sáng, hạnh phúc, hy vọng, ảnh hưởng, sức mạnh, tầm nhìn, thị lực, cáp quang"
       },
       {
         "example": "光り輝く",
         "reading": "ひかりかがやく",
-        "meaning": "to shine, to glitter"
+        "meaning": "to shine, to glitter |(vi) chiếu sáng, lấp lánh, rực rỡ"
       },
       {
         "example": "越光",
         "reading": "こしひかり",
-        "meaning": "Koshihikari (variety of rice)"
+        "meaning": "Koshihikari (variety of rice) |(vi) Koshihikari (giống gạo Nhật)"
       },
       {
         "example": "柔らかな光",
         "reading": "やわらかなひかり",
-        "meaning": "soft light"
+        "meaning": "soft light |(vi) ánh sáng dịu nhẹ"
       }
     ],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": "legs |(vi) Nhân (chân người)"
     },
     "parts": [
       "一",

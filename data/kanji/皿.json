@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "sara",
-    "meaning": "plate, dish, saucer",
+    "meaning": "plate, dish, saucer |(vi) đĩa, bát, chén",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "皿（さら）",
         "meaning": {
-          "english": "plate"
+          "english": "plate |(vi) đĩa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sara_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "皿洗い（さらあらい）",
         "meaning": {
-          "english": "dish-washing"
+          "english": "dish-washing |(vi) rửa bát đĩa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sara_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "一皿（ひとさら）",
         "meaning": {
-          "english": "one dish"
+          "english": "one dish |(vi) một đĩa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sara_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "大皿（おおざら）",
         "meaning": {
-          "english": "large plate, platter"
+          "english": "large plate, platter |(vi) đĩa lớn, khay lớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sara_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "小皿（こざら）",
         "meaning": {
-          "english": "small plate"
+          "english": "small plate |(vi) đĩa nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sara_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "受け皿（うけざら）",
         "meaning": {
-          "english": "saucer"
+          "english": "saucer |(vi) đĩa lót, đĩa hứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sara_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "製氷皿（せいひょうざら）",
         "meaning": {
-          "english": "ice-making pan"
+          "english": "ice-making pan |(vi) khay làm đá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sara_06_g.opus",
@@ -203,7 +203,7 @@
     "kanji": {
       "character": "皿",
       "meaning": {
-        "english": "plate, dish, saucer"
+        "english": "plate, dish, saucer |(vi) đĩa, bát, chén"
       },
       "strokes": {
         "count": 5,
@@ -251,7 +251,7 @@
         "romaji": "sara"
       },
       "meaning": {
-        "english": "plate, bowl"
+        "english": "plate, bowl |(vi) Mãnh (đĩa, bát)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sara0.svg",
@@ -272,7 +272,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1812",
     "strokeCount": 5,
-    "meaning": "dish, a helping, plate",
+    "meaning": "dish, a helping, plate |(vi) đĩa, một phần (thức ăn), cái đĩa |(hv) Mãnh",
     "kunyomi": [
       "さら"
     ],
@@ -283,34 +283,34 @@
       {
         "example": "器皿",
         "reading": "キベイ",
-        "meaning": "bowl, plate, dish"
+        "meaning": "bowl, plate, dish |(vi) bát đĩa, đồ đựng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "皿",
         "reading": "さら",
-        "meaning": "plate, dish, platter, disc, serving, helping, course, kanji radical 108 (at the bottom)"
+        "meaning": "plate, dish, platter, disc, serving, helping, course, kanji radical 108 (at the bottom) |(vi) đĩa, dĩa, mâm, phần ăn, bộ thủ Hán tự thứ 108 (ở dưới)"
       },
       {
         "example": "皿洗い",
         "reading": "さらあらい",
-        "meaning": "washing-up, dish-washing"
+        "meaning": "washing-up, dish-washing |(vi) rửa bát đĩa"
       },
       {
         "example": "聖体皿",
         "reading": "せいたいさら",
-        "meaning": "paten"
+        "meaning": "paten |(vi) đĩa thánh (đựng bánh thánh trong lễ misa)"
       },
       {
         "example": "二皿",
         "reading": "ふたさら",
-        "meaning": "two plates, two helpings, two servings"
+        "meaning": "two plates, two helpings, two servings |(vi) hai đĩa, hai phần"
       }
     ],
     "radical": {
       "symbol": "皿",
-      "meaning": "dish"
+      "meaning": "dish |(vi) Mãnh (đĩa, bát)"
     },
     "parts": [
       "皿"

@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "sugata",
-    "meaning": "figure, form, shape, appearance, posture",
+    "meaning": "figure, form, shape, appearance, posture |(vi) hình dáng, dáng vẻ, tư thế, diện mạo",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "姿勢（しせい）",
         "meaning": {
-          "english": "attitude, posture"
+          "english": "attitude, posture |(vi) tư thế, thái độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sugata_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "姿態（したい）",
         "meaning": {
-          "english": "figure, form, style"
+          "english": "figure, form, style |(vi) dáng vẻ, hình dáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sugata_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "容姿（ようし）",
         "meaning": {
-          "english": "appearance, figure"
+          "english": "appearance, figure |(vi) dung mạo, ngoại hình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sugata_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "雄姿（ゆうし）",
         "meaning": {
-          "english": "gallant figure"
+          "english": "gallant figure |(vi) dáng vẻ oai hùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sugata_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "姿（すがた）",
         "meaning": {
-          "english": "figure, shape, appearance"
+          "english": "figure, shape, appearance |(vi) hình dáng, dáng vẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sugata_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "姿見（すがたみ）",
         "meaning": {
-          "english": "full-length mirror"
+          "english": "full-length mirror |(vi) gương soi toàn thân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sugata_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "後ろ姿（うしろすがた）",
         "meaning": {
-          "english": "back view"
+          "english": "back view |(vi) dáng nhìn từ sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sugata_06_g.opus",
@@ -180,7 +180,7 @@
     "kanji": {
       "character": "姿",
       "meaning": {
-        "english": "figure, form, shape, appearance, posture"
+        "english": "figure, form, shape, appearance, posture |(vi) hình dáng, dáng vẻ, tư thế, diện mạo"
       },
       "strokes": {
         "count": 9,
@@ -236,7 +236,7 @@
         "romaji": "onna"
       },
       "meaning": {
-        "english": "woman"
+        "english": "woman |(vi) Nữ (phụ nữ, giống cái)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/onna0.svg",
@@ -257,7 +257,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "441",
     "strokeCount": 9,
-    "meaning": "figure, form, shape",
+    "meaning": "figure, form, shape |(vi) hình dáng, dáng vẻ |(hv) Tư",
     "kunyomi": [
       "すがた"
     ],
@@ -268,49 +268,49 @@
       {
         "example": "姿勢",
         "reading": "シセイ",
-        "meaning": "posture, pose, position, stance, carriage (of the body), attitude, approach, stance"
+        "meaning": "posture, pose, position, stance, carriage (of the body), attitude, approach, stance |(vi) tư thế, dáng điệu, thái độ"
       },
       {
         "example": "姿勢制御",
         "reading": "シセイセイギョ",
-        "meaning": "attitude control, postural control"
+        "meaning": "attitude control, postural control |(vi) kiểm soát tư thế"
       },
       {
         "example": "雄姿",
         "reading": "ユウシ",
-        "meaning": "majestic figure, imposing figure, impressive appearance, magnificent appearance"
+        "meaning": "majestic figure, imposing figure, impressive appearance, magnificent appearance |(vi) dáng vẻ oai phong, hùng dũng"
       },
       {
         "example": "英姿",
         "reading": "エイシ",
-        "meaning": "gallant figure, impressive figure, noble appearance"
+        "meaning": "gallant figure, impressive figure, noble appearance |(vi) dáng vẻ hào hùng, cao quý"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "姿",
         "reading": "すがた",
-        "meaning": "figure, form, shape, appearance, dress, guise, state, condition, picture, image, form (of a waka), dressed in ..., wearing ..."
+        "meaning": "figure, form, shape, appearance, dress, guise, state, condition, picture, image, form (of a waka), dressed in ..., wearing ... |(vi) hình dáng, dáng vẻ, trang phục, tình trạng"
       },
       {
         "example": "姿絵",
         "reading": "すがたえ",
-        "meaning": "portrait"
+        "meaning": "portrait |(vi) chân dung, tranh vẽ người"
       },
       {
         "example": "晴れ姿",
         "reading": "はれすがた",
-        "meaning": "appearing in one's finest clothes, appearing in one's hour of triumph"
+        "meaning": "appearing in one's finest clothes, appearing in one's hour of triumph |(vi) xuất hiện trong trang phục đẹp nhất, xuất hiện trong khoảnh khắc vinh quang"
       },
       {
         "example": "舞姿",
         "reading": "まいすがた",
-        "meaning": "dancing figure, one's appearance when dancing, dancing posture"
+        "meaning": "dancing figure, one's appearance when dancing, dancing posture |(vi) dáng múa, tư thế khi múa"
       }
     ],
     "radical": {
       "symbol": "女",
-      "meaning": "woman, female"
+      "meaning": "woman, female |(vi) Nữ (phụ nữ, giống cái)"
     },
     "parts": [
       "冫",

@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "yo, yoru, yori, yoseru",
-    "meaning": "contribute, draw near, approach",
+    "meaning": "contribute, draw near, approach |(vi) đóng góp, tiến lại gần, ghé qua",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "寄付する（きふする）",
         "meaning": {
-          "english": "donate"
+          "english": "donate |(vi) quyên góp, ủng hộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yo(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "寄生する（きせいする）",
         "meaning": {
-          "english": "become parasitic"
+          "english": "become parasitic |(vi) ký sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yo(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "寄港する（きこうする）",
         "meaning": {
-          "english": "stop at a port"
+          "english": "stop at a port |(vi) ghé cảng, dừng chân tại cảng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yo(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "寄る（よる）",
         "meaning": {
-          "english": "drop in [v.i.]"
+          "english": "drop in [v.i.] |(vi) ghé qua, tạt vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yo(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "年寄り（としより）",
         "meaning": {
-          "english": "elderly people"
+          "english": "elderly people |(vi) người già, người cao tuổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yo(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "寄せる（よせる）",
         "meaning": {
-          "english": "gather [v.t.]"
+          "english": "gather [v.t.] |(vi) tập hợp, dồn lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yo(ru)_06_f.opus",
@@ -207,7 +207,7 @@
     "kanji": {
       "character": "寄",
       "meaning": {
-        "english": "contribute, draw near, approach"
+        "english": "contribute, draw near, approach |(vi) đóng góp, tiến lại gần, ghé qua"
       },
       "strokes": {
         "count": 11,
@@ -267,7 +267,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -288,7 +288,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "673",
     "strokeCount": 11,
-    "meaning": "draw near, stop in, bring near, gather, collect, send, forward",
+    "meaning": "draw near, stop in, bring near, gather, collect, send, forward |(vi) tiến lại gần, ghé qua, đưa lại gần, tập hợp, thu thập, gửi đi, chuyển tiếp |(hv) Ký",
     "kunyomi": [
       "よ.る",
       "-よ.り",
@@ -301,39 +301,39 @@
       {
         "example": "寄港",
         "reading": "キコウ",
-        "meaning": "calling at a port, making an intermediate stop at an airport"
+        "meaning": "calling at a port, making an intermediate stop at an airport |(vi) ghé cảng, dừng trung chuyển tại sân bay"
       },
       {
         "example": "寄金",
         "reading": "キキン",
-        "meaning": "contribution, donation"
+        "meaning": "contribution, donation |(vi) tiền quyên góp, khoản đóng góp"
       },
       {
         "example": "数寄",
         "reading": "スキ",
-        "meaning": "refined taste, elegant pursuits"
+        "meaning": "refined taste, elegant pursuits |(vi) sở thích tao nhã, thú vui thanh lịch"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "寄る",
         "reading": "よる",
-        "meaning": "to approach, to draw near, to come near, to be close to, to gather (in one place), to come together, to meet, to stop by (while on one's way to another place), to drop by, to make a short visit, to grow old, to grow high (number, etc.), to grow (wrinkly), to lean against, to recline on, to push one's opponent while holding their belt, to decide on a price and come to a deal, to be swayed by (a person), to yield to"
+        "meaning": "to approach, to draw near, to come near, to be close to, to gather (in one place), to come together, to meet, to stop by (while on one's way to another place), to drop by, to make a short visit, to grow old, to grow high (number, etc.), to grow (wrinkly), to lean against, to recline on, to push one's opponent while holding their belt, to decide on a price and come to a deal, to be swayed by (a person), to yield to |(vi) tiến lại gần, đến gần, tụ họp (ở một nơi), gặp nhau, ghé qua (trên đường đi), già đi, tăng lên (số...), nhăn lại, tựa vào, dựa vào, đẩy đối thủ trong khi giữ đai (sumo), quyết định giá cả và đi đến thỏa thuận, bị lay chuyển bởi ai đó, nhượng bộ"
       },
       {
         "example": "寄ると触ると",
         "reading": "よるとさわると",
-        "meaning": "whenever they come together"
+        "meaning": "whenever they come together |(vi) hễ tụ tập lại là (thường nói về việc bàn tán)"
       },
       {
         "example": "寄せる",
         "reading": "よせる",
-        "meaning": "to come near, to let someone approach, to bring near, to bring together, to collect, to gather, to deliver (opinion, news, etc.), to send (e.g. a letter), to contribute, to donate, to let someone drop by, to add (numbers), to have feelings for (love, goodwill, trust, etc.), to rely upon for a time, to depend on, to use as a pretext, to put aside, to press, to push, to force, to include, to welcome (in a group), to let in"
+        "meaning": "to come near, to let someone approach, to bring near, to bring together, to collect, to gather, to deliver (opinion, news, etc.), to send (e.g. a letter), to contribute, to donate, to let someone drop by, to add (numbers), to have feelings for (love, goodwill, trust, etc.), to rely upon for a time, to depend on, to use as a pretext, to put aside, to press, to push, to force, to include, to welcome (in a group), to let in |(vi) đến gần, để ai đó lại gần, đưa lại gần, tập hợp lại, thu thập, bày tỏ (ý kiến, tin tức...), gửi (thư...), đóng góp, quyên góp, để ai đó ghé qua, cộng (số), có tình cảm với (yêu thương, thiện chí, tin tưởng...), tạm thời dựa vào, lấy làm cớ, gác sang một bên, ép, đẩy, gộp vào, chào đón (vào một nhóm), cho vào"
       }
     ],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà)"
     },
     "parts": [
       "一",

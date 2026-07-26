@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "regard, consider, see, vision",
+    "meaning": "regard, consider, see, vision |(vi) coi là, xem xét, nhìn, tầm nhìn",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "視野（しや）",
         "meaning": {
-          "english": "field of vision, outlook"
+          "english": "field of vision, outlook |(vi) tầm nhìn, tầm mắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ya)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "視界（しかい）",
         "meaning": {
-          "english": "field of vision"
+          "english": "field of vision |(vi) tầm nhìn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ya)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "視力（しりょく）",
         "meaning": {
-          "english": "eyesight"
+          "english": "eyesight |(vi) thị lực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ya)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "視点（してん）",
         "meaning": {
-          "english": "point of view"
+          "english": "point of view |(vi) quan điểm, góc nhìn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ya)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "視聴者（しちょうしゃ）",
         "meaning": {
-          "english": "viewer, audience"
+          "english": "viewer, audience |(vi) người xem, khán giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ya)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "警視庁（けいしちょう）",
         "meaning": {
-          "english": "police headquarters"
+          "english": "police headquarters |(vi) sở cảnh sát (Cục Cảnh sát Tokyo)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ya)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "近視（きんし）",
         "meaning": {
-          "english": "shortsightedness"
+          "english": "shortsightedness |(vi) cận thị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ya)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "視察する（しさつする）",
         "meaning": {
-          "english": "inspect, observe"
+          "english": "inspect, observe |(vi) thị sát, quan sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ya)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "軽視する（けいしする）",
         "meaning": {
-          "english": "think little of, ignore, slight"
+          "english": "think little of, ignore, slight |(vi) coi thường, xem nhẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ya)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "無視する（むしする）",
         "meaning": {
-          "english": "disregard, ignore"
+          "english": "disregard, ignore |(vi) phớt lờ, coi như không có"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ya)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "監視する（かんしする）",
         "meaning": {
-          "english": "observe, guard, inspect"
+          "english": "observe, guard, inspect |(vi) giám sát, theo dõi, canh gác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ya)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "重視する（じゅうしする）",
         "meaning": {
-          "english": "regard highly"
+          "english": "regard highly |(vi) coi trọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ya)_06_l.opus",
@@ -257,7 +257,7 @@
     "kanji": {
       "character": "視",
       "meaning": {
-        "english": "regard, consider, see, vision"
+        "english": "regard, consider, see, vision |(vi) coi là, xem xét, nhìn, tầm nhìn"
       },
       "strokes": {
         "count": 11,
@@ -317,7 +317,7 @@
         "romaji": "miru"
       },
       "meaning": {
-        "english": "to see"
+        "english": "to see |(vi) Kiến (nhìn thấy)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/miru0.svg",
@@ -338,7 +338,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "362",
     "strokeCount": 11,
-    "meaning": "inspection, regard as, see, look at",
+    "meaning": "inspection, regard as, see, look at |(vi) kiểm tra, coi là, nhìn, xem xét |(hv) Thị",
     "kunyomi": [
       "み.る"
     ],
@@ -349,34 +349,34 @@
       {
         "example": "視",
         "reading": "シ",
-        "meaning": "viewing as ..., seeing as ..., treating as ..., regarding as ..."
+        "meaning": "viewing as ..., seeing as ..., treating as ..., regarding as ... |(vi) coi như là..., xem như là..., đối xử như là..."
       },
       {
         "example": "視界",
         "reading": "シカイ",
-        "meaning": "field of vision, visibility, view, visual field, (one's) ken"
+        "meaning": "field of vision, visibility, view, visual field, (one's) ken |(vi) tầm nhìn, khả năng nhìn thấy, tầm mắt"
       },
       {
         "example": "検視",
         "reading": "ケンシ",
-        "meaning": "examination of a body to determine if a crime has been committed, investigation (e.g. of a crime scene)"
+        "meaning": "examination of a body to determine if a crime has been committed, investigation (e.g. of a crime scene) |(vi) khám nghiệm tử thi, điều tra (hiện trường vụ án)"
       },
       {
         "example": "警視",
         "reading": "ケイシ",
-        "meaning": "police superintendent"
+        "meaning": "police superintendent |(vi) cảnh sát trưởng, cảnh giám"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "見る",
         "reading": "みる",
-        "meaning": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ..."
+        "meaning": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ... |(vi) nhìn, xem, quan sát, theo dõi, đánh giá, kiểm tra, chăm sóc, trải nghiệm, thử làm"
       }
     ],
     "radical": {
       "symbol": "見",
-      "meaning": "see"
+      "meaning": "see |(vi) Kiến (nhìn thấy)"
     },
     "parts": [
       "礼",

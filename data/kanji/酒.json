@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "sake, saka",
-    "meaning": "alcoholic drink, sake,alcohol, liquor",
+    "meaning": "alcoholic drink, sake,alcohol, liquor |(vi) đồ uống có cồn, rượu sake, cồn, rượu mạnh",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "酒造（しゅぞう）",
         "meaning": {
-          "english": "sake brewing"
+          "english": "sake brewing |(vi) tửu tạo, nghề nấu rượu sake"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-sake_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "洋酒（ようしゅ）",
         "meaning": {
-          "english": "Western liquor"
+          "english": "Western liquor |(vi) dương tửu, rượu Tây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-sake_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "清酒（せいしゅ）",
         "meaning": {
-          "english": "refined sake"
+          "english": "refined sake |(vi) thanh tửu, rượu sake tinh lọc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-sake_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "日本酒（にほんしゅ）",
         "meaning": {
-          "english": "sake, Japanese rice wine"
+          "english": "sake, Japanese rice wine |(vi) rượu sake, rượu gạo Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-sake_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "飲酒運転（いんしゅうんてん）",
         "meaning": {
-          "english": "drunken driving"
+          "english": "drunken driving |(vi) lái xe khi say rượu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-sake_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "酒（さけ）",
         "meaning": {
-          "english": "alcoholic beverages"
+          "english": "alcoholic beverages |(vi) rượu, đồ uống có cồn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-sake_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "酒癖（さけぐせ）",
         "meaning": {
-          "english": "drunken behavior"
+          "english": "drunken behavior |(vi) tật rượu, thói khi say"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-sake_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "酒飲み（さけのみ）",
         "meaning": {
-          "english": "drinker"
+          "english": "drinker |(vi) người hay uống rượu, bợm rượu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-sake_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "甘酒（あまざけ）",
         "meaning": {
-          "english": "sweet half sake"
+          "english": "sweet half sake |(vi) amazake, rượu ngọt nhẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-sake_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "酒屋（さかや）",
         "meaning": {
-          "english": "sake dealer"
+          "english": "sake dealer |(vi) tiệm rượu, người bán rượu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-sake_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "酒場（さかば）",
         "meaning": {
-          "english": "bar, bar-room"
+          "english": "bar, bar-room |(vi) quán rượu, quán bar"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-sake_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "*お神酒（おみき）",
         "meaning": {
-          "english": "libation, sake offered to a god"
+          "english": "libation, sake offered to a god |(vi) rượu cúng thần, rượu dâng lễ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-sake_06_l.opus",
@@ -286,7 +286,7 @@
     "kanji": {
       "character": "酒",
       "meaning": {
-        "english": "alcoholic drink, sake,alcohol, liquor"
+        "english": "alcoholic drink, sake,alcohol, liquor |(vi) đồ uống có cồn, rượu sake, cồn, rượu mạnh"
       },
       "strokes": {
         "count": 10,
@@ -344,7 +344,7 @@
         "romaji": "hiyominotori"
       },
       "meaning": {
-        "english": "sake jar, bird"
+        "english": "sake jar, bird |(vi) Dậu (hũ rượu, con gà)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hiyominotori0.svg",
@@ -365,7 +365,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1006",
     "strokeCount": 10,
-    "meaning": "sake, alcohol",
+    "meaning": "sake, alcohol |(vi) rượu sake, rượu |(hv) Tửu",
     "kunyomi": [
       "さけ",
       "さか-"
@@ -377,49 +377,49 @@
       {
         "example": "酒",
         "reading": "シュ",
-        "meaning": "alcohol, (alcoholic) drink, liqueur"
+        "meaning": "alcohol, (alcoholic) drink, liqueur |(vi) rượu, đồ uống có cồn, rượu mùi"
       },
       {
         "example": "酒税",
         "reading": "シュゼイ",
-        "meaning": "liquor tax, tax on alcohol"
+        "meaning": "liquor tax, tax on alcohol |(vi) tửu thuế, thuế rượu"
       },
       {
         "example": "洋酒",
         "reading": "ヨウシュ",
-        "meaning": "Western wine and spirits, Western liquor"
+        "meaning": "Western wine and spirits, Western liquor |(vi) dương tửu, rượu vang và rượu mạnh phương Tây"
       },
       {
         "example": "清酒",
         "reading": "セイシュ",
-        "meaning": "refined sake"
+        "meaning": "refined sake |(vi) thanh tửu, rượu sake tinh lọc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "酒",
         "reading": "さけ",
-        "meaning": "alcohol, sake"
+        "meaning": "alcohol, sake |(vi) rượu, rượu sake"
       },
       {
         "example": "酒好き",
         "reading": "さけずき",
-        "meaning": "love of drink, fondness for alcohol, person who likes to drink, drinker"
+        "meaning": "love of drink, fondness for alcohol, person who likes to drink, drinker |(vi) sự thích rượu, tính ham rượu, người thích uống rượu, bợm rượu"
       },
       {
         "example": "手酌酒",
         "reading": "てじゃくさけ",
-        "meaning": "pouring one's own drinks, drinking alone"
+        "meaning": "pouring one's own drinks, drinking alone |(vi) tự rót rượu cho mình, uống một mình"
       },
       {
         "example": "小酒",
         "reading": "こさけ",
-        "meaning": "small drink, small amount of alcohol"
+        "meaning": "small drink, small amount of alcohol |(vi) chén rượu nhỏ, chút rượu"
       }
     ],
     "radical": {
       "symbol": "酉",
-      "meaning": "wine, alcohol"
+      "meaning": "wine, alcohol |(vi) Dậu (rượu, hũ rượu)"
     },
     "parts": [
       "汁",

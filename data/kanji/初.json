@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "haji, hatsu, ui, so, hajimete, hajime, hatsu, someru",
-    "meaning": "first",
+    "meaning": "first |(vi) đầu tiên",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "最初（さいしょ）",
         "meaning": {
-          "english": "beginning"
+          "english": "beginning |(vi) ban đầu, đầu tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-haji(me)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "初日（しょにち）",
         "meaning": {
-          "english": "first day"
+          "english": "first day |(vi) ngày đầu tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-haji(me)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "初対面（しょたいめん）",
         "meaning": {
-          "english": "first meeting"
+          "english": "first meeting |(vi) lần gặp đầu tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-haji(me)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "初級（しょきゅう）",
         "meaning": {
-          "english": "elementary level"
+          "english": "elementary level |(vi) trình độ sơ cấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-haji(me)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "初心者（しょしんしゃ）",
         "meaning": {
-          "english": "beginner"
+          "english": "beginner |(vi) người mới bắt đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-haji(me)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "初期（しょき）",
         "meaning": {
-          "english": "early (days)"
+          "english": "early (days) |(vi) giai đoạn đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-haji(me)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "初めて（はじめて）",
         "meaning": {
-          "english": "for the first time"
+          "english": "for the first time |(vi) lần đầu tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-haji(me)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "初めに（はじめに）",
         "meaning": {
-          "english": "first of all"
+          "english": "first of all |(vi) trước tiên, đầu tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-haji(me)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "初恋（はつこい）",
         "meaning": {
-          "english": "first love"
+          "english": "first love |(vi) mối tình đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-haji(me)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "初々しい（ういういしい）",
         "meaning": {
-          "english": "innocent"
+          "english": "innocent |(vi) ngây thơ, trong sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-haji(me)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "なれ初め（なれそめ）",
         "meaning": {
-          "english": "start of a romance"
+          "english": "start of a romance |(vi) khởi đầu của mối tình, duyên khởi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-haji(me)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "書き初め（かきぞめ）",
         "meaning": {
-          "english": "New Year's writing"
+          "english": "New Year's writing |(vi) viết chữ đầu năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-haji(me)_06_l.opus",
@@ -295,7 +295,7 @@
     "kanji": {
       "character": "初",
       "meaning": {
-        "english": "first"
+        "english": "first |(vi) đầu tiên"
       },
       "strokes": {
         "count": 7,
@@ -347,7 +347,7 @@
         "romaji": "katana"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, kiếm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/katana0.svg",
@@ -368,7 +368,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "152",
     "strokeCount": 7,
-    "meaning": "first time, beginning",
+    "meaning": "first time, beginning |(vi) lần đầu tiên, khởi đầu |(hv) Sơ",
     "kunyomi": [
       "はじ.め",
       "はじ.めて",
@@ -385,64 +385,64 @@
       {
         "example": "初夏",
         "reading": "ショカ",
-        "meaning": "early summer, fourth month of the lunar calendar"
+        "meaning": "early summer, fourth month of the lunar calendar |(vi) đầu hè, tháng tư âm lịch"
       },
       {
         "example": "初演",
         "reading": "ショエン",
-        "meaning": "first performance, premiere"
+        "meaning": "first performance, premiere |(vi) buổi công diễn đầu tiên, ra mắt"
       },
       {
         "example": "年初",
         "reading": "ネンショ",
-        "meaning": "beginning of the year"
+        "meaning": "beginning of the year |(vi) đầu năm"
       },
       {
         "example": "原初",
         "reading": "ゲンショ",
-        "meaning": "origin, source, beginning, starting point"
+        "meaning": "origin, source, beginning, starting point |(vi) nguồn gốc, khởi thủy, điểm bắt đầu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "始め",
         "reading": "はじめ",
-        "meaning": "beginning, start, outset, opening, first (in line, etc.), origin, such as ..., not to mention ..."
+        "meaning": "beginning, start, outset, opening, first (in line, etc.), origin, such as ..., not to mention ... |(vi) khởi đầu, sự bắt đầu, mở đầu, đầu tiên (trong danh sách), nguồn gốc, chẳng hạn như..., chưa kể..."
       },
       {
         "example": "初めて",
         "reading": "はじめて",
-        "meaning": "for the first time, only after ... is it ..., only when ... do you ..., not until ... do you ..., first time, (one's) first"
+        "meaning": "for the first time, only after ... is it ..., only when ... do you ..., not until ... do you ..., first time, (one's) first |(vi) lần đầu tiên, chỉ khi... mới..., mãi đến khi... mới..."
       },
       {
         "example": "月初め",
         "reading": "つきはじめ",
-        "meaning": "beginning of the month"
+        "meaning": "beginning of the month |(vi) đầu tháng"
       },
       {
         "example": "初めて",
         "reading": "はじめて",
-        "meaning": "for the first time, only after ... is it ..., only when ... do you ..., not until ... do you ..., first time, (one's) first"
+        "meaning": "for the first time, only after ... is it ..., only when ... do you ..., not until ... do you ..., first time, (one's) first |(vi) lần đầu tiên, chỉ khi... mới..., mãi đến khi... mới..."
       },
       {
         "example": "初",
         "reading": "はつ",
-        "meaning": "first, new"
+        "meaning": "first, new |(vi) đầu tiên, mới"
       },
       {
         "example": "初対面",
         "reading": "しょたいめん",
-        "meaning": "first meeting, first interview with"
+        "meaning": "first meeting, first interview with |(vi) lần gặp đầu tiên, cuộc phỏng vấn đầu tiên"
       },
       {
         "example": "業界初",
         "reading": "ぎょうかいはつ",
-        "meaning": "the industry's first ..."
+        "meaning": "the industry's first ... |(vi) lần đầu tiên trong ngành"
       },
       {
         "example": "人生初",
         "reading": "じんせいはつ",
-        "meaning": "(for the) first time in one's life"
+        "meaning": "(for the) first time in one's life |(vi) lần đầu tiên trong đời"
       }
     ],
     "radical": {
@@ -450,7 +450,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "刀",

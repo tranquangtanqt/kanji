@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "tsuka, tsukaeru",
-    "meaning": "serve, do",
+    "meaning": "serve, do |(vi) phục vụ, làm việc",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "仕方（しかた）",
         "meaning": {
-          "english": "way, method"
+          "english": "way, method |(vi) cách thức, phương pháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "仕事（しごと）",
         "meaning": {
-          "english": "work"
+          "english": "work |(vi) công việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "仕方がない（しかたがない）",
         "meaning": {
-          "english": "it can't be helped"
+          "english": "it can't be helped |(vi) không thể làm gì được, đành chịu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "仕組み（しくみ）",
         "meaning": {
-          "english": "structure"
+          "english": "structure |(vi) cơ cấu, cấu trúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "給仕（きゅうじ）",
         "meaning": {
-          "english": "waiter"
+          "english": "waiter |(vi) người phục vụ, bồi bàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "仕上げる（しあげる）",
         "meaning": {
-          "english": "finish up"
+          "english": "finish up |(vi) hoàn thành, làm xong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "仕返しする（しかえしする）",
         "meaning": {
-          "english": "revenge"
+          "english": "revenge |(vi) trả thù, báo thù"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "仕送りする（しおくりする）",
         "meaning": {
-          "english": "remit"
+          "english": "remit |(vi) gửi tiền (trợ cấp)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "仕える（つかえる）",
         "meaning": {
-          "english": "serve [v.i.]"
+          "english": "serve [v.i.] |(vi) phụng sự, hầu hạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "宮仕え（みやづかえ）",
         "meaning": {
-          "english": "court service"
+          "english": "court service |(vi) phục vụ trong cung, làm việc ở triều đình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_j.opus",
@@ -271,7 +271,7 @@
     "kanji": {
       "character": "仕",
       "meaning": {
-        "english": "serve, do"
+        "english": "serve, do |(vi) phục vụ, làm việc"
       },
       "strokes": {
         "count": 5,
@@ -319,7 +319,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người, bộ nhân đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -340,7 +340,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "439",
     "strokeCount": 5,
-    "meaning": "attend, doing, official, serve",
+    "meaning": "attend, doing, official, serve |(vi) hầu hạ, làm việc, làm quan, phục vụ |(hv) Sĩ",
     "kunyomi": [
       "つか.える"
     ],
@@ -352,44 +352,44 @@
       {
         "example": "仕",
         "reading": "シ",
-        "meaning": "official, civil service"
+        "meaning": "official, civil service |(vi) quan chức, công vụ"
       },
       {
         "example": "試合",
         "reading": "シアイ",
-        "meaning": "match, game, bout, contest"
+        "meaning": "match, game, bout, contest |(vi) trận đấu, cuộc thi đấu"
       },
       {
         "example": "勤労奉仕",
         "reading": "キンロウホウシ",
-        "meaning": "labor service, labour service"
+        "meaning": "labor service, labour service |(vi) lao động công ích, phục vụ lao động"
       },
       {
         "example": "中仕",
         "reading": "ナカシ",
-        "meaning": "longshoreman, baggageman"
+        "meaning": "longshoreman, baggageman |(vi) phu khuân vác, người bốc xếp"
       },
       {
         "example": "仕込み",
         "reading": "ジコミ",
-        "meaning": "learned at ..., acquired at ..."
+        "meaning": "learned at ..., acquired at ... |(vi) được đào tạo tại..., học được từ..."
       },
       {
         "example": "仕丁",
         "reading": "シチョウ",
-        "meaning": "men pressed into forced labor (ritsuryō system), palanquin bearer (Edo period)"
+        "meaning": "men pressed into forced labor (ritsuryō system), palanquin bearer (Edo period) |(vi) phu dịch cưỡng bức (thời Luật lệnh), phu khiêng kiệu (thời Edo)"
       },
       {
         "example": "致仕",
         "reading": "チシ",
-        "meaning": "resignation, seventy years of age"
+        "meaning": "resignation, seventy years of age |(vi) từ quan, tuổi bảy mươi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "仕える",
         "reading": "つかえる",
-        "meaning": "to serve, to work for, to attend"
+        "meaning": "to serve, to work for, to attend |(vi) phụng sự, làm việc cho, hầu hạ"
       }
     ],
     "radical": {
@@ -397,7 +397,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "化",

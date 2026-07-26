@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "government, government official, authorities",
+    "meaning": "government, government official, authorities |(vi) chính phủ, quan chức, nhà chức trách",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "官房（かんぼう）",
         "meaning": {
-          "english": "government secretariat"
+          "english": "government secretariat |(vi) văn phòng chính phủ, cục hành chính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(saiban)kan_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "官邸（かんてい）",
         "meaning": {
-          "english": "official residence"
+          "english": "official residence |(vi) dinh thự chính thức, công thự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(saiban)kan_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "官僚（かんりょう）",
         "meaning": {
-          "english": "bureaucrat, government official"
+          "english": "bureaucrat, government official |(vi) quan chức, công chức nhà nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(saiban)kan_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "官僚主義（かんりょうしゅぎ）",
         "meaning": {
-          "english": "bureaucracy"
+          "english": "bureaucracy |(vi) chủ nghĩa quan liêu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(saiban)kan_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "長官（ちょうかん）",
         "meaning": {
-          "english": "chief, secretary"
+          "english": "chief, secretary |(vi) trưởng quan, thủ trưởng cơ quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(saiban)kan_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "警官（けいかん）",
         "meaning": {
-          "english": "policeman"
+          "english": "policeman |(vi) cảnh sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(saiban)kan_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "器官（きかん）",
         "meaning": {
-          "english": "organ"
+          "english": "organ |(vi) cơ quan (bộ phận cơ thể)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(saiban)kan_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "裁判官（さいばんかん）",
         "meaning": {
-          "english": "judge [n.]"
+          "english": "judge [n.] |(vi) thẩm phán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(saiban)kan_06_h.opus",
@@ -200,7 +200,7 @@
     "kanji": {
       "character": "官",
       "meaning": {
-        "english": "government, government official, authorities"
+        "english": "government, government official, authorities |(vi) chính phủ, quan chức, nhà chức trách"
       },
       "strokes": {
         "count": 8,
@@ -254,7 +254,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà, bộ đầu mái)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -275,7 +275,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "230",
     "strokeCount": 8,
-    "meaning": "bureaucrat, the government, organ",
+    "meaning": "bureaucrat, the government, organ |(vi) quan chức, chính phủ, cơ quan (bộ phận) |(hv) Quan",
     "kunyomi": [],
     "onyomi": [
       "カン"
@@ -284,28 +284,28 @@
       {
         "example": "官",
         "reading": "カン",
-        "meaning": "government, government service, the bureaucracy, government post, government official"
+        "meaning": "government, government service, the bureaucracy, government post, government official |(vi) chính phủ, công vụ, bộ máy quan liêu, chức vụ nhà nước, quan chức"
       },
       {
         "example": "官界",
         "reading": "カンカイ",
-        "meaning": "bureaucracy"
+        "meaning": "bureaucracy |(vi) giới quan chức, chốn quan trường"
       },
       {
         "example": "代官",
         "reading": "ダイカン",
-        "meaning": "local governor (Edo period), local magistrate, bailiff, deputy official (Middle Ages), acting administrator"
+        "meaning": "local governor (Edo period), local magistrate, bailiff, deputy official (Middle Ages), acting administrator |(vi) quan cai trị địa phương (thời Edo), quan huyện, thừa phái, quan phó (thời Trung cổ), người quản lý thay thế"
       },
       {
         "example": "自衛官",
         "reading": "ジエイカン",
-        "meaning": "Japanese Self-Defense Force official, Self-Defense Force official"
+        "meaning": "Japanese Self-Defense Force official, Self-Defense Force official |(vi) sĩ quan/nhân viên Lực lượng Phòng vệ Nhật Bản"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà)"
     },
     "parts": [
       "口",

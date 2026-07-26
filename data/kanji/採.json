@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "to, toru",
-    "meaning": "pick, gather, take, accept, employ",
+    "meaning": "pick, gather, take, accept, employ |(vi) hái, thu thập, lấy, chấp nhận, tuyển dụng",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "採算（さいさん）",
         "meaning": {
-          "english": "profit [n.]"
+          "english": "profit [n.] |(vi) thái toán (lợi nhuận, hạch toán lời lỗ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-to(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "採血する（さいけつする）",
         "meaning": {
-          "english": "draw blood, collect blood"
+          "english": "draw blood, collect blood |(vi) thái huyết (lấy máu, rút máu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-to(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "採決する（さいけつする）",
         "meaning": {
-          "english": "take a vote"
+          "english": "take a vote |(vi) thái quyết (biểu quyết, bỏ phiếu quyết định)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-to(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "採取する（さいしゅする）",
         "meaning": {
-          "english": "pick, collect, harvest"
+          "english": "pick, collect, harvest |(vi) thái thủ (thu thập, khai thác, hái lượm)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-to(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "採掘する（さいくつする）",
         "meaning": {
-          "english": "mine [v.t.]"
+          "english": "mine [v.t.] |(vi) thái quật (khai thác mỏ, đào mỏ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-to(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "採点する（さいてんする）",
         "meaning": {
-          "english": "grade (a test) [v.t.]"
+          "english": "grade (a test) [v.t.] |(vi) thái điểm (chấm điểm)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-to(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "採用する（さいようする）",
         "meaning": {
-          "english": "use, adopt, hire"
+          "english": "use, adopt, hire |(vi) thái dụng (tuyển dụng, áp dụng, chấp nhận)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-to(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "採集する（さいしゅうする）",
         "meaning": {
-          "english": "collect, gather"
+          "english": "collect, gather |(vi) thái tập (thu thập, sưu tầm)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-to(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "伐採する（ばっさいする）",
         "meaning": {
-          "english": "log, deforest"
+          "english": "log, deforest |(vi) phạt thái (đốn hạ, khai thác gỗ, phá rừng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-to(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "採る（とる）",
         "meaning": {
-          "english": "pick [v.t.]"
+          "english": "pick [v.t.] |(vi) hái, lấy, chọn lấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-to(ru)_06_j.opus",
@@ -213,7 +213,7 @@
     "kanji": {
       "character": "採",
       "meaning": {
-        "english": "pick, gather, take, accept, employ"
+        "english": "pick, gather, take, accept, employ |(vi) hái, thu thập, lấy, chấp nhận, tuyển dụng"
       },
       "strokes": {
         "count": 11,
@@ -273,7 +273,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -294,7 +294,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "607",
     "strokeCount": 11,
-    "meaning": "pick, take, fetch, take up",
+    "meaning": "pick, take, fetch, take up |(vi) hái, lấy, lấy về, thu nhận |(hv) Thái",
     "kunyomi": [
       "と.る"
     ],
@@ -305,34 +305,34 @@
       {
         "example": "採決",
         "reading": "サイケツ",
-        "meaning": "vote, ballot, division"
+        "meaning": "vote, ballot, division |(vi) thái quyết (biểu quyết, bỏ phiếu)"
       },
       {
         "example": "採掘",
         "reading": "サイクツ",
-        "meaning": "mining, digging, working (a mine)"
+        "meaning": "mining, digging, working (a mine) |(vi) thái quật (khai thác mỏ, đào mỏ)"
       },
       {
         "example": "伐採",
         "reading": "バッサイ",
-        "meaning": "felling timber, cutting down trees, logging, lumbering"
+        "meaning": "felling timber, cutting down trees, logging, lumbering |(vi) phạt thái (đốn hạ cây, khai thác gỗ, phá rừng)"
       },
       {
         "example": "掘採",
         "reading": "クッサイ",
-        "meaning": "mining"
+        "meaning": "mining |(vi) quật thái (khai thác mỏ, đào mỏ)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "採る",
         "reading": "とる",
-        "meaning": "to adopt (a method, proposal, etc.), to take (a measure, course of action, etc.), to decide on, to pick (e.g. flowers), to gather (e.g. mushrooms), to catch (e.g. insects), to extract (e.g. juice), to take (e.g. a sample), to assume (an attitude), to take on (workers, students), to employ, to hire, to draw in (e.g. water), to let in (e.g. light from a window)"
+        "meaning": "to adopt (a method, proposal, etc.), to take (a measure, course of action, etc.), to decide on, to pick (e.g. flowers), to gather (e.g. mushrooms), to catch (e.g. insects), to extract (e.g. juice), to take (e.g. a sample), to assume (an attitude), to take on (workers, students), to employ, to hire, to draw in (e.g. water), to let in (e.g. light from a window) |(vi) áp dụng, thực hiện (biện pháp), hái, thu thập, bắt (côn trùng), chiết xuất, lấy (mẫu), tuyển dụng, thuê, hứng lấy (ánh sáng, nước)"
       },
       {
         "example": "採るべき道",
         "reading": "とるべきみち",
-        "meaning": "course of action"
+        "meaning": "course of action |(vi) con đường nên theo, hướng đi cần chọn"
       }
     ],
     "radical": {
@@ -340,7 +340,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "扎",

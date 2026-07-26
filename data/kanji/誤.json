@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "ayama, ayamaru, ayamari",
-    "meaning": "mistake, err",
+    "meaning": "mistake, err |(vi) sai lầm, nhầm lẫn",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "誤字（ごじ）",
         "meaning": {
-          "english": "misprint"
+          "english": "misprint |(vi) lỗi chính tả, chữ sai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(sa)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "誤算（ごさん）",
         "meaning": {
-          "english": "miscalculation"
+          "english": "miscalculation |(vi) tính toán sai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(sa)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "誤差（ごさ）",
         "meaning": {
-          "english": "error"
+          "english": "error |(vi) sai số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(sa)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "誤報（ごほう）",
         "meaning": {
-          "english": "misinformation"
+          "english": "misinformation |(vi) tin sai, đưa tin sai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(sa)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "誤解する（ごかいする）",
         "meaning": {
-          "english": "misunderstand"
+          "english": "misunderstand |(vi) hiểu lầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(sa)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "誤る（あやまる）",
         "meaning": {
-          "english": "make a mistake"
+          "english": "make a mistake |(vi) phạm sai lầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(sa)_06_f.opus",
@@ -187,7 +187,7 @@
     "kanji": {
       "character": "誤",
       "meaning": {
-        "english": "mistake, err"
+        "english": "mistake, err |(vi) sai lầm, nhầm lẫn"
       },
       "strokes": {
         "count": 14,
@@ -253,7 +253,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói, nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -274,7 +274,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1150",
     "strokeCount": 14,
-    "meaning": "mistake, err, do wrong, mislead",
+    "meaning": "mistake, err, do wrong, mislead |(vi) sai lầm, nhầm lẫn, làm sai, dẫn dắt sai |(hv) Ngộ",
     "kunyomi": [
       "あやま.る",
       "-あやま.る"
@@ -286,29 +286,29 @@
       {
         "example": "誤",
         "reading": "ゴ",
-        "meaning": "mistake, error"
+        "meaning": "mistake, error |(vi) lỗi, sai lầm"
       },
       {
         "example": "誤解",
         "reading": "ゴカイ",
-        "meaning": "misunderstanding"
+        "meaning": "misunderstanding |(vi) sự hiểu lầm"
       },
       {
         "example": "時代錯誤",
         "reading": "ジダイサクゴ",
-        "meaning": "anachronism"
+        "meaning": "anachronism |(vi) lỗi thời, không hợp thời đại"
       },
       {
         "example": "錯誤",
         "reading": "サクゴ",
-        "meaning": "mistake, error, discrepancy, discrepancy between one's actions and intentions"
+        "meaning": "mistake, error, discrepancy, discrepancy between one's actions and intentions |(vi) sai lầm, sự khác biệt, sự không nhất quán giữa lời nói và hành động"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "誤る",
         "reading": "あやまる",
-        "meaning": "to make a mistake (in), to commit an error, to do incorrectly, to err, to be wrong, to be incorrect, to be false, to be mistaken, to mislead, to misguide, to lead astray"
+        "meaning": "to make a mistake (in), to commit an error, to do incorrectly, to err, to be wrong, to be incorrect, to be false, to be mistaken, to mislead, to misguide, to lead astray |(vi) phạm sai lầm, làm sai, nhầm lẫn, dẫn dắt sai lầm"
       }
     ],
     "radical": {
@@ -316,7 +316,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói, nói)"
     },
     "parts": [
       "ハ",

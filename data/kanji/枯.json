@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ka, kareru, karasu",
-    "meaning": "wither, blight",
+    "meaning": "wither, blight |(vi) héo, khô héo",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "栄枯盛衰（えいこせいすい）",
         "meaning": {
-          "english": "ups and downs, vicissitudes"
+          "english": "ups and downs, vicissitudes |(vi) thịnh suy, thăng trầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "枯渇する（こかつする）",
         "meaning": {
-          "english": "dry up, become exhausted"
+          "english": "dry up, become exhausted |(vi) cạn kiệt, khô cạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "枯らす（からす）",
         "meaning": {
-          "english": "let wither, blast [v.t.]"
+          "english": "let wither, blast [v.t.] |(vi) làm khô héo, làm chết (cây)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "木枯らし（こがらし）",
         "meaning": {
-          "english": "cold wintry wind"
+          "english": "cold wintry wind |(vi) gió lạnh mùa đông, gió bấc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "枯れる（かれる）",
         "meaning": {
-          "english": "whither, be blasted [v.i.]"
+          "english": "whither, be blasted [v.i.] |(vi) héo, khô héo, tàn lụi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "枯れ葉（かれは）",
         "meaning": {
-          "english": "dead leaf, withered lead"
+          "english": "dead leaf, withered lead |(vi) lá khô, lá héo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "枯れ木（かれき）",
         "meaning": {
-          "english": "dead tree, withered tree"
+          "english": "dead tree, withered tree |(vi) cây khô, cây chết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_g.opus",
@@ -175,7 +175,7 @@
     "kanji": {
       "character": "枯",
       "meaning": {
-        "english": "wither, blight"
+        "english": "wither, blight |(vi) héo, khô héo"
       },
       "strokes": {
         "count": 9,
@@ -231,7 +231,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -252,7 +252,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1749",
     "strokeCount": 9,
-    "meaning": "wither, die, dry up, be seasoned",
+    "meaning": "wither, die, dry up, be seasoned |(vi) héo, chết khô, khô cạn, được sấy khô (gỗ) |(hv) Khô",
     "kunyomi": [
       "か.れる",
       "か.らす"
@@ -264,39 +264,39 @@
       {
         "example": "枯れ木",
         "reading": "カレキ",
-        "meaning": "dead tree, withered tree, leafless tree, bare tree"
+        "meaning": "dead tree, withered tree, leafless tree, bare tree |(vi) cây khô, cây chết, cây trụi lá"
       },
       {
         "example": "枯死",
         "reading": "コシ",
-        "meaning": "withering, dying"
+        "meaning": "withering, dying |(vi) khô héo mà chết, chết khô"
       },
       {
         "example": "栄枯",
         "reading": "エイコ",
-        "meaning": "vicissitudes, ups and downs"
+        "meaning": "vicissitudes, ups and downs |(vi) thịnh suy, thăng trầm"
       },
       {
         "example": "蒼古",
         "reading": "ソウコ",
-        "meaning": "old-fashioned and tasteful"
+        "meaning": "old-fashioned and tasteful |(vi) cổ kính, cổ nhã"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "枯れる",
         "reading": "かれる",
-        "meaning": "to wither (of a plant), to be blasted, to die, to mature (of one's personality, abilities, etc.)"
+        "meaning": "to wither (of a plant), to be blasted, to die, to mature (of one's personality, abilities, etc.) |(vi) héo (cây cối), tàn lụi, chết, trở nên chín chắn (tính cách, năng lực)"
       },
       {
         "example": "枯らす",
         "reading": "からす",
-        "meaning": "to let dry, to kill (vegetation), to season (lumber)"
+        "meaning": "to let dry, to kill (vegetation), to season (lumber) |(vi) làm khô, làm chết (cây cối), sấy khô (gỗ)"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "十",

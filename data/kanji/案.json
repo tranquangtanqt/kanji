@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "proposal, plan",
+    "meaning": "proposal, plan |(vi) đề xuất, kế hoạch",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "案（あん）",
         "meaning": {
-          "english": "plan, draft [n.]"
+          "english": "plan, draft [n.] |(vi) kế hoạch, bản dự thảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gen)an_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "案外（あんがい）",
         "meaning": {
-          "english": "unexpectedly"
+          "english": "unexpectedly |(vi) bất ngờ, ngoài dự đoán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gen)an_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "案の定（あんのじょう）",
         "meaning": {
-          "english": "sure enough"
+          "english": "sure enough |(vi) đúng như dự đoán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gen)an_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "名案（めいあん）",
         "meaning": {
-          "english": "good idea"
+          "english": "good idea |(vi) ý tưởng hay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gen)an_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "法案（ほうあん）",
         "meaning": {
-          "english": "bill (law)"
+          "english": "bill (law) |(vi) dự luật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gen)an_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "議案（ぎあん）",
         "meaning": {
-          "english": "legislative bill"
+          "english": "legislative bill |(vi) dự luật, nghị án"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gen)an_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "答案用紙（とうあんようし）",
         "meaning": {
-          "english": "exam answer sheet"
+          "english": "exam answer sheet |(vi) tờ giấy thi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gen)an_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "案内する（あんないする）",
         "meaning": {
-          "english": "guide [v.t.]"
+          "english": "guide [v.t.] |(vi) hướng dẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gen)an_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "立案する（りつあんする）",
         "meaning": {
-          "english": "draft [v.t.]"
+          "english": "draft [v.t.] |(vi) soạn thảo, lập kế hoạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gen)an_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "考案する（こうあんする）",
         "meaning": {
-          "english": "plan, devise, contrive"
+          "english": "plan, devise, contrive |(vi) nghĩ ra, sáng chế, phát minh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gen)an_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "提案する（ていあんする）",
         "meaning": {
-          "english": "propose"
+          "english": "propose |(vi) đề xuất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gen)an_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "案じる/ずる（あんじる/ずる）",
         "meaning": {
-          "english": "be anxious, devise a plan"
+          "english": "be anxious, devise a plan |(vi) lo lắng, suy tính kế hoạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gen)an_06_l.opus",
@@ -285,7 +285,7 @@
     "kanji": {
       "character": "案",
       "meaning": {
-        "english": "proposal, plan"
+        "english": "proposal, plan |(vi) đề xuất, kế hoạch"
       },
       "strokes": {
         "count": 10,
@@ -343,7 +343,7 @@
         "romaji": "ki"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ki0.svg",
@@ -364,7 +364,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "206",
     "strokeCount": 10,
-    "meaning": "plan, suggestion, draft, ponder, fear, proposition, idea, expectation, worry, table, bench",
+    "meaning": "plan, suggestion, draft, ponder, fear, proposition, idea, expectation, worry, table, bench |(vi) kế hoạch, đề nghị, bản dự thảo, suy ngẫm, lo sợ, đề xuất, ý tưởng, kỳ vọng, lo lắng, bàn, ghế dài |(hv) Án",
     "kunyomi": [
       "つくえ"
     ],
@@ -375,39 +375,39 @@
       {
         "example": "案",
         "reading": "アン",
-        "meaning": "idea, plan, proposal, suggestion, (government) bill, draft, rough copy, expectation, desk, stand"
+        "meaning": "idea, plan, proposal, suggestion, (government) bill, draft, rough copy, expectation, desk, stand |(vi) ý tưởng, kế hoạch, đề xuất, đề nghị, dự luật (chính phủ), bản thảo, bản nháp, kỳ vọng, bàn làm việc, giá đỡ"
       },
       {
         "example": "案外",
         "reading": "アンガイ",
-        "meaning": "unexpectedly, surprisingly, unexpected, unanticipated, unforeseen, surprising"
+        "meaning": "unexpectedly, surprisingly, unexpected, unanticipated, unforeseen, surprising |(vi) bất ngờ, đáng ngạc nhiên, ngoài dự đoán, không lường trước"
       },
       {
         "example": "対案",
         "reading": "タイアン",
-        "meaning": "counter-proposal, counter-suggestion"
+        "meaning": "counter-proposal, counter-suggestion |(vi) đề xuất phản biện, phương án thay thế"
       },
       {
         "example": "成案",
         "reading": "セイアン",
-        "meaning": "definite plan"
+        "meaning": "definite plan |(vi) kế hoạch chính thức, phương án đã hoàn thiện"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "机",
         "reading": "つくえ",
-        "meaning": "desk"
+        "meaning": "desk |(vi) cái bàn"
       },
       {
         "example": "八足の机",
         "reading": "やつあしのつくえ",
-        "meaning": "eight-legged table (used as a stand for religious offerings, etc.)"
+        "meaning": "eight-legged table (used as a stand for religious offerings, etc.) |(vi) bàn tám chân (dùng làm giá đỡ đồ cúng tế...)"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây)"
     },
     "parts": [
       "女",

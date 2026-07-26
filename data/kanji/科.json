@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "subject of study",
+    "meaning": "subject of study |(vi) môn học, chuyên khoa",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "科学（かがく）",
         "meaning": {
-          "english": "science"
+          "english": "science |(vi) khoa học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "科目（かもく）",
         "meaning": {
-          "english": "(school) subject"
+          "english": "(school) subject |(vi) môn học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "学科（がっか）",
         "meaning": {
-          "english": "course of study"
+          "english": "course of study |(vi) ngành học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "理科（りか）",
         "meaning": {
-          "english": "science"
+          "english": "science |(vi) khoa học tự nhiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "百科事典（ひゃっかじてん）",
         "meaning": {
-          "english": "encyclopedia"
+          "english": "encyclopedia |(vi) bách khoa toàn thư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "内科（ないか）",
         "meaning": {
-          "english": "internal medicine"
+          "english": "internal medicine |(vi) khoa nội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "外科（げか）",
         "meaning": {
-          "english": "surgical department"
+          "english": "surgical department |(vi) khoa ngoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "歯科（しか）",
         "meaning": {
-          "english": "dentistry"
+          "english": "dentistry |(vi) khoa răng, nha khoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "小児科（しょうにか）",
         "meaning": {
-          "english": "pediatrics"
+          "english": "pediatrics |(vi) khoa nhi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "前科（ぜんか）",
         "meaning": {
-          "english": "criminal record"
+          "english": "criminal record |(vi) tiền án"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_j.opus",
@@ -259,7 +259,7 @@
     "kanji": {
       "character": "科",
       "meaning": {
-        "english": "subject of study"
+        "english": "subject of study |(vi) môn học, chuyên khoa"
       },
       "strokes": {
         "count": 9,
@@ -315,7 +315,7 @@
         "romaji": "nogihen"
       },
       "meaning": {
-        "english": "grain"
+        "english": "grain |(vi) Hòa (lúa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nogihen0.svg",
@@ -336,7 +336,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "531",
     "strokeCount": 9,
-    "meaning": "department, course, section",
+    "meaning": "department, course, section |(vi) khoa, môn học, phân ban |(hv) Khoa",
     "kunyomi": [],
     "onyomi": [
       "カ"
@@ -345,28 +345,28 @@
       {
         "example": "科",
         "reading": "カ",
-        "meaning": "department, section, faculty, school, arm, course (of study), branch of study, specialization, (taxonomical) family"
+        "meaning": "department, section, faculty, school, arm, course (of study), branch of study, specialization, (taxonomical) family |(vi) khoa, ban, phân khoa, trường, ngành, môn học, chuyên ngành, chuyên môn, họ (phân loại sinh học)"
       },
       {
         "example": "科学",
         "reading": "カガク",
-        "meaning": "science, to think about scientifically, to think in terms of science"
+        "meaning": "science, to think about scientifically, to think in terms of science |(vi) khoa học, suy nghĩ theo hướng khoa học"
       },
       {
         "example": "工科",
         "reading": "コウカ",
-        "meaning": "engineering course"
+        "meaning": "engineering course |(vi) ngành kỹ thuật"
       },
       {
         "example": "医科",
         "reading": "イカ",
-        "meaning": "medical science, medical department"
+        "meaning": "medical science, medical department |(vi) y khoa, khoa y"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "禾",
-      "meaning": "grain"
+      "meaning": "grain |(vi) Hòa (lúa)"
     },
     "parts": [
       "斗",

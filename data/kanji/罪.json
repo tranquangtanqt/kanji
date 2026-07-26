@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "tsumi",
-    "meaning": "crime, sin, guilt",
+    "meaning": "crime, sin, guilt |(vi) tội, tội lỗi, có tội",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "罪状（ざいじょう）",
         "meaning": {
-          "english": "crime, criminal charges"
+          "english": "crime, criminal charges |(vi) tội trạng, cáo buộc hình sự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsumi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "罪人（ざいにん）",
         "meaning": {
-          "english": "criminal"
+          "english": "criminal |(vi) tội nhân, tội phạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsumi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "罪悪（ざいあく）",
         "meaning": {
-          "english": "crime, sin, vice"
+          "english": "crime, sin, vice |(vi) tội ác, tội lỗi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsumi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "罪悪感（ざいあくかん）",
         "meaning": {
-          "english": "feelings of guilt"
+          "english": "feelings of guilt |(vi) cảm giác tội lỗi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsumi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "有罪（ゆうざい）",
         "meaning": {
-          "english": "guilty"
+          "english": "guilty |(vi) có tội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsumi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "無罪（むざい）",
         "meaning": {
-          "english": "innocent"
+          "english": "innocent |(vi) vô tội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsumi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "原罪（げんざい）",
         "meaning": {
-          "english": "original sin"
+          "english": "original sin |(vi) nguyên tội, tội tổ tông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsumi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "余罪（よざい）",
         "meaning": {
-          "english": "other crimes, further offenses"
+          "english": "other crimes, further offenses |(vi) tội khác, hành vi phạm tội bổ sung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsumi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "犯罪（はんざい）",
         "meaning": {
-          "english": "crime"
+          "english": "crime |(vi) phạm tội, tội phạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsumi_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "犯罪者（はんざいしゃ）",
         "meaning": {
-          "english": "criminal, culprit"
+          "english": "criminal, culprit |(vi) tội phạm, thủ phạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsumi_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "謝罪する（しゃざいする）",
         "meaning": {
-          "english": "apologize"
+          "english": "apologize |(vi) xin lỗi, tạ tội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsumi_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "罪（つみ）",
         "meaning": {
-          "english": "crime, sin"
+          "english": "crime, sin |(vi) tội, tội lỗi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsumi_06_l.opus",
@@ -244,7 +244,7 @@
     "kanji": {
       "character": "罪",
       "meaning": {
-        "english": "crime, sin, guilt"
+        "english": "crime, sin, guilt |(vi) tội, tội lỗi, có tội"
       },
       "strokes": {
         "count": 13,
@@ -308,7 +308,7 @@
         "romaji": "yokome"
       },
       "meaning": {
-        "english": "eye"
+        "english": "eye |(vi) Mục (mắt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yokome0.svg",
@@ -329,7 +329,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "732",
     "strokeCount": 13,
-    "meaning": "guilt, sin, crime, fault, blame, offense",
+    "meaning": "guilt, sin, crime, fault, blame, offense |(vi) tội lỗi, có tội, tội ác, lỗi lầm, khiển trách, vi phạm |(hv) Tội",
     "kunyomi": [
       "つみ"
     ],
@@ -340,44 +340,44 @@
       {
         "example": "罪",
         "reading": "ザイ",
-        "meaning": "crime"
+        "meaning": "crime |(vi) tội"
       },
       {
         "example": "罪悪",
         "reading": "ザイアク",
-        "meaning": "crime, sin, vice"
+        "meaning": "crime, sin, vice |(vi) tội ác, tội lỗi"
       },
       {
         "example": "同罪",
         "reading": "ドウザイ",
-        "meaning": "same crime, being equally guilty, bearing the same amount of responsibility"
+        "meaning": "same crime, being equally guilty, bearing the same amount of responsibility |(vi) cùng tội, đồng phạm, chịu trách nhiệm ngang nhau"
       },
       {
         "example": "功罪",
         "reading": "コウザイ",
-        "meaning": "merits and demerits, good points and bad points, strengths and weaknesses"
+        "meaning": "merits and demerits, good points and bad points, strengths and weaknesses |(vi) công và tội, mặt tốt và mặt xấu, điểm mạnh và điểm yếu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "罪",
         "reading": "つみ",
-        "meaning": "crime, sin, wrongdoing, indiscretion, penalty, sentence, punishment, fault, responsibility, culpability, thoughtlessness, lack of consideration"
+        "meaning": "crime, sin, wrongdoing, indiscretion, penalty, sentence, punishment, fault, responsibility, culpability, thoughtlessness, lack of consideration |(vi) tội, tội lỗi, hành vi sai trái, sơ suất, hình phạt, bản án, trách nhiệm, thiếu suy nghĩ"
       },
       {
         "example": "罪滅ぼし",
         "reading": "つみほろぼし",
-        "meaning": "atonement (for one's sins), expiation, making amends, making up for (a misdeed)"
+        "meaning": "atonement (for one's sins), expiation, making amends, making up for (a misdeed) |(vi) chuộc tội, đền tội, bù đắp lỗi lầm"
       },
       {
         "example": "無実の罪",
         "reading": "むじつのつみ",
-        "meaning": "false charge"
+        "meaning": "false charge |(vi) tội oan, bị buộc tội oan"
       },
       {
         "example": "重い罪",
         "reading": "おもいつみ",
-        "meaning": "serious crime, grave crime"
+        "meaning": "serious crime, grave crime |(vi) trọng tội, tội nặng"
       }
     ],
     "radical": {
@@ -388,7 +388,7 @@
         "罓",
         "⺳"
       ],
-      "meaning": "net"
+      "meaning": "net |(vi) Võng (lưới)"
     },
     "parts": [
       "買",

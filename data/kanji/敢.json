@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "bold, boldly, daring",
+    "meaning": "bold, boldly, daring |(vi) táo bạo, dũng cảm, dám làm",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "勇敢な（ゆうかんな）",
         "meaning": {
-          "english": "brave"
+          "english": "brave |(vi) dũng cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-a(ete)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "果敢な（かかんな）",
         "meaning": {
-          "english": "bold, resolute"
+          "english": "bold, resolute |(vi) quả cảm, cương quyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-a(ete)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "敢然と（かんぜんと）",
         "meaning": {
-          "english": "boldly"
+          "english": "boldly |(vi) một cách dũng cảm, cương quyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-a(ete)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "*敢えて（あえて）",
         "meaning": {
-          "english": "dare to, run a risk of [adv.]"
+          "english": "dare to, run a risk of [adv.] |(vi) cố tình, dám làm (dù biết khó khăn)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-a(ete)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "*取り敢えず（とりあえず）",
         "meaning": {
-          "english": "for the time being"
+          "english": "for the time being |(vi) tạm thời, trước mắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-a(ete)_06_e.opus",
@@ -162,7 +162,7 @@
     "kanji": {
       "character": "敢",
       "meaning": {
-        "english": "bold, boldly, daring"
+        "english": "bold, boldly, daring |(vi) táo bạo, dũng cảm, dám làm"
       },
       "strokes": {
         "count": 12,
@@ -224,7 +224,7 @@
         "romaji": "bokuzukuri"
       },
       "meaning": {
-        "english": "activity, to strike, hit"
+        "english": "activity, to strike, hit |(vi) Phộc (đánh nhẹ, gõ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/bokuzukuri0.svg",
@@ -245,7 +245,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1859",
     "strokeCount": 12,
-    "meaning": "daring, brave, bold, sad, tragic, pitiful",
+    "meaning": "daring, brave, bold, sad, tragic, pitiful |(vi) táo bạo, dũng cảm, dám làm, buồn thảm, bi thương, đáng thương |(hv) Cảm",
     "kunyomi": [
       "あ.えて",
       "あ.えない",
@@ -258,34 +258,34 @@
       {
         "example": "敢闘",
         "reading": "カントウ",
-        "meaning": "fighting bravely"
+        "meaning": "fighting bravely |(vi) chiến đấu dũng cảm"
       },
       {
         "example": "敢行",
         "reading": "カンコウ",
-        "meaning": "decisive action, going through with, daring to do, carrying out"
+        "meaning": "decisive action, going through with, daring to do, carrying out |(vi) quyết đoán thực hiện, dám làm, tiến hành cương quyết"
       },
       {
         "example": "勇猛果敢",
         "reading": "ユウモウカカン",
-        "meaning": "daring and resolute, having dauntless courage"
+        "meaning": "daring and resolute, having dauntless courage |(vi) dũng mãnh quả cảm, gan dạ không sợ hãi"
       },
       {
         "example": "迅速果敢",
         "reading": "ジンソクカカン",
-        "meaning": "quick and decisive, fast and daring, swift and resolute"
+        "meaning": "quick and decisive, fast and daring, swift and resolute |(vi) nhanh chóng và quyết đoán, mau lẹ táo bạo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "敢えて",
         "reading": "あえて",
-        "meaning": "purposely (of something needless, unexpected or seemingly counterproductive, etc.), daringly (doing something), deliberately, intentionally, not necessarily, not particularly, not especially, definitely not"
+        "meaning": "purposely (of something needless, unexpected or seemingly counterproductive, etc.), daringly (doing something), deliberately, intentionally, not necessarily, not particularly, not especially, definitely not |(vi) cố ý, cố tình, dám (làm điều gì đó bất chấp), không hẳn là, chưa chắc"
       },
       {
         "example": "敢え無い",
         "reading": "あえない",
-        "meaning": "disappointing (end, result, etc.), sad, miserable, tragic, fleeting, transient"
+        "meaning": "disappointing (end, result, etc.), sad, miserable, tragic, fleeting, transient |(vi) đáng buồn, đáng tiếc, bi thảm, ngắn ngủi, phù du"
       }
     ],
     "radical": {
@@ -293,7 +293,7 @@
       "forms": [
         "攵"
       ],
-      "meaning": "rap"
+      "meaning": "rap |(vi) Phộc (đánh nhẹ, gõ)"
     },
     "parts": [
       "乞",

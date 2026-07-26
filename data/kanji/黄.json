@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ki, ko",
-    "meaning": "yellow",
+    "meaning": "yellow |(vi) màu vàng",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "黄砂（こうさ）",
         "meaning": {
-          "english": "golden sands"
+          "english": "golden sands |(vi) cát vàng (hiện tượng bụi vàng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(iro)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "黄金（おうごん）",
         "meaning": {
-          "english": "gold"
+          "english": "gold |(vi) vàng, hoàng kim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(iro)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "卵黄（らんおう）",
         "meaning": {
-          "english": "egg yolk"
+          "english": "egg yolk |(vi) lòng đỏ trứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(iro)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "硫黄（いおう）",
         "meaning": {
-          "english": "sulfur, sulphur"
+          "english": "sulfur, sulphur |(vi) lưu huỳnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(iro)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "黄色（きいろ）",
         "meaning": {
-          "english": "yellow"
+          "english": "yellow |(vi) màu vàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(iro)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "黄ばむ（きばむ）",
         "meaning": {
-          "english": "turn yellow"
+          "english": "turn yellow |(vi) ngả vàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(iro)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "黄金（こがね）",
         "meaning": {
-          "english": "gold"
+          "english": "gold |(vi) vàng, hoàng kim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(iro)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "*黄昏（たそがれ）",
         "meaning": {
-          "english": "dusk, twilight"
+          "english": "dusk, twilight |(vi) hoàng hôn, chạng vạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(iro)_06_h.opus",
@@ -211,7 +211,7 @@
     "kanji": {
       "character": "黄",
       "meaning": {
-        "english": "yellow"
+        "english": "yellow |(vi) màu vàng"
       },
       "strokes": {
         "count": 11,
@@ -271,7 +271,7 @@
         "romaji": "ki"
       },
       "meaning": {
-        "english": "yellow"
+        "english": "yellow |(vi) Hoàng (màu vàng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ki-yellow0.svg",
@@ -292,7 +292,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1240",
     "strokeCount": 11,
-    "meaning": "yellow",
+    "meaning": "yellow |(vi) màu vàng |(hv) Hoàng",
     "kunyomi": [
       "き",
       "こ-"
@@ -305,64 +305,64 @@
       {
         "example": "黄色",
         "reading": "キイロ",
-        "meaning": "yellow, amber"
+        "meaning": "yellow, amber |(vi) màu vàng, hổ phách"
       },
       {
         "example": "黄昏",
         "reading": "タソガレ",
-        "meaning": "dusk, twilight, twilight years, melancholia, melancholic nostalgia"
+        "meaning": "dusk, twilight, twilight years, melancholia, melancholic nostalgia |(vi) hoàng hôn, chạng vạng, những năm cuối đời, u sầu, hoài niệm buồn"
       },
       {
         "example": "玄黄",
         "reading": "ゲンコウ",
-        "meaning": "black and yellow silk (offered to gods), heaven and earth"
+        "meaning": "black and yellow silk (offered to gods), heaven and earth |(vi) lụa đen vàng (dâng cúng thần), trời đất"
       },
       {
         "example": "天地玄黄",
         "reading": "テンチゲンコウ",
-        "meaning": "heaven is black and earth is yellow, heaven and earth"
+        "meaning": "heaven is black and earth is yellow, heaven and earth |(vi) trời đen đất vàng, trời đất (câu mở đầu Thiên Tự Văn)"
       },
       {
         "example": "黄金時代",
         "reading": "オウゴンジダイ",
-        "meaning": "golden age"
+        "meaning": "golden age |(vi) thời hoàng kim"
       },
       {
         "example": "黄金",
         "reading": "オウゴン",
-        "meaning": "gold (Au), golden, prosperous, excellent, superb, money (esp. ōban coin), cash"
+        "meaning": "gold (Au), golden, prosperous, excellent, superb, money (esp. ōban coin), cash |(vi) vàng (Au), vàng óng, thịnh vượng, xuất sắc, tuyệt vời, tiền (đặc biệt đồng ōban), tiền mặt"
       },
       {
         "example": "卵黄",
         "reading": "ランオウ",
-        "meaning": "egg yolk"
+        "meaning": "egg yolk |(vi) lòng đỏ trứng"
       },
       {
         "example": "六フッ化硫黄",
         "reading": "ロクフッカイオウ",
-        "meaning": "sulfur hexafluoride, SF6"
+        "meaning": "sulfur hexafluoride, SF6 |(vi) lưu huỳnh hexaflorua (SF6)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "黄",
         "reading": "き",
-        "meaning": "yellow"
+        "meaning": "yellow |(vi) màu vàng"
       },
       {
         "example": "黄色",
         "reading": "きいろ",
-        "meaning": "yellow, amber"
+        "meaning": "yellow, amber |(vi) màu vàng, hổ phách"
       },
       {
         "example": "海気",
         "reading": "かいき",
-        "meaning": "sea air, sea breeze, ocean and atmosphere, type of yarn-dyed silk goods"
+        "meaning": "sea air, sea breeze, ocean and atmosphere, type of yarn-dyed silk goods |(vi) không khí biển, gió biển, một loại lụa nhuộm sợi"
       }
     ],
     "radical": {
       "symbol": "黃",
-      "meaning": "yellow"
+      "meaning": "yellow |(vi) Hoàng (màu vàng)"
     },
     "parts": [
       "ハ",

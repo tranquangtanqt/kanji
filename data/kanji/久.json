@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 5,
     "kunyomi": "hisa, hisashii, hisashiburi",
-    "meaning": "of long duration, long time",
+    "meaning": "of long duration, long time |(vi) lâu dài, thời gian dài",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "永久（えいきゅう）",
         "meaning": {
-          "english": "eternity, perpetuity, immortality"
+          "english": "eternity, perpetuity, immortality |(vi) vĩnh cửu, trường tồn, bất tử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "悠久（ゆうきゅう）",
         "meaning": {
-          "english": "eternity, perpetuity, permanence"
+          "english": "eternity, perpetuity, permanence |(vi) vĩnh cửu, trường tồn, lâu dài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "恒久（こうきゅう）",
         "meaning": {
-          "english": "permanent, perpetuity"
+          "english": "permanent, perpetuity |(vi) vĩnh viễn, trường tồn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "耐久性（たいきゅうせい）",
         "meaning": {
-          "english": "durability"
+          "english": "durability |(vi) độ bền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "持久力（じきゅうりょく）",
         "meaning": {
-          "english": "stamina, tenacity"
+          "english": "stamina, tenacity |(vi) sức bền, sự kiên trì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "久遠（くおん）",
         "meaning": {
-          "english": "eternity"
+          "english": "eternity |(vi) vĩnh cửu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "久しい（ひさしい）",
         "meaning": {
-          "english": "long, long-continued"
+          "english": "long, long-continued |(vi) lâu, kéo dài đã lâu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "久しぶり（ひさしぶり）",
         "meaning": {
-          "english": "after a long time"
+          "english": "after a long time |(vi) đã lâu rồi (không gặp)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "久々（ひさびさ）",
         "meaning": {
-          "english": "after a long time"
+          "english": "after a long time |(vi) đã lâu rồi (không gặp)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_i.opus",
@@ -217,7 +217,7 @@
     "kanji": {
       "character": "久",
       "meaning": {
-        "english": "of long duration, long time"
+        "english": "of long duration, long time |(vi) lâu dài, thời gian dài"
       },
       "strokes": {
         "count": 3,
@@ -261,7 +261,7 @@
         "romaji": "no"
       },
       "meaning": {
-        "english": "diagonal sweeping stroke"
+        "english": "diagonal sweeping stroke |(vi) Phiệt (nét phẩy chéo)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/no0.svg",
@@ -282,7 +282,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "688",
     "strokeCount": 3,
-    "meaning": "long time, old story",
+    "meaning": "long time, old story |(vi) thời gian dài, chuyện xưa |(hv) Cửu",
     "kunyomi": [
       "ひさ.しい"
     ],
@@ -294,54 +294,54 @@
       {
         "example": "旧痾",
         "reading": "キュウア",
-        "meaning": "persistent disease"
+        "meaning": "persistent disease |(vi) bệnh dai dẳng, bệnh mãn tính"
       },
       {
         "example": "久安",
         "reading": "キュウアン",
-        "meaning": "Kyūan era (1145.7.22-1151.1.26)"
+        "meaning": "Kyūan era (1145.7.22-1151.1.26) |(vi) niên hiệu Kyūan (1145.7.22-1151.1.26)"
       },
       {
         "example": "恒久",
         "reading": "コウキュウ",
-        "meaning": "permanence, perpetuity"
+        "meaning": "permanence, perpetuity |(vi) sự vĩnh viễn, trường tồn"
       },
       {
         "example": "耐久",
         "reading": "タイキュウ",
-        "meaning": "endurance, persistence"
+        "meaning": "endurance, persistence |(vi) sự bền bỉ, tính chịu đựng"
       },
       {
         "example": "久留子",
         "reading": "クルス",
-        "meaning": "cross sign"
+        "meaning": "cross sign |(vi) dấu thánh giá"
       },
       {
         "example": "久遠",
         "reading": "クオン",
-        "meaning": "eternity"
+        "meaning": "eternity |(vi) vĩnh cửu"
       },
       {
         "example": "上手く行く",
         "reading": "ウマクイク",
-        "meaning": "to go smoothly, to turn out well, to do the trick, to have peaceful relations"
+        "meaning": "to go smoothly, to turn out well, to do the trick, to have peaceful relations |(vi) diễn ra suôn sẻ, thành công, có quan hệ hòa thuận"
       },
       {
         "example": "阿摩美久",
         "reading": "アマミキヨ",
-        "meaning": "Amamikyu (Ryukyuan religion creation goddess)"
+        "meaning": "Amamikyu (Ryukyuan religion creation goddess) |(vi) Amamikyu (nữ thần sáng thế trong tín ngưỡng Ryukyu)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "久しい",
         "reading": "ひさしい",
-        "meaning": "long (time that has passed), old (story)"
+        "meaning": "long (time that has passed), old (story) |(vi) lâu (thời gian đã trôi qua), cũ (chuyện xưa)"
       }
     ],
     "radical": {
       "symbol": "丿",
-      "meaning": "slash"
+      "meaning": "slash |(vi) Phiệt (nét phẩy)"
     },
     "parts": [
       "ノ",

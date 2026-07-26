@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ukagau, ukagai, ukaga",
-    "meaning": "inquire",
+    "meaning": "inquire |(vi) hỏi thăm, dò hỏi",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "奉伺する（ほうしする）",
         "meaning": {
-          "english": "inquire about (one's health)"
+          "english": "inquire about (one's health) |(vi) hỏi thăm sức khỏe (kính ngữ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ukaga(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "伺う（うかがう）",
         "meaning": {
-          "english": "visit, ask [hum.]"
+          "english": "visit, ask [hum.] |(vi) đến thăm, hỏi (khiêm nhường ngữ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ukaga(u)_06_b.opus",
@@ -120,7 +120,7 @@
     "kanji": {
       "character": "伺",
       "meaning": {
-        "english": "inquire"
+        "english": "inquire |(vi) hỏi thăm, dò hỏi"
       },
       "strokes": {
         "count": 7,
@@ -172,7 +172,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người, bộ nhân đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -193,7 +193,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "2209",
     "strokeCount": 7,
-    "meaning": "pay respects, visit, ask, inquire, question, implore",
+    "meaning": "pay respects, visit, ask, inquire, question, implore |(vi) kính viếng, đến thăm, hỏi, dò hỏi, chất vấn, khẩn cầu |(hv) Tứ",
     "kunyomi": [
       "うかが.う"
     ],
@@ -204,24 +204,24 @@
       {
         "example": "伺候",
         "reading": "シコウ",
-        "meaning": "waiting upon (someone)"
+        "meaning": "waiting upon (someone) |(vi) hầu hạ, chờ hầu (ai đó)"
       },
       {
         "example": "経伺",
         "reading": "ケイシ",
-        "meaning": "asking for instructions, consulting and obtaining approval"
+        "meaning": "asking for instructions, consulting and obtaining approval |(vi) xin chỉ thị, xin ý kiến và được phê chuẩn"
       },
       {
         "example": "奉伺",
         "reading": "ホウシ",
-        "meaning": "inquiring about (one's health)"
+        "meaning": "inquiring about (one's health) |(vi) hỏi thăm sức khỏe"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "伺う",
         "reading": "うかがう",
-        "meaning": "to call on someone, to call at a place, to pay a visit, to wait on someone, to ask, to inquire, to hear, to be told, to implore (a god for an oracle), to seek direction (from your superior), to speak to (a large crowd at a theatre, etc.)"
+        "meaning": "to call on someone, to call at a place, to pay a visit, to wait on someone, to ask, to inquire, to hear, to be told, to implore (a god for an oracle), to seek direction (from your superior), to speak to (a large crowd at a theatre, etc.) |(vi) đến thăm, ghé qua, viếng thăm, hầu hạ, hỏi, dò hỏi, nghe, được biết, khẩn cầu (thần linh cho lời sấm), xin chỉ thị (từ cấp trên), phát biểu (trước đám đông ở rạp hát...)"
       }
     ],
     "radical": {
@@ -229,7 +229,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "一",

@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "ue, uwa, kami, a, ageru, agaru, nobo, noboru",
-    "meaning": "up",
+    "meaning": "up |(vi) trên, ở trên",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "上下する（じょうげする）",
         "meaning": {
-          "english": "go up and down"
+          "english": "go up and down |(vi) lên xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "頂上（ちょうじょう）",
         "meaning": {
-          "english": "summit"
+          "english": "summit |(vi) đỉnh, chóp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "上手（じょうず）",
         "meaning": {
-          "english": "skillful"
+          "english": "skillful |(vi) giỏi, khéo léo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "以上（いじょう）",
         "meaning": {
-          "english": "more than, above"
+          "english": "more than, above |(vi) trở lên, hơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "上人（しょうにん）",
         "meaning": {
-          "english": "priest"
+          "english": "priest |(vi) cao tăng, vị sư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "上（うえ）",
         "meaning": {
-          "english": "above, on top, upper part of"
+          "english": "above, on top, upper part of |(vi) trên, phía trên, phần trên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "目上（めうえ）",
         "meaning": {
-          "english": "superior(s)"
+          "english": "superior(s) |(vi) bề trên, cấp trên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "上回る（うわまわる）",
         "meaning": {
-          "english": "exceed"
+          "english": "exceed |(vi) vượt quá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "川上（かわかみ）",
         "meaning": {
-          "english": "upper reaches of a river"
+          "english": "upper reaches of a river |(vi) thượng nguồn sông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "上がる（あがる）",
         "meaning": {
-          "english": "rise, climb up [v.i.]"
+          "english": "rise, climb up [v.i.] |(vi) lên, tăng lên (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "上げる（あげる）",
         "meaning": {
-          "english": "raise [v.t.]"
+          "english": "raise [v.t.] |(vi) nâng lên, tăng lên (ngoại động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "上る（のぼる）",
         "meaning": {
-          "english": "rise, climb up [v.i.]"
+          "english": "rise, climb up [v.i.] |(vi) lên, leo lên (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_l.opus",
@@ -323,7 +323,7 @@
     "kanji": {
       "character": "上",
       "meaning": {
-        "english": "up"
+        "english": "up |(vi) trên"
       },
       "strokes": {
         "count": 3,
@@ -367,7 +367,7 @@
         "romaji": "ichi"
       },
       "meaning": {
-        "english": "one, horizontal stroke"
+        "english": "one, horizontal stroke |(vi) Nhất (một, nét ngang)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ichi0.svg",
@@ -388,7 +388,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "35",
     "strokeCount": 3,
-    "meaning": "above, up",
+    "meaning": "above, up |(vi) trên, phía trên, ở trên |(hv) Thượng",
     "kunyomi": [
       "うえ",
       "-うえ",
@@ -415,154 +415,154 @@
       {
         "example": "上",
         "reading": "ジョウ",
-        "meaning": "from the standpoint of, from the viewpoint of, with respect to, in terms of, as a matter of, in view of, so far as ... is concerned, on, above, on top of, aboard (a ship or vehicle), the best, top, first class, first grade, first volume (of a two or three-volume set), first book, with my compliments"
+        "meaning": "from the standpoint of, from the viewpoint of, with respect to, in terms of, as a matter of, in view of, so far as ... is concerned, on, above, on top of, aboard (a ship or vehicle), the best, top, first class, first grade, first volume (of a two or three-volume set), first book, with my compliments |(vi) theo quan điểm của, xét về mặt, liên quan đến, trên, ở trên, trên (một con tàu hay phương tiện), tốt nhất, hạng nhất, tập một (trong bộ hai hoặc ba tập), với lời kính chúc của tôi"
       },
       {
         "example": "上位",
         "reading": "ジョウイ",
-        "meaning": "superior (in rank), top, ranking, higher order (e.g. byte), host computer (of connected device)"
+        "meaning": "superior (in rank), top, ranking, higher order (e.g. byte), host computer (of connected device) |(vi) cấp trên (về thứ bậc), hàng đầu, thứ hạng cao, bậc cao hơn (vd byte), máy chủ (của thiết bị kết nối)"
       },
       {
         "example": "口上",
         "reading": "コウジョウ",
-        "meaning": "vocal message, speech, statement, prologue at the start of a kabuki performance"
+        "meaning": "vocal message, speech, statement, prologue at the start of a kabuki performance |(vi) lời nói, bài phát biểu, lời tuyên bố, lời mở đầu buổi biểu diễn kabuki"
       },
       {
         "example": "水上",
         "reading": "スイジョウ",
-        "meaning": "on the water, aquatic, waterside, water's edge"
+        "meaning": "on the water, aquatic, waterside, water's edge |(vi) trên mặt nước, dưới nước, ven nước, mép nước"
       },
       {
         "example": "上人",
         "reading": "ショウニン",
-        "meaning": "holy priest, saint"
+        "meaning": "holy priest, saint |(vi) cao tăng, thánh tăng"
       },
       {
         "example": "上下",
         "reading": "ショウカ",
-        "meaning": "top and bottom, up and down, high and low, above and below, upper and lower ends, upper and lower classes, ruler and ruled, the government and the people"
+        "meaning": "top and bottom, up and down, high and low, above and below, upper and lower ends, upper and lower classes, ruler and ruled, the government and the people |(vi) trên dưới, lên xuống, cao thấp, tầng lớp trên và dưới, vua và dân, chính quyền và nhân dân"
       },
       {
         "example": "呈上",
         "reading": "テイジョウ",
-        "meaning": "giving, gifting, presenting"
+        "meaning": "giving, gifting, presenting |(vi) dâng tặng, biếu tặng"
       },
       {
         "example": "主上",
         "reading": "シュジョウ",
-        "meaning": "emperor"
+        "meaning": "emperor |(vi) hoàng đế, thiên tử"
       },
       {
         "example": "上海",
         "reading": "シャンハイ",
-        "meaning": "Shanghai (China)"
+        "meaning": "Shanghai (China) |(vi) Thượng Hải (Trung Quốc)"
       },
       {
         "example": "上湯",
         "reading": "シャンタン",
-        "meaning": "top-grade Chinese soup stock"
+        "meaning": "top-grade Chinese soup stock |(vi) nước dùng cao cấp của Trung Quốc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "上",
         "reading": "うえ",
-        "meaning": "above, over, up, top, summit, upper part, head (e.g. of a staircase), surface, on (top of), the above (in a piece of writing), earlier part, superior, better, higher (position, rank, etc.), upper (class), elder, older, senior, with respect to ..., in terms of, as far as ... is concerned, when (e.g. drunk), besides ..., in addition to ..., on top of ..., as well as ..., after ..., upon ..., on ..., with (e.g. full awareness), as a result of ..., since ..., now that ..., because ..., honorable, venerable, dear, emperor, sovereign, shogun, daimyo"
+        "meaning": "above, over, up, top, summit, upper part, head (e.g. of a staircase), surface, on (top of), the above (in a piece of writing), earlier part, superior, better, higher (position, rank, etc.), upper (class), elder, older, senior, with respect to ..., in terms of, as far as ... is concerned, when (e.g. drunk), besides ..., in addition to ..., on top of ..., as well as ..., after ..., upon ..., on ..., with (e.g. full awareness), as a result of ..., since ..., now that ..., because ..., honorable, venerable, dear, emperor, sovereign, shogun, daimyo |(vi) trên, phía trên, đỉnh, phần trên, đầu (cầu thang), bề mặt, ở trên, phần trên (trong văn bản), phần trước, cấp trên, tốt hơn, cao hơn (vị trí, cấp bậc...), tầng lớp trên, người lớn tuổi hơn, liên quan đến..., xét về..., khi (vd say rượu), ngoài ra..., thêm vào đó..., trên..., cùng với..., sau khi..., dựa trên..., với (vd hoàn toàn nhận thức), do kết quả của..., vì..., bây giờ khi..., bởi vì..., đáng kính, tôn kính, kính mến, hoàng đế, quân chủ, tướng quân, lãnh chúa"
       },
       {
         "example": "上向き",
         "reading": "うわむき",
-        "meaning": "pointing up, pointing upward, upturn, uptrend, upward tendency"
+        "meaning": "pointing up, pointing upward, upturn, uptrend, upward tendency |(vi) hướng lên, chỉ lên trên, xu hướng tăng, đà tăng"
       },
       {
         "example": "床上",
         "reading": "ゆかうえ",
-        "meaning": "on a floor, above floor level"
+        "meaning": "on a floor, above floor level |(vi) trên sàn, trên mức sàn nhà"
       },
       {
         "example": "一枚上",
         "reading": "いちまいうえ",
-        "meaning": "one step higher, one better, cut above, one up"
+        "meaning": "one step higher, one better, cut above, one up |(vi) cao hơn một bậc, nhỉnh hơn một chút, trội hơn"
       },
       {
         "example": "上",
         "reading": "かみ",
-        "meaning": "upper reaches (of a river), upper stream, top, upper part, upper half (of the body), long ago, beginning, first, person of high rank (e.g. the emperor), government, imperial court, imperial capital (i.e. Kyoto), capital region (i.e. Kansai), region (or direction of) the imperial palace, head (of a table), wife, mistress (of a restaurant)"
+        "meaning": "upper reaches (of a river), upper stream, top, upper part, upper half (of the body), long ago, beginning, first, person of high rank (e.g. the emperor), government, imperial court, imperial capital (i.e. Kyoto), capital region (i.e. Kansai), region (or direction of) the imperial palace, head (of a table), wife, mistress (of a restaurant) |(vi) thượng nguồn (của con sông), thượng lưu, đỉnh, phần trên, nửa trên (của cơ thể), ngày xưa, khởi đầu, đầu tiên, người có địa vị cao (vd hoàng đế), chính quyền, triều đình, kinh đô (tức Kyoto), vùng kinh đô (tức Kansai), vùng (hoặc hướng) hoàng cung, đầu (bàn), vợ, bà chủ (của nhà hàng)"
       },
       {
         "example": "上期",
         "reading": "かみき",
-        "meaning": "first half of the (fiscal) year"
+        "meaning": "first half of the (fiscal) year |(vi) nửa đầu năm (tài chính)"
       },
       {
         "example": "風上",
         "reading": "かざかみ",
-        "meaning": "windward, upwind"
+        "meaning": "windward, upwind |(vi) đầu gió, ngược gió"
       },
       {
         "example": "御上",
         "reading": "おかみ",
-        "meaning": "the Emperor, His Majesty, the government, the authorities, proprietress, hostess, landlady, mistress, your wife, his wife, (one's) master, lord"
+        "meaning": "the Emperor, His Majesty, the government, the authorities, proprietress, hostess, landlady, mistress, your wife, his wife, (one's) master, lord |(vi) hoàng đế, bệ hạ, chính quyền, nhà chức trách, bà chủ, nữ chủ nhân, bà chủ nhà trọ, tình nhân, vợ anh, vợ anh ấy, (chủ nhân của) mình, lãnh chúa"
       },
       {
         "example": "上げる",
         "reading": "あげる",
-        "meaning": "to raise, to elevate, to do up (one's hair), to fly (a kite, etc.), to launch (fireworks, etc.), to surface (a submarine, etc.), to land (a boat), to deep-fry, to show someone (into a room), to give, to send someone (away), to enrol (one's child in school), to enroll, to increase (price, quality, status, etc.), to develop (talent, skill), to improve, to make (a loud sound), to raise (one's voice), to earn (something desirable), to praise, to give (an example, etc.), to cite, to summon up (all of one's energy, etc.), to arrest, to nominate, to summon (for geishas, etc.), to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.), to bear (a child), to conduct (a ceremony, esp. a wedding), (of the tide) to come in, to vomit, to do for (the sake of someone else), to complete ..., to humbly do ..."
+        "meaning": "to raise, to elevate, to do up (one's hair), to fly (a kite, etc.), to launch (fireworks, etc.), to surface (a submarine, etc.), to land (a boat), to deep-fry, to show someone (into a room), to give, to send someone (away), to enrol (one's child in school), to enroll, to increase (price, quality, status, etc.), to develop (talent, skill), to improve, to make (a loud sound), to raise (one's voice), to earn (something desirable), to praise, to give (an example, etc.), to cite, to summon up (all of one's energy, etc.), to arrest, to nominate, to summon (for geishas, etc.), to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.), to bear (a child), to conduct (a ceremony, esp. a wedding), (of the tide) to come in, to vomit, to do for (the sake of someone else), to complete ..., to humbly do ... |(vi) nâng lên, tôn lên, búi (tóc), thả (diều...), phóng (pháo hoa...), nổi lên (tàu ngầm...), cập bến (thuyền), chiên (rán), mời ai vào (phòng), cho, tiễn ai (đi), cho con nhập học, ghi danh, tăng (giá, chất lượng, địa vị...), phát triển (tài năng, kỹ năng), cải thiện, phát ra (âm thanh lớn), lên (giọng), kiếm được (điều mong muốn), khen ngợi, đưa ra (ví dụ...), trích dẫn, dồn hết (sức lực...), bắt giữ, đề cử, mời (geisha...), dâng (hương, lời cầu nguyện...) lên thần (hay Phật...), sinh (con), tổ chức (nghi lễ, đặc biệt là đám cưới), (thủy triều) dâng lên, nôn, làm vì (lợi ích của người khác), hoàn thành..., khiêm tốn làm..."
       },
       {
         "example": "上がる",
         "reading": "あがる",
-        "meaning": "to rise, to go up, to come up, to ascend, to be raised, to enter (esp. from outdoors), to come in, to go in, to enter (a school), to advance to the next grade, to get out (of water), to come ashore, to increase, to improve, to make progress, to be promoted, to advance, to be made (of profit, etc.), to occur (esp. of a favourable result), to be adequate (to cover expenses, etc.), to be finished, to be done, to be over, to stop (of rain), to lift, to stop (working properly), to cut out, to give out, to die, to win (in a card game, etc.), to be arrested, to turn up (of evidence, etc.), to be deep fried, to be spoken loudly, to get nervous, to get stage fright, to be offered (to the gods, etc.), to go, to visit, to eat, to drink, to be listed (as a candidate), to serve (in one's master's home), to be complete, to finish, above, north of"
+        "meaning": "to rise, to go up, to come up, to ascend, to be raised, to enter (esp. from outdoors), to come in, to go in, to enter (a school), to advance to the next grade, to get out (of water), to come ashore, to increase, to improve, to make progress, to be promoted, to advance, to be made (of profit, etc.), to occur (esp. of a favourable result), to be adequate (to cover expenses, etc.), to be finished, to be done, to be over, to stop (of rain), to lift, to stop (working properly), to cut out, to give out, to die, to win (in a card game, etc.), to be arrested, to turn up (of evidence, etc.), to be deep fried, to be spoken loudly, to get nervous, to get stage fright, to be offered (to the gods, etc.), to go, to visit, to eat, to drink, to be listed (as a candidate), to serve (in one's master's home), to be complete, to finish, above, north of |(vi) dâng lên, đi lên, tiến lên, thăng lên, được nâng lên, vào (đặc biệt từ ngoài trời), đi vào, nhập học (trường), lên lớp tiếp theo, ra khỏi (nước), lên bờ, tăng lên, cải thiện, tiến bộ, được thăng chức, tiến triển, thu được (lợi nhuận...), xảy ra (đặc biệt kết quả thuận lợi), đủ (để trang trải chi phí...), hoàn tất, xong, kết thúc, tạnh (mưa), ngừng hoạt động, cắt đứt, hết, chết, thắng (trong trò chơi bài...), bị bắt, xuất hiện (bằng chứng...), được chiên giòn, được nói to, hồi hộp, khớp, được dâng lên (thần...), đi, ghé thăm, ăn, uống, được liệt kê (là ứng viên), phục vụ (tại nhà chủ), hoàn thành, kết thúc, phía trên, phía bắc của"
       },
       {
         "example": "上がり",
         "reading": "あがり",
-        "meaning": "rise, increase, ascent, income, takings, earnings, proceeds, (crop) yield, return, profit, completion, end, finish, end result (e.g. of crafts), how something comes out, finish, finishing (in a board or card game, etc.), green tea (esp. in a sushi restaurant), after (rain, illness, etc.), ex- (e.g. ex-bureaucrat), former"
+        "meaning": "rise, increase, ascent, income, takings, earnings, proceeds, (crop) yield, return, profit, completion, end, finish, end result (e.g. of crafts), how something comes out, finish, finishing (in a board or card game, etc.), green tea (esp. in a sushi restaurant), after (rain, illness, etc.), ex- (e.g. ex-bureaucrat), former |(vi) tăng, gia tăng, lên, thu nhập, tiền thu được, lợi nhuận, thu hoạch (mùa vụ), lợi tức, hoàn thành, kết thúc, kết quả cuối cùng (vd của thủ công), cách mọi thứ diễn ra, hoàn thiện, kết thúc (trong trò chơi cờ hoặc bài...), trà xanh (đặc biệt ở nhà hàng sushi), sau (mưa, bệnh...), cựu- (vd cựu quan chức), nguyên"
       },
       {
         "example": "上がり下り",
         "reading": "あがりおり",
-        "meaning": "going up and down, ascent and descent"
+        "meaning": "going up and down, ascent and descent |(vi) lên xuống, đi lên đi xuống"
       },
       {
         "example": "芸者上がり",
         "reading": "げいしゃあがり",
-        "meaning": "ex-geisha, former geisha"
+        "meaning": "ex-geisha, former geisha |(vi) cựu geisha"
       },
       {
         "example": "上る",
         "reading": "のぼる",
-        "meaning": "to ascend, to go up, to climb, to ascend (as a natural process, e.g. the Sun), to rise, to go to (the capital), to be promoted, to add up to, to advance (in price), to swim up (a river), to sail up, to come up (on the agenda)"
+        "meaning": "to ascend, to go up, to climb, to ascend (as a natural process, e.g. the Sun), to rise, to go to (the capital), to be promoted, to add up to, to advance (in price), to swim up (a river), to sail up, to come up (on the agenda) |(vi) lên, đi lên, leo lên, mọc lên (như một quá trình tự nhiên, vd mặt trời), dâng lên, đi lên (kinh đô), được thăng chức, cộng lại thành, tăng (giá), bơi ngược (sông), đi ngược dòng, được đưa ra (bàn bạc)"
       },
       {
         "example": "上り",
         "reading": "のぼり",
-        "meaning": "ascent, climbing, ascending (path), climb, up-train, train heading toward the starting point of its route, upbound (esp. toward Tokyo), upstream, uphill"
+        "meaning": "ascent, climbing, ascending (path), climb, up-train, train heading toward the starting point of its route, upbound (esp. toward Tokyo), upstream, uphill |(vi) sự đi lên, leo lên, đường lên (dốc), leo trèo, tàu hướng lên, tàu hướng về điểm xuất phát của tuyến (đặc biệt hướng về Tokyo), ngược dòng, lên dốc"
       },
       {
         "example": "上り下り",
         "reading": "のぼりくだり",
-        "meaning": "going up and down, ascent and descent, climb and descent"
+        "meaning": "going up and down, ascent and descent, climb and descent |(vi) lên xuống, lên dốc xuống dốc"
       },
       {
         "example": "逆上せる",
         "reading": "のぼせる",
-        "meaning": "to feel dizzy, to have blood rush to one's head, to lose one's cool, to be obsessed, to be infatuated, to become conceited"
+        "meaning": "to feel dizzy, to have blood rush to one's head, to lose one's cool, to be obsessed, to be infatuated, to become conceited |(vi) cảm thấy chóng mặt, máu dồn lên đầu, mất bình tĩnh, bị ám ảnh, si mê, trở nên kiêu ngạo"
       },
       {
         "example": "上せる",
         "reading": "のぼせる",
-        "meaning": "to raise, to record, to bring up (a matter), to serve (food), to send some on out"
+        "meaning": "to raise, to record, to bring up (a matter), to serve (food), to send some on out |(vi) nâng lên, ghi lại, đưa ra (một vấn đề), phục vụ (món ăn), tiễn ai đó ra ngoài"
       },
       {
         "example": "上す",
         "reading": "のぼす",
-        "meaning": "to raise, to record, to bring up (a matter), to serve (food), to send someone out"
+        "meaning": "to raise, to record, to bring up (a matter), to serve (food), to send someone out |(vi) nâng lên, ghi lại, đưa ra (một vấn đề), phục vụ (món ăn), tiễn ai đó ra ngoài"
       }
     ],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": "one |(vi) Nhất (một, nét ngang)"
     },
     "parts": [
       "一",

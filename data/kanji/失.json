@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "ushina, ushinau",
-    "meaning": "lose, slip",
+    "meaning": "lose, slip |(vi) mất, để vuột, sai sót",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "失礼する（しつれいする）",
         "meaning": {
-          "english": "be impolite"
+          "english": "be impolite |(vi) thất lễ, vô lễ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "失業する（しつぎょうする）",
         "meaning": {
-          "english": "become unemployed"
+          "english": "become unemployed |(vi) thất nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "失望する（しつぼうする）",
         "meaning": {
-          "english": "be disappointed"
+          "english": "be disappointed |(vi) thất vọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "失敗する（しっぱいする）",
         "meaning": {
-          "english": "fail"
+          "english": "fail |(vi) thất bại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "失言（しつげん）",
         "meaning": {
-          "english": "improper words"
+          "english": "improper words |(vi) lỡ lời, nói hớ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "喪失（そうしつ）",
         "meaning": {
-          "english": "loss"
+          "english": "loss |(vi) mất mát, tổn thất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "過失（かしつ）",
         "meaning": {
-          "english": "mistake, error, accident"
+          "english": "mistake, error, accident |(vi) sai sót, lỗi lầm, sơ suất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "失う（うしなう）",
         "meaning": {
-          "english": "lose"
+          "english": "lose |(vi) mất, đánh mất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_h.opus",
@@ -253,7 +253,7 @@
     "kanji": {
       "character": "失",
       "meaning": {
-        "english": "lose, slip"
+        "english": "lose, slip |(vi) mất, để vuột, sai sót"
       },
       "strokes": {
         "count": 5,
@@ -301,7 +301,7 @@
         "romaji": "dai"
       },
       "meaning": {
-        "english": "large, big"
+        "english": "large, big |(vi) Đại (to lớn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/dai0.svg",
@@ -322,7 +322,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "447",
     "strokeCount": 5,
-    "meaning": "lose, error, fault, disadvantage, loss",
+    "meaning": "lose, error, fault, disadvantage, loss |(vi) mất, sai sót, lỗi lầm, bất lợi, tổn thất |(hv) Thất",
     "kunyomi": [
       "うしな.う",
       "う.せる"
@@ -334,39 +334,39 @@
       {
         "example": "失",
         "reading": "シツ",
-        "meaning": "loss (of something), disadvantage, mistake, error, failure, flaw, defect, error"
+        "meaning": "loss (of something), disadvantage, mistake, error, failure, flaw, defect, error |(vi) sự mất mát, bất lợi, sai lầm, lỗi, thất bại, khuyết điểm"
       },
       {
         "example": "失業",
         "reading": "シツギョウ",
-        "meaning": "unemployment, losing one's job, becoming unemployed"
+        "meaning": "unemployment, losing one's job, becoming unemployed |(vi) thất nghiệp, mất việc làm"
       },
       {
         "example": "得失",
         "reading": "トクシツ",
-        "meaning": "advantages and disadvantages, plus and minuses"
+        "meaning": "advantages and disadvantages, plus and minuses |(vi) được và mất, lợi và hại"
       },
       {
         "example": "敵失",
         "reading": "テキシツ",
-        "meaning": "error made by the enemy or opposing team"
+        "meaning": "error made by the enemy or opposing team |(vi) lỗi của đối phương/đội đối thủ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "失う",
         "reading": "うしなう",
-        "meaning": "to lose, to miss (a chance, opportunity), to lose (a loved one), to be bereaved of, to concede (goals, points, etc.)"
+        "meaning": "to lose, to miss (a chance, opportunity), to lose (a loved one), to be bereaved of, to concede (goals, points, etc.) |(vi) mất, bỏ lỡ (cơ hội), mất (người thân), để thủng lưới/nhường điểm"
       },
       {
         "example": "失せる",
         "reading": "うせる",
-        "meaning": "to disappear, to vanish, to fade away, to go, to leave, to die"
+        "meaning": "to disappear, to vanish, to fade away, to go, to leave, to die |(vi) biến mất, tan biến, phai nhạt, ra đi, chết"
       }
     ],
     "radical": {
       "symbol": "大",
-      "meaning": "big, very"
+      "meaning": "big, very |(vi) Đại (to lớn)"
     },
     "parts": [
       "ノ",

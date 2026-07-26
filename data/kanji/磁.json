@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "magnetism, magnetic",
+    "meaning": "magnetism, magnetic |(vi) từ tính, có từ tính",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "磁石（じしゃく）",
         "meaning": {
-          "english": "magnet"
+          "english": "magnet |(vi) nam châm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji(ryoku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "磁力（じりょく）",
         "meaning": {
-          "english": "magnetism, magnetic force"
+          "english": "magnetism, magnetic force |(vi) từ lực, lực từ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji(ryoku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "磁気（じき）",
         "meaning": {
-          "english": "magnetism"
+          "english": "magnetism |(vi) từ tính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji(ryoku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "磁場（じば）",
         "meaning": {
-          "english": "magnetic field"
+          "english": "magnetic field |(vi) từ trường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji(ryoku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "磁極（じきょく）",
         "meaning": {
-          "english": "magnetic pole"
+          "english": "magnetic pole |(vi) cực từ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji(ryoku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "磁器（じき）",
         "meaning": {
-          "english": "porcelain, china"
+          "english": "porcelain, china |(vi) đồ sứ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji(ryoku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "電磁波（でんじは）",
         "meaning": {
-          "english": "electromagnetic waves"
+          "english": "electromagnetic waves |(vi) sóng điện từ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji(ryoku)_06_g.opus",
@@ -174,7 +174,7 @@
     "kanji": {
       "character": "磁",
       "meaning": {
-        "english": "magnetism, magnetic"
+        "english": "magnetism, magnetic |(vi) từ tính, có từ tính"
       },
       "strokes": {
         "count": 14,
@@ -240,7 +240,7 @@
         "romaji": "ishihen"
       },
       "meaning": {
-        "english": "stone"
+        "english": "stone |(vi) Thạch (đá)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ishihen0.svg",
@@ -261,7 +261,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1686",
     "strokeCount": 14,
-    "meaning": "magnet, porcelain",
+    "meaning": "magnet, porcelain |(vi) nam châm, đồ sứ |(hv) Từ",
     "kunyomi": [],
     "onyomi": [
       "ジ"
@@ -270,28 +270,28 @@
       {
         "example": "磁石",
         "reading": "ジシャク",
-        "meaning": "magnet, compass"
+        "meaning": "magnet, compass |(vi) nam châm, la bàn"
       },
       {
         "example": "磁気",
         "reading": "ジキ",
-        "meaning": "magnetism"
+        "meaning": "magnetism |(vi) từ tính"
       },
       {
         "example": "電磁",
         "reading": "デンジ",
-        "meaning": "electromagnetic"
+        "meaning": "electromagnetic |(vi) điện từ"
       },
       {
         "example": "陶磁",
         "reading": "トウジ",
-        "meaning": "clay"
+        "meaning": "clay |(vi) gốm sứ"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "石",
-      "meaning": "stone"
+      "meaning": "stone |(vi) Thạch (đá)"
     },
     "parts": [
       "一",

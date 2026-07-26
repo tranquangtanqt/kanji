@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "prefecture",
+    "meaning": "prefecture |(vi) tỉnh (đơn vị hành chính của Nhật Bản)",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "県（けん）",
         "meaning": {
-          "english": "prefecture"
+          "english": "prefecture |(vi) tỉnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(chiji)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "県庁（けんちょう）",
         "meaning": {
-          "english": "prefectural office"
+          "english": "prefectural office |(vi) văn phòng tỉnh, tòa hành chính tỉnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(chiji)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "県民（けんみん）",
         "meaning": {
-          "english": "citizens of a prefecture"
+          "english": "citizens of a prefecture |(vi) người dân trong tỉnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(chiji)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "県立（けんりつ）",
         "meaning": {
-          "english": "prefecturally run"
+          "english": "prefecturally run |(vi) do tỉnh quản lý, công lập cấp tỉnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(chiji)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "県道（けんどう）",
         "meaning": {
-          "english": "prefectural road"
+          "english": "prefectural road |(vi) tỉnh lộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(chiji)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "県知事（けんちじ）",
         "meaning": {
-          "english": "prefectural governor"
+          "english": "prefectural governor |(vi) tỉnh trưởng, thống đốc tỉnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(chiji)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "広島県（ひろしまけん）",
         "meaning": {
-          "english": "Hiroshima prefecture"
+          "english": "Hiroshima prefecture |(vi) tỉnh Hiroshima"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(chiji)_06_g.opus",
@@ -200,7 +200,7 @@
     "kanji": {
       "character": "県",
       "meaning": {
-        "english": "prefecture"
+        "english": "prefecture |(vi) tỉnh (đơn vị hành chính của Nhật Bản)"
       },
       "strokes": {
         "count": 9,
@@ -256,7 +256,7 @@
         "romaji": "me"
       },
       "meaning": {
-        "english": "eye"
+        "english": "eye |(vi) Mục (mắt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/me0.svg",
@@ -277,7 +277,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "140",
     "strokeCount": 9,
-    "meaning": "prefecture",
+    "meaning": "prefecture |(vi) tỉnh |(hv) Huyện",
     "kunyomi": [
       "か.ける"
     ],
@@ -288,28 +288,28 @@
       {
         "example": "県",
         "reading": "ケン",
-        "meaning": "prefecture (of Japan), county (of China, Taiwan, Norway, etc.), department (of France), province (of Italy, Spain, etc.)"
+        "meaning": "prefecture (of Japan), county (of China, Taiwan, Norway, etc.), department (of France), province (of Italy, Spain, etc.) |(vi) tỉnh (Nhật Bản), quận/hạt (Trung Quốc, Đài Loan, Na Uy...), tỉnh (Pháp), tỉnh (Ý, Tây Ban Nha...)"
       },
       {
         "example": "県営",
         "reading": "ケンエイ",
-        "meaning": "(under) prefectural management"
+        "meaning": "(under) prefectural management |(vi) do tỉnh quản lý, công lập cấp tỉnh"
       },
       {
         "example": "都道府県",
         "reading": "トドウフケン",
-        "meaning": "prefectures (of Japan), largest administrative divisions of Japan: Tokyo-to, Osaka-fu, Kyoto-fu, Hokkaido and the remaining prefectures"
+        "meaning": "prefectures (of Japan), largest administrative divisions of Japan: Tokyo-to, Osaka-fu, Kyoto-fu, Hokkaido and the remaining prefectures |(vi) các đơn vị hành chính cấp tỉnh của Nhật Bản (đô, đạo, phủ, huyện): Tokyo-to, Osaka-fu, Kyoto-fu, Hokkaido và các tỉnh còn lại"
       },
       {
         "example": "同県",
         "reading": "ドウケン",
-        "meaning": "the same prefecture, the said prefecture"
+        "meaning": "the same prefecture, the said prefecture |(vi) cùng tỉnh, tỉnh nói trên"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "目",
-      "meaning": "eye"
+      "meaning": "eye |(vi) Mục (mắt)"
     },
     "parts": [
       "小",

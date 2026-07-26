@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "uji",
-    "meaning": "courtesy title, family name, lineage",
+    "meaning": "courtesy title, family name, lineage |(vi) danh xưng lịch sự, họ, dòng dõi",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "氏名（しめい）",
         "meaning": {
-          "english": "full name, identity"
+          "english": "full name, identity |(vi) họ tên đầy đủ, danh tính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-uji_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "氏族（しぞく）",
         "meaning": {
-          "english": "clan, family"
+          "english": "clan, family |(vi) thị tộc, gia tộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-uji_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "田中氏（たなかし）",
         "meaning": {
-          "english": "Mr. Tanaka"
+          "english": "Mr. Tanaka |(vi) ông Tanaka"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-uji_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "彼氏（かれし）",
         "meaning": {
-          "english": "boyfriend"
+          "english": "boyfriend |(vi) bạn trai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-uji_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "摂氏（せっし）",
         "meaning": {
-          "english": "Centigrade, Celsius"
+          "english": "Centigrade, Celsius |(vi) độ C, Celsius"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-uji_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "華氏（かし）",
         "meaning": {
-          "english": "Fahrenheit"
+          "english": "Fahrenheit |(vi) độ F, Fahrenheit"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-uji_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "氏（うじ）",
         "meaning": {
-          "english": "lineage, family, Mr."
+          "english": "lineage, family, Mr. |(vi) dòng dõi, gia tộc, ngài, ông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-uji_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "氏神（うじがみ）",
         "meaning": {
-          "english": "Shinto god, patron god"
+          "english": "Shinto god, patron god |(vi) thần Thần đạo, thần bảo hộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-uji_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "氏素性（うじすじょう）",
         "meaning": {
-          "english": "(a person's) family background"
+          "english": "(a person's) family background |(vi) gia thế, lai lịch (của một người)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-uji_06_i.opus",
@@ -216,7 +216,7 @@
     "kanji": {
       "character": "氏",
       "meaning": {
-        "english": "courtesy title, family name, lineage"
+        "english": "courtesy title, family name, lineage |(vi) danh xưng lịch sự, họ, dòng dõi"
       },
       "strokes": {
         "count": 4,
@@ -262,7 +262,7 @@
         "romaji": "uji"
       },
       "meaning": {
-        "english": "family, clan"
+        "english": "family, clan |(vi) Thị (gia tộc, dòng họ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/uji0.svg",
@@ -283,7 +283,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "84",
     "strokeCount": 4,
-    "meaning": "family name, surname, clan",
+    "meaning": "family name, surname, clan |(vi) họ, tên họ, thị tộc |(hv) Thị",
     "kunyomi": [
       "うじ",
       "-うじ"
@@ -295,49 +295,49 @@
       {
         "example": "氏",
         "reading": "シ",
-        "meaning": "Mr, Mrs, Ms, Miss, clan, he, him, counter for people"
+        "meaning": "Mr, Mrs, Ms, Miss, clan, he, him, counter for people |(vi) ông, bà, cô, thị tộc, anh ấy, ông ấy, lượng từ đếm người"
       },
       {
         "example": "氏族",
         "reading": "シゾク",
-        "meaning": "clan, family"
+        "meaning": "clan, family |(vi) thị tộc, gia tộc"
       },
       {
         "example": "両氏",
         "reading": "リョウシ",
-        "meaning": "both persons"
+        "meaning": "both persons |(vi) cả hai người (nói trên)"
       },
       {
         "example": "同氏",
         "reading": "ドウシ",
-        "meaning": "the said person, he, she, same surname"
+        "meaning": "the said person, he, she, same surname |(vi) người đã nói ở trên, anh ấy, chị ấy, cùng họ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "氏",
         "reading": "うじ",
-        "meaning": "family name, lineage, birth, clan"
+        "meaning": "family name, lineage, birth, clan |(vi) họ, dòng dõi, xuất thân, thị tộc"
       },
       {
         "example": "氏名",
         "reading": "しめい",
-        "meaning": "(full) name, identity"
+        "meaning": "(full) name, identity |(vi) họ tên (đầy đủ), danh tính"
       },
       {
         "example": "杜氏",
         "reading": "とうじ",
-        "meaning": "chief brewer at a sake brewery"
+        "meaning": "chief brewer at a sake brewery |(vi) người thợ nấu rượu sake trưởng ở xưởng rượu"
       },
       {
         "example": "漢氏",
         "reading": "あやうじ",
-        "meaning": "Aya clan"
+        "meaning": "Aya clan |(vi) họ Aya (một thị tộc)"
       }
     ],
     "radical": {
       "symbol": "氏",
-      "meaning": "clan"
+      "meaning": "clan |(vi) Thị (gia tộc, dòng họ)"
     },
     "parts": [
       "氏"

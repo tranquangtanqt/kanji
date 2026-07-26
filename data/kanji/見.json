@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "mi, miru, mieru, miseru",
-    "meaning": "see",
+    "meaning": "see |(vi) nhìn, xem, thấy",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "見学する（けんがくする）",
         "meaning": {
-          "english": "study, take a research trip"
+          "english": "study, take a research trip |(vi) đi tham quan học tập, khảo sát thực tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "発見する（はっけんする）",
         "meaning": {
-          "english": "discover"
+          "english": "discover |(vi) phát hiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "拝見する（はいけんする）",
         "meaning": {
-          "english": "take a look at [hum.]"
+          "english": "take a look at [hum.] |(vi) kính xem, xem (khiêm nhường)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "意見（いけん）",
         "meaning": {
-          "english": "opinion"
+          "english": "opinion |(vi) ý kiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "偏見（へんけん）",
         "meaning": {
-          "english": "prejudice"
+          "english": "prejudice |(vi) thành kiến, định kiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "見る（みる）",
         "meaning": {
-          "english": "see"
+          "english": "see |(vi) nhìn, xem, thấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "見つかる（みつかる）",
         "meaning": {
-          "english": "be found [v.i.]"
+          "english": "be found [v.i.] |(vi) được tìm thấy, bị phát hiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "見つける（みつける）",
         "meaning": {
-          "english": "find [v.t.]"
+          "english": "find [v.t.] |(vi) tìm thấy, tìm ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "見える（みえる）",
         "meaning": {
-          "english": "be seen, seem"
+          "english": "be seen, seem |(vi) có thể nhìn thấy, trông có vẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "見せる（みせる）",
         "meaning": {
-          "english": "show"
+          "english": "show |(vi) cho xem, chỉ cho thấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "花見（はなみ）",
         "meaning": {
-          "english": "cherry-blossom viewing"
+          "english": "cherry-blossom viewing |(vi) ngắm hoa anh đào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_k.opus",
@@ -304,7 +304,7 @@
     "kanji": {
       "character": "見",
       "meaning": {
-        "english": "see"
+        "english": "see |(vi) nhìn, xem, thấy"
       },
       "strokes": {
         "count": 7,
@@ -356,7 +356,7 @@
         "romaji": "miru"
       },
       "meaning": {
-        "english": "to see"
+        "english": "to see |(vi) Kiến (nhìn, xem)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/miru0.svg",
@@ -377,7 +377,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "22",
     "strokeCount": 7,
-    "meaning": "see, hopes, chances, idea, opinion, look at, visible",
+    "meaning": "see, hopes, chances, idea, opinion, look at, visible |(vi) nhìn, xem, thấy, hy vọng, cơ hội, ý tưởng, ý kiến, có thể thấy được |(hv) Kiến",
     "kunyomi": [
       "み.る",
       "み.える",
@@ -390,54 +390,54 @@
       {
         "example": "見",
         "reading": "ケン",
-        "meaning": "view (of life, etc.), outlook"
+        "meaning": "view (of life, etc.), outlook |(vi) quan điểm (về cuộc sống...), cách nhìn nhận"
       },
       {
         "example": "見解",
         "reading": "ケンカイ",
-        "meaning": "opinion, point of view"
+        "meaning": "opinion, point of view |(vi) kiến giải, quan điểm, ý kiến"
       },
       {
         "example": "後見",
         "reading": "コウケン",
-        "meaning": "guardianship, guardian, (theatrical) assistant, prompter"
+        "meaning": "guardianship, guardian, (theatrical) assistant, prompter |(vi) sự giám hộ, người giám hộ, người trợ lý (trong kịch), người nhắc tuồng"
       },
       {
         "example": "政見",
         "reading": "セイケン",
-        "meaning": "political views"
+        "meaning": "political views |(vi) chính kiến, quan điểm chính trị"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "見る",
         "reading": "みる",
-        "meaning": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ..."
+        "meaning": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ... |(vi) nhìn, xem, quan sát, kiểm tra, đánh giá, chăm sóc, trải nghiệm, gặp phải (may rủi...), thử làm..., xem như là..., nhận thấy rằng..."
       },
       {
         "example": "見る見る",
         "reading": "みるみる",
-        "meaning": "very fast, in a twinkle, before one's eyes"
+        "meaning": "very fast, in a twinkle, before one's eyes |(vi) rất nhanh, trong chớp mắt, ngay trước mắt"
       },
       {
         "example": "見える",
         "reading": "みえる",
-        "meaning": "to be seen, to be visible, to be in sight, to look, to seem, to appear, to come"
+        "meaning": "to be seen, to be visible, to be in sight, to look, to seem, to appear, to come |(vi) có thể nhìn thấy, hiện ra, trông có vẻ, xuất hiện, đến (kính ngữ)"
       },
       {
         "example": "見える化",
         "reading": "みえるか",
-        "meaning": "visualization, rendering visible (e.g. a problem), digitization"
+        "meaning": "visualization, rendering visible (e.g. a problem), digitization |(vi) trực quan hóa, hiển thị hóa (vấn đề), số hóa"
       },
       {
         "example": "見せる",
         "reading": "みせる",
-        "meaning": "to show, to display, to make (something or someone) look ..., to present an appearance of ..., to make (something) worth watching, to be entertaining, to have (something) looked at (by a specialist), to have (an antique, etc.) appraised, to have (an injury, person, etc.) looked at (by a doctor), to take (someone) to a doctor, to make a show of (doing), to do in a conspicuous manner, to do in view of others, to resolve to do, to do at any cost, to show others that one will ..."
+        "meaning": "to show, to display, to make (something or someone) look ..., to present an appearance of ..., to make (something) worth watching, to be entertaining, to have (something) looked at (by a specialist), to have (an antique, etc.) appraised, to have (an injury, person, etc.) looked at (by a doctor), to take (someone) to a doctor, to make a show of (doing), to do in a conspicuous manner, to do in view of others, to resolve to do, to do at any cost, to show others that one will ... |(vi) cho xem, trình bày, làm cho trông có vẻ..., thể hiện dáng vẻ..., làm cho đáng xem, gây ấn tượng, cho (chuyên gia) xem, đưa đi khám bệnh, cố tình làm cho người khác thấy, quyết tâm làm bằng mọi giá"
       }
     ],
     "radical": {
       "symbol": "見",
-      "meaning": "see"
+      "meaning": "see |(vi) Kiến (nhìn, xem, thấy)"
     },
     "parts": [
       "儿",

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "motto, mottomo",
-    "meaning": "most",
+    "meaning": "most |(vi) nhất, cực kỳ, hơn hết",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "最後（さいご）",
         "meaning": {
-          "english": "last"
+          "english": "last |(vi) tối hậu (cuối cùng, sau cùng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-motto(mo)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "最初（さいしょ）",
         "meaning": {
-          "english": "first"
+          "english": "first |(vi) tối sơ (đầu tiên, ban đầu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-motto(mo)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "最近（さいきん）",
         "meaning": {
-          "english": "recently"
+          "english": "recently |(vi) tối cận (gần đây, mới đây)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-motto(mo)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "最高（さいこう）",
         "meaning": {
-          "english": "best"
+          "english": "best |(vi) tối cao (cao nhất, tốt nhất)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-motto(mo)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "最低（さいてい）",
         "meaning": {
-          "english": "worst"
+          "english": "worst |(vi) tối đê (thấp nhất, tệ nhất)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-motto(mo)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "最大（さいだい）",
         "meaning": {
-          "english": "largest"
+          "english": "largest |(vi) tối đại (lớn nhất)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-motto(mo)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "最小（さいしょう）",
         "meaning": {
-          "english": "smallest"
+          "english": "smallest |(vi) tối tiểu (nhỏ nhất)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-motto(mo)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "最長（さいちょう）",
         "meaning": {
-          "english": "longest"
+          "english": "longest |(vi) tối trường (dài nhất)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-motto(mo)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "最短（さいたん）",
         "meaning": {
-          "english": "shortest"
+          "english": "shortest |(vi) tối đoản (ngắn nhất)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-motto(mo)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "最新（さいしん）",
         "meaning": {
-          "english": "latest"
+          "english": "latest |(vi) tối tân (mới nhất)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-motto(mo)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "最も（もっとも）",
         "meaning": {
-          "english": "most"
+          "english": "most |(vi) nhất, hơn cả, nhất là"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-motto(mo)_06_k.opus",
@@ -299,7 +299,7 @@
     "kanji": {
       "character": "最",
       "meaning": {
-        "english": "most"
+        "english": "most |(vi) nhất, cực kỳ, hơn hết"
       },
       "strokes": {
         "count": 12,
@@ -361,7 +361,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi0.svg",
@@ -382,7 +382,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "82",
     "strokeCount": 12,
-    "meaning": "utmost, most, extreme",
+    "meaning": "utmost, most, extreme |(vi) tột bậc, nhất, cực độ |(hv) Tối",
     "kunyomi": [
       "もっと.も",
       "つま"
@@ -395,29 +395,29 @@
       {
         "example": "最",
         "reading": "サイ",
-        "meaning": "the most, the extreme, prime, conspicuous"
+        "meaning": "the most, the extreme, prime, conspicuous |(vi) nhất, tột cùng, hàng đầu, nổi bật"
       },
       {
         "example": "最悪",
         "reading": "サイアク",
-        "meaning": "worst, horrible, horrid, awful, terrible, in the worst case, if worst comes to worst"
+        "meaning": "worst, horrible, horrid, awful, terrible, in the worst case, if worst comes to worst |(vi) tối ác (tệ nhất, kinh khủng, trong trường hợp xấu nhất)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "最も",
         "reading": "もっとも",
-        "meaning": "most, extremely"
+        "meaning": "most, extremely |(vi) nhất, cực kỳ"
       },
       {
         "example": "最も近い共通祖先",
         "reading": "もっともちかいきょうつうそせん",
-        "meaning": "most recent common ancestor"
+        "meaning": "most recent common ancestor |(vi) tổ tiên chung gần nhất"
       }
     ],
     "radical": {
       "symbol": "曰",
-      "meaning": "say"
+      "meaning": "say |(vi) Viết (nói, rằng)"
     },
     "parts": [
       "一",

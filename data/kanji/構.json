@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 3,
     "kunyomi": "kama, kamaeru, kamau",
-    "meaning": "construct, mind",
+    "meaning": "construct, mind |(vi) xây dựng, chú ý, để tâm",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "構造（こうぞう）",
         "meaning": {
-          "english": "structure [n.]"
+          "english": "structure [n.] |(vi) cấu trúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kama(eru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "構図（こうず）",
         "meaning": {
-          "english": "composition (of a painting)"
+          "english": "composition (of a painting) |(vi) bố cục (tranh vẽ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kama(eru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "構内（こうない）",
         "meaning": {
-          "english": "campus, premises"
+          "english": "campus, premises |(vi) khuôn viên, khu vực bên trong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kama(eru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "構成する（こうせいする）",
         "meaning": {
-          "english": "compose"
+          "english": "compose |(vi) cấu thành, tạo thành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kama(eru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "構想する（こうそうする）",
         "meaning": {
-          "english": "plot [v.t.]"
+          "english": "plot [v.t.] |(vi) lập kế hoạch, phác thảo ý tưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kama(eru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "結構な（けっこうな）",
         "meaning": {
-          "english": "wonderful, well enough"
+          "english": "wonderful, well enough |(vi) tuyệt vời, khá tốt, được rồi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kama(eru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "構う（かまう）",
         "meaning": {
-          "english": "be concerned about [v.t.]"
+          "english": "be concerned about [v.t.] |(vi) để tâm, quan tâm đến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kama(eru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "構える（かまえる）",
         "meaning": {
-          "english": "hold, have"
+          "english": "hold, have |(vi) giữ tư thế, chuẩn bị sẵn sàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kama(eru)_06_h.opus",
@@ -222,7 +222,7 @@
     "kanji": {
       "character": "構",
       "meaning": {
-        "english": "construct, mind"
+        "english": "construct, mind |(vi) xây dựng, chú ý, để tâm"
       },
       "strokes": {
         "count": 14,
@@ -288,7 +288,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -309,7 +309,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "316",
     "strokeCount": 14,
-    "meaning": "posture, stance, appearance, build, set up",
+    "meaning": "posture, stance, appearance, build, set up |(vi) tư thế, dáng vẻ, hình dáng, xây dựng, thiết lập |(hv) Cấu",
     "kunyomi": [
       "かま.える",
       "かま.う"
@@ -321,44 +321,44 @@
       {
         "example": "構成",
         "reading": "コウセイ",
-        "meaning": "composition, construction, formation, makeup, structure, organization, organisation"
+        "meaning": "composition, construction, formation, makeup, structure, organization, organisation |(vi) cấu thành, cấu trúc, hình thành, tổ chức"
       },
       {
         "example": "構図",
         "reading": "コウズ",
-        "meaning": "composition (of painting), structural outline, compositional arrangement"
+        "meaning": "composition (of painting), structural outline, compositional arrangement |(vi) bố cục (tranh vẽ), dàn ý cấu trúc, cách sắp xếp bố cục"
       },
       {
         "example": "遺構",
         "reading": "イコウ",
-        "meaning": "(archaeological) remains, remnants (of ancient structures), ancient foundation"
+        "meaning": "(archaeological) remains, remnants (of ancient structures), ancient foundation |(vi) di tích khảo cổ, tàn tích công trình cổ, nền móng cổ"
       },
       {
         "example": "外構え",
         "reading": "ソトガマエ",
-        "meaning": "outward appearance (of a house), exterior, external structure (of a building; e.g. gate, fence, garage), exterior structure"
+        "meaning": "outward appearance (of a house), exterior, external structure (of a building; e.g. gate, fence, garage), exterior structure |(vi) vẻ ngoài (của ngôi nhà), kết cấu bên ngoài (cổng, hàng rào, ga-ra)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "構える",
         "reading": "かまえる",
-        "meaning": "to set up (a house, store, etc.), to build, to establish, to run, to maintain, to have at the ready (e.g. a gun), to hold in preparation (e.g. a camera), to prepare in advance (e.g. a meal), to adopt a posture, to assume a stance, to stand ready, to be poised for, to put on an air, to assume an attitude, to stiffen, to tense up, to become formal, to fabricate in order to deceive, to make up, to feign, to plan, to scheme"
+        "meaning": "to set up (a house, store, etc.), to build, to establish, to run, to maintain, to have at the ready (e.g. a gun), to hold in preparation (e.g. a camera), to prepare in advance (e.g. a meal), to adopt a posture, to assume a stance, to stand ready, to be poised for, to put on an air, to assume an attitude, to stiffen, to tense up, to become formal, to fabricate in order to deceive, to make up, to feign, to plan, to scheme |(vi) xây dựng, thiết lập (nhà, cửa hàng...), duy trì, điều hành, sẵn sàng cầm (súng), chuẩn bị chụp (máy ảnh), chuẩn bị trước (bữa ăn), giữ tư thế, sẵn sàng ứng phó, ra vẻ, làm bộ, trở nên trang trọng, bịa đặt để lừa dối, giả vờ, lên kế hoạch, mưu tính"
       },
       {
         "example": "構う",
         "reading": "かまう",
-        "meaning": "to mind, to care about, to be concerned about, to have a regard for, to be an issue, to matter, to create inconvenience, to keep company, to care for, to look after, to entertain, to pay attention to, to spend time with, to interfere with, to meddle in, to tease, to banish, to prohibit"
+        "meaning": "to mind, to care about, to be concerned about, to have a regard for, to be an issue, to matter, to create inconvenience, to keep company, to care for, to look after, to entertain, to pay attention to, to spend time with, to interfere with, to meddle in, to tease, to banish, to prohibit |(vi) để tâm, quan tâm, bận tâm, thành vấn đề, gây phiền phức, chăm sóc, để ý, dành thời gian cho, can thiệp vào, xen vào, trêu chọc, cấm đoán, xua đuổi"
       },
       {
         "example": "構うものか",
         "reading": "かまうものか",
-        "meaning": "who cares?, I don't give a damn, what does it matter?"
+        "meaning": "who cares?, I don't give a damn, what does it matter? |(vi) quan tâm làm gì?, mặc kệ, có sao đâu?"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "一",

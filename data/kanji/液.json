@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "liquid, fluid",
+    "meaning": "liquid, fluid |(vi) chất lỏng, dung dịch",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "液（えき）",
         "meaning": {
-          "english": "liquid, fluid"
+          "english": "liquid, fluid |(vi) chất lỏng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/eki(tai)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "液体（えきたい）",
         "meaning": {
-          "english": "liquid, fluid"
+          "english": "liquid, fluid |(vi) chất lỏng, thể lỏng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/eki(tai)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "液状（えきじょう）",
         "meaning": {
-          "english": "liquid state"
+          "english": "liquid state |(vi) dạng lỏng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/eki(tai)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "廃液（はいえき）",
         "meaning": {
-          "english": "liquid waste"
+          "english": "liquid waste |(vi) nước thải, chất lỏng thải bỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/eki(tai)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "血液（けつえき）",
         "meaning": {
-          "english": "blood"
+          "english": "blood |(vi) máu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/eki(tai)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "乳液（にゅうえき）",
         "meaning": {
-          "english": "latex, milky lotion, milky liquid"
+          "english": "latex, milky lotion, milky liquid |(vi) sữa dưỡng, nhũ dịch, chất lỏng như sữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/eki(tai)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "唾液（だえき）",
         "meaning": {
-          "english": "saliva, sputum"
+          "english": "saliva, sputum |(vi) nước bọt, đờm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/eki(tai)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "消毒液（しょうどくえき）",
         "meaning": {
-          "english": "antiseptic solution"
+          "english": "antiseptic solution |(vi) dung dịch sát trùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/eki(tai)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "液化する（えきかする）",
         "meaning": {
-          "english": "liquidize [v.i., v.t.]"
+          "english": "liquidize [v.i., v.t.] |(vi) hóa lỏng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/eki(tai)_06_i.opus",
@@ -204,7 +204,7 @@
     "kanji": {
       "character": "液",
       "meaning": {
-        "english": "liquid, fluid"
+        "english": "liquid, fluid |(vi) chất lỏng, dung dịch"
       },
       "strokes": {
         "count": 11,
@@ -264,7 +264,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -285,7 +285,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1210",
     "strokeCount": 11,
-    "meaning": "fluid, liquid, juice, sap, secretion",
+    "meaning": "fluid, liquid, juice, sap, secretion |(vi) chất lỏng, nước ép, nhựa cây, dịch tiết |(hv) Dịch",
     "kunyomi": [],
     "onyomi": [
       "エキ"
@@ -294,22 +294,22 @@
       {
         "example": "液",
         "reading": "エキ",
-        "meaning": "liquid, fluid"
+        "meaning": "liquid, fluid |(vi) chất lỏng"
       },
       {
         "example": "液化",
         "reading": "エキカ",
-        "meaning": "liquefaction"
+        "meaning": "liquefaction |(vi) hóa lỏng"
       },
       {
         "example": "乳液",
         "reading": "ニュウエキ",
-        "meaning": "latex (milky fluid found in plants), milky lotion (cosmetic), body milk"
+        "meaning": "latex (milky fluid found in plants), milky lotion (cosmetic), body milk |(vi) nhựa mủ (dịch trắng trong cây), sữa dưỡng thể (mỹ phẩm)"
       },
       {
         "example": "体液",
         "reading": "タイエキ",
-        "meaning": "body fluid, semen"
+        "meaning": "body fluid, semen |(vi) dịch cơ thể, tinh dịch"
       }
     ],
     "kunyomiExamples": [],
@@ -319,7 +319,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "乞",

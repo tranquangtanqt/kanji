@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "hage, hageshii",
-    "meaning": "violent, intense, fierce",
+    "meaning": "violent, intense, fierce |(vi) dữ dội, mãnh liệt, kịch liệt",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "激戦（げきせん）",
         "meaning": {
-          "english": "fierce battle"
+          "english": "fierce battle |(vi) trận chiến ác liệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/geki(sen)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "激痛（げきつう）",
         "meaning": {
-          "english": "severe pain"
+          "english": "severe pain |(vi) đau dữ dội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/geki(sen)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "急激な（きゅうげきな）",
         "meaning": {
-          "english": "sudden"
+          "english": "sudden |(vi) đột ngột, đột biến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/geki(sen)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "過激な（かげきな）",
         "meaning": {
-          "english": "extreme"
+          "english": "extreme |(vi) quá khích, cực đoan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/geki(sen)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "激化する（げきかする）",
         "meaning": {
-          "english": "intensify [v.i.]"
+          "english": "intensify [v.i.] |(vi) trở nên gay gắt, leo thang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/geki(sen)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "激増する（げきぞうする）",
         "meaning": {
-          "english": "increase dramatically"
+          "english": "increase dramatically |(vi) tăng vọt, tăng mạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/geki(sen)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "激減する（げきげんする）",
         "meaning": {
-          "english": "decreasing dramatically"
+          "english": "decreasing dramatically |(vi) giảm mạnh, giảm đột ngột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/geki(sen)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "激励する（げきれいする）",
         "meaning": {
-          "english": "encourage"
+          "english": "encourage |(vi) khích lệ, động viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/geki(sen)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "激突する（げきとつする）",
         "meaning": {
-          "english": "clash, crash [v.i]"
+          "english": "clash, crash [v.i] |(vi) va chạm mạnh, đâm sầm vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/geki(sen)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "感激する（かんげきする）",
         "meaning": {
-          "english": "be deeply moved [v.i.]"
+          "english": "be deeply moved [v.i.] |(vi) cảm động sâu sắc, xúc động mạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/geki(sen)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "刺激する（しげきする）",
         "meaning": {
-          "english": "stimulate"
+          "english": "stimulate |(vi) kích thích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/geki(sen)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "激しい（はげしい）",
         "meaning": {
-          "english": "intense, fierce, violent"
+          "english": "intense, fierce, violent |(vi) dữ dội, mãnh liệt, khốc liệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/geki(sen)_06_l.opus",
@@ -256,7 +256,7 @@
     "kanji": {
       "character": "激",
       "meaning": {
-        "english": "violent, intense, fierce"
+        "english": "violent, intense, fierce |(vi) dữ dội, mãnh liệt, kịch liệt"
       },
       "strokes": {
         "count": 16,
@@ -326,7 +326,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -347,7 +347,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "560",
     "strokeCount": 16,
-    "meaning": "violent, get excited, enraged, chafe, incite",
+    "meaning": "violent, get excited, enraged, chafe, incite |(vi) dữ dội, kích động, phẫn nộ, bực tức, xúi giục |(hv) Kích",
     "kunyomi": [
       "はげ.しい"
     ],
@@ -358,29 +358,29 @@
       {
         "example": "激",
         "reading": "ゲキ",
-        "meaning": "extremely, terrifically, super"
+        "meaning": "extremely, terrifically, super |(vi) cực kỳ, siêu, khủng khiếp"
       },
       {
         "example": "激化",
         "reading": "ゲキカ",
-        "meaning": "intensification, aggravation"
+        "meaning": "intensification, aggravation |(vi) sự leo thang, sự trở nên gay gắt"
       },
       {
         "example": "憤激",
         "reading": "フンゲキ",
-        "meaning": "fury, flying into a rage, outrage"
+        "meaning": "fury, flying into a rage, outrage |(vi) phẫn nộ, nổi giận, căm phẫn"
       },
       {
         "example": "矯激",
         "reading": "キョウゲキ",
-        "meaning": "radical, extreme, eccentric"
+        "meaning": "radical, extreme, eccentric |(vi) cực đoan, quá khích, lập dị"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "激しい",
         "reading": "はげしい",
-        "meaning": "violent, furious, tempestuous, extreme, intense, fierce, strong, fervent, vehement, incessant, relentless, precipitous, steep"
+        "meaning": "violent, furious, tempestuous, extreme, intense, fierce, strong, fervent, vehement, incessant, relentless, precipitous, steep |(vi) dữ dội, mãnh liệt, cuồng bạo, cực độ, mạnh mẽ, nồng nhiệt, không ngừng, dồn dập, dốc đứng"
       }
     ],
     "radical": {
@@ -389,7 +389,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "乞",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "hira, hiraku, a, aku, akeru",
-    "meaning": "open",
+    "meaning": "open |(vi) mở",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "開発する（かいはつする）",
         "meaning": {
-          "english": "develop"
+          "english": "develop |(vi) phát triển, khai phát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "開放する（かいほうする）",
         "meaning": {
-          "english": "throw open"
+          "english": "throw open |(vi) mở rộng, khai phóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "開設する（かいせつする）",
         "meaning": {
-          "english": "establish"
+          "english": "establish |(vi) thành lập, khai thiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "開閉する（かいへいする）",
         "meaning": {
-          "english": "open and close"
+          "english": "open and close |(vi) đóng mở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "開始する（かいしする）",
         "meaning": {
-          "english": "start"
+          "english": "start |(vi) bắt đầu, khai thủy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "公開する（こうかいする）",
         "meaning": {
-          "english": "present to the public"
+          "english": "present to the public |(vi) công khai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "再開する（さいかいする）",
         "meaning": {
-          "english": "reopen"
+          "english": "reopen |(vi) mở lại, tái khai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "開く（ひらく）",
         "meaning": {
-          "english": "open [v.i., v.t.]"
+          "english": "open [v.i., v.t.] |(vi) mở ra (nội/ngoại động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "開く（あく）",
         "meaning": {
-          "english": "open [v.i.]"
+          "english": "open [v.i.] |(vi) mở (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "開ける（あける）",
         "meaning": {
-          "english": "open [v.t.]"
+          "english": "open [v.t.] |(vi) mở (ngoại động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_j.opus",
@@ -292,7 +292,7 @@
     "kanji": {
       "character": "開",
       "meaning": {
-        "english": "open"
+        "english": "open |(vi) mở"
       },
       "strokes": {
         "count": 12,
@@ -354,7 +354,7 @@
         "romaji": "mongamae"
       },
       "meaning": {
-        "english": "gate, door"
+        "english": "gate, door |(vi) Môn (cửa, cổng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mongamae0.svg",
@@ -375,7 +375,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "59",
     "strokeCount": 12,
-    "meaning": "open, unfold, unseal",
+    "meaning": "open, unfold, unseal |(vi) mở, mở ra, khai phong |(hv) Khai",
     "kunyomi": [
       "ひら.く",
       "ひら.き",
@@ -391,59 +391,59 @@
       {
         "example": "開花",
         "reading": "カイカ",
-        "meaning": "flowering, blooming, blossoming, coming into bloom, flowering (of a civilization, talent, etc.), blossoming, blooming, bearing fruit (of efforts)"
+        "meaning": "flowering, blooming, blossoming, coming into bloom, flowering (of a civilization, talent, etc.), blossoming, blooming, bearing fruit (of efforts) |(vi) nở hoa, đơm hoa, sự phát triển (của nền văn minh, tài năng...), đơm hoa kết trái (của nỗ lực)"
       },
       {
         "example": "開演",
         "reading": "カイエン",
-        "meaning": "curtain raising, starting (e.g. play, concert)"
+        "meaning": "curtain raising, starting (e.g. play, concert) |(vi) mở màn, khai mạc (vở kịch, buổi hòa nhạc...)"
       },
       {
         "example": "疎開",
         "reading": "ソカイ",
-        "meaning": "evacuation (to the country), spreading out (troops), deployment, dispersal"
+        "meaning": "evacuation (to the country), spreading out (troops), deployment, dispersal |(vi) sơ tán (về nông thôn), dàn quân, triển khai, phân tán"
       },
       {
         "example": "非公開",
         "reading": "ヒコウカイ",
-        "meaning": "private, non-public, secret, closed-door, closed"
+        "meaning": "private, non-public, secret, closed-door, closed |(vi) riêng tư, không công khai, bí mật, kín, đóng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "開く",
         "reading": "ひらく",
-        "meaning": "to open, to undo, to unseal, to unpack, to bloom, to unfold, to spread out, to open (for business, e.g. in the morning), to be wide (gap, etc.), to widen, to hold (meeting, party, etc.), to give, to open, to found (nation, dynasty, sect, etc.), to open (a new business), to set up, to establish, to start, to open (ports, borders, etc.), to open (an account), to open up (new land, path, etc.), to clear, to develop, to open (a file, etc.), to extract (root), to reduce (equation), to cut open (fish), to change (kanji into hiragana), to flare (e.g. skirt), to slacken (into a poor posture)"
+        "meaning": "to open, to undo, to unseal, to unpack, to bloom, to unfold, to spread out, to open (for business, e.g. in the morning), to be wide (gap, etc.), to widen, to hold (meeting, party, etc.), to give, to open, to found (nation, dynasty, sect, etc.), to open (a new business), to set up, to establish, to start, to open (ports, borders, etc.), to open (an account), to open up (new land, path, etc.), to clear, to develop, to open (a file, etc.), to extract (root), to reduce (equation), to cut open (fish), to change (kanji into hiragana), to flare (e.g. skirt), to slacken (into a poor posture) |(vi) mở, tháo, khai phong, tháo dỡ, nở hoa, mở rộng, trải ra, mở cửa (kinh doanh), rộng (khoảng cách), mở rộng ra, tổ chức (họp, tiệc...), thành lập (quốc gia, triều đại, tông phái...), mở (kinh doanh mới), thiết lập, bắt đầu, mở (cảng, biên giới...), mở tài khoản, khai khẩn (đất mới, đường mới...), khai hoang, phát triển, mở (tệp tin...), khai căn, giản lược (phương trình), mổ banh (cá), chuyển đổi (kanji sang hiragana), xòe ra (vd. váy), buông thõng (tư thế)"
       },
       {
         "example": "開き",
         "reading": "ひらき",
-        "meaning": "opening, gap, dried and opened fish"
+        "meaning": "opening, gap, dried and opened fish |(vi) khoảng mở, khe hở, cá phơi khô mổ banh"
       },
       {
         "example": "開き直る",
         "reading": "ひらきなおる",
-        "meaning": "to become defiant, to fight back, to turn upon, to take the offensive"
+        "meaning": "to become defiant, to fight back, to turn upon, to take the offensive |(vi) trở nên bướng bỉnh, chống trả, quay ngoắt lại, tấn công"
       },
       {
         "example": "開ける",
         "reading": "ひらける",
-        "meaning": "to open out (of a view, scenery, etc.), to spread out, to become clear (of a road, visibility, etc.), to open up, to improve (of luck, prospects, etc.), to get better, to develop (of a town, civilization, etc.), to become civilized, to modernize, to grow, to advance (of knowledge, ideas, etc.), to be sensible, to be understanding, to be enlightened, to open (of a new road, railway, etc.), to be opened to traffic, to become populous, to become densely built, to become bustling"
+        "meaning": "to open out (of a view, scenery, etc.), to spread out, to become clear (of a road, visibility, etc.), to open up, to improve (of luck, prospects, etc.), to get better, to develop (of a town, civilization, etc.), to become civilized, to modernize, to grow, to advance (of knowledge, ideas, etc.), to be sensible, to be understanding, to be enlightened, to open (of a new road, railway, etc.), to be opened to traffic, to become populous, to become densely built, to become bustling |(vi) mở ra (cảnh quan), trải rộng, trở nên rõ ràng (đường xá, tầm nhìn...), mở mang, cải thiện (vận may, triển vọng...), phát triển (thị trấn, văn minh...), trở nên văn minh, hiện đại hóa, phát triển, tiến bộ (kiến thức, ý tưởng...), thông hiểu, khai thông (đường mới, đường sắt mới...), trở nên đông đúc, nhộn nhịp"
       },
       {
         "example": "開く",
         "reading": "あく",
-        "meaning": "to open (e.g. doors), to open (e.g. business, etc.), to be empty, to be vacant, to be available, to be free, to be open (e.g. neckline, etc.), to have been opened (of one's eyes, mouth, etc.), to come to an end, to open (one's eyes, mouth, etc.), to have a hole, to form a gap, to have an interval (between events)"
+        "meaning": "to open (e.g. doors), to open (e.g. business, etc.), to be empty, to be vacant, to be available, to be free, to be open (e.g. neckline, etc.), to have been opened (of one's eyes, mouth, etc.), to come to an end, to open (one's eyes, mouth, etc.), to have a hole, to form a gap, to have an interval (between events) |(vi) mở (cửa...), mở (kinh doanh...), trống, còn chỗ, hở (cổ áo...), mở (mắt, miệng...), kết thúc, mở (mắt, miệng...), có lỗ, có khoảng cách, có khoảng thời gian (giữa các sự kiện)"
       },
       {
         "example": "開ける",
         "reading": "あける",
-        "meaning": "to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock, to open (for business, etc.), to empty, to remove, to make space, to make room, to move out, to clear out, to be away from (e.g. one's house), to leave (temporarily), to dawn, to grow light, to end (of a period, season), to begin (of the New Year), to leave (one's schedule) open, to make time (for), to make (a hole), to open up (a hole)"
+        "meaning": "to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock, to open (for business, etc.), to empty, to remove, to make space, to make room, to move out, to clear out, to be away from (e.g. one's house), to leave (temporarily), to dawn, to grow light, to end (of a period, season), to begin (of the New Year), to leave (one's schedule) open, to make time (for), to make (a hole), to open up (a hole) |(vi) mở (cửa...), mở gói, mở khóa, mở cửa (kinh doanh...), làm trống, dọn dẹp, rời khỏi (nhà...), để trống (lịch trình), tạo lỗ, mở lỗ"
       }
     ],
     "radical": {
       "symbol": "門",
-      "meaning": "gate"
+      "meaning": "gate |(vi) Môn (cửa, cổng)"
     },
     "parts": [
       "ノ",

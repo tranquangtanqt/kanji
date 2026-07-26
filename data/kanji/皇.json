@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "emperor",
+    "meaning": "emperor |(vi) hoàng đế",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "皇帝（こうてい）",
         "meaning": {
-          "english": "emperor"
+          "english": "emperor |(vi) hoàng đế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(taishi)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "皇后（こうごう）",
         "meaning": {
-          "english": "empress"
+          "english": "empress |(vi) hoàng hậu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(taishi)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "皇太子（こうたいし）",
         "meaning": {
-          "english": "crown prince"
+          "english": "crown prince |(vi) hoàng thái tử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(taishi)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "皇室（こうしつ）",
         "meaning": {
-          "english": "Imperial household"
+          "english": "Imperial household |(vi) hoàng gia, hoàng thất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(taishi)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "皇居（こうきょ）",
         "meaning": {
-          "english": "Imperial Palace"
+          "english": "Imperial Palace |(vi) hoàng cung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(taishi)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "天皇（てんのう）",
         "meaning": {
-          "english": "Emperor of Japan"
+          "english": "Emperor of Japan |(vi) Thiên hoàng Nhật Bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(taishi)_06_f.opus",
@@ -165,7 +165,7 @@
     "kanji": {
       "character": "皇",
       "meaning": {
-        "english": "emperor"
+        "english": "emperor |(vi) hoàng đế"
       },
       "strokes": {
         "count": 9,
@@ -221,7 +221,7 @@
         "romaji": "shiro"
       },
       "meaning": {
-        "english": "white"
+        "english": "white |(vi) Bạch (màu trắng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shiro0.svg",
@@ -242,7 +242,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "721",
     "strokeCount": 9,
-    "meaning": "emperor",
+    "meaning": "emperor |(vi) hoàng đế |(hv) Hoàng",
     "kunyomi": [],
     "onyomi": [
       "コウ",
@@ -252,48 +252,48 @@
       {
         "example": "皇后",
         "reading": "コウゴウ",
-        "meaning": "empress (consort)"
+        "meaning": "empress (consort) |(vi) hoàng hậu"
       },
       {
         "example": "皇居",
         "reading": "コウキョ",
-        "meaning": "Imperial Palace (of Japan), imperial residence"
+        "meaning": "Imperial Palace (of Japan), imperial residence |(vi) hoàng cung (Nhật Bản), nơi ở của thiên hoàng"
       },
       {
         "example": "倉皇",
         "reading": "ソウコウ",
-        "meaning": "hurriedly, in a hurry, in great haste"
+        "meaning": "hurriedly, in a hurry, in great haste |(vi) vội vàng, hấp tấp, cuống quýt"
       },
       {
         "example": "教皇",
         "reading": "キョウコウ",
-        "meaning": "Pope"
+        "meaning": "Pope |(vi) Giáo hoàng"
       },
       {
         "example": "皇子",
         "reading": "オウジ",
-        "meaning": "imperial prince"
+        "meaning": "imperial prince |(vi) hoàng tử"
       },
       {
         "example": "皇女",
         "reading": "コウジョ",
-        "meaning": "imperial princess"
+        "meaning": "imperial princess |(vi) công chúa (con vua)"
       },
       {
         "example": "法皇",
         "reading": "ホウオウ",
-        "meaning": "cloistered emperor, ex-emperor who has become a monk"
+        "meaning": "cloistered emperor, ex-emperor who has become a monk |(vi) thái thượng hoàng, cựu hoàng đế xuất gia"
       },
       {
         "example": "太上法皇",
         "reading": "ダイジョウホウオウ",
-        "meaning": "cloistered emperor, ex-emperor who has become a monk"
+        "meaning": "cloistered emperor, ex-emperor who has become a monk |(vi) thái thượng hoàng, cựu hoàng đế xuất gia"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "白",
-      "meaning": "white"
+      "meaning": "white |(vi) Bạch (màu trắng)"
     },
     "parts": [
       "王",

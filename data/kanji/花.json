@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 6,
     "kunyomi": "hana",
-    "meaning": "flower",
+    "meaning": "flower |(vi) hoa",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "花壇（かだん）",
         "meaning": {
-          "english": "flower bed"
+          "english": "flower bed |(vi) bồn hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "花瓶（かびん）",
         "meaning": {
-          "english": "vase"
+          "english": "vase |(vi) bình hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "造花（ぞうか）",
         "meaning": {
-          "english": "artificial flowers"
+          "english": "artificial flowers |(vi) hoa giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "花粉（かふん）",
         "meaning": {
-          "english": "pollen"
+          "english": "pollen |(vi) phấn hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "開花する（かいかする）",
         "meaning": {
-          "english": "bloom"
+          "english": "bloom |(vi) nở hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "花（はな）",
         "meaning": {
-          "english": "flower"
+          "english": "flower |(vi) hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "花屋（はなや）",
         "meaning": {
-          "english": "florist"
+          "english": "florist |(vi) cửa hàng hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "生け花（いけばな）",
         "meaning": {
-          "english": "flower arrangement"
+          "english": "flower arrangement |(vi) cắm hoa (ikebana)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "花嫁（はなよめ）",
         "meaning": {
-          "english": "bride"
+          "english": "bride |(vi) cô dâu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "花火（はなび）",
         "meaning": {
-          "english": "fireworks"
+          "english": "fireworks |(vi) pháo hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "お花見（おはなみ）",
         "meaning": {
-          "english": "cherry-blossom viewing"
+          "english": "cherry-blossom viewing |(vi) ngắm hoa anh đào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "草花（くさばな）",
         "meaning": {
-          "english": "plants and flowers"
+          "english": "plants and flowers |(vi) cây cỏ hoa lá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_l.opus",
@@ -286,7 +286,7 @@
     "kanji": {
       "character": "花",
       "meaning": {
-        "english": "flower"
+        "english": "flower |(vi) hoa"
       },
       "strokes": {
         "count": 7,
@@ -338,7 +338,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -359,7 +359,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "578",
     "strokeCount": 7,
-    "meaning": "flower",
+    "meaning": "flower |(vi) hoa |(hv) Hoa",
     "kunyomi": [
       "はな"
     ],
@@ -371,59 +371,59 @@
       {
         "example": "花形",
         "reading": "ハナガタ",
-        "meaning": "floral pattern, flourish, ornament, star (actor, player, etc.)"
+        "meaning": "floral pattern, flourish, ornament, star (actor, player, etc.) |(vi) họa tiết hoa văn, vật trang trí, ngôi sao (diễn viên, cầu thủ...)"
       },
       {
         "example": "花園",
         "reading": "ハナゾノ",
-        "meaning": "flower garden"
+        "meaning": "flower garden |(vi) vườn hoa"
       },
       {
         "example": "献花",
         "reading": "ケンカ",
-        "meaning": "flower offering, floral tribute, laying flowers"
+        "meaning": "flower offering, floral tribute, laying flowers |(vi) dâng hoa, đặt hoa tưởng niệm"
       },
       {
         "example": "雄花",
         "reading": "オバナ",
-        "meaning": "male flower, staminate flower"
+        "meaning": "male flower, staminate flower |(vi) hoa đực"
       },
       {
         "example": "花かご",
         "reading": "ハナカゴ",
-        "meaning": "flower basket, flower basket (or plate) used for flower-scattering rituals"
+        "meaning": "flower basket, flower basket (or plate) used for flower-scattering rituals |(vi) giỏ hoa (dùng trong nghi lễ rải hoa)"
       },
       {
         "example": "華香",
         "reading": "ケコウ",
-        "meaning": "flowers and incense (given as a Buddhist offering)"
+        "meaning": "flowers and incense (given as a Buddhist offering) |(vi) hoa và hương (lễ vật cúng Phật)"
       },
       {
         "example": "天花",
         "reading": "テンゲ",
-        "meaning": "flowers that bloom in the heavens, paper flowers scattered before the Buddha's image"
+        "meaning": "flowers that bloom in the heavens, paper flowers scattered before the Buddha's image |(vi) hoa trời, hoa giấy rải trước tượng Phật"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "花",
         "reading": "はな",
-        "meaning": "flower, blossom, bloom, petal, cherry blossom, beauty, blooming (esp. of cherry blossoms), ikebana, hanafuda, (the) best, glorious, lovely"
+        "meaning": "flower, blossom, bloom, petal, cherry blossom, beauty, blooming (esp. of cherry blossoms), ikebana, hanafuda, (the) best, glorious, lovely |(vi) hoa, đóa hoa, sự nở hoa, cánh hoa, hoa anh đào, vẻ đẹp, nở rộ (đặc biệt hoa anh đào), cắm hoa, bài hanafuda, (cái) tốt nhất, huy hoàng, đáng yêu"
       },
       {
         "example": "花形",
         "reading": "はながた",
-        "meaning": "floral pattern, flourish, ornament, star (actor, player, etc.)"
+        "meaning": "floral pattern, flourish, ornament, star (actor, player, etc.) |(vi) họa tiết hoa văn, vật trang trí, ngôi sao (diễn viên, cầu thủ...)"
       },
       {
         "example": "菜の花",
         "reading": "なのはな",
-        "meaning": "rape blossoms, rapeseed flowers"
+        "meaning": "rape blossoms, rapeseed flowers |(vi) hoa cải dầu"
       },
       {
         "example": "紅花",
         "reading": "べにばな",
-        "meaning": "safflower (Carthamus tinctorius)"
+        "meaning": "safflower (Carthamus tinctorius) |(vi) hoa rum (Carthamus tinctorius)"
       }
     ],
     "radical": {
@@ -431,7 +431,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "匕",

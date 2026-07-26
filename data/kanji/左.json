@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 2,
     "kunyomi": "hidari",
-    "meaning": "left",
+    "meaning": "left |(vi) trái, bên trái",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "左右する（さゆうする）",
         "meaning": {
-          "english": "influence, control, command"
+          "english": "influence, control, command |(vi) chi phối, khống chế, điều khiển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "左派（さは）",
         "meaning": {
-          "english": "(political) left wing"
+          "english": "(political) left wing |(vi) cánh tả (chính trị)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "左（ひだり）",
         "meaning": {
-          "english": "left"
+          "english": "left |(vi) bên trái, trái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "左側（ひだりがわ）",
         "meaning": {
-          "english": "left side"
+          "english": "left side |(vi) phía bên trái, bên trái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "左向き（ひだりむき）",
         "meaning": {
-          "english": "left facing"
+          "english": "left facing |(vi) hướng sang trái, quay mặt sang trái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_e.opus",
@@ -200,7 +200,7 @@
     "kanji": {
       "character": "左",
       "meaning": {
-        "english": "left"
+        "english": "left |(vi) trái"
       },
       "strokes": {
         "count": 5,
@@ -248,7 +248,7 @@
         "romaji": "takumi"
       },
       "meaning": {
-        "english": "work, carpenter, skill"
+        "english": "work, carpenter, skill |(vi) Công (việc, thợ, kỹ năng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takumi0.svg",
@@ -269,7 +269,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "630",
     "strokeCount": 5,
-    "meaning": "left",
+    "meaning": "left |(vi) trái, bên trái |(hv) Tả",
     "kunyomi": [
       "ひだり"
     ],
@@ -281,54 +281,54 @@
       {
         "example": "左",
         "reading": "サ",
-        "meaning": "left (esp. in vertical Japanese writing), the following"
+        "meaning": "left (esp. in vertical Japanese writing), the following |(vi) bên trái (trong văn viết dọc), như sau, dưới đây"
       },
       {
         "example": "左記",
         "reading": "サキ",
-        "meaning": "undermentioned (statement), the following, at left"
+        "meaning": "undermentioned (statement), the following, at left |(vi) như ghi dưới đây, mục sau, ghi ở bên trái"
       },
       {
         "example": "極左",
         "reading": "キョクサ",
-        "meaning": "extreme left, ultraleft"
+        "meaning": "extreme left, ultraleft |(vi) cực tả, cực đoan cánh tả"
       },
       {
         "example": "最左",
         "reading": "サイサ",
-        "meaning": "left-most"
+        "meaning": "left-most |(vi) tận cùng bên trái, cực tả (vị trí)"
       },
       {
         "example": "左官",
         "reading": "サカン",
-        "meaning": "plasterer"
+        "meaning": "plasterer |(vi) thợ hồ, thợ trát vữa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "左",
         "reading": "ひだり",
-        "meaning": "left, left-hand side, left hand, the left (wing), leftist, fondness for alcohol, drinker"
+        "meaning": "left, left-hand side, left hand, the left (wing), leftist, fondness for alcohol, drinker |(vi) trái, bên trái, tay trái, phe tả, cánh tả, thích uống rượu, người hay uống rượu"
       },
       {
         "example": "左腕",
         "reading": "さわん",
-        "meaning": "left arm, left-handed (baseball pitcher)"
+        "meaning": "left arm, left-handed (baseball pitcher) |(vi) cánh tay trái, (cầu thủ bóng chày) ném tay trái"
       },
       {
         "example": "向かって左",
         "reading": "むかってひだり",
-        "meaning": "on the left as one faces (it)"
+        "meaning": "on the left as one faces (it) |(vi) bên trái khi nhìn vào, phía tay trái đối diện"
       },
       {
         "example": "同左",
         "reading": "どうひだり",
-        "meaning": "same as on the left, (in vertical writing) same as below"
+        "meaning": "same as on the left, (in vertical writing) same as below |(vi) như bên trái, (viết dọc) như trên/như dưới"
       }
     ],
     "radical": {
       "symbol": "工",
-      "meaning": "work"
+      "meaning": "work |(vi) Công (việc, thợ, kỹ năng)"
     },
     "parts": [
       "ノ",

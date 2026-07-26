@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "hiro, hirou",
-    "meaning": "pick up, ten (in documents)",
+    "meaning": "pick up, ten (in documents) |(vi) nhặt lên, mười (dùng trong văn bản chính thức)",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "拾得する（しゅうとくする）",
         "meaning": {
-          "english": "pick up, find"
+          "english": "pick up, find |(vi) nhặt được, tìm thấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-hiro(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "収拾する（しゅうしゅうする）",
         "meaning": {
-          "english": "control, deal with, manage"
+          "english": "control, deal with, manage |(vi) thu dọn, xử lý, kiểm soát tình hình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-hiro(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "拾万円（じゅうまんえん）",
         "meaning": {
-          "english": "100,000 yen"
+          "english": "100,000 yen |(vi) 100.000 yên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-hiro(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "拾う（ひろう）",
         "meaning": {
-          "english": "pick up"
+          "english": "pick up |(vi) nhặt lên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-hiro(u)_06_d.opus",
@@ -159,7 +159,7 @@
     "kanji": {
       "character": "拾",
       "meaning": {
-        "english": "pick up, ten (in documents)"
+        "english": "pick up, ten (in documents) |(vi) nhặt lên, mười (dùng trong văn bản chính thức)"
       },
       "strokes": {
         "count": 9,
@@ -215,7 +215,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (bàn tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -236,7 +236,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1479",
     "strokeCount": 9,
-    "meaning": "pick up, gather, find, go on foot, ten",
+    "meaning": "pick up, gather, find, go on foot, ten |(vi) nhặt lên, thu thập, tìm thấy, đi bộ, mười |(hv) Thập",
     "kunyomi": [
       "ひろ.う"
     ],
@@ -248,29 +248,29 @@
       {
         "example": "収集",
         "reading": "シュウシュウ",
-        "meaning": "collecting, accumulating, gathering, collection (of art, stamps, insects, etc.), garbage collection, waste collection"
+        "meaning": "collecting, accumulating, gathering, collection (of art, stamps, insects, etc.), garbage collection, waste collection |(vi) thu thập, tích lũy, sưu tầm, bộ sưu tập (nghệ thuật, tem, côn trùng...), thu gom rác"
       },
       {
         "example": "拾得",
         "reading": "シュウトク",
-        "meaning": "finding (lost property), picking up"
+        "meaning": "finding (lost property), picking up |(vi) nhặt được (đồ thất lạc), tìm thấy"
       },
       {
         "example": "十",
         "reading": "ジュウ",
-        "meaning": "ten, 10, ten years of age, book containing a collection of poems"
+        "meaning": "ten, 10, ten years of age, book containing a collection of poems |(vi) mười, 10, mười tuổi, tập thơ"
       },
       {
         "example": "十一",
         "reading": "ジュウイチ",
-        "meaning": "eleven, 11, jack"
+        "meaning": "eleven, 11, jack |(vi) mười một, 11, quân J (bài Tây)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "拾う",
         "reading": "ひろう",
-        "meaning": "to pick up, to gather, to find (and pick up; something someone has dropped), to select, to choose, to pick out, to get (unexpectedly), to hit upon (luck, an opportunity, etc.), to snatch (an unexpected victory), to pull off, to pick up (someone; in a car, etc.), to flag down (a taxi), to hail, to pick up (a signal, sound, interference, etc.), to (just manage to) return (the ball), to return (a difficult shot), to take on (someone in adverse circumstances), to employ, to give a job, to take in, to walk, to go on foot"
+        "meaning": "to pick up, to gather, to find (and pick up; something someone has dropped), to select, to choose, to pick out, to get (unexpectedly), to hit upon (luck, an opportunity, etc.), to snatch (an unexpected victory), to pull off, to pick up (someone; in a car, etc.), to flag down (a taxi), to hail, to pick up (a signal, sound, interference, etc.), to (just manage to) return (the ball), to return (a difficult shot), to take on (someone in adverse circumstances), to employ, to give a job, to take in, to walk, to go on foot |(vi) nhặt lên, thu thập, tìm thấy (và nhặt đồ ai đó đánh rơi), lựa chọn, chọn lọc, bất ngờ có được, gặp may mắn hoặc cơ hội, giành chiến thắng bất ngờ, đón (ai đó lên xe), vẫy (taxi), bắt được (tín hiệu, âm thanh), đỡ được (một cú đánh khó), nhận (ai đó vào làm) trong hoàn cảnh khó khăn, tuyển dụng, đi bộ"
       }
     ],
     "radical": {
@@ -278,7 +278,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (bàn tay)"
     },
     "parts": [
       "一",

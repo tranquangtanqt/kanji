@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kumo",
-    "meaning": "cloud",
+    "meaning": "cloud |(vi) mây",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "雲海（うんかい）",
         "meaning": {
-          "english": "sea of clouds"
+          "english": "sea of clouds |(vi) biển mây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumo_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "暗雲（あんうん）",
         "meaning": {
-          "english": "dark clouds"
+          "english": "dark clouds |(vi) mây đen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumo_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "積乱雲（せきらんうん）",
         "meaning": {
-          "english": "cumulonimbus cloud"
+          "english": "cumulonimbus cloud |(vi) mây vũ tích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumo_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "雲泥の差（うんでいのさ）",
         "meaning": {
-          "english": "a world of difference"
+          "english": "a world of difference |(vi) một trời một vực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumo_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "雲（くも）",
         "meaning": {
-          "english": "cloud"
+          "english": "cloud |(vi) mây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumo_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "雲行き（くもゆき）",
         "meaning": {
-          "english": "weather, situation"
+          "english": "weather, situation |(vi) thời tiết, tình hình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumo_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "雨雲（あまぐも）",
         "meaning": {
-          "english": "rain cloud"
+          "english": "rain cloud |(vi) mây mưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumo_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "入道雲（にゅうどうぐも）",
         "meaning": {
-          "english": "cumulonimbus (cloud)"
+          "english": "cumulonimbus (cloud) |(vi) mây vũ tích (mây dông)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumo_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "*出雲大社（いずもたいしゃ）",
         "meaning": {
-          "english": "Izumo shrine"
+          "english": "Izumo shrine |(vi) đền Izumo Taisha"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumo_06_i.opus",
@@ -233,7 +233,7 @@
     "kanji": {
       "character": "雲",
       "meaning": {
-        "english": "cloud"
+        "english": "cloud |(vi) mây"
       },
       "strokes": {
         "count": 12,
@@ -295,7 +295,7 @@
         "romaji": "amekanmuri"
       },
       "meaning": {
-        "english": "rain"
+        "english": "rain |(vi) Vũ (mưa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/amekanmuri0.svg",
@@ -316,7 +316,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1256",
     "strokeCount": 12,
-    "meaning": "cloud",
+    "meaning": "cloud |(vi) mây |(hv) Vân",
     "kunyomi": [
       "くも",
       "-ぐも"
@@ -328,49 +328,49 @@
       {
         "example": "雲散霧消",
         "reading": "ウンサンムショウ",
-        "meaning": "vanishing like mist"
+        "meaning": "vanishing like mist |(vi) tan biến như sương khói"
       },
       {
         "example": "雲海",
         "reading": "ウンカイ",
-        "meaning": "sea of clouds"
+        "meaning": "sea of clouds |(vi) biển mây"
       },
       {
         "example": "青雲",
         "reading": "セイウン",
-        "meaning": "blue sky, erudition, detachment from the world, high rank"
+        "meaning": "blue sky, erudition, detachment from the world, high rank |(vi) trời xanh, sự uyên bác, sự xa lánh thế tục, địa vị cao"
       },
       {
         "example": "星雲",
         "reading": "セイウン",
-        "meaning": "nebula, galaxy"
+        "meaning": "nebula, galaxy |(vi) tinh vân, thiên hà"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "雲",
         "reading": "くも",
-        "meaning": "cloud"
+        "meaning": "cloud |(vi) mây"
       },
       {
         "example": "雲行き",
         "reading": "くもゆき",
-        "meaning": "weather, look of the sky, situation, turn of affairs, signs, way the wind is blowing"
+        "meaning": "weather, look of the sky, situation, turn of affairs, signs, way the wind is blowing |(vi) thời tiết, dáng vẻ bầu trời, tình hình, diễn biến sự việc, dấu hiệu, chiều hướng"
       },
       {
         "example": "白雲",
         "reading": "しらくも",
-        "meaning": "white clouds"
+        "meaning": "white clouds |(vi) mây trắng"
       },
       {
         "example": "八重雲",
         "reading": "やえぐも",
-        "meaning": "layers of clouds"
+        "meaning": "layers of clouds |(vi) tầng tầng lớp lớp mây"
       }
     ],
     "radical": {
       "symbol": "雨",
-      "meaning": "rain"
+      "meaning": "rain |(vi) Vũ (mưa)"
     },
     "parts": [
       "一",

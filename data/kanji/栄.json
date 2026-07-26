@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 5,
     "kunyomi": "saka, sakaeru, ha, haeru",
-    "meaning": "flourish, glory, honor, prosper",
+    "meaning": "flourish, glory, honor, prosper |(vi) hưng thịnh, vinh quang, danh dự, thịnh vượng",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "栄誉（えいよ）",
         "meaning": {
-          "english": "honor [n.]"
+          "english": "honor [n.] |(vi) vinh dự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(eru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "栄光（えいこう）",
         "meaning": {
-          "english": "glory"
+          "english": "glory |(vi) vinh quang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(eru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "栄養（えいよう）",
         "meaning": {
-          "english": "nutrition, nourishment"
+          "english": "nutrition, nourishment |(vi) dinh dưỡng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(eru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "栄枯盛衰（えいこせいすい）",
         "meaning": {
-          "english": "ups and downs, vicissitudes"
+          "english": "ups and downs, vicissitudes |(vi) thăng trầm, biến đổi thịnh suy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(eru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "栄転する（えいてんする）",
         "meaning": {
-          "english": "transfer with promotion [v.i.]"
+          "english": "transfer with promotion [v.i.] |(vi) chuyển công tác kèm thăng chức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(eru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "繁栄する（はんえいする）",
         "meaning": {
-          "english": "prosper, thrive"
+          "english": "prosper, thrive |(vi) thịnh vượng, phát đạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(eru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "栄える（さかえる）",
         "meaning": {
-          "english": "prosper, flourish"
+          "english": "prosper, flourish |(vi) thịnh vượng, hưng thịnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(eru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "栄える（はえる）",
         "meaning": {
-          "english": "look better, look attractive"
+          "english": "look better, look attractive |(vi) trông đẹp hơn, trông hấp dẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(eru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "見栄え（みばえ）",
         "meaning": {
-          "english": "look, appearance"
+          "english": "look, appearance |(vi) vẻ ngoài, diện mạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(eru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "出来栄え（できばえ）",
         "meaning": {
-          "english": "quality of finished product"
+          "english": "quality of finished product |(vi) chất lượng thành phẩm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(eru)_06_j.opus",
@@ -222,7 +222,7 @@
     "kanji": {
       "character": "栄",
       "meaning": {
-        "english": "flourish, glory, honor, prosper"
+        "english": "flourish, glory, honor, prosper |(vi) hưng thịnh, vinh quang, danh dự, thịnh vượng"
       },
       "strokes": {
         "count": 9,
@@ -278,7 +278,7 @@
         "romaji": "ki"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ki0.svg",
@@ -299,7 +299,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "920",
     "strokeCount": 9,
-    "meaning": "flourish, prosperity, honor, glory, splendor",
+    "meaning": "flourish, prosperity, honor, glory, splendor |(vi) hưng thịnh, thịnh vượng, danh dự, vinh quang, huy hoàng |(hv) Vinh",
     "kunyomi": [
       "さか.える",
       "は.え",
@@ -315,59 +315,59 @@
       {
         "example": "栄",
         "reading": "エイ",
-        "meaning": "honor, honour, glory, prosperity"
+        "meaning": "honor, honour, glory, prosperity |(vi) danh dự, vinh quang, thịnh vượng"
       },
       {
         "example": "栄冠",
         "reading": "エイカン",
-        "meaning": "laurels, garland"
+        "meaning": "laurels, garland |(vi) vòng nguyệt quế, vinh quang chiến thắng"
       },
       {
         "example": "共栄",
         "reading": "キョウエイ",
-        "meaning": "mutual prosperity"
+        "meaning": "mutual prosperity |(vi) cùng thịnh vượng"
       },
       {
         "example": "虚栄",
         "reading": "キョエイ",
-        "meaning": "vanity, vainglory"
+        "meaning": "vanity, vainglory |(vi) hư vinh, sự phù phiếm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "栄える",
         "reading": "さかえる",
-        "meaning": "to prosper, to flourish"
+        "meaning": "to prosper, to flourish |(vi) thịnh vượng, hưng thịnh"
       },
       {
         "example": "栄え",
         "reading": "はえ",
-        "meaning": "glory, splendour, honour"
+        "meaning": "glory, splendour, honour |(vi) vinh quang, huy hoàng, danh dự"
       },
       {
         "example": "映える",
         "reading": "はえる",
-        "meaning": "to shine, to glow, to look attractive, to look nice, to be set off (by)"
+        "meaning": "to shine, to glow, to look attractive, to look nice, to be set off (by) |(vi) tỏa sáng, rực rỡ, trông hấp dẫn, trông đẹp, được tôn lên (bởi)"
       },
       {
         "example": "映える",
         "reading": "はえる",
-        "meaning": "to shine, to glow, to look attractive, to look nice, to be set off (by)"
+        "meaning": "to shine, to glow, to look attractive, to look nice, to be set off (by) |(vi) tỏa sáng, rực rỡ, trông hấp dẫn, trông đẹp, được tôn lên (bởi)"
       },
       {
         "example": "栄",
         "reading": "えい",
-        "meaning": "honor, honour, glory, prosperity"
+        "meaning": "honor, honour, glory, prosperity |(vi) danh dự, vinh quang, thịnh vượng"
       },
       {
         "example": "栄冠",
         "reading": "えいかん",
-        "meaning": "laurels, garland"
+        "meaning": "laurels, garland |(vi) vòng nguyệt quế, vinh quang chiến thắng"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây)"
     },
     "parts": [
       "冖",

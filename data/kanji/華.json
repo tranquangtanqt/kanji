@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "hana, hanayakana",
-    "meaning": "magnificent, flower, brilliant, China",
+    "meaning": "magnificent, flower, brilliant, China |(vi) lộng lẫy, hoa, rực rỡ, Trung Hoa",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "華道（かどう）",
         "meaning": {
-          "english": "flower arrangement"
+          "english": "flower arrangement |(vi) nghệ thuật cắm hoa (kadō)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gou)ka_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "華氏（かし）",
         "meaning": {
-          "english": "Fahrenheit"
+          "english": "Fahrenheit |(vi) độ F (Fahrenheit)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gou)ka_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "中華料理（ちゅうかりょうり）",
         "meaning": {
-          "english": "Chinese food"
+          "english": "Chinese food |(vi) món ăn Trung Hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gou)ka_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "華麗な（かれいな）",
         "meaning": {
-          "english": "splendid, magnificent"
+          "english": "splendid, magnificent |(vi) lộng lẫy, tráng lệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gou)ka_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "華美な（かびな）",
         "meaning": {
-          "english": "splendid, showy, gaudy"
+          "english": "splendid, showy, gaudy |(vi) xa hoa, phô trương, lòe loẹt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gou)ka_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "豪華な（ごうかな）",
         "meaning": {
-          "english": "gorgeous, luxurious"
+          "english": "gorgeous, luxurious |(vi) sang trọng, xa hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gou)ka_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "法華経（ほけきょう）",
         "meaning": {
-          "english": "the Lotus Sutra"
+          "english": "the Lotus Sutra |(vi) kinh Pháp Hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gou)ka_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "華（はな）",
         "meaning": {
-          "english": "flower, essence"
+          "english": "flower, essence |(vi) hoa, tinh túy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gou)ka_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "華やかな（はなやかな）",
         "meaning": {
-          "english": "flowery, flamboyant"
+          "english": "flowery, flamboyant |(vi) rực rỡ, hào nhoáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gou)ka_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "華々しい（はなばなしい）",
         "meaning": {
-          "english": "spectacular, brilliant, glorious"
+          "english": "spectacular, brilliant, glorious |(vi) huy hoàng, rực rỡ, vinh quang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gou)ka_06_j.opus",
@@ -230,7 +230,7 @@
     "kanji": {
       "character": "華",
       "meaning": {
-        "english": "magnificent, flower, brilliant, China"
+        "english": "magnificent, flower, brilliant, China |(vi) lộng lẫy, hoa, rực rỡ, Trung Hoa"
       },
       "strokes": {
         "count": 10,
@@ -288,7 +288,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -309,7 +309,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1085",
     "strokeCount": 10,
-    "meaning": "splendor, flower, petal, shine, luster, ostentatious, showy, gay, gorgeous",
+    "meaning": "splendor, flower, petal, shine, luster, ostentatious, showy, gay, gorgeous |(vi) sự lộng lẫy, hoa, cánh hoa, ánh sáng, độ bóng, phô trương, hào nhoáng, rực rỡ, sang trọng |(hv) Hoa",
     "kunyomi": [
       "はな"
     ],
@@ -321,64 +321,64 @@
       {
         "example": "華",
         "reading": "カ",
-        "meaning": "flashiness, showiness, brilliance, splendor, bloom, flowers, Republic of China"
+        "meaning": "flashiness, showiness, brilliance, splendor, bloom, flowers, Republic of China |(vi) sự lòe loẹt, phô trương, rực rỡ, huy hoàng, nở rộ, hoa, Trung Hoa Dân Quốc"
       },
       {
         "example": "華僑",
         "reading": "カキョウ",
-        "meaning": "overseas Chinese"
+        "meaning": "overseas Chinese |(vi) Hoa kiều"
       },
       {
         "example": "献花",
         "reading": "ケンカ",
-        "meaning": "flower offering, floral tribute, laying flowers"
+        "meaning": "flower offering, floral tribute, laying flowers |(vi) dâng hoa, đặt hoa tưởng niệm"
       },
       {
         "example": "精華",
         "reading": "セイカ",
-        "meaning": "essence, quintessence, flower, glory"
+        "meaning": "essence, quintessence, flower, glory |(vi) tinh hoa, tinh túy, vinh quang"
       },
       {
         "example": "華厳",
         "reading": "ケゴン",
-        "meaning": "avatamsa (flower adornment, as a metaphor for becoming a buddha), Avatamska sutra, Kegon (sect of Buddhism)"
+        "meaning": "avatamsa (flower adornment, as a metaphor for becoming a buddha), Avatamska sutra, Kegon (sect of Buddhism) |(vi) Hoa Nghiêm (ẩn dụ trang nghiêm bằng hoa cho việc thành Phật), kinh Hoa Nghiêm, tông Hoa Nghiêm (một phái Phật giáo)"
       },
       {
         "example": "花かご",
         "reading": "ハナカゴ",
-        "meaning": "flower basket, flower basket (or plate) used for flower-scattering rituals"
+        "meaning": "flower basket, flower basket (or plate) used for flower-scattering rituals |(vi) giỏ hoa (dùng trong nghi lễ rải hoa)"
       },
       {
         "example": "法華",
         "reading": "ホッケ",
-        "meaning": "Nichiren sect, Tendai sect, Lotus Sutra"
+        "meaning": "Nichiren sect, Tendai sect, Lotus Sutra |(vi) tông Nhật Liên, tông Thiên Thai, kinh Pháp Hoa"
       },
       {
         "example": "天花",
         "reading": "テンゲ",
-        "meaning": "flowers that bloom in the heavens, paper flowers scattered before the Buddha's image"
+        "meaning": "flowers that bloom in the heavens, paper flowers scattered before the Buddha's image |(vi) hoa trời, hoa giấy rải trước tượng Phật"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "花",
         "reading": "はな",
-        "meaning": "flower, blossom, bloom, petal, cherry blossom, beauty, blooming (esp. of cherry blossoms), ikebana, hanafuda, (the) best, glorious, lovely"
+        "meaning": "flower, blossom, bloom, petal, cherry blossom, beauty, blooming (esp. of cherry blossoms), ikebana, hanafuda, (the) best, glorious, lovely |(vi) hoa, đóa hoa, sự nở hoa, cánh hoa, hoa anh đào, vẻ đẹp, nở rộ, cắm hoa, bài hanafuda, (cái) tốt nhất, huy hoàng, đáng yêu"
       },
       {
         "example": "華やか",
         "reading": "はなやか",
-        "meaning": "bright and beautiful, gorgeous, showy, brilliant, splendid, gay, colorful, flowery, prosperous, flourishing, thriving"
+        "meaning": "bright and beautiful, gorgeous, showy, brilliant, splendid, gay, colorful, flowery, prosperous, flourishing, thriving |(vi) rực rỡ và xinh đẹp, lộng lẫy, phô trương, huy hoàng, tráng lệ, vui tươi, đầy màu sắc, sặc sỡ, thịnh vượng, phát đạt, hưng thịnh"
       },
       {
         "example": "武士道の華",
         "reading": "ぶしどうのはな",
-        "meaning": "flower of chivalry (Bushido)"
+        "meaning": "flower of chivalry (Bushido) |(vi) tinh hoa của võ sĩ đạo (Bushido)"
       },
       {
         "example": "雪の花",
         "reading": "ゆきのはな",
-        "meaning": "snowdrop (Galanthus spp.), snow falling like flower petals, snow on a tree resembling a flower, red snow"
+        "meaning": "snowdrop (Galanthus spp.), snow falling like flower petals, snow on a tree resembling a flower, red snow |(vi) hoa giọt tuyết (Galanthus), tuyết rơi như cánh hoa, tuyết đọng trên cây tựa như hoa, tuyết đỏ"
       }
     ],
     "radical": {
@@ -386,7 +386,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "一",

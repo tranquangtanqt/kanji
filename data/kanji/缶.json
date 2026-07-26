@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "can",
+    "meaning": "can |(vi) lon, hộp thiếc",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "缶（かん）",
         "meaning": {
-          "english": "can, tin"
+          "english": "can, tin |(vi) lon, hộp thiếc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(zume)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "缶切り（かんきり）",
         "meaning": {
-          "english": "can opener"
+          "english": "can opener |(vi) dụng cụ mở hộp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(zume)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "缶詰め（かんづめ）",
         "meaning": {
-          "english": "canned goods, tin can"
+          "english": "canned goods, tin can |(vi) đồ hộp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(zume)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "空き缶（あきかん）",
         "meaning": {
-          "english": "empty can"
+          "english": "empty can |(vi) lon rỗng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(zume)_06_d.opus",
@@ -138,7 +138,7 @@
     "kanji": {
       "character": "缶",
       "meaning": {
-        "english": "can"
+        "english": "can |(vi) lon, hộp thiếc"
       },
       "strokes": {
         "count": 6,
@@ -188,7 +188,7 @@
         "romaji": "mizugame"
       },
       "meaning": {
-        "english": "earthen jar"
+        "english": "earthen jar |(vi) Phữu (vại đất, chum)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mizugame0.svg",
@@ -209,7 +209,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1543",
     "strokeCount": 6,
-    "meaning": "tin can, container, jar radical (no. 121)",
+    "meaning": "tin can, container, jar radical (no. 121) |(vi) lon thiếc, vật đựng, bộ phữu (số 121) |(hv) Phữu",
     "kunyomi": [
       "かま"
     ],
@@ -220,39 +220,39 @@
       {
         "example": "缶",
         "reading": "カン",
-        "meaning": "can, tin, canned food"
+        "meaning": "can, tin, canned food |(vi) lon, hộp thiếc, thức ăn đóng hộp"
       },
       {
         "example": "缶詰",
         "reading": "カンヅメ",
-        "meaning": "canned food, tinned food, confining someone (e.g. so they can concentrate on work), being stuck in a confined space"
+        "meaning": "canned food, tinned food, confining someone (e.g. so they can concentrate on work), being stuck in a confined space |(vi) đồ hộp, thực phẩm đóng hộp, giam giữ ai đó (để tập trung làm việc), bị nhốt trong không gian kín"
       },
       {
         "example": "ドラム缶",
         "reading": "ドラムカン",
-        "meaning": "drum (e.g. oil, gasoline), metal barrel"
+        "meaning": "drum (e.g. oil, gasoline), metal barrel |(vi) thùng phuy (dầu, xăng...), thùng kim loại"
       },
       {
         "example": "開缶",
         "reading": "カイカン",
-        "meaning": "opening a can"
+        "meaning": "opening a can |(vi) mở lon, mở hộp"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "缶",
         "reading": "かま",
-        "meaning": "boiler"
+        "meaning": "boiler |(vi) nồi hơi"
       },
       {
         "example": "罐焚き",
         "reading": "かまたき",
-        "meaning": "stoker, fireman"
+        "meaning": "stoker, fireman |(vi) thợ đốt lò, người đốt nồi hơi"
       }
     ],
     "radical": {
       "symbol": "缶",
-      "meaning": "jar"
+      "meaning": "jar |(vi) Phữu (vại đất, chum)"
     },
     "parts": [
       "凵",

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "hundred million",
+    "meaning": "hundred million |(vi) trăm triệu, ức",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "一億（いちおく）",
         "meaning": {
-          "english": "100,000,000"
+          "english": "100,000,000 |(vi) một trăm triệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ichi)oku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "億万長者（おくまんちょうじゃ）",
         "meaning": {
-          "english": "billionaire"
+          "english": "billionaire |(vi) tỷ phú"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ichi)oku_06_b.opus",
@@ -136,7 +136,7 @@
     "kanji": {
       "character": "億",
       "meaning": {
-        "english": "hundred million"
+        "english": "hundred million |(vi) trăm triệu, ức"
       },
       "strokes": {
         "count": 15,
@@ -204,7 +204,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -225,7 +225,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "716",
     "strokeCount": 15,
-    "meaning": "hundred million, 10**8",
+    "meaning": "hundred million, 10**8 |(vi) trăm triệu, 10 mũ 8 |(hv) Ức",
     "kunyomi": [],
     "onyomi": [
       "オク"
@@ -234,22 +234,22 @@
       {
         "example": "億",
         "reading": "オク",
-        "meaning": "hundred million, 100,000,000, 10^8"
+        "meaning": "hundred million, 100,000,000, 10^8 |(vi) trăm triệu, 10 mũ 8"
       },
       {
         "example": "億万",
         "reading": "オクマン",
-        "meaning": "millions and millions"
+        "meaning": "millions and millions |(vi) hàng triệu triệu, vô số"
       },
       {
         "example": "十億",
         "reading": "ジュウオク",
-        "meaning": "1,000,000,000, billion"
+        "meaning": "1,000,000,000, billion |(vi) một tỷ"
       },
       {
         "example": "１００億",
         "reading": "ヒャクオク",
-        "meaning": "10,000,000,000, ten billion"
+        "meaning": "10,000,000,000, ten billion |(vi) mười tỷ"
       }
     ],
     "kunyomiExamples": [],
@@ -258,7 +258,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "化",

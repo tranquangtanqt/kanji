@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "storage chamber, storehouse",
+    "meaning": "storage chamber, storehouse |(vi) kho chứa, nhà kho",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "倉庫（そうこ）",
         "meaning": {
-          "english": "storehouse, warehouse"
+          "english": "storehouse, warehouse |(vi) kho chứa, nhà kho"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ko_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "金庫（きんこ）",
         "meaning": {
-          "english": "safe [n.]"
+          "english": "safe [n.] |(vi) két sắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ko_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "車庫（しゃこ）",
         "meaning": {
-          "english": "garage"
+          "english": "garage |(vi) ga-ra, nhà để xe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ko_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "宝庫（ほうこ）",
         "meaning": {
-          "english": "treasury, treasure house"
+          "english": "treasury, treasure house |(vi) kho báu, kho tàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ko_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "在庫（ざいこ）",
         "meaning": {
-          "english": "stockpile, stock"
+          "english": "stockpile, stock |(vi) hàng tồn kho, dự trữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ko_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "文庫本（ぶんこぼん）",
         "meaning": {
-          "english": "paperback"
+          "english": "paperback |(vi) sách bỏ túi, sách khổ nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ko_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "格納庫（かくのうこ）",
         "meaning": {
-          "english": "hangar"
+          "english": "hangar |(vi) nhà chứa máy bay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ko_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "庫裏（くり）",
         "meaning": {
-          "english": "temple kitchen"
+          "english": "temple kitchen |(vi) nhà bếp của chùa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ko_06_h.opus",
@@ -197,7 +197,7 @@
     "kanji": {
       "character": "庫",
       "meaning": {
-        "english": "storage chamber, storehouse"
+        "english": "storage chamber, storehouse |(vi) kho chứa, nhà kho"
       },
       "strokes": {
         "count": 10,
@@ -255,7 +255,7 @@
         "romaji": "madare"
       },
       "meaning": {
-        "english": "slanting roof"
+        "english": "slanting roof |(vi) Nghiễm (mái nhà dốc, mái hiên)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/madare0.svg",
@@ -276,7 +276,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "852",
     "strokeCount": 10,
-    "meaning": "warehouse, storehouse",
+    "meaning": "warehouse, storehouse |(vi) kho, nhà kho |(hv) Khố",
     "kunyomi": [
       "くら"
     ],
@@ -288,49 +288,49 @@
       {
         "example": "庫内",
         "reading": "コナイ",
-        "meaning": "inside (a refrigerator, warehouse, etc.)"
+        "meaning": "inside (a refrigerator, warehouse, etc.) |(vi) bên trong (tủ lạnh, kho...)"
       },
       {
         "example": "住宅金融公庫",
         "reading": "ジュウタクキンユウコウコ",
-        "meaning": "Government Housing Loan Corporation"
+        "meaning": "Government Housing Loan Corporation |(vi) Công khố Tài chính Nhà ở (Nhật Bản)"
       },
       {
         "example": "公庫",
         "reading": "コウコ",
-        "meaning": "finance corporation"
+        "meaning": "finance corporation |(vi) công khố, quỹ tài chính công"
       },
       {
         "example": "蔵",
         "reading": "クラ",
-        "meaning": "warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator"
+        "meaning": "warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator |(vi) kho, nhà kho, hầm chứa, kho vũ khí, vựa lúa, kho lưu trữ, kho báu"
       },
       {
         "example": "庫院",
         "reading": "クイン",
-        "meaning": "kitchen-cum-office of a Zen temple or monastery, where meals are prepared and senior priests have their offices"
+        "meaning": "kitchen-cum-office of a Zen temple or monastery, where meals are prepared and senior priests have their offices |(vi) nhà bếp kiêm văn phòng của chùa Thiền"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蔵",
         "reading": "くら",
-        "meaning": "warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator"
+        "meaning": "warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator |(vi) kho, nhà kho, hầm chứa, kho vũ khí, vựa lúa, kho lưu trữ, kho báu"
       },
       {
         "example": "蔵入れ",
         "reading": "くらいれ",
-        "meaning": "warehousing, storing in a warehouse"
+        "meaning": "warehousing, storing in a warehouse |(vi) nhập kho, cất giữ trong kho"
       },
       {
         "example": "神庫",
         "reading": "ほくら",
-        "meaning": "small shrine, depository for sacred objects"
+        "meaning": "small shrine, depository for sacred objects |(vi) miếu nhỏ, nơi cất giữ vật thiêng"
       }
     ],
     "radical": {
       "symbol": "广",
-      "meaning": "house on cliff"
+      "meaning": "house on cliff |(vi) Nghiễm (nhà trên vách núi)"
     },
     "parts": [
       "广",

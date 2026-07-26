@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 3,
     "kunyomi": "to, toru, tori",
-    "meaning": "take",
+    "meaning": "take |(vi) lấy",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "取材する（しゅざいする）",
         "meaning": {
-          "english": "gather facts (for publication)"
+          "english": "gather facts (for publication) |(vi) thu thập tư liệu (để đăng bài), lấy tin"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-to(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "取得する（しゅとくする）",
         "meaning": {
-          "english": "acquire"
+          "english": "acquire |(vi) thủ đắc, giành được, lấy được"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-to(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "搾取する（さくしゅする）",
         "meaning": {
-          "english": "exploit"
+          "english": "exploit |(vi) bóc lột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-to(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "採取する（さいしゅする）",
         "meaning": {
-          "english": "collect"
+          "english": "collect |(vi) thu thập, lấy mẫu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-to(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "取る（とる）",
         "meaning": {
-          "english": "take"
+          "english": "take |(vi) lấy, cầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-to(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "取り組む（とりくむ）",
         "meaning": {
-          "english": "tackle"
+          "english": "tackle |(vi) bắt tay giải quyết, xử lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-to(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "取り扱う（とりあつかう）",
         "meaning": {
-          "english": "handle"
+          "english": "handle |(vi) xử lý, đối xử, thao tác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-to(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "書き取る（かきとる）",
         "meaning": {
-          "english": "take dictation, take down"
+          "english": "take dictation, take down |(vi) chép chính tả, ghi lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-to(ru)_06_h.opus",
@@ -247,7 +247,7 @@
     "kanji": {
       "character": "取",
       "meaning": {
-        "english": "take"
+        "english": "take |(vi) lấy"
       },
       "strokes": {
         "count": 8,
@@ -301,7 +301,7 @@
         "romaji": "mata"
       },
       "meaning": {
-        "english": "again, right hand"
+        "english": "again, right hand |(vi) Hựu (lại nữa, bàn tay phải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mata0.svg",
@@ -322,7 +322,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "122",
     "strokeCount": 8,
-    "meaning": "take, fetch, take up",
+    "meaning": "take, fetch, take up |(vi) lấy, mang về, cầm lấy |(hv) Thủ",
     "kunyomi": [
       "と.る",
       "と.り",
@@ -337,79 +337,79 @@
       {
         "example": "取",
         "reading": "シュ",
-        "meaning": "appropriation, obtaining"
+        "meaning": "appropriation, obtaining |(vi) sự chiếm lấy, sự thu được"
       },
       {
         "example": "取材",
         "reading": "シュザイ",
-        "meaning": "gathering material (for an article, novel, etc.), collecting information, covering (an event, incident, etc.), reporting, interview (for a news story)"
+        "meaning": "gathering material (for an article, novel, etc.), collecting information, covering (an event, incident, etc.), reporting, interview (for a news story) |(vi) thủ tài, việc thu thập tư liệu (cho bài viết, tiểu thuyết...), việc thu thập thông tin, việc đưa tin (về sự kiện, vụ việc...), sự tường thuật, cuộc phỏng vấn (lấy tin)"
       },
       {
         "example": "先取",
         "reading": "センシュ",
-        "meaning": "earning the first (runs), preoccupation"
+        "meaning": "earning the first (runs), preoccupation |(vi) tiên thủ, sự ghi điểm trước, sự chiếm trước"
       },
       {
         "example": "聴取",
         "reading": "チョウシュ",
-        "meaning": "hearing (of a statement, opinion, explanation, etc.), asking, questioning (e.g. a suspect), enquiry, listening (e.g. to the radio)"
+        "meaning": "hearing (of a statement, opinion, explanation, etc.), asking, questioning (e.g. a suspect), enquiry, listening (e.g. to the radio) |(vi) thính thủ, việc nghe (lời khai, ý kiến, giải trình...), việc hỏi, việc thẩm vấn (nghi phạm...), sự điều tra, việc nghe (đài...)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "取る",
         "reading": "とる",
-        "meaning": "to take, to pick up, to grab, to catch, to hold, to pass, to hand, to give, to get, to obtain, to acquire, to win, to receive, to earn, to take (e.g. a vacation), to adopt (a method, proposal, etc.), to take (a measure, attitude, etc.), to choose, to remove, to get rid of, to take off, to take away, to steal, to rob, to eat, to have (e.g. lunch), to take (e.g. vitamins), to pick (e.g. flowers), to gather, to extract (e.g. juice), to catch (e.g. fish), to harvest (a crop), to take up (time, space), to occupy, to spare, to set aside, to secure, to reserve, to save, to put aside, to keep, to take (e.g. a joke), to interpret, to understand, to make out, to grasp, to record, to take down, to subscribe to (e.g. a newspaper), to take, to buy, to get, to order, to have delivered, to charge, to fine, to take (tax), to take (e.g. a wife), to take on (e.g. an apprentice), to adopt, to accept, to take control of, to take (the rudder), to compete (in sumo, cards, etc.), to play"
+        "meaning": "to take, to pick up, to grab, to catch, to hold, to pass, to hand, to give, to get, to obtain, to acquire, to win, to receive, to earn, to take (e.g. a vacation), to adopt (a method, proposal, etc.), to take (a measure, attitude, etc.), to choose, to remove, to get rid of, to take off, to take away, to steal, to rob, to eat, to have (e.g. lunch), to take (e.g. vitamins), to pick (e.g. flowers), to gather, to extract (e.g. juice), to catch (e.g. fish), to harvest (a crop), to take up (time, space), to occupy, to spare, to set aside, to secure, to reserve, to save, to put aside, to keep, to take (e.g. a joke), to interpret, to understand, to make out, to grasp, to record, to take down, to subscribe to (e.g. a newspaper), to take, to buy, to get, to order, to have delivered, to charge, to fine, to take (tax), to take (e.g. a wife), to take on (e.g. an apprentice), to adopt, to accept, to take control of, to take (the rudder), to compete (in sumo, cards, etc.), to play |(vi) lấy, nhặt lên, nắm lấy, bắt lấy, cầm, đưa, chuyển tay, trao, nhận được, có được, giành được, thắng, nhận, kiếm được, lấy (kỳ nghỉ...), áp dụng (phương pháp, đề xuất...), áp dụng (biện pháp, thái độ...), chọn, bỏ đi, loại bỏ, tháo ra, lấy đi, trộm, cướp, ăn, dùng (bữa trưa...), uống (vitamin...), hái (hoa...), thu lượm, chiết (nước ép...), bắt (cá...), thu hoạch (mùa màng), chiếm (thời gian, chỗ), chiếm chỗ, dành ra, để riêng, giữ chắc, đặt trước, dành dụm, để dành, giữ lại, hiểu (câu đùa...), diễn giải, hiểu ra, nhận ra, nắm bắt, ghi lại, chép lại, đặt mua dài hạn (báo...), mua, lấy về, đặt hàng, cho giao tới, tính phí, phạt tiền, thu (thuế), lấy (vợ...), nhận (học trò...), nhận nuôi, chấp nhận, nắm quyền kiểm soát, cầm (lái), thi đấu (sumo, bài...), chơi"
       },
       {
         "example": "取るに足らない",
         "reading": "とるにたらない",
-        "meaning": "insignificant, inconsequential, trifling, negligible, of little importance"
+        "meaning": "insignificant, inconsequential, trifling, negligible, of little importance |(vi) không đáng kể, không quan trọng, vặt vãnh, không đáng bận tâm, ít giá trị"
       },
       {
         "example": "取り",
         "reading": "とり",
-        "meaning": "taking, taker, collecting, collector, remover, removal, last performer of the day (usu. the star performer), last performance of the day, active partner (e.g. in judo demonstration), emphatic or formal prefix"
+        "meaning": "taking, taker, collecting, collector, remover, removal, last performer of the day (usu. the star performer), last performance of the day, active partner (e.g. in judo demonstration), emphatic or formal prefix |(vi) sự lấy, người lấy, sự thu gom, người thu gom, người gỡ bỏ, sự gỡ bỏ, tiết mục cuối ngày (thường là ngôi sao), màn diễn cuối ngày, người ra đòn (trong biểu diễn judo), tiền tố nhấn mạnh hoặc trang trọng"
       },
       {
         "example": "取り扱い",
         "reading": "とりあつかい",
-        "meaning": "treatment, service, handling, management"
+        "meaning": "treatment, service, handling, management |(vi) sự đối xử, dịch vụ, việc xử lý, việc quản lý"
       },
       {
         "example": "関取",
         "reading": "せきとり",
-        "meaning": "ranking wrestler in the makuuchi (senior-grade) or juryo (junior-grade) divisions"
+        "meaning": "ranking wrestler in the makuuchi (senior-grade) or juryo (junior-grade) divisions |(vi) sekitori, đô vật sumo hạng makuuchi (cao cấp) hoặc juryo (cận cao cấp)"
       },
       {
         "example": "買取",
         "reading": "かいとり",
-        "meaning": "purchase, buying, buying out, buying used articles as a company, trade-in, buy back, purchase on a no-return policy, lump-sum payment, flat fee"
+        "meaning": "purchase, buying, buying out, buying used articles as a company, trade-in, buy back, purchase on a no-return policy, lump-sum payment, flat fee |(vi) sự mua lại, việc mua, việc mua đứt, việc doanh nghiệp thu mua đồ cũ, sự đổi cũ lấy mới, việc mua lại, việc mua không hoàn trả, thanh toán trọn gói, phí khoán"
       },
       {
         "example": "取り",
         "reading": "とり",
-        "meaning": "taking, taker, collecting, collector, remover, removal, last performer of the day (usu. the star performer), last performance of the day, active partner (e.g. in judo demonstration), emphatic or formal prefix"
+        "meaning": "taking, taker, collecting, collector, remover, removal, last performer of the day (usu. the star performer), last performance of the day, active partner (e.g. in judo demonstration), emphatic or formal prefix |(vi) sự lấy, người lấy, sự thu gom, người thu gom, người gỡ bỏ, sự gỡ bỏ, tiết mục cuối ngày (thường là ngôi sao), màn diễn cuối ngày, người ra đòn (trong biểu diễn judo), tiền tố nhấn mạnh hoặc trang trọng"
       },
       {
         "example": "取り扱い",
         "reading": "とりあつかい",
-        "meaning": "treatment, service, handling, management"
+        "meaning": "treatment, service, handling, management |(vi) sự đối xử, dịch vụ, việc xử lý, việc quản lý"
       },
       {
         "example": "関取",
         "reading": "せきとり",
-        "meaning": "ranking wrestler in the makuuchi (senior-grade) or juryo (junior-grade) divisions"
+        "meaning": "ranking wrestler in the makuuchi (senior-grade) or juryo (junior-grade) divisions |(vi) sekitori, đô vật sumo hạng makuuchi (cao cấp) hoặc juryo (cận cao cấp)"
       },
       {
         "example": "買取",
         "reading": "かいとり",
-        "meaning": "purchase, buying, buying out, buying used articles as a company, trade-in, buy back, purchase on a no-return policy, lump-sum payment, flat fee"
+        "meaning": "purchase, buying, buying out, buying used articles as a company, trade-in, buy back, purchase on a no-return policy, lump-sum payment, flat fee |(vi) sự mua lại, việc mua, việc mua đứt, việc doanh nghiệp thu mua đồ cũ, sự đổi cũ lấy mới, việc mua lại, việc mua không hoàn trả, thanh toán trọn gói, phí khoán"
       }
     ],
     "radical": {
       "symbol": "又",
-      "meaning": "right hand"
+      "meaning": "right hand |(vi) Hựu (bàn tay phải)"
     },
     "parts": [
       "又",

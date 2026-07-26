@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 6,
     "kunyomi": "atai",
-    "meaning": "price, value",
+    "meaning": "price, value |(vi) giá cả, giá trị",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "価格（かかく）",
         "meaning": {
-          "english": "price"
+          "english": "price |(vi) giá cả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-atai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "価値（かち）",
         "meaning": {
-          "english": "value"
+          "english": "value |(vi) giá trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-atai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "物価（ぶっか）",
         "meaning": {
-          "english": "cost-of-living"
+          "english": "cost-of-living |(vi) vật giá, chi phí sinh hoạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-atai_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "定価（ていか）",
         "meaning": {
-          "english": "list price"
+          "english": "list price |(vi) giá niêm yết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-atai_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "高価な（こうかな）",
         "meaning": {
-          "english": "expensive"
+          "english": "expensive |(vi) đắt tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-atai_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "安価な（あんかな）",
         "meaning": {
-          "english": "cheap"
+          "english": "cheap |(vi) rẻ tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-atai_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "評価する（ひょうかする）",
         "meaning": {
-          "english": "evaluate"
+          "english": "evaluate |(vi) đánh giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-atai_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "価（あたい）",
         "meaning": {
-          "english": "value"
+          "english": "value |(vi) giá trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-atai_06_h.opus",
@@ -215,7 +215,7 @@
     "kanji": {
       "character": "価",
       "meaning": {
-        "english": "price, value"
+        "english": "price, value |(vi) giá cả, giá trị"
       },
       "strokes": {
         "count": 8,
@@ -269,7 +269,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -290,7 +290,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "250",
     "strokeCount": 8,
-    "meaning": "value, price",
+    "meaning": "value, price |(vi) giá trị, giá cả |(hv) Giá",
     "kunyomi": [
       "あたい"
     ],
@@ -302,34 +302,34 @@
       {
         "example": "価",
         "reading": "カ",
-        "meaning": "valence, valency"
+        "meaning": "valence, valency |(vi) hóa trị"
       },
       {
         "example": "価格",
         "reading": "カカク",
-        "meaning": "price, value, cost"
+        "meaning": "price, value, cost |(vi) giá cả, giá trị, chi phí"
       },
       {
         "example": "時価",
         "reading": "ジカ",
-        "meaning": "current value, price, market value"
+        "meaning": "current value, price, market value |(vi) giá trị hiện tại, giá thị trường"
       },
       {
         "example": "薬価",
         "reading": "ヤッカ",
-        "meaning": "drug price, cost of medicine"
+        "meaning": "drug price, cost of medicine |(vi) giá thuốc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "値",
         "reading": "あたい",
-        "meaning": "price, cost, value, worth, merit, value"
+        "meaning": "price, cost, value, worth, merit, value |(vi) giá, chi phí, giá trị, đáng giá, công lao"
       },
       {
         "example": "値する",
         "reading": "あたいする",
-        "meaning": "to be worth, to be worthy of, to deserve, to merit"
+        "meaning": "to be worth, to be worthy of, to deserve, to merit |(vi) đáng giá, xứng đáng, đáng được"
       }
     ],
     "radical": {
@@ -337,7 +337,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "化",

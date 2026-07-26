@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "discuss, legislative body, deliberation",
+    "meaning": "discuss, legislative body, deliberation |(vi) thảo luận, cơ quan lập pháp, thẩm nghị",
     "kstroke": 20,
     "examples": [
       {
         "japanese": "議会（ぎかい）",
         "meaning": {
-          "english": "congress"
+          "english": "congress |(vi) quốc hội, nghị viện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fushi)gi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "議員（ぎいん）",
         "meaning": {
-          "english": "member of congress"
+          "english": "member of congress |(vi) nghị sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fushi)gi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "議長（ぎちょう）",
         "meaning": {
-          "english": "chairman"
+          "english": "chairman |(vi) chủ tịch (hội nghị)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fushi)gi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "議題（ぎだい）",
         "meaning": {
-          "english": "topic of discussion"
+          "english": "topic of discussion |(vi) chủ đề thảo luận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fushi)gi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "議論（ぎろん）",
         "meaning": {
-          "english": "argument, discussion"
+          "english": "argument, discussion |(vi) tranh luận, thảo luận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fushi)gi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "会議（かいぎ）",
         "meaning": {
-          "english": "meeting, conference"
+          "english": "meeting, conference |(vi) cuộc họp, hội nghị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fushi)gi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "異議（いぎ）",
         "meaning": {
-          "english": "objection, dissent"
+          "english": "objection, dissent |(vi) sự phản đối, sự bất đồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fushi)gi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "衆議院（しゅうぎいん）",
         "meaning": {
-          "english": "House of Representatives"
+          "english": "House of Representatives |(vi) Hạ viện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fushi)gi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "参議院（さんぎいん）",
         "meaning": {
-          "english": "House of Councilors"
+          "english": "House of Councilors |(vi) Thượng viện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fushi)gi_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "不思議な（ふしぎな）",
         "meaning": {
-          "english": "strange, mysterious"
+          "english": "strange, mysterious |(vi) kỳ lạ, huyền bí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fushi)gi_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "論議する（ろんぎする）",
         "meaning": {
-          "english": "argue, discuss"
+          "english": "argue, discuss |(vi) tranh luận, bàn bạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fushi)gi_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "審議する（しんぎする）",
         "meaning": {
-          "english": "discuss a case (e.g. law)"
+          "english": "discuss a case (e.g. law) |(vi) thẩm định, thảo luận (một vụ việc, luật...)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fushi)gi_06_l.opus",
@@ -285,7 +285,7 @@
     "kanji": {
       "character": "議",
       "meaning": {
-        "english": "discuss, legislative body, deliberation"
+        "english": "discuss, legislative body, deliberation |(vi) thảo luận, cơ quan lập pháp, thẩm nghị"
       },
       "strokes": {
         "count": 20,
@@ -363,7 +363,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -384,7 +384,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "25",
     "strokeCount": 20,
-    "meaning": "deliberation, consultation, debate, consideration",
+    "meaning": "deliberation, consultation, debate, consideration |(vi) sự thẩm nghị, tham vấn, tranh luận, cân nhắc |(hv) Nghị",
     "kunyomi": [],
     "onyomi": [
       "ギ"
@@ -393,22 +393,22 @@
       {
         "example": "議",
         "reading": "ギ",
-        "meaning": "discussion, deliberation, thought, opinion"
+        "meaning": "discussion, deliberation, thought, opinion |(vi) thảo luận, thẩm nghị, suy nghĩ, ý kiến"
       },
       {
         "example": "議案",
         "reading": "ギアン",
-        "meaning": "legislative bill, measure, agenda item"
+        "meaning": "legislative bill, measure, agenda item |(vi) dự luật, biện pháp, mục trong chương trình nghị sự"
       },
       {
         "example": "本会議",
         "reading": "ホンカイギ",
-        "meaning": "plenary session, regular session"
+        "meaning": "plenary session, regular session |(vi) phiên họp toàn thể, phiên họp chính thức"
       },
       {
         "example": "日本学術会議",
         "reading": "ニホンガクジュツカイギ",
-        "meaning": "Science Council of Japan"
+        "meaning": "Science Council of Japan |(vi) Hội đồng Khoa học Nhật Bản"
       }
     ],
     "kunyomiExamples": [],
@@ -417,7 +417,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "一",

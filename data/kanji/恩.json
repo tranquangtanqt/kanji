@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "grace, favor, debt of gratitude",
+    "meaning": "grace, favor, debt of gratitude |(vi) ơn huệ, ân sủng, món nợ ân tình",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "恩（おん）",
         "meaning": {
-          "english": "debt of gratitude"
+          "english": "debt of gratitude |(vi) ơn nghĩa, ân tình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(shi)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "恩恵（おんけい）",
         "meaning": {
-          "english": "grace, favor, blessing, benefit"
+          "english": "grace, favor, blessing, benefit |(vi) ân huệ, phúc lành, lợi ích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(shi)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "恩人（おんじん）",
         "meaning": {
-          "english": "benefactor, patron"
+          "english": "benefactor, patron |(vi) ân nhân, người bảo trợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(shi)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "恩義（おんぎ）",
         "meaning": {
-          "english": "debt of gratitude"
+          "english": "debt of gratitude |(vi) ơn nghĩa, nghĩa vụ báo đáp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(shi)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "恩師（おんし）",
         "meaning": {
-          "english": "one's honored teacher"
+          "english": "one's honored teacher |(vi) thầy cô đáng kính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(shi)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "恩返し（おんがえし）",
         "meaning": {
-          "english": "repayment of a favor"
+          "english": "repayment of a favor |(vi) báo đáp ân nghĩa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(shi)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "恩知らず（おんしらず）",
         "meaning": {
-          "english": "ungrateful person"
+          "english": "ungrateful person |(vi) kẻ vô ơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(shi)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "謝恩会（しゃおんかい）",
         "meaning": {
-          "english": "thank-you party"
+          "english": "thank-you party |(vi) tiệc tạ ơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/on(shi)_06_h.opus",
@@ -186,7 +186,7 @@
     "kanji": {
       "character": "恩",
       "meaning": {
-        "english": "grace, favor, debt of gratitude"
+        "english": "grace, favor, debt of gratitude |(vi) ơn huệ, ân sủng, món nợ ân tình"
       },
       "strokes": {
         "count": 10,
@@ -244,7 +244,7 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (trái tim, tâm trí)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -265,7 +265,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1418",
     "strokeCount": 10,
-    "meaning": "grace, kindness, goodness, favor, mercy, blessing, benefit",
+    "meaning": "grace, kindness, goodness, favor, mercy, blessing, benefit |(vi) ân huệ, lòng tốt, sự tử tế, ân sủng, lòng thương xót, phúc lành, lợi ích |(hv) Ân",
     "kunyomi": [],
     "onyomi": [
       "オン"
@@ -274,22 +274,22 @@
       {
         "example": "恩",
         "reading": "オン",
-        "meaning": "favour, favor, obligation, debt of gratitude"
+        "meaning": "favour, favor, obligation, debt of gratitude |(vi) ân huệ, nghĩa vụ, món nợ ân tình"
       },
       {
         "example": "恩返し",
         "reading": "オンガエシ",
-        "meaning": "paying back a favour, repayment (of an obligation, kindness, etc.)"
+        "meaning": "paying back a favour, repayment (of an obligation, kindness, etc.) |(vi) báo đáp ân nghĩa"
       },
       {
         "example": "迎恩",
         "reading": "ゲイオン",
-        "meaning": "welcoming reception"
+        "meaning": "welcoming reception |(vi) lễ đón tiếp"
       },
       {
         "example": "聖恩",
         "reading": "セイオン",
-        "meaning": "imperial blessings or favor (favour)"
+        "meaning": "imperial blessings or favor (favour) |(vi) ân sủng của hoàng đế"
       }
     ],
     "kunyomiExamples": [],
@@ -299,7 +299,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim)"
     },
     "parts": [
       "囗",

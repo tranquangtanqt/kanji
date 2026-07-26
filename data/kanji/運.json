@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "hako, hakobu",
-    "meaning": "carry, move, fortune",
+    "meaning": "carry, move, fortune |(vi) mang, di chuyển, vận may",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "運動する（うんどうする）",
         "meaning": {
-          "english": "exercise"
+          "english": "exercise |(vi) tập thể dục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "運転する（うんてんする）",
         "meaning": {
-          "english": "operate, drive"
+          "english": "operate, drive |(vi) vận hành, lái xe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "準備運動（じゅんびうんどう）",
         "meaning": {
-          "english": "warming-up exercises"
+          "english": "warming-up exercises |(vi) khởi động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "運賃（うんちん）",
         "meaning": {
-          "english": "fare"
+          "english": "fare |(vi) cước phí, giá vé"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "運動靴（うんどうぐつ）",
         "meaning": {
-          "english": "sneakers"
+          "english": "sneakers |(vi) giày thể thao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "運命（うんめい）",
         "meaning": {
-          "english": "fate"
+          "english": "fate |(vi) số phận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "好運（こううん）",
         "meaning": {
-          "english": "good luck"
+          "english": "good luck |(vi) may mắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "不運（ふうん）",
         "meaning": {
-          "english": "bad luck"
+          "english": "bad luck |(vi) vận rủi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "運ぶ（はこぶ）",
         "meaning": {
-          "english": "transport"
+          "english": "transport |(vi) vận chuyển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_i.opus",
@@ -302,7 +302,7 @@
     "kanji": {
       "character": "運",
       "meaning": {
-        "english": "carry, move, fortune"
+        "english": "carry, move, fortune |(vi) mang, di chuyển, vận may"
       },
       "strokes": {
         "count": 12,
@@ -364,7 +364,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đi, bước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -385,7 +385,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "255",
     "strokeCount": 12,
-    "meaning": "carry, luck, destiny, fate, lot, transport, progress, advance",
+    "meaning": "carry, luck, destiny, fate, lot, transport, progress, advance |(vi) mang, vận may, số phận, định mệnh, vận số, vận chuyển, tiến triển, tiến bước |(hv) Vận",
     "kunyomi": [
       "はこ.ぶ"
     ],
@@ -396,29 +396,29 @@
       {
         "example": "運",
         "reading": "ウン",
-        "meaning": "fortune, luck, chance"
+        "meaning": "fortune, luck, chance |(vi) vận may, may mắn, cơ hội"
       },
       {
         "example": "運営",
         "reading": "ウンエイ",
-        "meaning": "management, administration, operation"
+        "meaning": "management, administration, operation |(vi) quản lý, điều hành, vận hành"
       },
       {
         "example": "機運",
         "reading": "キウン",
-        "meaning": "opportunity, chance, good time (to do), trend, tendency, momentum"
+        "meaning": "opportunity, chance, good time (to do), trend, tendency, momentum |(vi) cơ hội, thời cơ, thời điểm thích hợp, xu hướng, đà"
       },
       {
         "example": "命運",
         "reading": "メイウン",
-        "meaning": "fate, destiny"
+        "meaning": "fate, destiny |(vi) số phận, định mệnh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "運ぶ",
         "reading": "はこぶ",
-        "meaning": "to carry, to transport, to move, to convey, to come, to go, to use (a brush, chopsticks, etc.), to move, to carry out, to proceed with, to arrange, to go (well, etc.), to proceed, to progress"
+        "meaning": "to carry, to transport, to move, to convey, to come, to go, to use (a brush, chopsticks, etc.), to move, to carry out, to proceed with, to arrange, to go (well, etc.), to proceed, to progress |(vi) mang, vận chuyển, di chuyển, chuyển, đến, đi, sử dụng (bút lông, đũa...), tiến hành, thu xếp, tiến triển (thuận lợi...)"
       }
     ],
     "radical": {
@@ -428,7 +428,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, bước)"
     },
     "parts": [
       "冖",

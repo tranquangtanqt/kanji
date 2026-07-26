@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "i, iru, sa, sasu",
-    "meaning": "shoot",
+    "meaning": "shoot |(vi) bắn",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "射撃（しゃげき）",
         "meaning": {
-          "english": "shot, gunshot"
+          "english": "shot, gunshot |(vi) xạ kích, sự bắn súng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha(geki)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "注射（ちゅうしゃ）",
         "meaning": {
-          "english": "injection"
+          "english": "injection |(vi) tiêm, mũi tiêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha(geki)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "放射線（ほうしゃせん）",
         "meaning": {
-          "english": "radiation"
+          "english": "radiation |(vi) tia phóng xạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha(geki)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "放射能（ほうしゃのう）",
         "meaning": {
-          "english": "radioactivity"
+          "english": "radioactivity |(vi) phóng xạ, tính phóng xạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha(geki)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "日射病（にっしゃびょう）",
         "meaning": {
-          "english": "heatstroke, sunstroke"
+          "english": "heatstroke, sunstroke |(vi) say nắng, cảm nắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha(geki)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "直射日光（ちょくしゃにっこう）",
         "meaning": {
-          "english": "direct sunlight"
+          "english": "direct sunlight |(vi) ánh nắng chiếu trực tiếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha(geki)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "射殺する（しゃさつする）",
         "meaning": {
-          "english": "shoot and kill a person"
+          "english": "shoot and kill a person |(vi) bắn chết người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha(geki)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "反射する（はんしゃする）",
         "meaning": {
-          "english": "reflect, reverberate"
+          "english": "reflect, reverberate |(vi) phản xạ, dội lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha(geki)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "発射する（はっしゃする）",
         "meaning": {
-          "english": "fire, shoot, discharge"
+          "english": "fire, shoot, discharge |(vi) bắn, phóng, khai hỏa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha(geki)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "射る（いる）",
         "meaning": {
-          "english": "shoot [v.t.]"
+          "english": "shoot [v.t.] |(vi) bắn (tên) [tha động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha(geki)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "射す（さす）",
         "meaning": {
-          "english": "shine, strike [v.i.]"
+          "english": "shine, strike [v.i.] |(vi) chiếu, rọi vào [tự động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha(geki)_06_k.opus",
@@ -236,7 +236,7 @@
     "kanji": {
       "character": "射",
       "meaning": {
-        "english": "shoot"
+        "english": "shoot |(vi) bắn"
       },
       "strokes": {
         "count": 10,
@@ -294,7 +294,7 @@
         "romaji": "sunzukuri"
       },
       "meaning": {
-        "english": "inch, (2.25 cm)"
+        "english": "inch, (2.25 cm) |(vi) Thốn (tấc, khoảng 2,25 cm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sunzukuri0.svg",
@@ -315,7 +315,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "937",
     "strokeCount": 10,
-    "meaning": "shoot, shine into, onto, archery",
+    "meaning": "shoot, shine into, onto, archery |(vi) bắn, chiếu vào, rọi lên, thuật bắn cung |(hv) Xạ",
     "kunyomi": [
       "い.る",
       "さ.す",
@@ -328,44 +328,44 @@
       {
         "example": "射",
         "reading": "シャ",
-        "meaning": "archery, mapping, map, morphism, arrow"
+        "meaning": "archery, mapping, map, morphism, arrow |(vi) thuật bắn cung, ánh xạ, phép ánh xạ, cấu xạ, mũi tên (trong toán học)"
       },
       {
         "example": "射撃",
         "reading": "シャゲキ",
-        "meaning": "firing, shooting, fire, gunshot, marksmanship"
+        "meaning": "firing, shooting, fire, gunshot, marksmanship |(vi) sự bắn, xạ kích, hỏa lực, tiếng súng, tài thiện xạ"
       },
       {
         "example": "照射",
         "reading": "ショウシャ",
-        "meaning": "irradiation, radiation, beaming, exposure (to light), illumination"
+        "meaning": "irradiation, radiation, beaming, exposure (to light), illumination |(vi) chiếu xạ, sự bức xạ, sự rọi chiếu, phơi (dưới ánh sáng), sự chiếu sáng"
       },
       {
         "example": "投射",
         "reading": "トウシャ",
-        "meaning": "projection (of an image)"
+        "meaning": "projection (of an image) |(vi) sự chiếu (hình ảnh), phép chiếu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "射る",
         "reading": "いる",
-        "meaning": "to shoot (arrow, bolt, dart)"
+        "meaning": "to shoot (arrow, bolt, dart) |(vi) bắn (tên, nỏ, phi tiêu)"
       },
       {
         "example": "射す",
         "reading": "さす",
-        "meaning": "to shine"
+        "meaning": "to shine |(vi) chiếu, rọi"
       },
       {
         "example": "撃つ",
         "reading": "うつ",
-        "meaning": "to shoot (a gun, person, etc.), to fire"
+        "meaning": "to shoot (a gun, person, etc.), to fire |(vi) bắn (súng, bắn người...), khai hỏa"
       }
     ],
     "radical": {
       "symbol": "寸",
-      "meaning": "thumb, inch"
+      "meaning": "thumb, inch |(vi) Thốn (ngón tay cái, tấc)"
     },
     "parts": [
       "寸",

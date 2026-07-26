@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "ko, komu, komeru",
-    "meaning": "move inward, include, be congested",
+    "meaning": "move inward, include, be congested |(vi) đi vào trong, bao gồm, đông đúc",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "込める（こめる）",
         "meaning": {
-          "english": "include, put into [v.t.]"
+          "english": "include, put into [v.t.] |(vi) gồm có, đưa vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nori)ko(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "閉じ込める（とじこめる）",
         "meaning": {
-          "english": "lock up, shut up, imprison"
+          "english": "lock up, shut up, imprison |(vi) khóa lại, nhốt lại, giam giữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nori)ko(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "引っ込める（ひっこめる）",
         "meaning": {
-          "english": "draw in, take in, retract"
+          "english": "draw in, take in, retract |(vi) kéo vào, thu vào, rút lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nori)ko(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "込む（こむ）",
         "meaning": {
-          "english": "be crowded, be thronged [v.i.]"
+          "english": "be crowded, be thronged [v.i.] |(vi) đông đúc, chật ních"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nori)ko(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "乗り込む（のりこむ）",
         "meaning": {
-          "english": "board, embark on, get in"
+          "english": "board, embark on, get in |(vi) lên (xe, tàu), bước vào, tiến vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nori)ko(mu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "黙り込む（だまりこむ）",
         "meaning": {
-          "english": "sink into silence"
+          "english": "sink into silence |(vi) chìm vào im lặng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nori)ko(mu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "書き込む（かきこむ）",
         "meaning": {
-          "english": "fill in (writing)"
+          "english": "fill in (writing) |(vi) điền vào (viết)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nori)ko(mu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "持ち込む（もちこむ）",
         "meaning": {
-          "english": "bring in"
+          "english": "bring in |(vi) mang vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nori)ko(mu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "払い込む（はらいこむ）",
         "meaning": {
-          "english": "deposit, make payment"
+          "english": "deposit, make payment |(vi) gửi tiền, thanh toán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nori)ko(mu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "人込み（ひとごみ）",
         "meaning": {
-          "english": "crowd of people"
+          "english": "crowd of people |(vi) đám đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nori)ko(mu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "税込み（ぜいこみ）",
         "meaning": {
-          "english": "tax included"
+          "english": "tax included |(vi) đã bao gồm thuế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nori)ko(mu)_06_k.opus",
@@ -249,7 +249,7 @@
     "kanji": {
       "character": "込",
       "meaning": {
-        "english": "move inward, include, be congested"
+        "english": "move inward, include, be congested |(vi) đi vào trong, bao gồm, đông đúc"
       },
       "strokes": {
         "count": 5,
@@ -297,7 +297,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đi, bước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -318,7 +318,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "675",
     "strokeCount": 5,
-    "meaning": "crowded, mixture, in bulk, included, (kokuji)",
+    "meaning": "crowded, mixture, in bulk, included, (kokuji) |(vi) đông đúc, hỗn hợp, cả gói, bao gồm, (chữ quốc tự Nhật, không có âm Hán Việt) |(hv) (quốc tự)",
     "kunyomi": [
       "-こ.む",
       "こ.む",
@@ -332,32 +332,32 @@
       {
         "example": "込む",
         "reading": "こむ",
-        "meaning": "to be crowded, to be packed, to be congested, to be thronged (with), to be complex, to be intricate, to go into, to go in, to put into, to become (completely), to do thoroughly, to do sufficiently, to remain (silent, seated, etc.), to stay ..."
+        "meaning": "to be crowded, to be packed, to be congested, to be thronged (with), to be complex, to be intricate, to go into, to go in, to put into, to become (completely), to do thoroughly, to do sufficiently, to remain (silent, seated, etc.), to stay ... |(vi) đông đúc, chật ních, tắc nghẽn, phức tạp, rắc rối, đi vào, đưa vào, trở nên (hoàn toàn), làm kỹ càng, làm đầy đủ, giữ nguyên (im lặng, ngồi yên...), cứ ở lại"
       },
       {
         "example": "込み",
         "reading": "こみ",
-        "meaning": "including ..., inclusive of ..., bundling together (items of different size, quality, etc.), lumping together, komi, extra points given to the white player as compensation for playing second"
+        "meaning": "including ..., inclusive of ..., bundling together (items of different size, quality, etc.), lumping together, komi, extra points given to the white player as compensation for playing second |(vi) bao gồm cả..., gộp chung (các món khác kích cỡ, chất lượng...), gộp lại, komi, điểm cộng thêm cho người cầm quân trắng để bù cho việc đi sau (cờ vây)"
       },
       {
         "example": "混み合う",
         "reading": "こみあう",
-        "meaning": "to be crowded, to be packed, to be jammed"
+        "meaning": "to be crowded, to be packed, to be jammed |(vi) đông đúc, chật ních, nghẹt cứng"
       },
       {
         "example": "割り込み",
         "reading": "わりこみ",
-        "meaning": "queue jumping, breaking into a line, muscling in on, wedging oneself in, interruption, sharing a theater box (theatre), interrupt"
+        "meaning": "queue jumping, breaking into a line, muscling in on, wedging oneself in, interruption, sharing a theater box (theatre), interrupt |(vi) chen ngang hàng, xen vào, chen lấn giành chỗ, tự chen vào, gián đoạn, chia sẻ lô ghế (nhà hát), ngắt quãng"
       },
       {
         "example": "取り込み",
         "reading": "とりこみ",
-        "meaning": "taking in, bringing in, capturing (e.g. customers), attracting, winning over, pleasing, confusion, bustle, misfortune, disorder, importing (e.g. data), capturing (e.g. image)"
+        "meaning": "taking in, bringing in, capturing (e.g. customers), attracting, winning over, pleasing, confusion, bustle, misfortune, disorder, importing (e.g. data), capturing (e.g. image) |(vi) thu hút vào, mang vào, lôi kéo (khách hàng), thu hút, chinh phục, làm hài lòng, hỗn loạn, nhộn nhịp, xui xẻo, mất trật tự, nhập (dữ liệu), chụp (ảnh)"
       },
       {
         "example": "込める",
         "reading": "こめる",
-        "meaning": "to load (a gun, etc.), to charge, to put into (e.g. emotion, effort), to include (e.g. tax in a sales price), to hang over, to shroud, to enshroud, to envelop, to screen"
+        "meaning": "to load (a gun, etc.), to charge, to put into (e.g. emotion, effort), to include (e.g. tax in a sales price), to hang over, to shroud, to enshroud, to envelop, to screen |(vi) nạp đạn (súng...), nạp, dồn vào (ví dụ cảm xúc, công sức), bao gồm (ví dụ thuế trong giá bán), phủ trùm lên, bao trùm, che phủ, chắn"
       }
     ],
     "radical": {
@@ -367,7 +367,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, bước)"
     },
     "parts": [
       "入",

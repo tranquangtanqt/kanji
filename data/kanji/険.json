@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 4,
     "kunyomi": "kewa, kewashii",
-    "meaning": "danger, steep",
+    "meaning": "danger, steep |(vi) nguy hiểm, hiểm trở",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "冒険する（ぼうけんする）",
         "meaning": {
-          "english": "go on an adventure, take a risk"
+          "english": "go on an adventure, take a risk |(vi) phiêu lưu, mạo hiểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-kewa(shii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "探険する（たんけんする）",
         "meaning": {
-          "english": "explore, go on an expedition"
+          "english": "explore, go on an expedition |(vi) thám hiểm, khám phá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-kewa(shii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "保険（ほけん）",
         "meaning": {
-          "english": "insurance"
+          "english": "insurance |(vi) bảo hiểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-kewa(shii)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "険悪な（けんあくな）",
         "meaning": {
-          "english": "grim, threatening"
+          "english": "grim, threatening |(vi) hiểm ác, đe dọa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-kewa(shii)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "危険な（きけんな）",
         "meaning": {
-          "english": "dangerous, hazardous"
+          "english": "dangerous, hazardous |(vi) nguy hiểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-kewa(shii)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "険しい（けわしい）",
         "meaning": {
-          "english": "steep (place), sharp (eyes)"
+          "english": "steep (place), sharp (eyes) |(vi) hiểm trở (nơi chốn), sắc bén (ánh mắt)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-kewa(shii)_06_f.opus",
@@ -204,7 +204,7 @@
     "kanji": {
       "character": "険",
       "meaning": {
-        "english": "danger, steep"
+        "english": "danger, steep |(vi) nguy hiểm, hiểm trở"
       },
       "strokes": {
         "count": 11,
@@ -264,7 +264,7 @@
         "romaji": "kozatohen"
       },
       "meaning": {
-        "english": "hill, mound"
+        "english": "hill, mound |(vi) Phụ (gò đất, đê)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kozatohen0.svg",
@@ -285,7 +285,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "707",
     "strokeCount": 11,
-    "meaning": "precipitous, inaccessible place, impregnable position, steep place, sharp eyes",
+    "meaning": "precipitous, inaccessible place, impregnable position, steep place, sharp eyes |(vi) hiểm trở, nơi khó tiếp cận, vị trí hiểm yếu, dốc đứng, ánh mắt sắc bén |(hv) Hiểm",
     "kunyomi": [
       "けわ.しい"
     ],
@@ -296,34 +296,34 @@
       {
         "example": "険",
         "reading": "ケン",
-        "meaning": "steepness, steep place, harsh (look), sharp (tongue)"
+        "meaning": "steepness, steep place, harsh (look), sharp (tongue) |(vi) sự hiểm trở, nơi dốc đứng, vẻ dữ tợn, lời cay nghiệt"
       },
       {
         "example": "険悪",
         "reading": "ケンアク",
-        "meaning": "dangerous, perilous, threatening, stormy, volatile, tense, critical, serious, stern (expression), hostile (attitude), sharp, harsh"
+        "meaning": "dangerous, perilous, threatening, stormy, volatile, tense, critical, serious, stern (expression), hostile (attitude), sharp, harsh |(vi) nguy hiểm, đe dọa, căng thẳng, nghiêm trọng, nét mặt nghiêm nghị, thái độ thù địch, cay nghiệt"
       },
       {
         "example": "損害保険",
         "reading": "ソンガイホケン",
-        "meaning": "non-life insurance, general insurance, property and casualty insurance"
+        "meaning": "non-life insurance, general insurance, property and casualty insurance |(vi) bảo hiểm phi nhân thọ, bảo hiểm tài sản"
       },
       {
         "example": "社会保険",
         "reading": "シャカイホケン",
-        "meaning": "social insurance"
+        "meaning": "social insurance |(vi) bảo hiểm xã hội"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "険しい",
         "reading": "けわしい",
-        "meaning": "precipitous, rugged, inaccessible, impregnable, steep, grim, severe, stern"
+        "meaning": "precipitous, rugged, inaccessible, impregnable, steep, grim, severe, stern |(vi) hiểm trở, gập ghềnh, khó tiếp cận, dốc đứng, nghiêm khắc"
       },
       {
         "example": "険しい顔",
         "reading": "けわしいかお",
-        "meaning": "grim face"
+        "meaning": "grim face |(vi) vẻ mặt dữ tợn"
       }
     ],
     "radical": {
@@ -331,7 +331,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "mound, dam (阝 left)"
+      "meaning": "mound, dam (阝 left) |(vi) Phụ (gò đất, đê)"
     },
     "parts": [
       "个",

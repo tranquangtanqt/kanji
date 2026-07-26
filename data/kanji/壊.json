@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "kowa, kowasu, kowareru",
-    "meaning": "break down, destroy, damage",
+    "meaning": "break down, destroy, damage |(vi) sụp đổ, phá hủy, hư hại",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "壊滅する（かいめつする）",
         "meaning": {
-          "english": "destroy, annihilate [v.t.][v.i.]"
+          "english": "destroy, annihilate [v.t.][v.i.] |(vi) hủy diệt, tiêu diệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-kowa(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "破壊する（はかいする）",
         "meaning": {
-          "english": "destroy, demolish"
+          "english": "destroy, demolish |(vi) phá hủy, phá hoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-kowa(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "崩壊する（ほうかいする）",
         "meaning": {
-          "english": "collapse, crumble"
+          "english": "collapse, crumble |(vi) sụp đổ, đổ vỡ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-kowa(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "倒壊する（とうかいする）",
         "meaning": {
-          "english": "collapse, fall down"
+          "english": "collapse, fall down |(vi) sụp đổ, đổ sập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-kowa(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "全壊する（ぜんかいする）",
         "meaning": {
-          "english": "be completely destroyed"
+          "english": "be completely destroyed |(vi) bị phá hủy hoàn toàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-kowa(su)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "壊す（こわす）",
         "meaning": {
-          "english": "break, destroy [v.t.]"
+          "english": "break, destroy [v.t.] |(vi) làm vỡ, phá hủy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-kowa(su)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "壊れる（こわれる）",
         "meaning": {
-          "english": "break [v.i.]"
+          "english": "break [v.i.] |(vi) bị vỡ, bị hỏng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-kowa(su)_06_g.opus",
@@ -200,7 +200,7 @@
     "kanji": {
       "character": "壊",
       "meaning": {
-        "english": "break down, destroy, damage"
+        "english": "break down, destroy, damage |(vi) sụp đổ, phá hủy, hư hại"
       },
       "strokes": {
         "count": 16,
@@ -270,7 +270,7 @@
         "romaji": "tsuchihen"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
@@ -291,7 +291,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "727",
     "strokeCount": 16,
-    "meaning": "demolition, break, destroy",
+    "meaning": "demolition, break, destroy |(vi) phá dỡ, làm vỡ, phá hủy |(hv) Hoại",
     "kunyomi": [
       "こわ.す",
       "こわ.れる",
@@ -305,59 +305,59 @@
       {
         "example": "壊滅",
         "reading": "カイメツ",
-        "meaning": "(complete) destruction, annihilation, devastation"
+        "meaning": "(complete) destruction, annihilation, devastation |(vi) hủy diệt (hoàn toàn), tiêu diệt, tàn phá"
       },
       {
         "example": "壊血病",
         "reading": "カイケツビョウ",
-        "meaning": "scurvy"
+        "meaning": "scurvy |(vi) bệnh scorbut (thiếu vitamin C)"
       },
       {
         "example": "損壊",
         "reading": "ソンカイ",
-        "meaning": "damage, destruction"
+        "meaning": "damage, destruction |(vi) hư hại, phá hủy"
       },
       {
         "example": "全壊",
         "reading": "ゼンカイ",
-        "meaning": "complete destruction"
+        "meaning": "complete destruction |(vi) phá hủy hoàn toàn"
       },
       {
         "example": "壊死",
         "reading": "エシ",
-        "meaning": "necrosis"
+        "meaning": "necrosis |(vi) hoại tử"
       },
       {
         "example": "壊劫",
         "reading": "エコウ",
-        "meaning": "the kalpa of destruction (the third aeon of the universe)"
+        "meaning": "the kalpa of destruction (the third aeon of the universe) |(vi) kiếp hoại (giai đoạn thứ ba của vũ trụ theo Phật giáo)"
       },
       {
         "example": "不壊",
         "reading": "フエ",
-        "meaning": "indestructibility"
+        "meaning": "indestructibility |(vi) sự bất hoại, không thể phá hủy"
       },
       {
         "example": "金剛不壊",
         "reading": "コンゴウフエ",
-        "meaning": "firm and solid, sturdy and indestructible, unshakable, adamantine"
+        "meaning": "firm and solid, sturdy and indestructible, unshakable, adamantine |(vi) vững chắc kiên cố, bất hoại như kim cương"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "壊す",
         "reading": "こわす",
-        "meaning": "to break, to destroy, to demolish, to wreck, to ruin, to spoil, to damage, to break (a bill, etc.)"
+        "meaning": "to break, to destroy, to demolish, to wreck, to ruin, to spoil, to damage, to break (a bill, etc.) |(vi) làm vỡ, phá hủy, phá dỡ, phá hoại, làm hỏng, đổi (tiền lớn thành tiền lẻ)"
       },
       {
         "example": "壊れる",
         "reading": "こわれる",
-        "meaning": "to be broken, to break, to fall apart, to collapse, to be destroyed, to be damaged, to break (down), to stop working, to fall through (of a plan, deal, etc.), to collapse, to break down (of a relationship, negotiations, etc.), to be broken off, to be ruined (of an atmosphere, one's image, etc.)"
+        "meaning": "to be broken, to break, to fall apart, to collapse, to be destroyed, to be damaged, to break (down), to stop working, to fall through (of a plan, deal, etc.), to collapse, to break down (of a relationship, negotiations, etc.), to be broken off, to be ruined (of an atmosphere, one's image, etc.) |(vi) bị vỡ, vỡ, sụp đổ, bị phá hủy, bị hư hại, bị hỏng, ngừng hoạt động, đổ bể (kế hoạch, giao dịch...), sụp đổ, tan vỡ (mối quan hệ, đàm phán...), bị cắt đứt, bị phá hỏng (bầu không khí, hình ảnh...)"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "亠",

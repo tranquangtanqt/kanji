@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "su, sumu, sumai",
-    "meaning": "live",
+    "meaning": "live |(vi) sống, ở",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "住民（じゅうみん）",
         "meaning": {
-          "english": "residents"
+          "english": "residents |(vi) cư dân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-su(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "住所（じゅうしょ）",
         "meaning": {
-          "english": "address"
+          "english": "address |(vi) địa chỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-su(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "住宅（じゅうたく）",
         "meaning": {
-          "english": "housing"
+          "english": "housing |(vi) nhà ở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-su(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "移住する（いじゅうする）",
         "meaning": {
-          "english": "migrate"
+          "english": "migrate |(vi) di cư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-su(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "住む（すむ）",
         "meaning": {
-          "english": "live"
+          "english": "live |(vi) sống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-su(mu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "住まい（すまい）",
         "meaning": {
-          "english": "dwelling"
+          "english": "dwelling |(vi) nơi ở, chỗ ở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-su(mu)_06_f.opus",
@@ -229,7 +229,7 @@
     "kanji": {
       "character": "住",
       "meaning": {
-        "english": "live"
+        "english": "live |(vi) sống"
       },
       "strokes": {
         "count": 7,
@@ -281,7 +281,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -302,7 +302,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "270",
     "strokeCount": 7,
-    "meaning": "dwell, reside, live, inhabit",
+    "meaning": "dwell, reside, live, inhabit |(vi) ở, cư trú, sinh sống, cư ngụ |(hv) Trú",
     "kunyomi": [
       "す.む",
       "す.まう",
@@ -317,34 +317,34 @@
       {
         "example": "住",
         "reading": "ジュウ",
-        "meaning": "dwelling, living"
+        "meaning": "dwelling, living |(vi) cư trú, sinh sống"
       },
       {
         "example": "住居",
         "reading": "ジュウキョ",
-        "meaning": "dwelling, house, residence, address"
+        "meaning": "dwelling, house, residence, address |(vi) nhà ở, chỗ ở, nơi cư trú, địa chỉ"
       },
       {
         "example": "先住",
         "reading": "センジュウ",
-        "meaning": "original inhabitant, aboriginal, previous priest"
+        "meaning": "original inhabitant, aboriginal, previous priest |(vi) người cư trú trước, thổ dân, sư trụ trì tiền nhiệm"
       },
       {
         "example": "安住",
         "reading": "アンジュウ",
-        "meaning": "living in peace, living a quiet life, being content with one's present position, being satisfied with one's lot"
+        "meaning": "living in peace, living a quiet life, being content with one's present position, being satisfied with one's lot |(vi) sống yên ổn, an cư lạc nghiệp, hài lòng với hoàn cảnh hiện tại"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "住む",
         "reading": "すむ",
-        "meaning": "to live (of humans), to reside, to inhabit, to dwell, to abide"
+        "meaning": "to live (of humans), to reside, to inhabit, to dwell, to abide |(vi) sống, cư trú, ở (dùng cho người)"
       },
       {
         "example": "住まう",
         "reading": "すまう",
-        "meaning": "to live, to reside, to inhabit"
+        "meaning": "to live, to reside, to inhabit |(vi) sống, cư trú, ở"
       }
     ],
     "radical": {
@@ -352,7 +352,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "丶",

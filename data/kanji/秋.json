@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "aki",
-    "meaning": "autumn",
+    "meaning": "autumn |(vi) mùa thu",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "秋分（しゅうぶん）",
         "meaning": {
-          "english": "autumn equinox"
+          "english": "autumn equinox |(vi) thu phân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aki_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "秋（あき）",
         "meaning": {
-          "english": "autumn"
+          "english": "autumn |(vi) mùa thu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aki_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "秋風（あきかぜ）",
         "meaning": {
-          "english": "autumn breeze"
+          "english": "autumn breeze |(vi) gió thu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aki_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "秋学期（あきがっき）",
         "meaning": {
-          "english": "autumn semester/quarter"
+          "english": "autumn semester/quarter |(vi) học kỳ mùa thu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aki_06_d.opus",
@@ -192,7 +192,7 @@
     "kanji": {
       "character": "秋",
       "meaning": {
-        "english": "autumn"
+        "english": "autumn |(vi) mùa thu"
       },
       "strokes": {
         "count": 9,
@@ -248,7 +248,7 @@
         "romaji": "nogihen"
       },
       "meaning": {
-        "english": "grain"
+        "english": "grain |(vi) Hòa (lúa, ngũ cốc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nogihen0.svg",
@@ -269,7 +269,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "635",
     "strokeCount": 9,
-    "meaning": "autumn",
+    "meaning": "autumn |(vi) mùa thu |(hv) Thu",
     "kunyomi": [
       "あき",
       "とき"
@@ -281,59 +281,59 @@
       {
         "example": "秋季",
         "reading": "シュウキ",
-        "meaning": "fall season, autumn season"
+        "meaning": "fall season, autumn season |(vi) mùa thu, thời kỳ mùa thu"
       },
       {
         "example": "秋風",
         "reading": "アキカゼ",
-        "meaning": "autumn breeze, fall breeze"
+        "meaning": "autumn breeze, fall breeze |(vi) gió thu"
       },
       {
         "example": "今秋",
         "reading": "コンシュウ",
-        "meaning": "this autumn, this fall, autumn of this year"
+        "meaning": "this autumn, this fall, autumn of this year |(vi) mùa thu năm nay"
       },
       {
         "example": "中秋",
         "reading": "チュウシュウ",
-        "meaning": "15th day of the 8th lunar month, eighth month of the lunar calendar"
+        "meaning": "15th day of the 8th lunar month, eighth month of the lunar calendar |(vi) rằm tháng tám âm lịch, trung thu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "秋",
         "reading": "あき",
-        "meaning": "autumn, fall"
+        "meaning": "autumn, fall |(vi) mùa thu"
       },
       {
         "example": "秋口",
         "reading": "あきぐち",
-        "meaning": "beginning of autumn, beginning of fall"
+        "meaning": "beginning of autumn, beginning of fall |(vi) đầu thu, chớm thu"
       },
       {
         "example": "春秋",
         "reading": "しゅんじゅう",
-        "meaning": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu"
+        "meaning": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu |(vi) xuân thu, năm tháng, tuổi tác, Kinh Xuân Thu"
       },
       {
         "example": "中秋",
         "reading": "ちゅうしゅう",
-        "meaning": "15th day of the 8th lunar month, eighth month of the lunar calendar"
+        "meaning": "15th day of the 8th lunar month, eighth month of the lunar calendar |(vi) rằm tháng tám âm lịch, trung thu"
       },
       {
         "example": "時",
         "reading": "とき",
-        "meaning": "time, hour, moment, occasion, case, chance, opportunity, season, the times, the age, the day, tense"
+        "meaning": "time, hour, moment, occasion, case, chance, opportunity, season, the times, the age, the day, tense |(vi) thời gian, giờ, khoảnh khắc, dịp, cơ hội, mùa, thời đại"
       },
       {
         "example": "危急存亡の秋",
         "reading": "ききゅうそんぼうのとき",
-        "meaning": "crisis, critical moment, critical time"
+        "meaning": "crisis, critical moment, critical time |(vi) khủng hoảng, thời khắc nguy cấp, lúc tồn vong"
       }
     ],
     "radical": {
       "symbol": "禾",
-      "meaning": "grain"
+      "meaning": "grain |(vi) Hòa (lúa, ngũ cốc)"
     },
     "parts": [
       "火",

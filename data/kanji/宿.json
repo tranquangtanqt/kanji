@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "yado, yadoru, yadosu",
-    "meaning": "lodge",
+    "meaning": "lodge |(vi) trọ, ở lại",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "宿題（しゅくだい）",
         "meaning": {
-          "english": "homework"
+          "english": "homework |(vi) bài tập về nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yado_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "合宿（がっしゅく）",
         "meaning": {
-          "english": "training camp"
+          "english": "training camp |(vi) trại huấn luyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yado_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "下宿（げしゅく）",
         "meaning": {
-          "english": "boarding house"
+          "english": "boarding house |(vi) nhà trọ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yado_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "宿泊する（しゅくはくする）",
         "meaning": {
-          "english": "stay overnight (e.g. hotel)"
+          "english": "stay overnight (e.g. hotel) |(vi) ở lại qua đêm (vd. khách sạn)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yado_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "宿屋（やどや）",
         "meaning": {
-          "english": "inn"
+          "english": "inn |(vi) quán trọ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yado_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "宿る（やどる）",
         "meaning": {
-          "english": "dwell [v.i.]"
+          "english": "dwell [v.i.] |(vi) trú ngụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yado_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "宿す（やどす）",
         "meaning": {
-          "english": "conceive (e.g. baby) [v.t.]"
+          "english": "conceive (e.g. baby) [v.t.] |(vi) mang thai (vd. em bé)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yado_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "雨宿り（あまやどり）",
         "meaning": {
-          "english": "to take shelter from rain [n.]"
+          "english": "to take shelter from rain [n.] |(vi) trú mưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yado_06_h.opus",
@@ -251,7 +251,7 @@
     "kanji": {
       "character": "宿",
       "meaning": {
-        "english": "lodge"
+        "english": "lodge |(vi) trọ, ở lại"
       },
       "strokes": {
         "count": 11,
@@ -311,7 +311,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà, nhà cửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -332,7 +332,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "701",
     "strokeCount": 11,
-    "meaning": "inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling",
+    "meaning": "inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling |(vi) quán trọ, chỗ ở, trạm dừng chân, trú ngụ, ở trọ, mang thai, nhà ở, chỗ cư trú |(hv) Túc",
     "kunyomi": [
       "やど",
       "やど.る",
@@ -345,59 +345,59 @@
       {
         "example": "宿",
         "reading": "シュク",
-        "meaning": "lodging, relay station, post town, constellation, mansion (in Chinese astronomy)"
+        "meaning": "lodging, relay station, post town, constellation, mansion (in Chinese astronomy) |(vi) chỗ trọ, trạm dừng chân, thị trấn trạm, chòm sao, tinh tú (trong thiên văn Trung Hoa)"
       },
       {
         "example": "夙",
         "reading": "シュク",
-        "meaning": "outcasts common around the Kyoto region from the Kamakura period to the Edo period"
+        "meaning": "outcasts common around the Kyoto region from the Kamakura period to the Edo period |(vi) tầng lớp bị coi thường phổ biến ở vùng Kyoto từ thời Kamakura đến thời Edo"
       },
       {
         "example": "寄宿",
         "reading": "キシュク",
-        "meaning": "lodging, boarding, room and board, board and lodging, boarding house, residence hall, dormitory"
+        "meaning": "lodging, boarding, room and board, board and lodging, boarding house, residence hall, dormitory |(vi) chỗ ở trọ, nội trú, ăn ở, ký túc, nhà trọ, ký túc xá"
       },
       {
         "example": "奎宿",
         "reading": "トカキボシ",
-        "meaning": "Chinese \"Legs\" constellation (one of the 28 mansions)"
+        "meaning": "Chinese \"Legs\" constellation (one of the 28 mansions) |(vi) sao Khuê (một trong 28 tú của Trung Hoa)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "宿",
         "reading": "やど",
-        "meaning": "lodging, inn, hotel, house, home, dwelling, home of a servant's parents (or guarantor, etc.)"
+        "meaning": "lodging, inn, hotel, house, home, dwelling, home of a servant's parents (or guarantor, etc.) |(vi) chỗ trọ, quán trọ, khách sạn, nhà, nhà ở, nơi cha mẹ (hoặc người bảo lãnh) của người giúp việc"
       },
       {
         "example": "宿屋",
         "reading": "やどや",
-        "meaning": "inn"
+        "meaning": "inn |(vi) quán trọ"
       },
       {
         "example": "連れ込み宿",
         "reading": "つれこみやど",
-        "meaning": "hotel catering for lovers, hotel that rents rooms by the hour"
+        "meaning": "hotel catering for lovers, hotel that rents rooms by the hour |(vi) khách sạn tình nhân, khách sạn cho thuê phòng theo giờ"
       },
       {
         "example": "相宿",
         "reading": "あいやど",
-        "meaning": "staying in the same inn or hotel, rooming together"
+        "meaning": "staying in the same inn or hotel, rooming together |(vi) cùng ở một quán trọ hoặc khách sạn, ở chung phòng"
       },
       {
         "example": "宿る",
         "reading": "やどる",
-        "meaning": "to dwell (in), to exist (within), to form, to stay (at), to stop (at), to lodge (in), to take shelter, to be in the womb (of an unborn child), to be part of a constellation"
+        "meaning": "to dwell (in), to exist (within), to form, to stay (at), to stop (at), to lodge (in), to take shelter, to be in the womb (of an unborn child), to be part of a constellation |(vi) trú ngụ, tồn tại (bên trong), hình thành, lưu lại, dừng chân, trú ẩn, ở trong bụng mẹ (thai nhi), thuộc một chòm sao"
       },
       {
         "example": "宿す",
         "reading": "やどす",
-        "meaning": "to house, to contain, to harbour (a feeling), to hold (e.g. dew on leaves), to carry (a baby), to be pregnant, to give lodging to, to accommodate"
+        "meaning": "to house, to contain, to harbour (a feeling), to hold (e.g. dew on leaves), to carry (a baby), to be pregnant, to give lodging to, to accommodate |(vi) chứa đựng, mang, ấp ủ (một cảm xúc), đọng lại (vd. sương trên lá), mang thai, cho ở trọ, tiếp đón"
       }
     ],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà, nhà cửa)"
     },
     "parts": [
       "化",

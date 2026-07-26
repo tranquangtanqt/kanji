@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "tsu, tsuku",
-    "meaning": "set about, engage (in an occupation), employ",
+    "meaning": "set about, engage (in an occupation), employ |(vi) bắt tay vào, làm (một nghề), tuyển dụng",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "就業時間（しゅうぎょうじかん）",
         "meaning": {
-          "english": "working hours"
+          "english": "working hours |(vi) giờ làm việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "就職する（しゅうしょくする）",
         "meaning": {
-          "english": "find employment"
+          "english": "find employment |(vi) tìm được việc làm, xin được việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "就任する（しゅうにんする）",
         "meaning": {
-          "english": "assume office, be inaugurated"
+          "english": "assume office, be inaugurated |(vi) nhậm chức, nhận chức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "就航する（しゅうこうする）",
         "meaning": {
-          "english": "go into operation (ship, plane)"
+          "english": "go into operation (ship, plane) |(vi) đưa vào khai thác (tàu, máy bay)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "就学する（しゅうがくする）",
         "meaning": {
-          "english": "enter school, attend school"
+          "english": "enter school, attend school |(vi) nhập học, đi học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "就労する（しゅうろうする）",
         "meaning": {
-          "english": "go to work, be at work"
+          "english": "go to work, be at work |(vi) đi làm, đang làm việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "成就する（じょうじゅする）",
         "meaning": {
-          "english": "realize, complete"
+          "english": "realize, complete |(vi) thành tựu, hoàn thành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "就ける（つける）",
         "meaning": {
-          "english": "put, place [v.t.]"
+          "english": "put, place [v.t.] |(vi) đặt vào, bổ nhiệm vào [tha động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "就く（つく）",
         "meaning": {
-          "english": "take (a job) [v.i.]"
+          "english": "take (a job) [v.i.] |(vi) nhận (công việc), vào (chức vụ) [tự động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_i.opus",
@@ -226,7 +226,7 @@
     "kanji": {
       "character": "就",
       "meaning": {
-        "english": "set about, engage (in an occupation), employ"
+        "english": "set about, engage (in an occupation), employ |(vi) bắt tay vào, làm (một nghề), tuyển dụng"
       },
       "strokes": {
         "count": 12,
@@ -288,7 +288,7 @@
         "romaji": "dainomageashi"
       },
       "meaning": {
-        "english": "lame leg"
+        "english": "lame leg |(vi) Uông (chân khoèo, què)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/dainomageashi0.svg",
@@ -309,7 +309,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "624",
     "strokeCount": 12,
-    "meaning": "concerning, settle, take position, depart, study, per",
+    "meaning": "concerning, settle, take position, depart, study, per |(vi) về việc, ổn định, nhận chức, lên đường, theo học, mỗi |(hv) Tựu",
     "kunyomi": [
       "つ.く",
       "つ.ける"
@@ -322,44 +322,44 @@
       {
         "example": "就業",
         "reading": "シュウギョウ",
-        "meaning": "employment, starting work"
+        "meaning": "employment, starting work |(vi) tựu nghiệp, việc làm, sự bắt đầu làm việc"
       },
       {
         "example": "就学",
         "reading": "シュウガク",
-        "meaning": "entering school, school attendance"
+        "meaning": "entering school, school attendance |(vi) tựu học, sự nhập học, việc đến trường"
       },
       {
         "example": "去就",
         "reading": "キョシュウ",
-        "meaning": "leaving or staying, (one's) course of action, (one's) position, (one's) attitude"
+        "meaning": "leaving or staying, (one's) course of action, (one's) position, (one's) attitude |(vi) khứ tựu, việc đi hay ở, đường lối hành động, lập trường, thái độ"
       },
       {
         "example": "進退去就",
         "reading": "シンタイキョシュウ",
-        "meaning": "one's course of action, deciding what to do with oneself, whether staying in the present position or leaving it"
+        "meaning": "one's course of action, deciding what to do with oneself, whether staying in the present position or leaving it |(vi) tiến thoái khứ tựu, đường đi nước bước, việc quyết định ở lại hay từ chức"
       },
       {
         "example": "本懐成就",
         "reading": "ホンカイジョウジュ",
-        "meaning": "realization of a great ambition, attainment of one's most cherished desire, one's earnest prayer being answered"
+        "meaning": "realization of a great ambition, attainment of one's most cherished desire, one's earnest prayer being answered |(vi) bản hoài thành tựu, sự thực hiện được hoài bão lớn, đạt được tâm nguyện ấp ủ, lời khấn thành tâm được ứng"
       },
       {
         "example": "不空成就",
         "reading": "フクウジョウジュ",
-        "meaning": "Amoghasiddhi, Infallible Magic (a dhyani-Buddha)"
+        "meaning": "Amoghasiddhi, Infallible Magic (a dhyani-Buddha) |(vi) Bất Không Thành Tựu (Amoghasiddhi, một vị Thiền Na Phật)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "就く",
         "reading": "つく",
-        "meaning": "to take (seat, position, course, office, etc.), to assume, to be hired, to be employed, to ascend (the throne), to accede, to start (on a journey), to commence, to depart, to study (under teacher), to be an apprentice"
+        "meaning": "to take (seat, position, course, office, etc.), to assume, to be hired, to be employed, to ascend (the throne), to accede, to start (on a journey), to commence, to depart, to study (under teacher), to be an apprentice |(vi) nhận (chỗ ngồi, vị trí, lộ trình, chức vụ...), đảm nhận, được nhận vào làm, được tuyển dụng, lên (ngôi), kế vị, khởi (hành), bắt đầu, lên đường, theo học (một người thầy), làm học trò"
       },
       {
         "example": "就ける",
         "reading": "つける",
-        "meaning": "to install (a king, emperor, etc.), to appoint (to a post), to promote, to assign (to study under)"
+        "meaning": "to install (a king, emperor, etc.), to appoint (to a post), to promote, to assign (to study under) |(vi) đưa lên ngôi (vua, hoàng đế...), bổ nhiệm (vào chức vụ), thăng chức, cho theo học (dưới trướng ai)"
       }
     ],
     "radical": {
@@ -367,7 +367,7 @@
       "forms": [
         "尣"
       ],
-      "meaning": "lame"
+      "meaning": "lame |(vi) Uông (chân khoèo)"
     },
     "parts": [
       "丶",

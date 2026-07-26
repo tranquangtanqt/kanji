@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "year, age suffix",
+    "meaning": "year, age suffix |(vi) năm, tuổi (hậu tố chỉ tuổi)",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "歳末（さいまつ）",
         "meaning": {
-          "english": "end of the year"
+          "english": "end of the year |(vi) tuế mạt (cuối năm)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(getsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "歳月（さいげつ）",
         "meaning": {
-          "english": "time, years"
+          "english": "time, years |(vi) tuế nguyệt (năm tháng, thời gian)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(getsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "歳費（さいひ）",
         "meaning": {
-          "english": "annual expenditure"
+          "english": "annual expenditure |(vi) tuế phí (chi phí hàng năm, lương nghị sĩ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(getsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "歳入（さいにゅう）",
         "meaning": {
-          "english": "annual revenue or income"
+          "english": "annual revenue or income |(vi) tuế nhập (thu nhập hàng năm, ngân sách thu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(getsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "歳出（さいしゅつ）",
         "meaning": {
-          "english": "annual expenditure"
+          "english": "annual expenditure |(vi) tuế xuất (chi tiêu hàng năm, ngân sách chi)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(getsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "一歳（いっさい）",
         "meaning": {
-          "english": "one-year-old"
+          "english": "one-year-old |(vi) nhất tuế (một tuổi)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(getsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "何歳（なんさい）",
         "meaning": {
-          "english": "how old?, what age?"
+          "english": "how old?, what age? |(vi) hà tuế (bao nhiêu tuổi, mấy tuổi)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(getsu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "万歳（ばんざい）",
         "meaning": {
-          "english": "banzai! (cheer)"
+          "english": "banzai! (cheer) |(vi) vạn tuế (muôn năm, hoan hô)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(getsu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "お歳暮（おせいぼ）",
         "meaning": {
-          "english": "year-end, year-end present"
+          "english": "year-end, year-end present |(vi) tuế mộ (quà cuối năm, quà tết)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(getsu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "*二十歳（はたち）",
         "meaning": {
-          "english": "twenty years old"
+          "english": "twenty years old |(vi) nhị thập tuế (hai mươi tuổi)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(getsu)_06_j.opus",
@@ -254,7 +254,7 @@
     "kanji": {
       "character": "歳",
       "meaning": {
-        "english": "year, age suffix"
+        "english": "year, age suffix |(vi) năm, tuổi (hậu tố chỉ tuổi)"
       },
       "strokes": {
         "count": 13,
@@ -318,7 +318,7 @@
         "romaji": "tomeru"
       },
       "meaning": {
-        "english": "to stop"
+        "english": "to stop |(vi) Chỉ (dừng lại)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tomeru0.svg",
@@ -339,7 +339,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "269",
     "strokeCount": 13,
-    "meaning": "year-end, age, occasion, opportunity",
+    "meaning": "year-end, age, occasion, opportunity |(vi) cuối năm, tuổi, dịp, cơ hội |(hv) Tuế",
     "kunyomi": [
       "とし",
       "とせ",
@@ -353,69 +353,69 @@
       {
         "example": "歳",
         "reading": "サイ",
-        "meaning": "... years old, age (of) ..."
+        "meaning": "... years old, age (of) ... |(vi) ... tuổi, tuổi (của) ..."
       },
       {
         "example": "歳月",
         "reading": "サイゲツ",
-        "meaning": "time, years"
+        "meaning": "time, years |(vi) tuế nguyệt (năm tháng, thời gian)"
       },
       {
         "example": "歳歳",
         "reading": "サイサイ",
-        "meaning": "annual"
+        "meaning": "annual |(vi) tuế tuế (hàng năm, mỗi năm)"
       },
       {
         "example": "年年歳歳",
         "reading": "ネンネンサイサイ",
-        "meaning": "annually, every year, year in year out, from year to year"
+        "meaning": "annually, every year, year in year out, from year to year |(vi) niên niên tuế tuế (năm này qua năm khác, hàng năm)"
       },
       {
         "example": "歳暮",
         "reading": "セイボ",
-        "meaning": "year-end gift, end of the year, year end"
+        "meaning": "year-end gift, end of the year, year end |(vi) tuế mộ (quà cuối năm, cuối năm)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "年",
         "reading": "とし",
-        "meaning": "year, age, years, past one's prime, old age"
+        "meaning": "year, age, years, past one's prime, old age |(vi) năm, tuổi, tuổi tác, tuổi già"
       },
       {
         "example": "年取った",
         "reading": "としとった",
-        "meaning": "old (person), aged"
+        "meaning": "old (person), aged |(vi) già, cao tuổi"
       },
       {
         "example": "いい年",
         "reading": "いいとし",
-        "meaning": "mature age, advanced age, maturity, age when one is old enough to know better"
+        "meaning": "mature age, advanced age, maturity, age when one is old enough to know better |(vi) tuổi trưởng thành, tuổi đã lớn, đến tuổi phải biết điều"
       },
       {
         "example": "大年",
         "reading": "おおとし",
-        "meaning": "New Year's Eve, Jupiter (planet)"
+        "meaning": "New Year's Eve, Jupiter (planet) |(vi) đại niên (đêm giao thừa, sao Mộc)"
       },
       {
         "example": "年",
         "reading": "とせ",
-        "meaning": "counter for years"
+        "meaning": "counter for years |(vi) lượng từ đếm năm"
       },
       {
         "example": "万年",
         "reading": "まんねん",
-        "meaning": "ten thousand years, eternity, perennial, perpetual"
+        "meaning": "ten thousand years, eternity, perennial, perpetual |(vi) vạn niên (muôn năm, vĩnh cửu, lâu dài)"
       },
       {
         "example": "二十歳",
         "reading": "はたとせ",
-        "meaning": "twenty years"
+        "meaning": "twenty years |(vi) hai mươi năm"
       }
     ],
     "radical": {
       "symbol": "止",
-      "meaning": "stop"
+      "meaning": "stop |(vi) Chỉ (dừng lại)"
     },
     "parts": [
       "ノ",

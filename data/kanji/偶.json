@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "by chance, even number, (married)couple",
+    "meaning": "by chance, even number, (married)couple |(vi) ngẫu nhiên, số chẵn, (vợ chồng) đôi lứa",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "偶数（ぐうすう）",
         "meaning": {
-          "english": "even number"
+          "english": "even number |(vi) số chẵn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/guu(zen)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "偶像（ぐうぞう）",
         "meaning": {
-          "english": "idol, icon, image"
+          "english": "idol, icon, image |(vi) thần tượng, biểu tượng, hình tượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/guu(zen)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "偶然（ぐうぜん）",
         "meaning": {
-          "english": "fortuity, chance, accident"
+          "english": "fortuity, chance, accident |(vi) ngẫu nhiên, tình cờ, sự tình cờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/guu(zen)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "配偶者（はいぐうしゃ）",
         "meaning": {
-          "english": "spouse"
+          "english": "spouse |(vi) vợ/chồng, người phối ngẫu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/guu(zen)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "偶発的な（ぐうはつてきな）",
         "meaning": {
-          "english": "accidental, incidental"
+          "english": "accidental, incidental |(vi) ngẫu nhiên, tình cờ xảy ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/guu(zen)_06_e.opus",
@@ -152,7 +152,7 @@
     "kanji": {
       "character": "偶",
       "meaning": {
-        "english": "by chance, even number, (married)couple"
+        "english": "by chance, even number, (married)couple |(vi) ngẫu nhiên, số chẵn, (vợ chồng) đôi lứa"
       },
       "strokes": {
         "count": 11,
@@ -212,7 +212,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -233,7 +233,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1602",
     "strokeCount": 11,
-    "meaning": "accidentally, even number, couple, man & wife, same kind",
+    "meaning": "accidentally, even number, couple, man & wife, same kind |(vi) ngẫu nhiên, số chẵn, đôi, vợ chồng, cùng loại |(hv) Ngẫu",
     "kunyomi": [
       "たま"
     ],
@@ -244,34 +244,34 @@
       {
         "example": "偶",
         "reading": "グウ",
-        "meaning": "even number, even, spouse, mate"
+        "meaning": "even number, even, spouse, mate |(vi) số chẵn, chẵn, vợ/chồng, bạn đời"
       },
       {
         "example": "偶然",
         "reading": "グウゼン",
-        "meaning": "coincidence, chance, accident, fortuity, by chance, unexpectedly, accidentally, contingency"
+        "meaning": "coincidence, chance, accident, fortuity, by chance, unexpectedly, accidentally, contingency |(vi) sự trùng hợp, cơ hội, tai nạn, ngẫu nhiên, tình cờ, bất ngờ, vô tình, sự bất trắc"
       },
       {
         "example": "土偶",
         "reading": "ドグウ",
-        "meaning": "earthen figure, clay figure, dogū, clay figurines from the late Jōmon period"
+        "meaning": "earthen figure, clay figure, dogū, clay figurines from the late Jōmon period |(vi) tượng đất, tượng đất sét, dogū, tượng đất sét từ cuối thời kỳ Jōmon"
       },
       {
         "example": "配偶",
         "reading": "ハイグウ",
-        "meaning": "combination, spouse, husband or wife, partner, married couple, husband and wife"
+        "meaning": "combination, spouse, husband or wife, partner, married couple, husband and wife |(vi) sự kết hợp, vợ/chồng, bạn đời, vợ chồng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "偶",
         "reading": "たま",
-        "meaning": "occasional, infrequent, rare"
+        "meaning": "occasional, infrequent, rare |(vi) thỉnh thoảng, hiếm khi, ít khi"
       },
       {
         "example": "偶々",
         "reading": "たまたま",
-        "meaning": "by chance, by accident, accidentally, happen to (be, do), unexpectedly, casually, occasionally, once in a while, now and then"
+        "meaning": "by chance, by accident, accidentally, happen to (be, do), unexpectedly, casually, occasionally, once in a while, now and then |(vi) tình cờ, ngẫu nhiên, vô tình, tình cờ (là, làm), bất ngờ, thỉnh thoảng, đôi khi, thỉnh thoảng lại"
       }
     ],
     "radical": {
@@ -279,7 +279,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "冂",

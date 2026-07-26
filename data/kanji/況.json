@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "conditions, situation, circumstances",
+    "meaning": "conditions, situation, circumstances |(vi) tình hình, tình huống, hoàn cảnh",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "状況（じょうきょう）",
         "meaning": {
-          "english": "state of affairs, circumstances"
+          "english": "state of affairs, circumstances |(vi) tình trạng, tình hình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kin)kyou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "戦況（せんきょう）",
         "meaning": {
-          "english": "progress of a battle"
+          "english": "progress of a battle |(vi) diễn biến trận đánh, tình hình chiến sự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kin)kyou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "近況（きんきょう）",
         "meaning": {
-          "english": "recent situation"
+          "english": "recent situation |(vi) tình hình gần đây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kin)kyou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "実況（じっきょう）",
         "meaning": {
-          "english": "real situation, actual scene"
+          "english": "real situation, actual scene |(vi) tình hình thực tế, tường thuật trực tiếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kin)kyou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "好況（こうきょう）",
         "meaning": {
-          "english": "healthy economy, prosperity"
+          "english": "healthy economy, prosperity |(vi) kinh tế thịnh vượng, phồn vinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kin)kyou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "不況（ふきょう）",
         "meaning": {
-          "english": "recession, depression, slump"
+          "english": "recession, depression, slump |(vi) suy thoái, khủng hoảng kinh tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kin)kyou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "盛況（せいきょう）",
         "meaning": {
-          "english": "success, prosperity, flourishing"
+          "english": "success, prosperity, flourishing |(vi) thành công, thịnh vượng, sôi động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kin)kyou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "市況（しきょう）",
         "meaning": {
-          "english": "market conditions"
+          "english": "market conditions |(vi) tình hình thị trường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kin)kyou_06_h.opus",
@@ -190,7 +190,7 @@
     "kanji": {
       "character": "況",
       "meaning": {
-        "english": "conditions, situation, circumstances"
+        "english": "conditions, situation, circumstances |(vi) tình hình, tình huống, hoàn cảnh"
       },
       "strokes": {
         "count": 8,
@@ -244,7 +244,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -265,7 +265,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "490",
     "strokeCount": 8,
-    "meaning": "condition, situation",
+    "meaning": "condition, situation |(vi) tình hình, tình huống |(hv) Huống",
     "kunyomi": [
       "まし.て",
       "いわ.んや",
@@ -278,29 +278,29 @@
       {
         "example": "実況",
         "reading": "ジッキョウ",
-        "meaning": "actual state (of things), actual conditions, actual scene, reporting live, live broadcast, live coverage, running commentary, Let's Play (playthrough of a video game with player commentary)"
+        "meaning": "actual state (of things), actual conditions, actual scene, reporting live, live broadcast, live coverage, running commentary, Let's Play (playthrough of a video game with player commentary) |(vi) tình hình thực tế, tường thuật trực tiếp, bình luận trực tiếp, phát trực tiếp (chơi game có bình luận)"
       },
       {
         "example": "市況",
         "reading": "シキョウ",
-        "meaning": "market conditions"
+        "meaning": "market conditions |(vi) tình hình thị trường"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "況して",
         "reading": "まして",
-        "meaning": "still more, to say nothing of, not to mention, still less"
+        "meaning": "still more, to say nothing of, not to mention, still less |(vi) huống chi, huống hồ, chưa nói đến"
       },
       {
         "example": "況してや",
         "reading": "ましてや",
-        "meaning": "much less, to say nothing of"
+        "meaning": "much less, to say nothing of |(vi) huống chi, huống hồ là"
       },
       {
         "example": "況んや",
         "reading": "いわんや",
-        "meaning": "much more, not to mention, not to speak of, to say nothing of, let alone"
+        "meaning": "much more, not to mention, not to speak of, to say nothing of, let alone |(vi) huống chi, huống hồ, nói gì đến"
       }
     ],
     "radical": {
@@ -309,7 +309,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "儿",

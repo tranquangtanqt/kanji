@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "u, ureru",
-    "meaning": "mature, ripen",
+    "meaning": "mature, ripen |(vi) chín, chín muồi",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "熟す（じゅくす）",
         "meaning": {
-          "english": "ripen"
+          "english": "ripen |(vi) chín"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juku-u(reru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "熟語（じゅくご）",
         "meaning": {
-          "english": "idiom"
+          "english": "idiom |(vi) thành ngữ, từ ghép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juku-u(reru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "未熟な（みじゅくな）",
         "meaning": {
-          "english": "inexperienced"
+          "english": "inexperienced |(vi) chưa thành thục, non nớt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juku-u(reru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "早熟な（そうじゅくな）",
         "meaning": {
-          "english": "precocious"
+          "english": "precocious |(vi) chín sớm, phát triển sớm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juku-u(reru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "熟練する（じゅくれんする）",
         "meaning": {
-          "english": "become skilled"
+          "english": "become skilled |(vi) trở nên thành thạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juku-u(reru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "熟成する（じゅくせいする）",
         "meaning": {
-          "english": "mature [v.i.]"
+          "english": "mature [v.i.] |(vi) chín, ủ chín"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juku-u(reru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "成熟する（せいじゅくする）",
         "meaning": {
-          "english": "mature [v.i.]"
+          "english": "mature [v.i.] |(vi) trưởng thành, chín muồi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juku-u(reru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "円熟する（えんじゅくする）",
         "meaning": {
-          "english": "reach perfection [v.i.]"
+          "english": "reach perfection [v.i.] |(vi) đạt đến độ hoàn thiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juku-u(reru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "熟れる（うれる）",
         "meaning": {
-          "english": "ripen"
+          "english": "ripen |(vi) chín"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juku-u(reru)_06_i.opus",
@@ -218,7 +218,7 @@
     "kanji": {
       "character": "熟",
       "meaning": {
-        "english": "mature, ripen"
+        "english": "mature, ripen |(vi) chín, chín muồi"
       },
       "strokes": {
         "count": 15,
@@ -286,7 +286,7 @@
         "romaji": "rekka"
       },
       "meaning": {
-        "english": "fire"
+        "english": "fire |(vi) Hỏa (lửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rekka0.svg",
@@ -307,7 +307,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1415",
     "strokeCount": 15,
-    "meaning": "mellow, ripen, mature, acquire skill",
+    "meaning": "mellow, ripen, mature, acquire skill |(vi) chín muồi, chín, trưởng thành, thành thạo |(hv) Thục",
     "kunyomi": [
       "う.れる"
     ],
@@ -318,29 +318,29 @@
       {
         "example": "熟練",
         "reading": "ジュクレン",
-        "meaning": "skill, expertise, experience, proficiency, mastery, dexterity"
+        "meaning": "skill, expertise, experience, proficiency, mastery, dexterity |(vi) kỹ năng, chuyên môn, kinh nghiệm, sự thành thạo, tinh thông, khéo léo"
       },
       {
         "example": "熟知",
         "reading": "ジュクチ",
-        "meaning": "being familiar with, having a thorough knowledge of, being well-informed about"
+        "meaning": "being familiar with, having a thorough knowledge of, being well-informed about |(vi) quen thuộc với, am hiểu tường tận, nắm rõ về"
       },
       {
         "example": "半熟",
         "reading": "ハンジュク",
-        "meaning": "half-cooked, half-done, soft-boiled, half-ripe, unripe"
+        "meaning": "half-cooked, half-done, soft-boiled, half-ripe, unripe |(vi) nửa chín, nửa sống, luộc lòng đào, chưa chín hẳn, chưa chín"
       },
       {
         "example": "完熟",
         "reading": "カンジュク",
-        "meaning": "full ripeness, full maturity"
+        "meaning": "full ripeness, full maturity |(vi) chín hoàn toàn, chín muồi hoàn toàn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "熟れる",
         "reading": "うれる",
-        "meaning": "to ripen (fruit, grain, etc.), to become ripe"
+        "meaning": "to ripen (fruit, grain, etc.), to become ripe |(vi) chín (trái cây, ngũ cốc...), trở nên chín"
       }
     ],
     "radical": {
@@ -348,7 +348,7 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": "fire |(vi) Hỏa (lửa)"
     },
     "parts": [
       "丶",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "number, designation, sign",
+    "meaning": "number, designation, sign |(vi) số, danh xưng, ký hiệu",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "番号（ばんごう）",
         "meaning": {
-          "english": "number"
+          "english": "number |(vi) số hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ban)gou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "信号（しんごう）",
         "meaning": {
-          "english": "traffic lights, signal"
+          "english": "traffic lights, signal |(vi) đèn giao thông, tín hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ban)gou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "年号（ねんごう）",
         "meaning": {
-          "english": "name of an era"
+          "english": "name of an era |(vi) niên hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ban)gou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "記号（きごう）",
         "meaning": {
-          "english": "symbol"
+          "english": "symbol |(vi) ký hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ban)gou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "暗号（あんごう）",
         "meaning": {
-          "english": "password"
+          "english": "password |(vi) mật khẩu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ban)gou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "3号車（さんごうしゃ）",
         "meaning": {
-          "english": "3rd compartment (e.g. train)"
+          "english": "3rd compartment (e.g. train) |(vi) toa số 3 (ví dụ tàu điện)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ban)gou_06_f.opus",
@@ -212,7 +212,7 @@
     "kanji": {
       "character": "号",
       "meaning": {
-        "english": "number, designation, sign"
+        "english": "number, designation, sign |(vi) số, danh xưng, ký hiệu"
       },
       "strokes": {
         "count": 5,
@@ -260,7 +260,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -281,7 +281,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "585",
     "strokeCount": 5,
-    "meaning": "nickname, number, item, title, pseudonym, name, call",
+    "meaning": "nickname, number, item, title, pseudonym, name, call |(vi) biệt danh, số hiệu, mục, tiêu đề, bút danh, tên, gọi |(hv) Hiệu",
     "kunyomi": [
       "さけ.ぶ",
       "よびな"
@@ -293,28 +293,28 @@
       {
         "example": "号",
         "reading": "ゴウ",
-        "meaning": "number, edition, make, model, issue, part of that group, sobriquet, pen-name, size (of printing types, canvases, knitting needles, etc.), suffix attached to names of ships, trains, airplanes, etc."
+        "meaning": "number, edition, make, model, issue, part of that group, sobriquet, pen-name, size (of printing types, canvases, knitting needles, etc.), suffix attached to names of ships, trains, airplanes, etc. |(vi) số, ấn bản, mẫu, số kỳ, thành viên nhóm đó, biệt hiệu, bút danh, cỡ (khổ giấy, khung vẽ, kim đan...), hậu tố gắn theo tên tàu, tàu hỏa, máy bay..."
       },
       {
         "example": "号車",
         "reading": "ゴウシャ",
-        "meaning": "suffix for train car numbers"
+        "meaning": "suffix for train car numbers |(vi) hậu tố chỉ số toa tàu"
       },
       {
         "example": "二号",
         "reading": "ニゴウ",
-        "meaning": "number two, mistress, concubine"
+        "meaning": "number two, mistress, concubine |(vi) số hai, tình nhân, vợ lẽ"
       },
       {
         "example": "符号",
         "reading": "フゴウ",
-        "meaning": "sign, mark, symbol, code, sign (e.g. positive, negative)"
+        "meaning": "sign, mark, symbol, code, sign (e.g. positive, negative) |(vi) dấu hiệu, ký hiệu, mã, dấu (dương, âm...)"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "一",

@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "yato, yatou",
-    "meaning": "employ, charter, hire",
+    "meaning": "employ, charter, hire |(vi) thuê, mướn, tuyển dụng",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "終身雇用制（しゅうしんこようせい）",
         "meaning": {
-          "english": "system of lifetime employment"
+          "english": "system of lifetime employment |(vi) chế độ tuyển dụng suốt đời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yato(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "雇用する（こようする）",
         "meaning": {
-          "english": "employ, hire"
+          "english": "employ, hire |(vi) tuyển dụng, thuê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yato(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "解雇する（かいこする）",
         "meaning": {
-          "english": "discharge, fire, dismiss"
+          "english": "discharge, fire, dismiss |(vi) sa thải, cho thôi việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yato(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "雇う（やとう）",
         "meaning": {
-          "english": "employ, hire"
+          "english": "employ, hire |(vi) thuê, tuyển dụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yato(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "日雇い（ひやとい）",
         "meaning": {
-          "english": "day labor"
+          "english": "day labor |(vi) lao động thời vụ theo ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yato(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "雇い主（やといぬし）",
         "meaning": {
-          "english": "employer"
+          "english": "employer |(vi) chủ thuê, người sử dụng lao động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yato(u)_06_f.opus",
@@ -164,7 +164,7 @@
     "kanji": {
       "character": "雇",
       "meaning": {
-        "english": "employ, charter, hire"
+        "english": "employ, charter, hire |(vi) thuê, mướn, tuyển dụng"
       },
       "strokes": {
         "count": 12,
@@ -226,7 +226,7 @@
         "romaji": "furutori"
       },
       "meaning": {
-        "english": "small bird"
+        "english": "small bird |(vi) Chuy (chim đuôi ngắn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/furutori0.svg",
@@ -247,7 +247,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "975",
     "strokeCount": 12,
-    "meaning": "employ, hire",
+    "meaning": "employ, hire |(vi) thuê, tuyển dụng |(hv) Cố",
     "kunyomi": [
       "やと.う"
     ],
@@ -258,34 +258,34 @@
       {
         "example": "雇用",
         "reading": "コヨウ",
-        "meaning": "employment, hire"
+        "meaning": "employment, hire |(vi) sự tuyển dụng, thuê mướn"
       },
       {
         "example": "雇員",
         "reading": "コイン",
-        "meaning": "assistant, employee"
+        "meaning": "assistant, employee |(vi) trợ lý, nhân viên"
       },
       {
         "example": "懲戒解雇",
         "reading": "チョウカイカイコ",
-        "meaning": "disciplinary discharge, punitive dismissal"
+        "meaning": "disciplinary discharge, punitive dismissal |(vi) sa thải kỷ luật, buộc thôi việc"
       },
       {
         "example": "不当解雇",
         "reading": "フトウカイコ",
-        "meaning": "unfair dismissal, wrongful dismissal, unfair termination"
+        "meaning": "unfair dismissal, wrongful dismissal, unfair termination |(vi) sa thải bất công, sa thải trái phép"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "雇う",
         "reading": "やとう",
-        "meaning": "to employ, to hire, to take on, to charter (a car, boat, etc.), to hire"
+        "meaning": "to employ, to hire, to take on, to charter (a car, boat, etc.), to hire |(vi) thuê, tuyển dụng, thuê bao (xe, thuyền...)"
       }
     ],
     "radical": {
       "symbol": "隹",
-      "meaning": "small bird"
+      "meaning": "small bird |(vi) Chuy (chim đuôi ngắn)"
     },
     "parts": [
       "一",

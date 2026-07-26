@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "ni",
-    "meaning": "load, cargo, baggage",
+    "meaning": "load, cargo, baggage |(vi) hàng hóa, hành lý, gánh nặng",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "負荷（ふか）",
         "meaning": {
-          "english": "burden, load"
+          "english": "burden, load |(vi) gánh nặng, tải trọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(motsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "荷担する（かたんする）",
         "meaning": {
-          "english": "assist, conspire"
+          "english": "assist, conspire |(vi) tiếp tay, đồng lõa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(motsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "入荷する（にゅうかする）",
         "meaning": {
-          "english": "(shipment) arrive [v.i.]"
+          "english": "(shipment) arrive [v.i.] |(vi) hàng về, nhập hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(motsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "出荷する（しゅっかする）",
         "meaning": {
-          "english": "ship goods (business) [v.t.]"
+          "english": "ship goods (business) [v.t.] |(vi) xuất hàng, giao hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(motsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "荷（に）",
         "meaning": {
-          "english": "load, cargo"
+          "english": "load, cargo |(vi) hàng hóa, gánh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(motsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "荷物（にもつ）",
         "meaning": {
-          "english": "luggage"
+          "english": "luggage |(vi) hành lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(motsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "荷造り（にづくり）",
         "meaning": {
-          "english": "packing, crating"
+          "english": "packing, crating |(vi) đóng gói hàng hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(motsu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "重荷（おもに）",
         "meaning": {
-          "english": "heavy load, heavy responsibility"
+          "english": "heavy load, heavy responsibility |(vi) gánh nặng, trách nhiệm nặng nề"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(motsu)_06_h.opus",
@@ -225,7 +225,7 @@
     "kanji": {
       "character": "荷",
       "meaning": {
-        "english": "load, cargo, baggage"
+        "english": "load, cargo, baggage |(vi) hàng hóa, hành lý, gánh nặng"
       },
       "strokes": {
         "count": 10,
@@ -283,7 +283,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -304,7 +304,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1230",
     "strokeCount": 10,
-    "meaning": "baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight",
+    "meaning": "baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight |(vi) hành lý, gánh vác trên vai, chịu đựng (gánh nặng), vác (súng), hàng hóa, hàng chuyên chở |(hv) Hà",
     "kunyomi": [
       "に"
     ],
@@ -315,44 +315,44 @@
       {
         "example": "荷",
         "reading": "カ",
-        "meaning": "counter for loads (that can be carried on one's shoulders)"
+        "meaning": "counter for loads (that can be carried on one's shoulders) |(vi) lượng từ đếm gánh hàng (có thể vác trên vai)"
       },
       {
         "example": "加担",
         "reading": "カタン",
-        "meaning": "support, participation, assistance, complicity, conspiracy"
+        "meaning": "support, participation, assistance, complicity, conspiracy |(vi) ủng hộ, tham gia, hỗ trợ, đồng lõa, âm mưu"
       },
       {
         "example": "集荷",
         "reading": "シュウカ",
-        "meaning": "collection of cargo (esp. produce, etc.), cargo booking"
+        "meaning": "collection of cargo (esp. produce, etc.), cargo booking |(vi) thu gom hàng hóa (đặc biệt nông sản), đặt chỗ vận chuyển hàng"
       },
       {
         "example": "電荷",
         "reading": "デンカ",
-        "meaning": "electric charge, charge"
+        "meaning": "electric charge, charge |(vi) điện tích"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "荷",
         "reading": "に",
-        "meaning": "load, baggage, cargo, freight, goods, burden, responsibility"
+        "meaning": "load, baggage, cargo, freight, goods, burden, responsibility |(vi) hàng hóa, hành lý, gánh nặng, trách nhiệm"
       },
       {
         "example": "荷台",
         "reading": "にだい",
-        "meaning": "(truck) load-carrying tray, (bicycle) luggage carrier, roof rack"
+        "meaning": "(truck) load-carrying tray, (bicycle) luggage carrier, roof rack |(vi) thùng xe tải, giá chở hàng (xe đạp), giá mui xe"
       },
       {
         "example": "浮き荷",
         "reading": "うきに",
-        "meaning": "flotsam"
+        "meaning": "flotsam |(vi) hàng hóa trôi nổi (trên biển)"
       },
       {
         "example": "抜き荷",
         "reading": "ぬきに",
-        "meaning": "pilfered goods"
+        "meaning": "pilfered goods |(vi) hàng ăn cắp, hàng lậu"
       }
     ],
     "radical": {
@@ -360,7 +360,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "一",

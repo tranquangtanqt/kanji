@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "sumi",
-    "meaning": "nook, corner",
+    "meaning": "nook, corner |(vi) góc, xó",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "一隅（いちぐう）",
         "meaning": {
-          "english": "corner, nook"
+          "english": "corner, nook |(vi) góc, xó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/guu-sumi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "隅（すみ）",
         "meaning": {
-          "english": "corner, nook"
+          "english": "corner, nook |(vi) góc, xó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/guu-sumi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "隅々（すみずみ）",
         "meaning": {
-          "english": "every nook and corner"
+          "english": "every nook and corner |(vi) khắp mọi ngóc ngách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/guu-sumi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "片隅（かたすみ）",
         "meaning": {
-          "english": "corner, nook"
+          "english": "corner, nook |(vi) góc, xó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/guu-sumi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "四隅（よすみ）",
         "meaning": {
-          "english": "four corners"
+          "english": "four corners |(vi) bốn góc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/guu-sumi_06_e.opus",
@@ -150,7 +150,7 @@
     "kanji": {
       "character": "隅",
       "meaning": {
-        "english": "nook, corner"
+        "english": "nook, corner |(vi) góc, xó"
       },
       "strokes": {
         "count": 12,
@@ -212,7 +212,7 @@
         "romaji": "kozatohen"
       },
       "meaning": {
-        "english": "hill, mound"
+        "english": "hill, mound |(vi) Phụ (gò đất, đê)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kozatohen0.svg",
@@ -233,7 +233,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1601",
     "strokeCount": 12,
-    "meaning": "corner, nook",
+    "meaning": "corner, nook |(vi) góc, xó |(hv) Ngung",
     "kunyomi": [
       "すみ"
     ],
@@ -244,39 +244,39 @@
       {
         "example": "隅角",
         "reading": "グウカク",
-        "meaning": "iridocorneal angle, angulus iridocornealis, corner"
+        "meaning": "iridocorneal angle, angulus iridocornealis, corner |(vi) góc mống mắt-giác mạc, góc"
       },
       {
         "example": "一隅",
         "reading": "イチグウ",
-        "meaning": "corner, nook"
+        "meaning": "corner, nook |(vi) góc, xó"
       },
       {
         "example": "四隅",
         "reading": "ヨスミ",
-        "meaning": "four corners, four ordinal directions"
+        "meaning": "four corners, four ordinal directions |(vi) bốn góc, bốn hướng chính"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "隅",
         "reading": "すみ",
-        "meaning": "corner, nook, recess, downstage right (on a noh stage)"
+        "meaning": "corner, nook, recess, downstage right (on a noh stage) |(vi) góc, xó, chỗ khuất, góc phải hạ sân khấu (trên sân khấu noh)"
       },
       {
         "example": "隅々",
         "reading": "すみずみ",
-        "meaning": "every corner, every nook and cranny, all the ins and outs"
+        "meaning": "every corner, every nook and cranny, all the ins and outs |(vi) mọi góc, mọi ngóc ngách, mọi chi tiết"
       },
       {
         "example": "四隅",
         "reading": "よすみ",
-        "meaning": "four corners, four ordinal directions"
+        "meaning": "four corners, four ordinal directions |(vi) bốn góc, bốn hướng chính"
       },
       {
         "example": "一隅",
         "reading": "いちぐう",
-        "meaning": "corner, nook"
+        "meaning": "corner, nook |(vi) góc, xó"
       }
     ],
     "radical": {
@@ -284,7 +284,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "mound, dam (阝 left)"
+      "meaning": "mound, dam (阝 left) |(vi) Phụ (gò đất, đê)"
     },
     "parts": [
       "冂",

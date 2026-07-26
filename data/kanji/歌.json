@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "uta, utau",
-    "meaning": "song",
+    "meaning": "song |(vi) bài hát",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "歌手（かしゅ）",
         "meaning": {
-          "english": "singer"
+          "english": "singer |(vi) ca sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-uta_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "歌詞（かし）",
         "meaning": {
-          "english": "song lyrics"
+          "english": "song lyrics |(vi) lời bài hát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-uta_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "歌舞伎（かぶき）",
         "meaning": {
-          "english": "Japanese classical drama"
+          "english": "Japanese classical drama |(vi) kabuki (kịch cổ điển Nhật Bản)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-uta_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "国歌（こっか）",
         "meaning": {
-          "english": "national anthem"
+          "english": "national anthem |(vi) quốc ca"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-uta_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "和歌（わか）",
         "meaning": {
-          "english": "Japanese poem"
+          "english": "Japanese poem |(vi) waka (thơ Nhật Bản)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-uta_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "短歌（たんか）",
         "meaning": {
-          "english": "31-syllable Japanese poem"
+          "english": "31-syllable Japanese poem |(vi) tanka (thơ Nhật 31 âm tiết)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-uta_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "歌（うた）",
         "meaning": {
-          "english": "song"
+          "english": "song |(vi) bài hát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-uta_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "歌う（うたう）",
         "meaning": {
-          "english": "sing"
+          "english": "sing |(vi) hát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-uta_06_h.opus",
@@ -262,7 +262,7 @@
     "kanji": {
       "character": "歌",
       "meaning": {
-        "english": "song"
+        "english": "song |(vi) bài hát"
       },
       "strokes": {
         "count": 14,
@@ -328,7 +328,7 @@
         "romaji": "akubi"
       },
       "meaning": {
-        "english": "to lack, yawn"
+        "english": "to lack, yawn |(vi) Khiếm (thiếu, ngáp)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/akubi0.svg",
@@ -349,7 +349,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "519",
     "strokeCount": 14,
-    "meaning": "song, sing",
+    "meaning": "song, sing |(vi) bài hát, hát |(hv) Ca",
     "kunyomi": [
       "うた",
       "うた.う"
@@ -361,59 +361,59 @@
       {
         "example": "歌劇",
         "reading": "カゲキ",
-        "meaning": "opera"
+        "meaning": "opera |(vi) nhạc kịch, opera"
       },
       {
         "example": "歌曲",
         "reading": "カキョク",
-        "meaning": "melody, tune, song"
+        "meaning": "melody, tune, song |(vi) giai điệu, ca khúc"
       },
       {
         "example": "演歌",
         "reading": "エンカ",
-        "meaning": "enka, traditional-style Japanese popular ballad, troubadour"
+        "meaning": "enka, traditional-style Japanese popular ballad, troubadour |(vi) enka (nhạc ballad truyền thống Nhật Bản)"
       },
       {
         "example": "和歌",
         "reading": "ワカ",
-        "meaning": "waka, classic Japanese poem, esp. a tanka, often 31 morae"
+        "meaning": "waka, classic Japanese poem, esp. a tanka, often 31 morae |(vi) waka, thơ cổ điển Nhật Bản (đặc biệt là tanka)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "歌",
         "reading": "うた",
-        "meaning": "song, singing, classical Japanese poem (esp. tanka), modern poetry"
+        "meaning": "song, singing, classical Japanese poem (esp. tanka), modern poetry |(vi) bài hát, ca hát, thơ cổ điển Nhật (đặc biệt tanka), thơ hiện đại"
       },
       {
         "example": "歌合",
         "reading": "うたあわせ",
-        "meaning": "poetry contest"
+        "meaning": "poetry contest |(vi) cuộc thi làm thơ"
       },
       {
         "example": "短歌",
         "reading": "たんか",
-        "meaning": "tanka, 31-mora Japanese poem"
+        "meaning": "tanka, 31-mora Japanese poem |(vi) tanka, thơ Nhật 31 âm tiết"
       },
       {
         "example": "替え歌",
         "reading": "かえうた",
-        "meaning": "parody (of a song), new lyrics to an old melody, song parody"
+        "meaning": "parody (of a song), new lyrics to an old melody, song parody |(vi) nhại lời bài hát, lời mới cho giai điệu cũ"
       },
       {
         "example": "歌う",
         "reading": "うたう",
-        "meaning": "to sing, to sing of (love, beauty, etc.) in a poem, to express in the form of a poem, to recite (a poem)"
+        "meaning": "to sing, to sing of (love, beauty, etc.) in a poem, to express in the form of a poem, to recite (a poem) |(vi) hát, ca ngợi (tình yêu, vẻ đẹp...) trong thơ, diễn đạt bằng thơ, ngâm thơ"
       },
       {
         "example": "歌うたい",
         "reading": "うたうたい",
-        "meaning": "singer, vocalist, nagauta singer (in kabuki), singer of noh chants"
+        "meaning": "singer, vocalist, nagauta singer (in kabuki), singer of noh chants |(vi) ca sĩ, người hát nagauta (trong kabuki), người hát trong kịch Noh"
       }
     ],
     "radical": {
       "symbol": "欠",
-      "meaning": "lack, yawn"
+      "meaning": "lack, yawn |(vi) Khiếm (thiếu, ngáp)"
     },
     "parts": [
       "一",

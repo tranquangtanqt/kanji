@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "so, sou",
-    "meaning": "along",
+    "meaning": "along |(vi) dọc theo",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "沿道（えんどう）",
         "meaning": {
-          "english": "route, course, roadside"
+          "english": "route, course, roadside |(vi) dọc đường, ven đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-so(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "沿岸（えんがん）",
         "meaning": {
-          "english": "coast, shore"
+          "english": "coast, shore |(vi) ven biển, bờ biển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-so(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "沿線（えんせん）",
         "meaning": {
-          "english": "along a railroad line"
+          "english": "along a railroad line |(vi) dọc tuyến đường sắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-so(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "沿革（えんかく）",
         "meaning": {
-          "english": "history, development"
+          "english": "history, development |(vi) lịch sử phát triển, quá trình hình thành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-so(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "沿う（そう）",
         "meaning": {
-          "english": "accompany, comply with"
+          "english": "accompany, comply with |(vi) đi theo, tuân theo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-so(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "川沿い（かわぞい）",
         "meaning": {
-          "english": "along a river"
+          "english": "along a river |(vi) dọc theo sông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-so(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "山沿い（やまぞい）",
         "meaning": {
-          "english": "along a mountain"
+          "english": "along a mountain |(vi) dọc theo núi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-so(u)_06_g.opus",
@@ -179,7 +179,7 @@
     "kanji": {
       "character": "沿",
       "meaning": {
-        "english": "along"
+        "english": "along |(vi) dọc theo"
       },
       "strokes": {
         "count": 8,
@@ -233,7 +233,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -254,7 +254,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1121",
     "strokeCount": 8,
-    "meaning": "run alongside, follow along, run along, lie along",
+    "meaning": "run alongside, follow along, run along, lie along |(vi) chạy song song, đi theo, nằm dọc theo |(hv) Duyên",
     "kunyomi": [
       "そ.う",
       "-ぞ.い"
@@ -266,19 +266,19 @@
       {
         "example": "沿海",
         "reading": "エンカイ",
-        "meaning": "sea along the coast, coastal waters, inshore waters, coast"
+        "meaning": "sea along the coast, coastal waters, inshore waters, coast |(vi) vùng biển ven bờ, hải phận gần bờ"
       },
       {
         "example": "沿海州",
         "reading": "エンカイシュウ",
-        "meaning": "Primorskaya Oblast (Russia)"
+        "meaning": "Primorskaya Oblast (Russia) |(vi) tỉnh Primorsky (Nga)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "沿う",
         "reading": "そう",
-        "meaning": "to run along, to run beside, to stick to (a line), to follow (a policy, plan, etc.), to act in accordance with, to align with, to meet (wishes, expectations, etc.), to satisfy, to comply with, to live up to"
+        "meaning": "to run along, to run beside, to stick to (a line), to follow (a policy, plan, etc.), to act in accordance with, to align with, to meet (wishes, expectations, etc.), to satisfy, to comply with, to live up to |(vi) chạy dọc theo, chạy sát bên, bám sát (một tuyến), tuân theo (chính sách, kế hoạch...), hành động theo, phù hợp với, đáp ứng (mong muốn, kỳ vọng...), thỏa mãn, tuân thủ"
       }
     ],
     "radical": {
@@ -287,7 +287,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "ハ",

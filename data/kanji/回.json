@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "mawa, mawaru, mawasu",
-    "meaning": "turn round, time",
+    "meaning": "turn round, time |(vi) quay vòng, lần",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "回数券（かいすうけん）",
         "meaning": {
-          "english": "book of tickets"
+          "english": "book of tickets |(vi) vé tập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "何回（なんかい）",
         "meaning": {
-          "english": "how many times"
+          "english": "how many times |(vi) mấy lần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "三回（さんかい）",
         "meaning": {
-          "english": "3 times"
+          "english": "3 times |(vi) 3 lần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "今回（こんかい）",
         "meaning": {
-          "english": "this time"
+          "english": "this time |(vi) lần này"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "最終回（さいしゅうかい）",
         "meaning": {
-          "english": "last part"
+          "english": "last part |(vi) phần cuối, tập cuối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "回転する（かいてんする）",
         "meaning": {
-          "english": "rotate"
+          "english": "rotate |(vi) xoay, quay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "回向（えこう）",
         "meaning": {
-          "english": "Buddhist memorial service"
+          "english": "Buddhist memorial service |(vi) hồi hướng công đức (nghi lễ Phật giáo)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "回る（まわる）",
         "meaning": {
-          "english": "turn round [v.i.]"
+          "english": "turn round [v.i.] |(vi) quay, xoay vòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "回す（まわす）",
         "meaning": {
-          "english": "turn round [v.t.]"
+          "english": "turn round [v.t.] |(vi) quay, xoay (cái gì đó)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_i.opus",
@@ -281,7 +281,7 @@
     "kanji": {
       "character": "回",
       "meaning": {
-        "english": "turn round, time"
+        "english": "turn round, time |(vi) quay vòng, lần"
       },
       "strokes": {
         "count": 6,
@@ -331,7 +331,7 @@
         "romaji": "kunigamae"
       },
       "meaning": {
-        "english": "border, territorial boundaries"
+        "english": "border, territorial boundaries |(vi) Vi (bao quanh, ranh giới)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kunigamae0.svg",
@@ -352,7 +352,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "50",
     "strokeCount": 6,
-    "meaning": "-times, round, game, revolve, counter for occurrences",
+    "meaning": "-times, round, game, revolve, counter for occurrences |(vi) -lần, vòng, ván, xoay vòng, lượng từ đếm số lần |(hv) Hồi",
     "kunyomi": [
       "まわ.る",
       "-まわ.る",
@@ -372,54 +372,54 @@
       {
         "example": "回",
         "reading": "カイ",
-        "meaning": "counter for occurrences, a time, an instance, inning (baseball), round, game, episode, chapter, instalment, Hui (people), Islam"
+        "meaning": "counter for occurrences, a time, an instance, inning (baseball), round, game, episode, chapter, instalment, Hui (people), Islam |(vi) lượng từ đếm số lần, một lần, hiệp (bóng chày), vòng, ván, tập (phim), chương, kỳ, người Hồi (dân tộc), đạo Hồi"
       },
       {
         "example": "回忌",
         "reading": "カイキ",
-        "meaning": "death anniversary, anniversary of a person's death"
+        "meaning": "death anniversary, anniversary of a person's death |(vi) ngày giỗ, kỷ niệm ngày mất"
       },
       {
         "example": "初回",
         "reading": "ショカイ",
-        "meaning": "first time, first innings, initial attempt, first, initial"
+        "meaning": "first time, first innings, initial attempt, first, initial |(vi) lần đầu tiên, hiệp đầu, lần thử đầu tiên"
       },
       {
         "example": "奪回",
         "reading": "ダッカイ",
-        "meaning": "recovery, rescue, recapture"
+        "meaning": "recovery, rescue, recapture |(vi) giành lại, cứu lại, chiếm lại"
       },
       {
         "example": "回向",
         "reading": "エコウ",
-        "meaning": "memorial service, prayers for the repose of the soul, transfer of merit"
+        "meaning": "memorial service, prayers for the repose of the soul, transfer of merit |(vi) lễ cầu siêu, cầu nguyện cho linh hồn an nghỉ, hồi hướng công đức"
       },
       {
         "example": "回向偈",
         "reading": "エコウゲ",
-        "meaning": "closing recital that transfers the merit of the service to a buddha, a bodhisattva, or the dead"
+        "meaning": "closing recital that transfers the merit of the service to a buddha, a bodhisattva, or the dead |(vi) bài kệ hồi hướng công đức (cho Phật, Bồ Tát, hoặc người đã khuất)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "回る",
         "reading": "まわる",
-        "meaning": "to turn, to rotate, to revolve, to spin, to go around, to circle, to revolve around, to orbit, to make the rounds (of), to go around (several places), to travel around, to make a tour of, to patrol, to go by way of, to go via, to stop by (on the way), to take a roundabout route, to make a detour, to move around (to another place or position), to come around, to go over (e.g. to the opposing side), to come around (of one's turn), to be passed around (of a cup, circular, etc.), to function, to work well, to spread, to extend (to; e.g. of one's attention), to reach, to take effect (of alcohol, poison, etc.), to pass (a time), to turn (e.g. 5 o'clock), to earn interest, to ... around, to ... about"
+        "meaning": "to turn, to rotate, to revolve, to spin, to go around, to circle, to revolve around, to orbit, to make the rounds (of), to go around (several places), to travel around, to make a tour of, to patrol, to go by way of, to go via, to stop by (on the way), to take a roundabout route, to make a detour, to move around (to another place or position), to come around, to go over (e.g. to the opposing side), to come around (of one's turn), to be passed around (of a cup, circular, etc.), to function, to work well, to spread, to extend (to; e.g. of one's attention), to reach, to take effect (of alcohol, poison, etc.), to pass (a time), to turn (e.g. 5 o'clock), to earn interest, to ... around, to ... about |(vi) quay, xoay, xoay vòng, xoay tròn, đi vòng quanh, đi tuần, quay quanh (quỹ đạo), đi khắp (nhiều nơi), đi tuần tra, đi qua đường, ghé qua (dọc đường), đi đường vòng, chuyển sang (vị trí khác), quay sang (phía đối lập), đến lượt, được truyền tay nhau (cốc, giấy...), hoạt động tốt, lan tỏa, có hiệu lực (rượu, thuốc độc...), trôi qua (thời gian), quay (giờ), sinh lãi"
       },
       {
         "example": "回す",
         "reading": "まわす",
-        "meaning": "to turn, to rotate, to spin, to twist, to gyrate, to pass around, to send around, to hand around, to circulate, to move (someone or something to where its needed), to send, to bring, to transfer, to forward, to direct, to submit, to turn (to a new use), to use (for something else), to turn on (something that turns or has a rotating part, e.g. a washing machine), to start up (e.g. an engine), to give (something) a spin, to put (someone in a position), to make (e.g. an enemy of), to ... around (e.g. chase, fool, play), to do all over, to do everywhere, to do completely, to surround (something) with, to enclose with, to put (an arm) around (e.g. someone's waist), to reach around, to invest (money), to lend, to dial (a telephone number), to gang-rape, to operate (e.g. business, shop)"
+        "meaning": "to turn, to rotate, to spin, to twist, to gyrate, to pass around, to send around, to hand around, to circulate, to move (someone or something to where its needed), to send, to bring, to transfer, to forward, to direct, to submit, to turn (to a new use), to use (for something else), to turn on (something that turns or has a rotating part, e.g. a washing machine), to start up (e.g. an engine), to give (something) a spin, to put (someone in a position), to make (e.g. an enemy of), to ... around (e.g. chase, fool, play), to do all over, to do everywhere, to do completely, to surround (something) with, to enclose with, to put (an arm) around (e.g. someone's waist), to reach around, to invest (money), to lend, to dial (a telephone number), to gang-rape, to operate (e.g. business, shop) |(vi) quay, xoay, vặn, chuyền tay, chuyển đi, gửi đi, chuyển tiếp, đệ trình, chuyển sang dùng khác, bật (máy giặt...), khởi động (động cơ), cho quay, đặt (ai vào vị trí), biến thành (kẻ thù), làm cho ai đó quay vòng (đuổi bắt, lừa, chơi đùa), làm hết, làm khắp, bao quanh, ôm (vòng quanh eo ai đó), đầu tư (tiền), cho vay, quay số điện thoại, cưỡng hiếp tập thể, điều hành (kinh doanh, cửa hàng)"
       },
       {
         "example": "回る",
         "reading": "もとおる",
-        "meaning": "to wander around"
+        "meaning": "to wander around |(vi) lang thang, đi vòng vo"
       }
     ],
     "radical": {
       "symbol": "囗",
-      "meaning": "enclosure"
+      "meaning": "enclosure |(vi) Vi (bao quanh, ranh giới)"
     },
     "parts": [
       "口",

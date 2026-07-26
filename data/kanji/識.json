@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "discriminate, knowledge, know",
+    "meaning": "discriminate, knowledge, know |(vi) phân biệt, kiến thức, biết",
     "kstroke": 19,
     "examples": [
       {
         "japanese": "知識（ちしき）",
         "meaning": {
-          "english": "knowledge"
+          "english": "knowledge |(vi) kiến thức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)shiki_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "常識（じょうしき）",
         "meaning": {
-          "english": "common sense"
+          "english": "common sense |(vi) thường thức, lẽ thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)shiki_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "良識（りょうしき）",
         "meaning": {
-          "english": "good sense"
+          "english": "good sense |(vi) lương tri, nhận thức đúng đắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)shiki_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "認識する（にんしきする）",
         "meaning": {
-          "english": "recognize"
+          "english": "recognize |(vi) nhận thức, nhận biết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)shiki_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "意識する（いしきする）",
         "meaning": {
-          "english": "be aware of"
+          "english": "be aware of |(vi) ý thức được"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)shiki_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "識別する（しきべつする）",
         "meaning": {
-          "english": "discriminate"
+          "english": "discriminate |(vi) phân biệt, nhận dạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)shiki_06_f.opus",
@@ -202,7 +202,7 @@
     "kanji": {
       "character": "識",
       "meaning": {
-        "english": "discriminate, knowledge, know"
+        "english": "discriminate, knowledge, know |(vi) phân biệt, kiến thức, biết"
       },
       "strokes": {
         "count": 19,
@@ -278,7 +278,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói, ngôn ngữ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -299,7 +299,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "496",
     "strokeCount": 19,
-    "meaning": "discriminating, know, write",
+    "meaning": "discriminating, know, write |(vi) phân biệt, biết, viết |(hv) Thức",
     "kunyomi": [
       "し.る",
       "しる.す"
@@ -311,39 +311,39 @@
       {
         "example": "識",
         "reading": "シキ",
-        "meaning": "acquaintanceship, vijnana, consciousness, written by..."
+        "meaning": "acquaintanceship, vijnana, consciousness, written by... |(vi) sự quen biết, thức (vijñāna trong Phật giáo), ý thức, do ... biên soạn"
       },
       {
         "example": "識者",
         "reading": "シキシャ",
-        "meaning": "well-informed person, thinking person, intelligent person"
+        "meaning": "well-informed person, thinking person, intelligent person |(vi) người hiểu biết, người có kiến thức, người thông thái"
       },
       {
         "example": "光学式文字認識",
         "reading": "コウガクシキモジニンシキ",
-        "meaning": "optical character recognition, OCR"
+        "meaning": "optical character recognition, OCR |(vi) nhận dạng ký tự quang học, OCR"
       },
       {
         "example": "目的意識",
         "reading": "モクテキイシキ",
-        "meaning": "sense of purpose"
+        "meaning": "sense of purpose |(vi) ý thức mục đích"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "知る",
         "reading": "しる",
-        "meaning": "to know, to be aware (of), to be conscious (of), to learn (of), to find out, to discover, to sense, to feel, to notice, to realize, to understand, to comprehend, to grasp, to appreciate, to remember, to be familiar with, to be acquainted with, to experience, to go through, to know (e.g. hardship), to get acquainted with (a person), to get to know, to have to do with, to be concerned with, to be one's concern, to be one's responsibility"
+        "meaning": "to know, to be aware (of), to be conscious (of), to learn (of), to find out, to discover, to sense, to feel, to notice, to realize, to understand, to comprehend, to grasp, to appreciate, to remember, to be familiar with, to be acquainted with, to experience, to go through, to know (e.g. hardship), to get acquainted with (a person), to get to know, to have to do with, to be concerned with, to be one's concern, to be one's responsibility |(vi) biết, nhận biết, ý thức được, hiểu, quen thuộc, trải qua, cảm nhận"
       },
       {
         "example": "記す",
         "reading": "しるす",
-        "meaning": "to write down, to note down, to jot down, to take a note of, to mention, to describe, to give an account of, to inscribe, to mark, to brand, to remember, to engrave (in one's mind)"
+        "meaning": "to write down, to note down, to jot down, to take a note of, to mention, to describe, to give an account of, to inscribe, to mark, to brand, to remember, to engrave (in one's mind) |(vi) ghi chép, ghi lại, viết, ghi nhớ, khắc ghi"
       },
       {
         "example": "記す",
         "reading": "しるす",
-        "meaning": "to write down, to note down, to jot down, to take a note of, to mention, to describe, to give an account of, to inscribe, to mark, to brand, to remember, to engrave (in one's mind)"
+        "meaning": "to write down, to note down, to jot down, to take a note of, to mention, to describe, to give an account of, to inscribe, to mark, to brand, to remember, to engrave (in one's mind) |(vi) ghi chép, ghi lại, viết, ghi nhớ, khắc ghi"
       }
     ],
     "radical": {
@@ -351,7 +351,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói, ngôn ngữ)"
     },
     "parts": [
       "戈",

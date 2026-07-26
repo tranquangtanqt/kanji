@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "haji, hajimaru, hajimeru",
-    "meaning": "begin",
+    "meaning": "begin |(vi) bắt đầu",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "開始する（かいしする）",
         "meaning": {
-          "english": "start"
+          "english": "start |(vi) khởi đầu, bắt đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haji(maru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "年始（ねんし）",
         "meaning": {
-          "english": "beginning of the year"
+          "english": "beginning of the year |(vi) đầu năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haji(maru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "始業式（しぎょうしき）",
         "meaning": {
-          "english": "opening ceremony (for a school)"
+          "english": "opening ceremony (for a school) |(vi) lễ khai giảng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haji(maru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "始発（しはつ）",
         "meaning": {
-          "english": "first train/bus"
+          "english": "first train/bus |(vi) chuyến tàu/xe buýt đầu tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haji(maru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "始まる（はじまる）",
         "meaning": {
-          "english": "begin [v.i.]"
+          "english": "begin [v.i.] |(vi) bắt đầu (tự động)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haji(maru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "始める（はじめる）",
         "meaning": {
-          "english": "begin [v.t.]"
+          "english": "begin [v.t.] |(vi) bắt đầu (làm gì đó)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haji(maru)_06_f.opus",
@@ -232,7 +232,7 @@
     "kanji": {
       "character": "始",
       "meaning": {
-        "english": "begin"
+        "english": "begin |(vi) bắt đầu"
       },
       "strokes": {
         "count": 8,
@@ -285,7 +285,7 @@
         "romaji": "onnahen"
       },
       "meaning": {
-        "english": "woman"
+        "english": "woman |(vi) Nữ (phụ nữ, giống cái)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/onnahen0.svg",
@@ -306,7 +306,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "244",
     "strokeCount": 8,
-    "meaning": "commence, begin",
+    "meaning": "commence, begin |(vi) bắt đầu, khởi đầu |(hv) Thủy",
     "kunyomi": [
       "はじ.める",
       "-はじ.める",
@@ -319,39 +319,39 @@
       {
         "example": "始発",
         "reading": "シハツ",
-        "meaning": "first departure (of the day), first train, first bus, departing from the starting station (of a bus, train, etc.)"
+        "meaning": "first departure (of the day), first train, first bus, departing from the starting station (of a bus, train, etc.) |(vi) chuyến đầu tiên trong ngày (tàu, xe buýt xuất phát từ ga đầu)"
       },
       {
         "example": "始業",
         "reading": "シギョウ",
-        "meaning": "start of work, commencement, opening"
+        "meaning": "start of work, commencement, opening |(vi) bắt đầu công việc, khai mạc"
       },
       {
         "example": "年始",
         "reading": "ネンシ",
-        "meaning": "beginning of the year, new year, New Year's call, New Year's greetings"
+        "meaning": "beginning of the year, new year, New Year's call, New Year's greetings |(vi) đầu năm, năm mới, lời chúc năm mới"
       },
       {
         "example": "創始",
         "reading": "ソウシ",
-        "meaning": "creation, founding, initiating"
+        "meaning": "creation, founding, initiating |(vi) sáng lập, khởi xướng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "始める",
         "reading": "はじめる",
-        "meaning": "to start, to begin, to commence, to initiate, to originate, to start up (a business, society, etc.), to open (e.g. a store), to establish, to start ..., to begin to ..."
+        "meaning": "to start, to begin, to commence, to initiate, to originate, to start up (a business, society, etc.), to open (e.g. a store), to establish, to start ..., to begin to ... |(vi) bắt đầu, khởi sự, mở (cửa hàng), thành lập"
       },
       {
         "example": "始まる",
         "reading": "はじまる",
-        "meaning": "to begin, to start, to commence, to happen (again), to begin (anew), to date (from), to originate (in)"
+        "meaning": "to begin, to start, to commence, to happen (again), to begin (anew), to date (from), to originate (in) |(vi) bắt đầu, khởi đầu, bắt nguồn (từ)"
       }
     ],
     "radical": {
       "symbol": "女",
-      "meaning": "woman, female"
+      "meaning": "woman, female |(vi) Nữ (phụ nữ, giống cái)"
     },
     "parts": [
       "厶",

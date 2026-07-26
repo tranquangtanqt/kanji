@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "sora, a, kara, muna, aku, aki, akeru, kara, munashii, munashisa",
-    "meaning": "sky, air, empty",
+    "meaning": "sky, air, empty |(vi) bầu trời, không khí, trống rỗng",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "空間（くうかん）",
         "meaning": {
-          "english": "space"
+          "english": "space |(vi) không gian"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "空港（くうこう）",
         "meaning": {
-          "english": "airport"
+          "english": "airport |(vi) sân bay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "空気（くうき）",
         "meaning": {
-          "english": "air"
+          "english": "air |(vi) không khí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "空車（くうしゃ）",
         "meaning": {
-          "english": "free taxi"
+          "english": "free taxi |(vi) taxi trống (không có khách)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "航空会社（こうくうがいしゃ）",
         "meaning": {
-          "english": "airline company"
+          "english": "airline company |(vi) hãng hàng không"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "空（そら）",
         "meaning": {
-          "english": "sky"
+          "english": "sky |(vi) bầu trời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "空く（あく）",
         "meaning": {
-          "english": "open [v.i.]"
+          "english": "open [v.i.] |(vi) trống, mở ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "空ける（あける）",
         "meaning": {
-          "english": "empty [v.t.]"
+          "english": "empty [v.t.] |(vi) làm trống, dọn trống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "空き缶（あきかん）",
         "meaning": {
-          "english": "empty can"
+          "english": "empty can |(vi) lon rỗng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "空（から）",
         "meaning": {
-          "english": "empty [n.]"
+          "english": "empty [n.] |(vi) trống rỗng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "空手（からて）",
         "meaning": {
-          "english": "karate"
+          "english": "karate |(vi) karate (không thủ đạo)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "空しい（むなしい）",
         "meaning": {
-          "english": "feel empty [adj.]"
+          "english": "feel empty [adj.] |(vi) trống rỗng, vô nghĩa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_l.opus",
@@ -326,7 +326,7 @@
     "kanji": {
       "character": "空",
       "meaning": {
-        "english": "sky, air, empty"
+        "english": "sky, air, empty |(vi) bầu trời, không khí, trống rỗng"
       },
       "strokes": {
         "count": 8,
@@ -380,7 +380,7 @@
         "romaji": "anakanmuri"
       },
       "meaning": {
-        "english": "hole, cave"
+        "english": "hole, cave |(vi) Huyệt (lỗ, hang)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/anakanmuri0.svg",
@@ -401,7 +401,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "304",
     "strokeCount": 8,
-    "meaning": "empty, sky, void, vacant, vacuum",
+    "meaning": "empty, sky, void, vacant, vacuum |(vi) trống rỗng, bầu trời, hư không, bỏ trống, chân không |(hv) Không",
     "kunyomi": [
       "そら",
       "あ.く",
@@ -419,99 +419,99 @@
       {
         "example": "空",
         "reading": "クウ",
-        "meaning": "empty air, sky, shunyata (the lack of an immutable intrinsic nature within any phenomenon), emptiness, air force, fruitlessness, meaninglessness, void (one of the five elements), empty (e.g. set)"
+        "meaning": "empty air, sky, shunyata (the lack of an immutable intrinsic nature within any phenomenon), emptiness, air force, fruitlessness, meaninglessness, void (one of the five elements), empty (e.g. set) |(vi) không trung, bầu trời, tính không (Phật giáo), sự trống rỗng, không quân, sự vô ích, sự vô nghĩa, không (một trong ngũ đại), rỗng (ví dụ tập hợp rỗng)"
       },
       {
         "example": "空域",
         "reading": "クウイキ",
-        "meaning": "airspace"
+        "meaning": "airspace |(vi) không phận"
       },
       {
         "example": "領空",
         "reading": "リョウクウ",
-        "meaning": "territorial airspace"
+        "meaning": "territorial airspace |(vi) không phận lãnh thổ"
       },
       {
         "example": "防空",
         "reading": "ボウクウ",
-        "meaning": "air defense, air defence"
+        "meaning": "air defense, air defence |(vi) phòng không"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "空",
         "reading": "そら",
-        "meaning": "sky, the air, the heavens, weather, far-off place, distant place, state of mind, feeling, (from) memory, (by) heart, falsehood, lie, somehow, vaguely, fake"
+        "meaning": "sky, the air, the heavens, weather, far-off place, distant place, state of mind, feeling, (from) memory, (by) heart, falsehood, lie, somehow, vaguely, fake |(vi) bầu trời, không trung, thiên đường, thời tiết, nơi xa xôi, trạng thái tâm trí, cảm giác, (từ) trí nhớ, (bằng) lòng, sự giả dối, lời nói dối, mơ hồ, giả"
       },
       {
         "example": "空模様",
         "reading": "そらもよう",
-        "meaning": "look of the sky, weather"
+        "meaning": "look of the sky, weather |(vi) vẻ trời, tình hình thời tiết"
       },
       {
         "example": "定めなき空",
         "reading": "さだめなきそら",
-        "meaning": "changeable weather"
+        "meaning": "changeable weather |(vi) thời tiết thất thường"
       },
       {
         "example": "晴れた空",
         "reading": "はれたそら",
-        "meaning": "clear sky, cloudless sky"
+        "meaning": "clear sky, cloudless sky |(vi) bầu trời quang đãng, trời không mây"
       },
       {
         "example": "開く",
         "reading": "あく",
-        "meaning": "to open (e.g. doors), to open (e.g. business, etc.), to be empty, to be vacant, to be available, to be free, to be open (e.g. neckline, etc.), to have been opened (of one's eyes, mouth, etc.), to come to an end, to open (one's eyes, mouth, etc.), to have a hole, to form a gap, to have an interval (between events)"
+        "meaning": "to open (e.g. doors), to open (e.g. business, etc.), to be empty, to be vacant, to be available, to be free, to be open (e.g. neckline, etc.), to have been opened (of one's eyes, mouth, etc.), to come to an end, to open (one's eyes, mouth, etc.), to have a hole, to form a gap, to have an interval (between events) |(vi) mở (ví dụ cửa), khai trương (kinh doanh v.v.), trống, bỏ trống, có sẵn, rảnh, hở (cổ áo v.v.), mở (mắt, miệng v.v.), kết thúc, có lỗ, có khoảng cách, có khoảng thời gian (giữa các sự kiện)"
       },
       {
         "example": "空き",
         "reading": "あき",
-        "meaning": "space, room, gap, emptiness, vacancy, opening, empty seat, free time, time to spare, disuse, unused thing"
+        "meaning": "space, room, gap, emptiness, vacancy, opening, empty seat, free time, time to spare, disuse, unused thing |(vi) khoảng trống, chỗ trống, khe hở, sự trống rỗng, chỗ trống, lỗ hổng, ghế trống, thời gian rảnh, thời gian dư, sự không dùng, vật không dùng"
       },
       {
         "example": "空き缶",
         "reading": "あきかん",
-        "meaning": "empty can"
+        "meaning": "empty can |(vi) lon rỗng"
       },
       {
         "example": "開ける",
         "reading": "あける",
-        "meaning": "to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock, to open (for business, etc.), to empty, to remove, to make space, to make room, to move out, to clear out, to be away from (e.g. one's house), to leave (temporarily), to dawn, to grow light, to end (of a period, season), to begin (of the New Year), to leave (one's schedule) open, to make time (for), to make (a hole), to open up (a hole)"
+        "meaning": "to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock, to open (for business, etc.), to empty, to remove, to make space, to make room, to move out, to clear out, to be away from (e.g. one's house), to leave (temporarily), to dawn, to grow light, to end (of a period, season), to begin (of the New Year), to leave (one's schedule) open, to make time (for), to make (a hole), to open up (a hole) |(vi) mở (cửa v.v.), mở gói (bưu kiện), mở khóa, mở cửa (kinh doanh v.v.), làm trống, dọn dẹp, dọn chỗ, dời đi, rời khỏi (nhà), tạm rời khỏi, rạng sáng, kết thúc (một giai đoạn, mùa), bắt đầu (năm mới), để trống (lịch trình), dành thời gian, khoét (lỗ)"
       },
       {
         "example": "空",
         "reading": "から",
-        "meaning": "emptiness, being empty, not carrying anything, unburdened, empty-handed, dishonoured (bill, promise, etc.), false, no-show (reservation), put-on (cheeriness, courage, etc.), empty (compliments), insincere"
+        "meaning": "emptiness, being empty, not carrying anything, unburdened, empty-handed, dishonoured (bill, promise, etc.), false, no-show (reservation), put-on (cheeriness, courage, etc.), empty (compliments), insincere |(vi) sự trống rỗng, tay không, không mang gì, không bị ràng buộc, thất hứa (hóa đơn, lời hứa v.v.), giả dối, không đến (dù đã đặt chỗ), giả vờ (vui vẻ, can đảm), lời khen sáo rỗng, không chân thành"
       },
       {
         "example": "空手",
         "reading": "からて",
-        "meaning": "karate, being empty-handed, having nothing in one's hands"
+        "meaning": "karate, being empty-handed, having nothing in one's hands |(vi) karate (không thủ đạo), tay không, không cầm gì trong tay"
       },
       {
         "example": "もぬけの殻",
         "reading": "もぬけのから",
-        "meaning": "completely empty (of a residence, etc.), vacant, deserted, body from which the soul has left, corpse, shed skin (of a snake, insect, etc.)"
+        "meaning": "completely empty (of a residence, etc.), vacant, deserted, body from which the soul has left, corpse, shed skin (of a snake, insect, etc.) |(vi) hoàn toàn trống rỗng (nhà cửa v.v.), bỏ hoang, xác không hồn, xác chết, lớp da lột (của rắn, côn trùng v.v.)"
       },
       {
         "example": "空く",
         "reading": "すく",
-        "meaning": "to become less crowded, to thin out, to get empty, to be hungry"
+        "meaning": "to become less crowded, to thin out, to get empty, to be hungry |(vi) trở nên vắng hơn, thưa bớt, trống ra, đói bụng"
       },
       {
         "example": "空かす",
         "reading": "すかす",
-        "meaning": "to feel hungry, to get hungry"
+        "meaning": "to feel hungry, to get hungry |(vi) cảm thấy đói, trở nên đói"
       },
       {
         "example": "虚しい",
         "reading": "むなしい",
-        "meaning": "empty, void, vacant, vain, fruitless, futile, ineffective, lifeless"
+        "meaning": "empty, void, vacant, vain, fruitless, futile, ineffective, lifeless |(vi) trống rỗng, hư vô, bỏ trống, vô ích, vô nghĩa, vô hiệu, vô hồn"
       }
     ],
     "radical": {
       "symbol": "穴",
-      "meaning": "cave"
+      "meaning": "cave |(vi) Huyệt (hang, lỗ)"
     },
     "parts": [
       "儿",

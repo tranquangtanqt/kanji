@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "ka, kaku",
-    "meaning": "write, book",
+    "meaning": "write, book |(vi) viết, sách",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "書庫（しょこ）",
         "meaning": {
-          "english": "archive"
+          "english": "archive |(vi) kho lưu trữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-ka(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "書斎（しょさい）",
         "meaning": {
-          "english": "study (room)"
+          "english": "study (room) |(vi) phòng đọc sách, thư phòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-ka(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "書道（しょどう）",
         "meaning": {
-          "english": "calligraphy"
+          "english": "calligraphy |(vi) thư pháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-ka(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "辞書（じしょ）",
         "meaning": {
-          "english": "dictionary"
+          "english": "dictionary |(vi) từ điển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-ka(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "秘書（ひしょ）",
         "meaning": {
-          "english": "(private) secretary"
+          "english": "(private) secretary |(vi) thư ký (riêng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-ka(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "図書館（としょかん）",
         "meaning": {
-          "english": "library"
+          "english": "library |(vi) thư viện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-ka(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "教科書（きょうかしょ）",
         "meaning": {
-          "english": "text book"
+          "english": "text book |(vi) sách giáo khoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-ka(ku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "参考書（さんこうしょ）",
         "meaning": {
-          "english": "reference book"
+          "english": "reference book |(vi) sách tham khảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-ka(ku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "証明書（しょうめいしょ）",
         "meaning": {
-          "english": "certificate"
+          "english": "certificate |(vi) giấy chứng nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-ka(ku)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "書く（かく）",
         "meaning": {
-          "english": "write"
+          "english": "write |(vi) viết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-ka(ku)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "横書き（よこがき）",
         "meaning": {
-          "english": "writing horizontally"
+          "english": "writing horizontally |(vi) viết theo chiều ngang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho-ka(ku)_06_k.opus",
@@ -301,7 +301,7 @@
     "kanji": {
       "character": "書",
       "meaning": {
-        "english": "write, book"
+        "english": "write, book |(vi) viết, sách"
       },
       "strokes": {
         "count": 10,
@@ -359,7 +359,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày, thời gian)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi0.svg",
@@ -380,7 +380,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "169",
     "strokeCount": 10,
-    "meaning": "write",
+    "meaning": "write |(vi) viết |(hv) Thư",
     "kunyomi": [
       "か.く",
       "-が.き",
@@ -393,34 +393,34 @@
       {
         "example": "書",
         "reading": "ショ",
-        "meaning": "book, document, calligraphy (esp. Chinese), penmanship, handwriting, letter, note"
+        "meaning": "book, document, calligraphy (esp. Chinese), penmanship, handwriting, letter, note |(vi) sách, tài liệu, thư pháp (nhất là chữ Hán), nét chữ, bút tích, thư từ, ghi chú"
       },
       {
         "example": "書院",
         "reading": "ショイン",
-        "meaning": "drawing room, study, writing alcove, publishing house"
+        "meaning": "drawing room, study, writing alcove, publishing house |(vi) phòng khách nhỏ, thư phòng, góc viết chữ, nhà xuất bản"
       },
       {
         "example": "投書",
         "reading": "トウショ",
-        "meaning": "letter (e.g. of complaint), letter to the editor, letter from a reader, contribution (to a newspaper, magazine, etc.)"
+        "meaning": "letter (e.g. of complaint), letter to the editor, letter from a reader, contribution (to a newspaper, magazine, etc.) |(vi) thư khiếu nại, thư gửi tòa soạn, thư của độc giả, bài viết đóng góp (cho báo, tạp chí...)"
       },
       {
         "example": "議定書",
         "reading": "ギテイショ",
-        "meaning": "protocol"
+        "meaning": "protocol |(vi) nghị định thư"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "書く",
         "reading": "かく",
-        "meaning": "to write, to compose, to pen, to draw, to paint"
+        "meaning": "to write, to compose, to pen, to draw, to paint |(vi) viết, soạn, ghi chép, vẽ, tô"
       }
     ],
     "radical": {
       "symbol": "曰",
-      "meaning": "say"
+      "meaning": "say |(vi) Viết (nói, rằng)"
     },
     "parts": [
       "日",

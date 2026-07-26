@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "pressure",
+    "meaning": "pressure |(vi) áp suất, áp lực",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "圧力（あつりょく）",
         "meaning": {
-          "english": "stress, pressure"
+          "english": "stress, pressure |(vi) áp lực, sức ép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "圧巻（あっかん）",
         "meaning": {
-          "english": "best part of a book, masterpiece"
+          "english": "best part of a book, masterpiece |(vi) phần hay nhất (của sách), kiệt tác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "気圧（きあつ）",
         "meaning": {
-          "english": "atmospheric pressure"
+          "english": "atmospheric pressure |(vi) áp suất khí quyển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "血圧（けつあつ）",
         "meaning": {
-          "english": "blood pressure"
+          "english": "blood pressure |(vi) huyết áp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "電圧（でんあつ）",
         "meaning": {
-          "english": "voltage"
+          "english": "voltage |(vi) điện áp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "圧倒的な（あっとうてきな）",
         "meaning": {
-          "english": "overwhelming"
+          "english": "overwhelming |(vi) áp đảo, vượt trội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "圧迫する（あっぱくする）",
         "meaning": {
-          "english": "pressure, coerce, oppress"
+          "english": "pressure, coerce, oppress |(vi) gây áp lực, cưỡng ép, đàn áp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "圧倒する（あっとうする）",
         "meaning": {
-          "english": "overwhelm, overpower"
+          "english": "overwhelm, overpower |(vi) áp đảo, lấn át"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "圧勝する（あっしょうする）",
         "meaning": {
-          "english": "win a sweeping victory"
+          "english": "win a sweeping victory |(vi) giành chiến thắng áp đảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "圧縮する（あっしゅくする）",
         "meaning": {
-          "english": "compress, condense"
+          "english": "compress, condense |(vi) nén, cô đọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "弾圧する（だんあつする）",
         "meaning": {
-          "english": "oppress, suppress"
+          "english": "oppress, suppress |(vi) đàn áp, trấn áp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_k.opus",
@@ -226,7 +226,7 @@
     "kanji": {
       "character": "圧",
       "meaning": {
-        "english": "pressure"
+        "english": "pressure |(vi) áp suất, áp lực"
       },
       "strokes": {
         "count": 5,
@@ -274,7 +274,7 @@
         "romaji": "tsuchi"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
@@ -295,7 +295,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "718",
     "strokeCount": 5,
-    "meaning": "pressure, push, overwhelm, oppress, dominate",
+    "meaning": "pressure, push, overwhelm, oppress, dominate |(vi) áp suất, đẩy, áp đảo, đàn áp, thống trị |(hv) Áp",
     "kunyomi": [
       "お.す",
       "へ.す",
@@ -311,54 +311,54 @@
       {
         "example": "圧",
         "reading": "アツ",
-        "meaning": "pressure, force"
+        "meaning": "pressure, force |(vi) áp lực, sức mạnh"
       },
       {
         "example": "圧力",
         "reading": "アツリョク",
-        "meaning": "pressure, stress, pressure (e.g. political), coercion, arm-twisting"
+        "meaning": "pressure, stress, pressure (e.g. political), coercion, arm-twisting |(vi) áp lực, sức ép (vd chính trị), cưỡng ép, gây sức ép"
       },
       {
         "example": "高圧",
         "reading": "コウアツ",
-        "meaning": "high voltage, high pressure"
+        "meaning": "high voltage, high pressure |(vi) điện áp cao, áp suất cao"
       },
       {
         "example": "外圧",
         "reading": "ガイアツ",
-        "meaning": "external pressure, outside pressure, foreign pressure"
+        "meaning": "external pressure, outside pressure, foreign pressure |(vi) áp lực bên ngoài, sức ép từ nước ngoài"
       },
       {
         "example": "圧状",
         "reading": "オウジョウ",
-        "meaning": "document written under duress, coercion"
+        "meaning": "document written under duress, coercion |(vi) văn bản viết dưới sự ép buộc, sự cưỡng bức"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "押す",
         "reading": "おす",
-        "meaning": "to push, to thrust, to shove, to press (down), to push (e.g. a button), to exert pressure on, to stamp (e.g. one's name), to affix (a seal), to affix (e.g. gold leaf), to push (someone for something), to press, to put pressure on (someone), to overwhelm, to overpower, to put (someone) under pressure, to be superior to, to push ahead (with a policy, plan, etc.), to proceed, to stick to, to do ... in spite of ..., to defy, to brave, to push aside, to make sure, to fall behind schedule"
+        "meaning": "to push, to thrust, to shove, to press (down), to push (e.g. a button), to exert pressure on, to stamp (e.g. one's name), to affix (a seal), to affix (e.g. gold leaf), to push (someone for something), to press, to put pressure on (someone), to overwhelm, to overpower, to put (someone) under pressure, to be superior to, to push ahead (with a policy, plan, etc.), to proceed, to stick to, to do ... in spite of ..., to defy, to brave, to push aside, to make sure, to fall behind schedule |(vi) đẩy, xô, ấn xuống, nhấn (nút), gây áp lực lên, đóng dấu (tên...), dán (lá vàng...), thúc ép ai đó, đè nén, áp đảo, lấn át, thúc đẩy (chính sách, kế hoạch...), kiên trì, bất chấp, gạt sang một bên, đảm bảo, bị chậm tiến độ"
       },
       {
         "example": "圧す",
         "reading": "へす",
-        "meaning": "to dent, to press, to push"
+        "meaning": "to dent, to press, to push |(vi) làm lõm, ép, đẩy"
       },
       {
         "example": "押さえる",
         "reading": "おさえる",
-        "meaning": "to pin down, to hold down, to press down, to hold in place, to hold steady, to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part), to get a hold of, to obtain, to seize, to catch, to arrest, to grasp (a point), to comprehend, to quell, to subdue, to suppress, to repress, to hold back, to check, to curb, to contain"
+        "meaning": "to pin down, to hold down, to press down, to hold in place, to hold steady, to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part), to get a hold of, to obtain, to seize, to catch, to arrest, to grasp (a point), to comprehend, to quell, to subdue, to suppress, to repress, to hold back, to check, to curb, to contain |(vi) giữ chặt, đè xuống, ấn xuống, giữ cố định, che (một phần cơ thể), nắm bắt (ý chính), hiểu, trấn áp, kiềm chế, kiểm soát"
       },
       {
         "example": "押さえる",
         "reading": "おさえる",
-        "meaning": "to pin down, to hold down, to press down, to hold in place, to hold steady, to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part), to get a hold of, to obtain, to seize, to catch, to arrest, to grasp (a point), to comprehend, to quell, to subdue, to suppress, to repress, to hold back, to check, to curb, to contain"
+        "meaning": "to pin down, to hold down, to press down, to hold in place, to hold steady, to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part), to get a hold of, to obtain, to seize, to catch, to arrest, to grasp (a point), to comprehend, to quell, to subdue, to suppress, to repress, to hold back, to check, to curb, to contain |(vi) giữ chặt, đè xuống, ấn xuống, giữ cố định, che (một phần cơ thể), nắm bắt (ý chính), hiểu, trấn áp, kiềm chế, kiểm soát"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "厂",

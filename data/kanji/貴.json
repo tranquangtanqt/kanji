@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "tatto, touto, tattoi, toutoi",
-    "meaning": "noble, your honorable, valuable, respect",
+    "meaning": "noble, your honorable, valuable, respect |(vi) cao quý, kính trọng (quý ngài), quý giá, tôn kính",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "貴族（きぞく）",
         "meaning": {
-          "english": "noble, aristocrat"
+          "english": "noble, aristocrat |(vi) quý tộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-touto(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "貴社（きしゃ）",
         "meaning": {
-          "english": "your company [respectful]"
+          "english": "your company [respectful] |(vi) quý công ty"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-touto(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "貴金属（ききんぞく）",
         "meaning": {
-          "english": "precious metal"
+          "english": "precious metal |(vi) kim loại quý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-touto(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "貴婦人（きふじん）",
         "meaning": {
-          "english": "noblewoman"
+          "english": "noblewoman |(vi) quý bà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-touto(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "貴重品（きちょうひん）",
         "meaning": {
-          "english": "valuables, treasures"
+          "english": "valuables, treasures |(vi) vật quý giá, đồ trân quý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-touto(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "貴重な（きちょうな）",
         "meaning": {
-          "english": "precious, valuable"
+          "english": "precious, valuable |(vi) quý giá, đáng trân trọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-touto(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "高貴な（こうきな）",
         "meaning": {
-          "english": "high class [adj.]"
+          "english": "high class [adj.] |(vi) cao quý, thượng lưu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-touto(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "貴い（たっとい/とうとい）",
         "meaning": {
-          "english": "precious, exalted, sacred [adj.]"
+          "english": "precious, exalted, sacred [adj.] |(vi) quý giá, cao quý, thiêng liêng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-touto(i)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "貴ぶ（たっとぶ/とうとぶ）",
         "meaning": {
-          "english": "value, prize, esteem [v.t.]"
+          "english": "value, prize, esteem [v.t.] |(vi) coi trọng, quý trọng, tôn kính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-touto(i)_06_i.opus",
@@ -216,7 +216,7 @@
     "kanji": {
       "character": "貴",
       "meaning": {
-        "english": "noble, your honorable, valuable, respect"
+        "english": "noble, your honorable, valuable, respect |(vi) cao quý, kính trọng (quý ngài), quý giá, tôn kính"
       },
       "strokes": {
         "count": 12,
@@ -278,7 +278,7 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (vỏ sò)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -299,7 +299,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "970",
     "strokeCount": 12,
-    "meaning": "precious, value, prize, esteem, honor",
+    "meaning": "precious, value, prize, esteem, honor |(vi) quý giá, giá trị, coi trọng, tôn kính, danh dự |(hv) Quý",
     "kunyomi": [
       "たっと.い",
       "とうと.い",
@@ -313,54 +313,54 @@
       {
         "example": "貴",
         "reading": "キ",
-        "meaning": "your, indicates high rank or status, indicates love and respect (usu. for an older person)"
+        "meaning": "your, indicates high rank or status, indicates love and respect (usu. for an older person) |(vi) của quý ngài, chỉ địa vị cao, thể hiện lòng yêu mến và kính trọng (thường với người lớn tuổi)"
       },
       {
         "example": "貴金属",
         "reading": "キキンゾク",
-        "meaning": "precious metal"
+        "meaning": "precious metal |(vi) kim loại quý"
       },
       {
         "example": "騰貴",
         "reading": "トウキ",
-        "meaning": "rise (in price or value), appreciation, advance"
+        "meaning": "rise (in price or value), appreciation, advance |(vi) tăng giá, tăng giá trị"
       },
       {
         "example": "富貴",
         "reading": "フウキ",
-        "meaning": "riches and honours (honors), wealth and rank"
+        "meaning": "riches and honours (honors), wealth and rank |(vi) giàu sang phú quý, tiền tài và địa vị"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "尊い",
         "reading": "とうとい",
-        "meaning": "precious, valuable, priceless, noble, exalted, sacred"
+        "meaning": "precious, valuable, priceless, noble, exalted, sacred |(vi) quý giá, vô giá, cao quý, thiêng liêng"
       },
       {
         "example": "貴い家柄",
         "reading": "たっといいえがら",
-        "meaning": "noble birth"
+        "meaning": "noble birth |(vi) dòng dõi cao quý"
       },
       {
         "example": "尊い",
         "reading": "とうとい",
-        "meaning": "precious, valuable, priceless, noble, exalted, sacred"
+        "meaning": "precious, valuable, priceless, noble, exalted, sacred |(vi) quý giá, vô giá, cao quý, thiêng liêng"
       },
       {
         "example": "尊ぶ",
         "reading": "とうとぶ",
-        "meaning": "to value, to prize, to esteem, to respect, to honour, to honor, to revere, to look up to"
+        "meaning": "to value, to prize, to esteem, to respect, to honour, to honor, to revere, to look up to |(vi) coi trọng, quý trọng, tôn kính, kính nể, ngưỡng mộ"
       },
       {
         "example": "尊ぶ",
         "reading": "とうとぶ",
-        "meaning": "to value, to prize, to esteem, to respect, to honour, to honor, to revere, to look up to"
+        "meaning": "to value, to prize, to esteem, to respect, to honour, to honor, to revere, to look up to |(vi) coi trọng, quý trọng, tôn kính, kính nể, ngưỡng mộ"
       }
     ],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò)"
     },
     "parts": [
       "ハ",

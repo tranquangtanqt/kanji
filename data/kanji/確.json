@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "tashika, tashikameru, tashi",
-    "meaning": "certain, verify",
+    "meaning": "certain, verify |(vi) chắc chắn, xác nhận",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "確率（かくりつ）",
         "meaning": {
-          "english": "probability"
+          "english": "probability |(vi) xác suất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tashi(kameru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "正確な（せいかくな）",
         "meaning": {
-          "english": "accurate, exact"
+          "english": "accurate, exact |(vi) chính xác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tashi(kameru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "明確な（めいかくな）",
         "meaning": {
-          "english": "clear"
+          "english": "clear |(vi) rõ ràng, minh xác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tashi(kameru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "確実な（かくじつな）",
         "meaning": {
-          "english": "certain"
+          "english": "certain |(vi) chắc chắn, xác thực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tashi(kameru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "確認する（かくにんする）",
         "meaning": {
-          "english": "confirm"
+          "english": "confirm |(vi) xác nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tashi(kameru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "確保する（かくほする）",
         "meaning": {
-          "english": "guarantee, ensure"
+          "english": "guarantee, ensure |(vi) đảm bảo, giữ chắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tashi(kameru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "確定する（かくていする）",
         "meaning": {
-          "english": "be settled"
+          "english": "be settled |(vi) được quyết định, được xác định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tashi(kameru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "確信する（かくしんする）",
         "meaning": {
-          "english": "believe firmly, be sure"
+          "english": "believe firmly, be sure |(vi) tin chắc, xác tín"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tashi(kameru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "確かめる（たしかめる）",
         "meaning": {
-          "english": "check, ascertain"
+          "english": "check, ascertain |(vi) kiểm tra, xác nhận lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tashi(kameru)_06_i.opus",
@@ -246,7 +246,7 @@
     "kanji": {
       "character": "確",
       "meaning": {
-        "english": "certain, verify"
+        "english": "certain, verify |(vi) chắc chắn, xác nhận"
       },
       "strokes": {
         "count": 15,
@@ -314,7 +314,7 @@
         "romaji": "ishihen"
       },
       "meaning": {
-        "english": "stone"
+        "english": "stone |(vi) Thạch (đá)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ishihen0.svg",
@@ -335,7 +335,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "252",
     "strokeCount": 15,
-    "meaning": "assurance, firm, tight, hard, solid, confirm, clear, evident",
+    "meaning": "assurance, firm, tight, hard, solid, confirm, clear, evident |(vi) sự đảm bảo, chắc chắn, chặt chẽ, cứng, chắc chắn, xác nhận, rõ ràng, hiển nhiên |(hv) Xác",
     "kunyomi": [
       "たし.か",
       "たし.かめる"
@@ -348,44 +348,44 @@
       {
         "example": "確",
         "reading": "カク",
-        "meaning": "certain, definite"
+        "meaning": "certain, definite |(vi) chắc chắn, dứt khoát"
       },
       {
         "example": "確執",
         "reading": "カクシツ",
-        "meaning": "discord, antagonism"
+        "meaning": "discord, antagonism |(vi) bất hòa, đối kháng"
       },
       {
         "example": "当確",
         "reading": "トウカク",
-        "meaning": "projected to win, sure to be elected, home free"
+        "meaning": "projected to win, sure to be elected, home free |(vi) dự đoán trúng cử, chắc chắn đắc cử"
       },
       {
         "example": "精確",
         "reading": "セイカク",
-        "meaning": "detailed and accurate, exhaustive and precise, meticulous, finely detailed"
+        "meaning": "detailed and accurate, exhaustive and precise, meticulous, finely detailed |(vi) chi tiết và chính xác, tỉ mỉ, cặn kẽ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "確か",
         "reading": "たしか",
-        "meaning": "sure, certain, positive, definite, reliable, trustworthy, safe, sound, firm, accurate, correct, exact, If I'm not mistaken, If I remember correctly, If I remember rightly"
+        "meaning": "sure, certain, positive, definite, reliable, trustworthy, safe, sound, firm, accurate, correct, exact, If I'm not mistaken, If I remember correctly, If I remember rightly |(vi) chắc chắn, đáng tin cậy, an toàn, vững chắc, chính xác, đúng đắn, nếu tôi nhớ không nhầm"
       },
       {
         "example": "確かめる",
         "reading": "たしかめる",
-        "meaning": "to make sure, to check, to ascertain, to confirm, to verify"
+        "meaning": "to make sure, to check, to ascertain, to confirm, to verify |(vi) chắc chắn, kiểm tra, xác nhận, xác minh"
       },
       {
         "example": "確かめる",
         "reading": "たしかめる",
-        "meaning": "to make sure, to check, to ascertain, to confirm, to verify"
+        "meaning": "to make sure, to check, to ascertain, to confirm, to verify |(vi) chắc chắn, kiểm tra, xác nhận, xác minh"
       }
     ],
     "radical": {
       "symbol": "石",
-      "meaning": "stone"
+      "meaning": "stone |(vi) Thạch (đá)"
     },
     "parts": [
       "口",

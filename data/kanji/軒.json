@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "noki",
-    "meaning": "eaves, counter for houses",
+    "meaning": "eaves, counter for houses |(vi) mái hiên, lượng từ đếm nhà",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "軒数（けんすう）",
         "meaning": {
-          "english": "number of houses"
+          "english": "number of houses |(vi) số lượng nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/noki_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "一軒（いっけん）",
         "meaning": {
-          "english": "one house"
+          "english": "one house |(vi) một căn nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/noki_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "何軒（なんげん）",
         "meaning": {
-          "english": "how many houses"
+          "english": "how many houses |(vi) bao nhiêu căn nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/noki_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "一軒家（いっけんや）",
         "meaning": {
-          "english": "an isolated house"
+          "english": "an isolated house |(vi) căn nhà riêng biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/noki_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "軒（のき）",
         "meaning": {
-          "english": "eaves"
+          "english": "eaves |(vi) mái hiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/noki_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "軒下（のきした）",
         "meaning": {
-          "english": "place under the eaves"
+          "english": "place under the eaves |(vi) chỗ dưới mái hiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/noki_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "軒先（のきさき）",
         "meaning": {
-          "english": "edge of the eaves, frontage"
+          "english": "edge of the eaves, frontage |(vi) mép mái hiên, mặt tiền nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/noki_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "軒並み（のきなみ）",
         "meaning": {
-          "english": "row of houses, every door"
+          "english": "row of houses, every door |(vi) dãy nhà, từng nhà một"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/noki_06_h.opus",
@@ -188,7 +188,7 @@
     "kanji": {
       "character": "軒",
       "meaning": {
-        "english": "eaves, counter for houses"
+        "english": "eaves, counter for houses |(vi) mái hiên, lượng từ đếm nhà"
       },
       "strokes": {
         "count": 10,
@@ -246,7 +246,7 @@
         "romaji": "kurumahen"
       },
       "meaning": {
-        "english": "vehicle, wheel, car"
+        "english": "vehicle, wheel, car |(vi) Xa (xe cộ, bánh xe)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kurumahen0.svg",
@@ -267,7 +267,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1416",
     "strokeCount": 10,
-    "meaning": "flats, counter for houses, eaves",
+    "meaning": "flats, counter for houses, eaves |(vi) căn hộ, lượng từ đếm nhà, mái hiên |(hv) Hiên",
     "kunyomi": [
       "のき"
     ],
@@ -278,39 +278,39 @@
       {
         "example": "軒",
         "reading": "ケン",
-        "meaning": "counter for buildings (esp. houses), suffix for a pen name, stage name, etc."
+        "meaning": "counter for buildings (esp. houses), suffix for a pen name, stage name, etc. |(vi) lượng từ đếm nhà (đặc biệt là nhà ở), hậu tố cho bút danh, nghệ danh"
       },
       {
         "example": "軒昂",
         "reading": "ケンコウ",
-        "meaning": "high-spirited, in high spirits"
+        "meaning": "high-spirited, in high spirits |(vi) hăng hái, phấn khởi"
       },
       {
         "example": "一軒一軒",
         "reading": "イッケンイッケン",
-        "meaning": "each house, every house, house to house, door to door"
+        "meaning": "each house, every house, house to house, door to door |(vi) từng nhà một, nhà này qua nhà khác, từng cửa một"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "軒",
         "reading": "のき",
-        "meaning": "eaves, narrow aisle surrounding the core of a temple building"
+        "meaning": "eaves, narrow aisle surrounding the core of a temple building |(vi) mái hiên, hành lang hẹp bao quanh gian chính của ngôi chùa"
       },
       {
         "example": "軒並み",
         "reading": "のきなみ",
-        "meaning": "row of houses, every house, each house, every door, all, totally, altogether, across the board"
+        "meaning": "row of houses, every house, each house, every door, all, totally, altogether, across the board |(vi) dãy nhà, mọi nhà, từng nhà, mọi cửa, tất cả, hoàn toàn, đồng loạt"
       },
       {
         "example": "傍軒",
         "reading": "そばのき",
-        "meaning": "barge course"
+        "meaning": "barge course |(vi) gờ mái hiên bên cạnh"
       }
     ],
     "radical": {
       "symbol": "車",
-      "meaning": "cart, car"
+      "meaning": "cart, car |(vi) Xa (xe cộ, bánh xe)"
     },
     "parts": [
       "干",

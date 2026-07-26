@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "cereal, grain",
+    "meaning": "cereal, grain |(vi) ngũ cốc, lương thực",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "穀物（こくもつ）",
         "meaning": {
-          "english": "grain, cereal"
+          "english": "grain, cereal |(vi) ngũ cốc, lương thực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku(motsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "穀類（こくるい）",
         "meaning": {
-          "english": "grains"
+          "english": "grains |(vi) các loại ngũ cốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku(motsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "穀倉（こくそう）",
         "meaning": {
-          "english": "granary"
+          "english": "granary |(vi) kho thóc, vựa lúa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku(motsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "五穀（ごこく）",
         "meaning": {
-          "english": "the 5 grains"
+          "english": "the 5 grains |(vi) ngũ cốc (5 loại)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku(motsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "脱穀機（だっこくき）",
         "meaning": {
-          "english": "grain threshing machine"
+          "english": "grain threshing machine |(vi) máy tuốt lúa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku(motsu)_06_e.opus",
@@ -150,7 +150,7 @@
     "kanji": {
       "character": "穀",
       "meaning": {
-        "english": "cereal, grain"
+        "english": "cereal, grain |(vi) ngũ cốc, lương thực"
       },
       "strokes": {
         "count": 14,
@@ -216,7 +216,7 @@
         "romaji": "nogihen"
       },
       "meaning": {
-        "english": "grain"
+        "english": "grain |(vi) Hòa (lúa, cây lúa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nogihen0.svg",
@@ -237,7 +237,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1744",
     "strokeCount": 14,
-    "meaning": "cereals, grain",
+    "meaning": "cereals, grain |(vi) ngũ cốc, lương thực |(hv) Cốc",
     "kunyomi": [],
     "onyomi": [
       "コク"
@@ -246,28 +246,28 @@
       {
         "example": "穀物",
         "reading": "コクモツ",
-        "meaning": "grain, cereal, corn"
+        "meaning": "grain, cereal, corn |(vi) ngũ cốc, lương thực, ngô"
       },
       {
         "example": "穀倉",
         "reading": "コクソウ",
-        "meaning": "granary"
+        "meaning": "granary |(vi) kho thóc, vựa lúa"
       },
       {
         "example": "米穀",
         "reading": "ベイコク",
-        "meaning": "rice"
+        "meaning": "rice |(vi) gạo"
       },
       {
         "example": "雑穀",
         "reading": "ザッコク",
-        "meaning": "assorted grains, cereals, millet"
+        "meaning": "assorted grains, cereals, millet |(vi) ngũ cốc tạp, kê, các loại hạt hỗn hợp"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "禾",
-      "meaning": "grain"
+      "meaning": "grain |(vi) Hòa (lúa, cây lúa)"
     },
     "parts": [
       "冖",

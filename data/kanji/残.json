@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "nokoru, nokosu, nokori, noko",
-    "meaning": "remain, ruthless",
+    "meaning": "remain, ruthless |(vi) còn lại, tàn nhẫn",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "残念な（ざんねんな）",
         "meaning": {
-          "english": "unfortunate, disappointing"
+          "english": "unfortunate, disappointing |(vi) đáng tiếc, thất vọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zan-noko(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "残酷な（ざんこくな）",
         "meaning": {
-          "english": "cruel"
+          "english": "cruel |(vi) tàn nhẫn, tàn khốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zan-noko(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "残業（ざんぎょう）",
         "meaning": {
-          "english": "overtime (work)"
+          "english": "overtime (work) |(vi) làm thêm giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zan-noko(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "残高（ざんだか）",
         "meaning": {
-          "english": "(bank) balance"
+          "english": "(bank) balance |(vi) số dư (ngân hàng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zan-noko(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "残雪（ざんせつ）",
         "meaning": {
-          "english": "lingering snow"
+          "english": "lingering snow |(vi) tuyết còn sót lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zan-noko(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "残る（のこる）",
         "meaning": {
-          "english": "remain, be left [v.i.]"
+          "english": "remain, be left [v.i.] |(vi) còn lại, còn sót (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zan-noko(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "残す（のこす）",
         "meaning": {
-          "english": "leave (behind), reserve [v.t.]"
+          "english": "leave (behind), reserve [v.t.] |(vi) để lại (phía sau), giữ lại (ngoại động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zan-noko(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "*名残（なごり）",
         "meaning": {
-          "english": "remains, traces"
+          "english": "remains, traces |(vi) tàn dư, dấu vết còn lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zan-noko(ru)_06_h.opus",
@@ -262,7 +262,7 @@
     "kanji": {
       "character": "残",
       "meaning": {
-        "english": "remain, ruthless"
+        "english": "remain, ruthless |(vi) còn lại, tàn nhẫn"
       },
       "strokes": {
         "count": 10,
@@ -320,7 +320,7 @@
         "romaji": "gatsuhen"
       },
       "meaning": {
-        "english": "death & dying, to decompose"
+        "english": "death & dying, to decompose |(vi) Ngạt (xương tàn, sự chết)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gatsuhen0.svg",
@@ -341,7 +341,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "380",
     "strokeCount": 10,
-    "meaning": "remainder, leftover, balance",
+    "meaning": "remainder, leftover, balance |(vi) phần còn lại, đồ thừa, số dư |(hv) Tàn",
     "kunyomi": [
       "のこ.る",
       "のこ.す",
@@ -356,49 +356,49 @@
       {
         "example": "残",
         "reading": "ザン",
-        "meaning": "remainder, the rest, what is left"
+        "meaning": "remainder, the rest, what is left |(vi) phần còn lại, phần dư, cái còn sót lại"
       },
       {
         "example": "残虐",
         "reading": "ザンギャク",
-        "meaning": "cruel, brutal, savage, barbarous"
+        "meaning": "cruel, brutal, savage, barbarous |(vi) tàn nhẫn, tàn bạo, hung tợn, dã man"
       },
       {
         "example": "敗残",
         "reading": "ハイザン",
-        "meaning": "survival after defeat, decline (of a person, business, etc.), ruin"
+        "meaning": "survival after defeat, decline (of a person, business, etc.), ruin |(vi) sự sống sót sau thất bại, sự suy tàn (của người, doanh nghiệp,...), sự tàn lụi"
       },
       {
         "example": "遺残",
         "reading": "イザン",
-        "meaning": "persistence, vestigial remnant"
+        "meaning": "persistence, vestigial remnant |(vi) sự tồn tại dai dẳng, tàn tích còn sót lại"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "残る",
         "reading": "のこる",
-        "meaning": "to remain, to be left"
+        "meaning": "to remain, to be left |(vi) còn lại, bị bỏ lại"
       },
       {
         "example": "残す",
         "reading": "のこす",
-        "meaning": "to leave (behind), to leave (undone), to not finish, to save, to set aside, to reserve, to leave (to someone, esp. after one's death), to bequeath, to stay (in the ring), to hold on"
+        "meaning": "to leave (behind), to leave (undone), to not finish, to save, to set aside, to reserve, to leave (to someone, esp. after one's death), to bequeath, to stay (in the ring), to hold on |(vi) để lại (phía sau), bỏ dở (chưa xong), không hoàn thành, tiết kiệm, để dành, dự trữ, để lại (cho ai đó, nhất là sau khi qua đời), di lại (di sản), trụ lại (trên sàn đấu), bám trụ"
       },
       {
         "example": "残り",
         "reading": "のこり",
-        "meaning": "remainder, remnant, the rest, what is left, balance, leftovers"
+        "meaning": "remainder, remnant, the rest, what is left, balance, leftovers |(vi) phần còn lại, tàn dư, phần dư, cái còn sót lại, số dư, đồ thừa"
       },
       {
         "example": "残り惜しい",
         "reading": "のこりおしい",
-        "meaning": "regrettable, reluctant"
+        "meaning": "regrettable, reluctant |(vi) đáng tiếc, lưu luyến, tiếc nuối"
       },
       {
         "example": "売れ残り",
         "reading": "うれのこり",
-        "meaning": "unsold items, leftovers, remainders, remnants, spinster, old maid"
+        "meaning": "unsold items, leftovers, remainders, remnants, spinster, old maid |(vi) hàng ế, đồ thừa, hàng tồn kho, gái ế, gái già chưa chồng"
       }
     ],
     "radical": {
@@ -406,7 +406,7 @@
       "forms": [
         "歺"
       ],
-      "meaning": "death, decay"
+      "meaning": "death, decay |(vi) Ngạt (xương tàn, sự chết)"
     },
     "parts": [
       "二",

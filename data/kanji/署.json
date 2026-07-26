@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "public-service station",
+    "meaning": "public-service station |(vi) sở, trạm công vụ",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "署長（しょちょう）",
         "meaning": {
-          "english": "chief, head"
+          "english": "chief, head |(vi) trưởng, người đứng đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shoubou)sho_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "署員（しょいん）",
         "meaning": {
-          "english": "staff member, station employee"
+          "english": "staff member, station employee |(vi) nhân viên, cán bộ của sở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shoubou)sho_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "部署（ぶしょ）",
         "meaning": {
-          "english": "one's post, one's station"
+          "english": "one's post, one's station |(vi) vị trí công tác, bộ phận phụ trách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shoubou)sho_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "警察署（けいさつしょ）",
         "meaning": {
-          "english": "police station"
+          "english": "police station |(vi) đồn cảnh sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shoubou)sho_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "消防署（しょうぼうしょ）",
         "meaning": {
-          "english": "fire station"
+          "english": "fire station |(vi) trạm cứu hỏa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shoubou)sho_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "税務署（ぜいむしょ）",
         "meaning": {
-          "english": "tax office"
+          "english": "tax office |(vi) cục thuế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shoubou)sho_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "署名する（しょめいする）",
         "meaning": {
-          "english": "sign (a document)"
+          "english": "sign (a document) |(vi) ký tên (vào văn bản)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shoubou)sho_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "代署する（だいしょする）",
         "meaning": {
-          "english": "sign for another"
+          "english": "sign for another |(vi) ký thay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shoubou)sho_06_h.opus",
@@ -195,7 +195,7 @@
     "kanji": {
       "character": "署",
       "meaning": {
-        "english": "public-service station"
+        "english": "public-service station |(vi) sở, trạm công vụ"
       },
       "strokes": {
         "count": 13,
@@ -259,7 +259,7 @@
         "romaji": "yokome"
       },
       "meaning": {
-        "english": "eye"
+        "english": "eye |(vi) Mục (mắt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yokome0.svg",
@@ -280,7 +280,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "725",
     "strokeCount": 13,
-    "meaning": "signature, govt office, police station",
+    "meaning": "signature, govt office, police station |(vi) chữ ký, cơ quan nhà nước, đồn cảnh sát |(hv) Thự",
     "kunyomi": [],
     "onyomi": [
       "ショ"
@@ -289,22 +289,22 @@
       {
         "example": "署",
         "reading": "ショ",
-        "meaning": "station (esp. a police station), office (e.g. tax office)"
+        "meaning": "station (esp. a police station), office (e.g. tax office) |(vi) trạm (nhất là đồn cảnh sát), cục (như cục thuế)"
       },
       {
         "example": "署員",
         "reading": "ショイン",
-        "meaning": "staff member, station employee, official"
+        "meaning": "staff member, station employee, official |(vi) nhân viên, cán bộ của sở, viên chức"
       },
       {
         "example": "支署",
         "reading": "シショ",
-        "meaning": "substation"
+        "meaning": "substation |(vi) chi nhánh, trạm phụ"
       },
       {
         "example": "副署",
         "reading": "フクショ",
-        "meaning": "countersignature"
+        "meaning": "countersignature |(vi) đồng ký tên, ký phụ"
       }
     ],
     "kunyomiExamples": [],
@@ -316,7 +316,7 @@
         "罓",
         "⺳"
       ],
-      "meaning": "net"
+      "meaning": "net |(vi) Võng (lưới)"
     },
     "parts": [
       "日",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 5,
     "kunyomi": "akina, akinau, akinai",
-    "meaning": "trade, deal",
+    "meaning": "trade, deal |(vi) buôn bán, giao dịch",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "商業（しょうぎょう）",
         "meaning": {
-          "english": "commerce"
+          "english": "commerce |(vi) thương nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "商人（しょうにん）",
         "meaning": {
-          "english": "merchant"
+          "english": "merchant |(vi) thương nhân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "商売（しょうばい）",
         "meaning": {
-          "english": "business"
+          "english": "business |(vi) buôn bán, kinh doanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "商品（しょうひん）",
         "meaning": {
-          "english": "merchandise"
+          "english": "merchandise |(vi) hàng hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "商談（しょうだん）",
         "meaning": {
-          "english": "business negotiation"
+          "english": "business negotiation |(vi) đàm phán kinh doanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "商店（しょうてん）",
         "meaning": {
-          "english": "shop [n.]"
+          "english": "shop [n.] |(vi) cửa hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "貿易商（ぼうえきしょう）",
         "meaning": {
-          "english": "trader"
+          "english": "trader |(vi) thương nhân buôn bán, nhà buôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "通商（つうしょう）",
         "meaning": {
-          "english": "trade [n.]"
+          "english": "trade [n.] |(vi) thông thương, mậu dịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "商う（あきなう）",
         "meaning": {
-          "english": "deal in"
+          "english": "deal in |(vi) buôn bán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_i.opus",
@@ -239,7 +239,7 @@
     "kanji": {
       "character": "商",
       "meaning": {
-        "english": "trade, deal"
+        "english": "trade, deal |(vi) buôn bán, giao dịch"
       },
       "strokes": {
         "count": 11,
@@ -299,7 +299,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng, lỗ mở)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -320,7 +320,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "413",
     "strokeCount": 11,
-    "meaning": "make a deal, selling, dealing in, merchant",
+    "meaning": "make a deal, selling, dealing in, merchant |(vi) làm ăn buôn bán, bán, kinh doanh, thương nhân |(hv) Thương",
     "kunyomi": [
       "あきな.う"
     ],
@@ -331,34 +331,34 @@
       {
         "example": "商",
         "reading": "ショウ",
-        "meaning": "quotient, business, merchant, dealer, second degree (of the Japanese and Chinese pentatonic scale), Shang dynasty (of China; approx. 1600-1046 BCE), Yin dynasty"
+        "meaning": "quotient, business, merchant, dealer, second degree (of the Japanese and Chinese pentatonic scale), Shang dynasty (of China; approx. 1600-1046 BCE), Yin dynasty |(vi) thương số, kinh doanh, thương nhân, người buôn bán, bậc thương (trong ngũ âm giai Nhật-Trung), nhà Thương (Trung Quốc, khoảng 1600-1046 TCN), nhà Ân"
       },
       {
         "example": "商会",
         "reading": "ショウカイ",
-        "meaning": "firm, company"
+        "meaning": "firm, company |(vi) công ty, hãng buôn"
       },
       {
         "example": "年商",
         "reading": "ネンショウ",
-        "meaning": "yearly (annual) turnover"
+        "meaning": "yearly (annual) turnover |(vi) doanh thu hàng năm"
       },
       {
         "example": "画商",
         "reading": "ガショウ",
-        "meaning": "picture dealer, commercial art gallery"
+        "meaning": "picture dealer, commercial art gallery |(vi) người buôn tranh, phòng tranh thương mại"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "商う",
         "reading": "あきなう",
-        "meaning": "to trade in (commercial goods), to deal in, to sell"
+        "meaning": "to trade in (commercial goods), to deal in, to sell |(vi) buôn bán (hàng hóa), kinh doanh, bán"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "亠",

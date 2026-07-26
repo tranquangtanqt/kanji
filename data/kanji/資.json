@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "resources, capital, funds",
+    "meaning": "resources, capital, funds |(vi) tài nguyên, vốn, tiền vốn",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "資金（しきん）",
         "meaning": {
-          "english": "funds, capital"
+          "english": "funds, capital |(vi) vốn, tiền vốn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(honka)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "資産（しさん）",
         "meaning": {
-          "english": "property, fortune, assets"
+          "english": "property, fortune, assets |(vi) tài sản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(honka)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "資料（しりょう）",
         "meaning": {
-          "english": "materials, data"
+          "english": "materials, data |(vi) tài liệu, dữ liệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(honka)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "資源（しげん）",
         "meaning": {
-          "english": "resources"
+          "english": "resources |(vi) tài nguyên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(honka)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "資材（しざい）",
         "meaning": {
-          "english": "material"
+          "english": "material |(vi) vật tư, nguyên liệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(honka)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "資格（しかく）",
         "meaning": {
-          "english": "qualifications, requirements"
+          "english": "qualifications, requirements |(vi) tư cách, trình độ chuyên môn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(honka)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "資本（しほん）",
         "meaning": {
-          "english": "funds, capital"
+          "english": "funds, capital |(vi) tư bản, vốn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(honka)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "資本主義（しほんしゅぎ）",
         "meaning": {
-          "english": "capitalism"
+          "english": "capitalism |(vi) chủ nghĩa tư bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(honka)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "外資（がいし）",
         "meaning": {
-          "english": "foreign capital"
+          "english": "foreign capital |(vi) vốn nước ngoài, ngoại tư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(honka)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "投資する（とうしする）",
         "meaning": {
-          "english": "invest [v.i.]"
+          "english": "invest [v.i.] |(vi) đầu tư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(honka)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "融資する（ゆうしする）",
         "meaning": {
-          "english": "finance, loan [v.t.]"
+          "english": "finance, loan [v.t.] |(vi) cho vay vốn, cấp vốn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(honka)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "出資する（しゅっしする）",
         "meaning": {
-          "english": "invest, contribute, finance [v.i.]"
+          "english": "invest, contribute, finance [v.i.] |(vi) góp vốn, xuất vốn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(honka)_06_l.opus",
@@ -258,7 +258,7 @@
     "kanji": {
       "character": "資",
       "meaning": {
-        "english": "resources, capital, funds"
+        "english": "resources, capital, funds |(vi) tài nguyên, vốn, tiền vốn"
       },
       "strokes": {
         "count": 13,
@@ -322,7 +322,7 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (vỏ sò, tiền của)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -343,7 +343,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "179",
     "strokeCount": 13,
-    "meaning": "assets, resources, capital, funds, data, be conducive to, contribute to",
+    "meaning": "assets, resources, capital, funds, data, be conducive to, contribute to |(vi) tài sản, tài nguyên, vốn, dữ liệu, góp phần, có ích cho |(hv) Tư",
     "kunyomi": [],
     "onyomi": [
       "シ"
@@ -352,28 +352,28 @@
       {
         "example": "資",
         "reading": "シ",
-        "meaning": "funds, capital, material, basis, character, qualities, disposition"
+        "meaning": "funds, capital, material, basis, character, qualities, disposition |(vi) vốn, tư liệu, cơ sở, tính cách, tư chất"
       },
       {
         "example": "資格",
         "reading": "シカク",
-        "meaning": "qualifications, requirements, capabilities"
+        "meaning": "qualifications, requirements, capabilities |(vi) tư cách, điều kiện, năng lực"
       },
       {
         "example": "増資",
         "reading": "ゾウシ",
-        "meaning": "increase of capital, issue of new shares"
+        "meaning": "increase of capital, issue of new shares |(vi) tăng vốn, phát hành cổ phần mới"
       },
       {
         "example": "外資",
         "reading": "ガイシ",
-        "meaning": "foreign capital (e.g. in a company), foreign investment"
+        "meaning": "foreign capital (e.g. in a company), foreign investment |(vi) vốn nước ngoài, đầu tư nước ngoài"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò, tiền của)"
     },
     "parts": [
       "ハ",

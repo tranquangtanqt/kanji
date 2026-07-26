@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "kata",
-    "meaning": "shoulder",
+    "meaning": "shoulder |(vi) vai",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "肩甲骨（けんこうこつ）",
         "meaning": {
-          "english": "shoulder-blade"
+          "english": "shoulder-blade |(vi) xương bả vai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-kata_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "強肩（きょうけん）",
         "meaning": {
-          "english": "strong throwing arm"
+          "english": "strong throwing arm |(vi) cánh tay ném khỏe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-kata_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "肩（かた）",
         "meaning": {
-          "english": "shoulder"
+          "english": "shoulder |(vi) vai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-kata_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "肩書き（かたがき）",
         "meaning": {
-          "english": "title"
+          "english": "title |(vi) chức danh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-kata_06_d.opus",
@@ -140,7 +140,7 @@
     "kanji": {
       "character": "肩",
       "meaning": {
-        "english": "shoulder"
+        "english": "shoulder |(vi) vai"
       },
       "strokes": {
         "count": 8,
@@ -194,7 +194,7 @@
         "romaji": "nikuzuki"
       },
       "meaning": {
-        "english": "meat, flesh"
+        "english": "meat, flesh |(vi) Nhục (thịt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nikuzuki0.svg",
@@ -215,7 +215,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1215",
     "strokeCount": 8,
-    "meaning": "shoulder",
+    "meaning": "shoulder |(vi) vai |(hv) Kiên",
     "kunyomi": [
       "かた"
     ],
@@ -226,44 +226,44 @@
       {
         "example": "肩甲",
         "reading": "ケンコウ",
-        "meaning": "scapular"
+        "meaning": "scapular |(vi) xương bả vai"
       },
       {
         "example": "肩高",
         "reading": "ケンコウ",
-        "meaning": "withers (height from ground to shoulder blades in animals)"
+        "meaning": "withers (height from ground to shoulder blades in animals) |(vi) chiều cao từ đất đến bả vai (ở động vật)"
       },
       {
         "example": "路肩",
         "reading": "ロカタ",
-        "meaning": "shoulder (of a road), berm"
+        "meaning": "shoulder (of a road), berm |(vi) lề đường, vai đường"
       },
       {
         "example": "強肩",
         "reading": "キョウケン",
-        "meaning": "strong throwing arm"
+        "meaning": "strong throwing arm |(vi) cánh tay ném khỏe"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "肩",
         "reading": "かた",
-        "meaning": "shoulder"
+        "meaning": "shoulder |(vi) vai"
       },
       {
         "example": "肩書き",
         "reading": "かたがき",
-        "meaning": "title (e.g. Doctor, Professor, Lord), job title, position (in a company), degree, status, rank"
+        "meaning": "title (e.g. Doctor, Professor, Lord), job title, position (in a company), degree, status, rank |(vi) chức danh (ví dụ Tiến sĩ, Giáo sư, Lãnh chúa), chức vụ, vị trí (trong công ty), cấp bậc, địa vị"
       },
       {
         "example": "路肩",
         "reading": "ろかた",
-        "meaning": "shoulder (of a road), berm"
+        "meaning": "shoulder (of a road), berm |(vi) lề đường, vai đường"
       },
       {
         "example": "相肩",
         "reading": "あいかた",
-        "meaning": "partner, someone who shares one's load"
+        "meaning": "partner, someone who shares one's load |(vi) đối tác, người cùng gánh vác"
       }
     ],
     "radical": {
@@ -271,7 +271,7 @@
       "forms": [
         "⺼"
       ],
-      "meaning": "meat"
+      "meaning": "meat |(vi) Nhục (thịt)"
     },
     "parts": [
       "一",

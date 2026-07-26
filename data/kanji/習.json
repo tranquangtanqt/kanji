@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "nara, narau, narai",
-    "meaning": "learn, custom",
+    "meaning": "learn, custom |(vi) học, thói quen",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "練習する（れんしゅうする）",
         "meaning": {
-          "english": "practice"
+          "english": "practice |(vi) luyện tập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-nara(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "予習する（よしゅうする）",
         "meaning": {
-          "english": "prepare for a lesson"
+          "english": "prepare for a lesson |(vi) chuẩn bị bài học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-nara(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "復習する（ふくしゅうする）",
         "meaning": {
-          "english": "review a lesson"
+          "english": "review a lesson |(vi) ôn lại bài học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-nara(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "学習する（がくしゅうする）",
         "meaning": {
-          "english": "learn"
+          "english": "learn |(vi) học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-nara(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "習慣（しゅうかん）",
         "meaning": {
-          "english": "custom, habit"
+          "english": "custom, habit |(vi) thói quen, tập quán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-nara(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "風習（ふうしゅう）",
         "meaning": {
-          "english": "custom"
+          "english": "custom |(vi) phong tục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-nara(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "習う（ならう）",
         "meaning": {
-          "english": "learn"
+          "english": "learn |(vi) học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-nara(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "見習い（みならい）",
         "meaning": {
-          "english": "apprentice"
+          "english": "apprentice |(vi) học việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-nara(u)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "習わし（ならわし）",
         "meaning": {
-          "english": "customary practice"
+          "english": "customary practice |(vi) tập quán, thói quen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-nara(u)_06_i.opus",
@@ -283,7 +283,7 @@
     "kanji": {
       "character": "習",
       "meaning": {
-        "english": "learn, custom"
+        "english": "learn, custom |(vi) học, thói quen"
       },
       "strokes": {
         "count": 11,
@@ -343,7 +343,7 @@
         "romaji": "hane"
       },
       "meaning": {
-        "english": "feather, wing"
+        "english": "feather, wing |(vi) Vũ (lông vũ, cánh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hane0.svg",
@@ -364,7 +364,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "706",
     "strokeCount": 11,
-    "meaning": "learn",
+    "meaning": "learn |(vi) học |(hv) Tập",
     "kunyomi": [
       "なら.う",
       "なら.い"
@@ -377,64 +377,64 @@
       {
         "example": "習性",
         "reading": "シュウセイ",
-        "meaning": "habit, behavior, behaviour, trait, nature"
+        "meaning": "habit, behavior, behaviour, trait, nature |(vi) thói quen, tập tính, đặc tính"
       },
       {
         "example": "習慣",
         "reading": "シュウカン",
-        "meaning": "habit, (social) custom, practice, convention"
+        "meaning": "habit, (social) custom, practice, convention |(vi) thói quen, tập quán xã hội, thông lệ"
       },
       {
         "example": "演習",
         "reading": "エンシュウ",
-        "meaning": "practice, exercise, drill, military exercise, manoeuvres, maneuvers, drill, seminar"
+        "meaning": "practice, exercise, drill, military exercise, manoeuvres, maneuvers, drill, seminar |(vi) luyện tập, bài tập, diễn tập, diễn tập quân sự, hội thảo chuyên đề"
       },
       {
         "example": "教習",
         "reading": "キョウシュウ",
-        "meaning": "training, instruction"
+        "meaning": "training, instruction |(vi) đào tạo, huấn luyện"
       },
       {
         "example": "近習",
         "reading": "キンジュ",
-        "meaning": "attendant"
+        "meaning": "attendant |(vi) tùy tùng, cận thần"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "習う",
         "reading": "ならう",
-        "meaning": "to take lessons in, to be taught, to learn (from a teacher), to study (under a teacher), to get training in"
+        "meaning": "to take lessons in, to be taught, to learn (from a teacher), to study (under a teacher), to get training in |(vi) học, được dạy, học (từ thầy), rèn luyện"
       },
       {
         "example": "習うより慣れろ",
         "reading": "ならうよりなれろ",
-        "meaning": "experience is the best teacher, custom makes all things easy, you learn best by doing, practice makes perfect, it is better to grow accustomed than to be taught"
+        "meaning": "experience is the best teacher, custom makes all things easy, you learn best by doing, practice makes perfect, it is better to grow accustomed than to be taught |(vi) học đi đôi với hành, quen tay hơn học lý thuyết"
       },
       {
         "example": "習い",
         "reading": "ならい",
-        "meaning": "as is habit, the way life normally is"
+        "meaning": "as is habit, the way life normally is |(vi) theo thói quen, lẽ thường của cuộc sống"
       },
       {
         "example": "習い事",
         "reading": "ならいごと",
-        "meaning": "accomplishment, lessons (in an art, skill, etc.), practice"
+        "meaning": "accomplishment, lessons (in an art, skill, etc.), practice |(vi) sự trau dồi, bài học (nghệ thuật, kỹ năng), luyện tập"
       },
       {
         "example": "見習い",
         "reading": "みならい",
-        "meaning": "apprenticeship, probation, learning by observation, apprentice, trainee, probationer"
+        "meaning": "apprenticeship, probation, learning by observation, apprentice, trainee, probationer |(vi) học việc, tập sự, học qua quan sát, người học việc"
       },
       {
         "example": "行儀見習い",
         "reading": "ぎょうぎみならい",
-        "meaning": "learning good manners through apprenticeship (to an upper-class family)"
+        "meaning": "learning good manners through apprenticeship (to an upper-class family) |(vi) học phép tắc qua thời gian ở nhà quý tộc"
       }
     ],
     "radical": {
       "symbol": "羽",
-      "meaning": "feather"
+      "meaning": "feather |(vi) Vũ (lông vũ, cánh)"
     },
     "parts": [
       "冫",

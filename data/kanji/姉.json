@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ane",
-    "meaning": "older sister",
+    "meaning": "older sister |(vi) chị gái",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "姉妹（しまい）",
         "meaning": {
-          "english": "sisters"
+          "english": "sisters |(vi) chị em gái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ane_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "姉（あね）",
         "meaning": {
-          "english": "one's own older sister"
+          "english": "one's own older sister |(vi) chị gái của mình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ane_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "*お姉さん（おねえさん）",
         "meaning": {
-          "english": "older sister [hon.]"
+          "english": "older sister [hon.] |(vi) chị (cách gọi kính trọng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ane_06_c.opus",
@@ -181,7 +181,7 @@
     "kanji": {
       "character": "姉",
       "meaning": {
-        "english": "older sister"
+        "english": "older sister |(vi) chị gái"
       },
       "strokes": {
         "count": 8,
@@ -235,7 +235,7 @@
         "romaji": "onnahen"
       },
       "meaning": {
-        "english": "woman"
+        "english": "woman |(vi) Nữ (phụ nữ, giống cái)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/onnahen0.svg",
@@ -256,7 +256,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1473",
     "strokeCount": 8,
-    "meaning": "elder sister",
+    "meaning": "elder sister |(vi) chị gái |(hv) Tỷ",
     "kunyomi": [
       "あね",
       "はは"
@@ -268,44 +268,44 @@
       {
         "example": "姉",
         "reading": "シ",
-        "meaning": "honorific suffix used after the name of a woman of equal or higher status"
+        "meaning": "honorific suffix used after the name of a woman of equal or higher status |(vi) hậu tố kính ngữ dùng sau tên phụ nữ có địa vị ngang hàng hoặc cao hơn"
       },
       {
         "example": "姉妹",
         "reading": "シマイ",
-        "meaning": "sisters"
+        "meaning": "sisters |(vi) chị em gái"
       },
       {
         "example": "実姉",
         "reading": "ジッシ",
-        "meaning": "biological older sister, real elder sister"
+        "meaning": "biological older sister, real elder sister |(vi) chị ruột"
       },
       {
         "example": "兄姉",
         "reading": "ケイシ",
-        "meaning": "older brother and older sister"
+        "meaning": "older brother and older sister |(vi) anh chị (anh trai và chị gái)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "姉",
         "reading": "あね",
-        "meaning": "older sister, elder sister"
+        "meaning": "older sister, elder sister |(vi) chị gái"
       },
       {
         "example": "姉さん",
         "reading": "ねえさん",
-        "meaning": "older sister, elder sister, young lady, miss, ma'am"
+        "meaning": "older sister, elder sister, young lady, miss, ma'am |(vi) chị gái, cô gái trẻ, cô, quý cô"
       },
       {
         "example": "大姉",
         "reading": "おおあね",
-        "meaning": "eldest sister"
+        "meaning": "eldest sister |(vi) chị cả"
       }
     ],
     "radical": {
       "symbol": "女",
-      "meaning": "woman, female"
+      "meaning": "woman, female |(vi) Nữ (phụ nữ, giống cái)"
     },
     "parts": [
       "亠",

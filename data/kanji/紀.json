@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "era",
+    "meaning": "era |(vi) kỷ nguyên",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "紀元（きげん）",
         "meaning": {
-          "english": "era, C. E."
+          "english": "era, C. E. |(vi) kỷ nguyên, công nguyên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(genzen)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "紀元前（きげんぜん）",
         "meaning": {
-          "english": "B.C.E."
+          "english": "B.C.E. |(vi) trước công nguyên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(genzen)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "紀行文（きこうぶん）",
         "meaning": {
-          "english": "traveller's journal"
+          "english": "traveller's journal |(vi) du ký, nhật ký du hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(genzen)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "風紀（ふうき）",
         "meaning": {
-          "english": "public morals"
+          "english": "public morals |(vi) đạo đức xã hội, thuần phong mỹ tục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(genzen)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "世紀（せいき）",
         "meaning": {
-          "english": "century, era"
+          "english": "century, era |(vi) thế kỷ, kỷ nguyên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(genzen)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "21世紀（21せいき）",
         "meaning": {
-          "english": "21st century"
+          "english": "21st century |(vi) thế kỷ 21"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(genzen)_06_f.opus",
@@ -176,7 +176,7 @@
     "kanji": {
       "character": "紀",
       "meaning": {
-        "english": "era"
+        "english": "era |(vi) kỷ nguyên"
       },
       "strokes": {
         "count": 9,
@@ -232,7 +232,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -253,7 +253,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "780",
     "strokeCount": 9,
-    "meaning": "chronicle, account, narrative, history, annals, geologic period",
+    "meaning": "chronicle, account, narrative, history, annals, geologic period |(vi) biên niên sử, sự tường thuật, câu chuyện, lịch sử, sử ký, kỷ (địa chất) |(hv) Kỷ",
     "kunyomi": [],
     "onyomi": [
       "キ"
@@ -262,22 +262,22 @@
       {
         "example": "紀",
         "reading": "キ",
-        "meaning": "period, Nihon Shoki (second oldest work of Japanese history, compiled in 720 CE), Nihongi, Chronicles of Japan, Kii (former province located in present-day Wakayama and southern Mie prefectures)"
+        "meaning": "period, Nihon Shoki (second oldest work of Japanese history, compiled in 720 CE), Nihongi, Chronicles of Japan, Kii (former province located in present-day Wakayama and southern Mie prefectures) |(vi) thời kỳ, Nihon Shoki (bộ sử cổ thứ hai của Nhật Bản, biên soạn năm 720), Kii (tỉnh cũ nay thuộc Wakayama và nam Mie)"
       },
       {
         "example": "紀元前",
         "reading": "キゲンゼン",
-        "meaning": "pre-era, BC, BCE"
+        "meaning": "pre-era, BC, BCE |(vi) trước công nguyên"
       },
       {
         "example": "デボン紀",
         "reading": "デボンキ",
-        "meaning": "Devonian period"
+        "meaning": "Devonian period |(vi) kỷ Devon (địa chất)"
       },
       {
         "example": "前世紀",
         "reading": "ゼンセイキ",
-        "meaning": "last century, previous century, ancient times, old times"
+        "meaning": "last century, previous century, ancient times, old times |(vi) thế kỷ trước, thời cổ đại"
       }
     ],
     "kunyomiExamples": [],
@@ -286,7 +286,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi)"
     },
     "parts": [
       "小",

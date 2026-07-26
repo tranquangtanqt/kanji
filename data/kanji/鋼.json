@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "hagane",
-    "meaning": "steel",
+    "meaning": "steel |(vi) thép",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "鋼材（こうざい）",
         "meaning": {
-          "english": "material made from steel"
+          "english": "material made from steel |(vi) vật liệu làm từ thép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hagane_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "鋼板（こうはん）",
         "meaning": {
-          "english": "steel sheet, steel plate"
+          "english": "steel sheet, steel plate |(vi) tấm thép, lá thép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hagane_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "鋼管（こうかん）",
         "meaning": {
-          "english": "steel pipe"
+          "english": "steel pipe |(vi) ống thép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hagane_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "製鋼（せいこう）",
         "meaning": {
-          "english": "steel manufacture"
+          "english": "steel manufacture |(vi) luyện thép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hagane_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "鉄鋼（てっこう）",
         "meaning": {
-          "english": "iron and steel"
+          "english": "iron and steel |(vi) sắt thép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hagane_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "鋼（はがね）",
         "meaning": {
-          "english": "steel"
+          "english": "steel |(vi) thép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hagane_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "鋼色（はがねいろ）",
         "meaning": {
-          "english": "steel blue"
+          "english": "steel blue |(vi) màu xanh thép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hagane_06_g.opus",
@@ -178,7 +178,7 @@
     "kanji": {
       "character": "鋼",
       "meaning": {
-        "english": "steel"
+        "english": "steel |(vi) thép"
       },
       "strokes": {
         "count": 16,
@@ -248,7 +248,7 @@
         "romaji": "kanehen"
       },
       "meaning": {
-        "english": "metal, gold, mineral"
+        "english": "metal, gold, mineral |(vi) Kim (kim loại, vàng, khoáng chất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kanehen0.svg",
@@ -269,7 +269,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1246",
     "strokeCount": 16,
-    "meaning": "steel",
+    "meaning": "steel |(vi) thép |(hv) Cương",
     "kunyomi": [
       "はがね"
     ],
@@ -280,39 +280,39 @@
       {
         "example": "鋼",
         "reading": "ハガネ",
-        "meaning": "steel, sword steel, sword"
+        "meaning": "steel, sword steel, sword |(vi) thép, thép rèn kiếm, kiếm"
       },
       {
         "example": "鋼材",
         "reading": "コウザイ",
-        "meaning": "steel material"
+        "meaning": "steel material |(vi) thép nguyên liệu"
       },
       {
         "example": "粗鋼",
         "reading": "ソコウ",
-        "meaning": "crude steel"
+        "meaning": "crude steel |(vi) thép thô"
       },
       {
         "example": "製鋼",
         "reading": "セイコウ",
-        "meaning": "steel manufacture"
+        "meaning": "steel manufacture |(vi) luyện thép"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鋼",
         "reading": "はがね",
-        "meaning": "steel, sword steel, sword"
+        "meaning": "steel, sword steel, sword |(vi) thép, thép rèn kiếm, kiếm"
       },
       {
         "example": "鋼色",
         "reading": "はがねいろ",
-        "meaning": "steel blue"
+        "meaning": "steel blue |(vi) màu xanh thép"
       },
       {
         "example": "玉鋼",
         "reading": "たまはがね",
-        "meaning": "traditional Japanese steel made from iron sand (esp. for use in swords)"
+        "meaning": "traditional Japanese steel made from iron sand (esp. for use in swords) |(vi) thép truyền thống Nhật Bản làm từ cát sắt (dùng để rèn kiếm)"
       }
     ],
     "radical": {
@@ -320,7 +320,7 @@
       "forms": [
         "釒"
       ],
-      "meaning": "metal, gold"
+      "meaning": "metal, gold |(vi) Kim (kim loại, vàng)"
     },
     "parts": [
       "冂",

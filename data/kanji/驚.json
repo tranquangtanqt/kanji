@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "odoro, odoroku, odorokasu",
-    "meaning": "surprise",
+    "meaning": "surprise |(vi) ngạc nhiên, kinh ngạc",
     "kstroke": 22,
     "examples": [
       {
         "japanese": "驚嘆する（きょうたんする）",
         "meaning": {
-          "english": "marvel [v.t.]"
+          "english": "marvel [v.t.] |(vi) kinh ngạc, thán phục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/odoro(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "驚喜する（きょうきする）",
         "meaning": {
-          "english": "exult"
+          "english": "exult |(vi) vui mừng khôn xiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/odoro(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "驚異（きょうい）",
         "meaning": {
-          "english": "wonder [n.]"
+          "english": "wonder [n.] |(vi) điều kỳ diệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/odoro(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "驚く（おどろく）",
         "meaning": {
-          "english": "be surprised [v.i.]"
+          "english": "be surprised [v.i.] |(vi) ngạc nhiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/odoro(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "驚かす（おどろかす）",
         "meaning": {
-          "english": "surprise [v.t.]"
+          "english": "surprise [v.t.] |(vi) làm ngạc nhiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/odoro(ku)_06_e.opus",
@@ -198,7 +198,7 @@
     "kanji": {
       "character": "驚",
       "meaning": {
-        "english": "surprise"
+        "english": "surprise |(vi) ngạc nhiên, kinh ngạc"
       },
       "strokes": {
         "count": 22,
@@ -280,7 +280,7 @@
         "romaji": "uma"
       },
       "meaning": {
-        "english": "horse"
+        "english": "horse |(vi) Mã (ngựa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/uma0.svg",
@@ -301,7 +301,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1141",
     "strokeCount": 22,
-    "meaning": "wonder, be surprised, frightened, amazed",
+    "meaning": "wonder, be surprised, frightened, amazed |(vi) kinh ngạc, ngạc nhiên, sợ hãi, kinh sợ |(hv) Kinh",
     "kunyomi": [
       "おどろ.く",
       "おどろ.かす"
@@ -313,44 +313,44 @@
       {
         "example": "驚異",
         "reading": "キョウイ",
-        "meaning": "wonder, miracle, amazement, prodigy"
+        "meaning": "wonder, miracle, amazement, prodigy |(vi) điều kỳ diệu, phép màu, sự kinh ngạc, kỳ tích"
       },
       {
         "example": "驚愕",
         "reading": "キョウガク",
-        "meaning": "astonishment, amazement, surprise, fright, shock"
+        "meaning": "astonishment, amazement, surprise, fright, shock |(vi) sự kinh ngạc, sững sờ, ngạc nhiên, sợ hãi, sốc"
       },
       {
         "example": "一驚",
         "reading": "イッキョウ",
-        "meaning": "surprise, amazement"
+        "meaning": "surprise, amazement |(vi) sự ngạc nhiên, kinh ngạc"
       },
       {
         "example": "吃驚",
         "reading": "キッキョウ",
-        "meaning": "surprise"
+        "meaning": "surprise |(vi) ngạc nhiên"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "驚く",
         "reading": "おどろく",
-        "meaning": "to be surprised, to be taken aback, to be amazed, to be astonished, to be shocked, to be frightened, to be startled, to be alarmed"
+        "meaning": "to be surprised, to be taken aback, to be amazed, to be astonished, to be shocked, to be frightened, to be startled, to be alarmed |(vi) ngạc nhiên, sững sờ, kinh ngạc, sửng sốt, bị sốc, sợ hãi, giật mình, hoảng hốt"
       },
       {
         "example": "驚くほど",
         "reading": "おどろくほど",
-        "meaning": "to a surprising degree, to a remarkable extent, surprisingly, astonishingly, amazingly, alarmingly"
+        "meaning": "to a surprising degree, to a remarkable extent, surprisingly, astonishingly, amazingly, alarmingly |(vi) đến mức đáng ngạc nhiên, đến mức đáng kể, một cách đáng ngạc nhiên, đáng kinh ngạc, đáng lo ngại"
       },
       {
         "example": "驚かす",
         "reading": "おどろかす",
-        "meaning": "to surprise, to frighten, to create a stir"
+        "meaning": "to surprise, to frighten, to create a stir |(vi) làm ngạc nhiên, làm sợ hãi, gây xôn xao"
       }
     ],
     "radical": {
       "symbol": "馬",
-      "meaning": "horse"
+      "meaning": "horse |(vi) Mã (ngựa)"
     },
     "parts": [
       "乞",

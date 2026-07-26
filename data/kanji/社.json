@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "yashiro",
-    "meaning": "company, society",
+    "meaning": "company, society |(vi) công ty, xã hội",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "社会（しゃかい）",
         "meaning": {
-          "english": "society"
+          "english": "society |(vi) xã hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "社長（しゃちょう）",
         "meaning": {
-          "english": "company president"
+          "english": "company president |(vi) giám đốc, chủ tịch công ty"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "会社（かいしゃ）",
         "meaning": {
-          "english": "company"
+          "english": "company |(vi) công ty"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "本社（ほんしゃ）",
         "meaning": {
-          "english": "headquarters"
+          "english": "headquarters |(vi) trụ sở chính, bản xã"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "支社（ししゃ）",
         "meaning": {
-          "english": "branch office"
+          "english": "branch office |(vi) chi nhánh, văn phòng chi nhánh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "出版社（しゅっぱんしゃ）",
         "meaning": {
-          "english": "publisher"
+          "english": "publisher |(vi) nhà xuất bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "神社（じんじゃ）",
         "meaning": {
-          "english": "Shinto shrine"
+          "english": "Shinto shrine |(vi) đền thần đạo, thần xã"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "入社する（にゅうしゃする）",
         "meaning": {
-          "english": "join a company"
+          "english": "join a company |(vi) vào công ty, gia nhập công ty"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "お社（おやしろ）",
         "meaning": {
-          "english": "Shinto shrine [hon.]"
+          "english": "Shinto shrine [hon.] |(vi) đền thần đạo [kính ngữ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_i.opus",
@@ -259,7 +259,7 @@
     "kanji": {
       "character": "社",
       "meaning": {
-        "english": "company, society"
+        "english": "company, society |(vi) công ty, xã hội"
       },
       "strokes": {
         "count": 7,
@@ -311,7 +311,7 @@
         "romaji": "shimesuhen"
       },
       "meaning": {
-        "english": "altar, festival, religious service"
+        "english": "altar, festival, religious service |(vi) Thị (bàn thờ, tế lễ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shimesuhen0.svg",
@@ -332,7 +332,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "21",
     "strokeCount": 7,
-    "meaning": "company, firm, office, association, shrine",
+    "meaning": "company, firm, office, association, shrine |(vi) công ty, hãng, văn phòng, hội đoàn, đền thần |(hv) Xã",
     "kunyomi": [
       "やしろ"
     ],
@@ -343,39 +343,39 @@
       {
         "example": "社",
         "reading": "シャ",
-        "meaning": "company, firm, office, association, society, (Shinto) shrine, regional Chinese god of the earth (or a village built in its honour), counter for companies, shrines, etc., incorporated body, corporation, corporate juridical person"
+        "meaning": "company, firm, office, association, society, (Shinto) shrine, regional Chinese god of the earth (or a village built in its honour), counter for companies, shrines, etc., incorporated body, corporation, corporate juridical person |(vi) công ty, hãng, văn phòng, hội đoàn, đoàn thể, đền thần đạo, thần thổ địa vùng (hoặc làng lập ra để thờ), lượng từ đếm công ty và đền miếu, pháp nhân, tập đoàn, pháp nhân doanh nghiệp"
       },
       {
         "example": "社員",
         "reading": "シャイン",
-        "meaning": "company employee, member of a corporation, company stockholder (esp. in legal contexts)"
+        "meaning": "company employee, member of a corporation, company stockholder (esp. in legal contexts) |(vi) xã viên, nhân viên công ty, thành viên pháp nhân, cổ đông công ty (nhất là trong ngữ cảnh pháp lý)"
       },
       {
         "example": "大社",
         "reading": "タイシャ",
-        "meaning": "grand shrine, famous shrine, Izumo Grand Shrine"
+        "meaning": "grand shrine, famous shrine, Izumo Grand Shrine |(vi) đại xã, đền lớn, đền nổi tiếng, Đền lớn Izumo"
       },
       {
         "example": "親会社",
         "reading": "オヤガイシャ",
-        "meaning": "parent company"
+        "meaning": "parent company |(vi) công ty mẹ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "社",
         "reading": "やしろ",
-        "meaning": "(Shinto) shrine"
+        "meaning": "(Shinto) shrine |(vi) đền thần đạo"
       },
       {
         "example": "大社",
         "reading": "たいしゃ",
-        "meaning": "grand shrine, famous shrine, Izumo Grand Shrine"
+        "meaning": "grand shrine, famous shrine, Izumo Grand Shrine |(vi) đại xã, đền lớn, đền nổi tiếng, Đền lớn Izumo"
       },
       {
         "example": "村のお社",
         "reading": "むらのおやしろ",
-        "meaning": "village shrine"
+        "meaning": "village shrine |(vi) đền của làng, ngôi đền trong làng"
       }
     ],
     "radical": {
@@ -383,7 +383,7 @@
       "forms": [
         "礻"
       ],
-      "meaning": "sign"
+      "meaning": "sign |(vi) Thị (bày tỏ, thần chủ)"
     },
     "parts": [
       "土",

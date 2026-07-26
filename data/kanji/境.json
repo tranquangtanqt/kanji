@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "sakai",
-    "meaning": "boundary, situation, border",
+    "meaning": "boundary, situation, border |(vi) ranh giới, tình huống, biên giới",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "境界（きょうかい）",
         "meaning": {
-          "english": "boundary"
+          "english": "boundary |(vi) ranh giới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sakai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "境遇（きょうぐう）",
         "meaning": {
-          "english": "environment, circumstances"
+          "english": "environment, circumstances |(vi) hoàn cảnh, cảnh ngộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sakai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "国境（こっきょう）",
         "meaning": {
-          "english": "national or state border"
+          "english": "national or state border |(vi) biên giới quốc gia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sakai_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "辺境（へんきょう）",
         "meaning": {
-          "english": "remote region"
+          "english": "remote region |(vi) vùng biên viễn, vùng xa xôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sakai_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "環境（かんきょう）",
         "meaning": {
-          "english": "environment, circumstance"
+          "english": "environment, circumstance |(vi) môi trường, hoàn cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sakai_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "心境（しんきょう）",
         "meaning": {
-          "english": "mental state"
+          "english": "mental state |(vi) tâm trạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sakai_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "逆境（ぎゃっきょう）",
         "meaning": {
-          "english": "adversity"
+          "english": "adversity |(vi) nghịch cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sakai_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "苦境（くきょう）",
         "meaning": {
-          "english": "trouble, crisis, predicament"
+          "english": "trouble, crisis, predicament |(vi) khốn cảnh, khủng hoảng, tình thế khó khăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sakai_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "境内（けいだい）",
         "meaning": {
-          "english": "temple/shrine's precincts"
+          "english": "temple/shrine's precincts |(vi) khuôn viên đền/chùa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sakai_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "境（さかい）",
         "meaning": {
-          "english": "border, boundary"
+          "english": "border, boundary |(vi) ranh giới, biên giới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sakai_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "県境（けんざかい）",
         "meaning": {
-          "english": "prefectural border/boundary"
+          "english": "prefectural border/boundary |(vi) ranh giới tỉnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sakai_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "見境なく（みさかいなく）",
         "meaning": {
-          "english": "indiscriminately"
+          "english": "indiscriminately |(vi) một cách bừa bãi, không phân biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-sakai_06_l.opus",
@@ -247,7 +247,7 @@
     "kanji": {
       "character": "境",
       "meaning": {
-        "english": "boundary, situation, border"
+        "english": "boundary, situation, border |(vi) ranh giới, tình huống, biên giới"
       },
       "strokes": {
         "count": 14,
@@ -313,7 +313,7 @@
         "romaji": "tsuchihen"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
@@ -334,7 +334,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "346",
     "strokeCount": 14,
-    "meaning": "boundary, border, region",
+    "meaning": "boundary, border, region |(vi) ranh giới, biên giới, khu vực |(hv) Cảnh",
     "kunyomi": [
       "さかい"
     ],
@@ -346,54 +346,54 @@
       {
         "example": "境",
         "reading": "サカイ",
-        "meaning": "border, boundary, turning point, watershed, area, region, spot, space, environment, psychological state, mental state, cognitive object, something perceptible by the sense organs or mind"
+        "meaning": "border, boundary, turning point, watershed, area, region, spot, space, environment, psychological state, mental state, cognitive object, something perceptible by the sense organs or mind |(vi) ranh giới, biên giới, bước ngoặt, điểm phân thủy, khu vực, vùng, địa điểm, không gian, môi trường, trạng thái tâm lý, tâm trạng, đối tượng nhận thức, điều gì đó có thể cảm nhận được bởi giác quan hoặc tâm trí"
       },
       {
         "example": "境界",
         "reading": "キョウカイ",
-        "meaning": "boundary, border, limit, bounds, frontier"
+        "meaning": "boundary, border, limit, bounds, frontier |(vi) ranh giới, biên giới, giới hạn, biên độ, biên cương"
       },
       {
         "example": "越境",
         "reading": "エッキョウ",
-        "meaning": "crossing a border (illegally), border violation, border transgression"
+        "meaning": "crossing a border (illegally), border violation, border transgression |(vi) vượt biên (trái phép), vi phạm biên giới, xâm phạm biên giới"
       },
       {
         "example": "推奨環境",
         "reading": "スイショウカンキョウ",
-        "meaning": "system requirements (i.e. recommended hardware and software to run a package)"
+        "meaning": "system requirements (i.e. recommended hardware and software to run a package) |(vi) yêu cầu hệ thống (tức phần cứng và phần mềm khuyến nghị để chạy một gói)"
       },
       {
         "example": "境内",
         "reading": "ケイダイ",
-        "meaning": "grounds (esp. of shrines and temples), compound, churchyard, precincts"
+        "meaning": "grounds (esp. of shrines and temples), compound, churchyard, precincts |(vi) khuôn viên (đặc biệt của đền, chùa), khu vực, sân nhà thờ, khu đất thánh"
       },
       {
         "example": "境界",
         "reading": "ケイカイ",
-        "meaning": "land boundary, border (between properties)"
+        "meaning": "land boundary, border (between properties) |(vi) ranh giới đất đai, ranh giới (giữa các thửa đất)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "境",
         "reading": "さかい",
-        "meaning": "border, boundary, turning point, watershed, area, region, spot, space, environment, psychological state, mental state, cognitive object, something perceptible by the sense organs or mind"
+        "meaning": "border, boundary, turning point, watershed, area, region, spot, space, environment, psychological state, mental state, cognitive object, something perceptible by the sense organs or mind |(vi) ranh giới, biên giới, bước ngoặt, điểm phân thủy, khu vực, vùng, địa điểm, không gian, môi trường, trạng thái tâm lý, tâm trạng, đối tượng nhận thức, điều gì đó có thể cảm nhận được bởi giác quan hoặc tâm trí"
       },
       {
         "example": "境目",
         "reading": "さかいめ",
-        "meaning": "borderline, boundary"
+        "meaning": "borderline, boundary |(vi) đường ranh giới, ranh giới"
       },
       {
         "example": "生死の境",
         "reading": "せいしのさかい",
-        "meaning": "between life and death"
+        "meaning": "between life and death |(vi) ranh giới giữa sự sống và cái chết"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "儿",

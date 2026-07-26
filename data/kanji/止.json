@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "to, ya, tomeru, tomaru, yamu, yameru",
-    "meaning": "stop",
+    "meaning": "stop |(vi) dừng, ngừng",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "停止する（ていしする）",
         "meaning": {
-          "english": "stop"
+          "english": "stop |(vi) dừng lại, ngừng lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-to(maru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "中止する（ちゅうしする）",
         "meaning": {
-          "english": "cancel"
+          "english": "cancel |(vi) hủy bỏ, đình chỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-to(maru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "廃止する（はいしする）",
         "meaning": {
-          "english": "abolish"
+          "english": "abolish |(vi) bãi bỏ, hủy bỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-to(maru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "禁止する（きんしする）",
         "meaning": {
-          "english": "prohibit"
+          "english": "prohibit |(vi) cấm, nghiêm cấm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-to(maru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "止まる（とまる）",
         "meaning": {
-          "english": "stop [v.i.]"
+          "english": "stop [v.i.] |(vi) dừng lại (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-to(maru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "止める（とめる）",
         "meaning": {
-          "english": "stop [v.t.]"
+          "english": "stop [v.t.] |(vi) làm dừng lại (ngoại động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-to(maru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "止む（やむ）",
         "meaning": {
-          "english": "(e.g. rain) stop [v.i.]"
+          "english": "(e.g. rain) stop [v.i.] |(vi) tạnh, ngừng (ví dụ: mưa tạnh)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-to(maru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "止める（やめる）",
         "meaning": {
-          "english": "stop [v.t.], give up, quit"
+          "english": "stop [v.t.], give up, quit |(vi) dừng lại (ngoại động từ), từ bỏ, bỏ (thói quen)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-to(maru)_06_h.opus",
@@ -249,7 +249,7 @@
     "kanji": {
       "character": "止",
       "meaning": {
-        "english": "stop"
+        "english": "stop |(vi) dừng, ngừng"
       },
       "strokes": {
         "count": 4,
@@ -295,7 +295,7 @@
         "romaji": "tomeru"
       },
       "meaning": {
-        "english": "to stop"
+        "english": "to stop |(vi) Chỉ (dừng, ngừng lại)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tomeru0.svg",
@@ -316,7 +316,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "310",
     "strokeCount": 4,
-    "meaning": "stop, halt",
+    "meaning": "stop, halt |(vi) dừng, ngừng, đình chỉ |(hv) Chỉ",
     "kunyomi": [
       "と.まる",
       "-ど.まり",
@@ -340,84 +340,84 @@
       {
         "example": "止血",
         "reading": "シケツ",
-        "meaning": "stopping of bleeding, stanching, hemostasis, haemostasis"
+        "meaning": "stopping of bleeding, stanching, hemostasis, haemostasis |(vi) cầm máu"
       },
       {
         "example": "止音器",
         "reading": "シオンキ",
-        "meaning": "(piano) damper"
+        "meaning": "(piano) damper |(vi) bộ giảm âm (đàn piano)"
       },
       {
         "example": "抑止",
         "reading": "ヨクシ",
-        "meaning": "check, checkmate, stave off, control, restraint, inhibit, deterrent, deterrence"
+        "meaning": "check, checkmate, stave off, control, restraint, inhibit, deterrent, deterrence |(vi) kiềm chế, ngăn chặn, răn đe"
       },
       {
         "example": "解止",
         "reading": "カイシ",
-        "meaning": "termination"
+        "meaning": "termination |(vi) chấm dứt, kết thúc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "止まる",
         "reading": "とまる",
-        "meaning": "to stop (moving), to come to a stop, to stop (doing, working, being supplied), to come to a halt, to cease, to be stopped, to be suspended, to alight, to perch on"
+        "meaning": "to stop (moving), to come to a stop, to stop (doing, working, being supplied), to come to a halt, to cease, to be stopped, to be suspended, to alight, to perch on |(vi) dừng lại (di chuyển), dừng hẳn, ngừng (hoạt động, làm việc, được cung cấp), dừng lại hoàn toàn, ngừng, bị dừng, bị đình chỉ, đậu xuống, đậu trên"
       },
       {
         "example": "止める",
         "reading": "とめる",
-        "meaning": "to stop, to turn off, to park, to prevent, to suppress (a cough), to hold back (tears), to hold (one's breath), to relieve (pain), to stop (someone from doing something), to dissuade, to forbid, to prohibit, to notice, to be aware of, to concentrate on, to pay attention to, to remember, to bear in mind, to fix (in place), to fasten, to tack, to pin, to nail, to button, to staple, to detain, to keep in custody"
+        "meaning": "to stop, to turn off, to park, to prevent, to suppress (a cough), to hold back (tears), to hold (one's breath), to relieve (pain), to stop (someone from doing something), to dissuade, to forbid, to prohibit, to notice, to be aware of, to concentrate on, to pay attention to, to remember, to bear in mind, to fix (in place), to fasten, to tack, to pin, to nail, to button, to staple, to detain, to keep in custody |(vi) dừng lại, tắt, đỗ (xe), ngăn chặn, nén (ho), kìm (nước mắt), nín (thở), giảm (đau), ngăn (ai đó làm gì), can ngăn, cấm, nghiêm cấm, để ý, nhận ra, tập trung vào, chú ý đến, ghi nhớ, khắc cốt ghi tâm, cố định (vị trí), gắn chặt, đính, ghim, đóng đinh, cài (nút), bấm ghim, giam giữ, tạm giữ"
       },
       {
         "example": "留める",
         "reading": "とどめる",
-        "meaning": "to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain"
+        "meaning": "to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain |(vi) dừng lại, lưu lại (qua đêm), chấm dứt, kết thúc, chứa đựng, giữ (ở vị trí, chỗ), giới hạn, ghi lại (một sự việc), lưu giữ"
       },
       {
         "example": "止め",
         "reading": "とどめ",
-        "meaning": "finishing blow, coup de grâce"
+        "meaning": "finishing blow, coup de grâce |(vi) đòn kết liễu, nhát dao ân huệ"
       },
       {
         "example": "留める",
         "reading": "とどめる",
-        "meaning": "to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain"
+        "meaning": "to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain |(vi) dừng lại, lưu lại (qua đêm), chấm dứt, kết thúc, chứa đựng, giữ (ở vị trí, chỗ), giới hạn, ghi lại (một sự việc), lưu giữ"
       },
       {
         "example": "止まる",
         "reading": "とどまる",
-        "meaning": "to remain, to abide, to stay (in the one place), to be limited to, to be confined to, to only account for"
+        "meaning": "to remain, to abide, to stay (in the one place), to be limited to, to be confined to, to only account for |(vi) ở lại, lưu lại, dừng chân (một chỗ), giới hạn ở, bó hẹp trong, chỉ chiếm (một phần)"
       },
       {
         "example": "とどまるところを知らない",
         "reading": "とどまるところをしらない",
-        "meaning": "knowing no bounds, showing no signs of stopping or slowing down"
+        "meaning": "knowing no bounds, showing no signs of stopping or slowing down |(vi) không biết đâu là giới hạn, không có dấu hiệu dừng lại hay chậm lại"
       },
       {
         "example": "止める",
         "reading": "やめる",
-        "meaning": "to stop (an activity), to cease, to discontinue, to end, to quit, to cancel, to abandon, to give up, to abolish, to abstain, to refrain"
+        "meaning": "to stop (an activity), to cease, to discontinue, to end, to quit, to cancel, to abandon, to give up, to abolish, to abstain, to refrain |(vi) dừng (một hoạt động), ngừng, thôi, kết thúc, bỏ, hủy, từ bỏ, bãi bỏ, kiêng, tránh"
       },
       {
         "example": "止む",
         "reading": "やむ",
-        "meaning": "to cease, to stop, to be over"
+        "meaning": "to cease, to stop, to be over |(vi) ngừng, dừng, chấm dứt, kết thúc"
       },
       {
         "example": "やむを得ない",
         "reading": "やむをえない",
-        "meaning": "cannot be helped, unavoidable"
+        "meaning": "cannot be helped, unavoidable |(vi) không thể tránh khỏi, bất khả kháng"
       },
       {
         "example": "止す",
         "reading": "よす",
-        "meaning": "to stop (doing), to cease, to desist, to drop, to lay off, to give up, to quit"
+        "meaning": "to stop (doing), to cease, to desist, to drop, to lay off, to give up, to quit |(vi) dừng (làm gì), ngừng, thôi, từ bỏ, bỏ cuộc"
       }
     ],
     "radical": {
       "symbol": "止",
-      "meaning": "stop"
+      "meaning": "stop |(vi) Chỉ (dừng, ngừng lại)"
     },
     "parts": [
       "止"

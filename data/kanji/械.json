@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "mechanical contrivance, machine",
+    "meaning": "mechanical contrivance, machine |(vi) cơ cấu máy móc, máy móc",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "器械（きかい）",
         "meaning": {
-          "english": "instrument"
+          "english": "instrument |(vi) dụng cụ, thiết bị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ki)kai(kou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "機械（きかい）",
         "meaning": {
-          "english": "machine, mechanism"
+          "english": "machine, mechanism |(vi) máy móc, cơ chế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ki)kai(kou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "器械体操（きかいたいそう）",
         "meaning": {
-          "english": "apparatus gymnastics"
+          "english": "apparatus gymnastics |(vi) thể dục dụng cụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ki)kai(kou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "機械的な（きかいてきな）",
         "meaning": {
-          "english": "mechanical"
+          "english": "mechanical |(vi) mang tính cơ học, máy móc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ki)kai(kou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "機械化する（きかいかする）",
         "meaning": {
-          "english": "mechanize"
+          "english": "mechanize |(vi) cơ giới hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ki)kai(kou)_06_e.opus",
@@ -166,7 +166,7 @@
     "kanji": {
       "character": "械",
       "meaning": {
-        "english": "mechanical contrivance, machine"
+        "english": "mechanical contrivance, machine |(vi) cơ cấu máy móc, máy móc"
       },
       "strokes": {
         "count": 11,
@@ -226,7 +226,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -247,7 +247,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1321",
     "strokeCount": 11,
-    "meaning": "contraption, fetter, machine, instrument",
+    "meaning": "contraption, fetter, machine, instrument |(vi) cơ cấu máy móc, gông cùm, máy móc, dụng cụ |(hv) Giới",
     "kunyomi": [
       "かせ"
     ],
@@ -258,34 +258,34 @@
       {
         "example": "工作機械",
         "reading": "コウサクキカイ",
-        "meaning": "machine tool"
+        "meaning": "machine tool |(vi) máy công cụ"
       },
       {
         "example": "産業機械",
         "reading": "サンギョウキカイ",
-        "meaning": "industrial machinery"
+        "meaning": "industrial machinery |(vi) máy móc công nghiệp"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "枷",
         "reading": "かせ",
-        "meaning": "shackles, fetters, irons, handcuffs, restraint, constraint, bonds (e.g. family), ties, binding relationship, binding relationships, encumbrance"
+        "meaning": "shackles, fetters, irons, handcuffs, restraint, constraint, bonds (e.g. family), ties, binding relationship, binding relationships, encumbrance |(vi) xiềng xích, gông cùm, còng tay, sự ràng buộc, hạn chế, mối ràng buộc (vd. gia đình), sợi dây liên kết, mối quan hệ ràng buộc, gánh nặng"
       },
       {
         "example": "足かせ",
         "reading": "あしかせ",
-        "meaning": "fetters, shackles, hobbles, encumbrance, hindrance, burden, trap"
+        "meaning": "fetters, shackles, hobbles, encumbrance, hindrance, burden, trap |(vi) xiềng chân, gông cùm, gánh nặng, cạm bẫy"
       },
       {
         "example": "手かせ",
         "reading": "てかせ",
-        "meaning": "handcuffs"
+        "meaning": "handcuffs |(vi) còng tay"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "廾",

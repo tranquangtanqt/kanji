@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 5,
     "kunyomi": "a, ageru, agaru",
-    "meaning": "nominate, noteworthy act, raise",
+    "meaning": "nominate, noteworthy act, raise |(vi) đề cử, hành động đáng chú ý, nâng lên",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "挙党（きょとう）",
         "meaning": {
-          "english": "entire party"
+          "english": "entire party |(vi) toàn đảng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-a(geru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "挙動不審（きょどうふしん）",
         "meaning": {
-          "english": "suspicious conduct"
+          "english": "suspicious conduct |(vi) hành vi khả nghi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-a(geru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "選挙（せんきょ）",
         "meaning": {
-          "english": "election"
+          "english": "election |(vi) bầu cử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-a(geru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "暴挙（ぼうきょ）",
         "meaning": {
-          "english": "reckless action"
+          "english": "reckless action |(vi) hành động liều lĩnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-a(geru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "快挙（かいきょ）",
         "meaning": {
-          "english": "brilliant achievement"
+          "english": "brilliant achievement |(vi) thành tựu xuất sắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-a(geru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "一挙に（いっきょに）",
         "meaning": {
-          "english": "at a stroke, with a single swoop"
+          "english": "at a stroke, with a single swoop |(vi) trong một cú, chỉ trong một nhát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-a(geru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "挙手する（きょしゅする）",
         "meaning": {
-          "english": "raise one's hand"
+          "english": "raise one's hand |(vi) giơ tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-a(geru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "検挙する（けんきょする）",
         "meaning": {
-          "english": "arrest [v.t.]"
+          "english": "arrest [v.t.] |(vi) bắt giữ [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-a(geru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "挙げる（あげる）",
         "meaning": {
-          "english": "raise, give, arrest [v.t.]"
+          "english": "raise, give, arrest [v.t.] |(vi) nâng lên, cho, bắt giữ [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-a(geru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "挙げ句の果て（あげくのはて）",
         "meaning": {
-          "english": "on top of all that"
+          "english": "on top of all that |(vi) rốt cuộc, cuối cùng thì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-a(geru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "挙がる（あがる）",
         "meaning": {
-          "english": "rise, prosper, come up [v.i.]"
+          "english": "rise, prosper, come up [v.i.] |(vi) tăng lên, thịnh vượng, nổi lên [nội động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-a(geru)_06_k.opus",
@@ -244,7 +244,7 @@
     "kanji": {
       "character": "挙",
       "meaning": {
-        "english": "nominate, noteworthy act, raise"
+        "english": "nominate, noteworthy act, raise |(vi) đề cử, hành động đáng chú ý, nâng lên"
       },
       "strokes": {
         "count": 10,
@@ -302,7 +302,7 @@
         "romaji": "te"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/te0.svg",
@@ -323,7 +323,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "257",
     "strokeCount": 10,
-    "meaning": "raise, plan, project, behavior, actions",
+    "meaning": "raise, plan, project, behavior, actions |(vi) nâng lên, kế hoạch, dự án, hành vi, hành động |(hv) Cử",
     "kunyomi": [
       "あ.げる",
       "あ.がる",
@@ -336,39 +336,39 @@
       {
         "example": "挙",
         "reading": "キョ",
-        "meaning": "action, behavior, behaviour, move, recommendation (of a person for a position)"
+        "meaning": "action, behavior, behaviour, move, recommendation (of a person for a position) |(vi) hành động, cách cư xử, động thái, sự đề cử (một người cho một chức vụ)"
       },
       {
         "example": "挙式",
         "reading": "キョシキ",
-        "meaning": "holding a ceremony, wedding ceremony"
+        "meaning": "holding a ceremony, wedding ceremony |(vi) tổ chức nghi lễ, lễ cưới"
       },
       {
         "example": "暴挙",
         "reading": "ボウキョ",
-        "meaning": "violence, reckless action, (an) outrage"
+        "meaning": "violence, reckless action, (an) outrage |(vi) bạo lực, hành động liều lĩnh, sự tàn bạo"
       },
       {
         "example": "快挙",
         "reading": "カイキョ",
-        "meaning": "brilliant achievement, spectacular feat, splendid accomplishment, remarkable deed"
+        "meaning": "brilliant achievement, spectacular feat, splendid accomplishment, remarkable deed |(vi) thành tựu xuất sắc, kỳ tích ngoạn mục, thành tích lẫy lừng, hành động đáng nể"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "上げる",
         "reading": "あげる",
-        "meaning": "to raise, to elevate, to do up (one's hair), to fly (a kite, etc.), to launch (fireworks, etc.), to surface (a submarine, etc.), to land (a boat), to deep-fry, to show someone (into a room), to give, to send someone (away), to enrol (one's child in school), to enroll, to increase (price, quality, status, etc.), to develop (talent, skill), to improve, to make (a loud sound), to raise (one's voice), to earn (something desirable), to praise, to give (an example, etc.), to cite, to summon up (all of one's energy, etc.), to arrest, to nominate, to summon (for geishas, etc.), to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.), to bear (a child), to conduct (a ceremony, esp. a wedding), (of the tide) to come in, to vomit, to do for (the sake of someone else), to complete ..., to humbly do ..."
+        "meaning": "to raise, to elevate, to do up (one's hair), to fly (a kite, etc.), to launch (fireworks, etc.), to surface (a submarine, etc.), to land (a boat), to deep-fry, to show someone (into a room), to give, to send someone (away), to enrol (one's child in school), to enroll, to increase (price, quality, status, etc.), to develop (talent, skill), to improve, to make (a loud sound), to raise (one's voice), to earn (something desirable), to praise, to give (an example, etc.), to cite, to summon up (all of one's energy, etc.), to arrest, to nominate, to summon (for geishas, etc.), to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.), to bear (a child), to conduct (a ceremony, esp. a wedding), (of the tide) to come in, to vomit, to do for (the sake of someone else), to complete ..., to humbly do ... |(vi) nâng lên, nâng cao, búi (tóc), thả (diều...), bắn (pháo hoa...), nổi lên mặt nước (tàu ngầm...), cập bến (thuyền), chiên ngập dầu, mời ai đó (vào phòng), cho, tiễn ai đó (đi), cho con nhập học, ghi danh, tăng (giá, chất lượng, địa vị...), phát triển (tài năng, kỹ năng), cải thiện, tạo ra (âm thanh lớn), lên (giọng), kiếm được (điều gì đó mong muốn), khen ngợi, đưa ra (ví dụ...), trích dẫn, huy động hết (năng lượng...), bắt giữ, đề cử, triệu (geisha...), dâng lên (hương, lời cầu nguyện...) cho thần linh, sinh (con), tổ chức (nghi lễ, đặc biệt là đám cưới), (thủy triều) dâng lên, nôn mửa, làm vì (lợi ích của ai đó), hoàn thành..., khiêm nhường làm..."
       },
       {
         "example": "上がる",
         "reading": "あがる",
-        "meaning": "to rise, to go up, to come up, to ascend, to be raised, to enter (esp. from outdoors), to come in, to go in, to enter (a school), to advance to the next grade, to get out (of water), to come ashore, to increase, to improve, to make progress, to be promoted, to advance, to be made (of profit, etc.), to occur (esp. of a favourable result), to be adequate (to cover expenses, etc.), to be finished, to be done, to be over, to stop (of rain), to lift, to stop (working properly), to cut out, to give out, to die, to win (in a card game, etc.), to be arrested, to turn up (of evidence, etc.), to be deep fried, to be spoken loudly, to get nervous, to get stage fright, to be offered (to the gods, etc.), to go, to visit, to eat, to drink, to be listed (as a candidate), to serve (in one's master's home), to be complete, to finish, above, north of"
+        "meaning": "to rise, to go up, to come up, to ascend, to be raised, to enter (esp. from outdoors), to come in, to go in, to enter (a school), to advance to the next grade, to get out (of water), to come ashore, to increase, to improve, to make progress, to be promoted, to advance, to be made (of profit, etc.), to occur (esp. of a favourable result), to be adequate (to cover expenses, etc.), to be finished, to be done, to be over, to stop (of rain), to lift, to stop (working properly), to cut out, to give out, to die, to win (in a card game, etc.), to be arrested, to turn up (of evidence, etc.), to be deep fried, to be spoken loudly, to get nervous, to get stage fright, to be offered (to the gods, etc.), to go, to visit, to eat, to drink, to be listed (as a candidate), to serve (in one's master's home), to be complete, to finish, above, north of |(vi) tăng lên, đi lên, nổi lên, thăng lên, được nâng lên, vào (đặc biệt từ ngoài trời), vào trong, nhập học, lên lớp tiếp theo, ra khỏi (nước), cập bờ, tăng, cải thiện, tiến bộ, được thăng chức, tiến lên, được tạo ra (lợi nhuận...), xảy ra (đặc biệt kết quả thuận lợi), đủ (để trang trải chi phí...), hoàn tất, xong, kết thúc, tạnh (mưa), nhấc lên, ngừng hoạt động đúng cách, cắt bỏ, phát ra, chết, thắng (trò chơi bài...), bị bắt giữ, xuất hiện (bằng chứng...), được chiên ngập dầu, được nói to, trở nên hồi hộp, bị khớp sân khấu, được dâng lên (thần linh...), đi, viếng thăm, ăn, uống, được liệt kê (làm ứng viên), phục vụ (tại nhà chủ), hoàn tất, kết thúc, phía trên, phía bắc của"
       },
       {
         "example": "挙る",
         "reading": "こぞる",
-        "meaning": "to assemble everything together, to do something as a group"
+        "meaning": "to assemble everything together, to do something as a group |(vi) tập hợp tất cả lại với nhau, làm điều gì đó theo nhóm"
       }
     ],
     "radical": {
@@ -376,7 +376,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "ハ",

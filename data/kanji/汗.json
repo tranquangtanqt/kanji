@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ase",
-    "meaning": "sweat",
+    "meaning": "sweat |(vi) mồ hôi",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "汗腺（かんせん）",
         "meaning": {
-          "english": "sweat gland"
+          "english": "sweat gland |(vi) tuyến mồ hôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ase_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "発汗する（はっかんする）",
         "meaning": {
-          "english": "sweat [v.i.]"
+          "english": "sweat [v.i.] |(vi) ra mồ hôi, đổ mồ hôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ase_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "汗（あせ）",
         "meaning": {
-          "english": "sweat, perspiration"
+          "english": "sweat, perspiration |(vi) mồ hôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ase_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "汗かき（あせかき）",
         "meaning": {
-          "english": "person who sweats a lot"
+          "english": "person who sweats a lot |(vi) người ra nhiều mồ hôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ase_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "汗だく（あせだく）",
         "meaning": {
-          "english": "dripping with sweat"
+          "english": "dripping with sweat |(vi) đẫm mồ hôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ase_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "汗ばむ（あせばむ）",
         "meaning": {
-          "english": "be slightly sweaty"
+          "english": "be slightly sweaty |(vi) hơi ra mồ hôi, lấm tấm mồ hôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ase_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "冷や汗（ひやあせ）",
         "meaning": {
-          "english": "cold sweat"
+          "english": "cold sweat |(vi) mồ hôi lạnh, toát mồ hôi hột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ase_06_g.opus",
@@ -166,7 +166,7 @@
     "kanji": {
       "character": "汗",
       "meaning": {
-        "english": "sweat"
+        "english": "sweat |(vi) mồ hôi"
       },
       "strokes": {
         "count": 6,
@@ -216,7 +216,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -237,7 +237,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1502",
     "strokeCount": 6,
-    "meaning": "sweat, perspire",
+    "meaning": "sweat, perspire |(vi) mồ hôi, đổ mồ hôi |(hv) Hãn",
     "kunyomi": [
       "あせ"
     ],
@@ -248,44 +248,44 @@
       {
         "example": "汗",
         "reading": "カン",
-        "meaning": "khan (medieval ruler of a Tatary tribe)"
+        "meaning": "khan (medieval ruler of a Tatary tribe) |(vi) khan (danh hiệu thủ lĩnh các bộ tộc Tatar thời trung cổ)"
       },
       {
         "example": "汗顔",
         "reading": "カンガン",
-        "meaning": "ashamed"
+        "meaning": "ashamed |(vi) xấu hổ, hổ thẹn (đến toát mồ hôi)"
       },
       {
         "example": "成吉思汗",
         "reading": "ジンギスカン",
-        "meaning": "jingisukan, grilled mutton and vegetable dish, slotted dome cast iron grill (used for jingisukan)"
+        "meaning": "jingisukan, grilled mutton and vegetable dish, slotted dome cast iron grill (used for jingisukan) |(vi) món jingisukan (thịt cừu nướng với rau), vỉ nướng jingisukan"
       },
       {
         "example": "大汗",
         "reading": "タイカン",
-        "meaning": "Great Khan, Grand Khan"
+        "meaning": "Great Khan, Grand Khan |(vi) Đại Hãn (danh hiệu vua Mông Cổ)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "汗",
         "reading": "あせ",
-        "meaning": "sweat, perspiration, moisture, condensation, gulp, oops"
+        "meaning": "sweat, perspiration, moisture, condensation, gulp, oops |(vi) mồ hôi, hơi ẩm, ngưng tụ, (thán từ biểu lộ ngượng ngùng/lo lắng)"
       },
       {
         "example": "汗だく",
         "reading": "あせだく",
-        "meaning": "dripping with sweat, bathed in perspiration"
+        "meaning": "dripping with sweat, bathed in perspiration |(vi) đẫm mồ hôi, ướt đẫm mồ hôi"
       },
       {
         "example": "滝汗",
         "reading": "たきあせ",
-        "meaning": "profuse sweating"
+        "meaning": "profuse sweating |(vi) đổ mồ hôi như tắm"
       },
       {
         "example": "手汗",
         "reading": "てあせ",
-        "meaning": "palm sweat"
+        "meaning": "palm sweat |(vi) mồ hôi tay"
       }
     ],
     "radical": {
@@ -294,7 +294,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "干",

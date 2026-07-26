@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "waza",
-    "meaning": "skill, technique",
+    "meaning": "skill, technique |(vi) kỹ năng, kỹ thuật",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "技術（ぎじゅつ）",
         "meaning": {
-          "english": "technique"
+          "english": "technique |(vi) kỹ thuật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gi-waza_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "技能（ぎのう）",
         "meaning": {
-          "english": "technical skill"
+          "english": "technical skill |(vi) kỹ năng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gi-waza_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "技巧（ぎこう）",
         "meaning": {
-          "english": "skill, technique, craftsmanship"
+          "english": "skill, technique, craftsmanship |(vi) kỹ xảo, tay nghề"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gi-waza_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "特技（とくぎ）",
         "meaning": {
-          "english": "special skill"
+          "english": "special skill |(vi) sở trường, kỹ năng đặc biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gi-waza_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "競技（きょうぎ）",
         "meaning": {
-          "english": "game, match"
+          "english": "game, match |(vi) cuộc thi đấu, môn thi đấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gi-waza_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "演技する（えんぎする）",
         "meaning": {
-          "english": "act, perform"
+          "english": "act, perform |(vi) diễn xuất, biểu diễn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gi-waza_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "技（わざ）",
         "meaning": {
-          "english": "art, technique"
+          "english": "art, technique |(vi) kỹ năng, kỹ thuật, chiêu thức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gi-waza_06_g.opus",
@@ -202,7 +202,7 @@
     "kanji": {
       "character": "技",
       "meaning": {
-        "english": "skill, technique"
+        "english": "skill, technique |(vi) kỹ năng, kỹ thuật"
       },
       "strokes": {
         "count": 7,
@@ -254,7 +254,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -275,7 +275,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "434",
     "strokeCount": 7,
-    "meaning": "skill, art, craft, ability, feat, performance, vocation, arts",
+    "meaning": "skill, art, craft, ability, feat, performance, vocation, arts |(vi) kỹ năng, nghệ thuật, thủ công, khả năng, kỳ tích, biểu diễn, nghề nghiệp, nghệ thuật |(hv) Kỹ",
     "kunyomi": [
       "わざ"
     ],
@@ -286,44 +286,44 @@
       {
         "example": "技",
         "reading": "ワザ",
-        "meaning": "technique, art, skill, move"
+        "meaning": "technique, art, skill, move |(vi) kỹ thuật, nghệ thuật, kỹ năng, chiêu thức"
       },
       {
         "example": "技巧",
         "reading": "ギコウ",
-        "meaning": "technique, finesse"
+        "meaning": "technique, finesse |(vi) kỹ xảo, sự tinh tế"
       },
       {
         "example": "国技",
         "reading": "コクギ",
-        "meaning": "national sport"
+        "meaning": "national sport |(vi) quốc kỹ, môn thể thao quốc gia"
       },
       {
         "example": "陸上競技",
         "reading": "リクジョウキョウギ",
-        "meaning": "track and field, athletics"
+        "meaning": "track and field, athletics |(vi) điền kinh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "技",
         "reading": "わざ",
-        "meaning": "technique, art, skill, move"
+        "meaning": "technique, art, skill, move |(vi) kỹ thuật, nghệ thuật, kỹ năng, chiêu thức"
       },
       {
         "example": "技あり",
         "reading": "わざあり",
-        "meaning": "waza-ari (in judo, a half-point awarded for good but incomplete execution)"
+        "meaning": "waza-ari (in judo, a half-point awarded for good but incomplete execution) |(vi) waza-ari (nửa điểm trong judo khi thực hiện đòn tốt nhưng chưa hoàn chỉnh)"
       },
       {
         "example": "寝技",
         "reading": "ねわざ",
-        "meaning": "pinning technique (in wrestling or judo), underhanded dealings"
+        "meaning": "pinning technique (in wrestling or judo), underhanded dealings |(vi) đòn khống chế (đấu vật hoặc judo), thủ đoạn ngầm"
       },
       {
         "example": "投げ技",
         "reading": "なげわざ",
-        "meaning": "throw or throwing technique (sumo, judo)"
+        "meaning": "throw or throwing technique (sumo, judo) |(vi) đòn quật ngã (sumo, judo)"
       }
     ],
     "radical": {
@@ -331,7 +331,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "十",

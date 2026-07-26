@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "oyo, oyogu, oyogi",
-    "meaning": "swim",
+    "meaning": "swim |(vi) bơi",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "水泳（すいえい）",
         "meaning": {
-          "english": "swimming"
+          "english": "swimming |(vi) bơi lội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oyo(gu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "競泳（きょうえい）",
         "meaning": {
-          "english": "swimming race"
+          "english": "swimming race |(vi) bơi thi đấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oyo(gu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "遠泳（えんえい）",
         "meaning": {
-          "english": "long-distance swimming"
+          "english": "long-distance swimming |(vi) bơi đường dài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oyo(gu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "泳ぐ（およぐ）",
         "meaning": {
-          "english": "swim"
+          "english": "swim |(vi) bơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oyo(gu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "平泳ぎ（ひらおよぎ）",
         "meaning": {
-          "english": "breaststroke"
+          "english": "breaststroke |(vi) bơi ếch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oyo(gu)_06_e.opus",
@@ -196,7 +196,7 @@
     "kanji": {
       "character": "泳",
       "meaning": {
-        "english": "swim"
+        "english": "swim |(vi) bơi"
       },
       "strokes": {
         "count": 8,
@@ -250,7 +250,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -271,7 +271,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1223",
     "strokeCount": 8,
-    "meaning": "swim",
+    "meaning": "swim |(vi) bơi |(hv) Vịnh",
     "kunyomi": [
       "およ.ぐ"
     ],
@@ -282,29 +282,29 @@
       {
         "example": "泳者",
         "reading": "エイシャ",
-        "meaning": "a swimmer"
+        "meaning": "a swimmer |(vi) người bơi"
       },
       {
         "example": "泳動",
         "reading": "エイドウ",
-        "meaning": "migration, movement, phoresis"
+        "meaning": "migration, movement, phoresis |(vi) sự di chuyển, điện di"
       },
       {
         "example": "遠泳",
         "reading": "エンエイ",
-        "meaning": "long-distance swimming"
+        "meaning": "long-distance swimming |(vi) bơi đường dài"
       },
       {
         "example": "着衣泳",
         "reading": "チャクイエイ",
-        "meaning": "swimming fully-clothed"
+        "meaning": "swimming fully-clothed |(vi) bơi trong khi mặc quần áo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "泳ぐ",
         "reading": "およぐ",
-        "meaning": "to swim, to struggle through (a crowd), to make one's way through the world, to get along (in life), to totter, to lose one's balance"
+        "meaning": "to swim, to struggle through (a crowd), to make one's way through the world, to get along (in life), to totter, to lose one's balance |(vi) bơi, len lỏi qua (đám đông), xoay xở trong đời, chật vật kiếm sống, loạng choạng, mất thăng bằng"
       }
     ],
     "radical": {
@@ -313,7 +313,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "丶",

@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 4,
     "kunyomi": "n/a",
-    "meaning": "practical art, technique",
+    "meaning": "practical art, technique |(vi) kỹ thuật thực hành, kỹ xảo",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "技術（ぎじゅつ）",
         "meaning": {
-          "english": "technology, skill"
+          "english": "technology, skill |(vi) công nghệ, kỹ năng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gei)jutsu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "美術（びじゅつ）",
         "meaning": {
-          "english": "fine arts"
+          "english": "fine arts |(vi) mỹ thuật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gei)jutsu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "芸術（げいじゅつ）",
         "meaning": {
-          "english": "fine arts"
+          "english": "fine arts |(vi) nghệ thuật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gei)jutsu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "手術（しゅじゅつ）",
         "meaning": {
-          "english": "surgical operation"
+          "english": "surgical operation |(vi) phẫu thuật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gei)jutsu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "魔術（まじゅつ）",
         "meaning": {
-          "english": "sorcery"
+          "english": "sorcery |(vi) ma thuật, phép thuật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gei)jutsu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "術語（じゅつご）",
         "meaning": {
-          "english": "technical term"
+          "english": "technical term |(vi) thuật ngữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gei)jutsu_06_f.opus",
@@ -218,7 +218,7 @@
     "kanji": {
       "character": "術",
       "meaning": {
-        "english": "practical art, technique"
+        "english": "practical art, technique |(vi) kỹ thuật thực hành, kỹ xảo"
       },
       "strokes": {
         "count": 11,
@@ -278,7 +278,7 @@
         "romaji": "gyougamae"
       },
       "meaning": {
-        "english": "to go"
+        "english": "to go |(vi) Hành (đi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyougamae0.svg",
@@ -299,7 +299,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "350",
     "strokeCount": 11,
-    "meaning": "art, technique, skill, means, trick, resources, magic",
+    "meaning": "art, technique, skill, means, trick, resources, magic |(vi) nghệ thuật, kỹ thuật, kỹ năng, phương tiện, mưu kế, nguồn lực, phép thuật |(hv) Thuật",
     "kunyomi": [
       "すべ"
     ],
@@ -310,49 +310,49 @@
       {
         "example": "術",
         "reading": "ジュツ",
-        "meaning": "art, technique, skill, means, way, stratagem, artifice, trick, trap, magic, sorcery"
+        "meaning": "art, technique, skill, means, way, stratagem, artifice, trick, trap, magic, sorcery |(vi) nghệ thuật, kỹ thuật, kỹ năng, phương tiện, cách thức, mưu kế, thủ đoạn, cạm bẫy, phép thuật, ma thuật"
       },
       {
         "example": "術後",
         "reading": "ジュツゴ",
-        "meaning": "postoperative, after surgery"
+        "meaning": "postoperative, after surgery |(vi) hậu phẫu, sau phẫu thuật"
       },
       {
         "example": "奇術",
         "reading": "キジュツ",
-        "meaning": "magic, conjuring, sleight of hand, legerdemain"
+        "meaning": "magic, conjuring, sleight of hand, legerdemain |(vi) ảo thuật, trò ảo thuật tay"
       },
       {
         "example": "占星術",
         "reading": "センセイジュツ",
-        "meaning": "astrology"
+        "meaning": "astrology |(vi) chiêm tinh thuật"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "術",
         "reading": "すべ",
-        "meaning": "way, method, means"
+        "meaning": "way, method, means |(vi) cách thức, phương pháp, phương tiện"
       },
       {
         "example": "術無し",
         "reading": "すべなし",
-        "meaning": "having no choice, at a loss for what to do, at one's wits' end"
+        "meaning": "having no choice, at a loss for what to do, at one's wits' end |(vi) không còn cách nào khác, bó tay, hết cách xoay xở"
       },
       {
         "example": "なす術",
         "reading": "なすすべ",
-        "meaning": "means, method, way"
+        "meaning": "means, method, way |(vi) phương tiện, phương pháp, cách thức"
       },
       {
         "example": "為ん術",
         "reading": "せんすべ",
-        "meaning": "(proper) methods"
+        "meaning": "(proper) methods |(vi) (các) phương pháp đúng đắn"
       }
     ],
     "radical": {
       "symbol": "行",
-      "meaning": "go, do"
+      "meaning": "go, do |(vi) Hành (đi, làm)"
     },
     "parts": [
       "丶",

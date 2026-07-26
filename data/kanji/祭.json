@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 5,
     "kunyomi": "matsuru, matsuri",
-    "meaning": "festival",
+    "meaning": "festival |(vi) lễ hội",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "祭日（さいじつ）",
         "meaning": {
-          "english": "national holiday, festival day"
+          "english": "national holiday, festival day |(vi) ngày lễ, ngày quốc lễ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsuri_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "文化祭（ぶんかさい）",
         "meaning": {
-          "english": "Culture Festival"
+          "english": "Culture Festival |(vi) lễ hội văn hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsuri_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "芸術祭（げいじゅつさい）",
         "meaning": {
-          "english": "art festival"
+          "english": "art festival |(vi) lễ hội nghệ thuật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsuri_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "前夜祭（ぜんやさい）",
         "meaning": {
-          "english": "the eve of a festival"
+          "english": "the eve of a festival |(vi) đêm trước lễ hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsuri_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "祭る（まつる）",
         "meaning": {
-          "english": "deify, enshrine"
+          "english": "deify, enshrine |(vi) thờ cúng, tôn thờ, thờ phụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsuri_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "祭り（まつり）",
         "meaning": {
-          "english": "festival"
+          "english": "festival |(vi) lễ hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsuri_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "雛祭（ひなまつり）",
         "meaning": {
-          "english": "Girls' (dolls') Festival"
+          "english": "Girls' (dolls') Festival |(vi) lễ hội búp bê (Hina Matsuri)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsuri_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "夏祭（なつまつり）",
         "meaning": {
-          "english": "summer festival"
+          "english": "summer festival |(vi) lễ hội mùa hè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsuri_06_h.opus",
@@ -215,7 +215,7 @@
     "kanji": {
       "character": "祭",
       "meaning": {
-        "english": "festival"
+        "english": "festival |(vi) lễ hội"
       },
       "strokes": {
         "count": 11,
@@ -275,7 +275,7 @@
         "romaji": "shimesu"
       },
       "meaning": {
-        "english": "altar, festival, religious service"
+        "english": "altar, festival, religious service |(vi) Kỳ (bàn thờ, tế lễ, thần linh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shimesu0.svg",
@@ -296,7 +296,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1124",
     "strokeCount": 11,
-    "meaning": "ritual, offer prayers, celebrate, deify, enshrine, worship",
+    "meaning": "ritual, offer prayers, celebrate, deify, enshrine, worship |(vi) tế lễ, cầu nguyện, cử hành, thờ phụng, tôn thờ |(hv) Tế",
     "kunyomi": [
       "まつ.る",
       "まつ.り",
@@ -309,69 +309,69 @@
       {
         "example": "祭典",
         "reading": "サイテン",
-        "meaning": "festival"
+        "meaning": "festival |(vi) lễ hội, đại lễ"
       },
       {
         "example": "祭壇",
         "reading": "サイダン",
-        "meaning": "altar"
+        "meaning": "altar |(vi) bàn thờ"
       },
       {
         "example": "葬祭",
         "reading": "ソウサイ",
-        "meaning": "funerals and ceremonial occasions"
+        "meaning": "funerals and ceremonial occasions |(vi) tang lễ và các nghi lễ"
       },
       {
         "example": "慰霊祭",
         "reading": "イレイサイ",
-        "meaning": "memorial service"
+        "meaning": "memorial service |(vi) lễ tưởng niệm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "祭る",
         "reading": "まつる",
-        "meaning": "to deify, to enshrine, to pray, to worship"
+        "meaning": "to deify, to enshrine, to pray, to worship |(vi) thờ cúng, tôn thờ, cầu nguyện, thờ phụng"
       },
       {
         "example": "祭り",
         "reading": "まつり",
-        "meaning": "festival, feast, matsuri, harassment by an Internet pitchfork mob, online shaming, flaming, galore (as in \"goals galore\"), frenzy, mania"
+        "meaning": "festival, feast, matsuri, harassment by an Internet pitchfork mob, online shaming, flaming, galore (as in \"goals galore\"), frenzy, mania |(vi) lễ hội, hội hè, matsuri, bị cộng đồng mạng công kích tập thể, làm nhục trên mạng, tràn ngập, cơn sốt, cuồng nhiệt"
       },
       {
         "example": "祭り上げる",
         "reading": "まつりあげる",
-        "meaning": "to set (someone) up (in a high position), to kick upstairs, to hold sacred, to worship, to flatter"
+        "meaning": "to set (someone) up (in a high position), to kick upstairs, to hold sacred, to worship, to flatter |(vi) đưa lên vị trí cao một cách hình thức, tôn lên làm biểu tượng, tôn sùng, nịnh bợ"
       },
       {
         "example": "秋祭り",
         "reading": "あきまつり",
-        "meaning": "autumn festival, fall festival, autumn matsuri"
+        "meaning": "autumn festival, fall festival, autumn matsuri |(vi) lễ hội mùa thu"
       },
       {
         "example": "葵祭",
         "reading": "あおいまつり",
-        "meaning": "Aoi Festival (Kyoto, May 15), Aoi Matsuri"
+        "meaning": "Aoi Festival (Kyoto, May 15), Aoi Matsuri |(vi) lễ hội Aoi (Kyoto, 15 tháng 5)"
       },
       {
         "example": "祭り",
         "reading": "まつり",
-        "meaning": "festival, feast, matsuri, harassment by an Internet pitchfork mob, online shaming, flaming, galore (as in \"goals galore\"), frenzy, mania"
+        "meaning": "festival, feast, matsuri, harassment by an Internet pitchfork mob, online shaming, flaming, galore (as in \"goals galore\"), frenzy, mania |(vi) lễ hội, hội hè, matsuri, bị cộng đồng mạng công kích tập thể, làm nhục trên mạng, tràn ngập, cơn sốt, cuồng nhiệt"
       },
       {
         "example": "祭り上げる",
         "reading": "まつりあげる",
-        "meaning": "to set (someone) up (in a high position), to kick upstairs, to hold sacred, to worship, to flatter"
+        "meaning": "to set (someone) up (in a high position), to kick upstairs, to hold sacred, to worship, to flatter |(vi) đưa lên vị trí cao một cách hình thức, tôn lên làm biểu tượng, tôn sùng, nịnh bợ"
       },
       {
         "example": "秋祭り",
         "reading": "あきまつり",
-        "meaning": "autumn festival, fall festival, autumn matsuri"
+        "meaning": "autumn festival, fall festival, autumn matsuri |(vi) lễ hội mùa thu"
       },
       {
         "example": "葵祭",
         "reading": "あおいまつり",
-        "meaning": "Aoi Festival (Kyoto, May 15), Aoi Matsuri"
+        "meaning": "Aoi Festival (Kyoto, May 15), Aoi Matsuri |(vi) lễ hội Aoi (Kyoto, 15 tháng 5)"
       }
     ],
     "radical": {
@@ -379,7 +379,7 @@
       "forms": [
         "礻"
       ],
-      "meaning": "sign"
+      "meaning": "sign |(vi) Kỳ (bàn thờ, tế lễ, thần linh)"
     },
     "parts": [
       "个",

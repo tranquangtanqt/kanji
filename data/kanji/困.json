@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "koma, komaru",
-    "meaning": "be in trouble",
+    "meaning": "be in trouble |(vi) khốn đốn, gặp khó khăn",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "困惑する（こんわくする）",
         "meaning": {
-          "english": "be bewildered"
+          "english": "be bewildered |(vi) bối rối, lúng túng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koma(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "困難（こんなん）",
         "meaning": {
-          "english": "difficulty"
+          "english": "difficulty |(vi) khó khăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koma(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "貧困（ひんこん）",
         "meaning": {
-          "english": "poverty"
+          "english": "poverty |(vi) nghèo khó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koma(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "困る（こまる）",
         "meaning": {
-          "english": "have trouble"
+          "english": "have trouble |(vi) gặp rắc rối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koma(ru)_06_d.opus",
@@ -210,7 +210,7 @@
     "kanji": {
       "character": "困",
       "meaning": {
-        "english": "be in trouble"
+        "english": "be in trouble |(vi) khốn đốn, gặp khó khăn"
       },
       "strokes": {
         "count": 7,
@@ -262,7 +262,7 @@
         "romaji": "kunigamae"
       },
       "meaning": {
-        "english": "border, territorial boundaries"
+        "english": "border, territorial boundaries |(vi) Vi (đường biên, ranh giới)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kunigamae0.svg",
@@ -283,7 +283,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "843",
     "strokeCount": 7,
-    "meaning": "quandary, become distressed, annoyed",
+    "meaning": "quandary, become distressed, annoyed |(vi) tình cảnh khó xử, trở nên khổ sở, bực bội |(hv) Khốn",
     "kunyomi": [
       "こま.る"
     ],
@@ -294,34 +294,34 @@
       {
         "example": "困惑",
         "reading": "コンワク",
-        "meaning": "bewilderment, perplexity, embarrassment, discomfiture, bafflement"
+        "meaning": "bewilderment, perplexity, embarrassment, discomfiture, bafflement |(vi) bối rối, hoang mang, ngượng ngùng, lúng túng, sững sờ"
       },
       {
         "example": "困難",
         "reading": "コンナン",
-        "meaning": "difficulty, hardship, trouble, distress, infeasibility, inability (to carry out)"
+        "meaning": "difficulty, hardship, trouble, distress, infeasibility, inability (to carry out) |(vi) khó khăn, gian nan, rắc rối, khổ sở, bất khả thi, không thể thực hiện"
       },
       {
         "example": "絶対貧困",
         "reading": "ゼッタイヒンコン",
-        "meaning": "absolute poverty"
+        "meaning": "absolute poverty |(vi) nghèo đói tuyệt đối, cùng cực"
       },
       {
         "example": "絶対的貧困",
         "reading": "ゼッタイテキヒンコン",
-        "meaning": "absolute poverty"
+        "meaning": "absolute poverty |(vi) nghèo đói tuyệt đối, cùng cực"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "困る",
         "reading": "こまる",
-        "meaning": "to be troubled, to have difficulty, to be in a fix, to be at a loss, to be stumped, to be embarrassed, to be bothered, to be inconvenienced, to be annoyed, to be badly off, to be hard up, to be in straitened circumstances"
+        "meaning": "to be troubled, to have difficulty, to be in a fix, to be at a loss, to be stumped, to be embarrassed, to be bothered, to be inconvenienced, to be annoyed, to be badly off, to be hard up, to be in straitened circumstances |(vi) gặp khó khăn, lúng túng, bí bách, bối rối, ngượng ngùng, phiền toái, bực mình, túng thiếu, hoàn cảnh chật vật"
       }
     ],
     "radical": {
       "symbol": "囗",
-      "meaning": "enclosure"
+      "meaning": "enclosure |(vi) Vi (vây, bao vây)"
     },
     "parts": [
       "囗",

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "u, umu, umareru, ubu",
-    "meaning": "give birth, produce",
+    "meaning": "give birth, produce |(vi) sinh ra, sản xuất",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "産業（さんぎょう）",
         "meaning": {
-          "english": "industry"
+          "english": "industry |(vi) công nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "産地（さんち）",
         "meaning": {
-          "english": "area"
+          "english": "area |(vi) vùng sản xuất, nơi xuất xứ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "名産（めいさん）",
         "meaning": {
-          "english": "local specialty"
+          "english": "local specialty |(vi) đặc sản địa phương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "財産（ざいさん）",
         "meaning": {
-          "english": "assets"
+          "english": "assets |(vi) tài sản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "不動産（ふどうさん）",
         "meaning": {
-          "english": "real estate"
+          "english": "real estate |(vi) bất động sản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "共産主義（きょうさんしゅぎ）",
         "meaning": {
-          "english": "communism"
+          "english": "communism |(vi) chủ nghĩa cộng sản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "産出する（さんしゅつする）",
         "meaning": {
-          "english": "yield [v.t.]"
+          "english": "yield [v.t.] |(vi) sản xuất ra, cho ra sản lượng (ngoại động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "倒産する（とうさんする）",
         "meaning": {
-          "english": "go bankrupt (company)"
+          "english": "go bankrupt (company) |(vi) phá sản (công ty)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "破産する（はさんする）",
         "meaning": {
-          "english": "go bankrupt"
+          "english": "go bankrupt |(vi) phá sản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "出産する（しゅっさんする）",
         "meaning": {
-          "english": "give birth to"
+          "english": "give birth to |(vi) sinh con"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "産む（うむ）",
         "meaning": {
-          "english": "give birth to"
+          "english": "give birth to |(vi) sinh con"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "産声（うぶごえ）",
         "meaning": {
-          "english": "baby's first cry"
+          "english": "baby's first cry |(vi) tiếng khóc chào đời của trẻ sơ sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_l.opus",
@@ -273,7 +273,7 @@
     "kanji": {
       "character": "産",
       "meaning": {
-        "english": "give birth, produce"
+        "english": "give birth, produce |(vi) sinh ra, sản xuất"
       },
       "strokes": {
         "count": 11,
@@ -333,7 +333,7 @@
         "romaji": "umareru"
       },
       "meaning": {
-        "english": "birth, to be born, live"
+        "english": "birth, to be born, live |(vi) Sinh (sự sinh ra, sống)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/umareru0.svg",
@@ -354,7 +354,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "161",
     "strokeCount": 11,
-    "meaning": "products, bear, give birth, yield, childbirth, native, property",
+    "meaning": "products, bear, give birth, yield, childbirth, native, property |(vi) sản phẩm, sinh, sinh ra, sản xuất, sinh nở, bản xứ, tài sản |(hv) Sản",
     "kunyomi": [
       "う.む",
       "う.まれる",
@@ -368,49 +368,49 @@
       {
         "example": "産",
         "reading": "サン",
-        "meaning": "(giving) birth, childbirth, delivery, native (of), product of, produced in, -grown, -bred, assets, property, fortune"
+        "meaning": "(giving) birth, childbirth, delivery, native (of), product of, produced in, -grown, -bred, assets, property, fortune |(vi) sự sinh nở, sinh con, sự lâm bồn, xuất xứ (từ), sản phẩm của, sản xuất tại, được trồng/nuôi tại, tài sản, của cải, gia sản"
       },
       {
         "example": "産科",
         "reading": "サンカ",
-        "meaning": "obstetrics, obstetrical department, maternity division"
+        "meaning": "obstetrics, obstetrical department, maternity division |(vi) sản khoa, khoa sản, khoa hộ sinh"
       },
       {
         "example": "増産",
         "reading": "ゾウサン",
-        "meaning": "increase in production, production increase"
+        "meaning": "increase in production, production increase |(vi) sự tăng sản lượng, tăng cường sản xuất"
       },
       {
         "example": "水産",
         "reading": "スイサン",
-        "meaning": "aquatic products, fisheries"
+        "meaning": "aquatic products, fisheries |(vi) thủy sản, ngư nghiệp"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "生む",
         "reading": "うむ",
-        "meaning": "to give birth, to bear (child), to lay (eggs), to produce, to yield, to give rise to, to deliver"
+        "meaning": "to give birth, to bear (child), to lay (eggs), to produce, to yield, to give rise to, to deliver |(vi) sinh (con), đẻ (con), đẻ (trứng), sản xuất, cho ra, tạo ra, sinh nở"
       },
       {
         "example": "生まれる",
         "reading": "うまれる",
-        "meaning": "to be born"
+        "meaning": "to be born |(vi) được sinh ra"
       },
       {
         "example": "生す",
         "reading": "むす",
-        "meaning": "to grow (of moss, etc.)"
+        "meaning": "to grow (of moss, etc.) |(vi) mọc lên (rêu,...)"
       },
       {
         "example": "産霊",
         "reading": "むすひ",
-        "meaning": "divine spirit of creation"
+        "meaning": "divine spirit of creation |(vi) thần linh sáng tạo"
       }
     ],
     "radical": {
       "symbol": "生",
-      "meaning": "life"
+      "meaning": "life |(vi) Sinh (sự sống, sinh ra)"
     },
     "parts": [
       "ノ",

@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "picture",
+    "meaning": "picture |(vi) bức tranh",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "絵画（かいが）",
         "meaning": {
-          "english": "painting"
+          "english": "painting |(vi) hội họa, tranh vẽ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(ga)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "絵（え）",
         "meaning": {
-          "english": "drawing, painting"
+          "english": "drawing, painting |(vi) tranh, bức vẽ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(ga)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "絵はがき（えはがき）",
         "meaning": {
-          "english": "picture postcard"
+          "english": "picture postcard |(vi) bưu thiếp có tranh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(ga)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "絵描き（えかき）",
         "meaning": {
-          "english": "painter"
+          "english": "painter |(vi) họa sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(ga)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "絵本（えほん）",
         "meaning": {
-          "english": "picture book"
+          "english": "picture book |(vi) sách tranh, truyện tranh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(ga)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "油絵（あぶらえ）",
         "meaning": {
-          "english": "oil painting"
+          "english": "oil painting |(vi) tranh sơn dầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(ga)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "墨絵（すみえ）",
         "meaning": {
-          "english": "ink painting"
+          "english": "ink painting |(vi) tranh mực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(ga)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "浮世絵（うきよえ）",
         "meaning": {
-          "english": "ukiyoe print"
+          "english": "ukiyoe print |(vi) tranh khắc gỗ ukiyo-e"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(ga)_06_h.opus",
@@ -240,7 +240,7 @@
     "kanji": {
       "character": "絵",
       "meaning": {
-        "english": "picture"
+        "english": "picture |(vi) bức tranh"
       },
       "strokes": {
         "count": 12,
@@ -302,7 +302,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi chỉ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -323,7 +323,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "895",
     "strokeCount": 12,
-    "meaning": "picture, drawing, painting, sketch",
+    "meaning": "picture, drawing, painting, sketch |(vi) bức tranh, hình vẽ, tranh vẽ, bản phác thảo |(hv) Hội",
     "kunyomi": [],
     "onyomi": [
       "カイ",
@@ -333,32 +333,32 @@
       {
         "example": "絵画",
         "reading": "カイガ",
-        "meaning": "painting, picture"
+        "meaning": "painting, picture |(vi) hội họa, tranh vẽ"
       },
       {
         "example": "絵画館",
         "reading": "カイガカン",
-        "meaning": "art or picture gallery"
+        "meaning": "art or picture gallery |(vi) phòng tranh, bảo tàng hội họa"
       },
       {
         "example": "絵",
         "reading": "エ",
-        "meaning": "picture, drawing, painting, sketch, image (TV, film, etc.), picture, footage"
+        "meaning": "picture, drawing, painting, sketch, image (TV, film, etc.), picture, footage |(vi) bức tranh, hình vẽ, hình ảnh (TV, phim...), cảnh quay"
       },
       {
         "example": "絵の具",
         "reading": "エノグ",
-        "meaning": "paint, coloring materials, colors, colours"
+        "meaning": "paint, coloring materials, colors, colours |(vi) màu vẽ, chất liệu màu"
       },
       {
         "example": "巴",
         "reading": "トモエ",
-        "meaning": "tomoe, heraldic design composed of two or more interlocked comma-shaped figures"
+        "meaning": "tomoe, heraldic design composed of two or more interlocked comma-shaped figures |(vi) hoa văn tomoe (họa tiết hình dấu phẩy lồng nhau)"
       },
       {
         "example": "踏み絵",
         "reading": "フミエ",
-        "meaning": "fumi-e, fumie, tablet bearing Christian images, on which Edo-period authorities forced suspected Christians to trample, allegiance test, loyalty test"
+        "meaning": "fumi-e, fumie, tablet bearing Christian images, on which Edo-period authorities forced suspected Christians to trample, allegiance test, loyalty test |(vi) tấm ảnh đạp chân (kiểm tra tín ngưỡng Kitô giáo thời Edo)"
       }
     ],
     "kunyomiExamples": [],
@@ -367,7 +367,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi chỉ)"
     },
     "parts": [
       "个",

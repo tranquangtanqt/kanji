@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "kuru, kuruu, kuruoshii, kuruwasu, kuruwaseru",
-    "meaning": "crazy, go mad",
+    "meaning": "crazy, go mad |(vi) điên, phát cuồng, mất trí",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "狂気（きょうき）",
         "meaning": {
-          "english": "madness"
+          "english": "madness |(vi) sự điên cuồng, sự mất trí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuru(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "狂人（きょうじん）",
         "meaning": {
-          "english": "lunatic, madman"
+          "english": "lunatic, madman |(vi) kẻ điên, người mất trí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuru(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "狂言（きょうげん）",
         "meaning": {
-          "english": "Noh farce"
+          "english": "Noh farce |(vi) kịch Kyogen (hài kịch Noh)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuru(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "狂犬病（きょうけんびょう）",
         "meaning": {
-          "english": "rabies, hydrophobia"
+          "english": "rabies, hydrophobia |(vi) bệnh dại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuru(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "発狂する（はっきょうする）",
         "meaning": {
-          "english": "go mad, lose one's mind"
+          "english": "go mad, lose one's mind |(vi) phát điên, mất trí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuru(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "狂う（くるう）",
         "meaning": {
-          "english": "go mad, get out of order [v.i.]"
+          "english": "go mad, get out of order [v.i.] |(vi) phát điên, trục trặc, sai lệch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuru(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "狂わす（くるわす）",
         "meaning": {
-          "english": "drive mad, disrupt [v.t.]"
+          "english": "drive mad, disrupt [v.t.] |(vi) làm phát điên, làm rối loạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuru(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "狂おしい（くるおしい）",
         "meaning": {
-          "english": "mad, crazy, distraught [adj.]"
+          "english": "mad, crazy, distraught [adj.] |(vi) điên cuồng, mất trí, quẫn trí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuru(u)_06_h.opus",
@@ -206,7 +206,7 @@
     "kanji": {
       "character": "狂",
       "meaning": {
-        "english": "crazy, go mad"
+        "english": "crazy, go mad |(vi) điên, phát cuồng, mất trí"
       },
       "strokes": {
         "count": 7,
@@ -258,7 +258,7 @@
         "romaji": "kemonohen"
       },
       "meaning": {
-        "english": "beast"
+        "english": "beast |(vi) Khuyển (chó, thú)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kemonohen0.svg",
@@ -279,7 +279,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1425",
     "strokeCount": 7,
-    "meaning": "lunatic, insane, crazy, confuse",
+    "meaning": "lunatic, insane, crazy, confuse |(vi) điên, mất trí, cuồng, rối loạn |(hv) Cuồng",
     "kunyomi": [
       "くる.う",
       "くる.おしい",
@@ -292,39 +292,39 @@
       {
         "example": "狂",
         "reading": "キョウ",
-        "meaning": "(some type of) enthusiast, someone possessed of a (certain kind of) mental abnormality"
+        "meaning": "(some type of) enthusiast, someone possessed of a (certain kind of) mental abnormality |(vi) người cuồng nhiệt (với một thứ gì đó), người có biểu hiện bất thường về tâm thần"
       },
       {
         "example": "狂気",
         "reading": "キョウキ",
-        "meaning": "madness, insanity"
+        "meaning": "madness, insanity |(vi) sự điên cuồng, sự mất trí"
       },
       {
         "example": "酔狂",
         "reading": "スイキョウ",
-        "meaning": "whim, caprice, vagary, eccentricity"
+        "meaning": "whim, caprice, vagary, eccentricity |(vi) sự bốc đồng, tính khí thất thường, sự kỳ quặc"
       },
       {
         "example": "躁狂",
         "reading": "ソウキョウ",
-        "meaning": "frenzy, delirium, wild excitement, mania"
+        "meaning": "frenzy, delirium, wild excitement, mania |(vi) cơn cuồng loạn, mê sảng, phấn khích cực độ, hưng cảm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "狂う",
         "reading": "くるう",
-        "meaning": "to go mad, to lose one's mind, to go crazy, to go insane, to get out of order, to go amiss, to malfunction, to become imprecise, to go wrong (of a plan or expectation, etc.), to fall through, to get mixed up, to go crazy (over someone or something), to get enthusiastic, to go wild"
+        "meaning": "to go mad, to lose one's mind, to go crazy, to go insane, to get out of order, to go amiss, to malfunction, to become imprecise, to go wrong (of a plan or expectation, etc.), to fall through, to get mixed up, to go crazy (over someone or something), to get enthusiastic, to go wild |(vi) phát điên, mất trí, phát cuồng, trở nên điên loạn, trục trặc, sai lệch, không chính xác, đi sai hướng (kế hoạch, dự tính...), thất bại, lẫn lộn, mê mẩn (vì ai đó hoặc điều gì đó), trở nên cuồng nhiệt, trở nên cuồng loạn"
       },
       {
         "example": "狂おしい",
         "reading": "くるおしい",
-        "meaning": "mad (with grief, love, etc.), crazy, out of one's mind, on the verge of insanity"
+        "meaning": "mad (with grief, love, etc.), crazy, out of one's mind, on the verge of insanity |(vi) điên cuồng (vì đau buồn, tình yêu...), mất trí, cận kề sự điên loạn"
       },
       {
         "example": "狂おしい",
         "reading": "くるおしい",
-        "meaning": "mad (with grief, love, etc.), crazy, out of one's mind, on the verge of insanity"
+        "meaning": "mad (with grief, love, etc.), crazy, out of one's mind, on the verge of insanity |(vi) điên cuồng (vì đau buồn, tình yêu...), mất trí, cận kề sự điên loạn"
       }
     ],
     "radical": {
@@ -332,7 +332,7 @@
       "forms": [
         "犭"
       ],
-      "meaning": "dog"
+      "meaning": "dog |(vi) Khuyển (chó)"
     },
     "parts": [
       "犯",

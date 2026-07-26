@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 4,
     "kunyomi": "hibi, hibiku, hibiki, hibikasu",
-    "meaning": "reverberate, echo, resound, affect",
+    "meaning": "reverberate, echo, resound, affect |(vi) vang vọng, âm vang, vọng lại, ảnh hưởng",
     "kstroke": 20,
     "examples": [
       {
         "japanese": "影響する（えいきょうする）",
         "meaning": {
-          "english": "influence [v.t.]"
+          "english": "influence [v.t.] |(vi) ảnh hưởng (đến)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hibi(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "反響する（はんきょうする）",
         "meaning": {
-          "english": "echo [v.i.]"
+          "english": "echo [v.i.] |(vi) vang dội, gây tiếng vang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hibi(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "音響（おんきょう）",
         "meaning": {
-          "english": "acoustic(s)"
+          "english": "acoustic(s) |(vi) âm hưởng, âm thanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hibi(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "交響曲（こうきょうきょく）",
         "meaning": {
-          "english": "symphony"
+          "english": "symphony |(vi) bản giao hưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hibi(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "響く（ひびく）",
         "meaning": {
-          "english": "resound [v.i.]"
+          "english": "resound [v.i.] |(vi) vang lên, vang dội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hibi(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "響かす（ひびかす）",
         "meaning": {
-          "english": "make resound [v.t.]"
+          "english": "make resound [v.t.] |(vi) làm vang lên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hibi(ku)_06_f.opus",
@@ -192,7 +192,7 @@
     "kanji": {
       "character": "響",
       "meaning": {
-        "english": "reverberate, echo, resound, affect"
+        "english": "reverberate, echo, resound, affect |(vi) vang vọng, âm vang, vọng lại, ảnh hưởng"
       },
       "strokes": {
         "count": 20,
@@ -270,7 +270,7 @@
         "romaji": "oto"
       },
       "meaning": {
-        "english": "sound, noise"
+        "english": "sound, noise |(vi) Âm (âm thanh, tiếng động)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/oto0.svg",
@@ -291,7 +291,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "502",
     "strokeCount": 20,
-    "meaning": "echo, sound, resound, ring, vibrate",
+    "meaning": "echo, sound, resound, ring, vibrate |(vi) tiếng vang, âm thanh, vang dội, ngân vang, rung động |(hv) Hưởng",
     "kunyomi": [
       "ひび.く"
     ],
@@ -302,34 +302,34 @@
       {
         "example": "響岩",
         "reading": "キョウガン",
-        "meaning": "phonolite, clinkstone"
+        "meaning": "phonolite, clinkstone |(vi) đá phonolit, đá kêu"
       },
       {
         "example": "響笛",
         "reading": "キョウテキ",
-        "meaning": "vibrating pipe"
+        "meaning": "vibrating pipe |(vi) ống sáo rung âm"
       },
       {
         "example": "交響",
         "reading": "コウキョウ",
-        "meaning": "reverberation"
+        "meaning": "reverberation |(vi) sự cộng hưởng, âm vang"
       },
       {
         "example": "好影響",
         "reading": "コウエイキョウ",
-        "meaning": "favorable influence, favourable influence"
+        "meaning": "favorable influence, favourable influence |(vi) ảnh hưởng tốt, tác động tích cực"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "響く",
         "reading": "ひびく",
-        "meaning": "to resound, to be heard far away, to reverberate, to shake, to vibrate, to come (home), to remain (with someone), to have an effect, to make an impression"
+        "meaning": "to resound, to be heard far away, to reverberate, to shake, to vibrate, to come (home), to remain (with someone), to have an effect, to make an impression |(vi) vang lên, vang xa, ngân vang, rung động, lan tới (nhà), đọng lại (nơi ai đó), gây tác động, tạo ấn tượng"
       }
     ],
     "radical": {
       "symbol": "音",
-      "meaning": "sound"
+      "meaning": "sound |(vi) Âm (âm thanh)"
     },
     "parts": [
       "幺",

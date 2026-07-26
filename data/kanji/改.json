@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "arata, aratameru, aratamaru",
-    "meaning": "reform",
+    "meaning": "reform |(vi) cải cách",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "改革する（かいかくする）",
         "meaning": {
-          "english": "reform"
+          "english": "reform |(vi) cải cách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "改良する（かいりょうする）",
         "meaning": {
-          "english": "improve"
+          "english": "improve |(vi) cải thiện, cải tiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "改正する（かいせいする）",
         "meaning": {
-          "english": "revise (e.g. law)"
+          "english": "revise (e.g. law) |(vi) sửa đổi (vd. luật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "改築する（かいちくする）",
         "meaning": {
-          "english": "rebuild, reconstruct"
+          "english": "rebuild, reconstruct |(vi) xây lại, cải tạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "改善する（かいぜんする）",
         "meaning": {
-          "english": "improve"
+          "english": "improve |(vi) cải thiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "改行する（かいぎょうする）",
         "meaning": {
-          "english": "start a new line or paragraph"
+          "english": "start a new line or paragraph |(vi) xuống dòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "改札口（かいさつぐち）",
         "meaning": {
-          "english": "ticket gate"
+          "english": "ticket gate |(vi) cổng soát vé"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "改める（あらためる）",
         "meaning": {
-          "english": "revise, change [v.t.]"
+          "english": "revise, change [v.t.] |(vi) sửa đổi, thay đổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "改まる（あらたまる）",
         "meaning": {
-          "english": "become formal, be renewed [v.i.]"
+          "english": "become formal, be renewed [v.i.] |(vi) trở nên trang trọng, được đổi mới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_i.opus",
@@ -222,7 +222,7 @@
     "kanji": {
       "character": "改",
       "meaning": {
-        "english": "reform"
+        "english": "reform |(vi) cải cách"
       },
       "strokes": {
         "count": 7,
@@ -274,7 +274,7 @@
         "romaji": "bokuzukuri"
       },
       "meaning": {
-        "english": "activity, to strike, hit"
+        "english": "activity, to strike, hit |(vi) Phộc (đánh nhẹ, gõ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/bokuzukuri0.svg",
@@ -295,7 +295,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "147",
     "strokeCount": 7,
-    "meaning": "reformation, change, modify, mend, renew, examine, inspect, search",
+    "meaning": "reformation, change, modify, mend, renew, examine, inspect, search |(vi) cải cách, thay đổi, sửa đổi, tu sửa, đổi mới, xem xét, kiểm tra, lục soát |(hv) Cải",
     "kunyomi": [
       "あらた.める",
       "あらた.まる"
@@ -307,34 +307,34 @@
       {
         "example": "改",
         "reading": "カイ",
-        "meaning": "revision"
+        "meaning": "revision |(vi) sự sửa đổi"
       },
       {
         "example": "改革",
         "reading": "カイカク",
-        "meaning": "reform, reformation, reorganization"
+        "meaning": "reform, reformation, reorganization |(vi) cải cách, cải tổ"
       },
       {
         "example": "更改",
         "reading": "コウカイ",
-        "meaning": "renewal, extension, revision"
+        "meaning": "renewal, extension, revision |(vi) đổi mới, gia hạn, sửa đổi"
       },
       {
         "example": "契約更改",
         "reading": "ケイヤクコウカイ",
-        "meaning": "contract renewal"
+        "meaning": "contract renewal |(vi) gia hạn hợp đồng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "改める",
         "reading": "あらためる",
-        "meaning": "to change, to alter, to revise, to replace, to reform, to correct, to mend, to improve, to examine, to check, to inspect, to do properly, to do formally"
+        "meaning": "to change, to alter, to revise, to replace, to reform, to correct, to mend, to improve, to examine, to check, to inspect, to do properly, to do formally |(vi) thay đổi, sửa đổi, chỉnh sửa, thay thế, cải cách, sửa chữa, cải thiện, xem xét, kiểm tra, làm đúng cách, làm trang trọng"
       },
       {
         "example": "改まる",
         "reading": "あらたまる",
-        "meaning": "to be renewed, to change, to be improved, to be reformed, to be revised, to be corrected, to stand on ceremony, to be formal, to take a turn for the worse (of an illness), to take a serious turn"
+        "meaning": "to be renewed, to change, to be improved, to be reformed, to be revised, to be corrected, to stand on ceremony, to be formal, to take a turn for the worse (of an illness), to take a serious turn |(vi) được đổi mới, thay đổi, được cải thiện, được cải cách, được sửa đổi, được chỉnh sửa, giữ nghi thức, trang trọng, chuyển biến xấu đi (bệnh tình), trở nên nghiêm trọng"
       }
     ],
     "radical": {
@@ -342,7 +342,7 @@
       "forms": [
         "攵"
       ],
-      "meaning": "rap"
+      "meaning": "rap |(vi) Phộc (đánh nhẹ, gõ)"
     },
     "parts": [
       "乞",

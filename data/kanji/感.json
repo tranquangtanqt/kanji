@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "sense, feel",
+    "meaning": "sense, feel |(vi) cảm giác, cảm thấy",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "感じる（かんじる）",
         "meaning": {
-          "english": "feel, sense"
+          "english": "feel, sense |(vi) cảm thấy, cảm nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekinin)kan_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "感動する（かんどうする）",
         "meaning": {
-          "english": "be deeply moved"
+          "english": "be deeply moved |(vi) cảm động, xúc động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekinin)kan_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "感謝する（かんしゃする）",
         "meaning": {
-          "english": "thank"
+          "english": "thank |(vi) cảm ơn, biết ơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekinin)kan_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "感心する（かんしんする）",
         "meaning": {
-          "english": "be impressed"
+          "english": "be impressed |(vi) cảm phục, khâm phục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekinin)kan_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "共感する（きょうかんする）",
         "meaning": {
-          "english": "sympathize"
+          "english": "sympathize |(vi) đồng cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekinin)kan_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "感覚（かんかく）",
         "meaning": {
-          "english": "sense, sensation"
+          "english": "sense, sensation |(vi) cảm giác, giác quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekinin)kan_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "感情（かんじょう）",
         "meaning": {
-          "english": "feeling, emotion"
+          "english": "feeling, emotion |(vi) cảm xúc, tình cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekinin)kan_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "感想（かんそう）",
         "meaning": {
-          "english": "impression, thought, sentiments"
+          "english": "impression, thought, sentiments |(vi) cảm tưởng, cảm nghĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekinin)kan_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "責任感（せきにんかん）",
         "meaning": {
-          "english": "sense of responsibility"
+          "english": "sense of responsibility |(vi) tinh thần trách nhiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekinin)kan_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "第六感（だいろっかん）",
         "meaning": {
-          "english": "sixth sense"
+          "english": "sixth sense |(vi) giác quan thứ sáu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekinin)kan_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "敏感な（びんかんな）",
         "meaning": {
-          "english": "sensitive"
+          "english": "sensitive |(vi) nhạy cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekinin)kan_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "鈍感な（どんかんな）",
         "meaning": {
-          "english": "thick skinned, insensitive"
+          "english": "thick skinned, insensitive |(vi) chai lì, vô cảm, kém nhạy cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekinin)kan_06_l.opus",
@@ -323,7 +323,7 @@
     "kanji": {
       "character": "感",
       "meaning": {
-        "english": "sense, feel"
+        "english": "sense, feel |(vi) cảm giác, cảm thấy"
       },
       "strokes": {
         "count": 13,
@@ -387,7 +387,7 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (tim, tâm trí, tinh thần)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -408,7 +408,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "233",
     "strokeCount": 13,
-    "meaning": "emotion, feeling, sensation",
+    "meaning": "emotion, feeling, sensation |(vi) cảm xúc, cảm giác |(hv) Cảm",
     "kunyomi": [],
     "onyomi": [
       "カン"
@@ -417,22 +417,22 @@
       {
         "example": "感",
         "reading": "カン",
-        "meaning": "feeling, sensation, emotion, admiration, impression, interjection"
+        "meaning": "feeling, sensation, emotion, admiration, impression, interjection |(vi) cảm giác, cảm xúc, sự khâm phục, ấn tượng, thán từ"
       },
       {
         "example": "感覚",
         "reading": "カンカク",
-        "meaning": "sense, sensation, feeling, intuition"
+        "meaning": "sense, sensation, feeling, intuition |(vi) giác quan, cảm giác, trực giác"
       },
       {
         "example": "期待感",
         "reading": "キタイカン",
-        "meaning": "sense of anticipation, feeling of expectation, feeling of hope"
+        "meaning": "sense of anticipation, feeling of expectation, feeling of hope |(vi) cảm giác mong đợi, kỳ vọng"
       },
       {
         "example": "体感",
         "reading": "タイカン",
-        "meaning": "bodily sensation, sense, experience"
+        "meaning": "bodily sensation, sense, experience |(vi) cảm giác cơ thể, trải nghiệm thực tế"
       }
     ],
     "kunyomiExamples": [],
@@ -442,7 +442,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim)"
     },
     "parts": [
       "ノ",

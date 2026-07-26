@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "wazawa, wazawai",
-    "meaning": "calamity, disaster, misfortune",
+    "meaning": "calamity, disaster, misfortune |(vi) tai họa, thảm họa, bất hạnh",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "災難（さいなん）",
         "meaning": {
-          "english": "mishap, calamity, misfortune"
+          "english": "mishap, calamity, misfortune |(vi) tai nạn, tai ương, bất hạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(nan)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "災害（さいがい）",
         "meaning": {
-          "english": "calamity, disaster"
+          "english": "calamity, disaster |(vi) tai họa, thiên tai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(nan)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "震災（しんさい）",
         "meaning": {
-          "english": "earthquake (disaster)"
+          "english": "earthquake (disaster) |(vi) động đất (thiên tai)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(nan)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "火災（かさい）",
         "meaning": {
-          "english": "fire (disaster)"
+          "english": "fire (disaster) |(vi) hỏa hoạn (thiên tai)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(nan)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "人災（じんさい）",
         "meaning": {
-          "english": "man-made disaster"
+          "english": "man-made disaster |(vi) thảm họa do con người gây ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(nan)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "天災（てんさい）",
         "meaning": {
-          "english": "natural disaster"
+          "english": "natural disaster |(vi) thiên tai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(nan)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "戦災（せんさい）",
         "meaning": {
-          "english": "war damage"
+          "english": "war damage |(vi) thiệt hại do chiến tranh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(nan)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "被災地（ひさいち）",
         "meaning": {
-          "english": "disaster-struck area"
+          "english": "disaster-struck area |(vi) vùng bị thiên tai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(nan)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "災い（わざわい）",
         "meaning": {
-          "english": "calamity, catastrophe, evil"
+          "english": "calamity, catastrophe, evil |(vi) tai họa, thảm họa, điều xấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai(nan)_06_i.opus",
@@ -202,7 +202,7 @@
     "kanji": {
       "character": "災",
       "meaning": {
-        "english": "calamity, disaster, misfortune"
+        "english": "calamity, disaster, misfortune |(vi) tai họa, thảm họa, bất hạnh"
       },
       "strokes": {
         "count": 7,
@@ -254,7 +254,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "fire"
+        "english": "fire |(vi) Hỏa (lửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi-fire0.svg",
@@ -275,7 +275,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "976",
     "strokeCount": 7,
-    "meaning": "disaster, calamity, woe, curse, evil",
+    "meaning": "disaster, calamity, woe, curse, evil |(vi) tai họa, thảm họa, tai ương, tai ách, điều dữ |(hv) Tai",
     "kunyomi": [
       "わざわ.い"
     ],
@@ -286,34 +286,34 @@
       {
         "example": "災害",
         "reading": "サイガイ",
-        "meaning": "calamity, disaster, misfortune"
+        "meaning": "calamity, disaster, misfortune |(vi) tai họa, thiên tai, bất hạnh"
       },
       {
         "example": "災難",
         "reading": "サイナン",
-        "meaning": "calamity, misfortune, disaster"
+        "meaning": "calamity, misfortune, disaster |(vi) tai nạn, bất hạnh, tai ương"
       },
       {
         "example": "労災",
         "reading": "ロウサイ",
-        "meaning": "work-related injury, work-related illness, work-related death, on-the-job accident, workers' compensation insurance"
+        "meaning": "work-related injury, work-related illness, work-related death, on-the-job accident, workers' compensation insurance |(vi) tai nạn lao động, bệnh nghề nghiệp, tử vong do công việc, bảo hiểm tai nạn lao động"
       },
       {
         "example": "防災",
         "reading": "ボウサイ",
-        "meaning": "disaster preparedness, prevention of damage resulting from a natural disaster, protection against disaster"
+        "meaning": "disaster preparedness, prevention of damage resulting from a natural disaster, protection against disaster |(vi) phòng chống thiên tai, phòng ngừa thiệt hại do thiên tai, bảo vệ trước thảm họa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "災い",
         "reading": "わざわい",
-        "meaning": "disaster, calamity, misfortune, trouble, woes"
+        "meaning": "disaster, calamity, misfortune, trouble, woes |(vi) tai họa, thảm họa, bất hạnh, rắc rối, khổ đau"
       },
       {
         "example": "災いする",
         "reading": "わざわいする",
-        "meaning": "to be one's ruin, to do harm, to cause trouble, to have negative consequences, to bring about a bad outcome"
+        "meaning": "to be one's ruin, to do harm, to cause trouble, to have negative consequences, to bring about a bad outcome |(vi) gây họa, gây hại, gây rắc rối, để lại hậu quả xấu, mang lại kết cục xấu"
       }
     ],
     "radical": {
@@ -321,7 +321,7 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": "fire |(vi) Hỏa (lửa)"
     },
     "parts": [
       "巛",

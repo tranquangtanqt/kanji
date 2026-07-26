@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "art, craft",
+    "meaning": "art, craft |(vi) nghệ thuật, kỹ nghệ",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "芸（げい）",
         "meaning": {
-          "english": "art, performance"
+          "english": "art, performance |(vi) nghệ thuật, biểu diễn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gei(jutsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "芸術（げいじゅつ）",
         "meaning": {
-          "english": "fine arts"
+          "english": "fine arts |(vi) mỹ thuật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gei(jutsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "芸術家（げいじゅつか）",
         "meaning": {
-          "english": "artist"
+          "english": "artist |(vi) nghệ sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gei(jutsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "芸能（げいのう）",
         "meaning": {
-          "english": "public entertainment"
+          "english": "public entertainment |(vi) giải trí công cộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gei(jutsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "芸者（げいしゃ）",
         "meaning": {
-          "english": "geisha"
+          "english": "geisha |(vi) geisha"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gei(jutsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "文芸（ぶんげい）",
         "meaning": {
-          "english": "belles-lettres"
+          "english": "belles-lettres |(vi) văn học nghệ thuật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gei(jutsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "手芸（しゅげい）",
         "meaning": {
-          "english": "handicrafts"
+          "english": "handicrafts |(vi) thủ công mỹ nghệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gei(jutsu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "工芸（こうげい）",
         "meaning": {
-          "english": "industrial arts"
+          "english": "industrial arts |(vi) công nghệ thủ công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gei(jutsu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "園芸（えんげい）",
         "meaning": {
-          "english": "gardening"
+          "english": "gardening |(vi) làm vườn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gei(jutsu)_06_i.opus",
@@ -207,7 +207,7 @@
     "kanji": {
       "character": "芸",
       "meaning": {
-        "english": "art, craft"
+        "english": "art, craft |(vi) nghệ thuật, kỹ nghệ"
       },
       "strokes": {
         "count": 7,
@@ -259,7 +259,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -280,7 +280,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "719",
     "strokeCount": 7,
-    "meaning": "technique, art, craft, performance, acting, trick, stunt",
+    "meaning": "technique, art, craft, performance, acting, trick, stunt |(vi) kỹ thuật, nghệ thuật, kỹ nghệ, biểu diễn, diễn xuất, mánh khóe, trò khéo léo |(hv) Nghệ",
     "kunyomi": [
       "う.える",
       "のり",
@@ -294,37 +294,37 @@
       {
         "example": "芸",
         "reading": "ゲイ",
-        "meaning": "art, craft, accomplishment, artistic skill, technique, performance"
+        "meaning": "art, craft, accomplishment, artistic skill, technique, performance |(vi) nghệ thuật, kỹ nghệ, tài năng, kỹ năng nghệ thuật, kỹ thuật, biểu diễn"
       },
       {
         "example": "芸者",
         "reading": "ゲイシャ",
-        "meaning": "geisha, professional female entertainer, usu. at traditional banquets"
+        "meaning": "geisha, professional female entertainer, usu. at traditional banquets |(vi) geisha, nữ nghệ sĩ biểu diễn chuyên nghiệp, thường tại các buổi tiệc truyền thống"
       },
       {
         "example": "民芸",
         "reading": "ミンゲイ",
-        "meaning": "folk craft, folk art"
+        "meaning": "folk craft, folk art |(vi) nghề thủ công dân gian, nghệ thuật dân gian"
       },
       {
         "example": "文芸",
         "reading": "ブンゲイ",
-        "meaning": "literature, the arts, art and literature, liberal arts"
+        "meaning": "literature, the arts, art and literature, liberal arts |(vi) văn học, nghệ thuật, văn học nghệ thuật, khoa học nhân văn"
       },
       {
         "example": "芸香",
         "reading": "ウンコウ",
-        "meaning": "common rue (Ruta graveolens)"
+        "meaning": "common rue (Ruta graveolens) |(vi) cây vân hương (Ruta graveolens)"
       },
       {
         "example": "芸艸堂",
         "reading": "ウンソウドウ",
-        "meaning": "Unsodo"
+        "meaning": "Unsodo |(vi) Unsodo"
       },
       {
         "example": "耕耘",
         "reading": "コウウン",
-        "meaning": "plowing and weeding, farming, cultivation, tillage"
+        "meaning": "plowing and weeding, farming, cultivation, tillage |(vi) cày và làm cỏ, canh tác, trồng trọt"
       }
     ],
     "kunyomiExamples": [],
@@ -333,7 +333,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "二",

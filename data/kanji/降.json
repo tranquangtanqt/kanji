@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 2,
     "kunyomi": "o, fu, oriru, orosu, furu, furi",
-    "meaning": "descend, fall, get off",
+    "meaning": "descend, fall, get off |(vi) hạ xuống, rơi, xuống (xe)",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "降雨量（こううりょう）",
         "meaning": {
-          "english": "amount of rainfall"
+          "english": "amount of rainfall |(vi) lượng mưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-fu(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "以降（いこう）",
         "meaning": {
-          "english": "hereafter, thereafter"
+          "english": "hereafter, thereafter |(vi) từ đó về sau, kể từ đó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-fu(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "乗降客（じょうこうきゃく）",
         "meaning": {
-          "english": "passengers getting on and off"
+          "english": "passengers getting on and off |(vi) hành khách lên xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-fu(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "乗降口（じょうこうぐち）",
         "meaning": {
-          "english": "door for getting on and off"
+          "english": "door for getting on and off |(vi) cửa lên xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-fu(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "降下する（こうかする）",
         "meaning": {
-          "english": "descend"
+          "english": "descend |(vi) hạ xuống, đi xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-fu(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "降参する（こうさんする）",
         "meaning": {
-          "english": "give in"
+          "english": "give in |(vi) đầu hàng, chịu thua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-fu(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "降りる（おりる）",
         "meaning": {
-          "english": "get off [v.i.]"
+          "english": "get off [v.i.] |(vi) xuống (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-fu(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "降ろす（おろす）",
         "meaning": {
-          "english": "drop off [v.t.]"
+          "english": "drop off [v.t.] |(vi) cho xuống, hạ xuống (ngoại động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-fu(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "降る（ふる）",
         "meaning": {
-          "english": "fall (e.g. rain) [v.i.]"
+          "english": "fall (e.g. rain) [v.i.] |(vi) rơi, mưa rơi (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-fu(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "降らす（ふらす）",
         "meaning": {
-          "english": "send (e.g. rain) [v.t.]"
+          "english": "send (e.g. rain) [v.t.] |(vi) làm rơi, làm mưa (ngoại động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-fu(ru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "土砂降り（どしゃぶり）",
         "meaning": {
-          "english": "downpour"
+          "english": "downpour |(vi) mưa như trút nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-fu(ru)_06_k.opus",
@@ -310,7 +310,7 @@
     "kanji": {
       "character": "降",
       "meaning": {
-        "english": "descend, fall, get off"
+        "english": "descend, fall, get off |(vi) hạ xuống, rơi, xuống (xe)"
       },
       "strokes": {
         "count": 10,
@@ -368,7 +368,7 @@
         "romaji": "kozatohen"
       },
       "meaning": {
-        "english": "hill, mound"
+        "english": "hill, mound |(vi) Phụ (gò đất, đồi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kozatohen0.svg",
@@ -389,7 +389,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "596",
     "strokeCount": 10,
-    "meaning": "descend, precipitate, fall, surrender",
+    "meaning": "descend, precipitate, fall, surrender |(vi) hạ xuống, giáng xuống (mưa, tuyết), rơi, đầu hàng |(hv) Giáng",
     "kunyomi": [
       "お.りる",
       "お.ろす",
@@ -406,69 +406,69 @@
       {
         "example": "降格",
         "reading": "コウカク",
-        "meaning": "demotion, relegation, downgrading"
+        "meaning": "demotion, relegation, downgrading |(vi) giáng chức, hạ cấp"
       },
       {
         "example": "降雨",
         "reading": "コウウ",
-        "meaning": "rainfall, rain"
+        "meaning": "rainfall, rain |(vi) mưa, lượng mưa"
       },
       {
         "example": "乗降",
         "reading": "ジョウコウ",
-        "meaning": "getting on and off, embarking and disembarking"
+        "meaning": "getting on and off, embarking and disembarking |(vi) lên xuống (xe, tàu)"
       },
       {
         "example": "投降",
         "reading": "トウコウ",
-        "meaning": "surrender"
+        "meaning": "surrender |(vi) đầu hàng, ra hàng"
       },
       {
         "example": "降三世明王",
         "reading": "ゴウザンゼミョウオウ",
-        "meaning": "Trailokyavijaya Vidya-raja, conqueror of the three worlds"
+        "meaning": "Trailokyavijaya Vidya-raja, conqueror of the three worlds |(vi) Hàng Tam Thế Minh Vương (vị minh vương chinh phục ba cõi)"
       },
       {
         "example": "降誕会",
         "reading": "ゴウタンエ",
-        "meaning": "service celebrating the birth of the Buddha (held on April 8), Buddha's birthday festival"
+        "meaning": "service celebrating the birth of the Buddha (held on April 8), Buddha's birthday festival |(vi) lễ Phật đản (kỷ niệm ngày Đức Phật ra đời, mùng 8 tháng 4)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "降りる",
         "reading": "おりる",
-        "meaning": "to descend (e.g. a mountain), to go down, to come down, to alight (e.g. from bus), to get off, to disembark, to dismount, to step down, to retire, to give up, to quit, to fold, to be granted, to be issued, to be given, to form (of frost, dew, mist, etc.), to be passed (from the body; e.g. of a roundworm)"
+        "meaning": "to descend (e.g. a mountain), to go down, to come down, to alight (e.g. from bus), to get off, to disembark, to dismount, to step down, to retire, to give up, to quit, to fold, to be granted, to be issued, to be given, to form (of frost, dew, mist, etc.), to be passed (from the body; e.g. of a roundworm) |(vi) xuống (núi), đi xuống, hạ xuống, xuống (xe buýt), rời khỏi, hạ cánh, từ chức, nghỉ hưu, từ bỏ, bỏ cuộc, được ban cho, được cấp, được trao, hình thành (sương giá, sương mù), bị bài tiết ra khỏi cơ thể (ví dụ giun sán)"
       },
       {
         "example": "下ろす",
         "reading": "おろす",
-        "meaning": "to take down, to bring down, to lower (a hand, flag, shutter, etc.), to drop (an anchor, curtain, etc.), to let down (hair), to launch (a boat), to drop off (a passenger), to let off, to unload (goods, a truck, etc.), to offload, to discharge, to withdraw (money), to use for the first time, to wear for the first time, to cut off, to fillet (fish), to grate (e.g. radish), to prune (branches), to remove (someone from a position), to oust, to drop, to clear (the table), to remove (offerings from an altar), to pass down (e.g. old clothes), to hand down, to expel from the body (e.g. worms), to abort (a fetus), to invoke (a spirit), to call down"
+        "meaning": "to take down, to bring down, to lower (a hand, flag, shutter, etc.), to drop (an anchor, curtain, etc.), to let down (hair), to launch (a boat), to drop off (a passenger), to let off, to unload (goods, a truck, etc.), to offload, to discharge, to withdraw (money), to use for the first time, to wear for the first time, to cut off, to fillet (fish), to grate (e.g. radish), to prune (branches), to remove (someone from a position), to oust, to drop, to clear (the table), to remove (offerings from an altar), to pass down (e.g. old clothes), to hand down, to expel from the body (e.g. worms), to abort (a fetus), to invoke (a spirit), to call down |(vi) hạ xuống, đưa xuống, thấp xuống (tay, cờ, rèm), thả (neo, màn), xõa (tóc), hạ thủy (thuyền), cho khách xuống, dỡ hàng, rút tiền, dùng lần đầu, mặc lần đầu, cắt, lọc (cá), bào (củ cải), tỉa (cành), cách chức, phế truất, dọn (bàn), hạ (đồ cúng khỏi bàn thờ), truyền lại (quần áo cũ), trục xuất khỏi cơ thể (giun sán), phá thai, triệu hồi (linh hồn)"
       },
       {
         "example": "降る",
         "reading": "ふる",
-        "meaning": "to fall (of rain, snow, ash, etc.), to come down, to form (of frost), to beam down (of sunlight or moonlight), to pour in, to visit (of luck, misfortune, etc.), to come, to arrive"
+        "meaning": "to fall (of rain, snow, ash, etc.), to come down, to form (of frost), to beam down (of sunlight or moonlight), to pour in, to visit (of luck, misfortune, etc.), to come, to arrive |(vi) rơi (mưa, tuyết, tro...), rơi xuống, đọng (sương giá), chiếu xuống (ánh nắng, ánh trăng), đổ vào, ập đến (may mắn, bất hạnh), đến, tới"
       },
       {
         "example": "降り",
         "reading": "ふり",
-        "meaning": "rainfall, snowfall, alighting, descending"
+        "meaning": "rainfall, snowfall, alighting, descending |(vi) mưa rơi, tuyết rơi, sự hạ cánh, sự đi xuống"
       },
       {
         "example": "降りしきる",
         "reading": "ふりしきる",
-        "meaning": "to fall continuously (of rain, snow, etc.), to fall hard, to fall heavily, to pour down"
+        "meaning": "to fall continuously (of rain, snow, etc.), to fall hard, to fall heavily, to pour down |(vi) rơi liên tục (mưa, tuyết...), rơi mạnh, rơi dày, đổ xuống"
       },
       {
         "example": "下る",
         "reading": "くだる",
-        "meaning": "to descend, to go down, to come down, to be handed down (of an order, judgment, etc.), to pass (of time), to surrender, to capitulate, to be less than, to be inferior to, to have the runs, to have diarrhea, to pass (in stool), to be discharged from the body, to depreciate oneself, to be humble"
+        "meaning": "to descend, to go down, to come down, to be handed down (of an order, judgment, etc.), to pass (of time), to surrender, to capitulate, to be less than, to be inferior to, to have the runs, to have diarrhea, to pass (in stool), to be discharged from the body, to depreciate oneself, to be humble |(vi) đi xuống, hạ xuống, được ban hành (lệnh, phán quyết), trôi qua (thời gian), đầu hàng, quy phục, kém hơn, thua kém, bị tiêu chảy, đi ngoài, bị bài tiết ra khỏi cơ thể, tự hạ mình, khiêm tốn"
       },
       {
         "example": "下す",
         "reading": "くだす",
-        "meaning": "to make a decision, to draw a conclusion, to give a judgement, to hand down a verdict, to pass a sentence, to give an order, to let go down, to lower, to do oneself, to do by oneself, to beat, to defeat, to have loose bowels, to have diarrhea, to pass (in stool), to discharge from the body, to do in one go, to do to the end without stopping"
+        "meaning": "to make a decision, to draw a conclusion, to give a judgement, to hand down a verdict, to pass a sentence, to give an order, to let go down, to lower, to do oneself, to do by oneself, to beat, to defeat, to have loose bowels, to have diarrhea, to pass (in stool), to discharge from the body, to do in one go, to do to the end without stopping |(vi) đưa ra quyết định, rút ra kết luận, đưa ra phán quyết, tuyên án, ra lệnh, hạ xuống, tự mình làm, đánh bại, tiêu chảy, đi ngoài, bài tiết khỏi cơ thể, làm một mạch, làm đến cùng không dừng"
       }
     ],
     "radical": {
@@ -476,7 +476,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "mound, dam (阝 left)"
+      "meaning": "mound, dam (阝 left) |(vi) Phụ (gò đất, đê)"
     },
     "parts": [
       "十",

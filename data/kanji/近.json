@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "chika, chikai, chikaku",
-    "meaning": "near, recent",
+    "meaning": "near, recent |(vi) gần, gần đây",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "近視（きんし）",
         "meaning": {
-          "english": "shortsightedness"
+          "english": "shortsightedness |(vi) cận thị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "近所（きんじょ）",
         "meaning": {
-          "english": "neighborhood"
+          "english": "neighborhood |(vi) khu vực lân cận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "最近（さいきん）",
         "meaning": {
-          "english": "recently"
+          "english": "recently |(vi) gần đây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "近代（きんだい）",
         "meaning": {
-          "english": "modern"
+          "english": "modern |(vi) hiện đại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "接近する（せっきんする）",
         "meaning": {
-          "english": "approach"
+          "english": "approach |(vi) tiếp cận, đến gần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "近く（ちかく）",
         "meaning": {
-          "english": "nearby [n.]"
+          "english": "nearby [n.] |(vi) chỗ gần đây [danh từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "近い（ちかい）",
         "meaning": {
-          "english": "nearby [adj.]"
+          "english": "nearby [adj.] |(vi) gần [tính từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "近付く（ちかづく）",
         "meaning": {
-          "english": "come near, approach"
+          "english": "come near, approach |(vi) đến gần, tiếp cận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "近道（ちかみち）",
         "meaning": {
-          "english": "shortcut"
+          "english": "shortcut |(vi) đường tắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "身近な（みぢかな）",
         "meaning": {
-          "english": "close, familiar"
+          "english": "close, familiar |(vi) gần gũi, thân thiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_j.opus",
@@ -278,7 +278,7 @@
     "kanji": {
       "character": "近",
       "meaning": {
-        "english": "near, recent"
+        "english": "near, recent |(vi) gần, gần đây"
       },
       "strokes": {
         "count": 7,
@@ -330,7 +330,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đường đi, bước đi, tiến tới)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -351,7 +351,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "194",
     "strokeCount": 7,
-    "meaning": "near, early, akin, tantamount",
+    "meaning": "near, early, akin, tantamount |(vi) gần, sớm, gần giống, tương đương |(hv) Cận",
     "kunyomi": [
       "ちか.い"
     ],
@@ -363,39 +363,39 @@
       {
         "example": "近畿",
         "reading": "キンキ",
-        "meaning": "Kinki (region around Osaka, Kyoto, Nara)"
+        "meaning": "Kinki (region around Osaka, Kyoto, Nara) |(vi) vùng Kinki (khu vực quanh Osaka, Kyoto, Nara)"
       },
       {
         "example": "近海",
         "reading": "キンカイ",
-        "meaning": "coastal waters, adjacent seas"
+        "meaning": "coastal waters, adjacent seas |(vi) vùng biển ven bờ, biển lân cận"
       },
       {
         "example": "ごく最近",
         "reading": "ゴクサイキン",
-        "meaning": "very recently, in the very recent past"
+        "meaning": "very recently, in the very recent past |(vi) rất gần đây, trong quá khứ rất gần"
       },
       {
         "example": "至近",
         "reading": "シキン",
-        "meaning": "very near"
+        "meaning": "very near |(vi) rất gần"
       },
       {
         "example": "近流",
         "reading": "コンル",
-        "meaning": "banishment (to a nearby province), the least severe of the three banishment punishments under the ritsuryō system"
+        "meaning": "banishment (to a nearby province), the least severe of the three banishment punishments under the ritsuryō system |(vi) lưu đày (đến một tỉnh gần), hình phạt lưu đày nhẹ nhất trong ba mức theo luật ritsuryō"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "近い",
         "reading": "ちかい",
-        "meaning": "near, close, short (distance), close (in time), soon, close (relationship), friendly, intimate, closely related, similar, almost the same, close to, nearly"
+        "meaning": "near, close, short (distance), close (in time), soon, close (relationship), friendly, intimate, closely related, similar, almost the same, close to, nearly |(vi) gần, gần gũi, khoảng cách ngắn, gần (về thời gian), sắp, gần (quan hệ), thân thiện, thân mật, có quan hệ gần gũi, tương tự, gần như giống nhau, gần đến, gần bằng"
       },
       {
         "example": "近いうちに",
         "reading": "ちかいうちに",
-        "meaning": "soon, shortly, before long"
+        "meaning": "soon, shortly, before long |(vi) sắp, chẳng bao lâu nữa, trước khi lâu"
       }
     ],
     "radical": {
@@ -405,7 +405,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi bộ)"
     },
     "parts": [
       "斤",

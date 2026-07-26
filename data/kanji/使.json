@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "tsuka, tsukau, tsukai",
-    "meaning": "use, envoy",
+    "meaning": "use, envoy |(vi) sử dụng, sứ giả",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "使用する（しようする）",
         "meaning": {
-          "english": "use [v.t.]"
+          "english": "use [v.t.] |(vi) sử dụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-tsuka(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "行使する（こうしする）",
         "meaning": {
-          "english": "exercise [v.t.]"
+          "english": "exercise [v.t.] |(vi) thực thi, hành sử (quyền)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-tsuka(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "駆使する（くしする）",
         "meaning": {
-          "english": "use freely"
+          "english": "use freely |(vi) sử dụng thành thạo, vận dụng tự do"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-tsuka(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "使役形（しえきけい）",
         "meaning": {
-          "english": "causative form"
+          "english": "causative form |(vi) thể sai khiến (ngữ pháp)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-tsuka(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "使命（しめい）",
         "meaning": {
-          "english": "mission"
+          "english": "mission |(vi) sứ mệnh, nhiệm vụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-tsuka(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "大使（たいし）",
         "meaning": {
-          "english": "ambassador"
+          "english": "ambassador |(vi) đại sứ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-tsuka(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "天使（てんし）",
         "meaning": {
-          "english": "angel"
+          "english": "angel |(vi) thiên thần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-tsuka(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "使う（つかう）",
         "meaning": {
-          "english": "use"
+          "english": "use |(vi) sử dụng, dùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-tsuka(u)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "魔法使い（まほうつかい）",
         "meaning": {
-          "english": "wizard"
+          "english": "wizard |(vi) pháp sư, phù thủy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-tsuka(u)_06_i.opus",
@@ -256,7 +256,7 @@
     "kanji": {
       "character": "使",
       "meaning": {
-        "english": "use, envoy"
+        "english": "use, envoy |(vi) sử dụng, sứ giả"
       },
       "strokes": {
         "count": 8,
@@ -310,7 +310,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người, bộ nhân đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -331,7 +331,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "219",
     "strokeCount": 8,
-    "meaning": "use, send on a mission, order, messenger, envoy, ambassador, cause",
+    "meaning": "use, send on a mission, order, messenger, envoy, ambassador, cause |(vi) sử dụng, sai khiến, ra lệnh, sứ giả, đại sứ, khiến cho |(hv) Sứ",
     "kunyomi": [
       "つか.う",
       "つか.い",
@@ -345,49 +345,49 @@
       {
         "example": "使",
         "reading": "シ",
-        "meaning": "messenger, police and judicial chief (Heian and Kamakura periods), klesha (polluting thoughts such as greed, hatred and delusion, which result in suffering)"
+        "meaning": "messenger, police and judicial chief (Heian and Kamakura periods), klesha (polluting thoughts such as greed, hatred and delusion, which result in suffering) |(vi) sứ giả, chức quan coi việc cảnh sát-tư pháp (thời Heian, Kamakura), phiền não (tham, sân, si gây khổ đau trong Phật giáo)"
       },
       {
         "example": "使者",
         "reading": "シシャ",
-        "meaning": "messenger, envoy, emissary"
+        "meaning": "messenger, envoy, emissary |(vi) sứ giả, sứ thần, phái viên"
       },
       {
         "example": "特使",
         "reading": "トクシ",
-        "meaning": "special envoy"
+        "meaning": "special envoy |(vi) đặc sứ"
       },
       {
         "example": "実力行使",
         "reading": "ジツリョクコウシ",
-        "meaning": "use of force"
+        "meaning": "use of force |(vi) sử dụng vũ lực"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "使う",
         "reading": "つかう",
-        "meaning": "to use (a tool, method, etc.), to make use of, to put to use, to use (a person, animal, puppet, etc.), to employ, to handle, to manage, to manipulate, to use (time, money, etc.), to spend, to consume, to use (language), to speak"
+        "meaning": "to use (a tool, method, etc.), to make use of, to put to use, to use (a person, animal, puppet, etc.), to employ, to handle, to manage, to manipulate, to use (time, money, etc.), to spend, to consume, to use (language), to speak |(vi) sử dụng (công cụ, phương pháp...), vận dụng, đem ra dùng, sử dụng (người, động vật, con rối...), thuê dùng, xử lý, quản lý, điều khiển, dùng (thời gian, tiền bạc...), tiêu tốn, tiêu dùng, dùng (ngôn ngữ), nói"
       },
       {
         "example": "使い",
         "reading": "つかい",
-        "meaning": "errand, mission, going on an errand, messenger, bearer, errand boy, errand girl, familiar spirit, use, usage, user, trainer, tamer, handler, charmer"
+        "meaning": "errand, mission, going on an errand, messenger, bearer, errand boy, errand girl, familiar spirit, use, usage, user, trainer, tamer, handler, charmer |(vi) việc vặt, sứ mệnh, đi làm việc vặt, sứ giả, người mang tin, cậu bé/cô bé chạy việc vặt, linh vật hộ thân, sự sử dụng, cách dùng, người dùng, người huấn luyện, người thuần hóa, người điều khiển, người dụ (rắn...)"
       },
       {
         "example": "使い方",
         "reading": "つかいかた",
-        "meaning": "way of using (something), way to use, how to use, usage, use, way of handling (employees, subordinates, etc.), way of treating, treatment, management"
+        "meaning": "way of using (something), way to use, how to use, usage, use, way of handling (employees, subordinates, etc.), way of treating, treatment, management |(vi) cách sử dụng, cách dùng, cách đối xử (với nhân viên, cấp dưới...), cách đối đãi, quản lý"
       },
       {
         "example": "オズの魔法使い",
         "reading": "オズのまほうつかい",
-        "meaning": "The Wonderful Wizard of Oz (novel by L. F. Baum, 1900), The Wizard of Oz (film, 1939)"
+        "meaning": "The Wonderful Wizard of Oz (novel by L. F. Baum, 1900), The Wizard of Oz (film, 1939) |(vi) Phù Thủy Xứ Oz (tiểu thuyết của L. F. Baum, 1900), Phù Thủy Xứ Oz (phim, 1939)"
       },
       {
         "example": "春の使い",
         "reading": "はるのつかい",
-        "meaning": "Japanese bush warbler, messenger of spring"
+        "meaning": "Japanese bush warbler, messenger of spring |(vi) chim oanh Nhật Bản, sứ giả mùa xuân"
       }
     ],
     "radical": {
@@ -395,7 +395,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "ノ",

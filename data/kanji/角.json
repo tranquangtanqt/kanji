@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kado, tsuno",
-    "meaning": "angle, horn, corner",
+    "meaning": "angle, horn, corner |(vi) góc, sừng, cạnh",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "角度（かくど）",
         "meaning": {
-          "english": "angle"
+          "english": "angle |(vi) góc độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "三角（さんかく）",
         "meaning": {
-          "english": "triangle"
+          "english": "triangle |(vi) tam giác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "四角形（しかくけい）",
         "meaning": {
-          "english": "square"
+          "english": "square |(vi) hình vuông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "角（かど）",
         "meaning": {
-          "english": "corner"
+          "english": "corner |(vi) góc (đường phố)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "曲り角（まがりかど）",
         "meaning": {
-          "english": "corner, turning point"
+          "english": "corner, turning point |(vi) khúc rẽ, bước ngoặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "四つ角（よつかど）",
         "meaning": {
-          "english": "crossroads"
+          "english": "crossroads |(vi) ngã tư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "角（つの）",
         "meaning": {
-          "english": "horn"
+          "english": "horn |(vi) sừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno_06_g.opus",
@@ -190,7 +190,7 @@
     "kanji": {
       "character": "角",
       "meaning": {
-        "english": "angle, horn, corner"
+        "english": "angle, horn, corner |(vi) góc, sừng, cạnh"
       },
       "strokes": {
         "count": 7,
@@ -242,7 +242,7 @@
         "romaji": "tsuno"
       },
       "meaning": {
-        "english": "horn, corner"
+        "english": "horn, corner |(vi) Giác (sừng, góc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuno0.svg",
@@ -263,7 +263,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "805",
     "strokeCount": 7,
-    "meaning": "angle, corner, square, horn, antlers",
+    "meaning": "angle, corner, square, horn, antlers |(vi) góc, cạnh, hình vuông, sừng, gạc |(hv) Giác",
     "kunyomi": [
       "かど",
       "つの"
@@ -275,69 +275,69 @@
       {
         "example": "角",
         "reading": "カク",
-        "meaning": "angle, square, cube, bishop, third degree (of the Japanese and Chinese pentatonic scale), Chinese \"horn\" constellation (one of the 28 mansions), jiao (monetary unit of China; one-tenth of a yuan)"
+        "meaning": "angle, square, cube, bishop, third degree (of the Japanese and Chinese pentatonic scale), Chinese \"horn\" constellation (one of the 28 mansions), jiao (monetary unit of China; one-tenth of a yuan) |(vi) góc, hình vuông, khối lập phương, quân tượng (cờ vua), cung Giác (một trong 28 tú), giác (đơn vị tiền Trung Quốc)"
       },
       {
         "example": "角界",
         "reading": "カクカイ",
-        "meaning": "the world of sumo"
+        "meaning": "the world of sumo |(vi) giới sumo"
       },
       {
         "example": "内角",
         "reading": "ナイカク",
-        "meaning": "interior angle, internal angle, inside corner"
+        "meaning": "interior angle, internal angle, inside corner |(vi) góc trong"
       },
       {
         "example": "外角",
         "reading": "ガイカク",
-        "meaning": "external angle, exterior angle, outside corner"
+        "meaning": "external angle, exterior angle, outside corner |(vi) góc ngoài"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "角",
         "reading": "かど",
-        "meaning": "corner, edge, (street) corner, turning, rough edges (of one's character, words, etc.), abrasiveness, harshness, sharpness"
+        "meaning": "corner, edge, (street) corner, turning, rough edges (of one's character, words, etc.), abrasiveness, harshness, sharpness |(vi) góc, cạnh, góc (phố), khúc rẽ, góc cạnh (tính cách, lời nói), sự thô ráp, sự gay gắt, sự sắc bén"
       },
       {
         "example": "角地",
         "reading": "かどち",
-        "meaning": "corner lot"
+        "meaning": "corner lot |(vi) lô đất góc"
       },
       {
         "example": "四つ角",
         "reading": "よつかど",
-        "meaning": "four corners, crossroads, intersecting street, street corner"
+        "meaning": "four corners, crossroads, intersecting street, street corner |(vi) bốn góc, ngã tư, đường giao nhau, góc phố"
       },
       {
         "example": "塩角",
         "reading": "しおかど",
-        "meaning": "sharp taste of (refined) salt"
+        "meaning": "sharp taste of (refined) salt |(vi) vị mặn sắc của muối (tinh chế)"
       },
       {
         "example": "角",
         "reading": "つの",
-        "meaning": "horn, antler, antenna, feeler, tentacle (e.g. of a snail), horn-like projection (e.g. peaks of whipped cream)"
+        "meaning": "horn, antler, antenna, feeler, tentacle (e.g. of a snail), horn-like projection (e.g. peaks of whipped cream) |(vi) sừng, gạc, râu, xúc tu (vd. ốc sên), phần nhô hình sừng (vd. đỉnh kem đánh bông)"
       },
       {
         "example": "角隠し",
         "reading": "つのかくし",
-        "meaning": "bride's head-dress"
+        "meaning": "bride's head-dress |(vi) mũ che sừng của cô dâu"
       },
       {
         "example": "枝角",
         "reading": "えだづの",
-        "meaning": "antler"
+        "meaning": "antler |(vi) gạc (sừng nhánh)"
       },
       {
         "example": "豊穣の角",
         "reading": "ほうじょうのつの",
-        "meaning": "cornucopia, horn of plenty"
+        "meaning": "cornucopia, horn of plenty |(vi) sừng dồi dào, sừng của sự sung túc"
       }
     ],
     "radical": {
       "symbol": "角",
-      "meaning": "horn"
+      "meaning": "horn |(vi) Giác (sừng, góc)"
     },
     "parts": [
       "勹",

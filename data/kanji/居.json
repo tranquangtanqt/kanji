@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "i, iru, o, oru",
-    "meaning": "reside, exist",
+    "meaning": "reside, exist |(vi) cư trú, tồn tại",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "居住地（きょじゅうち）",
         "meaning": {
-          "english": "residence, address"
+          "english": "residence, address |(vi) nơi cư trú, địa chỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "住居（じゅうきょ）",
         "meaning": {
-          "english": "house, residence"
+          "english": "house, residence |(vi) nhà ở, nơi cư trú"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "皇居（こうきょ）",
         "meaning": {
-          "english": "Imperial Palace"
+          "english": "Imperial Palace |(vi) Hoàng cung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "入居する（にゅうきょする）",
         "meaning": {
-          "english": "move in"
+          "english": "move in |(vi) dọn vào ở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "転居する（てんきょする）",
         "meaning": {
-          "english": "move, change residence"
+          "english": "move, change residence |(vi) chuyển nhà, đổi nơi ở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "同居する（どうきょする）",
         "meaning": {
-          "english": "live together"
+          "english": "live together |(vi) sống chung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "別居する（べっきょする）",
         "meaning": {
-          "english": "separate (from spouse)"
+          "english": "separate (from spouse) |(vi) ly thân (với vợ/chồng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "居る（いる）",
         "meaning": {
-          "english": "be, exist"
+          "english": "be, exist |(vi) ở, tồn tại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "居間（いま）",
         "meaning": {
-          "english": "living room"
+          "english": "living room |(vi) phòng khách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "居眠り（いねむり）",
         "meaning": {
-          "english": "nap"
+          "english": "nap |(vi) ngủ gật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "居留守（いるす）",
         "meaning": {
-          "english": "pretend to be out"
+          "english": "pretend to be out |(vi) giả vờ đi vắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "居る（おる）",
         "meaning": {
-          "english": "be, exist [hum.]"
+          "english": "be, exist [hum.] |(vi) ở, tồn tại [khiêm nhường]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_l.opus",
@@ -245,7 +245,7 @@
     "kanji": {
       "character": "居",
       "meaning": {
-        "english": "reside, exist"
+        "english": "reside, exist |(vi) cư trú, tồn tại"
       },
       "strokes": {
         "count": 8,
@@ -299,7 +299,7 @@
         "romaji": "shikabane"
       },
       "meaning": {
-        "english": "corpse, awning"
+        "english": "corpse, awning |(vi) Thi (xác chết, mái nhà nghiêng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shikabane0.svg",
@@ -320,7 +320,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "836",
     "strokeCount": 8,
-    "meaning": "reside, to be, exist, live with",
+    "meaning": "reside, to be, exist, live with |(vi) cư trú, ở, tồn tại, sống chung |(hv) Cư",
     "kunyomi": [
       "い.る",
       "-い",
@@ -334,49 +334,49 @@
       {
         "example": "居",
         "reading": "キョ",
-        "meaning": "residence"
+        "meaning": "residence |(vi) nơi cư trú"
       },
       {
         "example": "居室",
         "reading": "キョシツ",
-        "meaning": "living room"
+        "meaning": "living room |(vi) phòng khách"
       },
       {
         "example": "入居",
         "reading": "ニュウキョ",
-        "meaning": "moving in (to a house, apartment, etc.), taking up residence"
+        "meaning": "moving in (to a house, apartment, etc.), taking up residence |(vi) dọn vào ở (nhà, căn hộ...), nhận nơi cư trú"
       },
       {
         "example": "住居",
         "reading": "ジュウキョ",
-        "meaning": "dwelling, house, residence, address"
+        "meaning": "dwelling, house, residence, address |(vi) nơi ở, nhà, nơi cư trú, địa chỉ"
       },
       {
         "example": "居士",
         "reading": "コジ",
-        "meaning": "grhapati (layman; sometimes used as a posthumous suffix), private-sector scholar"
+        "meaning": "grhapati (layman; sometimes used as a posthumous suffix), private-sector scholar |(vi) cư sĩ (người tại gia; đôi khi dùng làm hậu tố sau khi mất), học giả ngoài quan trường"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "居る",
         "reading": "いる",
-        "meaning": "to be (of animate objects), to exist, to stay, to be ...-ing, to have been ...-ing"
+        "meaning": "to be (of animate objects), to exist, to stay, to be ...-ing, to have been ...-ing |(vi) ở (vật có sự sống), tồn tại, lưu lại, đang ..., đã từng ..."
       },
       {
         "example": "居留守",
         "reading": "いるす",
-        "meaning": "pretending to be out"
+        "meaning": "pretending to be out |(vi) giả vờ đi vắng"
       },
       {
         "example": "居る",
         "reading": "おる",
-        "meaning": "to be (animate), to be, to exist, to be ...-ing, to (have the audacity to) do"
+        "meaning": "to be (animate), to be, to exist, to be ...-ing, to (have the audacity to) do |(vi) ở (vật có sự sống), tồn tại, đang ..., dám làm (điều gì đó)"
       }
     ],
     "radical": {
       "symbol": "尸",
-      "meaning": "corpse"
+      "meaning": "corpse |(vi) Thi (xác chết, mái nhà nghiêng)"
     },
     "parts": [
       "十",

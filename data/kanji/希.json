@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "hope, aspire",
+    "meaning": "hope, aspire |(vi) hy vọng, khao khát",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "希望する（きぼうする）",
         "meaning": {
-          "english": "hope [v.t.]"
+          "english": "hope [v.t.] |(vi) hy vọng, mong muốn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(bou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "希求する（ききゅうする）",
         "meaning": {
-          "english": "aspire to, seek"
+          "english": "aspire to, seek |(vi) khao khát, tìm kiếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(bou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "希望者（きぼうしゃ）",
         "meaning": {
-          "english": "candidate, a hopeful"
+          "english": "candidate, a hopeful |(vi) ứng viên, người có nguyện vọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(bou)_06_c.opus",
@@ -158,7 +158,7 @@
     "kanji": {
       "character": "希",
       "meaning": {
-        "english": "hope, aspire"
+        "english": "hope, aspire |(vi) hy vọng, khao khát"
       },
       "strokes": {
         "count": 7,
@@ -210,7 +210,7 @@
         "romaji": "haba"
       },
       "meaning": {
-        "english": "cloth"
+        "english": "cloth |(vi) Cân (khăn, vải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/haba0.svg",
@@ -231,7 +231,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "896",
     "strokeCount": 7,
-    "meaning": "hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal",
+    "meaning": "hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal |(vi) hy vọng, van xin, yêu cầu, cầu nguyện, khẩn cầu, Hy Lạp, pha loãng (axit), hiếm, ít, phi thường |(hv) Hi",
     "kunyomi": [
       "まれ",
       "こいねが.う"
@@ -244,59 +244,59 @@
       {
         "example": "希",
         "reading": "キ",
-        "meaning": "dilute, rare, Greece"
+        "meaning": "dilute, rare, Greece |(vi) pha loãng, hiếm, Hy Lạp"
       },
       {
         "example": "希少",
         "reading": "キショウ",
-        "meaning": "scarce, rare"
+        "meaning": "scarce, rare |(vi) khan hiếm, hiếm có"
       },
       {
         "example": "古希",
         "reading": "コキ",
-        "meaning": "70th birthday, ancient Greek (language)"
+        "meaning": "70th birthday, ancient Greek (language) |(vi) lễ mừng thọ 70 tuổi, tiếng Hy Lạp cổ"
       },
       {
         "example": "七十古希",
         "reading": "シチジュウコキ",
-        "meaning": "men seldom live to be seventy, few people live to be seventy"
+        "meaning": "men seldom live to be seventy, few people live to be seventy |(vi) xưa nay hiếm người sống thọ đến bảy mươi"
       },
       {
         "example": "希有",
         "reading": "ケウ",
-        "meaning": "rare, uncommon"
+        "meaning": "rare, uncommon |(vi) hiếm có, khác thường"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "稀",
         "reading": "まれ",
-        "meaning": "rare, seldom"
+        "meaning": "rare, seldom |(vi) hiếm, ít khi"
       },
       {
         "example": "稀に見る",
         "reading": "まれにみる",
-        "meaning": "rare, extraordinary, singular"
+        "meaning": "rare, extraordinary, singular |(vi) hiếm thấy, phi thường, độc nhất"
       },
       {
         "example": "類まれ",
         "reading": "たぐいまれ",
-        "meaning": "rare, exceptional, extraordinary, unique, incomparable, unparalleled, matchless"
+        "meaning": "rare, exceptional, extraordinary, unique, incomparable, unparalleled, matchless |(vi) hiếm có, xuất chúng, phi thường, độc nhất vô nhị, không gì sánh bằng"
       },
       {
         "example": "ごく稀",
         "reading": "ごくまれ",
-        "meaning": "extremely rare"
+        "meaning": "extremely rare |(vi) cực kỳ hiếm"
       },
       {
         "example": "希う",
         "reading": "こいねがう",
-        "meaning": "to beg, to request, to beseech, to implore, to entreat"
+        "meaning": "to beg, to request, to beseech, to implore, to entreat |(vi) van xin, khẩn cầu, nài nỉ, van nài"
       }
     ],
     "radical": {
       "symbol": "巾",
-      "meaning": "turban, scarf"
+      "meaning": "turban, scarf |(vi) Cân (khăn, vải)"
     },
     "parts": [
       "ノ",

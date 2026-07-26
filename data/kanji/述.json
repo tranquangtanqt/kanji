@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 6,
     "kunyomi": "no, noberu",
-    "meaning": "state, mention, refer to, explain",
+    "meaning": "state, mention, refer to, explain |(vi) trình bày, đề cập, nhắc đến, giải thích",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "述語（じゅつご）",
         "meaning": {
-          "english": "predicate [n.]"
+          "english": "predicate [n.] |(vi) vị ngữ [danh từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jutsu-no(beru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "著述家（ちょじゅつか）",
         "meaning": {
-          "english": "writer"
+          "english": "writer |(vi) tác giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jutsu-no(beru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "述懐する（じゅっかいする）",
         "meaning": {
-          "english": "recollect, reminisce"
+          "english": "recollect, reminisce |(vi) hồi tưởng, hồi ức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jutsu-no(beru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "供述する（きょうじゅつする）",
         "meaning": {
-          "english": "state, declare"
+          "english": "state, declare |(vi) khai báo, tuyên bố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jutsu-no(beru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "陳述する（ちんじゅつする）",
         "meaning": {
-          "english": "testify, state, depose"
+          "english": "testify, state, depose |(vi) làm chứng, khai báo, trình bày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jutsu-no(beru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "詳述する（しょうじゅつする）",
         "meaning": {
-          "english": "explain in detail"
+          "english": "explain in detail |(vi) giải thích chi tiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jutsu-no(beru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "記述する（きじゅつする）",
         "meaning": {
-          "english": "describe"
+          "english": "describe |(vi) mô tả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jutsu-no(beru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "口述する（こうじゅつする）",
         "meaning": {
-          "english": "state verbally"
+          "english": "state verbally |(vi) nói ra bằng lời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jutsu-no(beru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "上述する（じょうじゅつする）",
         "meaning": {
-          "english": "state above"
+          "english": "state above |(vi) trình bày ở trên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jutsu-no(beru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "述べる（のべる）",
         "meaning": {
-          "english": "state, express, mention"
+          "english": "state, express, mention |(vi) trình bày, diễn đạt, đề cập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jutsu-no(beru)_06_j.opus",
@@ -224,7 +224,7 @@
     "kanji": {
       "character": "述",
       "meaning": {
-        "english": "state, mention, refer to, explain"
+        "english": "state, mention, refer to, explain |(vi) trình bày, đề cập, nhắc đến, giải thích"
       },
       "strokes": {
         "count": 8,
@@ -278,7 +278,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đường đi, bước đi, tiến tới)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -299,7 +299,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "379",
     "strokeCount": 8,
-    "meaning": "mention, state, speak, relate",
+    "meaning": "mention, state, speak, relate |(vi) đề cập, trình bày, nói ra, thuật lại |(hv) Thuật",
     "kunyomi": [
       "の.べる"
     ],
@@ -310,29 +310,29 @@
       {
         "example": "述",
         "reading": "ジュツ",
-        "meaning": "dictation, verbal statement"
+        "meaning": "dictation, verbal statement |(vi) đọc chính tả, lời phát biểu bằng miệng"
       },
       {
         "example": "述語",
         "reading": "ジュツゴ",
-        "meaning": "predicate, predicate"
+        "meaning": "predicate, predicate |(vi) vị ngữ, vị ngữ"
       },
       {
         "example": "詳述",
         "reading": "ショウジュツ",
-        "meaning": "detailed explanation"
+        "meaning": "detailed explanation |(vi) giải thích chi tiết"
       },
       {
         "example": "公述",
         "reading": "コウジュツ",
-        "meaning": "speaking at a public hearing"
+        "meaning": "speaking at a public hearing |(vi) phát biểu tại phiên điều trần công khai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "述べる",
         "reading": "のべる",
-        "meaning": "to state, to express, to say, to tell, to mention"
+        "meaning": "to state, to express, to say, to tell, to mention |(vi) trình bày, diễn đạt, nói, kể, đề cập"
       }
     ],
     "radical": {
@@ -342,7 +342,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, bước đi)"
     },
     "parts": [
       "丶",

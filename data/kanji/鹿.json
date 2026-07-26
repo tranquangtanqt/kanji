@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "shika",
-    "meaning": "deer",
+    "meaning": "deer |(vi) hươu, nai",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "鹿苑寺（ろくおんじ）",
         "meaning": {
-          "english": "formal name of Kinkakuji Temple"
+          "english": "formal name of Kinkakuji Temple |(vi) tên chính thức của chùa Kim Các (Kinkaku-ji)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shika_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "鹿鳴館（ろくめいかん）",
         "meaning": {
-          "english": "name of a building in Meiji period"
+          "english": "name of a building in Meiji period |(vi) tên tòa nhà thời Minh Trị (Rokumeikan)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shika_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "鹿（しか）",
         "meaning": {
-          "english": "deer"
+          "english": "deer |(vi) hươu, nai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shika_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "*馬鹿な（ばかな）",
         "meaning": {
-          "english": "stupid, silly"
+          "english": "stupid, silly |(vi) ngu ngốc, ngớ ngẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shika_06_d.opus",
@@ -142,7 +142,7 @@
     "kanji": {
       "character": "鹿",
       "meaning": {
-        "english": "deer"
+        "english": "deer |(vi) hươu, nai"
       },
       "strokes": {
         "count": 11,
@@ -202,7 +202,7 @@
         "romaji": "shika"
       },
       "meaning": {
-        "english": "deer"
+        "english": "deer |(vi) Lộc (hươu, nai)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shika0.svg",
@@ -223,7 +223,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "957",
     "strokeCount": 11,
-    "meaning": "deer",
+    "meaning": "deer |(vi) hươu, nai |(hv) Lộc",
     "kunyomi": [
       "しか",
       "か"
@@ -235,69 +235,69 @@
       {
         "example": "鹿",
         "reading": "シカ",
-        "meaning": "deer (esp. the sika deer, Cervus nippon), cervid"
+        "meaning": "deer (esp. the sika deer, Cervus nippon), cervid |(vi) hươu (đặc biệt hươu sao Cervus nippon), động vật họ hươu nai"
       },
       {
         "example": "鹿砦",
         "reading": "ロクサイ",
-        "meaning": "abatis"
+        "meaning": "abatis |(vi) chướng ngại vật bằng cành cây (lộc trại)"
       },
       {
         "example": "白鹿",
         "reading": "ハクロク",
-        "meaning": "white deer"
+        "meaning": "white deer |(vi) hươu trắng, bạch lộc"
       },
       {
         "example": "神鹿",
         "reading": "シンロク",
-        "meaning": "deer raised upon the grounds of a shrine (who serve as messengers of the gods)"
+        "meaning": "deer raised upon the grounds of a shrine (who serve as messengers of the gods) |(vi) hươu nuôi trong khuôn viên đền thờ (sứ giả của thần linh)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鹿",
         "reading": "しか",
-        "meaning": "deer (esp. the sika deer, Cervus nippon), cervid"
+        "meaning": "deer (esp. the sika deer, Cervus nippon), cervid |(vi) hươu (đặc biệt hươu sao), động vật họ hươu nai"
       },
       {
         "example": "鹿猪",
         "reading": "しかいのしし",
-        "meaning": "babirusa (Babyrousa babyrussa)"
+        "meaning": "babirusa (Babyrousa babyrussa) |(vi) lợn hươu (babirusa)"
       },
       {
         "example": "牡鹿",
         "reading": "おじか",
-        "meaning": "buck (male deer)"
+        "meaning": "buck (male deer) |(vi) hươu đực"
       },
       {
         "example": "赤鹿",
         "reading": "あかしか",
-        "meaning": "red deer (Cervus elaphus)"
+        "meaning": "red deer (Cervus elaphus) |(vi) hươu đỏ (Cervus elaphus)"
       },
       {
         "example": "鹿",
         "reading": "しか",
-        "meaning": "deer (esp. the sika deer, Cervus nippon), cervid"
+        "meaning": "deer (esp. the sika deer, Cervus nippon), cervid |(vi) hươu (đặc biệt hươu sao), động vật họ hươu nai"
       },
       {
         "example": "鹿",
         "reading": "かのしし",
-        "meaning": "venison, deer"
+        "meaning": "venison, deer |(vi) thịt hươu, hươu"
       },
       {
         "example": "牡鹿",
         "reading": "おじか",
-        "meaning": "buck (male deer)"
+        "meaning": "buck (male deer) |(vi) hươu đực"
       },
       {
         "example": "赤鹿",
         "reading": "あかしか",
-        "meaning": "red deer (Cervus elaphus)"
+        "meaning": "red deer (Cervus elaphus) |(vi) hươu đỏ (Cervus elaphus)"
       }
     ],
     "radical": {
       "symbol": "鹿",
-      "meaning": "deer"
+      "meaning": "deer |(vi) Lộc (hươu, nai)"
     },
     "parts": [
       "广",

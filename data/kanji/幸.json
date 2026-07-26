@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "saiwa, saiwai, sachi, shiawa, shiawase",
-    "meaning": "happiness, happy",
+    "meaning": "happiness, happy |(vi) hạnh phúc, may mắn",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "幸運な（こううんな）",
         "meaning": {
-          "english": "fortunate"
+          "english": "fortunate |(vi) may mắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saiwa(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "幸福な（こうふくな）",
         "meaning": {
-          "english": "happy"
+          "english": "happy |(vi) hạnh phúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saiwa(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "不幸な（ふこうな）",
         "meaning": {
-          "english": "unhappy"
+          "english": "unhappy |(vi) bất hạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saiwa(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "薄幸な（はっこうな）",
         "meaning": {
-          "english": "unfortunate"
+          "english": "unfortunate |(vi) bạc phận, không may"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saiwa(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "幸い（さいわい）",
         "meaning": {
-          "english": "happiness [n.], luckily [adv.]"
+          "english": "happiness [n.], luckily [adv.] |(vi) hạnh phúc; may mắn thay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saiwa(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "幸（さち）",
         "meaning": {
-          "english": "happiness"
+          "english": "happiness |(vi) hạnh phúc, phúc lành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saiwa(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "幸せな（しあわせな）",
         "meaning": {
-          "english": "happy"
+          "english": "happy |(vi) hạnh phúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saiwa(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "不幸せな（ふしあわせな）",
         "meaning": {
-          "english": "unhappy"
+          "english": "unhappy |(vi) bất hạnh, không hạnh phúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saiwa(i)_06_h.opus",
@@ -266,7 +266,7 @@
     "kanji": {
       "character": "幸",
       "meaning": {
-        "english": "happiness, happy"
+        "english": "happiness, happy |(vi) hạnh phúc, may mắn"
       },
       "strokes": {
         "count": 8,
@@ -320,7 +320,7 @@
         "romaji": "kan"
       },
       "meaning": {
-        "english": "to dry, shield"
+        "english": "to dry, shield |(vi) Can (khô, cái mộc/lá chắn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kan0.svg",
@@ -341,7 +341,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "786",
     "strokeCount": 8,
-    "meaning": "happiness, blessing, fortune",
+    "meaning": "happiness, blessing, fortune |(vi) hạnh phúc, phúc lành, may mắn |(hv) Hạnh",
     "kunyomi": [
       "さいわ.い",
       "さち",
@@ -354,69 +354,69 @@
       {
         "example": "幸",
         "reading": "サチ",
-        "meaning": "good luck, fortune, happiness, harvest, yield"
+        "meaning": "good luck, fortune, happiness, harvest, yield |(vi) may mắn, phúc lành, hạnh phúc, mùa màng bội thu"
       },
       {
         "example": "幸運",
         "reading": "コウウン",
-        "meaning": "good luck, fortune"
+        "meaning": "good luck, fortune |(vi) may mắn, vận may"
       },
       {
         "example": "親不孝",
         "reading": "オヤフコウ",
-        "meaning": "lack of filial piety, disobedience to one's parents"
+        "meaning": "lack of filial piety, disobedience to one's parents |(vi) bất hiếu, không vâng lời cha mẹ"
       },
       {
         "example": "御幸",
         "reading": "ギョウキ",
-        "meaning": "imperial visit, imperial outing"
+        "meaning": "imperial visit, imperial outing |(vi) vua ngự giá, vua đi tuần du"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "幸い",
         "reading": "さいわい",
-        "meaning": "happiness, blessedness, luck, fortune, felicity, luckily, fortunately"
+        "meaning": "happiness, blessedness, luck, fortune, felicity, luckily, fortunately |(vi) hạnh phúc, phúc lành, may mắn, may thay"
       },
       {
         "example": "幸いあれ",
         "reading": "さいわいあれ",
-        "meaning": "be happy!, cheer up!"
+        "meaning": "be happy!, cheer up! |(vi) chúc hạnh phúc!, hãy vui lên!"
       },
       {
         "example": "幸",
         "reading": "さち",
-        "meaning": "good luck, fortune, happiness, harvest, yield"
+        "meaning": "good luck, fortune, happiness, harvest, yield |(vi) may mắn, phúc lành, hạnh phúc, mùa màng bội thu"
       },
       {
         "example": "幸ある",
         "reading": "さちある",
-        "meaning": "fortunate, happy, lucky"
+        "meaning": "fortunate, happy, lucky |(vi) may mắn, hạnh phúc"
       },
       {
         "example": "川の幸",
         "reading": "かわのさち",
-        "meaning": "catch (fish) of the river, products of the river, fruits of the river"
+        "meaning": "catch (fish) of the river, products of the river, fruits of the river |(vi) sản vật của sông, cá tôm bắt được từ sông"
       },
       {
         "example": "山幸",
         "reading": "やまさち",
-        "meaning": "food of the mountains (wild game, mountain vegetables, mushrooms, etc.), fruits of the land"
+        "meaning": "food of the mountains (wild game, mountain vegetables, mushrooms, etc.), fruits of the land |(vi) sản vật của núi rừng (thú rừng, rau núi, nấm...)"
       },
       {
         "example": "幸せ",
         "reading": "しあわせ",
-        "meaning": "happiness, good fortune, luck, blessing"
+        "meaning": "happiness, good fortune, luck, blessing |(vi) hạnh phúc, may mắn, phúc lành"
       },
       {
         "example": "幸せにする",
         "reading": "しあわせにする",
-        "meaning": "to bring someone happiness, to make someone happy"
+        "meaning": "to bring someone happiness, to make someone happy |(vi) mang lại hạnh phúc cho ai đó, làm cho ai đó hạnh phúc"
       }
     ],
     "radical": {
       "symbol": "干",
-      "meaning": "pestle"
+      "meaning": "pestle |(vi) Can (cái chày)"
     },
     "parts": [
       "亠",

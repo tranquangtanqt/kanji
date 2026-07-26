@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "assent, agree to, consent",
+    "meaning": "assent, agree to, consent |(vi) đồng ý, tán thành, chấp thuận",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "肯定文（こうていぶん）",
         "meaning": {
-          "english": "affirmative sentence"
+          "english": "affirmative sentence |(vi) câu khẳng định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(teiteki)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "肯定する（こうていする）",
         "meaning": {
-          "english": "affirm, agree"
+          "english": "affirm, agree |(vi) khẳng định, đồng ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(teiteki)_06_b.opus",
@@ -111,7 +111,7 @@
     "kanji": {
       "character": "肯",
       "meaning": {
-        "english": "assent, agree to, consent"
+        "english": "assent, agree to, consent |(vi) đồng ý, tán thành, chấp thuận"
       },
       "strokes": {
         "count": 8,
@@ -165,7 +165,7 @@
         "romaji": "tsuki"
       },
       "meaning": {
-        "english": "moon, month, period"
+        "english": "moon, month, period |(vi) Nguyệt (trăng, tháng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuki0.svg",
@@ -186,7 +186,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1813",
     "strokeCount": 8,
-    "meaning": "agreement, consent, comply with",
+    "meaning": "agreement, consent, comply with |(vi) đồng ý, tán thành, chấp thuận |(hv) Khẳng",
     "kunyomi": [
       "がえんじ.る"
     ],
@@ -197,24 +197,24 @@
       {
         "example": "肯定",
         "reading": "コウテイ",
-        "meaning": "affirmation, affirmative"
+        "meaning": "affirmation, affirmative |(vi) sự khẳng định, tính khẳng định"
       },
       {
         "example": "肯綮",
         "reading": "コウケイ",
-        "meaning": "the essential point"
+        "meaning": "the essential point |(vi) điểm mấu chốt, chỗ cốt yếu"
       },
       {
         "example": "首肯",
         "reading": "シュコウ",
-        "meaning": "assent, consent"
+        "meaning": "assent, consent |(vi) đồng ý, chấp thuận, gật đầu tán thành"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "肯んじる",
         "reading": "がえんじる",
-        "meaning": "to consent, to allow, to accept, to agree"
+        "meaning": "to consent, to allow, to accept, to agree |(vi) đồng ý, cho phép, chấp nhận, ưng thuận"
       }
     ],
     "radical": {
@@ -222,7 +222,7 @@
       "forms": [
         "⺼"
       ],
-      "meaning": "meat"
+      "meaning": "meat |(vi) Nhục (thịt)"
     },
     "parts": [
       "月",

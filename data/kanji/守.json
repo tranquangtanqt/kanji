@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "mamo, mori, mamoru, mamori",
-    "meaning": "protect, obey, babysitter",
+    "meaning": "protect, obey, babysitter |(vi) bảo vệ, tuân thủ, người trông trẻ",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "守備（しゅび）",
         "meaning": {
-          "english": "defense"
+          "english": "defense |(vi) thủ bị, sự phòng thủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-mamo(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "守衛（しゅえい）",
         "meaning": {
-          "english": "security guard"
+          "english": "security guard |(vi) thủ vệ, bảo vệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-mamo(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "死守する（ししゅする）",
         "meaning": {
-          "english": "defend to the last"
+          "english": "defend to the last |(vi) tử thủ, giữ đến cùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-mamo(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "厳守する（げんしゅする）",
         "meaning": {
-          "english": "observe (a rule) strictly"
+          "english": "observe (a rule) strictly |(vi) nghiêm thủ, tuân thủ nghiêm ngặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-mamo(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "保守的な（ほしゅてきな）",
         "meaning": {
-          "english": "conservative"
+          "english": "conservative |(vi) bảo thủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-mamo(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "留守（るす）",
         "meaning": {
-          "english": "being away from home"
+          "english": "being away from home |(vi) vắng nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-mamo(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "留守番（るすばん）",
         "meaning": {
-          "english": "house-watching"
+          "english": "house-watching |(vi) việc trông nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-mamo(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "留守番電話（るすばんでんわ）",
         "meaning": {
-          "english": "answering machine"
+          "english": "answering machine |(vi) máy trả lời tự động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-mamo(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "守る（まもる）",
         "meaning": {
-          "english": "protect, obey"
+          "english": "protect, obey |(vi) bảo vệ, tuân thủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-mamo(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "お守り（おまもり）",
         "meaning": {
-          "english": "amulet"
+          "english": "amulet |(vi) bùa hộ mệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-mamo(ru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "子守歌（こもりうた）",
         "meaning": {
-          "english": "lullaby"
+          "english": "lullaby |(vi) bài hát ru"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shu-mamo(ru)_06_k.opus",
@@ -262,7 +262,7 @@
     "kanji": {
       "character": "守",
       "meaning": {
-        "english": "protect, obey, babysitter"
+        "english": "protect, obey, babysitter |(vi) bảo vệ, tuân thủ, người trông trẻ"
       },
       "strokes": {
         "count": 6,
@@ -312,7 +312,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà, nhà cửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -333,7 +333,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "457",
     "strokeCount": 6,
-    "meaning": "guard, protect, defend, obey",
+    "meaning": "guard, protect, defend, obey |(vi) canh giữ, bảo vệ, phòng thủ, tuân theo |(hv) Thủ",
     "kunyomi": [
       "まも.る",
       "まも.り",
@@ -349,104 +349,104 @@
       {
         "example": "守備",
         "reading": "シュビ",
-        "meaning": "defense, defence"
+        "meaning": "defense, defence |(vi) thủ bị, sự phòng thủ"
       },
       {
         "example": "守勢",
         "reading": "シュセイ",
-        "meaning": "(being on the) defensive"
+        "meaning": "(being on the) defensive |(vi) thủ thế, thế phòng ngự"
       },
       {
         "example": "好守",
         "reading": "コウシュ",
-        "meaning": "good fielding"
+        "meaning": "good fielding |(vi) hảo thủ, tài bắt bóng tốt (bóng chày)"
       },
       {
         "example": "攻守",
         "reading": "コウシュ",
-        "meaning": "offense and defense, offence and defence, batting and fielding"
+        "meaning": "offense and defense, offence and defence, batting and fielding |(vi) công thủ, tấn công và phòng thủ, lượt đánh và lượt bắt bóng"
       },
       {
         "example": "守護",
         "reading": "シュゴ",
-        "meaning": "protection, safeguard, shugo (Kamakura or Muromachi period military governor)"
+        "meaning": "protection, safeguard, shugo (Kamakura or Muromachi period military governor) |(vi) thủ hộ, sự bảo vệ, sự che chở, shugo (chức thống đốc quân sự thời Kamakura và Muromachi)"
       },
       {
         "example": "都寺",
         "reading": "ツウス",
-        "meaning": "one of the six administrators of a Zen temple"
+        "meaning": "one of the six administrators of a Zen temple |(vi) đô tự, một trong sáu chức quản sự của thiền viện"
       },
       {
         "example": "居留守",
         "reading": "イルス",
-        "meaning": "pretending to be out"
+        "meaning": "pretending to be out |(vi) cư lưu thủ, việc giả vờ không có nhà"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "守る",
         "reading": "まもる",
-        "meaning": "to protect, to guard, to defend, to keep (i.e. a promise), to abide (by the rules), to observe, to obey, to follow"
+        "meaning": "to protect, to guard, to defend, to keep (i.e. a promise), to abide (by the rules), to observe, to obey, to follow |(vi) bảo vệ, canh giữ, phòng thủ, giữ (lời hứa), tuân thủ (luật lệ), chấp hành, vâng theo, làm theo"
       },
       {
         "example": "守り",
         "reading": "まもり",
-        "meaning": "protection, defense, defence, providence, amulet, charm, talisman"
+        "meaning": "protection, defense, defence, providence, amulet, charm, talisman |(vi) sự bảo vệ, sự phòng thủ, hàng phòng ngự, sự che chở của trời, bùa hộ mệnh, lá bùa, vật hộ thân"
       },
       {
         "example": "守り神",
         "reading": "まもりがみ",
-        "meaning": "guardian deity"
+        "meaning": "guardian deity |(vi) thần hộ mệnh, vị thần bảo hộ"
       },
       {
         "example": "島主",
         "reading": "とうしゅ",
-        "meaning": "island chief"
+        "meaning": "island chief |(vi) đảo chủ, người đứng đầu đảo"
       },
       {
         "example": "山守",
         "reading": "やまもり",
-        "meaning": "ranger (forest), mountain guardian"
+        "meaning": "ranger (forest), mountain guardian |(vi) sơn thủ, kiểm lâm, người giữ rừng núi"
       },
       {
         "example": "守り",
         "reading": "もり",
-        "meaning": "babysitting, babysitter, protecting, keeping, keeper"
+        "meaning": "babysitting, babysitter, protecting, keeping, keeper |(vi) việc trông trẻ, người trông trẻ, việc bảo vệ, việc trông giữ, người canh giữ"
       },
       {
         "example": "守り立てる",
         "reading": "もりたてる",
-        "meaning": "to support, to back up, to rally round, to revive (e.g. a company), to boost (e.g. morale), to bring up, to raise"
+        "meaning": "to support, to back up, to rally round, to revive (e.g. a company), to boost (e.g. morale), to bring up, to raise |(vi) ủng hộ, hậu thuẫn, xúm lại giúp sức, vực dậy (một công ty...), nâng cao (sĩ khí...), nuôi nấng, dưỡng dục"
       },
       {
         "example": "井守",
         "reading": "いもり",
-        "meaning": "newt (esp. the Japanese fire belly newt, Cynops pyrrhogaster)"
+        "meaning": "newt (esp. the Japanese fire belly newt, Cynops pyrrhogaster) |(vi) sa giông (nhất là sa giông bụng lửa Nhật Bản, Cynops pyrrhogaster)"
       },
       {
         "example": "足無井守",
         "reading": "あしなしいもり",
-        "meaning": "caecilian (any burrowing legless amphibian of the order Gymnophiona)"
+        "meaning": "caecilian (any burrowing legless amphibian of the order Gymnophiona) |(vi) ếch giun (loài lưỡng cư không chân đào hang, bộ Gymnophiona)"
       },
       {
         "example": "守",
         "reading": "かみ",
-        "meaning": "director (of the provincial governors under the ritsuryō system)"
+        "meaning": "director (of the provincial governors under the ritsuryō system) |(vi) thủ, chức trưởng quan (đứng đầu các quốc ty theo chế độ ritsuryō)"
       },
       {
         "example": "肥後守",
         "reading": "ひごのかみ",
-        "meaning": "higonokami, type of folding knife with metal handle"
+        "meaning": "higonokami, type of folding knife with metal handle |(vi) higonokami, loại dao gấp cán kim loại"
       },
       {
         "example": "出羽守",
         "reading": "でわのかみ",
-        "meaning": "director of Dewa province, person who frequently makes comparisons with other countries, industries, etc. when complaining about an issue or situation"
+        "meaning": "director of Dewa province, person who frequently makes comparisons with other countries, industries, etc. when complaining about an issue or situation |(vi) Dewa no kami, trưởng quan xứ Dewa; kẻ hay đem nước khác, ngành khác ra so sánh mỗi khi than phiền về một vấn đề hay tình huống"
       }
     ],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà)"
     },
     "parts": [
       "宀",

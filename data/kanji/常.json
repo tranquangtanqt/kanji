@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "tsune, toko",
-    "meaning": "normal, regular, ever-, always",
+    "meaning": "normal, regular, ever-, always |(vi) bình thường, đều đặn, luôn luôn",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "常識（じょうしき）",
         "meaning": {
-          "english": "common sense"
+          "english": "common sense |(vi) kiến thức thông thường, lẽ thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "常緑樹（じょうりょくじゅ）",
         "meaning": {
-          "english": "evergreen tree"
+          "english": "evergreen tree |(vi) cây thường xanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "常用漢字（じょうようかんじ）",
         "meaning": {
-          "english": "common use kanji"
+          "english": "common use kanji |(vi) kanji thông dụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "非常識（ひじょうしき）",
         "meaning": {
-          "english": "lack of common sense"
+          "english": "lack of common sense |(vi) thiếu hiểu biết thông thường, vô lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "非常口（ひじょうぐち）",
         "meaning": {
-          "english": "emergency exit"
+          "english": "emergency exit |(vi) lối thoát hiểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "正常な（せいじょうな）",
         "meaning": {
-          "english": "normal"
+          "english": "normal |(vi) bình thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "異常な（いじょうな）",
         "meaning": {
-          "english": "abnormal"
+          "english": "abnormal |(vi) bất thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "日常（にちじょう）",
         "meaning": {
-          "english": "daily, everyday"
+          "english": "daily, everyday |(vi) hàng ngày, thường nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "常に（つねに）",
         "meaning": {
-          "english": "always, customarily"
+          "english": "always, customarily |(vi) luôn luôn, thường xuyên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "常夏（とこなつ）",
         "meaning": {
-          "english": "everlasting summer"
+          "english": "everlasting summer |(vi) mùa hè vĩnh cửu, quanh năm mùa hè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_j.opus",
@@ -244,7 +244,7 @@
     "kanji": {
       "character": "常",
       "meaning": {
-        "english": "normal, regular, ever-, always"
+        "english": "normal, regular, ever-, always |(vi) bình thường, đều đặn, luôn luôn"
       },
       "strokes": {
         "count": 11,
@@ -304,7 +304,7 @@
         "romaji": "haba"
       },
       "meaning": {
-        "english": "cloth"
+        "english": "cloth |(vi) Cân (khăn, vải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/haba0.svg",
@@ -325,7 +325,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "293",
     "strokeCount": 11,
-    "meaning": "usual, ordinary, normal, common, regular, continually, always, long-lasting",
+    "meaning": "usual, ordinary, normal, common, regular, continually, always, long-lasting |(vi) thông thường, bình thường, phổ biến, đều đặn, liên tục, luôn luôn, lâu dài |(hv) Thường",
     "kunyomi": [
       "つね",
       "とこ-"
@@ -337,49 +337,49 @@
       {
         "example": "常識",
         "reading": "ジョウシキ",
-        "meaning": "common sense, good sense, common knowledge, general knowledge, common practice, accepted practice, social etiquette"
+        "meaning": "common sense, good sense, common knowledge, general knowledge, common practice, accepted practice, social etiquette |(vi) lẽ thường, ý thức chung, kiến thức phổ thông, kiến thức chung, thông lệ, quy tắc xã giao"
       },
       {
         "example": "常勤",
         "reading": "ジョウキン",
-        "meaning": "full-time employment"
+        "meaning": "full-time employment |(vi) làm việc toàn thời gian"
       },
       {
         "example": "平常",
         "reading": "ヘイジョウ",
-        "meaning": "normal, usual, ordinary, everyday"
+        "meaning": "normal, usual, ordinary, everyday |(vi) bình thường, thông thường, như mọi ngày"
       },
       {
         "example": "経常",
         "reading": "ケイジョウ",
-        "meaning": "ordinary"
+        "meaning": "ordinary |(vi) thường xuyên, thông thường"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "常",
         "reading": "つね",
-        "meaning": "usual state of things"
+        "meaning": "usual state of things |(vi) trạng thái bình thường của sự vật"
       },
       {
         "example": "常に",
         "reading": "つねに",
-        "meaning": "always, constantly"
+        "meaning": "always, constantly |(vi) luôn luôn, thường xuyên"
       },
       {
         "example": "経常",
         "reading": "けいじょう",
-        "meaning": "ordinary"
+        "meaning": "ordinary |(vi) thường xuyên, thông thường"
       },
       {
         "example": "人の常",
         "reading": "ひとのつね",
-        "meaning": "human nature"
+        "meaning": "human nature |(vi) bản tính con người, lẽ thường tình của con người"
       }
     ],
     "radical": {
       "symbol": "巾",
-      "meaning": "turban, scarf"
+      "meaning": "turban, scarf |(vi) Cân (khăn, vải)"
     },
     "parts": [
       "冖",

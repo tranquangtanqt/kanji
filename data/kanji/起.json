@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "o, okiru, okosu",
-    "meaning": "rise, get up",
+    "meaning": "rise, get up |(vi) dậy, đứng lên",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "起床する（きしょうする）",
         "meaning": {
-          "english": "get out of bed"
+          "english": "get out of bed |(vi) thức dậy, ra khỏi giường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/o(kiru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "提起する（ていきする）",
         "meaning": {
-          "english": "raise (a question/demand)"
+          "english": "raise (a question/demand) |(vi) đề xuất, nêu ra (vấn đề/yêu cầu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/o(kiru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "起訴する（きそする）",
         "meaning": {
-          "english": "prosecute"
+          "english": "prosecute |(vi) khởi tố, truy tố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/o(kiru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "起きる（おきる）",
         "meaning": {
-          "english": "get up, happen [v.i.]"
+          "english": "get up, happen [v.i.] |(vi) thức dậy, xảy ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/o(kiru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "起こす（おこす）",
         "meaning": {
-          "english": "wake someone, cause [v.t.]"
+          "english": "wake someone, cause [v.t.] |(vi) đánh thức, gây ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/o(kiru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "早起きする（はやおきする）",
         "meaning": {
-          "english": "wake up early"
+          "english": "wake up early |(vi) dậy sớm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/o(kiru)_06_f.opus",
@@ -233,7 +233,7 @@
     "kanji": {
       "character": "起",
       "meaning": {
-        "english": "rise, get up"
+        "english": "rise, get up |(vi) dậy, đứng lên"
       },
       "strokes": {
         "count": 10,
@@ -291,7 +291,7 @@
         "romaji": "sounyou"
       },
       "meaning": {
-        "english": "to run"
+        "english": "to run |(vi) Tẩu (chạy)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sounyou0.svg",
@@ -312,7 +312,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "374",
     "strokeCount": 10,
-    "meaning": "rouse, wake up, get up",
+    "meaning": "rouse, wake up, get up |(vi) đánh thức, tỉnh dậy, dậy |(hv) Khởi",
     "kunyomi": [
       "お.きる",
       "お.こる",
@@ -327,49 +327,49 @@
       {
         "example": "起源",
         "reading": "キゲン",
-        "meaning": "origin, beginning, source, rise"
+        "meaning": "origin, beginning, source, rise |(vi) nguồn gốc, khởi nguồn, sự khởi đầu"
       },
       {
         "example": "起因",
         "reading": "キイン",
-        "meaning": "to be caused by, to result from, to arise from, to stem from, to be due to, cause, origin"
+        "meaning": "to be caused by, to result from, to arise from, to stem from, to be due to, cause, origin |(vi) bắt nguồn từ, do, xuất phát từ, nguyên nhân"
       },
       {
         "example": "突起",
         "reading": "トッキ",
-        "meaning": "protuberance, projection, prominence, protrusion, bump, boss, process, apophysis"
+        "meaning": "protuberance, projection, prominence, protrusion, bump, boss, process, apophysis |(vi) chỗ lồi, phần nhô ra, cục u, mấu"
       },
       {
         "example": "決起",
         "reading": "ケッキ",
-        "meaning": "rising to action, standing up against, jumping to one's feet"
+        "meaning": "rising to action, standing up against, jumping to one's feet |(vi) vùng lên hành động, đứng lên phản kháng, bật dậy"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "起きる",
         "reading": "おきる",
-        "meaning": "to get up, to rise, to blaze up (fire), to wake up, to be awake, to stay awake, to occur (usu. of unfavourable incidents), to happen, to take place"
+        "meaning": "to get up, to rise, to blaze up (fire), to wake up, to be awake, to stay awake, to occur (usu. of unfavourable incidents), to happen, to take place |(vi) thức dậy, đứng dậy, bùng lên (lửa), tỉnh giấc, thức, thức trắng, xảy ra (thường sự việc bất lợi)"
       },
       {
         "example": "起こる",
         "reading": "おこる",
-        "meaning": "to occur, to happen"
+        "meaning": "to occur, to happen |(vi) xảy ra, diễn ra"
       },
       {
         "example": "起こす",
         "reading": "おこす",
-        "meaning": "to raise, to raise up, to set up, to pick up, to wake, to wake up, to waken, to awaken, to cause, to bring about, to lead to, to trigger, to give rise to, to create, to generate (e.g. heat, electricity), to produce, to start, to begin, to launch, to establish, to found, to set up, to open, to plough, to plow, to till, to fall ill with, to transcribe, to write down (what is spoken), to turn over (a card)"
+        "meaning": "to raise, to raise up, to set up, to pick up, to wake, to wake up, to waken, to awaken, to cause, to bring about, to lead to, to trigger, to give rise to, to create, to generate (e.g. heat, electricity), to produce, to start, to begin, to launch, to establish, to found, to set up, to open, to plough, to plow, to till, to fall ill with, to transcribe, to write down (what is spoken), to turn over (a card) |(vi) nâng lên, dựng lên, thiết lập, nhặt lên, đánh thức, gây ra, dẫn đến, kích hoạt, tạo ra, sinh ra (nhiệt, điện...), khởi động, thành lập, mở, cày (đất), mắc bệnh, phiên chép lại (lời nói), lật (quân bài)"
       },
       {
         "example": "起こす",
         "reading": "おこす",
-        "meaning": "to raise, to raise up, to set up, to pick up, to wake, to wake up, to waken, to awaken, to cause, to bring about, to lead to, to trigger, to give rise to, to create, to generate (e.g. heat, electricity), to produce, to start, to begin, to launch, to establish, to found, to set up, to open, to plough, to plow, to till, to fall ill with, to transcribe, to write down (what is spoken), to turn over (a card)"
+        "meaning": "to raise, to raise up, to set up, to pick up, to wake, to wake up, to waken, to awaken, to cause, to bring about, to lead to, to trigger, to give rise to, to create, to generate (e.g. heat, electricity), to produce, to start, to begin, to launch, to establish, to found, to set up, to open, to plough, to plow, to till, to fall ill with, to transcribe, to write down (what is spoken), to turn over (a card) |(vi) nâng lên, dựng lên, thiết lập, nhặt lên, đánh thức, gây ra, dẫn đến, kích hoạt, tạo ra, sinh ra (nhiệt, điện...), khởi động, thành lập, mở, cày (đất), mắc bệnh, phiên chép lại (lời nói), lật (quân bài)"
       },
       {
         "example": "起つ",
         "reading": "たつ",
-        "meaning": "to take action, to act, to rise (up), to rouse oneself"
+        "meaning": "to take action, to act, to rise (up), to rouse oneself |(vi) hành động, đứng lên, vùng dậy, tự khích lệ bản thân"
       }
     ],
     "radical": {
@@ -377,7 +377,7 @@
       "forms": [
         "赱"
       ],
-      "meaning": "run"
+      "meaning": "run |(vi) Tẩu (chạy)"
     },
     "parts": [
       "土",

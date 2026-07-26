@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "wazura, wazurau",
-    "meaning": "affected by disease, be ill, suffer",
+    "meaning": "affected by disease, be ill, suffer |(vi) mắc bệnh, bị bệnh, chịu đựng",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "患者（かんじゃ）",
         "meaning": {
-          "english": "patient [n.]"
+          "english": "patient [n.] |(vi) bệnh nhân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-wazura(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "患部（かんぶ）",
         "meaning": {
-          "english": "affected part"
+          "english": "affected part |(vi) vùng bị bệnh, chỗ tổn thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-wazura(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "急患（きゅうかん）",
         "meaning": {
-          "english": "emergency case"
+          "english": "emergency case |(vi) ca cấp cứu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-wazura(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "患う（わずらう）",
         "meaning": {
-          "english": "fall ill"
+          "english": "fall ill |(vi) mắc bệnh, ốm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-wazura(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "長患い（ながわずらい）",
         "meaning": {
-          "english": "long illness"
+          "english": "long illness |(vi) bệnh kéo dài, ốm lâu ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-wazura(u)_06_e.opus",
@@ -165,7 +165,7 @@
     "kanji": {
       "character": "患",
       "meaning": {
-        "english": "affected by disease, be ill, suffer"
+        "english": "affected by disease, be ill, suffer |(vi) mắc bệnh, bị bệnh, chịu đựng"
       },
       "strokes": {
         "count": 11,
@@ -225,7 +225,7 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (trái tim, tâm trí)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -246,7 +246,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "796",
     "strokeCount": 11,
-    "meaning": "afflicted, disease, suffer from, be ill",
+    "meaning": "afflicted, disease, suffer from, be ill |(vi) đau khổ, bệnh tật, chịu đựng bệnh, ốm |(hv) Hoạn",
     "kunyomi": [
       "わずら.う"
     ],
@@ -257,29 +257,29 @@
       {
         "example": "患者",
         "reading": "カンジャ",
-        "meaning": "patient"
+        "meaning": "patient |(vi) bệnh nhân"
       },
       {
         "example": "患部",
         "reading": "カンブ",
-        "meaning": "affected part, diseased part, wound"
+        "meaning": "affected part, diseased part, wound |(vi) vùng bị bệnh, chỗ tổn thương, vết thương"
       },
       {
         "example": "疾患",
         "reading": "シッカン",
-        "meaning": "disease, illness, disorder, condition, ailment"
+        "meaning": "disease, illness, disorder, condition, ailment |(vi) bệnh tật, bệnh lý, rối loạn, tình trạng bệnh"
       },
       {
         "example": "病患",
         "reading": "ビョウカン",
-        "meaning": "sickness, disease"
+        "meaning": "sickness, disease |(vi) ốm đau, bệnh tật"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "患う",
         "reading": "わずらう",
-        "meaning": "to be ill, to suffer from"
+        "meaning": "to be ill, to suffer from |(vi) mắc bệnh, ốm, chịu đựng"
       }
     ],
     "radical": {
@@ -288,7 +288,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim, tâm trí)"
     },
     "parts": [
       "口",

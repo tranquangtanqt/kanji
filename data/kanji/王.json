@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "king",
+    "meaning": "king |(vi) vua",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "王様（おうさま）",
         "meaning": {
-          "english": "king"
+          "english": "king |(vi) nhà vua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(sama)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "王国（おうこく）",
         "meaning": {
-          "english": "kingdom, monarchy"
+          "english": "kingdom, monarchy |(vi) vương quốc, chế độ quân chủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(sama)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "王者（おうじゃ）",
         "meaning": {
-          "english": "king, monarch, ruler"
+          "english": "king, monarch, ruler |(vi) vua, quân chủ, người cai trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(sama)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "王子（おうじ）",
         "meaning": {
-          "english": "prince"
+          "english": "prince |(vi) hoàng tử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(sama)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "王女（おうじょ）",
         "meaning": {
-          "english": "princess"
+          "english": "princess |(vi) công chúa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(sama)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "女王（じょおう）",
         "meaning": {
-          "english": "queen"
+          "english": "queen |(vi) nữ hoàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(sama)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "法王（ほうおう）",
         "meaning": {
-          "english": "Pope"
+          "english": "Pope |(vi) Giáo hoàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(sama)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "帝王（ていおう）",
         "meaning": {
-          "english": "sovereign, emperor"
+          "english": "sovereign, emperor |(vi) hoàng đế, đế vương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(sama)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "石油王（せきゆおう）",
         "meaning": {
-          "english": "oil magnate"
+          "english": "oil magnate |(vi) trùm dầu mỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(sama)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "*親王（しんのう）",
         "meaning": {
-          "english": "imperial prince"
+          "english": "imperial prince |(vi) hoàng thân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(sama)_06_j.opus",
@@ -220,7 +220,7 @@
     "kanji": {
       "character": "王",
       "meaning": {
-        "english": "king"
+        "english": "king |(vi) vua"
       },
       "strokes": {
         "count": 4,
@@ -266,7 +266,7 @@
         "romaji": "tama"
       },
       "meaning": {
-        "english": "jewelry"
+        "english": "jewelry |(vi) Ngọc (ngọc bích)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tama0.svg",
@@ -287,7 +287,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "684",
     "strokeCount": 4,
-    "meaning": "king, rule, magnate",
+    "meaning": "king, rule, magnate |(vi) vua, cai trị, trùm (ngành) |(hv) Vương",
     "kunyomi": [],
     "onyomi": [
       "オウ",
@@ -297,22 +297,22 @@
       {
         "example": "王",
         "reading": "オウ",
-        "meaning": "king, ruler, sovereign, monarch, tycoon, magnate, champion, master, king (of the senior player)"
+        "meaning": "king, ruler, sovereign, monarch, tycoon, magnate, champion, master, king (of the senior player) |(vi) vua, người cai trị, quân chủ, ông trùm, nhà vô địch, bậc thầy, vua (người chơi kỳ cựu)"
       },
       {
         "example": "王女",
         "reading": "オウジョ",
-        "meaning": "princess"
+        "meaning": "princess |(vi) công chúa"
       },
       {
         "example": "竜王",
         "reading": "リュウオウ",
-        "meaning": "Dragon King, promoted rook"
+        "meaning": "Dragon King, promoted rook |(vi) Long Vương, xe được phong cấp (shogi)"
       },
       {
         "example": "大王",
         "reading": "ダイオウ",
-        "meaning": "great king"
+        "meaning": "great king |(vi) đại vương"
       }
     ],
     "kunyomiExamples": [],
@@ -321,7 +321,7 @@
       "forms": [
         "王"
       ],
-      "meaning": "jade (king)"
+      "meaning": "jade (king) |(vi) Ngọc (ngọc bích)"
     },
     "parts": [
       "王"

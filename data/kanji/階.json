@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "floor, rank, stair, level",
+    "meaning": "floor, rank, stair, level |(vi) tầng, cấp bậc, bậc thang, mức",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "階段（かいだん）",
         "meaning": {
-          "english": "stairs"
+          "english": "stairs |(vi) cầu thang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "階下（かいか）",
         "meaning": {
-          "english": "lower floor, downstairs"
+          "english": "lower floor, downstairs |(vi) tầng dưới, phía dưới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "階級（かいきゅう）",
         "meaning": {
-          "english": "class, rank, grade"
+          "english": "class, rank, grade |(vi) giai cấp, đẳng cấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "階層（かいそう）",
         "meaning": {
-          "english": "class, level, stratum, hierarchy"
+          "english": "class, level, stratum, hierarchy |(vi) giai tầng, tầng lớp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "地階（ちかい）",
         "meaning": {
-          "english": "basement, cellar"
+          "english": "basement, cellar |(vi) tầng hầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "五階（ごかい）",
         "meaning": {
-          "english": "fifth floor"
+          "english": "fifth floor |(vi) tầng năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "各階（かくかい）",
         "meaning": {
-          "english": "each floor"
+          "english": "each floor |(vi) mỗi tầng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "段階（だんかい）",
         "meaning": {
-          "english": "grade, step, stage"
+          "english": "grade, step, stage |(vi) giai đoạn, bước, cấp độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "音階（おんかい）",
         "meaning": {
-          "english": "musical scale"
+          "english": "musical scale |(vi) âm giai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_i.opus",
@@ -240,7 +240,7 @@
     "kanji": {
       "character": "階",
       "meaning": {
-        "english": "floor, rank, stair, level"
+        "english": "floor, rank, stair, level |(vi) tầng, cấp bậc, bậc thang, mức"
       },
       "strokes": {
         "count": 12,
@@ -302,7 +302,7 @@
         "romaji": "kozatohen"
       },
       "meaning": {
-        "english": "hill, mound"
+        "english": "hill, mound |(vi) Phụ (gò đất, đê)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kozatohen0.svg",
@@ -323,7 +323,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "513",
     "strokeCount": 12,
-    "meaning": "storey, stair, counter for storeys of a building",
+    "meaning": "storey, stair, counter for storeys of a building |(vi) tầng lầu, bậc thang, lượng từ đếm tầng nhà |(hv) Giai",
     "kunyomi": [
       "きざはし"
     ],
@@ -334,29 +334,29 @@
       {
         "example": "階",
         "reading": "カイ",
-        "meaning": "storey, story, floor, stairs, stage (in chronostratigraphy), counter for storeys and floors of a building"
+        "meaning": "storey, story, floor, stairs, stage (in chronostratigraphy), counter for storeys and floors of a building |(vi) tầng, tầng lầu, bậc thang, thế (địa tầng học), lượng từ đếm tầng nhà"
       },
       {
         "example": "階級",
         "reading": "カイキュウ",
-        "meaning": "(social) class, rank, grade"
+        "meaning": "(social) class, rank, grade |(vi) giai cấp (xã hội), đẳng cấp"
       },
       {
         "example": "中二階",
         "reading": "チュウニカイ",
-        "meaning": "mezzanine floor"
+        "meaning": "mezzanine floor |(vi) tầng lửng"
       },
       {
         "example": "位階",
         "reading": "イカイ",
-        "meaning": "court rank"
+        "meaning": "court rank |(vi) phẩm hàm triều đình"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "階",
         "reading": "きざはし",
-        "meaning": "stairs, stairs at the front of a noh stage"
+        "meaning": "stairs, stairs at the front of a noh stage |(vi) bậc thang, bậc thang phía trước sân khấu Noh"
       }
     ],
     "radical": {
@@ -364,7 +364,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "mound, dam (阝 left)"
+      "meaning": "mound, dam (阝 left) |(vi) Phụ (gò đất, đê)"
     },
     "parts": [
       "比",

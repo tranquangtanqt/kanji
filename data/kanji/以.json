@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 2,
     "kunyomi": "mo, motte",
-    "meaning": "to the ... of, by means of",
+    "meaning": "to the ... of, by means of |(vi) cho đến..., bằng cách, thông qua",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "以上（いじょう）",
         "meaning": {
-          "english": "more than"
+          "english": "more than |(vi) trên, từ ... trở lên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(nai)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "以下（いか）",
         "meaning": {
-          "english": "less than"
+          "english": "less than |(vi) dưới, từ ... trở xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(nai)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "以来（いらい）",
         "meaning": {
-          "english": "since"
+          "english": "since |(vi) kể từ, từ khi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(nai)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "以外（いがい）",
         "meaning": {
-          "english": "except"
+          "english": "except |(vi) ngoại trừ, ngoài ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(nai)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "以内（いない）",
         "meaning": {
-          "english": "within, less than"
+          "english": "within, less than |(vi) trong vòng, không quá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(nai)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "以降（いこう）",
         "meaning": {
-          "english": "hereafter, thereafter"
+          "english": "hereafter, thereafter |(vi) kể từ đó, về sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(nai)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "以心伝心（いしんでんしん）",
         "meaning": {
-          "english": "tacit understanding"
+          "english": "tacit understanding |(vi) tâm truyền tâm, hiểu ý nhau không cần lời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(nai)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "以って（もって）",
         "meaning": {
-          "english": "with, by means of"
+          "english": "with, by means of |(vi) bằng, thông qua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(nai)_06_h.opus",
@@ -261,7 +261,7 @@
     "kanji": {
       "character": "以",
       "meaning": {
-        "english": "to the ... of, by means of"
+        "english": "to the ... of, by means of |(vi) cho đến..., bằng cách, thông qua"
       },
       "strokes": {
         "count": 5,
@@ -309,7 +309,7 @@
         "romaji": "hito"
       },
       "meaning": {
-        "english": "person"
+        "english": "person |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hito0.svg",
@@ -330,7 +330,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "126",
     "strokeCount": 5,
-    "meaning": "by means of, because, in view of, compared with",
+    "meaning": "by means of, because, in view of, compared with |(vi) bằng cách, vì, xét theo, so với |(hv) Dĩ",
     "kunyomi": [
       "もっ.て"
     ],
@@ -341,34 +341,34 @@
       {
         "example": "以降",
         "reading": "イコウ",
-        "meaning": "on and after, from ... onward, since"
+        "meaning": "on and after, from ... onward, since |(vi) kể từ đó trở đi, từ ... về sau"
       },
       {
         "example": "以下",
         "reading": "イカ",
-        "meaning": "not exceeding ..., not more than ..., ... and under, ... and below, ... or fewer, below (a standard, level, etc.), under, beneath, less than, the following, the below-mentioned, the rest, followed by ..., including ..., ... and other (employees, officials, etc.)"
+        "meaning": "not exceeding ..., not more than ..., ... and under, ... and below, ... or fewer, below (a standard, level, etc.), under, beneath, less than, the following, the below-mentioned, the rest, followed by ..., including ..., ... and other (employees, officials, etc.) |(vi) không vượt quá, từ ... trở xuống, dưới (một tiêu chuẩn), phần còn lại, những điều dưới đây, bao gồm..., và những (nhân viên, quan chức...) khác"
       },
       {
         "example": "縞曹以",
         "reading": "シマソイ",
-        "meaning": "threestripe rockfish (Sebastes trivittatus)"
+        "meaning": "threestripe rockfish (Sebastes trivittatus) |(vi) cá mú sọc ba (Sebastes trivittatus)"
       },
       {
         "example": "斑曹以",
         "reading": "ムラソイ",
-        "meaning": "spotbelly rockfish (Sebastes pachycephalus)"
+        "meaning": "spotbelly rockfish (Sebastes pachycephalus) |(vi) cá mú bụng đốm (Sebastes pachycephalus)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "以て",
         "reading": "もって",
-        "meaning": "with, by, by means of, because of, on account of, for, due to, on (a day, date), at (a time), as of (e.g. today), adds emphasis to preceding word, in addition (to being), moreover, as well as, and, therefore, and so, hence"
+        "meaning": "with, by, by means of, because of, on account of, for, due to, on (a day, date), at (a time), as of (e.g. today), adds emphasis to preceding word, in addition (to being), moreover, as well as, and, therefore, and so, hence |(vi) với, bằng, thông qua, bởi vì, do, vào (ngày, thời điểm), nhấn mạnh từ trước đó, thêm vào đó, hơn nữa, vì vậy, do đó"
       },
       {
         "example": "以ってしても",
         "reading": "もってしても",
-        "meaning": "(not) even when using ..., (not) even with the help of ..., (not) even by ..."
+        "meaning": "(not) even when using ..., (not) even with the help of ..., (not) even by ... |(vi) (không) ngay cả khi dùng..., (không) ngay cả với sự trợ giúp của..."
       }
     ],
     "radical": {
@@ -376,7 +376,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "丶",

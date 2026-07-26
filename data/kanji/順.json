@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "order, obey, sequence",
+    "meaning": "order, obey, sequence |(vi) thứ tự, tuân theo, trình tự",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "順（じゅん）",
         "meaning": {
-          "english": "order, turn [n.]"
+          "english": "order, turn [n.] |(vi) thứ tự, lượt [danh từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jun(ban)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "順番（じゅんばん）",
         "meaning": {
-          "english": "order, turn [n.]"
+          "english": "order, turn [n.] |(vi) thứ tự, lượt [danh từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jun(ban)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "順序（じゅんじょ）",
         "meaning": {
-          "english": "order, sequence, procedure"
+          "english": "order, sequence, procedure |(vi) thứ tự, trình tự, quy trình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jun(ban)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "順位（じゅんい）",
         "meaning": {
-          "english": "order, rank, precedence"
+          "english": "order, rank, precedence |(vi) thứ hạng, xếp hạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jun(ban)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "順路（じゅんろ）",
         "meaning": {
-          "english": "route"
+          "english": "route |(vi) lộ trình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jun(ban)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "順風満帆（じゅんぷうまんぱん）",
         "meaning": {
-          "english": "smooth sailing"
+          "english": "smooth sailing |(vi) thuận buồm xuôi gió"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jun(ban)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "道順（みちじゅん）",
         "meaning": {
-          "english": "itinerary, route"
+          "english": "itinerary, route |(vi) lộ trình, đường đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jun(ban)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "手順（てじゅん）",
         "meaning": {
-          "english": "process, procedure, protocol"
+          "english": "process, procedure, protocol |(vi) quy trình, thủ tục, trình tự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jun(ban)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "筆順（ひつじゅん）",
         "meaning": {
-          "english": "stroke order"
+          "english": "stroke order |(vi) thứ tự nét bút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jun(ban)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "先着順（せんちゃくじゅん）",
         "meaning": {
-          "english": "order of arrival"
+          "english": "order of arrival |(vi) thứ tự đến trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jun(ban)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "順調な（じゅんちょうな）",
         "meaning": {
-          "english": "favorable, alright"
+          "english": "favorable, alright |(vi) thuận lợi, ổn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jun(ban)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "従順な（じゅうじゅんな）",
         "meaning": {
-          "english": "obedient, submissive"
+          "english": "obedient, submissive |(vi) ngoan ngoãn, phục tùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jun(ban)_06_l.opus",
@@ -243,7 +243,7 @@
     "kanji": {
       "character": "順",
       "meaning": {
-        "english": "order, obey, sequence"
+        "english": "order, obey, sequence |(vi) thứ tự, tuân theo, trình tự"
       },
       "strokes": {
         "count": 12,
@@ -305,7 +305,7 @@
         "romaji": "oogai"
       },
       "meaning": {
-        "english": "head, page"
+        "english": "head, page |(vi) Hiệt (đầu, trang)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/oogai0.svg",
@@ -326,7 +326,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "779",
     "strokeCount": 12,
-    "meaning": "obey, order, turn, right, docility, occasion",
+    "meaning": "obey, order, turn, right, docility, occasion |(vi) tuân theo, thứ tự, lượt, thuận, ngoan ngoãn, dịp |(hv) Thuận",
     "kunyomi": [],
     "onyomi": [
       "ジュン"
@@ -335,28 +335,28 @@
       {
         "example": "順",
         "reading": "ジュン",
-        "meaning": "order, turn, sorting, obedient, docile, submissive, meek"
+        "meaning": "order, turn, sorting, obedient, docile, submissive, meek |(vi) thứ tự, lượt, sắp xếp, ngoan ngoãn, thuần phục, phục tùng, hiền lành"
       },
       {
         "example": "順位",
         "reading": "ジュンイ",
-        "meaning": "order, rank, position (e.g. in a race), precedence"
+        "meaning": "order, rank, position (e.g. in a race), precedence |(vi) thứ tự, thứ hạng, vị trí (ví dụ trong một cuộc đua), ưu tiên"
       },
       {
         "example": "打順",
         "reading": "ダジュン",
-        "meaning": "batting order, batting line-up"
+        "meaning": "batting order, batting line-up |(vi) thứ tự đánh bóng, đội hình đánh bóng"
       },
       {
         "example": "筆順",
         "reading": "ヒツジュン",
-        "meaning": "stroke order (esp. of a Chinese character)"
+        "meaning": "stroke order (esp. of a Chinese character) |(vi) thứ tự nét bút (đặc biệt của chữ Hán)"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "頁",
-      "meaning": "leaf"
+      "meaning": "leaf |(vi) Hiệt (đầu)"
     },
     "parts": [
       "ハ",

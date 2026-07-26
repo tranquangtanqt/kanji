@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "mo, motsu, mochi",
-    "meaning": "hold",
+    "meaning": "hold |(vi) cầm, giữ",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "持参する（じさんする）",
         "meaning": {
-          "english": "bring"
+          "english": "bring |(vi) mang theo, đem theo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-mo(tsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "支持する（しじする）",
         "meaning": {
-          "english": "support [v.t.]"
+          "english": "support [v.t.] |(vi) ủng hộ, hỗ trợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-mo(tsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "維持する（いじする）",
         "meaning": {
-          "english": "maintain"
+          "english": "maintain |(vi) duy trì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-mo(tsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "持つ（もつ）",
         "meaning": {
-          "english": "hold"
+          "english": "hold |(vi) cầm, giữ, có"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-mo(tsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "持って行く（もっていく）",
         "meaning": {
-          "english": "take"
+          "english": "take |(vi) mang đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-mo(tsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "持って来る（もってくる）",
         "meaning": {
-          "english": "bring"
+          "english": "bring |(vi) mang đến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-mo(tsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "金持ち（かねもち）",
         "meaning": {
-          "english": "rich person"
+          "english": "rich person |(vi) người giàu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-mo(tsu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "気持ち（きもち）",
         "meaning": {
-          "english": "feeling"
+          "english": "feeling |(vi) cảm giác, tâm trạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-mo(tsu)_06_h.opus",
@@ -244,7 +244,7 @@
     "kanji": {
       "character": "持",
       "meaning": {
-        "english": "hold"
+        "english": "hold |(vi) cầm, giữ"
       },
       "strokes": {
         "count": 9,
@@ -300,7 +300,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -321,7 +321,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "119",
     "strokeCount": 9,
-    "meaning": "hold, have",
+    "meaning": "hold, have |(vi) cầm, giữ, có |(hv) Trì",
     "kunyomi": [
       "も.つ",
       "-も.ち",
@@ -334,44 +334,44 @@
       {
         "example": "持",
         "reading": "ジ",
-        "meaning": "draw (in go, poetry contest, etc.), tie"
+        "meaning": "draw (in go, poetry contest, etc.), tie |(vi) hòa (trong cờ vây, thi thơ,...), hòa nhau"
       },
       {
         "example": "持久",
         "reading": "ジキュウ",
-        "meaning": "endurance, persistence"
+        "meaning": "endurance, persistence |(vi) bền bỉ, kiên trì, sức chịu đựng"
       },
       {
         "example": "堅持",
         "reading": "ケンジ",
-        "meaning": "holding on to, sticking to"
+        "meaning": "holding on to, sticking to |(vi) kiên trì giữ vững, bám chặt"
       },
       {
         "example": "護持",
         "reading": "ゴジ",
-        "meaning": "defend and maintain, support, protection"
+        "meaning": "defend and maintain, support, protection |(vi) bảo vệ và duy trì, hộ trì, bảo hộ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "持つ",
         "reading": "もつ",
-        "meaning": "to hold (in one's hand), to take, to carry, to possess, to have, to own, to maintain, to keep, to last, to be durable, to keep, to survive, to take charge of, to be in charge of, to hold (meeting, etc.), to have (opportunity, etc.), to have \"it\", to have that special something, to be blessed with good luck"
+        "meaning": "to hold (in one's hand), to take, to carry, to possess, to have, to own, to maintain, to keep, to last, to be durable, to keep, to survive, to take charge of, to be in charge of, to hold (meeting, etc.), to have (opportunity, etc.), to have \"it\", to have that special something, to be blessed with good luck |(vi) cầm (trong tay), lấy, mang, sở hữu, có, giữ, duy trì, bền, kéo dài, tồn tại, phụ trách, đảm nhiệm, tổ chức (cuộc họp), có (cơ hội), có sức hút đặc biệt, may mắn"
       },
       {
         "example": "持子",
         "reading": "もつご",
-        "meaning": "stone moroko (Pseudorasbora parva), topmouth gudgeon"
+        "meaning": "stone moroko (Pseudorasbora parva), topmouth gudgeon |(vi) cá bống trắng (Pseudorasbora parva), cá bống miệng tròn"
       },
       {
         "example": "持てる",
         "reading": "もてる",
-        "meaning": "to be able to possess (hold, get, etc.), to be well liked, to be popular, to be pampered (spoiled, doted upon, etc.), to be welcomed, to endure (the tests of time, the elements, etc.), to last, possessed, held, rich, wealthy, affluent"
+        "meaning": "to be able to possess (hold, get, etc.), to be well liked, to be popular, to be pampered (spoiled, doted upon, etc.), to be welcomed, to endure (the tests of time, the elements, etc.), to last, possessed, held, rich, wealthy, affluent |(vi) được yêu thích, được nuông chiều, được chào đón, chịu đựng được (thử thách thời gian, thời tiết,...), bền, giàu có, sung túc"
       },
       {
         "example": "持てる者",
         "reading": "もてるもの",
-        "meaning": "(the) haves, those who have"
+        "meaning": "(the) haves, those who have |(vi) người có (của cải), tầng lớp giàu có"
       }
     ],
     "radical": {
@@ -379,7 +379,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "土",

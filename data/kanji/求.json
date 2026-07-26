@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "moto, motomeru",
-    "meaning": "seek, demand",
+    "meaning": "seek, demand |(vi) tìm kiếm, yêu cầu",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "求人（きゅうじん）",
         "meaning": {
-          "english": "help wanted, position vacant"
+          "english": "help wanted, position vacant |(vi) tuyển dụng, tuyển người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moto(meru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "求職（きゅうしょく）",
         "meaning": {
-          "english": "job search"
+          "english": "job search |(vi) tìm việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moto(meru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "欲求（よっきゅう）",
         "meaning": {
-          "english": "desire [n.]"
+          "english": "desire [n.] |(vi) ham muốn, khao khát [danh từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moto(meru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "求婚する（きゅうこんする）",
         "meaning": {
-          "english": "propose (marriage)"
+          "english": "propose (marriage) |(vi) cầu hôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moto(meru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "要求する（ようきゅうする）",
         "meaning": {
-          "english": "demand [v.t.]"
+          "english": "demand [v.t.] |(vi) yêu cầu, đòi hỏi [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moto(meru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "請求する（せいきゅうする）",
         "meaning": {
-          "english": "claim, request [v.t.]"
+          "english": "claim, request [v.t.] |(vi) yêu cầu, đòi thanh toán [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moto(meru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "追求する（ついきゅうする）",
         "meaning": {
-          "english": "investigate, pursue"
+          "english": "investigate, pursue |(vi) điều tra, theo đuổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moto(meru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "求める（もとめる）",
         "meaning": {
-          "english": "seek, request"
+          "english": "seek, request |(vi) tìm kiếm, yêu cầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moto(meru)_06_h.opus",
@@ -207,7 +207,7 @@
     "kanji": {
       "character": "求",
       "meaning": {
-        "english": "seek, demand"
+        "english": "seek, demand |(vi) tìm kiếm, yêu cầu"
       },
       "strokes": {
         "count": 7,
@@ -259,7 +259,7 @@
         "romaji": "shitamizu"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shitamizu0.svg",
@@ -280,7 +280,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "220",
     "strokeCount": 7,
-    "meaning": "request, want, wish for, require, demand",
+    "meaning": "request, want, wish for, require, demand |(vi) yêu cầu, muốn, mong ước, đòi hỏi, đòi |(hv) Cầu",
     "kunyomi": [
       "もと.める"
     ],
@@ -292,49 +292,49 @@
       {
         "example": "求職",
         "reading": "キュウショク",
-        "meaning": "job hunting, seeking employment"
+        "meaning": "job hunting, seeking employment |(vi) tìm việc, xin việc làm"
       },
       {
         "example": "求刑",
         "reading": "キュウケイ",
-        "meaning": "recommended sentence, prosecution's demand for punishment"
+        "meaning": "recommended sentence, prosecution's demand for punishment |(vi) mức án đề nghị, yêu cầu xử phạt của bên công tố"
       },
       {
         "example": "身代金要求",
         "reading": "ミノシロキンヨウキュウ",
-        "meaning": "ransom demand"
+        "meaning": "ransom demand |(vi) đòi tiền chuộc"
       },
       {
         "example": "希求",
         "reading": "キキュウ",
-        "meaning": "longing, great desire, aspiration"
+        "meaning": "longing, great desire, aspiration |(vi) khát khao, ước ao, hoài bão"
       },
       {
         "example": "求道",
         "reading": "キュウドウ",
-        "meaning": "seeking after truth"
+        "meaning": "seeking after truth |(vi) tìm cầu chân lý, con đường tu học"
       },
       {
         "example": "求道者",
         "reading": "キュウドウシャ",
-        "meaning": "seeker after truth, one who seeks the way"
+        "meaning": "seeker after truth, one who seeks the way |(vi) người tìm cầu chân lý, người tu hành"
       },
       {
         "example": "勤求",
         "reading": "ゴング",
-        "meaning": "inquiring the Buddha way"
+        "meaning": "inquiring the Buddha way |(vi) tinh tấn tìm cầu con đường Phật"
       },
       {
         "example": "欣求",
         "reading": "ゴング",
-        "meaning": "earnest aspiration (to go to paradise)"
+        "meaning": "earnest aspiration (to go to paradise) |(vi) khát khao mãnh liệt (mong về cõi cực lạc)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "求める",
         "reading": "もとめる",
-        "meaning": "to want, to wish for, to request, to demand, to require, to ask for, to seek, to search for, to look for, to pursue (pleasure), to hunt (a job), to find (a solution), to purchase, to buy"
+        "meaning": "to want, to wish for, to request, to demand, to require, to ask for, to seek, to search for, to look for, to pursue (pleasure), to hunt (a job), to find (a solution), to purchase, to buy |(vi) muốn, mong ước, yêu cầu, đòi hỏi, cần, xin, tìm kiếm, theo đuổi (niềm vui), tìm (việc làm), tìm ra (giải pháp), mua sắm"
       }
     ],
     "radical": {
@@ -343,7 +343,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "一",

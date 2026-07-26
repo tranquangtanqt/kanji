@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "hitai",
-    "meaning": "amount, forehead",
+    "meaning": "amount, forehead |(vi) số lượng, trán",
     "kstroke": 18,
     "examples": [
       {
         "japanese": "額（がく）",
         "meaning": {
-          "english": "picture, amount, sum"
+          "english": "picture, amount, sum |(vi) bức tranh, số tiền, tổng số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hitai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "額面（がくめん）",
         "meaning": {
-          "english": "face value"
+          "english": "face value |(vi) mệnh giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hitai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "額縁（がくぶち）",
         "meaning": {
-          "english": "picture frame"
+          "english": "picture frame |(vi) khung tranh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hitai_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "金額（きんがく）",
         "meaning": {
-          "english": "amount of money"
+          "english": "amount of money |(vi) số tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hitai_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "総額（そうがく）",
         "meaning": {
-          "english": "sum total, total amount"
+          "english": "sum total, total amount |(vi) tổng số tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hitai_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "差額（さがく）",
         "meaning": {
-          "english": "balance, difference, margin"
+          "english": "balance, difference, margin |(vi) số chênh lệch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hitai_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "月額（げつがく）",
         "meaning": {
-          "english": "monthly amount"
+          "english": "monthly amount |(vi) số tiền hàng tháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hitai_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "多額（たがく）",
         "meaning": {
-          "english": "large amount of money"
+          "english": "large amount of money |(vi) số tiền lớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hitai_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "半額（はんがく）",
         "meaning": {
-          "english": "half off, half fare"
+          "english": "half off, half fare |(vi) giảm nửa giá, nửa giá vé"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hitai_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "生産額（せいさんがく）",
         "meaning": {
-          "english": "amount of production"
+          "english": "amount of production |(vi) sản lượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hitai_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "額（ひたい）",
         "meaning": {
-          "english": "forehead"
+          "english": "forehead |(vi) trán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hitai_06_k.opus",
@@ -237,7 +237,7 @@
     "kanji": {
       "character": "額",
       "meaning": {
-        "english": "amount, forehead"
+        "english": "amount, forehead |(vi) số lượng, trán"
       },
       "strokes": {
         "count": 18,
@@ -311,7 +311,7 @@
         "romaji": "oogai"
       },
       "meaning": {
-        "english": "head, page"
+        "english": "head, page |(vi) Hiệt (đầu, trang)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/oogai0.svg",
@@ -332,7 +332,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "407",
     "strokeCount": 18,
-    "meaning": "forehead, tablet, plaque, framed picture, sum, amount, volume",
+    "meaning": "forehead, tablet, plaque, framed picture, sum, amount, volume |(vi) trán, bảng hiệu, biển gỗ, tranh khung, tổng số, số lượng, khối lượng |(hv) Ngạch",
     "kunyomi": [
       "ひたい"
     ],
@@ -343,44 +343,44 @@
       {
         "example": "額",
         "reading": "ガク",
-        "meaning": "(picture) frame, framed picture, amount (esp. of money), sum"
+        "meaning": "(picture) frame, framed picture, amount (esp. of money), sum |(vi) khung (tranh), tranh có khung, số tiền (đặc biệt tiền bạc), tổng số"
       },
       {
         "example": "額面",
         "reading": "ガクメン",
-        "meaning": "face value, par"
+        "meaning": "face value, par |(vi) mệnh giá, giá trị danh nghĩa"
       },
       {
         "example": "定額",
         "reading": "テイガク",
-        "meaning": "fixed amount (of money), fixed sum, flat sum"
+        "meaning": "fixed amount (of money), fixed sum, flat sum |(vi) số tiền cố định"
       },
       {
         "example": "税額",
         "reading": "ゼイガク",
-        "meaning": "amount of tax"
+        "meaning": "amount of tax |(vi) số tiền thuế"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "額",
         "reading": "ひたい",
-        "meaning": "forehead, brow"
+        "meaning": "forehead, brow |(vi) trán"
       },
       {
         "example": "額当て",
         "reading": "ひたいあて",
-        "meaning": "(military) headband with reinforced metal plate, red headband"
+        "meaning": "(military) headband with reinforced metal plate, red headband |(vi) khăn trán quân đội có tấm kim loại gia cố, khăn trán đỏ"
       },
       {
         "example": "広い額",
         "reading": "ひろいひたい",
-        "meaning": "high brow, broad forehead"
+        "meaning": "high brow, broad forehead |(vi) trán rộng, vầng trán cao"
       }
     ],
     "radical": {
       "symbol": "頁",
-      "meaning": "leaf"
+      "meaning": "leaf |(vi) Hiệt (đầu, trang)"
     },
     "parts": [
       "ハ",

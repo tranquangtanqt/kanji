@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "path, diameter",
+    "meaning": "path, diameter |(vi) đường mòn, đường kính",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "径路（けいろ）",
         "meaning": {
-          "english": "path, route, process"
+          "english": "path, route, process |(vi) đường đi, lộ trình, quá trình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "直径（ちょっけい）",
         "meaning": {
-          "english": "diameter"
+          "english": "diameter |(vi) đường kính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "半径（はんけい）",
         "meaning": {
-          "english": "radius"
+          "english": "radius |(vi) bán kính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "口径（こうけい）",
         "meaning": {
-          "english": "aperture, bore, calibre"
+          "english": "aperture, bore, calibre |(vi) khẩu độ, cỡ nòng, đường kính lỗ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "直情径行（ちょくじょうけいこう）",
         "meaning": {
-          "english": "straightforward, guileless"
+          "english": "straightforward, guileless |(vi) thẳng thắn, chân thật, bộc trực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_e.opus",
@@ -149,7 +149,7 @@
     "kanji": {
       "character": "径",
       "meaning": {
-        "english": "path, diameter"
+        "english": "path, diameter |(vi) đường mòn, đường kính"
       },
       "strokes": {
         "count": 8,
@@ -203,7 +203,7 @@
         "romaji": "gyouninben"
       },
       "meaning": {
-        "english": "step, stride, street, to go"
+        "english": "step, stride, street, to go |(vi) Xích (bước chân, bước ngắn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
@@ -224,7 +224,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1435",
     "strokeCount": 8,
-    "meaning": "diameter, path, method",
+    "meaning": "diameter, path, method |(vi) đường kính, đường đi, phương pháp |(hv) Kính",
     "kunyomi": [
       "みち",
       "こみち",
@@ -238,39 +238,39 @@
       {
         "example": "径",
         "reading": "ケイ",
-        "meaning": "diameter"
+        "meaning": "diameter |(vi) đường kính"
       },
       {
         "example": "経路",
         "reading": "ケイロ",
-        "meaning": "course, route, path, channel, process, stages"
+        "meaning": "course, route, path, channel, process, stages |(vi) lộ trình, đường đi, con đường, kênh, quá trình, các giai đoạn"
       },
       {
         "example": "半径",
         "reading": "ハンケイ",
-        "meaning": "radius"
+        "meaning": "radius |(vi) bán kính"
       },
       {
         "example": "口径",
         "reading": "コウケイ",
-        "meaning": "aperture, bore, calibre, caliber"
+        "meaning": "aperture, bore, calibre, caliber |(vi) khẩu độ, cỡ nòng, đường kính lỗ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "道",
         "reading": "みち",
-        "meaning": "road, path, street, lane, passage, route, way, distance, journey, road (e.g. to victory), course, way (of living, proper conduct, etc.), moral principles, teachings (esp. Confucian or Buddhist), dogma, field (e.g. of medicine), subject, speciality, means, way, method"
+        "meaning": "road, path, street, lane, passage, route, way, distance, journey, road (e.g. to victory), course, way (of living, proper conduct, etc.), moral principles, teachings (esp. Confucian or Buddhist), dogma, field (e.g. of medicine), subject, speciality, means, way, method |(vi) đường, lối đi, phố, ngõ, hành lang, tuyến đường, con đường, khoảng cách, hành trình, con đường (ví dụ: đến chiến thắng), quá trình, cách sống, đạo lý, giáo lý (đặc biệt Nho giáo hoặc Phật giáo), giáo điều, lĩnh vực (ví dụ: y học), chuyên ngành, phương tiện, cách thức, phương pháp"
       },
       {
         "example": "径書房",
         "reading": "こみちしょぼう",
-        "meaning": "Komichi Shobo Publishing Ltd (publishing company)"
+        "meaning": "Komichi Shobo Publishing Ltd (publishing company) |(vi) Công ty xuất bản Komichi Shobo (tên công ty)"
       }
     ],
     "radical": {
       "symbol": "彳",
-      "meaning": "step"
+      "meaning": "step |(vi) Xích (bước chân, bước ngắn)"
     },
     "parts": [
       "又",

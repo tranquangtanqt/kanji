@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "nega, negau",
-    "meaning": "wish, ask a favor, request",
+    "meaning": "wish, ask a favor, request |(vi) ước muốn, nhờ vả, yêu cầu",
     "kstroke": 19,
     "examples": [
       {
         "japanese": "願望（がんぼう）",
         "meaning": {
-          "english": "wish [n.]"
+          "english": "wish [n.] |(vi) nguyện vọng, mong muốn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nega(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "願書（がんしょ）",
         "meaning": {
-          "english": "application letter"
+          "english": "application letter |(vi) đơn xin, hồ sơ đăng ký"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nega(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "悲願（ひがん）",
         "meaning": {
-          "english": "one's dearest wish"
+          "english": "one's dearest wish |(vi) ước nguyện tha thiết, hoài bão lớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nega(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "念願（ねんがん）",
         "meaning": {
-          "english": "one's heart's desire"
+          "english": "one's heart's desire |(vi) khát khao, ước nguyện lâu nay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nega(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "祈願する（きがんする）",
         "meaning": {
-          "english": "pray"
+          "english": "pray |(vi) cầu nguyện, cầu xin"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nega(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "願う（ねがう）",
         "meaning": {
-          "english": "wish"
+          "english": "wish |(vi) mong muốn, cầu xin"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nega(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "お願い（おねがい）",
         "meaning": {
-          "english": "request [n.]"
+          "english": "request [n.] |(vi) lời thỉnh cầu, yêu cầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nega(u)_06_g.opus",
@@ -236,7 +236,7 @@
     "kanji": {
       "character": "願",
       "meaning": {
-        "english": "wish, ask a favor, request"
+        "english": "wish, ask a favor, request |(vi) ước muốn, nhờ vả, yêu cầu"
       },
       "strokes": {
         "count": 19,
@@ -312,7 +312,7 @@
         "romaji": "oogai"
       },
       "meaning": {
-        "english": "head, page"
+        "english": "head, page |(vi) Hiệt (đầu, trang giấy)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/oogai0.svg",
@@ -333,7 +333,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "894",
     "strokeCount": 19,
-    "meaning": "petition, request, vow, wish, hope",
+    "meaning": "petition, request, vow, wish, hope |(vi) đơn thỉnh cầu, yêu cầu, lời thề nguyện, ước muốn, hy vọng |(hv) Nguyện",
     "kunyomi": [
       "ねが.う",
       "-ねがい"
@@ -345,34 +345,34 @@
       {
         "example": "願",
         "reading": "ガン",
-        "meaning": "prayer, wish, vow"
+        "meaning": "prayer, wish, vow |(vi) lời cầu nguyện, ước nguyện, lời thề"
       },
       {
         "example": "願書",
         "reading": "ガンショ",
-        "meaning": "(written) application, written request, petition, written prayer for a shrine or Buddhist temple"
+        "meaning": "(written) application, written request, petition, written prayer for a shrine or Buddhist temple |(vi) đơn xin (viết), yêu cầu bằng văn bản, đơn thỉnh cầu, sớ cầu nguyện tại đền/chùa"
       },
       {
         "example": "本願",
         "reading": "ホンガン",
-        "meaning": "Amida Buddha's original vow, long-cherished desire"
+        "meaning": "Amida Buddha's original vow, long-cherished desire |(vi) bản nguyện của Phật A Di Đà, ước nguyện ấp ủ từ lâu"
       },
       {
         "example": "祈願",
         "reading": "キガン",
-        "meaning": "prayer (for something), supplication"
+        "meaning": "prayer (for something), supplication |(vi) cầu nguyện (cho điều gì), khẩn cầu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "願う",
         "reading": "ねがう",
-        "meaning": "to desire, to wish, to hope, to beg, to request, to implore, to pray, to have something done for oneself"
+        "meaning": "to desire, to wish, to hope, to beg, to request, to implore, to pray, to have something done for oneself |(vi) mong muốn, ước ao, hy vọng, cầu xin, yêu cầu, van nài, cầu nguyện, nhờ ai làm điều gì đó cho mình"
       }
     ],
     "radical": {
       "symbol": "頁",
-      "meaning": "leaf"
+      "meaning": "leaf |(vi) Hiệt (đầu, trang giấy)"
     },
     "parts": [
       "ハ",

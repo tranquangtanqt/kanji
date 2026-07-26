@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "yama",
-    "meaning": "mountain",
+    "meaning": "mountain |(vi) núi",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "富士山（ふじさん）",
         "meaning": {
-          "english": "Mt Fuji"
+          "english": "Mt Fuji |(vi) núi Phú Sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yama_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "山脈（さんみゃく）",
         "meaning": {
-          "english": "mountain range"
+          "english": "mountain range |(vi) dãy núi, sơn mạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yama_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "火山（かざん）",
         "meaning": {
-          "english": "volcano"
+          "english": "volcano |(vi) núi lửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yama_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "登山（とざん）",
         "meaning": {
-          "english": "mountain-climbing"
+          "english": "mountain-climbing |(vi) leo núi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yama_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "山（やま）",
         "meaning": {
-          "english": "mountain, pile, climax"
+          "english": "mountain, pile, climax |(vi) núi, đống, đỉnh điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yama_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "岩山（いわやま）",
         "meaning": {
-          "english": "rocky mountain"
+          "english": "rocky mountain |(vi) núi đá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yama_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "山火事（やまかじ）",
         "meaning": {
-          "english": "bushfire"
+          "english": "bushfire |(vi) cháy rừng núi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yama_06_g.opus",
@@ -230,7 +230,7 @@
     "kanji": {
       "character": "山",
       "meaning": {
-        "english": "mountain"
+        "english": "mountain |(vi) núi"
       },
       "strokes": {
         "count": 3,
@@ -274,7 +274,7 @@
         "romaji": "yama"
       },
       "meaning": {
-        "english": "mountain"
+        "english": "mountain |(vi) Sơn (núi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yama0.svg",
@@ -295,7 +295,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "131",
     "strokeCount": 3,
-    "meaning": "mountain",
+    "meaning": "mountain |(vi) núi |(hv) Sơn",
     "kunyomi": [
       "やま"
     ],
@@ -307,69 +307,69 @@
       {
         "example": "山",
         "reading": "サン",
-        "meaning": "Mt., Mount, temple"
+        "meaning": "Mt., Mount, temple |(vi) núi, chùa (dùng trước tên núi/chùa)"
       },
       {
         "example": "山陰",
         "reading": "ヤマカゲ",
-        "meaning": "place in the shade of a mountain, shelter of the mountains, mountain recess"
+        "meaning": "place in the shade of a mountain, shelter of the mountains, mountain recess |(vi) chỗ khuất sau núi, nơi ẩn khuất trong núi"
       },
       {
         "example": "治山",
         "reading": "チサン",
-        "meaning": "forest conservation, afforestation"
+        "meaning": "forest conservation, afforestation |(vi) trồng rừng, bảo vệ rừng núi"
       },
       {
         "example": "開山",
         "reading": "カイサン",
-        "meaning": "founding a temple (on a hill-top)"
+        "meaning": "founding a temple (on a hill-top) |(vi) khai sơn, sáng lập chùa trên núi"
       },
       {
         "example": "山道",
         "reading": "ヤマミチ",
-        "meaning": "mountain road, mountain trail"
+        "meaning": "mountain road, mountain trail |(vi) đường núi, lối mòn trên núi"
       },
       {
         "example": "山海経",
         "reading": "センガイキョウ",
-        "meaning": "Classic of Mountains and Seas (classic Chinese text)"
+        "meaning": "Classic of Mountains and Seas (classic Chinese text) |(vi) Sơn Hải Kinh (sách cổ Trung Hoa)"
       },
       {
         "example": "雪山",
         "reading": "セツザン",
-        "meaning": "snowy mountain, permanently snow-covered mountain, Himalayas"
+        "meaning": "snowy mountain, permanently snow-covered mountain, Himalayas |(vi) núi tuyết, núi phủ tuyết quanh năm, dãy Himalaya"
       },
       {
         "example": "須弥山",
         "reading": "シュミセン",
-        "meaning": "Mount Sumeru (believed to be the centre of the Buddhist world)"
+        "meaning": "Mount Sumeru (believed to be the centre of the Buddhist world) |(vi) núi Tu Di (trung tâm thế giới theo quan niệm Phật giáo)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "山",
         "reading": "やま",
-        "meaning": "mountain, hill, mine, (mountain) forest, heap, pile, stack, mountain, protruding or high part of an object, crown (of a hat), thread (of a screw), tread (of a tire), climax, peak, critical point, guess, speculation, gamble, (criminal) case, crime, mountain climbing, mountaineering, festival float (esp. one mounted with a decorative halberd), deck (from which players draw cards), draw pile, stock, wall, wall tile, wild"
+        "meaning": "mountain, hill, mine, (mountain) forest, heap, pile, stack, mountain, protruding or high part of an object, crown (of a hat), thread (of a screw), tread (of a tire), climax, peak, critical point, guess, speculation, gamble, (criminal) case, crime, mountain climbing, mountaineering, festival float (esp. one mounted with a decorative halberd), deck (from which players draw cards), draw pile, stock, wall, wall tile, wild |(vi) núi, đồi, mỏ, rừng núi, đống, chồng, phần nhô cao của vật, đỉnh mũ, ren ốc vít, gai lốp xe, cao trào, đỉnh điểm, điểm mấu chốt, phỏng đoán, đánh cược, vụ án, tội ác, leo núi, xe hoa lễ hội, cỗ bài rút, chồng bài, tường, ngói tường, hoang dã"
       },
       {
         "example": "山陰",
         "reading": "やまかげ",
-        "meaning": "place in the shade of a mountain, shelter of the mountains, mountain recess"
+        "meaning": "place in the shade of a mountain, shelter of the mountains, mountain recess |(vi) chỗ khuất sau núi, nơi ẩn khuất trong núi"
       },
       {
         "example": "奥山",
         "reading": "おくやま",
-        "meaning": "remote mountain, mountain recesses"
+        "meaning": "remote mountain, mountain recesses |(vi) núi sâu, chốn thâm sơn"
       },
       {
         "example": "青山",
         "reading": "せいざん",
-        "meaning": "lush mountain, green mountain, grave, burial place"
+        "meaning": "lush mountain, green mountain, grave, burial place |(vi) núi xanh tươi, nơi chôn cất, mộ phần"
       }
     ],
     "radical": {
       "symbol": "山",
-      "meaning": "mountain"
+      "meaning": "mountain |(vi) Sơn (núi)"
     },
     "parts": [
       "山"

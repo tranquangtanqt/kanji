@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 50,
     "kunyomi": "a, au, ai, awasu, awaseru",
-    "meaning": "combine, fit, match",
+    "meaning": "combine, fit, match |(vi) kết hợp, khớp, phù hợp",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "合計する（ごうけいする）",
         "meaning": {
-          "english": "add up"
+          "english": "add up |(vi) cộng lại, tính tổng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "合意する（ごういする）",
         "meaning": {
-          "english": "agree"
+          "english": "agree |(vi) đồng ý, thỏa thuận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "集合する（しゅうごうする）",
         "meaning": {
-          "english": "gather [v.i.]"
+          "english": "gather [v.i.] |(vi) tập hợp, tụ họp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "都合（つごう）",
         "meaning": {
-          "english": "convenience"
+          "english": "convenience |(vi) sự tiện lợi, hoàn cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "合戦（かっせん）",
         "meaning": {
-          "english": "battle"
+          "english": "battle |(vi) trận chiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "合唱（がっしょう）",
         "meaning": {
-          "english": "chorus"
+          "english": "chorus |(vi) hợp xướng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "合衆国（がっしゅうこく）",
         "meaning": {
-          "english": "United States of America"
+          "english": "United States of America |(vi) Hợp chúng quốc Hoa Kỳ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "合う（あう）",
         "meaning": {
-          "english": "match [v.i.]"
+          "english": "match [v.i.] |(vi) khớp, phù hợp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "助け合う（たすけあう）",
         "meaning": {
-          "english": "help each other"
+          "english": "help each other |(vi) giúp đỡ lẫn nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "合わせる（あわせる）",
         "meaning": {
-          "english": "put together, join, adapt"
+          "english": "put together, join, adapt |(vi) ghép lại, kết hợp, điều chỉnh cho hợp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "知り合い（しりあい）",
         "meaning": {
-          "english": "acquaintance"
+          "english": "acquaintance |(vi) người quen biết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "試合（しあい）",
         "meaning": {
-          "english": "game, match"
+          "english": "game, match |(vi) trận đấu, cuộc thi đấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_l.opus",
@@ -326,7 +326,7 @@
     "kanji": {
       "character": "合",
       "meaning": {
-        "english": "combine, fit, match"
+        "english": "combine, fit, match |(vi) kết hợp, khớp, phù hợp"
       },
       "strokes": {
         "count": 6,
@@ -376,7 +376,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -397,7 +397,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "41",
     "strokeCount": 6,
-    "meaning": "fit, suit, join, 0.1",
+    "meaning": "fit, suit, join, 0.1 |(vi) khớp, phù hợp, kết hợp, đơn vị 0.1 |(hv) Hợp",
     "kunyomi": [
       "あ.う",
       "-あ.う",
@@ -418,94 +418,94 @@
       {
         "example": "合",
         "reading": "ゴウ",
-        "meaning": "gō, traditional unit of volume, approx. 180 ml, gō, traditional unit of area, approx 0.33 square meters, one-tenth of the distance from the base to the summit of a mountain, conjunction, sum, total, synthesis (in dialectics), minor premise (in hetuvidya), counter for covered containers, counter for matches, battles, etc."
+        "meaning": "gō, traditional unit of volume, approx. 180 ml, gō, traditional unit of area, approx 0.33 square meters, one-tenth of the distance from the base to the summit of a mountain, conjunction, sum, total, synthesis (in dialectics), minor premise (in hetuvidya), counter for covered containers, counter for matches, battles, etc. |(vi) gō (đơn vị thể tích cổ, khoảng 180 ml), gō (đơn vị diện tích cổ, khoảng 0,33 mét vuông), một phần mười quãng đường từ chân đến đỉnh núi, liên từ, tổng số, tổng hợp (trong biện chứng), tiền đề nhỏ (trong luận lý học Ấn Độ), lượng từ đếm hộp có nắp, lượng từ đếm trận đấu, trận chiến..."
       },
       {
         "example": "合意",
         "reading": "ゴウイ",
-        "meaning": "(coming to an) agreement, consent, mutual understanding, accord, consensus"
+        "meaning": "(coming to an) agreement, consent, mutual understanding, accord, consensus |(vi) sự đồng thuận, chấp thuận, hiểu biết lẫn nhau, nhất trí"
       },
       {
         "example": "複合",
         "reading": "フクゴウ",
-        "meaning": "composite, combined, complex"
+        "meaning": "composite, combined, complex |(vi) tổng hợp, kết hợp, phức hợp"
       },
       {
         "example": "整合",
         "reading": "セイゴウ",
-        "meaning": "adjustment, coordination, integration, conformity"
+        "meaning": "adjustment, coordination, integration, conformity |(vi) điều chỉnh, phối hợp, tích hợp, sự phù hợp"
       },
       {
         "example": "合宿",
         "reading": "ガッシュク",
-        "meaning": "lodging together, training camp, boarding house"
+        "meaning": "lodging together, training camp, boarding house |(vi) ở cùng trại, trại huấn luyện, nhà trọ tập thể"
       },
       {
         "example": "合作",
         "reading": "ガッサク",
-        "meaning": "collaboration, joint work"
+        "meaning": "collaboration, joint work |(vi) hợp tác, làm việc chung"
       },
       {
         "example": "合戦",
         "reading": "カッセン",
-        "meaning": "battle, fight, fighting, engagement, contest"
+        "meaning": "battle, fight, fighting, engagement, contest |(vi) trận chiến, giao tranh, cuộc đối đầu"
       },
       {
         "example": "合羽",
         "reading": "カッパ",
-        "meaning": "raincoat"
+        "meaning": "raincoat |(vi) áo mưa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "合う",
         "reading": "あう",
-        "meaning": "to come together, to merge, to unite, to meet, to fit, to match, to suit, to agree with, to be correct, to be profitable, to be equitable, to do ... to each other, to do ... together"
+        "meaning": "to come together, to merge, to unite, to meet, to fit, to match, to suit, to agree with, to be correct, to be profitable, to be equitable, to do ... to each other, to do ... together |(vi) hợp lại, hòa nhập, gặp gỡ, khớp, phù hợp, đồng ý, đúng, có lợi, công bằng, cùng nhau làm gì đó"
       },
       {
         "example": "合うも不思議、合わぬも不思議",
         "reading": "あうもふしぎ、あわぬもふしぎ",
-        "meaning": "dreams and fortune-telling are hit-and-miss"
+        "meaning": "dreams and fortune-telling are hit-and-miss |(vi) giấc mơ và bói toán khi đúng khi sai"
       },
       {
         "example": "合い",
         "reading": "あい",
-        "meaning": "between-season wear, spring and autumn clothing, spring and fall clothing, together, condition, situation, state, -ish"
+        "meaning": "between-season wear, spring and autumn clothing, spring and fall clothing, together, condition, situation, state, -ish |(vi) trang phục giao mùa, đồ xuân thu, cùng nhau, tình trạng, hoàn cảnh, có tính..."
       },
       {
         "example": "合言葉",
         "reading": "あいことば",
-        "meaning": "password, watchword, motto, slogan"
+        "meaning": "password, watchword, motto, slogan |(vi) mật khẩu, khẩu hiệu, phương châm"
       },
       {
         "example": "立会い",
         "reading": "たちあい",
-        "meaning": "presence (e.g. of an observer), observation, observer, witness, trading session (at an exchange), rising from a crouch to charge, initial charge, face-off"
+        "meaning": "presence (e.g. of an observer), observation, observer, witness, trading session (at an exchange), rising from a crouch to charge, initial charge, face-off |(vi) sự có mặt (ví dụ người quan sát), quan sát, người quan sát, nhân chứng, phiên giao dịch (ở sàn chứng khoán), thế nhổm dậy để xông lên, cú lao đầu tiên, thế đối đầu"
       },
       {
         "example": "地合い",
         "reading": "じあい",
-        "meaning": "texture (cloth, fabric, paper), market tone, undertone, balance between the position of white and black stones"
+        "meaning": "texture (cloth, fabric, paper), market tone, undertone, balance between the position of white and black stones |(vi) kết cấu (vải, giấy), xu hướng thị trường, thế cân bằng giữa quân trắng và đen (cờ vây)"
       },
       {
         "example": "合わす",
         "reading": "あわす",
-        "meaning": "to match (rhythm, speed, etc.), to join together, to unite, to combine, to add up, to face, to be opposite (someone), to compare, to check with, to cause to meet (e.g. an unpleasant fate), to place together, to connect, to overlap, to mix, to combine, to put blade to blade, to fight"
+        "meaning": "to match (rhythm, speed, etc.), to join together, to unite, to combine, to add up, to face, to be opposite (someone), to compare, to check with, to cause to meet (e.g. an unpleasant fate), to place together, to connect, to overlap, to mix, to combine, to put blade to blade, to fight |(vi) khớp (nhịp điệu, tốc độ...), hợp lại, hòa nhập, kết hợp, cộng lại, đối mặt, so sánh, đối chiếu, khiến gặp phải (số phận không hay), đặt cùng nhau, chồng lên nhau, trộn lẫn, giao đấu (lưỡi kiếm)"
       },
       {
         "example": "合わせる",
         "reading": "あわせる",
-        "meaning": "to match (rhythm, speed, etc.), to join together, to unite, to combine, to add up, to face, to be opposite (someone), to compare, to check with, to cause to meet (e.g. an unpleasant fate), to place together, to connect, to overlap, to mix, to combine, to put blade to blade, to fight"
+        "meaning": "to match (rhythm, speed, etc.), to join together, to unite, to combine, to add up, to face, to be opposite (someone), to compare, to check with, to cause to meet (e.g. an unpleasant fate), to place together, to connect, to overlap, to mix, to combine, to put blade to blade, to fight |(vi) khớp (nhịp điệu, tốc độ...), hợp lại, hòa nhập, kết hợp, cộng lại, đối mặt, so sánh, đối chiếu, khiến gặp phải (số phận không hay), đặt cùng nhau, chồng lên nhau, trộn lẫn, giao đấu (lưỡi kiếm)"
       },
       {
         "example": "合わせる顔がない",
         "reading": "あわせるかおがない",
-        "meaning": "too ashamed to meet"
+        "meaning": "too ashamed to meet |(vi) quá xấu hổ không dám gặp mặt"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "一",

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "kokoro, tame, kokoromiru, kokoromi, tamesu, tameshi",
-    "meaning": "try, attempt",
+    "meaning": "try, attempt |(vi) thử, cố gắng",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "試験（しけん）",
         "meaning": {
-          "english": "examination"
+          "english": "examination |(vi) kỳ thi, bài kiểm tra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tame(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "試合（しあい）",
         "meaning": {
-          "english": "game"
+          "english": "game |(vi) trận đấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tame(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "試行錯誤（しこうさくご）",
         "meaning": {
-          "english": "trial and error"
+          "english": "trial and error |(vi) thử và sai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tame(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "試作する（しさくする）",
         "meaning": {
-          "english": "make a prototype"
+          "english": "make a prototype |(vi) làm thử, chế tạo mẫu thử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tame(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "試食する（ししょくする）",
         "meaning": {
-          "english": "taste, sample food"
+          "english": "taste, sample food |(vi) nếm thử, ăn thử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tame(su)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "試着する（しちゃくする）",
         "meaning": {
-          "english": "try on clothes"
+          "english": "try on clothes |(vi) mặc thử quần áo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tame(su)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "試みる（こころみる）",
         "meaning": {
-          "english": "attempt"
+          "english": "attempt |(vi) thử làm, thử nghiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tame(su)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "試す（ためす）",
         "meaning": {
-          "english": "try"
+          "english": "try |(vi) thử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tame(su)_06_h.opus",
@@ -263,7 +263,7 @@
     "kanji": {
       "character": "試",
       "meaning": {
-        "english": "try, attempt"
+        "english": "try, attempt |(vi) thử, cố gắng"
       },
       "strokes": {
         "count": 13,
@@ -327,7 +327,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (nói, lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -348,7 +348,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "392",
     "strokeCount": 13,
-    "meaning": "test, try, attempt, experiment, ordeal",
+    "meaning": "test, try, attempt, experiment, ordeal |(vi) kiểm tra, thử, cố gắng, thí nghiệm, thử thách |(hv) Thí",
     "kunyomi": [
       "こころ.みる",
       "ため.す"
@@ -360,39 +360,39 @@
       {
         "example": "試",
         "reading": "シ",
-        "meaning": "testing, experiment, test, examination, exam, trial"
+        "meaning": "testing, experiment, test, examination, exam, trial |(vi) kiểm tra, thí nghiệm, thi, kỳ thi, thử nghiệm"
       },
       {
         "example": "試合",
         "reading": "シアイ",
-        "meaning": "match, game, bout, contest"
+        "meaning": "match, game, bout, contest |(vi) trận đấu, cuộc thi đấu"
       },
       {
         "example": "公試",
         "reading": "コウシ",
-        "meaning": "national examinations"
+        "meaning": "national examinations |(vi) kỳ thi quốc gia"
       },
       {
         "example": "考試",
         "reading": "コウシ",
-        "meaning": "test, exam"
+        "meaning": "test, exam |(vi) kỳ thi, bài kiểm tra"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "試みる",
         "reading": "こころみる",
-        "meaning": "to try, to attempt, to have a go (at)"
+        "meaning": "to try, to attempt, to have a go (at) |(vi) thử, cố gắng, thử làm (việc gì)"
       },
       {
         "example": "試す",
         "reading": "ためす",
-        "meaning": "to try (out), to have a try (at), to test, to put to the test"
+        "meaning": "to try (out), to have a try (at), to test, to put to the test |(vi) thử, thử nghiệm, kiểm nghiệm"
       },
       {
         "example": "試筋",
         "reading": "ためすじ",
-        "meaning": "patron, effective means"
+        "meaning": "patron, effective means |(vi) người bảo trợ, phương tiện hiệu quả"
       }
     ],
     "radical": {
@@ -400,7 +400,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (nói, lời nói)"
     },
     "parts": [
       "工",

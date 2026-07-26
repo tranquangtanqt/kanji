@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "sema, semai, seba, sebameru, sebamaru",
-    "meaning": "narrow",
+    "meaning": "narrow |(vi) hẹp",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "狭義（きょうぎ）",
         "meaning": {
-          "english": "narrow, strict"
+          "english": "narrow, strict |(vi) nghĩa hẹp, chặt chẽ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sema(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "狭心症（きょうしんしょう）",
         "meaning": {
-          "english": "heart attack, angina pectoris"
+          "english": "heart attack, angina pectoris |(vi) bệnh đau thắt ngực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sema(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "狭量な（きょうりょうな）",
         "meaning": {
-          "english": "narrow minded"
+          "english": "narrow minded |(vi) hẹp hòi, nhỏ nhen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sema(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "偏狭な（へんきょうな）",
         "meaning": {
-          "english": "narrow minded, intolerant"
+          "english": "narrow minded, intolerant |(vi) hẹp hòi, cố chấp, thiếu khoan dung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sema(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "狭い（せまい）",
         "meaning": {
-          "english": "narrow, confined, small"
+          "english": "narrow, confined, small |(vi) hẹp, chật, nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sema(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "狭苦しい（せまくるしい）",
         "meaning": {
-          "english": "cramped"
+          "english": "cramped |(vi) chật chội, ngột ngạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sema(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "狭める（せばめる）",
         "meaning": {
-          "english": "narrow, reduce, contract [v.t.]"
+          "english": "narrow, reduce, contract [v.t.] |(vi) thu hẹp, làm hẹp lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sema(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "狭まる（せばまる）",
         "meaning": {
-          "english": "narrow, contract [v.i.]"
+          "english": "narrow, contract [v.i.] |(vi) bị thu hẹp, hẹp lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sema(i)_06_h.opus",
@@ -205,7 +205,7 @@
     "kanji": {
       "character": "狭",
       "meaning": {
-        "english": "narrow"
+        "english": "narrow |(vi) hẹp"
       },
       "strokes": {
         "count": 9,
@@ -261,7 +261,7 @@
         "romaji": "kemonohen"
       },
       "meaning": {
-        "english": "beast"
+        "english": "beast |(vi) Khuyển (chó, thú)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kemonohen0.svg",
@@ -282,7 +282,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1346",
     "strokeCount": 9,
-    "meaning": "cramped, narrow, contract, tight",
+    "meaning": "cramped, narrow, contract, tight |(vi) chật hẹp, hẹp, thu hẹp, chật chội |(hv) Hiệp",
     "kunyomi": [
       "せま.い",
       "せば.める",
@@ -297,54 +297,54 @@
       {
         "example": "狭心症",
         "reading": "キョウシンショウ",
-        "meaning": "angina pectoris"
+        "meaning": "angina pectoris |(vi) bệnh đau thắt ngực"
       },
       {
         "example": "狭義",
         "reading": "キョウギ",
-        "meaning": "narrow sense (e.g. of a word)"
+        "meaning": "narrow sense (e.g. of a word) |(vi) nghĩa hẹp (của một từ)"
       },
       {
         "example": "偏狭",
         "reading": "ヘンキョウ",
-        "meaning": "narrow-mindedness, intolerance, illiberality, narrowness"
+        "meaning": "narrow-mindedness, intolerance, illiberality, narrowness |(vi) sự hẹp hòi, thiếu khoan dung, cố chấp"
       },
       {
         "example": "広狭",
         "reading": "コウキョウ",
-        "meaning": "width, width and narrowness"
+        "meaning": "width, width and narrowness |(vi) độ rộng hẹp, rộng và hẹp"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "狭い",
         "reading": "せまい",
-        "meaning": "narrow, confined, small, cramped, limited, narrow-minded, confining"
+        "meaning": "narrow, confined, small, cramped, limited, narrow-minded, confining |(vi) hẹp, chật, nhỏ, chật chội, hạn chế, hẹp hòi, gò bó"
       },
       {
         "example": "狭める",
         "reading": "せばめる",
-        "meaning": "to narrow, to reduce, to contract"
+        "meaning": "to narrow, to reduce, to contract |(vi) thu hẹp, giảm bớt, làm hẹp lại"
       },
       {
         "example": "狭まる",
         "reading": "せばまる",
-        "meaning": "to narrow, to contract"
+        "meaning": "to narrow, to contract |(vi) thu hẹp lại, hẹp lại"
       },
       {
         "example": "狭",
         "reading": "さ",
-        "meaning": "narrow, thin"
+        "meaning": "narrow, thin |(vi) hẹp, mỏng"
       },
       {
         "example": "狭霧",
         "reading": "さぎり",
-        "meaning": "mist, fog"
+        "meaning": "mist, fog |(vi) sương mù"
       },
       {
         "example": "若狭",
         "reading": "わかさ",
-        "meaning": "Wakasa (former province located in the south of present-day Fukui Prefecture)"
+        "meaning": "Wakasa (former province located in the south of present-day Fukui Prefecture) |(vi) Wakasa (tỉnh cũ nằm ở phía nam tỉnh Fukui ngày nay)"
       }
     ],
     "radical": {
@@ -352,7 +352,7 @@
       "forms": [
         "犭"
       ],
-      "meaning": "dog"
+      "meaning": "dog |(vi) Khuyển (chó)"
     },
     "parts": [
       "丶",

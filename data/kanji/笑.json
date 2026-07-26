@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "wara, e, warau, warai, emu, emi",
-    "meaning": "laugh",
+    "meaning": "laugh |(vi) cười",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "爆笑する（ばくしょうする）",
         "meaning": {
-          "english": "laugh hard"
+          "english": "laugh hard |(vi) cười phá lên, cười ầm ĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wara(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "苦笑する（くしょうする）",
         "meaning": {
-          "english": "smile bitterly"
+          "english": "smile bitterly |(vi) cười gượng, cười chua chát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wara(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "冷笑する（れいしょうする）",
         "meaning": {
-          "english": "laugh scornfully"
+          "english": "laugh scornfully |(vi) cười khinh bỉ, cười nhạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wara(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "一笑する（いっしょうする）",
         "meaning": {
-          "english": "laugh off"
+          "english": "laugh off |(vi) cười xòa cho qua, cười trừ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wara(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "笑う（わらう）",
         "meaning": {
-          "english": "laugh, smile [v.i.]"
+          "english": "laugh, smile [v.i.] |(vi) cười, mỉm cười"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wara(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "笑い話（わらいばなし）",
         "meaning": {
-          "english": "funny story"
+          "english": "funny story |(vi) chuyện cười, chuyện hài hước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wara(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "笑顔（えがお）",
         "meaning": {
-          "english": "smiling face"
+          "english": "smiling face |(vi) khuôn mặt tươi cười, gương mặt cười"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wara(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "笑み（えみ）",
         "meaning": {
-          "english": "smile [n.]"
+          "english": "smile [n.] |(vi) nụ cười"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wara(u)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "微笑む（ほほえむ）",
         "meaning": {
-          "english": "smile [v.i.]"
+          "english": "smile [v.i.] |(vi) mỉm cười"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wara(u)_06_i.opus",
@@ -277,7 +277,7 @@
     "kanji": {
       "character": "笑",
       "meaning": {
-        "english": "laugh"
+        "english": "laugh |(vi) cười"
       },
       "strokes": {
         "count": 10,
@@ -335,7 +335,7 @@
         "romaji": "takekanmuri"
       },
       "meaning": {
-        "english": "bamboo"
+        "english": "bamboo |(vi) Trúc (tre)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takekanmuri0.svg",
@@ -356,7 +356,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "913",
     "strokeCount": 10,
-    "meaning": "laugh",
+    "meaning": "laugh |(vi) cười |(hv) Tiếu",
     "kunyomi": [
       "わら.う",
       "え.む"
@@ -368,39 +368,39 @@
       {
         "example": "笑気",
         "reading": "ショウキ",
-        "meaning": "laughing gas, nitrous oxide"
+        "meaning": "laughing gas, nitrous oxide |(vi) khí cười, khí nitơ oxit"
       },
       {
         "example": "笑気麻酔",
         "reading": "ショウキマスイ",
-        "meaning": "nitrous oxide anesthesia, laughing gas anesthesia"
+        "meaning": "nitrous oxide anesthesia, laughing gas anesthesia |(vi) gây mê bằng khí cười"
       },
       {
         "example": "苦笑",
         "reading": "クショウ",
-        "meaning": "bitter smile, wry smile, strained laugh, sarcastic laugh"
+        "meaning": "bitter smile, wry smile, strained laugh, sarcastic laugh |(vi) cười gượng, cười chua chát, cười mỉa"
       },
       {
         "example": "冷笑",
         "reading": "レイショウ",
-        "meaning": "sneer, derision, scornful laugh, cold smile"
+        "meaning": "sneer, derision, scornful laugh, cold smile |(vi) cười khinh bỉ, cười nhạo, cười lạnh lùng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "笑う",
         "reading": "わらう",
-        "meaning": "to laugh, to smile, to sneer, to ridicule, to be dumbfounded, to be flabbergasted"
+        "meaning": "to laugh, to smile, to sneer, to ridicule, to be dumbfounded, to be flabbergasted |(vi) cười, mỉm cười, chế nhạo, cười nhạo, sững sờ kinh ngạc"
       },
       {
         "example": "笑う門には福来る",
         "reading": "わらうかどにはふくきたる",
-        "meaning": "laugh and grow fat, good fortune and happiness will come to the home of those who smile"
+        "meaning": "laugh and grow fat, good fortune and happiness will come to the home of those who smile |(vi) cửa nhà hay cười thì phúc đến, nhà có tiếng cười thì có phúc"
       },
       {
         "example": "笑む",
         "reading": "えむ",
-        "meaning": "to smile"
+        "meaning": "to smile |(vi) mỉm cười"
       }
     ],
     "radical": {
@@ -408,7 +408,7 @@
       "forms": [
         "⺮"
       ],
-      "meaning": "bamboo"
+      "meaning": "bamboo |(vi) Trúc (tre)"
     },
     "parts": [
       "乞",

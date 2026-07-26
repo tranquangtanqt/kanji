@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "machi",
-    "meaning": "city quarter, street",
+    "meaning": "city quarter, street |(vi) khu phố, đường phố",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "街灯（がいとう）",
         "meaning": {
-          "english": "street light"
+          "english": "street light |(vi) đèn đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gai-machi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "街路樹（がいろじゅ）",
         "meaning": {
-          "english": "roadside trees"
+          "english": "roadside trees |(vi) cây hai bên đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gai-machi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "繁華街（はんかがい）",
         "meaning": {
-          "english": "bustling street"
+          "english": "bustling street |(vi) phố xá nhộn nhịp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gai-machi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "住宅街（じゅうたくがい）",
         "meaning": {
-          "english": "residential area"
+          "english": "residential area |(vi) khu dân cư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gai-machi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "商店街（しょうてんがい）",
         "meaning": {
-          "english": "shopping district"
+          "english": "shopping district |(vi) khu mua sắm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gai-machi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "地下街（ちかがい）",
         "meaning": {
-          "english": "underground shopping center"
+          "english": "underground shopping center |(vi) trung tâm mua sắm ngầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gai-machi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "街道（かいどう）",
         "meaning": {
-          "english": "highway"
+          "english": "highway |(vi) quốc lộ, đường cái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gai-machi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "街（まち）",
         "meaning": {
-          "english": "street, town"
+          "english": "street, town |(vi) phố, thị trấn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gai-machi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "街角（まちかど）",
         "meaning": {
-          "english": "street corner"
+          "english": "street corner |(vi) góc phố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gai-machi_06_i.opus",
@@ -221,7 +221,7 @@
     "kanji": {
       "character": "街",
       "meaning": {
-        "english": "city quarter, street"
+        "english": "city quarter, street |(vi) khu phố, đường phố"
       },
       "strokes": {
         "count": 12,
@@ -283,7 +283,7 @@
         "romaji": "gyougamae"
       },
       "meaning": {
-        "english": "to go"
+        "english": "to go |(vi) Hành (đi, làm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyougamae0.svg",
@@ -304,7 +304,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "891",
     "strokeCount": 12,
-    "meaning": "boulevard, street, town",
+    "meaning": "boulevard, street, town |(vi) đại lộ, đường phố, thị trấn |(hv) Nhai",
     "kunyomi": [
       "まち"
     ],
@@ -316,59 +316,59 @@
       {
         "example": "街",
         "reading": "ガイ",
-        "meaning": "street, quarter, district, area"
+        "meaning": "street, quarter, district, area |(vi) phố, khu phố, quận, vùng"
       },
       {
         "example": "街宣車",
         "reading": "ガイセンシャ",
-        "meaning": "sound truck (used for campaigning, advertising or propaganda), loudspeaker van, (right-wing) propaganda vehicle"
+        "meaning": "sound truck (used for campaigning, advertising or propaganda), loudspeaker van, (right-wing) propaganda vehicle |(vi) xe loa tuyên truyền (vận động tranh cử, quảng cáo)"
       },
       {
         "example": "ウォール街",
         "reading": "ウォールガイ",
-        "meaning": "Wall Street"
+        "meaning": "Wall Street |(vi) phố Wall"
       },
       {
         "example": "中華街",
         "reading": "チュウカガイ",
-        "meaning": "Chinatown"
+        "meaning": "Chinatown |(vi) khu phố Tàu"
       },
       {
         "example": "街道",
         "reading": "カイドウ",
-        "meaning": "highway (esp. one existing from the Edo period), main road, highway (e.g. to success), path (to becoming ...), subdistrict (in China)"
+        "meaning": "highway (esp. one existing from the Edo period), main road, highway (e.g. to success), path (to becoming ...), subdistrict (in China) |(vi) đường cái (thời Edo), đường chính, con đường (dẫn tới thành công)"
       },
       {
         "example": "街道筋",
         "reading": "カイドウスジ",
-        "meaning": "highway route (Edo period), main route"
+        "meaning": "highway route (Edo period), main route |(vi) tuyến đường cái (thời Edo), đường chính"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "町",
         "reading": "まち",
-        "meaning": "town, block, neighbourhood, neighborhood, downtown, main street, street, road"
+        "meaning": "town, block, neighbourhood, neighborhood, downtown, main street, street, road |(vi) thị trấn, khu phố, xóm giềng, trung tâm thành phố, phố chính, đường phố"
       },
       {
         "example": "街角",
         "reading": "まちかど",
-        "meaning": "street corner"
+        "meaning": "street corner |(vi) góc phố"
       },
       {
         "example": "眠らない街",
         "reading": "ねむらないまち",
-        "meaning": "city that never sleeps"
+        "meaning": "city that never sleeps |(vi) thành phố không ngủ"
       },
       {
         "example": "街々",
         "reading": "まちまち",
-        "meaning": "streets"
+        "meaning": "streets |(vi) các phố xá"
       }
     ],
     "radical": {
       "symbol": "行",
-      "meaning": "go, do"
+      "meaning": "go, do |(vi) Hành (đi, làm)"
     },
     "parts": [
       "土",

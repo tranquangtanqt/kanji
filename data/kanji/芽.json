@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "me",
-    "meaning": "bud, sprout",
+    "meaning": "bud, sprout |(vi) chồi, mầm",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "麦芽（ばくが）",
         "meaning": {
-          "english": "malt"
+          "english": "malt |(vi) mạch nha"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-me_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "胚芽（はいが）",
         "meaning": {
-          "english": "embryo bud, germ"
+          "english": "embryo bud, germ |(vi) mầm phôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-me_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "発芽する（はつがする）",
         "meaning": {
-          "english": "germinate, sprout [v.i.]"
+          "english": "germinate, sprout [v.i.] |(vi) nảy mầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-me_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "芽（め）",
         "meaning": {
-          "english": "sprout [n.]"
+          "english": "sprout [n.] |(vi) mầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-me_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "新芽（しんめ）",
         "meaning": {
-          "english": "bud, shoot [n.]"
+          "english": "bud, shoot [n.] |(vi) chồi non"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-me_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "芽生える（めばえる）",
         "meaning": {
-          "english": "bud, sprout [v.i.]"
+          "english": "bud, sprout [v.i.] |(vi) đâm chồi, nảy mầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-me_06_f.opus",
@@ -157,7 +157,7 @@
     "kanji": {
       "character": "芽",
       "meaning": {
-        "english": "bud, sprout"
+        "english": "bud, sprout |(vi) chồi, mầm"
       },
       "strokes": {
         "count": 8,
@@ -211,7 +211,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -232,7 +232,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1691",
     "strokeCount": 8,
-    "meaning": "bud, sprout, spear, germ",
+    "meaning": "bud, sprout, spear, germ |(vi) chồi, mầm, giáo, phôi mầm |(hv) Nha",
     "kunyomi": [
       "め"
     ],
@@ -243,44 +243,44 @@
       {
         "example": "芽球",
         "reading": "ガキュウ",
-        "meaning": "gemmule, blast (cell)"
+        "meaning": "gemmule, blast (cell) |(vi) mầm nhỏ, tế bào non"
       },
       {
         "example": "芽殖孤虫",
         "reading": "ガショクコチュウ",
-        "meaning": "Sparganum proliferum (species of worm)"
+        "meaning": "Sparganum proliferum (species of worm) |(vi) sán dây Sparganum proliferum"
       },
       {
         "example": "発芽",
         "reading": "ハツガ",
-        "meaning": "germination, sprouting, budding"
+        "meaning": "germination, sprouting, budding |(vi) nảy mầm, sự nảy mầm"
       },
       {
         "example": "無性芽",
         "reading": "ムセイガ",
-        "meaning": "gemma"
+        "meaning": "gemma |(vi) mầm sinh sản vô tính"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "芽",
         "reading": "め",
-        "meaning": "sprout, shoot, bud, germinal disk (in an egg)"
+        "meaning": "sprout, shoot, bud, germinal disk (in an egg) |(vi) mầm, chồi, đĩa phôi (trong trứng)"
       },
       {
         "example": "目出度い",
         "reading": "めでたい",
-        "meaning": "happy, auspicious, propitious, joyous, naive"
+        "meaning": "happy, auspicious, propitious, joyous, naive |(vi) vui mừng, may mắn, tốt lành, hoan hỷ, ngây thơ"
       },
       {
         "example": "若芽",
         "reading": "わかめ",
-        "meaning": "sprouts, new shoots, young buds"
+        "meaning": "sprouts, new shoots, young buds |(vi) mầm non, chồi non"
       },
       {
         "example": "脇芽",
         "reading": "わきめ",
-        "meaning": "axillary bud, lateral bud, side shoots (e.g. of a tomato or broccoli plant), side buds, suckers"
+        "meaning": "axillary bud, lateral bud, side shoots (e.g. of a tomato or broccoli plant), side buds, suckers |(vi) chồi nách, chồi bên (vd. cây cà chua, bông cải...)"
       }
     ],
     "radical": {
@@ -288,7 +288,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "牙",

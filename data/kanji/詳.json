@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "kuwa, kuwashii",
-    "meaning": "detailed",
+    "meaning": "detailed |(vi) chi tiết, tỉ mỉ",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "詳細（しょうさい）",
         "meaning": {
-          "english": "detail"
+          "english": "detail |(vi) chi tiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwa(shii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "詳しい（くわしい）",
         "meaning": {
-          "english": "detailed, knowledgable"
+          "english": "detailed, knowledgable |(vi) chi tiết, am hiểu, rành rẽ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwa(shii)_06_b.opus",
@@ -136,7 +136,7 @@
     "kanji": {
       "character": "詳",
       "meaning": {
-        "english": "detailed"
+        "english": "detailed |(vi) chi tiết, tỉ mỉ"
       },
       "strokes": {
         "count": 13,
@@ -200,7 +200,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -221,7 +221,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1178",
     "strokeCount": 13,
-    "meaning": "detailed, full, minute, accurate, well-informed",
+    "meaning": "detailed, full, minute, accurate, well-informed |(vi) chi tiết, đầy đủ, tỉ mỉ, chính xác, am hiểu tường tận |(hv) Tường",
     "kunyomi": [
       "くわ.しい",
       "つまび.らか"
@@ -233,39 +233,39 @@
       {
         "example": "詳報",
         "reading": "ショウホウ",
-        "meaning": "detailed report, full report, details, particulars"
+        "meaning": "detailed report, full report, details, particulars |(vi) báo cáo chi tiết, báo cáo đầy đủ, thông tin cụ thể"
       },
       {
         "example": "詳細",
         "reading": "ショウサイ",
-        "meaning": "details, particulars, specifics, detailed, specific, minute, close-up view (of a digitally displayed map), zoomed-in view"
+        "meaning": "details, particulars, specifics, detailed, specific, minute, close-up view (of a digitally displayed map), zoomed-in view |(vi) chi tiết, cụ thể, tỉ mỉ, chi tiết cụ thể, tầm nhìn cận cảnh (của bản đồ số), chế độ phóng to"
       },
       {
         "example": "不詳",
         "reading": "フショウ",
-        "meaning": "unknown, unidentified, unspecified"
+        "meaning": "unknown, unidentified, unspecified |(vi) không rõ, chưa xác định, không cụ thể"
       },
       {
         "example": "姓名不詳",
         "reading": "セイメイフショウ",
-        "meaning": "unidentified, name unknown"
+        "meaning": "unidentified, name unknown |(vi) không rõ danh tính, không rõ họ tên"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "詳しい",
         "reading": "くわしい",
-        "meaning": "detailed, full, minute, knowing very well, knowledgeable (about), well-acquainted (with), well-informed (about), familiar (with)"
+        "meaning": "detailed, full, minute, knowing very well, knowledgeable (about), well-acquainted (with), well-informed (about), familiar (with) |(vi) chi tiết, đầy đủ, tỉ mỉ, biết rất rõ, am hiểu (về), thông thạo (về), nắm rõ (về), quen thuộc (với)"
       },
       {
         "example": "詳らか",
         "reading": "つまびらか",
-        "meaning": "detailed, clear"
+        "meaning": "detailed, clear |(vi) chi tiết, rõ ràng"
       },
       {
         "example": "詳らかでない",
         "reading": "つまびらかでない",
-        "meaning": "unknown"
+        "meaning": "unknown |(vi) không rõ"
       }
     ],
     "radical": {
@@ -273,7 +273,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "并",

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "scene",
+    "meaning": "scene |(vi) cảnh, phong cảnh",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "風景（ふうけい）",
         "meaning": {
-          "english": "scenery"
+          "english": "scenery |(vi) phong cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fuu)kei_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "絶景（ぜっけい）",
         "meaning": {
-          "english": "picturesque scenery"
+          "english": "picturesque scenery |(vi) cảnh đẹp tuyệt vời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fuu)kei_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "夜景（やけい）",
         "meaning": {
-          "english": "night view"
+          "english": "night view |(vi) cảnh đêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fuu)kei_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "背景（はいけい）",
         "meaning": {
-          "english": "background, setting"
+          "english": "background, setting |(vi) bối cảnh, hậu cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fuu)kei_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "光景（こうけい）",
         "meaning": {
-          "english": "scene, spectacle"
+          "english": "scene, spectacle |(vi) quang cảnh, cảnh tượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fuu)kei_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "景気（けいき）",
         "meaning": {
-          "english": "business/economic conditions"
+          "english": "business/economic conditions |(vi) tình hình kinh tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fuu)kei_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "不景気（ふけいき）",
         "meaning": {
-          "english": "economic depression"
+          "english": "economic depression |(vi) suy thoái kinh tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fuu)kei_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "*景色（けしき）",
         "meaning": {
-          "english": "scenery"
+          "english": "scenery |(vi) phong cảnh, cảnh sắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fuu)kei_06_h.opus",
@@ -217,7 +217,7 @@
     "kanji": {
       "character": "景",
       "meaning": {
-        "english": "scene"
+        "english": "scene |(vi) cảnh, phong cảnh"
       },
       "strokes": {
         "count": 12,
@@ -279,7 +279,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày, thời gian)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi0.svg",
@@ -300,7 +300,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "419",
     "strokeCount": 12,
-    "meaning": "scenery, view",
+    "meaning": "scenery, view |(vi) phong cảnh, cảnh vật |(hv) Cảnh",
     "kunyomi": [],
     "onyomi": [
       "ケイ"
@@ -309,28 +309,28 @@
       {
         "example": "景",
         "reading": "ケイ",
-        "meaning": "vista, view, scene, scenic view, counter for scenes (in a play)"
+        "meaning": "vista, view, scene, scenic view, counter for scenes (in a play) |(vi) cảnh, quang cảnh, cảnh trí, lượng từ đếm cảnh (trong vở kịch)"
       },
       {
         "example": "景観",
         "reading": "ケイカン",
-        "meaning": "scenery"
+        "meaning": "scenery |(vi) cảnh quan"
       },
       {
         "example": "八景",
         "reading": "ハッケイ",
-        "meaning": "eight picturesque sights"
+        "meaning": "eight picturesque sights |(vi) tám cảnh đẹp"
       },
       {
         "example": "殺風景",
         "reading": "サップウケイ",
-        "meaning": "dreary, bleak, monotonous, barren, tasteless, unrefined"
+        "meaning": "dreary, bleak, monotonous, barren, tasteless, unrefined |(vi) buồn tẻ, ảm đạm, đơn điệu, khô khan, vô vị, thô kệch"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "亠",

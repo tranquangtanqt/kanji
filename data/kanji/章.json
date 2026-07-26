@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "chapter, badge",
+    "meaning": "chapter, badge |(vi) chương, huy hiệu",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "章（しょう）",
         "meaning": {
-          "english": "chapter"
+          "english": "chapter |(vi) chương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kun)shou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "文章（ぶんしょう）",
         "meaning": {
-          "english": "sentence [n.]"
+          "english": "sentence [n.] |(vi) câu văn, bài văn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kun)shou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "校章（こうしょう）",
         "meaning": {
-          "english": "school badge"
+          "english": "school badge |(vi) huy hiệu trường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kun)shou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "勲章（くんしょう）",
         "meaning": {
-          "english": "medal"
+          "english": "medal |(vi) huân chương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kun)shou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "第一章（だいいっしょう）",
         "meaning": {
-          "english": "first chapter"
+          "english": "first chapter |(vi) chương một, chương thứ nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kun)shou_06_e.opus",
@@ -163,7 +163,7 @@
     "kanji": {
       "character": "章",
       "meaning": {
-        "english": "chapter, badge"
+        "english": "chapter, badge |(vi) chương, huy hiệu"
       },
       "strokes": {
         "count": 11,
@@ -223,7 +223,7 @@
         "romaji": "tatsu"
       },
       "meaning": {
-        "english": "to stand"
+        "english": "to stand |(vi) Lập (đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tatsu0.svg",
@@ -244,7 +244,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "990",
     "strokeCount": 11,
-    "meaning": "badge, chapter, composition, poem, design",
+    "meaning": "badge, chapter, composition, poem, design |(vi) huy hiệu, chương, văn chương, thơ, thiết kế hoa văn |(hv) Chương",
     "kunyomi": [],
     "onyomi": [
       "ショウ"
@@ -253,28 +253,28 @@
       {
         "example": "章",
         "reading": "ショウ",
-        "meaning": "chapter, section, medal, badge, insignia"
+        "meaning": "chapter, section, medal, badge, insignia |(vi) chương, phần, huân chương, huy hiệu, phù hiệu"
       },
       {
         "example": "章句",
         "reading": "ショウク",
-        "meaning": "chapter and verse, paragraph, passage"
+        "meaning": "chapter and verse, paragraph, passage |(vi) chương cú, đoạn văn, câu văn"
       },
       {
         "example": "受章",
         "reading": "ジュショウ",
-        "meaning": "reception of a decoration, reception of an order"
+        "meaning": "reception of a decoration, reception of an order |(vi) nhận huân chương, được trao huy chương"
       },
       {
         "example": "楽章",
         "reading": "ガクショウ",
-        "meaning": "movement"
+        "meaning": "movement |(vi) chương nhạc, phần nhạc"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "立",
-      "meaning": "stand, erect"
+      "meaning": "stand, erect |(vi) Lập (đứng)"
     },
     "parts": [
       "十",

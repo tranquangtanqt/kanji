@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "center, middle",
+    "meaning": "center, middle |(vi) trung tâm, ở giữa",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "中央（ちゅうおう）",
         "meaning": {
-          "english": "central, center, middle"
+          "english": "central, center, middle |(vi) trung ương, trung tâm, ở giữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)ou(sen)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "中央線（ちゅうおうせん）",
         "meaning": {
-          "english": "Chuo line (train)"
+          "english": "Chuo line (train) |(vi) tuyến Chuo (tàu điện)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)ou(sen)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "中央口（ちゅうおうぐち）",
         "meaning": {
-          "english": "central entrance"
+          "english": "central entrance |(vi) cửa trung tâm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)ou(sen)_06_c.opus",
@@ -132,7 +132,7 @@
     "kanji": {
       "character": "央",
       "meaning": {
-        "english": "center, middle"
+        "english": "center, middle |(vi) trung tâm, ở giữa"
       },
       "strokes": {
         "count": 5,
@@ -180,7 +180,7 @@
         "romaji": "dai"
       },
       "meaning": {
-        "english": "large, big"
+        "english": "large, big |(vi) Đại (lớn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/dai0.svg",
@@ -201,7 +201,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "582",
     "strokeCount": 5,
-    "meaning": "center, middle",
+    "meaning": "center, middle |(vi) trung tâm, ở giữa |(hv) Ương",
     "kunyomi": [],
     "onyomi": [
       "オウ"
@@ -210,23 +210,23 @@
       {
         "example": "央",
         "reading": "オウ",
-        "meaning": "middle, centre, center"
+        "meaning": "middle, centre, center |(vi) trung tâm, ở giữa"
       },
       {
         "example": "道央",
         "reading": "ドウオウ",
-        "meaning": "central Hokkaido"
+        "meaning": "central Hokkaido |(vi) trung tâm Hokkaido"
       },
       {
         "example": "月央",
         "reading": "ゲツオウ",
-        "meaning": "middle of the month"
+        "meaning": "middle of the month |(vi) giữa tháng"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "大",
-      "meaning": "big, very"
+      "meaning": "big, very |(vi) Đại (lớn, rất)"
     },
     "parts": [
       "ノ",

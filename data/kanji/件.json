@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "matter",
+    "meaning": "matter |(vi) việc, vấn đề",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "件（けん）",
         "meaning": {
-          "english": "incident"
+          "english": "incident |(vi) vụ việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "事件（じけん）",
         "meaning": {
-          "english": "incident, criminal case"
+          "english": "incident, criminal case |(vi) vụ việc, vụ án"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "条件（じょうけん）",
         "meaning": {
-          "english": "condition [n.]"
+          "english": "condition [n.] |(vi) điều kiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "用件（ようけん）",
         "meaning": {
-          "english": "(one's) business, concerns"
+          "english": "(one's) business, concerns |(vi) công việc, việc cần làm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "人件費（じんけんひ）",
         "meaning": {
-          "english": "cost of labor"
+          "english": "cost of labor |(vi) chi phí nhân công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_e.opus",
@@ -182,7 +182,7 @@
     "kanji": {
       "character": "件",
       "meaning": {
-        "english": "matter"
+        "english": "matter |(vi) việc, vấn đề"
       },
       "strokes": {
         "count": 6,
@@ -232,7 +232,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -253,7 +253,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "212",
     "strokeCount": 6,
-    "meaning": "affair, case, matter, item",
+    "meaning": "affair, case, matter, item |(vi) vụ việc, sự việc, vấn đề, hạng mục |(hv) Kiện",
     "kunyomi": [
       "くだん"
     ],
@@ -264,34 +264,34 @@
       {
         "example": "件",
         "reading": "ケン",
-        "meaning": "matter, affair, case, item, subject, counter for (received) emails, text messages, voicemail messages, etc., counter for accounts (on a website, email service, etc.)"
+        "meaning": "matter, affair, case, item, subject, counter for (received) emails, text messages, voicemail messages, etc., counter for accounts (on a website, email service, etc.) |(vi) vụ việc, sự việc, vấn đề, hạng mục, mục; đơn vị đếm email, tin nhắn, tài khoản đã nhận"
       },
       {
         "example": "件数",
         "reading": "ケンスウ",
-        "meaning": "number of cases, incidents, items, messages, accounts, etc."
+        "meaning": "number of cases, incidents, items, messages, accounts, etc. |(vi) số vụ việc, số lượng mục, tin nhắn, tài khoản..."
       },
       {
         "example": "刑事事件",
         "reading": "ケイジジケン",
-        "meaning": "criminal case"
+        "meaning": "criminal case |(vi) vụ án hình sự"
       },
       {
         "example": "要件",
         "reading": "ヨウケン",
-        "meaning": "important matter, requirement, requisite, necessary condition, sine qua non"
+        "meaning": "important matter, requirement, requisite, necessary condition, sine qua non |(vi) điều kiện cần thiết, yêu cầu, việc quan trọng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "件",
         "reading": "くだん",
-        "meaning": "the aforementioned, the said, (man, incident, etc.) in question, the above-mentioned, the aforesaid, the usual"
+        "meaning": "the aforementioned, the said, (man, incident, etc.) in question, the above-mentioned, the aforesaid, the usual |(vi) điều đã nói ở trên, việc đã đề cập, như thường lệ"
       },
       {
         "example": "件の如し",
         "reading": "くだんのごとし",
-        "meaning": "the above is hereby affirmed, such is the purpose of this document"
+        "meaning": "the above is hereby affirmed, such is the purpose of this document |(vi) như đã nêu trên, đúng như văn bản này"
       }
     ],
     "radical": {
@@ -299,7 +299,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "化",

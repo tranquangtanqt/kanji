@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 2,
     "kunyomi": "waza",
-    "meaning": "work, business, industry",
+    "meaning": "work, business, industry |(vi) công việc, kinh doanh, ngành nghề",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "授業（じゅぎょう）",
         "meaning": {
-          "english": "lesson, class"
+          "english": "lesson, class |(vi) bài học, tiết học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyou-waza_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "授業料（じゅぎょうりょう）",
         "meaning": {
-          "english": "school fees, tuition"
+          "english": "school fees, tuition |(vi) học phí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyou-waza_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "授業中（じゅぎょうちゅう）",
         "meaning": {
-          "english": "while in class, during a class"
+          "english": "while in class, during a class |(vi) trong giờ học, đang học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyou-waza_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "職業（しょくぎょう）",
         "meaning": {
-          "english": "occupation"
+          "english": "occupation |(vi) nghề nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyou-waza_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "企業（きぎょう）",
         "meaning": {
-          "english": "enterprise"
+          "english": "enterprise |(vi) doanh nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyou-waza_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "従業員（じゅうぎょういん）",
         "meaning": {
-          "english": "employee"
+          "english": "employee |(vi) nhân viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyou-waza_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "卒業する（そつぎょうする）",
         "meaning": {
-          "english": "graduate"
+          "english": "graduate |(vi) tốt nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyou-waza_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "作業する（さぎょうする）",
         "meaning": {
-          "english": "work"
+          "english": "work |(vi) làm việc, thao tác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyou-waza_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "営業する（えいぎょうする）",
         "meaning": {
-          "english": "be in business"
+          "english": "be in business |(vi) kinh doanh, hoạt động (doanh nghiệp)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyou-waza_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "仕業（しわざ）",
         "meaning": {
-          "english": "handiwork"
+          "english": "handiwork |(vi) hành vi, việc làm (thường ám chỉ điều xấu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyou-waza_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "人間業（にんげんわざ）",
         "meaning": {
-          "english": "the work of man"
+          "english": "the work of man |(vi) công việc của con người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyou-waza_06_k.opus",
@@ -286,7 +286,7 @@
     "kanji": {
       "character": "業",
       "meaning": {
-        "english": "work, business, industry"
+        "english": "work, business, industry |(vi) công việc, kinh doanh, ngành nghề"
       },
       "strokes": {
         "count": 13,
@@ -350,7 +350,7 @@
         "romaji": "ki"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ki0.svg",
@@ -371,7 +371,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "43",
     "strokeCount": 13,
-    "meaning": "business, vocation, arts, performance",
+    "meaning": "business, vocation, arts, performance |(vi) kinh doanh, nghề nghiệp, kỹ nghệ, biểu diễn |(hv) Nghiệp",
     "kunyomi": [
       "わざ"
     ],
@@ -383,69 +383,69 @@
       {
         "example": "業",
         "reading": "ギョウ",
-        "meaning": "work, business, company, agency, study"
+        "meaning": "work, business, company, agency, study |(vi) công việc, kinh doanh, công ty, đại lý, học tập"
       },
       {
         "example": "業界",
         "reading": "ギョウカイ",
-        "meaning": "business world, business circles, (the) industry"
+        "meaning": "business world, business circles, (the) industry |(vi) giới kinh doanh, giới doanh nghiệp, ngành công nghiệp"
       },
       {
         "example": "興業",
         "reading": "コウギョウ",
-        "meaning": "promotion of industry, inauguration of a new industrial enterprise"
+        "meaning": "promotion of industry, inauguration of a new industrial enterprise |(vi) sự chấn hưng công nghiệp, sự thành lập doanh nghiệp mới"
       },
       {
         "example": "鉱業",
         "reading": "コウギョウ",
-        "meaning": "mining industry"
+        "meaning": "mining industry |(vi) ngành khai khoáng"
       },
       {
         "example": "業",
         "reading": "ゴウ",
-        "meaning": "karma, result of one's karma, fate, destiny, uncontrollable temper"
+        "meaning": "karma, result of one's karma, fate, destiny, uncontrollable temper |(vi) nghiệp báo, quả báo, số phận, định mệnh, tính khí khó kiềm chế"
       },
       {
         "example": "業因",
         "reading": "ゴウイン",
-        "meaning": "karma"
+        "meaning": "karma |(vi) nghiệp nhân, nguyên nhân của nghiệp báo"
       },
       {
         "example": "罪業",
         "reading": "ザイゴウ",
-        "meaning": "sin, iniquity, crime"
+        "meaning": "sin, iniquity, crime |(vi) tội lỗi, tội ác"
       },
       {
         "example": "正業",
         "reading": "ショウゴウ",
-        "meaning": "right action, correct meditative activity (in Jodo, saying the name of Amitabha)"
+        "meaning": "right action, correct meditative activity (in Jodo, saying the name of Amitabha) |(vi) chánh nghiệp, hành trì thiền định đúng đắn (trong Tịnh độ tông, niệm danh hiệu Phật A Di Đà)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "業",
         "reading": "わざ",
-        "meaning": "deed, act, work, performance"
+        "meaning": "deed, act, work, performance |(vi) hành vi, việc làm, công việc, sự biểu diễn"
       },
       {
         "example": "業師",
         "reading": "わざし",
-        "meaning": "tricky wrestler, shrewd fellow"
+        "meaning": "tricky wrestler, shrewd fellow |(vi) đô vật ranh mãnh, kẻ khôn khéo"
       },
       {
         "example": "寝技",
         "reading": "ねわざ",
-        "meaning": "pinning technique (in wrestling or judo), underhanded dealings"
+        "meaning": "pinning technique (in wrestling or judo), underhanded dealings |(vi) kỹ thuật khống chế đối phương (vật hoặc judo), trò chơi xấu, mờ ám"
       },
       {
         "example": "投げ技",
         "reading": "なげわざ",
-        "meaning": "throw or throwing technique (sumo, judo)"
+        "meaning": "throw or throwing technique (sumo, judo) |(vi) kỹ thuật quật ngã, đòn quật (sumo, judo)"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "一",

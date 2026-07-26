@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": null,
     "kunyomi": "n/a",
-    "meaning": "harm, damage",
+    "meaning": "harm, damage |(vi) gây hại, thiệt hại",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "害（がい）",
         "meaning": {
-          "english": "harm, damage"
+          "english": "harm, damage |(vi) tổn hại, thiệt hại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)gai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "被害（ひがい）",
         "meaning": {
-          "english": "damage"
+          "english": "damage |(vi) thiệt hại (bị gây ra)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)gai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "弊害（へいがい）",
         "meaning": {
-          "english": "an abuse, an evil"
+          "english": "an abuse, an evil |(vi) tệ nạn, tác hại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)gai_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "公害（こうがい）",
         "meaning": {
-          "english": "public nuisance, pollution"
+          "english": "public nuisance, pollution |(vi) ô nhiễm môi trường, tác hại công cộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)gai_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "損害（そんがい）",
         "meaning": {
-          "english": "damage, loss"
+          "english": "damage, loss |(vi) tổn thất, thiệt hại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)gai_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "災害（さいがい）",
         "meaning": {
-          "english": "calamity, disaster, misfortune"
+          "english": "calamity, disaster, misfortune |(vi) thiên tai, tai họa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)gai_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "障害者（しょうがいしゃ）",
         "meaning": {
-          "english": "handicapped person"
+          "english": "handicapped person |(vi) người khuyết tật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)gai_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "被害者（ひがいしゃ）",
         "meaning": {
-          "english": "victim, injured party, sufferer"
+          "english": "victim, injured party, sufferer |(vi) nạn nhân, người bị hại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)gai_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "加害者（かがいしゃ）",
         "meaning": {
-          "english": "assailant, perpetrator"
+          "english": "assailant, perpetrator |(vi) kẻ gây hại, thủ phạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)gai_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "妨害する（ぼうがいする）",
         "meaning": {
-          "english": "disturb, obstruct, interfere"
+          "english": "disturb, obstruct, interfere |(vi) cản trở, gây rối, can thiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)gai_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "阻害する（そがいする）",
         "meaning": {
-          "english": "block, check, hinder"
+          "english": "block, check, hinder |(vi) ngăn cản, cản trở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)gai_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "侵害する（しんがいする）",
         "meaning": {
-          "english": "infringe, violate, trespass"
+          "english": "infringe, violate, trespass |(vi) xâm phạm, vi phạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)gai_06_l.opus",
@@ -247,7 +247,7 @@
     "kanji": {
       "character": "害",
       "meaning": {
-        "english": "harm, damage"
+        "english": "harm, damage |(vi) gây hại, thiệt hại"
       },
       "strokes": {
         "count": 10,
@@ -305,7 +305,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -326,7 +326,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "358",
     "strokeCount": 10,
-    "meaning": "harm, injury",
+    "meaning": "harm, injury |(vi) gây hại, tổn thương |(hv) Hại",
     "kunyomi": [],
     "onyomi": [
       "ガイ"
@@ -335,28 +335,28 @@
       {
         "example": "害",
         "reading": "ガイ",
-        "meaning": "injury, harm, evil influence, damage"
+        "meaning": "injury, harm, evil influence, damage |(vi) tổn thương, gây hại, ảnh hưởng xấu, thiệt hại"
       },
       {
         "example": "害虫",
         "reading": "ガイチュウ",
-        "meaning": "harmful insect, noxious insect, pest, vermin"
+        "meaning": "harmful insect, noxious insect, pest, vermin |(vi) côn trùng gây hại, sâu bọ"
       },
       {
         "example": "薬害",
         "reading": "ヤクガイ",
-        "meaning": "harmful side effects of a medicine or drug"
+        "meaning": "harmful side effects of a medicine or drug |(vi) tác hại của thuốc"
       },
       {
         "example": "傷害",
         "reading": "ショウガイ",
-        "meaning": "injury, inflicting bodily injury"
+        "meaning": "injury, inflicting bodily injury |(vi) thương tích, gây thương tích"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà)"
     },
     "parts": [
       "二",

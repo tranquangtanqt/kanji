@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "iwa, iwau, iwai",
-    "meaning": "celebrate",
+    "meaning": "celebrate |(vi) chúc mừng, ăn mừng",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "祝賀会（しゅくがかい）",
         "meaning": {
-          "english": "celebration"
+          "english": "celebration |(vi) buổi lễ chúc mừng, tiệc mừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iwa(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "祝日（しゅくじつ）",
         "meaning": {
-          "english": "national holiday"
+          "english": "national holiday |(vi) ngày lễ quốc gia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iwa(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "祝福する（しゅくふくする）",
         "meaning": {
-          "english": "bless"
+          "english": "bless |(vi) chúc phúc, ban phước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iwa(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "御祝儀（ごしゅうぎ）",
         "meaning": {
-          "english": "congratulatory gift (money)"
+          "english": "congratulatory gift (money) |(vi) tiền mừng, quà mừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iwa(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "祝う（いわう）",
         "meaning": {
-          "english": "celebrate"
+          "english": "celebrate |(vi) chúc mừng, ăn mừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iwa(u)_06_e.opus",
@@ -171,7 +171,7 @@
     "kanji": {
       "character": "祝",
       "meaning": {
-        "english": "celebrate"
+        "english": "celebrate |(vi) chúc mừng, ăn mừng"
       },
       "strokes": {
         "count": 9,
@@ -227,7 +227,7 @@
         "romaji": "shimesuhen"
       },
       "meaning": {
-        "english": "altar, festival, religious service"
+        "english": "altar, festival, religious service |(vi) Thị (bàn thờ, tế lễ, việc thờ cúng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shimesuhen0.svg",
@@ -248,7 +248,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1184",
     "strokeCount": 9,
-    "meaning": "celebrate, congratulate",
+    "meaning": "celebrate, congratulate |(vi) chúc mừng, chúc tụng |(hv) Chúc",
     "kunyomi": [
       "いわ.う"
     ],
@@ -260,39 +260,39 @@
       {
         "example": "祝",
         "reading": "シュク",
-        "meaning": "public holiday, celebration (of)"
+        "meaning": "public holiday, celebration (of) |(vi) ngày lễ, dịp chúc mừng"
       },
       {
         "example": "祝賀",
         "reading": "シュクガ",
-        "meaning": "celebration, congratulations"
+        "meaning": "celebration, congratulations |(vi) chúc mừng, khánh chúc"
       },
       {
         "example": "慶祝",
         "reading": "ケイシュク",
-        "meaning": "congratulation, celebration"
+        "meaning": "congratulation, celebration |(vi) khánh chúc, chúc mừng"
       },
       {
         "example": "奉祝",
         "reading": "ホウシュク",
-        "meaning": "celebration"
+        "meaning": "celebration |(vi) phụng chúc, mừng lễ"
       },
       {
         "example": "祝儀",
         "reading": "シュウギ",
-        "meaning": "celebration, celebratory event, wedding ceremony, congratulatory gift, tip, gratuity"
+        "meaning": "celebration, celebratory event, wedding ceremony, congratulatory gift, tip, gratuity |(vi) lễ mừng, tiệc cưới, quà mừng, tiền thưởng"
       },
       {
         "example": "祝儀袋",
         "reading": "シュウギブクロ",
-        "meaning": "special envelope for monetary gifts"
+        "meaning": "special envelope for monetary gifts |(vi) phong bì đựng tiền mừng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "祝う",
         "reading": "いわう",
-        "meaning": "to celebrate, to congratulate, to observe (a festival), to present (a gift) in celebration, to drink in celebration, to wish for (a happy future, good fortune, etc.), to pray for"
+        "meaning": "to celebrate, to congratulate, to observe (a festival), to present (a gift) in celebration, to drink in celebration, to wish for (a happy future, good fortune, etc.), to pray for |(vi) chúc mừng, ăn mừng, tổ chức lễ hội, tặng quà mừng, uống rượu mừng, cầu chúc điều tốt lành"
       }
     ],
     "radical": {
@@ -300,7 +300,7 @@
       "forms": [
         "礻"
       ],
-      "meaning": "sign"
+      "meaning": "sign |(vi) Thị (biểu thị, thần linh, điềm báo)"
     },
     "parts": [
       "儿",

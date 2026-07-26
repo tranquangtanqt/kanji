@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ko, kogeru, kogasu, kogareru, ase, aseru, aseri",
-    "meaning": "scorch, be impatient, yearn for",
+    "meaning": "scorch, be impatient, yearn for |(vi) cháy khét, sốt ruột, khao khát",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "焦土（しょうど）",
         "meaning": {
-          "english": "scorched earth"
+          "english": "scorched earth |(vi) đất cháy, đất thiêu rụi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(geru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "焦点（しょうてん）",
         "meaning": {
-          "english": "focus, point"
+          "english": "focus, point |(vi) tiêu điểm, điểm mấu chốt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(geru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "焦燥感（しょうそうかん）",
         "meaning": {
-          "english": "impatience, uneasiness"
+          "english": "impatience, uneasiness |(vi) cảm giác nóng ruột, bồn chồn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(geru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "焦げる（こげる）",
         "meaning": {
-          "english": "burn, be burned [v.i.]"
+          "english": "burn, be burned [v.i.] |(vi) bị cháy, bị khét"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(geru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "焦がす（こがす）",
         "meaning": {
-          "english": "burn, scorch, singe [v.t.]"
+          "english": "burn, scorch, singe [v.t.] |(vi) làm cháy, làm khét"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(geru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "恋焦がれる（こいこがれる）",
         "meaning": {
-          "english": "yearn for, be deeply in love"
+          "english": "yearn for, be deeply in love |(vi) khao khát yêu, yêu say đắm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(geru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "待ち焦がれる（まちこがれる）",
         "meaning": {
-          "english": "long for"
+          "english": "long for |(vi) mong chờ khắc khoải, ngóng trông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(geru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "焦る（あせる）",
         "meaning": {
-          "english": "be in a hurry, be impatient"
+          "english": "be in a hurry, be impatient |(vi) vội vàng, nóng vội, sốt ruột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(geru)_06_h.opus",
@@ -211,7 +211,7 @@
     "kanji": {
       "character": "焦",
       "meaning": {
-        "english": "scorch, be impatient, yearn for"
+        "english": "scorch, be impatient, yearn for |(vi) cháy khét, sốt ruột, khao khát"
       },
       "strokes": {
         "count": 12,
@@ -273,7 +273,7 @@
         "romaji": "rekka"
       },
       "meaning": {
-        "english": "fire"
+        "english": "fire |(vi) Hỏa (lửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rekka0.svg",
@@ -294,7 +294,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "973",
     "strokeCount": 12,
-    "meaning": "char, hurry, impatient, irritate, burn, scorch, singe",
+    "meaning": "char, hurry, impatient, irritate, burn, scorch, singe |(vi) cháy đen, vội vã, sốt ruột, bực bội, cháy, khét, cháy sém |(hv) Tiêu",
     "kunyomi": [
       "こ.げる",
       "こ.がす",
@@ -310,54 +310,54 @@
       {
         "example": "焦点",
         "reading": "ショウテン",
-        "meaning": "focus, focal point, focus (of attention, a discussion, etc.), point at issue, central point, focus"
+        "meaning": "focus, focal point, focus (of attention, a discussion, etc.), point at issue, central point, focus |(vi) tiêu điểm, điểm hội tụ, trọng tâm, vấn đề trọng tâm, điểm chính"
       },
       {
         "example": "焦燥",
         "reading": "ショウソウ",
-        "meaning": "impatience, irritation, frustration, fretfulness"
+        "meaning": "impatience, irritation, frustration, fretfulness |(vi) nóng ruột, bồn chồn, sốt ruột, bứt rứt"
       },
       {
         "example": "合焦",
         "reading": "ガッショウ",
-        "meaning": "being in focus, bringing into focus"
+        "meaning": "being in focus, bringing into focus |(vi) lấy nét, hội tụ ống kính"
       },
       {
         "example": "中焦",
         "reading": "チュウショウ",
-        "meaning": "middle jiao (in traditional Chinese medicine), middle burner"
+        "meaning": "middle jiao (in traditional Chinese medicine), middle burner |(vi) trung tiêu (một trong tam tiêu trong y học cổ truyền Trung Hoa)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "焦げる",
         "reading": "こげる",
-        "meaning": "to burn, to scorch, to char, to singe"
+        "meaning": "to burn, to scorch, to char, to singe |(vi) bị cháy, bị khét, cháy sém"
       },
       {
         "example": "焦がす",
         "reading": "こがす",
-        "meaning": "to burn, to scorch, to singe, to char"
+        "meaning": "to burn, to scorch, to singe, to char |(vi) làm cháy, làm khét, làm cháy sém"
       },
       {
         "example": "焦がれる",
         "reading": "こがれる",
-        "meaning": "to long (for), to yearn (for), to love ardently, to do eagerly, to do with restless anticipation"
+        "meaning": "to long (for), to yearn (for), to love ardently, to do eagerly, to do with restless anticipation |(vi) khao khát, mong nhớ da diết, yêu say đắm"
       },
       {
         "example": "焦る",
         "reading": "あせる",
-        "meaning": "to be in a hurry, to be impatient, to be anxious (to do), to fret, to get a fright, to panic, to get flustered, to be startled"
+        "meaning": "to be in a hurry, to be impatient, to be anxious (to do), to fret, to get a fright, to panic, to get flustered, to be startled |(vi) vội vàng, nóng vội, sốt ruột, hoảng hốt, luống cuống"
       },
       {
         "example": "焦れる",
         "reading": "じれる",
-        "meaning": "to get impatient, to become irritated, to fret, to chafe"
+        "meaning": "to get impatient, to become irritated, to fret, to chafe |(vi) sốt ruột, bực bội, nóng lòng"
       },
       {
         "example": "焦らす",
         "reading": "じらす",
-        "meaning": "to tease, to irritate, to tantalize, to keep (someone) in suspense"
+        "meaning": "to tease, to irritate, to tantalize, to keep (someone) in suspense |(vi) trêu chọc, chọc tức, làm nóng ruột"
       }
     ],
     "radical": {
@@ -365,7 +365,7 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": "fire |(vi) Hỏa (lửa)"
     },
     "parts": [
       "杰",

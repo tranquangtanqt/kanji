@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "haru",
-    "meaning": "spring",
+    "meaning": "spring |(vi) mùa xuân",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "春分の日（しゅんぶんのひ）",
         "meaning": {
-          "english": "vernal equinox"
+          "english": "vernal equinox |(vi) ngày xuân phân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haru_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "青春（せいしゅん）",
         "meaning": {
-          "english": "springtime of life"
+          "english": "springtime of life |(vi) tuổi xuân, thanh xuân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haru_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "立春（りっしゅん）",
         "meaning": {
-          "english": "1st day of spring"
+          "english": "1st day of spring |(vi) lập xuân, ngày đầu xuân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haru_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "春（はる）",
         "meaning": {
-          "english": "spring"
+          "english": "spring |(vi) mùa xuân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haru_06_d.opus",
@@ -192,7 +192,7 @@
     "kanji": {
       "character": "春",
       "meaning": {
-        "english": "spring"
+        "english": "spring |(vi) mùa xuân"
       },
       "strokes": {
         "count": 9,
@@ -248,7 +248,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày, thời gian)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi0.svg",
@@ -269,7 +269,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "579",
     "strokeCount": 9,
-    "meaning": "springtime, spring (season)",
+    "meaning": "springtime, spring (season) |(vi) mùa xuân, thời kỳ xuân |(hv) Xuân",
     "kunyomi": [
       "はる"
     ],
@@ -280,49 +280,49 @@
       {
         "example": "春秋",
         "reading": "シュンジュウ",
-        "meaning": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu"
+        "meaning": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu |(vi) xuân thu, năm tháng, tuổi tác, Kinh Xuân Thu (sách sử biên niên nước Lỗ)"
       },
       {
         "example": "春季",
         "reading": "シュンキ",
-        "meaning": "spring season"
+        "meaning": "spring season |(vi) mùa xuân, kỳ xuân"
       },
       {
         "example": "昨春",
         "reading": "サクシュン",
-        "meaning": "last spring, the spring of last year"
+        "meaning": "last spring, the spring of last year |(vi) mùa xuân năm ngoái"
       },
       {
         "example": "売春",
         "reading": "バイシュン",
-        "meaning": "prostitution"
+        "meaning": "prostitution |(vi) mại dâm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "春",
         "reading": "はる",
-        "meaning": "spring, springtime, New Year, prime (of life), height (of one's prosperity), heyday, adolescence, puberty, sexuality, sexual desire"
+        "meaning": "spring, springtime, New Year, prime (of life), height (of one's prosperity), heyday, adolescence, puberty, sexuality, sexual desire |(vi) mùa xuân, năm mới, thời tươi đẹp nhất (của đời người), thời kỳ hưng thịnh, tuổi dậy thì, tính dục, ham muốn tình dục"
       },
       {
         "example": "春秋",
         "reading": "しゅんじゅう",
-        "meaning": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu"
+        "meaning": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu |(vi) xuân thu, năm tháng, tuổi tác, Kinh Xuân Thu (sách sử biên niên nước Lỗ)"
       },
       {
         "example": "小春",
         "reading": "こはる",
-        "meaning": "10th month of the lunisolar calendar (traditional first month of winter, approx. November), late autumn, late fall"
+        "meaning": "10th month of the lunisolar calendar (traditional first month of winter, approx. November), late autumn, late fall |(vi) tháng 10 âm lịch (tháng đầu đông theo lịch cũ, khoảng tháng 11), cuối thu"
       },
       {
         "example": "毎春",
         "reading": "まいしゅん",
-        "meaning": "every spring"
+        "meaning": "every spring |(vi) mỗi mùa xuân, hàng năm vào xuân"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "一",

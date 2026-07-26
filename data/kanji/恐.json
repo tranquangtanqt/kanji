@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "osoreru, osoru, osoroshii, oso",
-    "meaning": "fear",
+    "meaning": "fear |(vi) sợ hãi",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "恐怖（きょうふ）",
         "meaning": {
-          "english": "terror"
+          "english": "terror |(vi) sự khiếp sợ, kinh hoàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oso(roshii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "恐慌（きょうこう）",
         "meaning": {
-          "english": "financial panic"
+          "english": "financial panic |(vi) khủng hoảng tài chính, hoảng loạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oso(roshii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "恐竜（きょうりゅう）",
         "meaning": {
-          "english": "dinosaur"
+          "english": "dinosaur |(vi) khủng long"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oso(roshii)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "恐妻家（きょうさいか）",
         "meaning": {
-          "english": "hen-pecked husband"
+          "english": "hen-pecked husband |(vi) người chồng sợ vợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oso(roshii)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "恐縮する（きょうしゅくする）",
         "meaning": {
-          "english": "feel obliged, indebted"
+          "english": "feel obliged, indebted |(vi) cảm thấy áy náy, biết ơn, ngại ngùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oso(roshii)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "恐らく（おそらく）",
         "meaning": {
-          "english": "perhaps"
+          "english": "perhaps |(vi) có lẽ, có thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oso(roshii)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "恐れる（おそれる）",
         "meaning": {
-          "english": "fear [v.t.]"
+          "english": "fear [v.t.] |(vi) sợ, e sợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oso(roshii)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "恐る恐る（おそるおそる）",
         "meaning": {
-          "english": "timidly"
+          "english": "timidly |(vi) rụt rè, e dè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oso(roshii)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "恐ろしい（おそろしい）",
         "meaning": {
-          "english": "terrible, dreadful"
+          "english": "terrible, dreadful |(vi) khủng khiếp, đáng sợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oso(roshii)_06_i.opus",
@@ -223,7 +223,7 @@
     "kanji": {
       "character": "恐",
       "meaning": {
-        "english": "fear"
+        "english": "fear |(vi) sợ hãi"
       },
       "strokes": {
         "count": 10,
@@ -281,7 +281,7 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (trái tim, tâm trí, tinh thần)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -302,7 +302,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "878",
     "strokeCount": 10,
-    "meaning": "fear, dread, awe",
+    "meaning": "fear, dread, awe |(vi) sợ hãi, khiếp sợ, kính sợ |(hv) Khủng",
     "kunyomi": [
       "おそ.れる",
       "おそ.る",
@@ -317,64 +317,64 @@
       {
         "example": "恐慌",
         "reading": "キョウコウ",
-        "meaning": "panic, scare, alarm, panic, financial panic"
+        "meaning": "panic, scare, alarm, panic, financial panic |(vi) hoảng loạn, sợ hãi, báo động, khủng hoảng tài chính"
       },
       {
         "example": "恐喝",
         "reading": "キョウカツ",
-        "meaning": "blackmail, extortion, threat (to extort money)"
+        "meaning": "blackmail, extortion, threat (to extort money) |(vi) tống tiền, hăm dọa, đe dọa (để tống tiền)"
       },
       {
         "example": "戦々恐々",
         "reading": "センセンキョウキョウ",
-        "meaning": "trembling with fear, in great fear, filled with trepidation, nervously, timidly"
+        "meaning": "trembling with fear, in great fear, filled with trepidation, nervously, timidly |(vi) run rẩy vì sợ hãi, vô cùng sợ hãi, đầy lo lắng, hồi hộp, rụt rè"
       },
       {
         "example": "最恐",
         "reading": "サイキョウ",
-        "meaning": "scariest, most frightening"
+        "meaning": "scariest, most frightening |(vi) đáng sợ nhất, kinh khủng nhất"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "恐れる",
         "reading": "おそれる",
-        "meaning": "to fear, to be afraid of"
+        "meaning": "to fear, to be afraid of |(vi) sợ, e sợ, lo sợ"
       },
       {
         "example": "恐る",
         "reading": "おそる",
-        "meaning": "to fear, to be afraid"
+        "meaning": "to fear, to be afraid |(vi) sợ, e sợ"
       },
       {
         "example": "恐る恐る",
         "reading": "おそるおそる",
-        "meaning": "fearfully, timidly, nervously, cautiously, gingerly"
+        "meaning": "fearfully, timidly, nervously, cautiously, gingerly |(vi) rụt rè, e dè, hồi hộp, thận trọng, nhẹ nhàng"
       },
       {
         "example": "恐ろしい",
         "reading": "おそろしい",
-        "meaning": "terrible, dreadful, terrifying, frightening, surprising, startling, tremendous, amazing"
+        "meaning": "terrible, dreadful, terrifying, frightening, surprising, startling, tremendous, amazing |(vi) khủng khiếp, đáng sợ, kinh hoàng, đáng kinh ngạc, giật mình, to lớn, phi thường"
       },
       {
         "example": "恐ろしい思いをする",
         "reading": "おそろしいおもいをする",
-        "meaning": "to find oneself fearful, to have an awful time"
+        "meaning": "to find oneself fearful, to have an awful time |(vi) trải qua cảm giác sợ hãi, có một trải nghiệm khủng khiếp"
       },
       {
         "example": "怖い",
         "reading": "こわい",
-        "meaning": "scary, frightening, eerie, dreadful"
+        "meaning": "scary, frightening, eerie, dreadful |(vi) đáng sợ, ghê rợn, rùng rợn, khủng khiếp"
       },
       {
         "example": "怖いもの見たさ",
         "reading": "こわいものみたさ",
-        "meaning": "curiosity of fear, urge to look at something frightening, wanting to take a peek at something unpleasant"
+        "meaning": "curiosity of fear, urge to look at something frightening, wanting to take a peek at something unpleasant |(vi) tò mò trước nỗi sợ, muốn nhìn thứ đáng sợ, muốn liếc nhìn điều khó chịu"
       },
       {
         "example": "怖がる",
         "reading": "こわがる",
-        "meaning": "to be afraid (of), to fear, to be frightened (of), to be scared (of), to worry (about)"
+        "meaning": "to be afraid (of), to fear, to be frightened (of), to be scared (of), to worry (about) |(vi) sợ (điều gì), e sợ, hoảng sợ, lo lắng (về điều gì)"
       }
     ],
     "radical": {
@@ -383,7 +383,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim, tấm lòng)"
     },
     "parts": [
       "丶",

@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "watch, care for",
+    "meaning": "watch, care for |(vi) trông coi, chăm sóc",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "看板（かんばん）",
         "meaning": {
-          "english": "sign, signboard, billboard"
+          "english": "sign, signboard, billboard |(vi) biển hiệu, bảng quảng cáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(gofu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "看守（かんしゅ）",
         "meaning": {
-          "english": "prison guard, jailer"
+          "english": "prison guard, jailer |(vi) cai ngục, quản giáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(gofu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "看護婦（かんごふ）",
         "meaning": {
-          "english": "nurse"
+          "english": "nurse |(vi) y tá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(gofu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "看破する（かんぱする）",
         "meaning": {
-          "english": "penetrate, see through"
+          "english": "penetrate, see through |(vi) nhìn thấu, vạch trần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(gofu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "看病する（かんびょうする）",
         "meaning": {
-          "english": "nurse, attend (a sick person)"
+          "english": "nurse, attend (a sick person) |(vi) chăm sóc người bệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(gofu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "看護する（かんごする）",
         "meaning": {
-          "english": "nurse, attend (a sick person)"
+          "english": "nurse, attend (a sick person) |(vi) chăm sóc, điều dưỡng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(gofu)_06_f.opus",
@@ -166,7 +166,7 @@
     "kanji": {
       "character": "看",
       "meaning": {
-        "english": "watch, care for"
+        "english": "watch, care for |(vi) trông coi, chăm sóc"
       },
       "strokes": {
         "count": 9,
@@ -222,7 +222,7 @@
         "romaji": "me"
       },
       "meaning": {
-        "english": "eye"
+        "english": "eye |(vi) Mục (mắt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/me0.svg",
@@ -243,7 +243,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1060",
     "strokeCount": 9,
-    "meaning": "watch over, see",
+    "meaning": "watch over, see |(vi) trông coi, nhìn |(hv) Khán",
     "kunyomi": [
       "み.る"
     ],
@@ -254,34 +254,34 @@
       {
         "example": "看護",
         "reading": "カンゴ",
-        "meaning": "nursing, (army) nurse"
+        "meaning": "nursing, (army) nurse |(vi) điều dưỡng, y tá (quân đội)"
       },
       {
         "example": "看過",
         "reading": "カンカ",
-        "meaning": "overlooking, turning a blind eye"
+        "meaning": "overlooking, turning a blind eye |(vi) bỏ qua, làm ngơ"
       },
       {
         "example": "正看",
         "reading": "セイカン",
-        "meaning": "registered nurse, RN"
+        "meaning": "registered nurse, RN |(vi) y tá chính quy, điều dưỡng viên có chứng chỉ"
       },
       {
         "example": "立て看",
         "reading": "タテカン",
-        "meaning": "standing signboard, billboard, hoarding"
+        "meaning": "standing signboard, billboard, hoarding |(vi) biển hiệu đứng, bảng quảng cáo dựng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "看る",
         "reading": "みる",
-        "meaning": "to look after (often medically), to take care of"
+        "meaning": "to look after (often medically), to take care of |(vi) chăm sóc (thường về y tế), trông nom"
       }
     ],
     "radical": {
       "symbol": "目",
-      "meaning": "eye"
+      "meaning": "eye |(vi) Mục (mắt)"
     },
     "parts": [
       "ノ",

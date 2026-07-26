@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 50,
     "kunyomi": "ito, itoshii, itooshimu",
-    "meaning": "love",
+    "meaning": "love |(vi) tình yêu, yêu",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "愛する（あいする）",
         "meaning": {
-          "english": "love [v.t.]"
+          "english": "love [v.t.] |(vi) yêu, yêu thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito(shii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "愛用する（あいようする）",
         "meaning": {
-          "english": "use habitually"
+          "english": "use habitually |(vi) thường xuyên sử dụng, ưa dùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito(shii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "愛（あい）",
         "meaning": {
-          "english": "love [n.]"
+          "english": "love [n.] |(vi) tình yêu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito(shii)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "愛情（あいじょう）",
         "meaning": {
-          "english": "love [n.]"
+          "english": "love [n.] |(vi) tình yêu, tình cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito(shii)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "愛妻（あいさい）",
         "meaning": {
-          "english": "beloved wife"
+          "english": "beloved wife |(vi) vợ yêu quý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito(shii)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "愛人（あいじん）",
         "meaning": {
-          "english": "lover, mistress"
+          "english": "lover, mistress |(vi) người tình, nhân tình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito(shii)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "愛国心（あいこくしん）",
         "meaning": {
-          "english": "patriotism"
+          "english": "patriotism |(vi) lòng yêu nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito(shii)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "恋愛（れんあい）",
         "meaning": {
-          "english": "love affair"
+          "english": "love affair |(vi) chuyện tình yêu, yêu đương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito(shii)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "母性愛（ぼせいあい）",
         "meaning": {
-          "english": "maternal love"
+          "english": "maternal love |(vi) tình mẫu tử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito(shii)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "愛しい（いとしい）",
         "meaning": {
-          "english": "lovely"
+          "english": "lovely |(vi) đáng yêu, yêu dấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito(shii)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "愛おしむ（いとおしむ）",
         "meaning": {
-          "english": "love [v.t.]"
+          "english": "love [v.t.] |(vi) yêu thương, trân quý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito(shii)_06_k.opus",
@@ -284,7 +284,7 @@
     "kanji": {
       "character": "愛",
       "meaning": {
-        "english": "love"
+        "english": "love |(vi) tình yêu, yêu"
       },
       "strokes": {
         "count": 13,
@@ -348,7 +348,7 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (trái tim, tâm trí, tinh thần)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -369,7 +369,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "640",
     "strokeCount": 13,
-    "meaning": "love, affection, favourite",
+    "meaning": "love, affection, favourite |(vi) tình yêu, tình cảm, ưa thích |(hv) Ái",
     "kunyomi": [
       "いと.しい",
       "かな.しい",
@@ -384,54 +384,54 @@
       {
         "example": "愛",
         "reading": "アイ",
-        "meaning": "love, affection, care, attachment, craving, desire, agape, Ireland"
+        "meaning": "love, affection, care, attachment, craving, desire, agape, Ireland |(vi) tình yêu, tình cảm, sự quan tâm, sự gắn bó, khao khát, ham muốn, tình yêu vô điều kiện, Ireland"
       },
       {
         "example": "愛犬",
         "reading": "アイケン",
-        "meaning": "pet dog, beloved dog, love of dogs, fondness for dogs"
+        "meaning": "pet dog, beloved dog, love of dogs, fondness for dogs |(vi) chó cưng, chó yêu quý, tình yêu với chó, sự yêu thích chó"
       },
       {
         "example": "友愛",
         "reading": "ユウアイ",
-        "meaning": "fraternity, friendship"
+        "meaning": "fraternity, friendship |(vi) tình anh em, tình bạn"
       },
       {
         "example": "同性愛",
         "reading": "ドウセイアイ",
-        "meaning": "homosexuality, homosexual love"
+        "meaning": "homosexuality, homosexual love |(vi) đồng tính luyến ái, tình yêu đồng giới"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "愛しい",
         "reading": "いとしい",
-        "meaning": "lovely, dear, beloved, darling, dearest, pitiable, pitiful"
+        "meaning": "lovely, dear, beloved, darling, dearest, pitiable, pitiful |(vi) đáng yêu, thân yêu, yêu dấu, cưng, đáng thương"
       },
       {
         "example": "悲しい",
         "reading": "かなしい",
-        "meaning": "sad, miserable, unhappy, sorrowful, sad, lamentable, deplorable, grievous"
+        "meaning": "sad, miserable, unhappy, sorrowful, sad, lamentable, deplorable, grievous |(vi) buồn, đau khổ, bất hạnh, sầu thảm"
       },
       {
         "example": "愛でる",
         "reading": "めでる",
-        "meaning": "to love, to cherish, to admire, to appreciate"
+        "meaning": "to love, to cherish, to admire, to appreciate |(vi) yêu mến, trân trọng, ngưỡng mộ, đánh giá cao"
       },
       {
         "example": "惜しむ",
         "reading": "おしむ",
-        "meaning": "to spare, to grudge, to be sparing (with), to be frugal, to be stingy, to regret, to lament, to be reluctant (to do), to be unwilling, to value, to prize, to hold dear, to love, to cherish"
+        "meaning": "to spare, to grudge, to be sparing (with), to be frugal, to be stingy, to regret, to lament, to be reluctant (to do), to be unwilling, to value, to prize, to hold dear, to love, to cherish |(vi) tiếc, hà tiện, keo kiệt, hối tiếc, than tiếc, không muốn (làm gì), quý trọng, trân quý, yêu mến"
       },
       {
         "example": "愛",
         "reading": "まな",
-        "meaning": "beloved, dear"
+        "meaning": "beloved, dear |(vi) yêu quý, thân yêu"
       },
       {
         "example": "愛弟子",
         "reading": "まなでし",
-        "meaning": "favorite pupil, favourite pupil, teacher's pet"
+        "meaning": "favorite pupil, favourite pupil, teacher's pet |(vi) học trò cưng, đệ tử yêu quý"
       }
     ],
     "radical": {
@@ -440,7 +440,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim)"
     },
     "parts": [
       "冖",

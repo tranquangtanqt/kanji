@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "kata",
-    "meaning": "type",
+    "meaning": "type |(vi) kiểu, loại",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "原型（げんけい）",
         "meaning": {
-          "english": "prototype"
+          "english": "prototype |(vi) nguyên mẫu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mo)kei_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "模型（もけい）",
         "meaning": {
-          "english": "model"
+          "english": "model |(vi) mô hình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mo)kei_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "典型（てんけい）",
         "meaning": {
-          "english": "archetype"
+          "english": "archetype |(vi) điển hình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mo)kei_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "定型（ていけい）",
         "meaning": {
-          "english": "fixed form"
+          "english": "fixed form |(vi) hình thức cố định, khuôn mẫu cố định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mo)kei_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "体型（たいけい）",
         "meaning": {
-          "english": "figure (body)"
+          "english": "figure (body) |(vi) vóc dáng (cơ thể)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mo)kei_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "型（かた）",
         "meaning": {
-          "english": "shape [n.]"
+          "english": "shape [n.] |(vi) hình dạng, kiểu [dt.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mo)kei_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "朝型（あさがた）",
         "meaning": {
-          "english": "morning person"
+          "english": "morning person |(vi) người dậy sớm, kiểu buổi sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mo)kei_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "夜型（よるがた）",
         "meaning": {
-          "english": "night person"
+          "english": "night person |(vi) người thức khuya, kiểu ban đêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mo)kei_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "大型（おおがた）",
         "meaning": {
-          "english": "large scale"
+          "english": "large scale |(vi) cỡ lớn, quy mô lớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mo)kei_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "小型（こがた）",
         "meaning": {
-          "english": "small size"
+          "english": "small size |(vi) cỡ nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mo)kei_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "歯型（はがた）",
         "meaning": {
-          "english": "tooth-mark"
+          "english": "tooth-mark |(vi) dấu răng, khuôn răng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mo)kei_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "血液型（けつえきがた）",
         "meaning": {
-          "english": "blood type"
+          "english": "blood type |(vi) nhóm máu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mo)kei_06_l.opus",
@@ -250,7 +250,7 @@
     "kanji": {
       "character": "型",
       "meaning": {
-        "english": "type"
+        "english": "type |(vi) kiểu, loại"
       },
       "strokes": {
         "count": 9,
@@ -306,7 +306,7 @@
         "romaji": "tsuchi"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
@@ -327,7 +327,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "482",
     "strokeCount": 9,
-    "meaning": "mould, type, model",
+    "meaning": "mould, type, model |(vi) khuôn, kiểu, mẫu |(hv) Hình",
     "kunyomi": [
       "かた",
       "-がた"
@@ -339,39 +339,39 @@
       {
         "example": "型式",
         "reading": "カタシキ",
-        "meaning": "model (e.g. of a vehicle), type"
+        "meaning": "model (e.g. of a vehicle), type |(vi) kiểu (ví dụ: kiểu xe), loại"
       },
       {
         "example": "造形",
         "reading": "ゾウケイ",
-        "meaning": "molding, moulding, shaping, forming, modelling (i.e. plastic arts), modeling"
+        "meaning": "molding, moulding, shaping, forming, modelling (i.e. plastic arts), modeling |(vi) tạo hình, đúc khuôn, nặn hình (nghệ thuật tạo hình)"
       },
       {
         "example": "体型",
         "reading": "タイケイ",
-        "meaning": "figure, body shape, build, physique, form, somatotype, biotype, habitus, (type of) physique"
+        "meaning": "figure, body shape, build, physique, form, somatotype, biotype, habitus, (type of) physique |(vi) vóc dáng, thể hình, hình thể"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "型",
         "reading": "かた",
-        "meaning": "type, style, model, pattern, mold, mould, model, pattern, template, impression, kata (set sequence of positions and movements in martial arts), style (in kabuki, noh, etc.), form, convention, tradition, (standard) form, formula, usage, (set) size, inches (in sizes of displays, disks, image sensors, etc.), (taxonomical) form"
+        "meaning": "type, style, model, pattern, mold, mould, model, pattern, template, impression, kata (set sequence of positions and movements in martial arts), style (in kabuki, noh, etc.), form, convention, tradition, (standard) form, formula, usage, (set) size, inches (in sizes of displays, disks, image sensors, etc.), (taxonomical) form |(vi) kiểu, phong cách, mẫu, khuôn mẫu, kata (thế bài quyền cố định trong võ thuật), hình thức, quy cách, cỡ, kích thước"
       },
       {
         "example": "型式",
         "reading": "かたしき",
-        "meaning": "model (e.g. of a vehicle), type"
+        "meaning": "model (e.g. of a vehicle), type |(vi) kiểu (ví dụ: kiểu xe), loại"
       },
       {
         "example": "空手の型",
         "reading": "からてのかた",
-        "meaning": "kata (in karate)"
+        "meaning": "kata (in karate) |(vi) kata (bài quyền karate)"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "ノ",

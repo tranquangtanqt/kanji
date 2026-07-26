@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "resist",
+    "meaning": "resist |(vi) chống lại, kháng cự",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "抗争（こうそう）",
         "meaning": {
-          "english": "resistance"
+          "english": "resistance |(vi) sự tranh chấp, đấu tranh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)kou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "不可抗力（ふかこうりょく）",
         "meaning": {
-          "english": "irresistible force"
+          "english": "irresistible force |(vi) bất khả kháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)kou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "抗議する（こうぎする）",
         "meaning": {
-          "english": "protest [v.i.]"
+          "english": "protest [v.i.] |(vi) phản đối, kháng nghị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)kou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "反抗する（はんこうする）",
         "meaning": {
-          "english": "resist, disobey [v.i.]"
+          "english": "resist, disobey [v.i.] |(vi) phản kháng, chống đối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)kou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "対抗する（たいこうする）",
         "meaning": {
-          "english": "oppose [v.i.]"
+          "english": "oppose [v.i.] |(vi) đối kháng, đối đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)kou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "抵抗する（ていこうする）",
         "meaning": {
-          "english": "resist, stand against [v.i.]"
+          "english": "resist, stand against [v.i.] |(vi) kháng cự, chống lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)kou_06_f.opus",
@@ -163,7 +163,7 @@
     "kanji": {
       "character": "抗",
       "meaning": {
-        "english": "resist"
+        "english": "resist |(vi) chống lại, kháng cự"
       },
       "strokes": {
         "count": 7,
@@ -215,7 +215,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -236,7 +236,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "666",
     "strokeCount": 7,
-    "meaning": "confront, resist, defy, oppose",
+    "meaning": "confront, resist, defy, oppose |(vi) chống lại, kháng cự, đối đầu, phản kháng |(hv) Kháng",
     "kunyomi": [
       "あらが.う"
     ],
@@ -247,29 +247,29 @@
       {
         "example": "抗",
         "reading": "コウ",
-        "meaning": "anti-"
+        "meaning": "anti- |(vi) phản-, kháng-"
       },
       {
         "example": "抗菌",
         "reading": "コウキン",
-        "meaning": "antibacterial, antimicrobial"
+        "meaning": "antibacterial, antimicrobial |(vi) kháng khuẩn"
       },
       {
         "example": "拮抗",
         "reading": "キッコウ",
-        "meaning": "rivalry (between two equally strong sides), struggle for supremacy, competing (with), vying (with), contending (with), being an equal match (for)"
+        "meaning": "rivalry (between two equally strong sides), struggle for supremacy, competing (with), vying (with), contending (with), being an equal match (for) |(vi) kình địch, ganh đua, đối đầu ngang sức, cạnh tranh"
       },
       {
         "example": "無抵抗",
         "reading": "ムテイコウ",
-        "meaning": "nonresistance"
+        "meaning": "nonresistance |(vi) không kháng cự, không phản kháng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "抗う",
         "reading": "あらがう",
-        "meaning": "to go against, to fight against, to oppose, to resist, to deny"
+        "meaning": "to go against, to fight against, to oppose, to resist, to deny |(vi) chống lại, phản kháng, đối đầu, cưỡng lại"
       }
     ],
     "radical": {
@@ -277,7 +277,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "亠",

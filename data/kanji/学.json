@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "mana, manabu",
-    "meaning": "study, educational, institution",
+    "meaning": "study, educational, institution |(vi) học tập, giáo dục, học viện",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "学生（がくせい）",
         "meaning": {
-          "english": "student"
+          "english": "student |(vi) học sinh, sinh viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "学者（がくしゃ）",
         "meaning": {
-          "english": "scholar"
+          "english": "scholar |(vi) học giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "大学（だいがく）",
         "meaning": {
-          "english": "university"
+          "english": "university |(vi) đại học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "大学院（だいがくいん）",
         "meaning": {
-          "english": "graduate school"
+          "english": "graduate school |(vi) cao học, sau đại học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "奨学金（しょうがくきん）",
         "meaning": {
-          "english": "scholarship"
+          "english": "scholarship |(vi) học bổng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "人類学（じんるいがく）",
         "meaning": {
-          "english": "anthropology"
+          "english": "anthropology |(vi) nhân loại học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "言語学（げんごがく）",
         "meaning": {
-          "english": "linguistics"
+          "english": "linguistics |(vi) ngôn ngữ học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "学校（がっこう）",
         "meaning": {
-          "english": "school"
+          "english": "school |(vi) trường học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "学期（がっき）",
         "meaning": {
-          "english": "term, semester"
+          "english": "term, semester |(vi) học kỳ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "学ぶ（まなぶ）",
         "meaning": {
-          "english": "study"
+          "english": "study |(vi) học tập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_j.opus",
@@ -297,7 +297,7 @@
     "kanji": {
       "character": "学",
       "meaning": {
-        "english": "study, educational, institution"
+        "english": "study, educational, institution |(vi) học tập, giáo dục, học viện"
       },
       "strokes": {
         "count": 8,
@@ -351,7 +351,7 @@
         "romaji": "ko"
       },
       "meaning": {
-        "english": "child, son"
+        "english": "child, son |(vi) Tử (con, con trai)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ko0.svg",
@@ -372,7 +372,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "63",
     "strokeCount": 8,
-    "meaning": "study, learning, science",
+    "meaning": "study, learning, science |(vi) học tập, sự học, khoa học |(hv) Học",
     "kunyomi": [
       "まな.ぶ"
     ],
@@ -383,34 +383,34 @@
       {
         "example": "学",
         "reading": "ガク",
-        "meaning": "learning, scholarship, study, erudition, knowledge, education, study of ..., -ology, -ics"
+        "meaning": "learning, scholarship, study, erudition, knowledge, education, study of ..., -ology, -ics |(vi) học vấn, học thuật, nghiên cứu, uyên bác, kiến thức, giáo dục, -học (hậu tố)"
       },
       {
         "example": "学位",
         "reading": "ガクイ",
-        "meaning": "(academic) degree"
+        "meaning": "(academic) degree |(vi) học vị"
       },
       {
         "example": "短期大学",
         "reading": "タンキダイガク",
-        "meaning": "junior college, community college, vocationally oriented two or three year post-secondary education institution"
+        "meaning": "junior college, community college, vocationally oriented two or three year post-secondary education institution |(vi) cao đẳng, trường đào tạo nghề sau trung học (2-3 năm)"
       },
       {
         "example": "法医学",
         "reading": "ホウイガク",
-        "meaning": "forensic medicine, forensic pathology, medical jurisprudence, legal medicine"
+        "meaning": "forensic medicine, forensic pathology, medical jurisprudence, legal medicine |(vi) pháp y học"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "学ぶ",
         "reading": "まなぶ",
-        "meaning": "to learn, to study, to take lessons in"
+        "meaning": "to learn, to study, to take lessons in |(vi) học, học tập, học hỏi"
       }
     ],
     "radical": {
       "symbol": "子",
-      "meaning": "child, seed"
+      "meaning": "child, seed |(vi) Tử (con)"
     },
     "parts": [
       "冖",

@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "tight, exigent, tense, hard",
+    "meaning": "tight, exigent, tense, hard |(vi) chặt, khẩn cấp, căng thẳng, cứng",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "緊急な（きんきゅうな）",
         "meaning": {
-          "english": "urgent, pressing"
+          "english": "urgent, pressing |(vi) khẩn cấp, cấp bách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin(kyuuna)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "緊密な（きんみつな）",
         "meaning": {
-          "english": "close"
+          "english": "close |(vi) chặt chẽ, mật thiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin(kyuuna)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "緊迫する（きんぱくする）",
         "meaning": {
-          "english": "become tense, grow strained"
+          "english": "become tense, grow strained |(vi) trở nên căng thẳng, trở nên gay cấn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin(kyuuna)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "緊張する（きんちょうする）",
         "meaning": {
-          "english": "get tense, be strained"
+          "english": "get tense, be strained |(vi) trở nên căng thẳng, hồi hộp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin(kyuuna)_06_d.opus",
@@ -148,7 +148,7 @@
     "kanji": {
       "character": "緊",
       "meaning": {
-        "english": "tight, exigent, tense, hard"
+        "english": "tight, exigent, tense, hard |(vi) chặt, khẩn cấp, căng thẳng, cứng"
       },
       "strokes": {
         "count": 15,
@@ -216,7 +216,7 @@
         "romaji": "ito"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi chỉ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ito0.svg",
@@ -237,7 +237,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "677",
     "strokeCount": 15,
-    "meaning": "tense, solid, hard, reliable, tight",
+    "meaning": "tense, solid, hard, reliable, tight |(vi) căng thẳng, chắc chắn, cứng, đáng tin cậy, chặt |(hv) Khẩn",
     "kunyomi": [
       "し.める",
       "し.まる"
@@ -249,29 +249,29 @@
       {
         "example": "緊縮",
         "reading": "キンシュク",
-        "meaning": "tightening, shrinkage, contraction, constriction, (economic) curtailment, retrenchment, austerity, cutting down (on spending)"
+        "meaning": "tightening, shrinkage, contraction, constriction, (economic) curtailment, retrenchment, austerity, cutting down (on spending) |(vi) thắt chặt, co lại, co rút, thắt chặt kinh tế, cắt giảm chi tiêu, khắc khổ"
       },
       {
         "example": "緊急",
         "reading": "キンキュウ",
-        "meaning": "urgency, emergency"
+        "meaning": "urgency, emergency |(vi) khẩn cấp, cấp bách"
       },
       {
         "example": "喫緊",
         "reading": "キッキン",
-        "meaning": "urgent, pressing, exigent"
+        "meaning": "urgent, pressing, exigent |(vi) khẩn cấp, cấp bách, cấp thiết"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "緊める",
         "reading": "しめる",
-        "meaning": "to be strict with"
+        "meaning": "to be strict with |(vi) nghiêm khắc với"
       },
       {
         "example": "閉まる",
         "reading": "しまる",
-        "meaning": "to be shut, to close, to be closed, to be firm (of a body, face, etc.), to be well-knit, to be locked, to tighten, to be tightened, to become sober, to become tense"
+        "meaning": "to be shut, to close, to be closed, to be firm (of a body, face, etc.), to be well-knit, to be locked, to tighten, to be tightened, to become sober, to become tense |(vi) đóng lại, khép lại, chắc chắn (thân hình, khuôn mặt), gọn gàng, bị khóa, thắt chặt, trở nên tỉnh táo, trở nên căng thẳng"
       }
     ],
     "radical": {
@@ -279,7 +279,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi chỉ)"
     },
     "parts": [
       "又",

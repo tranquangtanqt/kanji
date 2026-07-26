@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "kagami",
-    "meaning": "mirror, optical instrument",
+    "meaning": "mirror, optical instrument |(vi) gương, thiết bị quang học",
     "kstroke": 19,
     "examples": [
       {
         "japanese": "鏡台（きょうだい）",
         "meaning": {
-          "english": "dressing table"
+          "english": "dressing table |(vi) bàn trang điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-kagami_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "望遠鏡（ぼうえんきょう）",
         "meaning": {
-          "english": "telescope"
+          "english": "telescope |(vi) kính viễn vọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-kagami_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "顕微鏡（けんびきょう）",
         "meaning": {
-          "english": "microscope"
+          "english": "microscope |(vi) kính hiển vi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-kagami_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "双眼鏡（そうがんきょう）",
         "meaning": {
-          "english": "binoculars, field glasses"
+          "english": "binoculars, field glasses |(vi) ống nhòm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-kagami_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "老眼鏡（ろうがんきょう）",
         "meaning": {
-          "english": "reading glasses"
+          "english": "reading glasses |(vi) kính lão"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-kagami_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "鏡（かがみ）",
         "meaning": {
-          "english": "mirror"
+          "english": "mirror |(vi) gương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-kagami_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "手鏡（てかがみ）",
         "meaning": {
-          "english": "hand-mirror"
+          "english": "hand-mirror |(vi) gương cầm tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-kagami_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "*眼鏡（めがね）",
         "meaning": {
-          "english": "eyeglasses"
+          "english": "eyeglasses |(vi) kính mắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-kagami_06_h.opus",
@@ -196,7 +196,7 @@
     "kanji": {
       "character": "鏡",
       "meaning": {
-        "english": "mirror, optical instrument"
+        "english": "mirror, optical instrument |(vi) gương, thiết bị quang học"
       },
       "strokes": {
         "count": 19,
@@ -272,7 +272,7 @@
         "romaji": "kanehen"
       },
       "meaning": {
-        "english": "metal, gold, mineral"
+        "english": "metal, gold, mineral |(vi) Kim (kim loại, vàng, khoáng chất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kanehen0.svg",
@@ -293,7 +293,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1506",
     "strokeCount": 19,
-    "meaning": "mirror, speculum, barrel-head, round rice-cake offering",
+    "meaning": "mirror, speculum, barrel-head, round rice-cake offering |(vi) gương, kính soi, đầu thùng, bánh giày tròn dâng cúng |(hv) Kính",
     "kunyomi": [
       "かがみ"
     ],
@@ -305,54 +305,54 @@
       {
         "example": "鏡面",
         "reading": "キョウメン",
-        "meaning": "mirror surface, lens surface"
+        "meaning": "mirror surface, lens surface |(vi) bề mặt gương, bề mặt thấu kính"
       },
       {
         "example": "鏡台",
         "reading": "キョウダイ",
-        "meaning": "dresser"
+        "meaning": "dresser |(vi) bàn trang điểm"
       },
       {
         "example": "内視鏡",
         "reading": "ナイシキョウ",
-        "meaning": "endoscope"
+        "meaning": "endoscope |(vi) ống nội soi"
       },
       {
         "example": "万華鏡",
         "reading": "マンゲキョウ",
-        "meaning": "kaleidoscope"
+        "meaning": "kaleidoscope |(vi) kính vạn hoa"
       },
       {
         "example": "明鏡",
         "reading": "メイキョウ",
-        "meaning": "polished mirror, clear mirror"
+        "meaning": "polished mirror, clear mirror |(vi) gương sáng, gương trong"
       },
       {
         "example": "鸞鏡",
         "reading": "ランキョウ",
-        "meaning": "mirror with a mythical Chinese bird carved into the back, (in Japan) 9th note of the ancient chromatic scale (approx. A sharp)"
+        "meaning": "mirror with a mythical Chinese bird carved into the back, (in Japan) 9th note of the ancient chromatic scale (approx. A sharp) |(vi) gương khắc hình chim loan huyền thoại ở mặt sau, (ở Nhật) nốt thứ 9 trong thang âm cổ (khoảng La thăng)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鏡",
         "reading": "かがみ",
-        "meaning": "mirror, looking-glass, barrel head, page added at the beginning of a document mentioning its purpose, date, author, etc., mirror-shaped mochi"
+        "meaning": "mirror, looking-glass, barrel head, page added at the beginning of a document mentioning its purpose, date, author, etc., mirror-shaped mochi |(vi) gương, kính soi, đầu thùng, trang mở đầu văn bản ghi mục đích, ngày tháng, tác giả..., bánh mochi hình gương"
       },
       {
         "example": "鑑",
         "reading": "かがみ",
-        "meaning": "model, pattern, paragon, exemplar"
+        "meaning": "model, pattern, paragon, exemplar |(vi) khuôn mẫu, hình mẫu, tấm gương điển hình"
       },
       {
         "example": "懐中鏡",
         "reading": "かいちゅうかがみ",
-        "meaning": "pocket mirror"
+        "meaning": "pocket mirror |(vi) gương bỏ túi"
       },
       {
         "example": "化粧鏡",
         "reading": "けしょうかがみ",
-        "meaning": "bathroom mirror, vanity mirror"
+        "meaning": "bathroom mirror, vanity mirror |(vi) gương trang điểm"
       }
     ],
     "radical": {
@@ -360,7 +360,7 @@
       "forms": [
         "釒"
       ],
-      "meaning": "metal, gold"
+      "meaning": "metal, gold |(vi) Kim (kim loại, vàng)"
     },
     "parts": [
       "儿",

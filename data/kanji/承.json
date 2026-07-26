@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 50,
     "kunyomi": "uketamawa, uketamawaru",
-    "meaning": "agree to, hear, be told",
+    "meaning": "agree to, hear, be told |(vi) đồng ý, nghe, được cho biết",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "承諾する（しょうだくする）",
         "meaning": {
-          "english": "consent, accept, be informed"
+          "english": "consent, accept, be informed |(vi) chấp thuận, đồng ý, ưng thuận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uketamawa(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "承知する（しょうちする）",
         "meaning": {
-          "english": "agree, consent"
+          "english": "agree, consent |(vi) đồng ý, biết rõ, ưng thuận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uketamawa(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "承認する（しょうにんする）",
         "meaning": {
-          "english": "approve"
+          "english": "approve |(vi) phê chuẩn, chấp nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uketamawa(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "継承する（けいしょうする）",
         "meaning": {
-          "english": "inherit"
+          "english": "inherit |(vi) kế thừa, thừa kế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uketamawa(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "伝承（でんしょう）",
         "meaning": {
-          "english": "oral tradition (e.g. folklore)"
+          "english": "oral tradition (e.g. folklore) |(vi) truyền khẩu, truyền thuyết dân gian"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uketamawa(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "承る（うけたまわる）",
         "meaning": {
-          "english": "hear, take (an order) [hum.]"
+          "english": "hear, take (an order) [hum.] |(vi) vâng nghe, xin nhận (khiêm nhường)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uketamawa(ru)_06_f.opus",
@@ -178,7 +178,7 @@
     "kanji": {
       "character": "承",
       "meaning": {
-        "english": "agree to, hear, be told"
+        "english": "agree to, hear, be told |(vi) đồng ý, nghe, được cho biết"
       },
       "strokes": {
         "count": 8,
@@ -232,7 +232,7 @@
         "romaji": "te"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/te0.svg",
@@ -253,7 +253,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "775",
     "strokeCount": 8,
-    "meaning": "acquiesce, hear, listen to, be informed, receive",
+    "meaning": "acquiesce, hear, listen to, be informed, receive |(vi) ưng thuận, nghe, lắng nghe, được cho biết, tiếp nhận |(hv) Thừa",
     "kunyomi": [
       "うけたまわ.る",
       "う.ける"
@@ -266,44 +266,44 @@
       {
         "example": "承",
         "reading": "ショウ",
-        "meaning": "second line of a four-line Chinese poem"
+        "meaning": "second line of a four-line Chinese poem |(vi) câu thứ hai trong bài thơ Đường luật bốn câu"
       },
       {
         "example": "承諾",
         "reading": "ショウダク",
-        "meaning": "consent, approval, acceptance, agreement, compliance"
+        "meaning": "consent, approval, acceptance, agreement, compliance |(vi) chấp thuận, phê chuẩn, ưng thuận, đồng ý, tuân thủ"
       },
       {
         "example": "伝承",
         "reading": "デンショウ",
-        "meaning": "handing down (information), legend, tradition, folklore, transmission"
+        "meaning": "handing down (information), legend, tradition, folklore, transmission |(vi) truyền lại, truyền thuyết, truyền thống, truyền khẩu, sự lưu truyền"
       },
       {
         "example": "永承",
         "reading": "エイショウ",
-        "meaning": "Eishō era (1046.4.14-1053.1.11)"
+        "meaning": "Eishō era (1046.4.14-1053.1.11) |(vi) niên hiệu Eishō (1046.4.14-1053.1.11)"
       },
       {
         "example": "承安",
         "reading": "ショウアン",
-        "meaning": "Shōan era (1171.4.21-1175.7.28), Jōan era"
+        "meaning": "Shōan era (1171.4.21-1175.7.28), Jōan era |(vi) niên hiệu Shōan (1171.4.21-1175.7.28), niên hiệu Jōan"
       },
       {
         "example": "承応",
         "reading": "ショウオウ",
-        "meaning": "Shōō era (1652.9.18-1655.4.13), Jōō era"
+        "meaning": "Shōō era (1652.9.18-1655.4.13), Jōō era |(vi) niên hiệu Shōō (1652.9.18-1655.4.13), niên hiệu Jōō"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "承る",
         "reading": "うけたまわる",
-        "meaning": "to hear, to be told, to know, to receive (order), to undertake, to comply, to take (a reservation, etc.)"
+        "meaning": "to hear, to be told, to know, to receive (order), to undertake, to comply, to take (a reservation, etc.) |(vi) nghe được, được cho biết, biết, nhận lệnh, đảm nhận, tuân theo, nhận (đặt chỗ, v.v.)"
       },
       {
         "example": "受ける",
         "reading": "うける",
-        "meaning": "to receive, to get, to catch (e.g. a ball), to be struck by (wind, waves, sunlight, etc.), to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence), to undergo (e.g. surgery), to take (a test), to accept (a challenge), to be given (e.g. life, talent), to find funny, to find humorous, to be amused (by), to follow, to succeed, to be descended from, to face (south, etc.), to be modified by, to obtain (a pawned item, etc.) by paying a fee, to be well-received, to become popular, to go down well"
+        "meaning": "to receive, to get, to catch (e.g. a ball), to be struck by (wind, waves, sunlight, etc.), to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence), to undergo (e.g. surgery), to take (a test), to accept (a challenge), to be given (e.g. life, talent), to find funny, to find humorous, to be amused (by), to follow, to succeed, to be descended from, to face (south, etc.), to be modified by, to obtain (a pawned item, etc.) by paying a fee, to be well-received, to become popular, to go down well |(vi) nhận, được, đón (bóng, v.v.), bị (gió, sóng, ánh nắng, v.v. tác động), chịu (thiệt hại), gánh (tổn thất), bị (thương), cảm nhận (ảnh hưởng), trải qua (ví dụ phẫu thuật), làm (bài kiểm tra), chấp nhận (thử thách), được ban cho (ví dụ sự sống, tài năng), thấy buồn cười, thấy hài hước, được yêu thích, kế thừa, nối tiếp, có nguồn gốc từ, quay mặt về (hướng nam, v.v.), được biến đổi bởi, chuộc lại (đồ cầm cố) bằng cách trả phí, được đón nhận tốt, trở nên phổ biến, được ưa chuộng"
       }
     ],
     "radical": {
@@ -311,7 +311,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "ノ",

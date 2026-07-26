@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "oto, ne",
-    "meaning": "sound",
+    "meaning": "sound |(vi) âm thanh",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "発音する（はつおんする）",
         "meaning": {
-          "english": "pronounce"
+          "english": "pronounce |(vi) phát âm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oto_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "録音する（ろくおんする）",
         "meaning": {
-          "english": "record"
+          "english": "record |(vi) ghi âm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oto_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "音楽（おんがく）",
         "meaning": {
-          "english": "music"
+          "english": "music |(vi) âm nhạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oto_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "音読み（おんよみ）",
         "meaning": {
-          "english": "on (Chinese) reading of kanji"
+          "english": "on (Chinese) reading of kanji |(vi) âm đọc Hán-Nhật (on-yomi)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oto_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "観音様（かんのんさま）",
         "meaning": {
-          "english": "Kannon, Goddess of Mercy"
+          "english": "Kannon, Goddess of Mercy |(vi) Quan Âm (nữ thần từ bi)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oto_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "母音（ぼいん）",
         "meaning": {
-          "english": "vowel"
+          "english": "vowel |(vi) nguyên âm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oto_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "子音（しいん）",
         "meaning": {
-          "english": "consonant"
+          "english": "consonant |(vi) phụ âm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oto_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "音（おと）",
         "meaning": {
-          "english": "sound"
+          "english": "sound |(vi) âm thanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oto_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "足音（あしおと）",
         "meaning": {
-          "english": "footsteps (sound)"
+          "english": "footsteps (sound) |(vi) tiếng bước chân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oto_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "音色（ねいろ）",
         "meaning": {
-          "english": "tone"
+          "english": "tone |(vi) âm sắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oto_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "本音（ほんね）",
         "meaning": {
-          "english": "real intention"
+          "english": "real intention |(vi) ý định thật, lòng thật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oto_06_k.opus",
@@ -288,7 +288,7 @@
     "kanji": {
       "character": "音",
       "meaning": {
-        "english": "sound"
+        "english": "sound |(vi) âm thanh"
       },
       "strokes": {
         "count": 9,
@@ -344,7 +344,7 @@
         "romaji": "oto"
       },
       "meaning": {
-        "english": "sound, noise"
+        "english": "sound, noise |(vi) Âm (âm thanh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/oto0.svg",
@@ -365,7 +365,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "491",
     "strokeCount": 9,
-    "meaning": "sound, noise",
+    "meaning": "sound, noise |(vi) âm thanh, tiếng động |(hv) Âm",
     "kunyomi": [
       "おと",
       "ね"
@@ -379,89 +379,89 @@
       {
         "example": "音",
         "reading": "オン",
-        "meaning": "sound, noise, (speech) sound, Chinese-derived reading of a kanji"
+        "meaning": "sound, noise, (speech) sound, Chinese-derived reading of a kanji |(vi) âm thanh, tiếng động, âm (lời nói), âm đọc Hán-Nhật của kanji"
       },
       {
         "example": "音楽",
         "reading": "オンガク",
-        "meaning": "music"
+        "meaning": "music |(vi) âm nhạc"
       },
       {
         "example": "爆音",
         "reading": "バクオン",
-        "meaning": "(sound of an) explosion or detonation, roar (of a machine)"
+        "meaning": "(sound of an) explosion or detonation, roar (of a machine) |(vi) tiếng nổ, tiếng gầm (của máy móc)"
       },
       {
         "example": "防音",
         "reading": "ボウオン",
-        "meaning": "soundproofing"
+        "meaning": "soundproofing |(vi) cách âm"
       },
       {
         "example": "音信",
         "reading": "オンシン",
-        "meaning": "correspondence, news, letter, tidings"
+        "meaning": "correspondence, news, letter, tidings |(vi) thư từ, tin tức"
       },
       {
         "example": "鸚哥",
         "reading": "インコ",
-        "meaning": "true parrot (esp. small parrots such as the parakeet, lory and conure)"
+        "meaning": "true parrot (esp. small parrots such as the parakeet, lory and conure) |(vi) vẹt nhỏ (đặc biệt vẹt đuôi dài, vẹt lory...)"
       },
       {
         "example": "玉音",
         "reading": "ギョクオン",
-        "meaning": "the Emperor's voice, beautiful voice, beautiful sound"
+        "meaning": "the Emperor's voice, beautiful voice, beautiful sound |(vi) tiếng nói của Thiên hoàng, giọng nói đẹp, âm thanh đẹp"
       },
       {
         "example": "唐音",
         "reading": "トウオン",
-        "meaning": "tō-on, Tang reading, on reading of a kanji based on Song dynasty and later Chinese"
+        "meaning": "tō-on, Tang reading, on reading of a kanji based on Song dynasty and later Chinese |(vi) Đường âm (âm đọc kanji theo tiếng Hán đời Tống trở về sau)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "音",
         "reading": "おと",
-        "meaning": "sound, noise, (musical) note, fame"
+        "meaning": "sound, noise, (musical) note, fame |(vi) âm thanh, tiếng động, nốt nhạc, danh tiếng"
       },
       {
         "example": "音孔",
         "reading": "おとあな",
-        "meaning": "tone hole"
+        "meaning": "tone hole |(vi) lỗ thoát âm (nhạc cụ)"
       },
       {
         "example": "鈍い音",
         "reading": "にぶいおと",
-        "meaning": "dull sound, muffled sound"
+        "meaning": "dull sound, muffled sound |(vi) âm thanh trầm đục, tiếng nghẹt"
       },
       {
         "example": "風音",
         "reading": "かざおと",
-        "meaning": "sound of the wind"
+        "meaning": "sound of the wind |(vi) tiếng gió"
       },
       {
         "example": "音",
         "reading": "ね",
-        "meaning": "sound, tone, note, ring, chirp"
+        "meaning": "sound, tone, note, ring, chirp |(vi) âm thanh, âm điệu, nốt nhạc, tiếng chuông, tiếng chim hót"
       },
       {
         "example": "音色",
         "reading": "ねいろ",
-        "meaning": "tone color, tone colour, tone quality, timbre"
+        "meaning": "tone color, tone colour, tone quality, timbre |(vi) âm sắc, chất giọng"
       },
       {
         "example": "弱音",
         "reading": "よわね",
-        "meaning": "feeble complaint, whine"
+        "meaning": "feeble complaint, whine |(vi) lời than vãn yếu ớt, rên rỉ"
       },
       {
         "example": "高音",
         "reading": "こうおん",
-        "meaning": "high-pitched tone, soprano"
+        "meaning": "high-pitched tone, soprano |(vi) âm cao, giọng soprano"
       }
     ],
     "radical": {
       "symbol": "音",
-      "meaning": "sound"
+      "meaning": "sound |(vi) Âm (âm thanh)"
     },
     "parts": [
       "日",

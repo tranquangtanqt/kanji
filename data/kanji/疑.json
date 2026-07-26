@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 4,
     "kunyomi": "utaga, utagau, utagai",
-    "meaning": "doubt",
+    "meaning": "doubt |(vi) nghi ngờ",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "疑問（ぎもん）",
         "meaning": {
-          "english": "question, doubt [n.]"
+          "english": "question, doubt [n.] |(vi) câu hỏi, sự nghi ngờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utaga(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "疑問詞（ぎもんし）",
         "meaning": {
-          "english": "interrogative word"
+          "english": "interrogative word |(vi) từ để hỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utaga(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "疑惑（ぎわく）",
         "meaning": {
-          "english": "suspicion"
+          "english": "suspicion |(vi) sự nghi ngờ, hoài nghi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utaga(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "容疑者（ようぎしゃ）",
         "meaning": {
-          "english": "suspect [n.]"
+          "english": "suspect [n.] |(vi) nghi phạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utaga(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "半信半疑（はんしんはんぎ）",
         "meaning": {
-          "english": "half in doubt"
+          "english": "half in doubt |(vi) nửa tin nửa ngờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utaga(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "質疑応答（しつぎおうとう）",
         "meaning": {
-          "english": "question and answer session"
+          "english": "question and answer session |(vi) phiên hỏi đáp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utaga(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "疑う（うたがう）",
         "meaning": {
-          "english": "doubt, suspect [v.t.]"
+          "english": "doubt, suspect [v.t.] |(vi) nghi ngờ, nghi hoặc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utaga(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "疑わしい（うたがわしい）",
         "meaning": {
-          "english": "questionable, suspicious"
+          "english": "questionable, suspicious |(vi) đáng ngờ, khả nghi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utaga(u)_06_h.opus",
@@ -211,7 +211,7 @@
     "kanji": {
       "character": "疑",
       "meaning": {
-        "english": "doubt"
+        "english": "doubt |(vi) nghi ngờ"
       },
       "strokes": {
         "count": 14,
@@ -277,7 +277,7 @@
         "romaji": "hiki"
       },
       "meaning": {
-        "english": "bolt of cloth"
+        "english": "bolt of cloth |(vi) Thất (tấm vải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hiki0.svg",
@@ -298,7 +298,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "283",
     "strokeCount": 14,
-    "meaning": "doubt, distrust, be suspicious, question",
+    "meaning": "doubt, distrust, be suspicious, question |(vi) nghi ngờ, mất lòng tin, nghi hoặc, thắc mắc |(hv) Nghi",
     "kunyomi": [
       "うたが.う"
     ],
@@ -309,29 +309,29 @@
       {
         "example": "疑",
         "reading": "ギ",
-        "meaning": "doubt, distrust, suspicion (of)"
+        "meaning": "doubt, distrust, suspicion (of) |(vi) nghi ngờ, mất lòng tin, sự nghi hoặc"
       },
       {
         "example": "疑義",
         "reading": "ギギ",
-        "meaning": "doubt"
+        "meaning": "doubt |(vi) điều nghi vấn, sự nghi ngờ"
       },
       {
         "example": "質疑",
         "reading": "シツギ",
-        "meaning": "question, interpellation"
+        "meaning": "question, interpellation |(vi) chất vấn, câu hỏi"
       },
       {
         "example": "懐疑",
         "reading": "カイギ",
-        "meaning": "doubt, skepticism, scepticism, disbelief"
+        "meaning": "doubt, skepticism, scepticism, disbelief |(vi) hoài nghi, chủ nghĩa hoài nghi, sự không tin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "疑う",
         "reading": "うたがう",
-        "meaning": "to doubt, to distrust, to be suspicious of, to suspect"
+        "meaning": "to doubt, to distrust, to be suspicious of, to suspect |(vi) nghi ngờ, mất lòng tin, nghi hoặc, ngờ vực"
       }
     ],
     "radical": {
@@ -339,7 +339,7 @@
       "forms": [
         "⺪"
       ],
-      "meaning": "bolt of cloth"
+      "meaning": "bolt of cloth |(vi) Thất (tấm vải)"
     },
     "parts": [
       "マ",

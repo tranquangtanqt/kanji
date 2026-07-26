@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "kuru, niga, kurushii, kurushimu, kurushimeru, nigai, nigaru",
-    "meaning": "suffering, bitter, painful",
+    "meaning": "suffering, bitter, painful |(vi) đau khổ, đắng, đau đớn",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "苦労する（くろうする）",
         "meaning": {
-          "english": "suffer, toil"
+          "english": "suffer, toil |(vi) chịu khổ, vất vả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niga(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "苦悩する（くのうする）",
         "meaning": {
-          "english": "agonize, be in anguish"
+          "english": "agonize, be in anguish |(vi) day dứt, đau khổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niga(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "苦心する（くしんする）",
         "meaning": {
-          "english": "make an effort, take pains"
+          "english": "make an effort, take pains |(vi) nỗ lực, dày công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niga(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "苦笑する（くしょうする）",
         "meaning": {
-          "english": "smile bitterly"
+          "english": "smile bitterly |(vi) cười gượng, cười chua chát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niga(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "苦痛（くつう）",
         "meaning": {
-          "english": "pain"
+          "english": "pain |(vi) sự đau đớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niga(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "苦情（くじょう）",
         "meaning": {
-          "english": "complaint"
+          "english": "complaint |(vi) lời phàn nàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niga(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "苦しい（くるしい）",
         "meaning": {
-          "english": "painful"
+          "english": "painful |(vi) đau đớn, khó chịu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niga(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "苦い（にがい）",
         "meaning": {
-          "english": "bitter"
+          "english": "bitter |(vi) đắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niga(i)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "苦手な（にがてな）",
         "meaning": {
-          "english": "poor (at)"
+          "english": "poor (at) |(vi) kém, không giỏi (về việc gì)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niga(i)_06_i.opus",
@@ -268,7 +268,7 @@
     "kanji": {
       "character": "苦",
       "meaning": {
-        "english": "suffering, bitter, painful"
+        "english": "suffering, bitter, painful |(vi) đau khổ, đắng, đau đớn"
       },
       "strokes": {
         "count": 8,
@@ -322,7 +322,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -343,7 +343,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "623",
     "strokeCount": 8,
-    "meaning": "suffering, trial, worry, hardship, feel bitter, scowl",
+    "meaning": "suffering, trial, worry, hardship, feel bitter, scowl |(vi) đau khổ, thử thách, lo lắng, gian khổ, cảm thấy cay đắng, cau có |(hv) Khổ",
     "kunyomi": [
       "くる.しい",
       "-ぐる.しい",
@@ -359,59 +359,59 @@
       {
         "example": "苦",
         "reading": "ク",
-        "meaning": "pain, anguish, suffering, distress, anxiety, worry, trouble, difficulty, hardship, duhkha (suffering)"
+        "meaning": "pain, anguish, suffering, distress, anxiety, worry, trouble, difficulty, hardship, duhkha (suffering) |(vi) đau đớn, thống khổ, đau khổ, khổ sở, lo âu, lo lắng, khó khăn, gian khổ, khổ (Phật giáo)"
       },
       {
         "example": "苦境",
         "reading": "クキョウ",
-        "meaning": "difficult situation, adverse circumstances, predicament, trouble, dilemma, distress"
+        "meaning": "difficult situation, adverse circumstances, predicament, trouble, dilemma, distress |(vi) tình cảnh khó khăn, hoàn cảnh bất lợi, cảnh khốn đốn, rắc rối, tình thế tiến thoái lưỡng nan, khổ cực"
       },
       {
         "example": "生活苦",
         "reading": "セイカツク",
-        "meaning": "hardships of life (esp. due to lack of money), life's struggles"
+        "meaning": "hardships of life (esp. due to lack of money), life's struggles |(vi) gian khổ trong cuộc sống (đặc biệt do thiếu tiền), vật lộn mưu sinh"
       },
       {
         "example": "病苦",
         "reading": "ビョウク",
-        "meaning": "pain of sickness"
+        "meaning": "pain of sickness |(vi) nỗi đau bệnh tật"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "苦しい",
         "reading": "くるしい",
-        "meaning": "painful, difficult, tough, hard, distressing, (psychologically) difficult, stressful, awkward (e.g. position), straitened (circumstances), tight (financial situation), needy, struggling, strained (interpretation, explanation, etc.), lame (e.g. excuse), forced (e.g. smile), far-fetched, hard to do, unpleasant"
+        "meaning": "painful, difficult, tough, hard, distressing, (psychologically) difficult, stressful, awkward (e.g. position), straitened (circumstances), tight (financial situation), needy, struggling, strained (interpretation, explanation, etc.), lame (e.g. excuse), forced (e.g. smile), far-fetched, hard to do, unpleasant |(vi) đau đớn, khó khăn, gian nan, vất vả, khổ tâm, khó xử (về tâm lý), căng thẳng, ngặt nghèo (hoàn cảnh), eo hẹp (tình hình tài chính), túng thiếu, chật vật, gượng ép (cách giải thích), lý do khiên cưỡng, nụ cười gượng gạo, gượng gạo, khó thực hiện, khó chịu"
       },
       {
         "example": "苦しい言い訳",
         "reading": "くるしいいいわけ",
-        "meaning": "lame excuse, poor excuse"
+        "meaning": "lame excuse, poor excuse |(vi) lời biện hộ gượng gạo, lý do khiên cưỡng"
       },
       {
         "example": "苦しむ",
         "reading": "くるしむ",
-        "meaning": "to suffer, to groan, to be worried"
+        "meaning": "to suffer, to groan, to be worried |(vi) chịu khổ, rên rỉ, lo lắng"
       },
       {
         "example": "苦しめる",
         "reading": "くるしめる",
-        "meaning": "to torment, to pain, to inflict (physical) pain, to hurt, to harass, to cause (emotional) pain, to afflict, to distress, to bother, to trouble, to stump, to baffle"
+        "meaning": "to torment, to pain, to inflict (physical) pain, to hurt, to harass, to cause (emotional) pain, to afflict, to distress, to bother, to trouble, to stump, to baffle |(vi) hành hạ, gây đau đớn, gây đau đớn (thể xác), làm tổn thương, quấy rầy, gây đau khổ (tinh thần), làm khổ sở, làm phiền, làm bối rối, làm khó xử"
       },
       {
         "example": "苦い",
         "reading": "にがい",
-        "meaning": "bitter"
+        "meaning": "bitter |(vi) đắng"
       },
       {
         "example": "苦い薬",
         "reading": "にがいくすり",
-        "meaning": "bitter medicine"
+        "meaning": "bitter medicine |(vi) thuốc đắng"
       },
       {
         "example": "苦る",
         "reading": "にがる",
-        "meaning": "to feel bitter, to scowl"
+        "meaning": "to feel bitter, to scowl |(vi) cảm thấy cay đắng, cau có"
       }
     ],
     "radical": {
@@ -419,7 +419,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "十",

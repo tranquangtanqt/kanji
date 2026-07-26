@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "yo, yon",
-    "meaning": "four",
+    "meaning": "four |(vi) bốn",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "四月（しがつ）",
         "meaning": {
-          "english": "April"
+          "english": "April |(vi) tháng 4"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "四角（しかく）",
         "meaning": {
-          "english": "square"
+          "english": "square |(vi) hình vuông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "四国（しこく）",
         "meaning": {
-          "english": "Shikoku"
+          "english": "Shikoku |(vi) Shikoku (vùng đảo ở Nhật Bản)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "四季（しき）",
         "meaning": {
-          "english": "four seasons"
+          "english": "four seasons |(vi) bốn mùa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "四時（よじ）",
         "meaning": {
-          "english": "4 o'clock"
+          "english": "4 o'clock |(vi) 4 giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "四つ角（よつかど）",
         "meaning": {
-          "english": "crossroads"
+          "english": "crossroads |(vi) ngã tư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "四つ（よっつ）",
         "meaning": {
-          "english": "4 (objects)"
+          "english": "4 (objects) |(vi) bốn (đồ vật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "四日（よっか）",
         "meaning": {
-          "english": "4 days, 4th of the month"
+          "english": "4 days, 4th of the month |(vi) 4 ngày, ngày mùng 4"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "四回（よんかい）",
         "meaning": {
-          "english": "4 times"
+          "english": "4 times |(vi) 4 lần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_i.opus",
@@ -265,7 +265,7 @@
     "kanji": {
       "character": "四",
       "meaning": {
-        "english": "four"
+        "english": "four |(vi) bốn"
       },
       "strokes": {
         "count": 5,
@@ -313,7 +313,7 @@
         "romaji": "kunigamae"
       },
       "meaning": {
-        "english": "border, territorial boundaries"
+        "english": "border, territorial boundaries |(vi) Vi (ranh giới, vây quanh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kunigamae0.svg",
@@ -334,7 +334,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "47",
     "strokeCount": 5,
-    "meaning": "four",
+    "meaning": "four |(vi) bốn |(hv) Tứ",
     "kunyomi": [
       "よ",
       "よ.つ",
@@ -348,79 +348,79 @@
       {
         "example": "四",
         "reading": "シ",
-        "meaning": "four, 4"
+        "meaning": "four, 4 |(vi) bốn, số 4"
       },
       {
         "example": "４月",
         "reading": "シガツ",
-        "meaning": "April, fourth month in the lunar calendar"
+        "meaning": "April, fourth month in the lunar calendar |(vi) tháng 4, tháng thứ tư theo âm lịch"
       },
       {
         "example": "十四",
         "reading": "ジュウシ",
-        "meaning": "fourteen, 14"
+        "meaning": "fourteen, 14 |(vi) mười bốn, số 14"
       },
       {
         "example": "炭素１４",
         "reading": "タンソジュウシ",
-        "meaning": "carbon-14"
+        "meaning": "carbon-14 |(vi) carbon-14"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "四",
         "reading": "し",
-        "meaning": "four, 4"
+        "meaning": "four, 4 |(vi) bốn, số 4"
       },
       {
         "example": "四畳半",
         "reading": "よじょうはん",
-        "meaning": "four and a half tatami mats, four-and-a-half-mat room, small room esp. for assignations"
+        "meaning": "four and a half tatami mats, four-and-a-half-mat room, small room esp. for assignations |(vi) phòng bốn chiếu rưỡi tatami, phòng nhỏ (thường dùng để hẹn hò)"
       },
       {
         "example": "四つ",
         "reading": "よっつ",
-        "meaning": "four, 4, four years of age, ten o'clock (in the old time system), burakumin, cross grips"
+        "meaning": "four, 4, four years of age, ten o'clock (in the old time system), burakumin, cross grips |(vi) bốn, số 4, bốn tuổi, mười giờ (theo hệ thời gian cũ), người thuộc tầng lớp burakumin, thế ôm chéo tay (sumo)"
       },
       {
         "example": "四つ角",
         "reading": "よつかど",
-        "meaning": "four corners, crossroads, intersecting street, street corner"
+        "meaning": "four corners, crossroads, intersecting street, street corner |(vi) ngã tư, giao lộ, góc phố"
       },
       {
         "example": "四つ",
         "reading": "よっつ",
-        "meaning": "four, 4, four years of age, ten o'clock (in the old time system), burakumin, cross grips"
+        "meaning": "four, 4, four years of age, ten o'clock (in the old time system), burakumin, cross grips |(vi) bốn, số 4, bốn tuổi, mười giờ (theo hệ thời gian cũ), người thuộc tầng lớp burakumin, thế ôm chéo tay (sumo)"
       },
       {
         "example": "四つの自由",
         "reading": "よっつのじゆう",
-        "meaning": "the Four Freedoms (as defined by Franklin D. Roosevelt: freedom of speech, freedom of worship, freedom from want, freedom from fear)"
+        "meaning": "the Four Freedoms (as defined by Franklin D. Roosevelt: freedom of speech, freedom of worship, freedom from want, freedom from fear) |(vi) Bốn Quyền Tự Do (theo Franklin D. Roosevelt: tự do ngôn luận, tự do tín ngưỡng, tự do khỏi đói nghèo, tự do khỏi sợ hãi)"
       },
       {
         "example": "四",
         "reading": "し",
-        "meaning": "four, 4"
+        "meaning": "four, 4 |(vi) bốn, số 4"
       },
       {
         "example": "４０",
         "reading": "よんじゅう",
-        "meaning": "forty, 40"
+        "meaning": "forty, 40 |(vi) bốn mươi, số 40"
       },
       {
         "example": "十四",
         "reading": "じゅうし",
-        "meaning": "fourteen, 14"
+        "meaning": "fourteen, 14 |(vi) mười bốn, số 14"
       },
       {
         "example": "軽四",
         "reading": "けいよん",
-        "meaning": "four-wheeled light vehicle"
+        "meaning": "four-wheeled light vehicle |(vi) xe hạng nhẹ bốn bánh (kei-yon)"
       }
     ],
     "radical": {
       "symbol": "囗",
-      "meaning": "enclosure"
+      "meaning": "enclosure |(vi) Vi (vây quanh, bao vây)"
     },
     "parts": [
       "儿",

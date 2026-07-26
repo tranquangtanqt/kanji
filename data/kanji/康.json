@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "healthy, composure",
+    "meaning": "healthy, composure |(vi) khỏe mạnh, bình thản",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "健康（けんこう）",
         "meaning": {
-          "english": "health"
+          "english": "health |(vi) sức khỏe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ken)kou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "小康（しょうこう）",
         "meaning": {
-          "english": "lull [n.]"
+          "english": "lull [n.] |(vi) sự tạm lắng, khoảng lặng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ken)kou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "健康的な（けんこうてきな）",
         "meaning": {
-          "english": "healthful, hygienic, sanitary"
+          "english": "healthful, hygienic, sanitary |(vi) lành mạnh, vệ sinh, hợp vệ sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ken)kou_06_c.opus",
@@ -148,7 +148,7 @@
     "kanji": {
       "character": "康",
       "meaning": {
-        "english": "healthy, composure"
+        "english": "healthy, composure |(vi) khỏe mạnh, bình thản"
       },
       "strokes": {
         "count": 11,
@@ -208,7 +208,7 @@
         "romaji": "madare"
       },
       "meaning": {
-        "english": "slanting roof"
+        "english": "slanting roof |(vi) Nghiễm (mái nhà dốc, mái hiên)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/madare0.svg",
@@ -229,7 +229,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "760",
     "strokeCount": 11,
-    "meaning": "ease, peace",
+    "meaning": "ease, peace |(vi) an nhàn, thái bình, yên ổn |(hv) Khang",
     "kunyomi": [],
     "onyomi": [
       "コウ"
@@ -238,28 +238,28 @@
       {
         "example": "康安",
         "reading": "コウアン",
-        "meaning": "Kōan era (of the Northern Court; 1361.3.29-1362.9.23)"
+        "meaning": "Kōan era (of the Northern Court; 1361.3.29-1362.9.23) |(vi) niên hiệu Kōan (Bắc triều; 1361.3.29-1362.9.23)"
       },
       {
         "example": "康永",
         "reading": "コウエイ",
-        "meaning": "Kōei era (of the Northern Court; 1342.4.27-1345.10.21)"
+        "meaning": "Kōei era (of the Northern Court; 1342.4.27-1345.10.21) |(vi) niên hiệu Kōei (Bắc triều; 1342.4.27-1345.10.21)"
       },
       {
         "example": "小康",
         "reading": "ショウコウ",
-        "meaning": "lull, breathing spell, respite, remission (of an illness), becoming stable"
+        "meaning": "lull, breathing spell, respite, remission (of an illness), becoming stable |(vi) sự tạm lắng, khoảng nghỉ, thuyên giảm bệnh, tạm ổn định"
       },
       {
         "example": "安康",
         "reading": "アンコウ",
-        "meaning": "calm and peaceful period of time"
+        "meaning": "calm and peaceful period of time |(vi) thời kỳ thái bình yên ổn"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "广",
-      "meaning": "house on cliff"
+      "meaning": "house on cliff |(vi) Nghiễm (nhà trên vách núi)"
     },
     "parts": [
       "ヨ",

@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 2,
     "kunyomi": "a, ateru",
-    "meaning": "fill, allocate, assign",
+    "meaning": "fill, allocate, assign |(vi) làm đầy, phân bổ, chỉ định",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "充分な（じゅうぶんな）",
         "meaning": {
-          "english": "plenty, sufficient"
+          "english": "plenty, sufficient |(vi) đầy đủ, sung túc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-a(teru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "充満する（じゅうまんする）",
         "meaning": {
-          "english": "be filled, teeming"
+          "english": "be filled, teeming |(vi) tràn đầy, ngập tràn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-a(teru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "充電する（じゅうでんする）",
         "meaning": {
-          "english": "charge (a battery)"
+          "english": "charge (a battery) |(vi) sạc (pin)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-a(teru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "充実する（じゅうじつする）",
         "meaning": {
-          "english": "enrich, perfect, complete"
+          "english": "enrich, perfect, complete |(vi) phong phú, hoàn thiện, sung túc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-a(teru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "補充する（ほじゅうする）",
         "meaning": {
-          "english": "supplement, replenish"
+          "english": "supplement, replenish |(vi) bổ sung, bổ khuyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-a(teru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "拡充する（かくじゅうする）",
         "meaning": {
-          "english": "expand"
+          "english": "expand |(vi) mở rộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-a(teru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "充てる（あてる）",
         "meaning": {
-          "english": "assign, allocate"
+          "english": "assign, allocate |(vi) chỉ định, phân bổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-a(teru)_06_g.opus",
@@ -181,7 +181,7 @@
     "kanji": {
       "character": "充",
       "meaning": {
-        "english": "fill, allocate, assign"
+        "english": "fill, allocate, assign |(vi) làm đầy, phân bổ, chỉ định"
       },
       "strokes": {
         "count": 6,
@@ -231,7 +231,7 @@
         "romaji": "hitoashi"
       },
       "meaning": {
-        "english": "human legs"
+        "english": "human legs |(vi) Nhân (chân người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoashi0.svg",
@@ -252,7 +252,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "949",
     "strokeCount": 6,
-    "meaning": "allot, fill",
+    "meaning": "allot, fill |(vi) phân bổ, làm đầy |(hv) Sung",
     "kunyomi": [
       "あ.てる",
       "み.たす"
@@ -264,39 +264,39 @@
       {
         "example": "充足",
         "reading": "ジュウソク",
-        "meaning": "sufficiency"
+        "meaning": "sufficiency |(vi) đầy đủ, sung túc"
       },
       {
         "example": "充実",
         "reading": "ジュウジツ",
-        "meaning": "fullness, completeness, perfection, substantiality, enhancement, improvement, enrichment, upgrading, replenishment, repletion"
+        "meaning": "fullness, completeness, perfection, substantiality, enhancement, improvement, enrichment, upgrading, replenishment, repletion |(vi) đầy đủ, hoàn thiện, sung túc, phong phú, cải thiện, nâng cấp, bổ sung"
       },
       {
         "example": "リア充",
         "reading": "リアジュウ",
-        "meaning": "person who is satisfied with their real (offline) life, normie"
+        "meaning": "person who is satisfied with their real (offline) life, normie |(vi) người hài lòng với cuộc sống thực (ngoài mạng), người có đời sống viên mãn"
       },
       {
         "example": "事業拡充",
         "reading": "ジギョウカクジュウ",
-        "meaning": "business expansion"
+        "meaning": "business expansion |(vi) mở rộng kinh doanh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "充てる",
         "reading": "あてる",
-        "meaning": "to assign, to set aside"
+        "meaning": "to assign, to set aside |(vi) chỉ định, dành riêng, phân bổ"
       },
       {
         "example": "満たす",
         "reading": "みたす",
-        "meaning": "to satisfy (conditions, one's appetite, etc.), to meet (e.g. demands), to fulfill, to gratify, to fill (e.g. a cup), to pack, to supply"
+        "meaning": "to satisfy (conditions, one's appetite, etc.), to meet (e.g. demands), to fulfill, to gratify, to fill (e.g. a cup), to pack, to supply |(vi) thỏa mãn, đáp ứng, làm đầy, cung cấp"
       }
     ],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": "legs |(vi) Nhân (chân người)"
     },
     "parts": [
       "亠",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "to, togu",
-    "meaning": "sand, sharpen",
+    "meaning": "sand, sharpen |(vi) mài, giũa",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "研修（けんしゅう）",
         "meaning": {
-          "english": "training"
+          "english": "training |(vi) đào tạo, tập huấn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-to(gu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "研究所（けんきゅうじょ）",
         "meaning": {
-          "english": "research institute"
+          "english": "research institute |(vi) viện nghiên cứu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-to(gu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "研究室（けんきゅうしつ）",
         "meaning": {
-          "english": "seminar room, prof's office"
+          "english": "seminar room, prof's office |(vi) phòng nghiên cứu, phòng giáo sư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-to(gu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "研摩する（けんまする）",
         "meaning": {
-          "english": "grind"
+          "english": "grind |(vi) mài, đánh bóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-to(gu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "研究する（けんきゅうする）",
         "meaning": {
-          "english": "research [ v.t.]"
+          "english": "research [ v.t.] |(vi) nghiên cứu [ ngoại động từ ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-to(gu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "研ぐ（とぐ）",
         "meaning": {
-          "english": "sharpen"
+          "english": "sharpen |(vi) mài, giũa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-to(gu)_06_f.opus",
@@ -198,7 +198,7 @@
     "kanji": {
       "character": "研",
       "meaning": {
-        "english": "sand, sharpen"
+        "english": "sand, sharpen |(vi) mài, giũa"
       },
       "strokes": {
         "count": 9,
@@ -254,7 +254,7 @@
         "romaji": "ishihen"
       },
       "meaning": {
-        "english": "stone"
+        "english": "stone |(vi) Thạch (đá)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ishihen0.svg",
@@ -275,7 +275,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "336",
     "strokeCount": 9,
-    "meaning": "polish, study of, sharpen",
+    "meaning": "polish, study of, sharpen |(vi) mài giũa, nghiên cứu, đánh bóng |(hv) Nghiên",
     "kunyomi": [
       "と.ぐ"
     ],
@@ -286,34 +286,34 @@
       {
         "example": "研究員",
         "reading": "ケンキュウイン",
-        "meaning": "researcher, lab worker"
+        "meaning": "researcher, lab worker |(vi) nghiên cứu viên, nhân viên phòng thí nghiệm"
       },
       {
         "example": "研究",
         "reading": "ケンキュウ",
-        "meaning": "research, study, investigation"
+        "meaning": "research, study, investigation |(vi) nghiên cứu, khảo cứu, tìm hiểu"
       },
       {
         "example": "予研",
         "reading": "ヨケン",
-        "meaning": "National Institute of Health"
+        "meaning": "National Institute of Health |(vi) Viện Nghiên cứu Y tế Quốc gia"
       },
       {
         "example": "映研",
         "reading": "エイケン",
-        "meaning": "film studies, cinema studies"
+        "meaning": "film studies, cinema studies |(vi) câu lạc bộ nghiên cứu điện ảnh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "研ぐ",
         "reading": "とぐ",
-        "meaning": "to sharpen, to hone, to whet, to grind, to wash (rice), to scour, to polish, to burnish"
+        "meaning": "to sharpen, to hone, to whet, to grind, to wash (rice), to scour, to polish, to burnish |(vi) mài, giũa, mài dao, vo (gạo), đánh bóng, đánh giấy nhám"
       }
     ],
     "radical": {
       "symbol": "石",
-      "meaning": "stone"
+      "meaning": "stone |(vi) Thạch (đá)"
     },
     "parts": [
       "ノ",

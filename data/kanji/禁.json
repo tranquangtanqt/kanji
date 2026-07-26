@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "prohibit",
+    "meaning": "prohibit |(vi) cấm",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "禁制（きんせい）",
         "meaning": {
-          "english": "prohibition, taboo"
+          "english": "prohibition, taboo |(vi) sự cấm đoán, điều cấm kỵ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin(shisuru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "禁句（きんく）",
         "meaning": {
-          "english": "taboo phrase"
+          "english": "taboo phrase |(vi) từ cấm kỵ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin(shisuru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "禁欲的な（きんよくてきな）",
         "meaning": {
-          "english": "ascetic, abstemious"
+          "english": "ascetic, abstemious |(vi) khổ hạnh, tiết dục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin(shisuru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "禁止する（きんしする）",
         "meaning": {
-          "english": "prohibit, ban"
+          "english": "prohibit, ban |(vi) cấm, cấm đoán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin(shisuru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "禁煙する（きんえんする）",
         "meaning": {
-          "english": "stop smoking"
+          "english": "stop smoking |(vi) cai thuốc lá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin(shisuru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "禁酒する（きんしゅする）",
         "meaning": {
-          "english": "stop drinking"
+          "english": "stop drinking |(vi) cai rượu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin(shisuru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "厳禁する（げんきんする）",
         "meaning": {
-          "english": "strictly prohibit"
+          "english": "strictly prohibit |(vi) nghiêm cấm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin(shisuru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "解禁する（かいきんする）",
         "meaning": {
-          "english": "lift a ban"
+          "english": "lift a ban |(vi) dỡ bỏ lệnh cấm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin(shisuru)_06_h.opus",
@@ -224,7 +224,7 @@
     "kanji": {
       "character": "禁",
       "meaning": {
-        "english": "prohibit"
+        "english": "prohibit |(vi) cấm"
       },
       "strokes": {
         "count": 13,
@@ -288,7 +288,7 @@
         "romaji": "shimesu"
       },
       "meaning": {
-        "english": "altar, festival, religious service"
+        "english": "altar, festival, religious service |(vi) Thị (bàn thờ, lễ hội, nghi lễ tôn giáo)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shimesu0.svg",
@@ -309,7 +309,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "681",
     "strokeCount": 13,
-    "meaning": "prohibition, ban, forbid",
+    "meaning": "prohibition, ban, forbid |(vi) cấm đoán, lệnh cấm, ngăn cấm |(hv) Cấm",
     "kunyomi": [],
     "onyomi": [
       "キン"
@@ -318,22 +318,22 @@
       {
         "example": "禁",
         "reading": "キン",
-        "meaning": "ban (e.g. on smoking), prohibition"
+        "meaning": "ban (e.g. on smoking), prohibition |(vi) lệnh cấm (như cấm hút thuốc), sự cấm đoán"
       },
       {
         "example": "禁煙",
         "reading": "キンエン",
-        "meaning": "abstaining from smoking, quitting smoking, prohibition of smoking, No Smoking, Smoking Prohibited"
+        "meaning": "abstaining from smoking, quitting smoking, prohibition of smoking, No Smoking, Smoking Prohibited |(vi) cai thuốc lá, cấm hút thuốc, khu vực cấm hút thuốc"
       },
       {
         "example": "軟禁",
         "reading": "ナンキン",
-        "meaning": "house arrest"
+        "meaning": "house arrest |(vi) quản thúc tại gia"
       },
       {
         "example": "拘禁",
         "reading": "コウキン",
-        "meaning": "detention, custody, confinement, internment"
+        "meaning": "detention, custody, confinement, internment |(vi) giam giữ, bắt giam, giam cầm"
       }
     ],
     "kunyomiExamples": [],
@@ -342,7 +342,7 @@
       "forms": [
         "礻"
       ],
-      "meaning": "sign"
+      "meaning": "sign |(vi) Thị (dấu hiệu, biểu thị)"
     },
     "parts": [
       "二",

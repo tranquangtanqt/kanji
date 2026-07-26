@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "utsu, ha, utsuru, utsusu, haeru",
-    "meaning": "reflect, project",
+    "meaning": "reflect, project |(vi) phản chiếu, chiếu",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "映画（えいが）",
         "meaning": {
-          "english": "movie"
+          "english": "movie |(vi) phim điện ảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei-utsu(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "映画館（えいがかん）",
         "meaning": {
-          "english": "movie theater"
+          "english": "movie theater |(vi) rạp chiếu phim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei-utsu(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "反映する（はんえいする）",
         "meaning": {
-          "english": "reflect"
+          "english": "reflect |(vi) phản ánh, phản chiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei-utsu(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "上映する（じょうえいする）",
         "meaning": {
-          "english": "show a movie"
+          "english": "show a movie |(vi) chiếu phim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei-utsu(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "映る（うつる）",
         "meaning": {
-          "english": "be reflected [v.i.]"
+          "english": "be reflected [v.i.] |(vi) được phản chiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei-utsu(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "映す（うつす）",
         "meaning": {
-          "english": "project [v.t.]"
+          "english": "project [v.t.] |(vi) chiếu, phản chiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei-utsu(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "映える（はえる）",
         "meaning": {
-          "english": "shine, look pretty"
+          "english": "shine, look pretty |(vi) tỏa sáng, trông đẹp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei-utsu(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "夕映え（ゆうばえ）",
         "meaning": {
-          "english": "sunset glow"
+          "english": "sunset glow |(vi) ráng chiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei-utsu(ru)_06_h.opus",
@@ -250,7 +250,7 @@
     "kanji": {
       "character": "映",
       "meaning": {
-        "english": "reflect, project"
+        "english": "reflect, project |(vi) phản chiếu, chiếu"
       },
       "strokes": {
         "count": 9,
@@ -306,7 +306,7 @@
         "romaji": "hihen"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hihen0.svg",
@@ -327,7 +327,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "404",
     "strokeCount": 9,
-    "meaning": "reflect, reflection, projection",
+    "meaning": "reflect, reflection, projection |(vi) phản chiếu, sự phản ánh, sự chiếu |(hv) Ánh",
     "kunyomi": [
       "うつ.る",
       "うつ.す",
@@ -341,44 +341,44 @@
       {
         "example": "映画館",
         "reading": "エイガカン",
-        "meaning": "movie theatre, movie theater, cinema"
+        "meaning": "movie theatre, movie theater, cinema |(vi) rạp chiếu phim"
       },
       {
         "example": "映画",
         "reading": "エイガ",
-        "meaning": "movie, film, motion picture"
+        "meaning": "movie, film, motion picture |(vi) phim điện ảnh"
       },
       {
         "example": "大映",
         "reading": "ダイエイ",
-        "meaning": "Daiei Motion Picture Company"
+        "meaning": "Daiei Motion Picture Company |(vi) Hãng phim Daiei"
       },
       {
         "example": "開映",
         "reading": "カイエイ",
-        "meaning": "beginning of a screening (at a movie theatre), starting a screening"
+        "meaning": "beginning of a screening (at a movie theatre), starting a screening |(vi) bắt đầu buổi chiếu (tại rạp)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "映る",
         "reading": "うつる",
-        "meaning": "to be reflected, to harmonize with (harmonise), to come out (photo), to be projected, to be displayed (on a screen)"
+        "meaning": "to be reflected, to harmonize with (harmonise), to come out (photo), to be projected, to be displayed (on a screen) |(vi) được phản chiếu, hòa hợp với, lên hình (ảnh chụp), được chiếu, được hiển thị (trên màn hình)"
       },
       {
         "example": "映す",
         "reading": "うつす",
-        "meaning": "to project, to reflect, to cast (shadow)"
+        "meaning": "to project, to reflect, to cast (shadow) |(vi) chiếu, phản chiếu, đổ (bóng)"
       },
       {
         "example": "映える",
         "reading": "はえる",
-        "meaning": "to shine, to glow, to look attractive, to look nice, to be set off (by)"
+        "meaning": "to shine, to glow, to look attractive, to look nice, to be set off (by) |(vi) tỏa sáng, rực rỡ, trông hấp dẫn, trông đẹp, được tôn lên (bởi)"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "ノ",

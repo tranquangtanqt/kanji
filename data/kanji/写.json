@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "utsu, utsusu, utsuru",
-    "meaning": "copy",
+    "meaning": "copy |(vi) sao chép",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "写真（しゃしん）",
         "meaning": {
-          "english": "photograph"
+          "english": "photograph |(vi) ảnh, bức ảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "写実的な（しゃじつてきな）",
         "meaning": {
-          "english": "true to life"
+          "english": "true to life |(vi) tả thực, đúng như thật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "写生する（しゃせいする）",
         "meaning": {
-          "english": "sketch (drawing)"
+          "english": "sketch (drawing) |(vi) vẽ phác từ thực tế, ký họa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "写経する（しゃきょうする）",
         "meaning": {
-          "english": "hand-copy a sutra"
+          "english": "hand-copy a sutra |(vi) chép kinh bằng tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "写本する（しゃほんする）",
         "meaning": {
-          "english": "hand-copy a manuscript"
+          "english": "hand-copy a manuscript |(vi) chép tay bản thảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "複写する（ふくしゃする）",
         "meaning": {
-          "english": "copy"
+          "english": "copy |(vi) sao chụp, nhân bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "描写する（びょうしゃする）",
         "meaning": {
-          "english": "depict"
+          "english": "depict |(vi) miêu tả, khắc họa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "写す（うつす）",
         "meaning": {
-          "english": "film, project [v.t.]"
+          "english": "film, project [v.t.] |(vi) quay phim, chiếu [tha động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "写る（うつる）",
         "meaning": {
-          "english": "be projected [v.i.]"
+          "english": "be projected [v.i.] |(vi) được chiếu lên, hiện lên [tự động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_i.opus",
@@ -254,7 +254,7 @@
     "kanji": {
       "character": "写",
       "meaning": {
-        "english": "copy"
+        "english": "copy |(vi) sao chép"
       },
       "strokes": {
         "count": 5,
@@ -302,7 +302,7 @@
         "romaji": "wakanmuri"
       },
       "meaning": {
-        "english": "cover, crown"
+        "english": "cover, crown |(vi) Mịch (khăn trùm, mái che)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/wakanmuri0.svg",
@@ -323,7 +323,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "453",
     "strokeCount": 5,
-    "meaning": "copy, be photographed, describe",
+    "meaning": "copy, be photographed, describe |(vi) sao chép, được chụp ảnh, miêu tả |(hv) Tả",
     "kunyomi": [
       "うつ.す",
       "うつ.る",
@@ -338,54 +338,54 @@
       {
         "example": "写真集",
         "reading": "シャシンシュウ",
-        "meaning": "photo book (esp. one featuring photos of female celebrities, models), photobook"
+        "meaning": "photo book (esp. one featuring photos of female celebrities, models), photobook |(vi) tập ảnh (nhất là tập ảnh của nữ nghệ sĩ, người mẫu), sách ảnh"
       },
       {
         "example": "写真",
         "reading": "シャシン",
-        "meaning": "photograph, photo, picture, photography, moving picture, movie"
+        "meaning": "photograph, photo, picture, photography, moving picture, movie |(vi) ảnh, bức ảnh, hình, nhiếp ảnh, phim ảnh, phim"
       },
       {
         "example": "実写",
         "reading": "ジッシャ",
-        "meaning": "live action (as opposed to animation), photograph (of a real scene, event, etc.), real image, actual footage, depiction of a real scene (in writing or a picture), description"
+        "meaning": "live action (as opposed to animation), photograph (of a real scene, event, etc.), real image, actual footage, depiction of a real scene (in writing or a picture), description |(vi) người đóng (khác với hoạt hình), ảnh chụp cảnh thật, hình ảnh thật, tư liệu quay thực tế, sự tả thực (trong văn hay tranh), sự miêu tả"
       },
       {
         "example": "活写",
         "reading": "カッシャ",
-        "meaning": "vivid description, painting a lively picture (of)"
+        "meaning": "vivid description, painting a lively picture (of) |(vi) miêu tả sống động, khắc họa sinh động"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "写す",
         "reading": "うつす",
-        "meaning": "to copy, to duplicate, to reproduce, to trace, to transcribe, to describe, to depict, to portray, to express, to imitate, to model after, to take (a photo), to photograph, to film, to shoot"
+        "meaning": "to copy, to duplicate, to reproduce, to trace, to transcribe, to describe, to depict, to portray, to express, to imitate, to model after, to take (a photo), to photograph, to film, to shoot |(vi) sao chép, nhân bản, tái hiện, can lại, chép lại, miêu tả, khắc họa, thể hiện, diễn tả, bắt chước, phỏng theo, chụp (ảnh), chụp hình, quay phim"
       },
       {
         "example": "写る",
         "reading": "うつる",
-        "meaning": "to be photographed, to be projected"
+        "meaning": "to be photographed, to be projected |(vi) được chụp vào ảnh, được chiếu lên"
       },
       {
         "example": "写ルンです",
         "reading": "うつルンです",
-        "meaning": "QuickSnap (brand of disposable cameras produced by Fujifilm)"
+        "meaning": "QuickSnap (brand of disposable cameras produced by Fujifilm) |(vi) QuickSnap (hiệu máy ảnh dùng một lần của Fujifilm)"
       },
       {
         "example": "写し",
         "reading": "うつし",
-        "meaning": "copy, duplicate, facsimile, transcript"
+        "meaning": "copy, duplicate, facsimile, transcript |(vi) bản sao, bản chép, bản sao y, bản trích lục"
       },
       {
         "example": "映し出す",
         "reading": "うつしだす",
-        "meaning": "to project, to show (on a screen), to reflect (of a mirror, lake, etc.), to portray, to depict, to describe, to reflect (the times, mood, etc.)"
+        "meaning": "to project, to show (on a screen), to reflect (of a mirror, lake, etc.), to portray, to depict, to describe, to reflect (the times, mood, etc.) |(vi) chiếu lên, hiện lên (màn hình), phản chiếu (gương, mặt hồ...), khắc họa, miêu tả, diễn tả, phản ánh (thời đại, tâm trạng...)"
       }
     ],
     "radical": {
       "symbol": "冖",
-      "meaning": "cover"
+      "meaning": "cover |(vi) Mịch (khăn trùm, che phủ)"
     },
     "parts": [
       "一",

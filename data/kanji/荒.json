@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "ara, a, arai, arasu, areru",
-    "meaning": "wild, violent, rough, devastate",
+    "meaning": "wild, violent, rough, devastate |(vi) hoang dã, dữ tợn, thô ráp, tàn phá",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "荒野（こうや/あらの）",
         "meaning": {
-          "english": "wasteland, wilderness"
+          "english": "wasteland, wilderness |(vi) đất hoang, vùng hoang dã"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(reru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "荒涼たる（こうりょうたる）",
         "meaning": {
-          "english": "desolate, dreary"
+          "english": "desolate, dreary |(vi) hoang vắng, tiêu điều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(reru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "荒廃する（こうはいする）",
         "meaning": {
-          "english": "fall into ruin"
+          "english": "fall into ruin |(vi) trở nên hoang phế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(reru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "荒らす（あらす）",
         "meaning": {
-          "english": "lay waste, devastate, damage"
+          "english": "lay waste, devastate, damage |(vi) tàn phá, phá hoại, gây thiệt hại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(reru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "荒い（あらい）",
         "meaning": {
-          "english": "rough, rude, wild, harsh"
+          "english": "rough, rude, wild, harsh |(vi) thô, thô lỗ, hoang dã, khắc nghiệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(reru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "荒々しい（あらあらしい）",
         "meaning": {
-          "english": "rough, wild, harsh, violent"
+          "english": "rough, wild, harsh, violent |(vi) thô bạo, hoang dã, khắc nghiệt, dữ dội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(reru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "荒っぽい（あらっぽい）",
         "meaning": {
-          "english": "rough, rude"
+          "english": "rough, rude |(vi) thô lỗ, thô bạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(reru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "手荒な（てあらな）",
         "meaning": {
-          "english": "violent, rough"
+          "english": "violent, rough |(vi) hung bạo, thô bạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(reru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "荒れる（あれる）",
         "meaning": {
-          "english": "get stormy, get rough, be ruined"
+          "english": "get stormy, get rough, be ruined |(vi) trở nên dữ dội (bão tố), trở nên hoang tàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(reru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "荒れ地（あれち）",
         "meaning": {
-          "english": "devastated or wasted land"
+          "english": "devastated or wasted land |(vi) đất hoang, đất bỏ hoang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(reru)_06_j.opus",
@@ -216,7 +216,7 @@
     "kanji": {
       "character": "荒",
       "meaning": {
-        "english": "wild, violent, rough, devastate"
+        "english": "wild, violent, rough, devastate |(vi) hoang dã, dữ tợn, thô ráp, tàn phá"
       },
       "strokes": {
         "count": 9,
@@ -272,7 +272,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -293,7 +293,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1099",
     "strokeCount": 9,
-    "meaning": "laid waste, rough, rude, wild",
+    "meaning": "laid waste, rough, rude, wild |(vi) bỏ hoang, thô ráp, thô lỗ, hoang dã |(hv) Hoang",
     "kunyomi": [
       "あ.らす",
       "あ.れる",
@@ -309,74 +309,74 @@
       {
         "example": "荒廃",
         "reading": "コウハイ",
-        "meaning": "ruin, destruction, devastation, waste, decay"
+        "meaning": "ruin, destruction, devastation, waste, decay |(vi) hoang phế, đổ nát, tàn phá, suy tàn"
       },
       {
         "example": "荒野",
         "reading": "コウヤ",
-        "meaning": "wasteland, wilderness, deserted land, prairie, vast plain, wilds, desert, wild land"
+        "meaning": "wasteland, wilderness, deserted land, prairie, vast plain, wilds, desert, wild land |(vi) đất hoang, vùng hoang dã, thảo nguyên rộng lớn, sa mạc"
       },
       {
         "example": "破天荒",
         "reading": "ハテンコウ",
-        "meaning": "unheard-of, unprecedented, daring, wild, uninhibited, unconventional, reckless"
+        "meaning": "unheard-of, unprecedented, daring, wild, uninhibited, unconventional, reckless |(vi) chưa từng có, chưa từng nghe, táo bạo, phóng túng, không theo khuôn phép, liều lĩnh"
       },
       {
         "example": "救荒",
         "reading": "キュウコウ",
-        "meaning": "famine relief"
+        "meaning": "famine relief |(vi) cứu trợ nạn đói, cứu tế mất mùa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "荒らす",
         "reading": "あらす",
-        "meaning": "to lay waste, to devastate, to damage, to invade, to break into, to troll (e.g. web forums), to spam"
+        "meaning": "to lay waste, to devastate, to damage, to invade, to break into, to troll (e.g. web forums), to spam |(vi) tàn phá, phá hoại, gây thiệt hại, đột nhập, quấy phá (diễn đàn mạng), spam"
       },
       {
         "example": "粗筋",
         "reading": "あらすじ",
-        "meaning": "outline, summary, argument"
+        "meaning": "outline, summary, argument |(vi) dàn ý, tóm tắt, đại cương"
       },
       {
         "example": "荒れる",
         "reading": "あれる",
-        "meaning": "to become stormy, to become rough (of the sea), to fall into ruin, to become neglected, to become dilapidated, to become rough (of skin), to get chapped, to become unruly, to become violent, to go wild, to get out of control, to become unsettled (e.g. of one's life), to become disordered"
+        "meaning": "to become stormy, to become rough (of the sea), to fall into ruin, to become neglected, to become dilapidated, to become rough (of skin), to get chapped, to become unruly, to become violent, to go wild, to get out of control, to become unsettled (e.g. of one's life), to become disordered |(vi) trở nên dữ dội (biển), rơi vào hoang phế, bị bỏ bê, xuống cấp, trở nên thô ráp (da), nứt nẻ, trở nên hung hãn, mất kiểm soát, bất ổn (cuộc sống), trở nên rối loạn"
       },
       {
         "example": "荒い",
         "reading": "あらい",
-        "meaning": "rough, wild, violent, rude, coarse, harsh, fierce, heavy (e.g. breathing), immoderate, extravagant, reckless"
+        "meaning": "rough, wild, violent, rude, coarse, harsh, fierce, heavy (e.g. breathing), immoderate, extravagant, reckless |(vi) thô, hoang dã, hung bạo, thô lỗ, gay gắt, dữ dội, nặng nề (hơi thở), quá mức, liều lĩnh"
       },
       {
         "example": "荒石",
         "reading": "あらいし",
-        "meaning": "unprocessed stone, rubble"
+        "meaning": "unprocessed stone, rubble |(vi) đá thô chưa qua xử lý, đá vụn"
       },
       {
         "example": "荒ぶ",
         "reading": "すさぶ",
-        "meaning": "to grow wild, to run to waste, to become degenerate, to become rough (of art, craft, etc.), to lose refinement, to deteriorate (of skill), to intensify (of wind, rain, etc.), to become more severe, to do as one pleases, to amuse oneself, to play around"
+        "meaning": "to grow wild, to run to waste, to become degenerate, to become rough (of art, craft, etc.), to lose refinement, to deteriorate (of skill), to intensify (of wind, rain, etc.), to become more severe, to do as one pleases, to amuse oneself, to play around |(vi) trở nên hoang dại, bỏ phí, sa sút, trở nên thô vụng (nghệ thuật, kỹ nghệ), mất tinh tế, suy giảm (kỹ năng), trở nên dữ dội hơn (gió, mưa), trở nên nghiêm trọng hơn, sống buông thả, tự tiêu khiển, đùa giỡn"
       },
       {
         "example": "荒む",
         "reading": "すさむ",
-        "meaning": "to grow wild, to run to waste, to become degenerate, to become rough (of art, craft, etc.), to lose refinement, to deteriorate (of skill), to intensify (of wind, rain, etc.), to become more severe"
+        "meaning": "to grow wild, to run to waste, to become degenerate, to become rough (of art, craft, etc.), to lose refinement, to deteriorate (of skill), to intensify (of wind, rain, etc.), to become more severe |(vi) trở nên hoang dại, bỏ phí, sa sút, trở nên thô vụng (nghệ thuật, kỹ nghệ), mất tinh tế, suy giảm (kỹ năng), trở nên dữ dội hơn (gió, mưa), trở nên nghiêm trọng hơn"
       },
       {
         "example": "荒らし",
         "reading": "あらし",
-        "meaning": "(Internet) troll, disturber, raising havoc, laying waste, trolling, vandalism, robbery, holdup, robber, thief"
+        "meaning": "(Internet) troll, disturber, raising havoc, laying waste, trolling, vandalism, robbery, holdup, robber, thief |(vi) kẻ quấy phá (trên mạng), kẻ gây rối, gây náo loạn, phá hoại, quấy phá, phá hoại tài sản, cướp bóc, cướp giật, kẻ cướp, kẻ trộm"
       },
       {
         "example": "荒らし回る",
         "reading": "あらしまわる",
-        "meaning": "to break into (houses here and there), to rampage"
+        "meaning": "to break into (houses here and there), to rampage |(vi) đột nhập (nhiều nhà liên tiếp), hoành hành"
       },
       {
         "example": "山荒",
         "reading": "やまあらし",
-        "meaning": "porcupine, hedgehog"
+        "meaning": "porcupine, hedgehog |(vi) nhím"
       }
     ],
     "radical": {
@@ -384,7 +384,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "亡",

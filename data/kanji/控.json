@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "hika, hikaeru, hikae",
-    "meaning": "hold back, refrain from, wait",
+    "meaning": "hold back, refrain from, wait |(vi) kìm lại, kiềm chế, tránh, chờ đợi",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "控訴する（こうそする）",
         "meaning": {
-          "english": "appeal [v.t.]"
+          "english": "appeal [v.t.] |(vi) kháng cáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hika(eru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "控除する（こうじょする）",
         "meaning": {
-          "english": "deduct, subtract"
+          "english": "deduct, subtract |(vi) khấu trừ, trừ đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hika(eru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "控える（ひかえる）",
         "meaning": {
-          "english": "restrain oneself, hold back, wait"
+          "english": "restrain oneself, hold back, wait |(vi) kiềm chế bản thân, kìm lại, chờ đợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hika(eru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "控え室（ひかえしつ）",
         "meaning": {
-          "english": "waiting room"
+          "english": "waiting room |(vi) phòng chờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hika(eru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "控え目な（ひかえめな）",
         "meaning": {
-          "english": "moderate, reserved, humble"
+          "english": "moderate, reserved, humble |(vi) khiêm tốn, dè dặt, kín đáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hika(eru)_06_e.opus",
@@ -166,7 +166,7 @@
     "kanji": {
       "character": "控",
       "meaning": {
-        "english": "hold back, refrain from, wait"
+        "english": "hold back, refrain from, wait |(vi) kìm lại, kiềm chế, tránh, chờ đợi"
       },
       "strokes": {
         "count": 11,
@@ -226,7 +226,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -247,7 +247,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1000",
     "strokeCount": 11,
-    "meaning": "withdraw, draw in, hold back, refrain from, be moderate",
+    "meaning": "withdraw, draw in, hold back, refrain from, be moderate |(vi) rút lui, thu vào, kìm lại, tránh, điều độ |(hv) Khống",
     "kunyomi": [
       "ひか.える",
       "ひか.え"
@@ -259,34 +259,34 @@
       {
         "example": "控訴",
         "reading": "コウソ",
-        "meaning": "appeal to a higher court, intermediate appeal"
+        "meaning": "appeal to a higher court, intermediate appeal |(vi) kháng cáo lên tòa cấp cao hơn, kháng cáo trung gian"
       },
       {
         "example": "控除",
         "reading": "コウジョ",
-        "meaning": "subtraction, deduction (e.g. of tax)"
+        "meaning": "subtraction, deduction (e.g. of tax) |(vi) khấu trừ, giảm trừ (ví dụ thuế)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "控える",
         "reading": "ひかえる",
-        "meaning": "to be temperate in, to refrain, to abstain, to hold back, to restrain oneself from excessive ..., to make notes, to jot down (e.g. phone number), to be in preparation for, to be in waiting for, to be soon, to be in the offing, to be in a close relationship (e.g. as a backer, etc.)"
+        "meaning": "to be temperate in, to refrain, to abstain, to hold back, to restrain oneself from excessive ..., to make notes, to jot down (e.g. phone number), to be in preparation for, to be in waiting for, to be soon, to be in the offing, to be in a close relationship (e.g. as a backer, etc.) |(vi) tiết chế, kiềm chế, kiêng, kìm lại, tự chế bản thân khỏi việc quá mức, ghi chú, ghi lại (ví dụ số điện thoại), chuẩn bị cho, chờ đợi, sắp diễn ra, có quan hệ gần gũi (ví dụ là người hậu thuẫn)"
       },
       {
         "example": "控え",
         "reading": "ひかえ",
-        "meaning": "reserve, spare, backup, note, memorandum, duplicate, copy, stub (of a ticket, etc.), receipt, waiting one's turn"
+        "meaning": "reserve, spare, backup, note, memorandum, duplicate, copy, stub (of a ticket, etc.), receipt, waiting one's turn |(vi) bản dự phòng, bản sao, ghi chú, biên bản, cuống (vé...), biên nhận, chờ đến lượt"
       },
       {
         "example": "控え室",
         "reading": "ひかえしつ",
-        "meaning": "waiting room, anteroom, antechamber, green room"
+        "meaning": "waiting room, anteroom, antechamber, green room |(vi) phòng chờ, phòng đợi, hậu trường"
       },
       {
         "example": "お客様控え",
         "reading": "おきゃくさまひかえ",
-        "meaning": "customer copy (of a receipt, etc.)"
+        "meaning": "customer copy (of a receipt, etc.) |(vi) bản lưu cho khách hàng (biên nhận, v.v.)"
       }
     ],
     "radical": {
@@ -294,7 +294,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "儿",

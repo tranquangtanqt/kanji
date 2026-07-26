@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "yoroko, yorokobu, yorokobi, yorokobasu",
-    "meaning": "happy, happiness, be glad",
+    "meaning": "happy, happiness, be glad |(vi) vui vẻ, hạnh phúc, mừng rỡ",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "歓喜する（かんきする）",
         "meaning": {
-          "english": "rejoice"
+          "english": "rejoice |(vi) hoan hỷ, vui mừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yoroko(bu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "喜劇（きげき）",
         "meaning": {
-          "english": "comedy"
+          "english": "comedy |(vi) hài kịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yoroko(bu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "一喜一憂（いっきいちゆう）",
         "meaning": {
-          "english": "mixed blessings"
+          "english": "mixed blessings |(vi) vừa mừng vừa lo, buồn vui lẫn lộn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yoroko(bu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "喜ぶ（よろこぶ）",
         "meaning": {
-          "english": "be delighted [v.i.]"
+          "english": "be delighted [v.i.] |(vi) vui mừng, hân hoan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yoroko(bu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "喜ばす（よろこばす）",
         "meaning": {
-          "english": "give pleasure, please [v.t.]"
+          "english": "give pleasure, please [v.t.] |(vi) làm cho vui, làm hài lòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yoroko(bu)_06_e.opus",
@@ -226,7 +226,7 @@
     "kanji": {
       "character": "喜",
       "meaning": {
-        "english": "happy, happiness, be glad"
+        "english": "happy, happiness, be glad |(vi) vui vẻ, hạnh phúc, mừng rỡ"
       },
       "strokes": {
         "count": 12,
@@ -288,7 +288,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng, lỗ mở)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -309,7 +309,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "769",
     "strokeCount": 12,
-    "meaning": "rejoice, take pleasure in",
+    "meaning": "rejoice, take pleasure in |(vi) vui mừng, lấy làm vui thích |(hv) Hỷ",
     "kunyomi": [
       "よろこ.ぶ",
       "よろこ.ばす"
@@ -321,39 +321,39 @@
       {
         "example": "喜劇",
         "reading": "キゲキ",
-        "meaning": "comedy"
+        "meaning": "comedy |(vi) hài kịch"
       },
       {
         "example": "喜寿",
         "reading": "キジュ",
-        "meaning": "77th birthday"
+        "meaning": "77th birthday |(vi) lễ mừng thọ 77 tuổi"
       },
       {
         "example": "歓喜",
         "reading": "カンキ",
-        "meaning": "delight, great joy"
+        "meaning": "delight, great joy |(vi) hoan hỷ, vui sướng tột độ"
       },
       {
         "example": "悲喜",
         "reading": "ヒキ",
-        "meaning": "joys and sorrows"
+        "meaning": "joys and sorrows |(vi) buồn vui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "喜ぶ",
         "reading": "よろこぶ",
-        "meaning": "to be delighted, to be glad, to be pleased, to rejoice, to congratulate, to welcome (a proposal, advice, etc.), to take kindly to, to do with pleasure, to do gladly, to be happy (to do)"
+        "meaning": "to be delighted, to be glad, to be pleased, to rejoice, to congratulate, to welcome (a proposal, advice, etc.), to take kindly to, to do with pleasure, to do gladly, to be happy (to do) |(vi) vui mừng, hân hoan, chúc mừng, hoan nghênh (đề xuất...), sẵn lòng làm điều gì"
       },
       {
         "example": "喜ばす",
         "reading": "よろこばす",
-        "meaning": "to delight, to please, to make (someone) happy, to give pleasure (to)"
+        "meaning": "to delight, to please, to make (someone) happy, to give pleasure (to) |(vi) làm cho vui, làm hài lòng, khiến ai đó hạnh phúc"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "口",

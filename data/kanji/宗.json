@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "religious sect, religion",
+    "meaning": "religious sect, religion |(vi) tông phái, tôn giáo",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "宗教（しゅうきょう）",
         "meaning": {
-          "english": "religion"
+          "english": "religion |(vi) tôn giáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(kyou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "宗派（しゅうは）",
         "meaning": {
-          "english": "sect, denomination"
+          "english": "sect, denomination |(vi) tông phái, hệ phái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(kyou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "浄土宗（じょうどしゅう）",
         "meaning": {
-          "english": "Pure Land sect, Jodo"
+          "english": "Pure Land sect, Jodo |(vi) Tịnh Độ tông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(kyou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "天台宗（てんだいしゅう）",
         "meaning": {
-          "english": "Tendai sect"
+          "english": "Tendai sect |(vi) Thiên Thai tông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(kyou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "真言宗（しんごんしゅう）",
         "meaning": {
-          "english": "mantra sect, Shingon"
+          "english": "mantra sect, Shingon |(vi) Chân Ngôn tông (Shingon)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(kyou)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "改宗する（かいしゅうする）",
         "meaning": {
-          "english": "convert oneself [v.i.]"
+          "english": "convert oneself [v.i.] |(vi) cải tông, cải đạo [tự động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(kyou)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "宗家（そうけ）",
         "meaning": {
-          "english": "head family of families"
+          "english": "head family of families |(vi) tông gia, dòng họ trưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(kyou)_06_g.opus",
@@ -196,7 +196,7 @@
     "kanji": {
       "character": "宗",
       "meaning": {
-        "english": "religious sect, religion"
+        "english": "religious sect, religion |(vi) tông phái, tôn giáo"
       },
       "strokes": {
         "count": 8,
@@ -250,7 +250,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà, nhà cửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -271,7 +271,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "997",
     "strokeCount": 8,
-    "meaning": "religion, sect, denomination, main point, origin, essence",
+    "meaning": "religion, sect, denomination, main point, origin, essence |(vi) tôn giáo, tông phái, hệ phái, điểm cốt yếu, cội nguồn, tinh túy |(hv) Tông",
     "kunyomi": [
       "むね"
     ],
@@ -283,64 +283,64 @@
       {
         "example": "宗",
         "reading": "シュウ",
-        "meaning": "sect, denomination, tenets (of a religious sect)"
+        "meaning": "sect, denomination, tenets (of a religious sect) |(vi) tông phái, hệ phái, giáo lý (của một tông phái)"
       },
       {
         "example": "宗教",
         "reading": "シュウキョウ",
-        "meaning": "religion, religious affiliation, belief, faith, creed, religious activity"
+        "meaning": "religion, religious affiliation, belief, faith, creed, religious activity |(vi) tôn giáo, tín ngưỡng theo, niềm tin, đức tin, tín điều, hoạt động tôn giáo"
       },
       {
         "example": "浄土真宗",
         "reading": "ジョウドシンシュウ",
-        "meaning": "Jōdo Shinshū (offshoot of the Jōdo sect), True Pure Land School"
+        "meaning": "Jōdo Shinshū (offshoot of the Jōdo sect), True Pure Land School |(vi) Tịnh Độ Chân tông (nhánh tách từ Tịnh Độ tông)"
       },
       {
         "example": "浄土宗",
         "reading": "ジョウドシュウ",
-        "meaning": "Pure Land sect (of Buddhism), Jodo (sect)"
+        "meaning": "Pure Land sect (of Buddhism), Jodo (sect) |(vi) Tịnh Độ tông (Phật giáo)"
       },
       {
         "example": "宗",
         "reading": "ソウ",
-        "meaning": "origin, source, virtuous ancestor"
+        "meaning": "origin, source, virtuous ancestor |(vi) cội nguồn, gốc rễ, tổ tiên đức hạnh"
       },
       {
         "example": "宗家",
         "reading": "ソウケ",
-        "meaning": "head of family, head house, sōke, founder (of a style, etc.), originator"
+        "meaning": "head of family, head house, sōke, founder (of a style, etc.), originator |(vi) tông gia, trưởng tộc, nhà trưởng, sōke, người khai sáng (một lưu phái...), thủy tổ"
       },
       {
         "example": "大宗",
         "reading": "タイソウ",
-        "meaning": "leading figure, foundation"
+        "meaning": "leading figure, foundation |(vi) đại tông, nhân vật đứng đầu, nền tảng"
       },
       {
         "example": "皇宗",
         "reading": "コウソウ",
-        "meaning": "imperial ancestors"
+        "meaning": "imperial ancestors |(vi) hoàng tông, tổ tiên hoàng gia"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "旨",
         "reading": "むね",
-        "meaning": "principle, aim, main purpose, central part, pillar, purport, gist, drift, meaning, instructions, orders, intention, wishes"
+        "meaning": "principle, aim, main purpose, central part, pillar, purport, gist, drift, meaning, instructions, orders, intention, wishes |(vi) nguyên tắc, mục tiêu, mục đích chính, phần cốt lõi, trụ cột, chủ ý, đại ý, hàm ý, ý nghĩa, chỉ thị, mệnh lệnh, ý định, nguyện vọng"
       },
       {
         "example": "正宗",
         "reading": "まさむね",
-        "meaning": "famous sword, sword blade by Masamune, sake, Japanese rice wine, brand of sake from Nada region during Tenpō era (1830-1844)"
+        "meaning": "famous sword, sword blade by Masamune, sake, Japanese rice wine, brand of sake from Nada region during Tenpō era (1830-1844) |(vi) danh kiếm, lưỡi kiếm do Masamune rèn, rượu sake, rượu gạo Nhật, hiệu sake vùng Nada thời Tenpō (1830–1844)"
       },
       {
         "example": "独眼竜政宗",
         "reading": "どくがんりゅうまさむね",
-        "meaning": "Dokuganryū Masamune (NHK Taiga drama, 1987)"
+        "meaning": "Dokuganryū Masamune (NHK Taiga drama, 1987) |(vi) Độc Nhãn Long Masamune (phim Taiga của NHK, 1987)"
       }
     ],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà)"
     },
     "parts": [
       "二",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 3,
     "kunyomi": "hashi",
-    "meaning": "bridge",
+    "meaning": "bridge |(vi) cầu",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "歩道橋（ほどうきょう）",
         "meaning": {
-          "english": "pedestrian bridge"
+          "english": "pedestrian bridge |(vi) cầu vượt cho người đi bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-hashi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "鉄橋（てっきょう）",
         "meaning": {
-          "english": "iron bridge"
+          "english": "iron bridge |(vi) cầu sắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-hashi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "橋（はし）",
         "meaning": {
-          "english": "bridge"
+          "english": "bridge |(vi) cầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-hashi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "吊り橋（つりばし）",
         "meaning": {
-          "english": "suspension bridge"
+          "english": "suspension bridge |(vi) cầu treo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou-hashi_06_d.opus",
@@ -190,7 +190,7 @@
     "kanji": {
       "character": "橋",
       "meaning": {
-        "english": "bridge"
+        "english": "bridge |(vi) cầu"
       },
       "strokes": {
         "count": 16,
@@ -260,7 +260,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -281,7 +281,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "553",
     "strokeCount": 16,
-    "meaning": "bridge",
+    "meaning": "bridge |(vi) cầu |(hv) Kiều",
     "kunyomi": [
       "はし"
     ],
@@ -292,49 +292,49 @@
       {
         "example": "橋",
         "reading": "キョウ",
-        "meaning": "pons, pons Varolii"
+        "meaning": "pons, pons Varolii |(vi) cầu não"
       },
       {
         "example": "橋脚",
         "reading": "キョウキャク",
-        "meaning": "bridge pier, pontoon bridge"
+        "meaning": "bridge pier, pontoon bridge |(vi) trụ cầu, cầu phao"
       },
       {
         "example": "桟橋",
         "reading": "サンバシ",
-        "meaning": "wharf, bridge, jetty, pier"
+        "meaning": "wharf, bridge, jetty, pier |(vi) cầu tàu, bến tàu, cầu cảng"
       },
       {
         "example": "石橋",
         "reading": "イシバシ",
-        "meaning": "stone bridge"
+        "meaning": "stone bridge |(vi) cầu đá"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "橋",
         "reading": "はし",
-        "meaning": "bridge"
+        "meaning": "bridge |(vi) cầu"
       },
       {
         "example": "橋渡し",
         "reading": "はしわたし",
-        "meaning": "mediation, good offices, go-between, intermediary, mediator, bridge (between), building a bridge"
+        "meaning": "mediation, good offices, go-between, intermediary, mediator, bridge (between), building a bridge |(vi) làm trung gian, mai mối, cầu nối, bắc cầu"
       },
       {
         "example": "船橋",
         "reading": "ふなばし",
-        "meaning": "pontoon bridge, floating bridge, bridge (of a ship)"
+        "meaning": "pontoon bridge, floating bridge, bridge (of a ship) |(vi) cầu phao, cầu nổi, đài chỉ huy tàu"
       },
       {
         "example": "大橋",
         "reading": "おおはし",
-        "meaning": "large bridge, big bridge"
+        "meaning": "large bridge, big bridge |(vi) cầu lớn"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "ノ",

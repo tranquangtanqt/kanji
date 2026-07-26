@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "sakura",
-    "meaning": "cherry",
+    "meaning": "cherry |(vi) hoa anh đào, cây anh đào",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "桜桃（おうとう）",
         "meaning": {
-          "english": "cherry"
+          "english": "cherry |(vi) quả anh đào (cherry)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "桜（さくら）",
         "meaning": {
-          "english": "cherry tree or blossom, decoy"
+          "english": "cherry tree or blossom, decoy |(vi) cây/hoa anh đào, người/vật mồi (cò mồi)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "桜ん坊（さくらんぼ）",
         "meaning": {
-          "english": "cherry"
+          "english": "cherry |(vi) quả anh đào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "山桜（やまざくら）",
         "meaning": {
-          "english": "wild cherry tree or blossoms"
+          "english": "wild cherry tree or blossoms |(vi) anh đào rừng (hoang dã)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "八重桜（やえざくら）",
         "meaning": {
-          "english": "double-flowered cherry tree"
+          "english": "double-flowered cherry tree |(vi) anh đào cánh kép (bát trọng anh)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_e.opus",
@@ -156,7 +156,7 @@
     "kanji": {
       "character": "桜",
       "meaning": {
-        "english": "cherry"
+        "english": "cherry |(vi) hoa anh đào, cây anh đào"
       },
       "strokes": {
         "count": 10,
@@ -214,7 +214,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -235,7 +235,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1237",
     "strokeCount": 10,
-    "meaning": "cherry",
+    "meaning": "cherry |(vi) hoa anh đào, cây anh đào |(hv) Anh",
     "kunyomi": [
       "さくら"
     ],
@@ -247,39 +247,39 @@
       {
         "example": "桜花",
         "reading": "オウカ",
-        "meaning": "cherry blossom"
+        "meaning": "cherry blossom |(vi) hoa anh đào"
       },
       {
         "example": "桜花学園大学",
         "reading": "オウカガクエンダイガク",
-        "meaning": "Ohkagakuen University"
+        "meaning": "Ohkagakuen University |(vi) Đại học Oka Gakuen"
       },
       {
         "example": "観桜",
         "reading": "カンオウ",
-        "meaning": "cherry blossom viewing"
+        "meaning": "cherry blossom viewing |(vi) ngắm hoa anh đào"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "桜",
         "reading": "さくら",
-        "meaning": "cherry tree, cherry blossom, fake buyer, paid audience, shill, seat filler, hired applauder, horse meat"
+        "meaning": "cherry tree, cherry blossom, fake buyer, paid audience, shill, seat filler, hired applauder, horse meat |(vi) cây/hoa anh đào, người mua giả (cò mồi), khán giả được thuê, người vỗ tay thuê, thịt ngựa"
       },
       {
         "example": "桜花",
         "reading": "おうか",
-        "meaning": "cherry blossom"
+        "meaning": "cherry blossom |(vi) hoa anh đào"
       },
       {
         "example": "左近の桜",
         "reading": "さこんのさくら",
-        "meaning": "cherry tree east of the southern stairs of the Hall for State Ceremonies (in Heian Palace)"
+        "meaning": "cherry tree east of the southern stairs of the Hall for State Ceremonies (in Heian Palace) |(vi) cây anh đào phía đông bậc thềm nam của Điện nghi lễ quốc gia (trong Hoàng cung Heian)"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "女",

@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "to",
-    "meaning": "door, household",
+    "meaning": "door, household |(vi) cửa, hộ gia đình",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "戸籍（こせき）",
         "meaning": {
-          "english": "census, family register"
+          "english": "census, family register |(vi) hộ tịch, sổ hộ khẩu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "戸主（こしゅ）",
         "meaning": {
-          "english": "head of a household"
+          "english": "head of a household |(vi) chủ hộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "戸外（こがい）",
         "meaning": {
-          "english": "open-air, outdoors"
+          "english": "open-air, outdoors |(vi) ngoài trời, ngoài cửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "門戸（もんこ）",
         "meaning": {
-          "english": "gate and door"
+          "english": "gate and door |(vi) cổng và cửa, cửa ngõ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "戸（と）",
         "meaning": {
-          "english": "door"
+          "english": "door |(vi) cửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "戸棚（とだな）",
         "meaning": {
-          "english": "cupboard"
+          "english": "cupboard |(vi) tủ, tủ đựng đồ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "雨戸（あまど）",
         "meaning": {
-          "english": "sliding storm door"
+          "english": "sliding storm door |(vi) cửa chắn mưa (kiểu trượt)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "井戸（いど）",
         "meaning": {
-          "english": "water well"
+          "english": "water well |(vi) giếng nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "ガラス戸（ガラスど）",
         "meaning": {
-          "english": "glass door"
+          "english": "glass door |(vi) cửa kính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_i.opus",
@@ -220,7 +220,7 @@
     "kanji": {
       "character": "戸",
       "meaning": {
-        "english": "door, household"
+        "english": "door, household |(vi) cửa, hộ gia đình"
       },
       "strokes": {
         "count": 4,
@@ -266,7 +266,7 @@
         "romaji": "to"
       },
       "meaning": {
-        "english": "door"
+        "english": "door |(vi) Hộ (cửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/to0.svg",
@@ -287,7 +287,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "575",
     "strokeCount": 4,
-    "meaning": "door, counter for houses, door radical (no. 63)",
+    "meaning": "door, counter for houses, door radical (no. 63) |(vi) cửa, lượng từ đếm nhà, bộ Hộ (bộ thủ số 63) |(hv) Hộ",
     "kunyomi": [
       "と"
     ],
@@ -298,44 +298,44 @@
       {
         "example": "戸",
         "reading": "コ",
-        "meaning": "counter for houses, households, apartments, etc."
+        "meaning": "counter for houses, households, apartments, etc. |(vi) lượng từ đếm nhà, hộ gia đình, căn hộ..."
       },
       {
         "example": "戸外",
         "reading": "コガイ",
-        "meaning": "open air, outdoors, outside"
+        "meaning": "open air, outdoors, outside |(vi) ngoài trời, ngoài cửa, bên ngoài"
       },
       {
         "example": "一戸",
         "reading": "イッコ",
-        "meaning": "one house, household"
+        "meaning": "one house, household |(vi) một căn nhà, một hộ gia đình"
       },
       {
         "example": "下戸",
         "reading": "ゲコ",
-        "meaning": "non-drinker, someone who cannot drink"
+        "meaning": "non-drinker, someone who cannot drink |(vi) người không biết uống rượu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "戸",
         "reading": "と",
-        "meaning": "door (esp. Japanese-style), shutter, window shutter, entrance (to a home), narrows"
+        "meaning": "door (esp. Japanese-style), shutter, window shutter, entrance (to a home), narrows |(vi) cửa (kiểu Nhật), cửa chớp, cửa sổ, lối vào nhà, eo biển hẹp"
       },
       {
         "example": "戸惑い",
         "reading": "とまどい",
-        "meaning": "being at sea, losing one's bearings, confusion, wonderment, disorientation upon waking at night, forgetting which house or room to enter"
+        "meaning": "being at sea, losing one's bearings, confusion, wonderment, disorientation upon waking at night, forgetting which house or room to enter |(vi) bối rối, lạc lối, mất phương hướng, ngơ ngác"
       },
       {
         "example": "鳴門",
         "reading": "なると",
-        "meaning": "strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto (city in Tokushima), Naruto Strait, Naruto wakame"
+        "meaning": "strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto (city in Tokushima), Naruto Strait, Naruto wakame |(vi) eo biển có thủy triều xoáy mạnh, xoáy nước, chả cá kamaboko có vân xoắn ốc, Naruto (thành phố ở Tokushima), eo biển Naruto, rong biển wakame Naruto"
       },
       {
         "example": "大戸",
         "reading": "おおど",
-        "meaning": "main door at the front of a house, front shutters"
+        "meaning": "main door at the front of a house, front shutters |(vi) cửa chính phía trước nhà, cửa chớp lớn phía trước"
       }
     ],
     "radical": {
@@ -344,7 +344,7 @@
         "户",
         "戸"
       ],
-      "meaning": "door, house"
+      "meaning": "door, house |(vi) Hộ (cửa, nhà)"
     },
     "parts": [
       "一",

@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "i, iu, koto",
-    "meaning": "say, speech",
+    "meaning": "say, speech |(vi) nói, lời nói",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "断言する（だんげんする）",
         "meaning": {
-          "english": "assert"
+          "english": "assert |(vi) khẳng định, quả quyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "証言する（しょうげんする）",
         "meaning": {
-          "english": "testify"
+          "english": "testify |(vi) làm chứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "言語学（げんごがく）",
         "meaning": {
-          "english": "linguistics"
+          "english": "linguistics |(vi) ngôn ngữ học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "方言（ほうげん）",
         "meaning": {
-          "english": "dialect"
+          "english": "dialect |(vi) phương ngữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "伝言する（でんごんする）",
         "meaning": {
-          "english": "leave a message"
+          "english": "leave a message |(vi) nhắn lại lời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "無言（むごん）",
         "meaning": {
-          "english": "silence"
+          "english": "silence |(vi) im lặng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "言う（いう）",
         "meaning": {
-          "english": "say"
+          "english": "say |(vi) nói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "言葉（ことば）",
         "meaning": {
-          "english": "word(s), language"
+          "english": "word(s), language |(vi) từ ngữ, ngôn ngữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "一言（ひとこと）",
         "meaning": {
-          "english": "single word"
+          "english": "single word |(vi) một lời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "独り言（ひとりごと）",
         "meaning": {
-          "english": "soliloquy"
+          "english": "soliloquy |(vi) lời độc thoại, tự nói một mình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "寝言（ねごと）",
         "meaning": {
-          "english": "talk in one's sleep"
+          "english": "talk in one's sleep |(vi) nói mê (khi ngủ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_k.opus",
@@ -307,7 +307,7 @@
     "kanji": {
       "character": "言",
       "meaning": {
-        "english": "say, speech"
+        "english": "say, speech |(vi) nói, lời nói"
       },
       "strokes": {
         "count": 7,
@@ -359,7 +359,7 @@
         "romaji": "gen"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói, nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gen-word0.svg",
@@ -380,7 +380,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "83",
     "strokeCount": 7,
-    "meaning": "say, word",
+    "meaning": "say, word |(vi) nói, lời, từ ngữ |(hv) Ngôn",
     "kunyomi": [
       "い.う",
       "こと"
@@ -393,74 +393,74 @@
       {
         "example": "言",
         "reading": "ゲン",
-        "meaning": "word, remark, statement"
+        "meaning": "word, remark, statement |(vi) từ, lời nhận xét, câu nói"
       },
       {
         "example": "言及",
         "reading": "ゲンキュウ",
-        "meaning": "reference, allusion"
+        "meaning": "reference, allusion |(vi) sự đề cập, sự ám chỉ"
       },
       {
         "example": "過言",
         "reading": "カゴン",
-        "meaning": "exaggeration, overstatement, saying too much, misstatement, slip of the tongue, gaffe"
+        "meaning": "exaggeration, overstatement, saying too much, misstatement, slip of the tongue, gaffe |(vi) nói quá lời, nói phóng đại, lỡ lời"
       },
       {
         "example": "狂言",
         "reading": "キョウゲン",
-        "meaning": "kyogen, farce presented between noh plays or during the interlude of a noh play, kabuki play, kabuki performance, make-believe, ruse, trick"
+        "meaning": "kyogen, farce presented between noh plays or during the interlude of a noh play, kabuki play, kabuki performance, make-believe, ruse, trick |(vi) kyogen, vở hài kịch xen giữa các vở noh, vở kabuki, trò giả vờ, mưu kế"
       },
       {
         "example": "言語",
         "reading": "ゲンゴ",
-        "meaning": "language"
+        "meaning": "language |(vi) ngôn ngữ"
       },
       {
         "example": "言下",
         "reading": "ゲンカ",
-        "meaning": "promptly"
+        "meaning": "promptly |(vi) ngay lập tức (khi vừa nghe nói)"
       },
       {
         "example": "過言",
         "reading": "カゴン",
-        "meaning": "exaggeration, overstatement, saying too much, misstatement, slip of the tongue, gaffe"
+        "meaning": "exaggeration, overstatement, saying too much, misstatement, slip of the tongue, gaffe |(vi) nói quá lời, nói phóng đại, lỡ lời"
       },
       {
         "example": "二言",
         "reading": "ニゴン",
-        "meaning": "double-dealing, double tongue, going back on what one has said, repeating oneself"
+        "meaning": "double-dealing, double tongue, going back on what one has said, repeating oneself |(vi) nói hai lời, nuốt lời, nói đi nói lại"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "言う",
         "reading": "いう",
-        "meaning": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise"
+        "meaning": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise |(vi) nói, thốt ra, tuyên bố, gọi tên, kêu, phát ra tiếng"
       },
       {
         "example": "言うまでもない",
         "reading": "いうまでもない",
-        "meaning": "goes without saying, needless to say, obvious"
+        "meaning": "goes without saying, needless to say, obvious |(vi) không cần nói cũng biết, hiển nhiên, khỏi cần bàn"
       },
       {
         "example": "言",
         "reading": "げん",
-        "meaning": "word, remark, statement"
+        "meaning": "word, remark, statement |(vi) từ, lời nhận xét, câu nói"
       },
       {
         "example": "言葉",
         "reading": "ことば",
-        "meaning": "language, dialect, word, phrase, expression, term, speech, (manner of) speaking, (use of) language, words, remark, statement, comment, learning to speak, language acquisition"
+        "meaning": "language, dialect, word, phrase, expression, term, speech, (manner of) speaking, (use of) language, words, remark, statement, comment, learning to speak, language acquisition |(vi) ngôn ngữ, phương ngữ, từ ngữ, cách diễn đạt, cách nói, việc học nói"
       },
       {
         "example": "禍言",
         "reading": "まがごと",
-        "meaning": "ominous word, ill-omened word, misfortune"
+        "meaning": "ominous word, ill-omened word, misfortune |(vi) lời gở, lời xui xẻo, điềm gở"
       },
       {
         "example": "二言",
         "reading": "ふたこと",
-        "meaning": "two words, repetition"
+        "meaning": "two words, repetition |(vi) hai lời, sự lặp lại"
       }
     ],
     "radical": {
@@ -468,7 +468,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói, nói)"
     },
     "parts": [
       "言"

@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "quality, matter",
+    "meaning": "quality, matter |(vi) chất lượng, chất",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "質問する（しつもんする）",
         "meaning": {
-          "english": "inquire"
+          "english": "inquire |(vi) hỏi, chất vấn, đặt câu hỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu(mon)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "本質（ほんしつ）",
         "meaning": {
-          "english": "essence"
+          "english": "essence |(vi) bản chất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu(mon)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "体質（たいしつ）",
         "meaning": {
-          "english": "(physical) constitution"
+          "english": "(physical) constitution |(vi) thể chất, tạng người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu(mon)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "性質（せいしつ）",
         "meaning": {
-          "english": "nature, personality"
+          "english": "nature, personality |(vi) tính chất, tính cách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu(mon)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "素質（そしつ）",
         "meaning": {
-          "english": "qualities"
+          "english": "qualities |(vi) tố chất, tư chất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu(mon)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "特質（とくしつ）",
         "meaning": {
-          "english": "characteristic"
+          "english": "characteristic |(vi) đặc chất, đặc tính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu(mon)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "質屋（しちや）",
         "meaning": {
-          "english": "pawnshop"
+          "english": "pawnshop |(vi) tiệm cầm đồ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu(mon)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "人質（ひとじち）",
         "meaning": {
-          "english": "hostage"
+          "english": "hostage |(vi) con tin"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu(mon)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "質素な（しっそな）",
         "meaning": {
-          "english": "simple"
+          "english": "simple |(vi) giản dị, mộc mạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu(mon)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "言質を取る（げんちをとる）",
         "meaning": {
-          "english": "keep someone to a pledge"
+          "english": "keep someone to a pledge |(vi) buộc ai giữ lời hứa, lấy lời cam kết của ai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu(mon)_06_j.opus",
@@ -252,7 +252,7 @@
     "kanji": {
       "character": "質",
       "meaning": {
-        "english": "quality, matter"
+        "english": "quality, matter |(vi) chất lượng, chất"
       },
       "strokes": {
         "count": 15,
@@ -320,7 +320,7 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (vỏ sò, tài sản, của cải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -341,7 +341,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "389",
     "strokeCount": 15,
-    "meaning": "substance, quality, matter, temperament",
+    "meaning": "substance, quality, matter, temperament |(vi) chất, chất lượng, vật chất, tính khí |(hv) Chất",
     "kunyomi": [
       "たち",
       "ただ.す",
@@ -357,74 +357,74 @@
       {
         "example": "質",
         "reading": "シツ",
-        "meaning": "quality, value, nature, inherent quality, character, logical quality"
+        "meaning": "quality, value, nature, inherent quality, character, logical quality |(vi) chất lượng, giá trị, bản tính, chất vốn có, tính cách, chất (trong logic)"
       },
       {
         "example": "質疑",
         "reading": "シツギ",
-        "meaning": "question, interpellation"
+        "meaning": "question, interpellation |(vi) chất vấn, sự chất vấn, câu hỏi"
       },
       {
         "example": "変質",
         "reading": "ヘンシツ",
-        "meaning": "alteration (of character or essence), change in quality, transformation, deterioration, degeneration, transmutation, perversion (esp. sexual)"
+        "meaning": "alteration (of character or essence), change in quality, transformation, deterioration, degeneration, transmutation, perversion (esp. sexual) |(vi) biến chất, thay đổi tính chất, biến đổi, suy thoái, thoái hóa, chuyển hóa, lệch lạc (nhất là về tình dục)"
       },
       {
         "example": "タンパク質",
         "reading": "タンパクシツ",
-        "meaning": "protein"
+        "meaning": "protein |(vi) chất đạm, protein"
       },
       {
         "example": "質",
         "reading": "シチ",
-        "meaning": "pawn, pawned article, pledge, security, guarantee"
+        "meaning": "pawn, pawned article, pledge, security, guarantee |(vi) vật cầm cố, đồ cầm, vật thế chấp, vật bảo đảm"
       },
       {
         "example": "質屋",
         "reading": "シチヤ",
-        "meaning": "pawnshop"
+        "meaning": "pawnshop |(vi) tiệm cầm đồ"
       },
       {
         "example": "入質",
         "reading": "ニュウシチ",
-        "meaning": "pawning"
+        "meaning": "pawning |(vi) sự đem cầm, việc cầm đồ"
       },
       {
         "example": "流質",
         "reading": "リュウシチ",
-        "meaning": "forfeiting a pawned article"
+        "meaning": "forfeiting a pawned article |(vi) mất vật cầm cố (do quá hạn chuộc)"
       },
       {
         "example": "入質",
         "reading": "ニュウシチ",
-        "meaning": "pawning"
+        "meaning": "pawning |(vi) sự đem cầm, việc cầm đồ"
       },
       {
         "example": "流質",
         "reading": "リュウシチ",
-        "meaning": "forfeiting a pawned article"
+        "meaning": "forfeiting a pawned article |(vi) mất vật cầm cố (do quá hạn chuộc)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "質",
         "reading": "たち",
-        "meaning": "nature (of a person), disposition, temperament, nature (of something), character, kind, sort"
+        "meaning": "nature (of a person), disposition, temperament, nature (of something), character, kind, sort |(vi) bản tính (con người), tính khí, tâm tính, tính chất (của sự vật), đặc tính, loại, kiểu"
       },
       {
         "example": "たちが良い",
         "reading": "たちがいい",
-        "meaning": "good-natured, of good character"
+        "meaning": "good-natured, of good character |(vi) tính tình tốt, bản tính tốt"
       },
       {
         "example": "質す",
         "reading": "ただす",
-        "meaning": "to ask (about), to inquire, to enquire, to question, to make sure of"
+        "meaning": "to ask (about), to inquire, to enquire, to question, to make sure of |(vi) hỏi, chất vấn, hỏi cho rõ, xác nhận cho chắc"
       }
     ],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò)"
     },
     "parts": [
       "ハ",

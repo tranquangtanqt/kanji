@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 2,
     "kunyomi": "kabu",
-    "meaning": "stock, share, stump",
+    "meaning": "stock, share, stump |(vi) cổ phiếu, cổ phần, gốc cây",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "株（かぶ）",
         "meaning": {
-          "english": "share, stock, stump"
+          "english": "share, stock, stump |(vi) cổ phần, cổ phiếu, gốc cây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kabu(shiki)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "株式（かぶしき）",
         "meaning": {
-          "english": "stock [n.]"
+          "english": "stock [n.] |(vi) cổ phiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kabu(shiki)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "株価（かぶか）",
         "meaning": {
-          "english": "stock prices"
+          "english": "stock prices |(vi) giá cổ phiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kabu(shiki)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "株券（かぶけん）",
         "meaning": {
-          "english": "stock certificate"
+          "english": "stock certificate |(vi) chứng chỉ cổ phiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kabu(shiki)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "株主（かぶぬし）",
         "meaning": {
-          "english": "shareholder, stockholder"
+          "english": "shareholder, stockholder |(vi) cổ đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kabu(shiki)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "株主総会（かぶぬしそうかい）",
         "meaning": {
-          "english": "general meeting of stockholders"
+          "english": "general meeting of stockholders |(vi) đại hội cổ đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kabu(shiki)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "株式会社（かぶしきがいしゃ）",
         "meaning": {
-          "english": "stock company, corporation"
+          "english": "stock company, corporation |(vi) công ty cổ phần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kabu(shiki)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "株分け（かぶわけ）",
         "meaning": {
-          "english": "root division"
+          "english": "root division |(vi) tách gốc, chia bụi cây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kabu(shiki)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "切り株（きりかぶ）",
         "meaning": {
-          "english": "stump, stubble"
+          "english": "stump, stubble |(vi) gốc cây bị chặt, gốc rạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kabu(shiki)_06_i.opus",
@@ -196,7 +196,7 @@
     "kanji": {
       "character": "株",
       "meaning": {
-        "english": "stock, share, stump"
+        "english": "stock, share, stump |(vi) cổ phiếu, cổ phần, gốc cây"
       },
       "strokes": {
         "count": 10,
@@ -254,7 +254,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -275,7 +275,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "432",
     "strokeCount": 10,
-    "meaning": "stocks, stump, shares, stock, counter for small plants",
+    "meaning": "stocks, stump, shares, stock, counter for small plants |(vi) cổ phiếu, gốc cây, cổ phần, lượng từ đếm cây nhỏ |(hv) Chu",
     "kunyomi": [
       "かぶ"
     ],
@@ -286,44 +286,44 @@
       {
         "example": "株",
         "reading": "シュ",
-        "meaning": "stump, counter for trees"
+        "meaning": "stump, counter for trees |(vi) gốc cây, lượng từ đếm cây"
       },
       {
         "example": "雌雄異株",
         "reading": "シユウイシュ",
-        "meaning": "dioecy, dioecism"
+        "meaning": "dioecy, dioecism |(vi) tính đơn tính khác gốc (thực vật)"
       },
       {
         "example": "懸念される変異株",
         "reading": "ケネンサレルヘンイシュ",
-        "meaning": "variant of concern (of SARS-CoV-2), VOC"
+        "meaning": "variant of concern (of SARS-CoV-2), VOC |(vi) biến thể đáng lo ngại (của SARS-CoV-2)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "株",
         "reading": "かぶ",
-        "meaning": "stock, share, stump, (clump of) roots, plant with attached roots or stem, strain (of bacteria, etc.), stock company, corporation, kabushiki kaisha, KK, goodwill (of a business), privilege (that comes with a role), reputation, standing, popularity, one's forte"
+        "meaning": "stock, share, stump, (clump of) roots, plant with attached roots or stem, strain (of bacteria, etc.), stock company, corporation, kabushiki kaisha, KK, goodwill (of a business), privilege (that comes with a role), reputation, standing, popularity, one's forte |(vi) cổ phần, cổ phiếu, gốc cây, (bụi) rễ cây, cây còn nguyên rễ hoặc thân, chủng (vi khuẩn...), công ty cổ phần, uy tín (của một doanh nghiệp), đặc quyền (đi kèm vai trò), danh tiếng, vị thế, độ nổi tiếng, sở trường của ai đó"
       },
       {
         "example": "株",
         "reading": "かぶた",
-        "meaning": "stump, useless item"
+        "meaning": "stump, useless item |(vi) gốc cây, vật vô dụng"
       },
       {
         "example": "新株",
         "reading": "しんかぶ",
-        "meaning": "new stock, new share, newly issued shares"
+        "meaning": "new stock, new share, newly issued shares |(vi) cổ phiếu mới, cổ phiếu mới phát hành"
       },
       {
         "example": "仕手株",
         "reading": "してかぶ",
-        "meaning": "speculative stock"
+        "meaning": "speculative stock |(vi) cổ phiếu đầu cơ"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "木",

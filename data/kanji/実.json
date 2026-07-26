@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 2,
     "kunyomi": "mi, mino, minoru, minori",
-    "meaning": "real, fruit, nut",
+    "meaning": "real, fruit, nut |(vi) thật, quả, hạt",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "実は（じつは）",
         "meaning": {
-          "english": "as a matter of fact"
+          "english": "as a matter of fact |(vi) thật ra là, thực ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "実力（じつりょく）",
         "meaning": {
-          "english": "real ability"
+          "english": "real ability |(vi) thực lực, năng lực thật sự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "事実（じじつ）",
         "meaning": {
-          "english": "fact"
+          "english": "fact |(vi) sự thật, sự việc có thật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "確実な（かくじつな）",
         "meaning": {
-          "english": "certain"
+          "english": "certain |(vi) chắc chắn, xác thực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "誠実な（せいじつな）",
         "meaning": {
-          "english": "sincere"
+          "english": "sincere |(vi) thành thật, chân thành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "実現する（じつげんする）",
         "meaning": {
-          "english": "realize (a project or goal)"
+          "english": "realize (a project or goal) |(vi) thực hiện, hiện thực hóa (dự án, mục tiêu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "実験する（じっけんする）",
         "meaning": {
-          "english": "experiment [v.t.]"
+          "english": "experiment [v.t.] |(vi) làm thí nghiệm, thực nghiệm [tha động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "実際（じっさい）",
         "meaning": {
-          "english": "in fact, in practice"
+          "english": "in fact, in practice |(vi) thực tế, trên thực tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "木の実（きのみ）",
         "meaning": {
-          "english": "nut"
+          "english": "nut |(vi) quả cây, hạt cây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "実る（みのる）",
         "meaning": {
-          "english": "bear fruit"
+          "english": "bear fruit |(vi) kết trái, ra quả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_j.opus",
@@ -258,7 +258,7 @@
     "kanji": {
       "character": "実",
       "meaning": {
-        "english": "real, fruit, nut"
+        "english": "real, fruit, nut |(vi) thật, quả, hạt"
       },
       "strokes": {
         "count": 8,
@@ -312,7 +312,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà, nhà cửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -333,7 +333,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "68",
     "strokeCount": 8,
-    "meaning": "reality, truth, seed, fruit, nut",
+    "meaning": "reality, truth, seed, fruit, nut |(vi) hiện thực, sự thật, hạt, quả, hạt cây |(hv) Thực",
     "kunyomi": [
       "み",
       "みの.る",
@@ -349,89 +349,89 @@
       {
         "example": "実",
         "reading": "ジツ",
-        "meaning": "truth, reality, sincerity, honesty, fidelity, content, substance, (good) result"
+        "meaning": "truth, reality, sincerity, honesty, fidelity, content, substance, (good) result |(vi) sự thật, hiện thực, sự chân thành, trung thực, lòng trung thành, nội dung, thực chất, kết quả (tốt)"
       },
       {
         "example": "実演",
         "reading": "ジツエン",
-        "meaning": "demonstration, presentation, stage show, performance"
+        "meaning": "demonstration, presentation, stage show, performance |(vi) thực diễn, trình diễn thực tế, biểu diễn trên sân khấu"
       },
       {
         "example": "名実",
         "reading": "メイジツ",
-        "meaning": "in name and in reality, nominally and virtually, form and contents"
+        "meaning": "in name and in reality, nominally and virtually, form and contents |(vi) cả trên danh nghĩa lẫn thực tế, danh và thực, hình thức và nội dung"
       },
       {
         "example": "内実",
         "reading": "ナイジツ",
-        "meaning": "the facts, the truth, the true state of affairs, in truth, in fact, in reality, actually"
+        "meaning": "the facts, the truth, the true state of affairs, in truth, in fact, in reality, actually |(vi) nội tình, sự thật bên trong, tình hình thực tế, thật ra, trên thực tế"
       },
       {
         "example": "故実",
         "reading": "コジツ",
-        "meaning": "ancient practices, old customs"
+        "meaning": "ancient practices, old customs |(vi) cố thực, lệ xưa, phong tục cổ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "実",
         "reading": "み",
-        "meaning": "fruit, nut, seed, (in broth) pieces of meat, vegetable, etc., content, substance"
+        "meaning": "fruit, nut, seed, (in broth) pieces of meat, vegetable, etc., content, substance |(vi) quả, hạt, hột, cái (thịt, rau... trong món canh), nội dung, thực chất"
       },
       {
         "example": "実り",
         "reading": "みのり",
-        "meaning": "ripening (of a crop), crop, harvest"
+        "meaning": "ripening (of a crop), crop, harvest |(vi) sự chín (của mùa màng), hoa lợi, vụ thu hoạch"
       },
       {
         "example": "浮き実",
         "reading": "うきみ",
-        "meaning": "soup garnish"
+        "meaning": "soup garnish |(vi) đồ trang trí nổi trên món súp"
       },
       {
         "example": "桷",
         "reading": "ずみ",
-        "meaning": "Toringo crabapple (Malus sieboldii)"
+        "meaning": "Toringo crabapple (Malus sieboldii) |(vi) táo dại Toringo (Malus sieboldii)"
       },
       {
         "example": "実る",
         "reading": "みのる",
-        "meaning": "to bear fruit, to ripen, to produce (good) results, to show results, to bear fruit"
+        "meaning": "to bear fruit, to ripen, to produce (good) results, to show results, to bear fruit |(vi) kết trái, chín, đơm hoa kết trái, mang lại kết quả (tốt), gặt hái thành quả"
       },
       {
         "example": "実るほど頭の下がる稲穂かな",
         "reading": "みのるほどあたまのさがるいなほかな",
-        "meaning": "the more learned, the more humble, the boughs bearing the most hang lowest"
+        "meaning": "the more learned, the more humble, the boughs bearing the most hang lowest |(vi) càng hiểu biết càng khiêm nhường, bông lúa càng chín càng cúi đầu"
       },
       {
         "example": "誠",
         "reading": "まこと",
-        "meaning": "truth, reality, fact, sincerity, honesty, faithfulness, good faith, indeed, really, absolutely, truly, actually, very, quite"
+        "meaning": "truth, reality, fact, sincerity, honesty, faithfulness, good faith, indeed, really, absolutely, truly, actually, very, quite |(vi) sự thật, hiện thực, sự việc có thật, sự chân thành, trung thực, lòng thành, thiện chí, quả thật, thật sự, hoàn toàn, đúng là, thực sự, rất, khá"
       },
       {
         "example": "実に",
         "reading": "じつに",
-        "meaning": "indeed, really, absolutely, truly, actually, very, quite"
+        "meaning": "indeed, really, absolutely, truly, actually, very, quite |(vi) quả thật, thật sự, hoàn toàn, đúng là, thực ra, rất, khá"
       },
       {
         "example": "嘘から出たまこと",
         "reading": "うそからでたまこと",
-        "meaning": "something intended as a lie or joke which (by chance) ends up being true, lie turned truth"
+        "meaning": "something intended as a lie or joke which (by chance) ends up being true, lie turned truth |(vi) lời nói dối hay lời đùa vô tình lại thành sự thật, nói dối hóa thật"
       },
       {
         "example": "実り",
         "reading": "みのり",
-        "meaning": "ripening (of a crop), crop, harvest"
+        "meaning": "ripening (of a crop), crop, harvest |(vi) sự chín (của mùa màng), hoa lợi, vụ thu hoạch"
       },
       {
         "example": "実る",
         "reading": "みのる",
-        "meaning": "to bear fruit, to ripen, to produce (good) results, to show results, to bear fruit"
+        "meaning": "to bear fruit, to ripen, to produce (good) results, to show results, to bear fruit |(vi) kết trái, chín, đơm hoa kết trái, mang lại kết quả (tốt), gặt hái thành quả"
       }
     ],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà)"
     },
     "parts": [
       "士",

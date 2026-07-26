@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ka, kao, kaori, kaoru",
-    "meaning": "sweet smell, fragrance, aroma",
+    "meaning": "sweet smell, fragrance, aroma |(vi) mùi thơm, hương thơm",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "香水（こうすい）",
         "meaning": {
-          "english": "perfume"
+          "english": "perfume |(vi) nước hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "香油（こうゆ）",
         "meaning": {
-          "english": "balm, perfumed oil"
+          "english": "balm, perfumed oil |(vi) dầu thơm, tinh dầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "芳香（ほうこう）",
         "meaning": {
-          "english": "perfume, fragrance, aroma"
+          "english": "perfume, fragrance, aroma |(vi) hương thơm, mùi thơm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "香ばしい（こうばしい）",
         "meaning": {
-          "english": "aromatic, fragrant"
+          "english": "aromatic, fragrant |(vi) thơm ngon, thơm phức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "香車（きょうしゃ）",
         "meaning": {
-          "english": "lance (shogi game)"
+          "english": "lance (shogi game) |(vi) quân Hương xa (cờ shogi)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "香（か）",
         "meaning": {
-          "english": "aroma, fragrance, scent, smell"
+          "english": "aroma, fragrance, scent, smell |(vi) hương thơm, mùi thơm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "色香（いろか）",
         "meaning": {
-          "english": "color & scent, charm [n.]"
+          "english": "color & scent, charm [n.] |(vi) sắc và hương, sự quyến rũ (danh từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "移り香（うつりが）",
         "meaning": {
-          "english": "lingering scent"
+          "english": "lingering scent |(vi) hương thoang thoảng còn vương lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "香り（かおり）",
         "meaning": {
-          "english": "aroma, fragrance, scent, smell"
+          "english": "aroma, fragrance, scent, smell |(vi) hương thơm, mùi thơm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_i.opus",
@@ -203,7 +203,7 @@
     "kanji": {
       "character": "香",
       "meaning": {
-        "english": "sweet smell, fragrance, aroma"
+        "english": "sweet smell, fragrance, aroma |(vi) mùi thơm, hương thơm"
       },
       "strokes": {
         "count": 9,
@@ -259,7 +259,7 @@
         "romaji": "kaori"
       },
       "meaning": {
-        "english": "scent"
+        "english": "scent |(vi) Hương (mùi thơm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kaori0.svg",
@@ -280,7 +280,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "859",
     "strokeCount": 9,
-    "meaning": "incense, smell, perfume",
+    "meaning": "incense, smell, perfume |(vi) hương, nhang, mùi, nước hoa |(hv) Hương",
     "kunyomi": [
       "か",
       "かお.り",
@@ -294,84 +294,84 @@
       {
         "example": "香",
         "reading": "コウ",
-        "meaning": "incense"
+        "meaning": "incense |(vi) hương, nhang"
       },
       {
         "example": "香水",
         "reading": "コウスイ",
-        "meaning": "perfume, scent"
+        "meaning": "perfume, scent |(vi) nước hoa, hương thơm"
       },
       {
         "example": "線香",
         "reading": "センコウ",
-        "meaning": "incense stick"
+        "meaning": "incense stick |(vi) nhang, hương que"
       },
       {
         "example": "焼香",
         "reading": "ショウコウ",
-        "meaning": "burning (offer) incense"
+        "meaning": "burning (offer) incense |(vi) đốt hương, dâng hương"
       },
       {
         "example": "香",
         "reading": "キョウ",
-        "meaning": "lance"
+        "meaning": "lance |(vi) quân Hương (cờ shogi)"
       },
       {
         "example": "香車",
         "reading": "キョウシャ",
-        "meaning": "lance"
+        "meaning": "lance |(vi) quân Hương xa (cờ shogi)"
       },
       {
         "example": "異香",
         "reading": "イキョウ",
-        "meaning": "great fragrance"
+        "meaning": "great fragrance |(vi) hương thơm lạ kỳ, mùi hương đặc biệt"
       },
       {
         "example": "茴香",
         "reading": "ウイキョウ",
-        "meaning": "fennel (Foeniculum vulgare)"
+        "meaning": "fennel (Foeniculum vulgare) |(vi) cây thì là Ai Cập, hồi hương (Foeniculum vulgare)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "香",
         "reading": "か",
-        "meaning": "smell (esp. a good smell), fragrance, scent, aroma, perfume"
+        "meaning": "smell (esp. a good smell), fragrance, scent, aroma, perfume |(vi) mùi (đặc biệt mùi thơm), hương thơm, mùi hương, nước hoa"
       },
       {
         "example": "香り",
         "reading": "かおり",
-        "meaning": "aroma, fragrance, scent, smell"
+        "meaning": "aroma, fragrance, scent, smell |(vi) hương thơm, mùi thơm"
       },
       {
         "example": "腸香",
         "reading": "わたか",
-        "meaning": "Ischikauia steenackeri (species of cyprinid fish)"
+        "meaning": "Ischikauia steenackeri (species of cyprinid fish) |(vi) cá watakа (một loài cá chép Nhật Bản)"
       },
       {
         "example": "木の香",
         "reading": "きのか",
-        "meaning": "smell of new wood"
+        "meaning": "smell of new wood |(vi) mùi gỗ mới"
       },
       {
         "example": "香り",
         "reading": "かおり",
-        "meaning": "aroma, fragrance, scent, smell"
+        "meaning": "aroma, fragrance, scent, smell |(vi) hương thơm, mùi thơm"
       },
       {
         "example": "香りがする",
         "reading": "かおりがする",
-        "meaning": "to smell, to smell of, to have a smell"
+        "meaning": "to smell, to smell of, to have a smell |(vi) có mùi, tỏa mùi, có hương thơm"
       },
       {
         "example": "香る",
         "reading": "かおる",
-        "meaning": "to smell sweet, to be fragrant"
+        "meaning": "to smell sweet, to be fragrant |(vi) tỏa hương thơm, thơm ngát"
       }
     ],
     "radical": {
       "symbol": "香",
-      "meaning": "fragrance"
+      "meaning": "fragrance |(vi) Hương (mùi thơm)"
     },
     "parts": [
       "日",

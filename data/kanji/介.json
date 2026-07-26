@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "mediate, be in between",
+    "meaning": "mediate, be in between |(vi) làm trung gian, ở giữa",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "介入する（かいにゅうする）",
         "meaning": {
-          "english": "intervene, interfere"
+          "english": "intervene, interfere |(vi) can thiệp, xen vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bai)kai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "介抱する（かいほうする）",
         "meaning": {
-          "english": "nurse, look after"
+          "english": "nurse, look after |(vi) chăm sóc, trông nom"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bai)kai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "紹介する（しょうかいする）",
         "meaning": {
-          "english": "introduce"
+          "english": "introduce |(vi) giới thiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bai)kai_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "媒介する（ばいかいする）",
         "meaning": {
-          "english": "mediate, transmit (disease)"
+          "english": "mediate, transmit (disease) |(vi) làm trung gian, truyền bệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bai)kai_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "仲介する（ちゅうかいする）",
         "meaning": {
-          "english": "mediate, act as go-between"
+          "english": "mediate, act as go-between |(vi) làm trung gian, môi giới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bai)kai_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "厄介な（やっかいな）",
         "meaning": {
-          "english": "troublesome, annoying"
+          "english": "troublesome, annoying |(vi) phiền phức, rắc rối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bai)kai_06_f.opus",
@@ -185,7 +185,7 @@
     "kanji": {
       "character": "介",
       "meaning": {
-        "english": "mediate, be in between"
+        "english": "mediate, be in between |(vi) làm trung gian, ở giữa"
       },
       "strokes": {
         "count": 4,
@@ -231,7 +231,7 @@
         "romaji": "hitoyane"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoyane0.svg",
@@ -252,7 +252,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "617",
     "strokeCount": 4,
-    "meaning": "jammed in, shellfish, mediate, concern oneself with",
+    "meaning": "jammed in, shellfish, mediate, concern oneself with |(vi) kẹt vào, loài có vỏ (sò, ốc...), làm trung gian, quan tâm đến |(hv) Giới",
     "kunyomi": [],
     "onyomi": [
       "カイ"
@@ -261,22 +261,22 @@
       {
         "example": "貝",
         "reading": "カイ",
-        "meaning": "shellfish, seashell, shell"
+        "meaning": "shellfish, seashell, shell |(vi) loài có vỏ, vỏ sò, vỏ ốc"
       },
       {
         "example": "介護",
         "reading": "カイゴ",
-        "meaning": "nursing, care, caregiving, caring"
+        "meaning": "nursing, care, caregiving, caring |(vi) chăm sóc, điều dưỡng"
       },
       {
         "example": "魚介",
         "reading": "ギョカイ",
-        "meaning": "marine products, seafood, fish and shellfish"
+        "meaning": "marine products, seafood, fish and shellfish |(vi) hải sản, cá và động vật có vỏ"
       },
       {
         "example": "無媒介",
         "reading": "ムバイカイ",
-        "meaning": "immediacy"
+        "meaning": "immediacy |(vi) tính trực tiếp, không qua trung gian"
       }
     ],
     "kunyomiExamples": [],
@@ -285,7 +285,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "ハ",

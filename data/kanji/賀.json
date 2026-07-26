@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "congratulate",
+    "meaning": "congratulate |(vi) chúc mừng",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "賀正（がしょう）",
         "meaning": {
-          "english": "Happy New Year!"
+          "english": "Happy New Year! |(vi) Chúc mừng năm mới!"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nen)ga(jou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "年賀状（ねんがじょう）",
         "meaning": {
-          "english": "New Year's card"
+          "english": "New Year's card |(vi) thiệp chúc Tết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nen)ga(jou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "祝賀会（しゅくがかい）",
         "meaning": {
-          "english": "celebration"
+          "english": "celebration |(vi) lễ mừng, tiệc chúc mừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nen)ga(jou)_06_c.opus",
@@ -123,7 +123,7 @@
     "kanji": {
       "character": "賀",
       "meaning": {
-        "english": "congratulate"
+        "english": "congratulate |(vi) chúc mừng"
       },
       "strokes": {
         "count": 12,
@@ -185,7 +185,7 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (vỏ sò, của cải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -206,7 +206,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1056",
     "strokeCount": 12,
-    "meaning": "congratulations, joy",
+    "meaning": "congratulations, joy |(vi) lời chúc mừng, niềm vui |(hv) Hạ",
     "kunyomi": [],
     "onyomi": [
       "ガ"
@@ -215,28 +215,28 @@
       {
         "example": "賀",
         "reading": "ガ",
-        "meaning": "congratulation, celebration"
+        "meaning": "congratulation, celebration |(vi) lời chúc mừng, lễ mừng"
       },
       {
         "example": "賀正",
         "reading": "ガショウ",
-        "meaning": "A Happy New Year!"
+        "meaning": "A Happy New Year! |(vi) Chúc mừng năm mới!"
       },
       {
         "example": "年賀",
         "reading": "ネンガ",
-        "meaning": "New Year's greetings, New Year's call, New Year's gift"
+        "meaning": "New Year's greetings, New Year's call, New Year's gift |(vi) lời chúc năm mới, thăm hỏi đầu năm, quà năm mới"
       },
       {
         "example": "祝賀",
         "reading": "シュクガ",
-        "meaning": "celebration, congratulations"
+        "meaning": "celebration, congratulations |(vi) lễ mừng, chúc mừng"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò)"
     },
     "parts": [
       "ハ",

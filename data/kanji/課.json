@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "section, lesson",
+    "meaning": "section, lesson |(vi) phòng ban, bài học",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "一課（いっか）",
         "meaning": {
-          "english": "lesson one"
+          "english": "lesson one |(vi) bài một"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ka(go)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "日課（にっか）",
         "meaning": {
-          "english": "daily routine"
+          "english": "daily routine |(vi) công việc thường ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ka(go)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "放課後（ほうかご）",
         "meaning": {
-          "english": "after school"
+          "english": "after school |(vi) sau giờ học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ka(go)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "人事課（じんじか）",
         "meaning": {
-          "english": "personnel department"
+          "english": "personnel department |(vi) phòng nhân sự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ka(go)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "課長（かちょう）",
         "meaning": {
-          "english": "section manager"
+          "english": "section manager |(vi) trưởng phòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ka(go)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "課題（かだい）",
         "meaning": {
-          "english": "task"
+          "english": "task |(vi) bài tập, nhiệm vụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ka(go)_06_f.opus",
@@ -190,7 +190,7 @@
     "kanji": {
       "character": "課",
       "meaning": {
-        "english": "section, lesson"
+        "english": "section, lesson |(vi) phòng ban, bài học"
       },
       "strokes": {
         "count": 15,
@@ -258,7 +258,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -279,7 +279,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "455",
     "strokeCount": 15,
-    "meaning": "chapter, lesson, section, department, division, counter for chapters (of a book)",
+    "meaning": "chapter, lesson, section, department, division, counter for chapters (of a book) |(vi) chương, bài học, phòng ban, khoa, đơn vị, lượng từ đếm chương (sách) |(hv) Khóa",
     "kunyomi": [],
     "onyomi": [
       "カ"
@@ -288,22 +288,22 @@
       {
         "example": "課",
         "reading": "カ",
-        "meaning": "lesson, section (in an organization), division, department, counter for lessons and chapters (of a book)"
+        "meaning": "lesson, section (in an organization), division, department, counter for lessons and chapters (of a book) |(vi) bài học, phòng ban (trong tổ chức), khoa, phân ban, lượng từ đếm bài học và chương (sách)"
       },
       {
         "example": "課員",
         "reading": "カイン",
-        "meaning": "section staff"
+        "meaning": "section staff |(vi) nhân viên phòng ban"
       },
       {
         "example": "賦課",
         "reading": "フカ",
-        "meaning": "levy, imposition"
+        "meaning": "levy, imposition |(vi) đánh thuế, áp đặt"
       },
       {
         "example": "会計課",
         "reading": "カイケイカ",
-        "meaning": "accounts section, accounting section"
+        "meaning": "accounts section, accounting section |(vi) phòng kế toán"
       }
     ],
     "kunyomiExamples": [],
@@ -312,7 +312,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "木",

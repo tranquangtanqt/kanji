@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "noon",
+    "meaning": "noon |(vi) buổi trưa, giữa trưa",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "午前（ごぜん）",
         "meaning": {
-          "english": "morning"
+          "english": "morning |(vi) buổi sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shou)go_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "午後（ごご）",
         "meaning": {
-          "english": "afternoon"
+          "english": "afternoon |(vi) buổi chiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shou)go_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "正午（しょうご）",
         "meaning": {
-          "english": "noon"
+          "english": "noon |(vi) giữa trưa, chính ngọ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shou)go_06_c.opus",
@@ -172,7 +172,7 @@
     "kanji": {
       "character": "午",
       "meaning": {
-        "english": "noon"
+        "english": "noon |(vi) buổi trưa, giữa trưa"
       },
       "strokes": {
         "count": 4,
@@ -218,7 +218,7 @@
         "romaji": "juu"
       },
       "meaning": {
-        "english": "ten"
+        "english": "ten |(vi) Thập (mười)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/juu0.svg",
@@ -239,7 +239,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "154",
     "strokeCount": 4,
-    "meaning": "noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac",
+    "meaning": "noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac |(vi) buổi trưa, giờ Ngọ, 11h-13h, chi thứ bảy trong 12 con giáp |(hv) Ngọ",
     "kunyomi": [
       "うま"
     ],
@@ -250,49 +250,49 @@
       {
         "example": "午前",
         "reading": "ゴゼン",
-        "meaning": "morning, a.m."
+        "meaning": "morning, a.m. |(vi) buổi sáng, sáng"
       },
       {
         "example": "午後",
         "reading": "ゴゴ",
-        "meaning": "afternoon, p.m."
+        "meaning": "afternoon, p.m. |(vi) buổi chiều, chiều"
       },
       {
         "example": "端午",
         "reading": "タンゴ",
-        "meaning": "Boys' Day celebration (May 5), Dragon Boat Festival (China)"
+        "meaning": "Boys' Day celebration (May 5), Dragon Boat Festival (China) |(vi) tết Đoan Ngọ, tết mồng năm tháng năm (Trung Quốc)"
       },
       {
         "example": "亭午",
         "reading": "テイゴ",
-        "meaning": "noon"
+        "meaning": "noon |(vi) giữa trưa, chính ngọ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "午",
         "reading": "うま",
-        "meaning": "the Horse (seventh sign of the Chinese zodiac), hour of the Horse (around noon, 11am-1pm, or 12 noon-2pm), south, fifth month of the lunar calendar"
+        "meaning": "the Horse (seventh sign of the Chinese zodiac), hour of the Horse (around noon, 11am-1pm, or 12 noon-2pm), south, fifth month of the lunar calendar |(vi) con Ngựa (chi thứ bảy trong 12 con giáp), giờ Ngọ (khoảng 11h-13h), hướng nam, tháng 5 âm lịch"
       },
       {
         "example": "午年",
         "reading": "うまどし",
-        "meaning": "year of the Horse"
+        "meaning": "year of the Horse |(vi) năm Ngọ"
       },
       {
         "example": "庚午",
         "reading": "かのえうま",
-        "meaning": "Metal Horse (7th term of the sexagenary cycle, e.g. 1930, 1990, 2050)"
+        "meaning": "Metal Horse (7th term of the sexagenary cycle, e.g. 1930, 1990, 2050) |(vi) Canh Ngọ (can chi thứ 7 trong lục thập hoa giáp, ví dụ 1930, 1990, 2050)"
       },
       {
         "example": "甲午",
         "reading": "きのえうま",
-        "meaning": "Wood Horse (31st term of the sexagenary cycle, e.g. 1954, 2014, 2074)"
+        "meaning": "Wood Horse (31st term of the sexagenary cycle, e.g. 1954, 2014, 2074) |(vi) Giáp Ngọ (can chi thứ 31 trong lục thập hoa giáp, ví dụ 1954, 2014, 2074)"
       }
     ],
     "radical": {
       "symbol": "十",
-      "meaning": "ten, complete"
+      "meaning": "ten, complete |(vi) Thập (mười)"
     },
     "parts": [
       "ノ",

@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "phrase, haiku, verse",
+    "meaning": "phrase, haiku, verse |(vi) câu, cụm từ, haiku, thơ",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "文句（もんく）",
         "meaning": {
-          "english": "phrase, complaint"
+          "english": "phrase, complaint |(vi) lời phàn nàn, câu chữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hai)ku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "慣用句（かんようく）",
         "meaning": {
-          "english": "idiomatic phrase"
+          "english": "idiomatic phrase |(vi) thành ngữ, quán ngữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hai)ku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "語句（ごく）",
         "meaning": {
-          "english": "words and phrases"
+          "english": "words and phrases |(vi) từ ngữ, câu chữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hai)ku_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "俳句（はいく）",
         "meaning": {
-          "english": "haiku poetry"
+          "english": "haiku poetry |(vi) thơ haiku"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hai)ku_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "句読点（くとうてん）",
         "meaning": {
-          "english": "punctuation marks"
+          "english": "punctuation marks |(vi) dấu câu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hai)ku_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "句会（くかい）",
         "meaning": {
-          "english": "gathering of haiku poets"
+          "english": "gathering of haiku poets |(vi) buổi họp mặt các nhà thơ haiku"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hai)ku_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "句集（くしゅう）",
         "meaning": {
-          "english": "collection of haiku poems"
+          "english": "collection of haiku poems |(vi) tuyển tập thơ haiku"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hai)ku_06_g.opus",
@@ -187,7 +187,7 @@
     "kanji": {
       "character": "句",
       "meaning": {
-        "english": "phrase, haiku, verse"
+        "english": "phrase, haiku, verse |(vi) câu, cụm từ, haiku, thơ"
       },
       "strokes": {
         "count": 5,
@@ -235,7 +235,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -256,7 +256,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1244",
     "strokeCount": 5,
-    "meaning": "phrase, clause, sentence, passage, paragraph, counter for haiku",
+    "meaning": "phrase, clause, sentence, passage, paragraph, counter for haiku |(vi) câu, mệnh đề, câu văn, đoạn văn, đoạn, lượng từ đếm haiku |(hv) Cú",
     "kunyomi": [],
     "onyomi": [
       "ク"
@@ -265,28 +265,28 @@
       {
         "example": "句",
         "reading": "ク",
-        "meaning": "section (i.e. of text), sentence, passage, paragraph, phrase, verse (of 5 or 7 mora in Japanese poetry; of 4, 5, or 7 characters in Chinese poetry), haiku, first 17 morae of a renga, etc., maxim, saying, idiom, expression, clause (e.g. in a database query language)"
+        "meaning": "section (i.e. of text), sentence, passage, paragraph, phrase, verse (of 5 or 7 mora in Japanese poetry; of 4, 5, or 7 characters in Chinese poetry), haiku, first 17 morae of a renga, etc., maxim, saying, idiom, expression, clause (e.g. in a database query language) |(vi) đoạn văn bản, câu, đoạn, đoạn văn, cụm từ, câu thơ (gồm 5 hoặc 7 mora trong thơ Nhật; 4, 5 hoặc 7 chữ trong thơ Hán), haiku, 17 mora đầu của renga, v.v., châm ngôn, câu nói, thành ngữ, cách diễn đạt, mệnh đề (ví dụ trong ngôn ngữ truy vấn cơ sở dữ liệu)"
       },
       {
         "example": "区切り",
         "reading": "クギリ",
-        "meaning": "pause (in speech, writing, etc.), punctuation, break, end, (place to) stop, pause, milestone (e.g. in a project)"
+        "meaning": "pause (in speech, writing, etc.), punctuation, break, end, (place to) stop, pause, milestone (e.g. in a project) |(vi) chỗ ngắt (trong lời nói, văn viết, v.v.), dấu câu, chỗ dừng, kết thúc, điểm dừng, cột mốc (ví dụ trong một dự án)"
       },
       {
         "example": "絶句",
         "reading": "ゼック",
-        "meaning": "being lost for words, becoming speechless, jueju (Chinese quatrain with lines of either five or seven syllables)"
+        "meaning": "being lost for words, becoming speechless, jueju (Chinese quatrain with lines of either five or seven syllables) |(vi) á khẩu, không nói nên lời, tuyệt cú (thể thơ tứ tuyệt Trung Hoa với dòng 5 hoặc 7 chữ)"
       },
       {
         "example": "慣用句",
         "reading": "カンヨウク",
-        "meaning": "idiom, set phrase, idiomatic phrase"
+        "meaning": "idiom, set phrase, idiomatic phrase |(vi) thành ngữ, quán ngữ, cụm từ cố định"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "勹",

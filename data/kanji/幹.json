@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 50,
     "kunyomi": "miki",
-    "meaning": "tree trunk, main part",
+    "meaning": "tree trunk, main part |(vi) thân cây, phần chính",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "幹事（かんじ）",
         "meaning": {
-          "english": "party coordinator"
+          "english": "party coordinator |(vi) cán sự, người điều phối (của tổ chức/đảng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miki_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "幹部（かんぶ）",
         "meaning": {
-          "english": "executive, leader"
+          "english": "executive, leader |(vi) cán bộ, lãnh đạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miki_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "幹線道路（かんせんどうろ）",
         "meaning": {
-          "english": "main road, main thoroughfare"
+          "english": "main road, main thoroughfare |(vi) đường chính, trục đường chính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miki_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "根幹（こんかん）",
         "meaning": {
-          "english": "basis, nucleus, root and branch"
+          "english": "basis, nucleus, root and branch |(vi) nền tảng, cốt lõi, gốc rễ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miki_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "主幹（しゅかん）",
         "meaning": {
-          "english": "chief editor"
+          "english": "chief editor |(vi) chủ biên, tổng biên tập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miki_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "新幹線（しんかんせん）",
         "meaning": {
-          "english": "bullet train , Shinkansen"
+          "english": "bullet train , Shinkansen |(vi) tàu cao tốc, Shinkansen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miki_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "幹（みき）",
         "meaning": {
-          "english": "(tree) trunk"
+          "english": "(tree) trunk |(vi) thân cây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miki_06_g.opus",
@@ -188,7 +188,7 @@
     "kanji": {
       "character": "幹",
       "meaning": {
-        "english": "tree trunk, main part"
+        "english": "tree trunk, main part |(vi) thân cây, phần chính"
       },
       "strokes": {
         "count": 13,
@@ -252,7 +252,7 @@
         "romaji": "kan"
       },
       "meaning": {
-        "english": "to dry, shield"
+        "english": "to dry, shield |(vi) Can (khô, cái mộc/lá chắn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kan0.svg",
@@ -273,7 +273,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "364",
     "strokeCount": 13,
-    "meaning": "tree trunk, main part, talent, capability",
+    "meaning": "tree trunk, main part, talent, capability |(vi) thân cây, phần chính, tài năng, năng lực |(hv) Cán",
     "kunyomi": [
       "みき"
     ],
@@ -284,34 +284,34 @@
       {
         "example": "幹",
         "reading": "ミキ",
-        "meaning": "(tree) trunk, (arrow) shaft, (tool) handle, backbone, base"
+        "meaning": "(tree) trunk, (arrow) shaft, (tool) handle, backbone, base |(vi) thân cây, thân mũi tên, cán công cụ, xương sống, nền tảng"
       },
       {
         "example": "幹事",
         "reading": "カンジ",
-        "meaning": "executive secretary, coordinator, organizer, person in charge of making arrangements"
+        "meaning": "executive secretary, coordinator, organizer, person in charge of making arrangements |(vi) thư ký điều hành, người điều phối, người tổ chức, người phụ trách sắp xếp"
       },
       {
         "example": "主幹",
         "reading": "シュカン",
-        "meaning": "chief editor, managing editor, manager, person in charge"
+        "meaning": "chief editor, managing editor, manager, person in charge |(vi) chủ biên, biên tập viên quản lý, người quản lý, người phụ trách"
       },
       {
         "example": "基幹",
         "reading": "キカン",
-        "meaning": "mainstay, nucleus, key"
+        "meaning": "mainstay, nucleus, key |(vi) trụ cột, cốt lõi, then chốt"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "幹",
         "reading": "みき",
-        "meaning": "(tree) trunk, (arrow) shaft, (tool) handle, backbone, base"
+        "meaning": "(tree) trunk, (arrow) shaft, (tool) handle, backbone, base |(vi) thân cây, thân mũi tên, cán công cụ, xương sống, nền tảng"
       }
     ],
     "radical": {
       "symbol": "干",
-      "meaning": "pestle"
+      "meaning": "pestle |(vi) Can (cái chày)"
     },
     "parts": [
       "个",

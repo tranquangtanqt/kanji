@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "yoru, yo",
-    "meaning": "cause, depend, be limited",
+    "meaning": "cause, depend, be limited |(vi) nguyên nhân, phụ thuộc, giới hạn",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "因子（いんし）",
         "meaning": {
-          "english": "factor, element"
+          "english": "factor, element |(vi) nhân tố, yếu tố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in(nen)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "因数（いんすう）",
         "meaning": {
-          "english": "factor (math)"
+          "english": "factor (math) |(vi) thừa số (toán học)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in(nen)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "因縁（いんねん）",
         "meaning": {
-          "english": "fate, destiny"
+          "english": "fate, destiny |(vi) duyên số, định mệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in(nen)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "因果関係（いんがかんけい）",
         "meaning": {
-          "english": "causal relationship, nexus"
+          "english": "causal relationship, nexus |(vi) quan hệ nhân quả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in(nen)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "死因（しいん）",
         "meaning": {
-          "english": "cause of death"
+          "english": "cause of death |(vi) nguyên nhân tử vong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in(nen)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "原因（げんいん）",
         "meaning": {
-          "english": "cause, origin, source"
+          "english": "cause, origin, source |(vi) nguyên nhân, nguồn gốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in(nen)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "因る（よる）",
         "meaning": {
-          "english": "come from, be due to"
+          "english": "come from, be due to |(vi) xuất phát từ, do bởi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in(nen)_06_g.opus",
@@ -197,7 +197,7 @@
     "kanji": {
       "character": "因",
       "meaning": {
-        "english": "cause, depend, be limited"
+        "english": "cause, depend, be limited |(vi) nguyên nhân, phụ thuộc, giới hạn"
       },
       "strokes": {
         "count": 6,
@@ -247,7 +247,7 @@
         "romaji": "kunigamae"
       },
       "meaning": {
-        "english": "border, territorial boundaries"
+        "english": "border, territorial boundaries |(vi) Vi (đường biên, ranh giới)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kunigamae0.svg",
@@ -268,7 +268,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "636",
     "strokeCount": 6,
-    "meaning": "cause, factor, be associated with, depend on, be limited to",
+    "meaning": "cause, factor, be associated with, depend on, be limited to |(vi) nguyên nhân, nhân tố, liên quan đến, phụ thuộc vào, giới hạn ở |(hv) Nhân",
     "kunyomi": [
       "よ.る",
       "ちな.む"
@@ -280,44 +280,44 @@
       {
         "example": "因",
         "reading": "イン",
-        "meaning": "cause, factor, hetu (direct cause, esp. as opposed to indirect conditions), the basis of one's argument (in hetuvidya)"
+        "meaning": "cause, factor, hetu (direct cause, esp. as opposed to indirect conditions), the basis of one's argument (in hetuvidya) |(vi) nguyên nhân, nhân tố, nhân (trong Phật giáo, nguyên nhân trực tiếp), cơ sở lập luận"
       },
       {
         "example": "因縁",
         "reading": "インネン",
-        "meaning": "fate, destiny, connection, tie, bond, origin, pretext, justification, hetu and prataya (direct causes and indirect conditions, which underlie the actions of all things)"
+        "meaning": "fate, destiny, connection, tie, bond, origin, pretext, justification, hetu and prataya (direct causes and indirect conditions, which underlie the actions of all things) |(vi) duyên số, định mệnh, mối liên hệ, ràng buộc, nguồn gốc, cái cớ, sự biện minh, nhân duyên (nguyên nhân trực tiếp và gián tiếp)"
       },
       {
         "example": "主因",
         "reading": "シュイン",
-        "meaning": "primary cause, main factor"
+        "meaning": "primary cause, main factor |(vi) nguyên nhân chính, nhân tố chủ yếu"
       },
       {
         "example": "勝因",
         "reading": "ショウイン",
-        "meaning": "cause of victory, reason for (one's) success"
+        "meaning": "cause of victory, reason for (one's) success |(vi) nguyên nhân chiến thắng, lý do thành công"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "依る",
         "reading": "よる",
-        "meaning": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at"
+        "meaning": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at |(vi) do bởi, gây ra bởi, phụ thuộc vào, dựa trên, xuất phát từ, đặt trụ sở tại (một nơi, tổ chức)"
       },
       {
         "example": "よるところが大きい",
         "reading": "よるところがおおきい",
-        "meaning": "depending largely on, playing a large role in, due largely to"
+        "meaning": "depending largely on, playing a large role in, due largely to |(vi) phần lớn phụ thuộc vào, đóng vai trò lớn trong, chủ yếu là do"
       },
       {
         "example": "因む",
         "reading": "ちなむ",
-        "meaning": "to be associated (with), to be connected (with)"
+        "meaning": "to be associated (with), to be connected (with) |(vi) liên quan đến, có mối liên hệ với"
       }
     ],
     "radical": {
       "symbol": "囗",
-      "meaning": "enclosure"
+      "meaning": "enclosure |(vi) Vi (vây quanh, ranh giới)"
     },
     "parts": [
       "囗",

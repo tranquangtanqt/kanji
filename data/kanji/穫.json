@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "harvest",
+    "meaning": "harvest |(vi) thu hoạch",
     "kstroke": 18,
     "examples": [
       {
         "japanese": "収穫高（しゅうかくだか）",
         "meaning": {
-          "english": "crop yield"
+          "english": "crop yield |(vi) sản lượng thu hoạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shuu)kaku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "収穫期（しゅうかくき）",
         "meaning": {
-          "english": "harvest time"
+          "english": "harvest time |(vi) mùa thu hoạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shuu)kaku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "収穫する（しゅうかくする）",
         "meaning": {
-          "english": "harvest, gather in, reap"
+          "english": "harvest, gather in, reap |(vi) thu hoạch, gặt hái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shuu)kaku_06_c.opus",
@@ -138,7 +138,7 @@
     "kanji": {
       "character": "穫",
       "meaning": {
-        "english": "harvest"
+        "english": "harvest |(vi) thu hoạch"
       },
       "strokes": {
         "count": 18,
@@ -212,7 +212,7 @@
         "romaji": "nogihen"
       },
       "meaning": {
-        "english": "grain"
+        "english": "grain |(vi) Hòa (lúa, cây lúa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nogihen0.svg",
@@ -233,7 +233,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1642",
     "strokeCount": 18,
-    "meaning": "harvest, reap",
+    "meaning": "harvest, reap |(vi) thu hoạch, gặt hái |(hv) Hoạch",
     "kunyomi": [],
     "onyomi": [
       "カク"
@@ -242,13 +242,13 @@
       {
         "example": "規模に関する収穫",
         "reading": "キボニカンスルシュウカク",
-        "meaning": "returns to scale"
+        "meaning": "returns to scale |(vi) hiệu suất theo quy mô"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "禾",
-      "meaning": "grain"
+      "meaning": "grain |(vi) Hòa (lúa, cây lúa)"
     },
     "parts": [
       "又",

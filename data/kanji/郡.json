@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "county",
+    "meaning": "county |(vi) quận, huyện",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "郡部（ぐんぶ）",
         "meaning": {
-          "english": "rural districts, counties"
+          "english": "rural districts, counties |(vi) vùng nông thôn, các quận huyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tokushimaken-awa)gun_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "郡県制度（ぐんけんせいど）",
         "meaning": {
-          "english": "county and prefecture system"
+          "english": "county and prefecture system |(vi) chế độ quận huyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tokushimaken-awa)gun_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "新田郡（にったぐん）",
         "meaning": {
-          "english": "Nitta County"
+          "english": "Nitta County |(vi) Quận Nitta"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tokushimaken-awa)gun_06_c.opus",
@@ -132,7 +132,7 @@
     "kanji": {
       "character": "郡",
       "meaning": {
-        "english": "county"
+        "english": "county |(vi) quận, huyện"
       },
       "strokes": {
         "count": 10,
@@ -190,7 +190,7 @@
         "romaji": "oozato"
       },
       "meaning": {
-        "english": "village, country, city"
+        "english": "village, country, city |(vi) Ấp (làng, xóm, thành)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/oozato0.svg",
@@ -211,7 +211,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "965",
     "strokeCount": 10,
-    "meaning": "county, district",
+    "meaning": "county, district |(vi) quận, huyện |(hv) Quận",
     "kunyomi": [
       "こおり"
     ],
@@ -222,34 +222,34 @@
       {
         "example": "郡",
         "reading": "グン",
-        "meaning": "district, county, district (of 2-20 50-home neighbourhoods or townships, in the ritsuryō period), commandery (in China)"
+        "meaning": "district, county, district (of 2-20 50-home neighbourhoods or townships, in the ritsuryō period), commandery (in China) |(vi) quận, huyện, đơn vị hành chính (gồm 2-20 khu dân cư/thị trấn 50 hộ, thời kỳ ritsuryō), quận (ở Trung Quốc)"
       },
       {
         "example": "郡部",
         "reading": "グンブ",
-        "meaning": "rural districts, counties"
+        "meaning": "rural districts, counties |(vi) vùng nông thôn, các quận huyện"
       },
       {
         "example": "共産国家郡",
         "reading": "キョウサンコッカグン",
-        "meaning": "Communist bloc"
+        "meaning": "Communist bloc |(vi) khối cộng sản"
       },
       {
         "example": "国郡",
         "reading": "コクグン",
-        "meaning": "provinces and districts"
+        "meaning": "provinces and districts |(vi) tỉnh và quận huyện"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "郡",
         "reading": "ぐん",
-        "meaning": "district, county, district (of 2-20 50-home neighbourhoods or townships, in the ritsuryō period), commandery (in China)"
+        "meaning": "district, county, district (of 2-20 50-home neighbourhoods or townships, in the ritsuryō period), commandery (in China) |(vi) quận, huyện, đơn vị hành chính (gồm 2-20 khu dân cư/thị trấn 50 hộ, thời kỳ ritsuryō), quận (ở Trung Quốc)"
       },
       {
         "example": "郡司",
         "reading": "ぐんじ",
-        "meaning": "district governor (under the ritsuryō system)"
+        "meaning": "district governor (under the ritsuryō system) |(vi) quan cai quản quận (dưới chế độ ritsuryō)"
       }
     ],
     "radical": {
@@ -257,7 +257,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "town (阝 right)"
+      "meaning": "town (阝 right) |(vi) Ấp (làng, thành, bộ 阝 bên phải)"
     },
     "parts": [
       "ノ",

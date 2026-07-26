@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "seki, kaka, kakawaru",
-    "meaning": "concern, barrier",
+    "meaning": "concern, barrier |(vi) liên quan, rào chắn",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "関東（かんとう）",
         "meaning": {
-          "english": "eastern half of Japan"
+          "english": "eastern half of Japan |(vi) vùng Kanto (miền đông Nhật Bản)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-seki_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "関西（かんさい）",
         "meaning": {
-          "english": "south-western half of Japan"
+          "english": "south-western half of Japan |(vi) vùng Kansai (miền tây nam Nhật Bản)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-seki_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "関節（かんせつ）",
         "meaning": {
-          "english": "a joint (in the body)"
+          "english": "a joint (in the body) |(vi) khớp (trong cơ thể)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-seki_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "関心（かんしん）",
         "meaning": {
-          "english": "interest, concern"
+          "english": "interest, concern |(vi) quan tâm, sự chú ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-seki_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "玄関（げんかん）",
         "meaning": {
-          "english": "entry hall"
+          "english": "entry hall |(vi) sảnh vào nhà, tiền sảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-seki_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "税関（ぜいかん）",
         "meaning": {
-          "english": "the customs (at airport)"
+          "english": "the customs (at airport) |(vi) hải quan (tại sân bay)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-seki_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "関係する（かんけいする）",
         "meaning": {
-          "english": "be related"
+          "english": "be related |(vi) có liên quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-seki_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "関所（せきしょ）",
         "meaning": {
-          "english": "checkpoint"
+          "english": "checkpoint |(vi) trạm kiểm soát, ải quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-seki_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "関わる（かかわる）",
         "meaning": {
-          "english": "concern oneself, have to do with"
+          "english": "concern oneself, have to do with |(vi) liên can đến, dính líu đến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-seki_06_i.opus",
@@ -280,7 +280,7 @@
     "kanji": {
       "character": "関",
       "meaning": {
-        "english": "concern, barrier"
+        "english": "concern, barrier |(vi) liên quan, rào chắn"
       },
       "strokes": {
         "count": 14,
@@ -346,7 +346,7 @@
         "romaji": "mongamae"
       },
       "meaning": {
-        "english": "gate, door"
+        "english": "gate, door |(vi) Môn (cổng, cửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mongamae0.svg",
@@ -367,7 +367,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "70",
     "strokeCount": 14,
-    "meaning": "connection, barrier, gateway, involve, concerning",
+    "meaning": "connection, barrier, gateway, involve, concerning |(vi) mối liên hệ, rào chắn, cổng ải, liên quan đến, về việc |(hv) Quan",
     "kunyomi": [
       "せき",
       "-ぜき",
@@ -382,59 +382,59 @@
       {
         "example": "関",
         "reading": "カン",
-        "meaning": "barrier, gate"
+        "meaning": "barrier, gate |(vi) rào chắn, cổng ải"
       },
       {
         "example": "関係",
         "reading": "カンケイ",
-        "meaning": "relation, relationship, connection, participation, involvement, concern, influence, effect, sexual relations, sexual relationship, related to, connected to"
+        "meaning": "relation, relationship, connection, participation, involvement, concern, influence, effect, sexual relations, sexual relationship, related to, connected to |(vi) mối quan hệ, liên hệ, sự tham gia, sự liên can, ảnh hưởng, quan hệ tình dục, liên quan đến"
       },
       {
         "example": "連関",
         "reading": "レンカン",
-        "meaning": "connection, relation, linkage"
+        "meaning": "connection, relation, linkage |(vi) sự liên kết, mối liên hệ"
       },
       {
         "example": "通関",
         "reading": "ツウカン",
-        "meaning": "customs clearance"
+        "meaning": "customs clearance |(vi) thông quan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "関",
         "reading": "せき",
-        "meaning": "barrier, gate, seki, mutual life"
+        "meaning": "barrier, gate, seki, mutual life |(vi) rào chắn, cổng ải, ải quan"
       },
       {
         "example": "関取",
         "reading": "せきとり",
-        "meaning": "ranking wrestler in the makuuchi (senior-grade) or juryo (junior-grade) divisions"
+        "meaning": "ranking wrestler in the makuuchi (senior-grade) or juryo (junior-grade) divisions |(vi) đô vật sumo hạng makuuchi hoặc juryo"
       },
       {
         "example": "霞ヶ関",
         "reading": "かすみがせき",
-        "meaning": "Kasumigaseki, district of Tokyo where most of Japan's government ministry offices are located, government ministries (of Japan), Japanese government bureaucracy"
+        "meaning": "Kasumigaseki, district of Tokyo where most of Japan's government ministry offices are located, government ministries (of Japan), Japanese government bureaucracy |(vi) Kasumigaseki, khu vực ở Tokyo tập trung phần lớn các bộ ngành chính phủ Nhật Bản, chỉ chung bộ máy chính quyền Nhật"
       },
       {
         "example": "関わる",
         "reading": "かかわる",
-        "meaning": "to be involved (in), to get involved (in), to concern oneself (with), to take part (in), to interfere (in), to relate to (a matter), to pertain to, to concern, to have to do with, to (seriously) affect, to concern, to have a serious bearing (on), to stick (to), to adhere (to), to be particular (about)"
+        "meaning": "to be involved (in), to get involved (in), to concern oneself (with), to take part (in), to interfere (in), to relate to (a matter), to pertain to, to concern, to have to do with, to (seriously) affect, to concern, to have a serious bearing (on), to stick (to), to adhere (to), to be particular (about) |(vi) liên can, dính líu, quan tâm đến, tham gia vào, can thiệp vào, liên quan đến (một vấn đề), ảnh hưởng nghiêm trọng đến, bám chấp vào, khắt khe về"
       },
       {
         "example": "覗き機関",
         "reading": "のぞきからくり",
-        "meaning": "peep show, device with lens mounted on a stand or in a box to view enlarged pictures"
+        "meaning": "peep show, device with lens mounted on a stand or in a box to view enlarged pictures |(vi) hộp xem tranh phóng đại (kính lúp gắn trên giá hoặc trong hộp)"
       },
       {
         "example": "水機関",
         "reading": "みずからくり",
-        "meaning": "puppet powered by (falling) water, water-powered contrivance, show using such a device (in Edo-period Osaka)"
+        "meaning": "puppet powered by (falling) water, water-powered contrivance, show using such a device (in Edo-period Osaka) |(vi) con rối chạy bằng sức nước, cơ cấu chạy bằng nước, màn trình diễn dùng thiết bị này (thời Edo ở Osaka)"
       }
     ],
     "radical": {
       "symbol": "門",
-      "meaning": "gate"
+      "meaning": "gate |(vi) Môn (cổng)"
     },
     "parts": [
       "ハ",

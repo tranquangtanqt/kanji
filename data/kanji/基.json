@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "moto, motoi",
-    "meaning": "base, foundation",
+    "meaning": "base, foundation |(vi) nền tảng, cơ sở",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "基礎（きそ）",
         "meaning": {
-          "english": "foundation"
+          "english": "foundation |(vi) nền móng, cơ sở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/motoi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "基本（きほん）",
         "meaning": {
-          "english": "basis"
+          "english": "basis |(vi) cơ bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/motoi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "基準（きじゅん）",
         "meaning": {
-          "english": "norm, standard"
+          "english": "norm, standard |(vi) tiêu chuẩn, chuẩn mực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/motoi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "基地（きち）",
         "meaning": {
-          "english": "base [n.]"
+          "english": "base [n.] |(vi) căn cứ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/motoi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "基金（ききん）",
         "meaning": {
-          "english": "funds"
+          "english": "funds |(vi) quỹ, kinh phí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/motoi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "基（もと）",
         "meaning": {
-          "english": "basis"
+          "english": "basis |(vi) nền tảng, gốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/motoi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "基づく（もとづく）",
         "meaning": {
-          "english": "be based on"
+          "english": "be based on |(vi) dựa trên, căn cứ vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/motoi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "基（もとい）",
         "meaning": {
-          "english": "basis"
+          "english": "basis |(vi) nền tảng, cơ sở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/motoi_06_h.opus",
@@ -207,7 +207,7 @@
     "kanji": {
       "character": "基",
       "meaning": {
-        "english": "base, foundation"
+        "english": "base, foundation |(vi) nền tảng, cơ sở"
       },
       "strokes": {
         "count": 11,
@@ -267,7 +267,7 @@
         "romaji": "tsuchi"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
@@ -288,7 +288,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "241",
     "strokeCount": 11,
-    "meaning": "fundamentals, radical (chem), counter for machines, foundation",
+    "meaning": "fundamentals, radical (chem), counter for machines, foundation |(vi) yếu tố cơ bản, gốc (hóa học), lượng từ đếm máy móc, nền tảng |(hv) Cơ",
     "kunyomi": [
       "もと",
       "もとい"
@@ -300,54 +300,54 @@
       {
         "example": "基",
         "reading": "キ",
-        "meaning": "group, (free) radical, counter for installed or mounted objects (e.g. stone lanterns, gravestones, satellites)"
+        "meaning": "group, (free) radical, counter for installed or mounted objects (e.g. stone lanterns, gravestones, satellites) |(vi) nhóm chức, gốc tự do (hóa học), lượng từ đếm vật lắp đặt (đèn đá, bia mộ, vệ tinh...)"
       },
       {
         "example": "起因",
         "reading": "キイン",
-        "meaning": "to be caused by, to result from, to arise from, to stem from, to be due to, cause, origin"
+        "meaning": "to be caused by, to result from, to arise from, to stem from, to be due to, cause, origin |(vi) bắt nguồn từ, do, nguyên nhân, gốc rễ"
       },
       {
         "example": "塩基",
         "reading": "エンキ",
-        "meaning": "base"
+        "meaning": "base |(vi) bazơ (hóa học)"
       },
       {
         "example": "加爾基",
         "reading": "カルキ",
-        "meaning": "chlorinated lime, calcium hypochlorite, chloride of lime, bleaching powder"
+        "meaning": "chlorinated lime, calcium hypochlorite, chloride of lime, bleaching powder |(vi) vôi clo hóa, canxi hypoclorit, bột tẩy trắng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "元",
         "reading": "もと",
-        "meaning": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry)"
+        "meaning": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry) |(vi) nguồn gốc, khởi đầu, nền tảng, cơ sở, gốc rễ, nguyên nhân, nguyên liệu, thành phần, vốn, giá gốc, gốc cây, phần cầm tay (bút lông, đũa...), ba câu đầu bài waka, lượng từ đếm cây cối/chim ưng"
       },
       {
         "example": "基",
         "reading": "もとい",
-        "meaning": "basis, foundation, origin, source"
+        "meaning": "basis, foundation, origin, source |(vi) nền tảng, cơ sở, nguồn gốc"
       },
       {
         "example": "失敗は成功のもと",
         "reading": "しっぱいはせいこうのもと",
-        "meaning": "failure teaches success, failure is a stepping-stone to success"
+        "meaning": "failure teaches success, failure is a stepping-stone to success |(vi) thất bại là mẹ thành công"
       },
       {
         "example": "生兵法は大怪我のもと",
         "reading": "なまびょうほうはおおけがのもと",
-        "meaning": "a little learning is a dangerous thing"
+        "meaning": "a little learning is a dangerous thing |(vi) biết nửa vời dễ gây họa lớn (như dao hai lưỡi)"
       },
       {
         "example": "基",
         "reading": "もとい",
-        "meaning": "basis, foundation, origin, source"
+        "meaning": "basis, foundation, origin, source |(vi) nền tảng, cơ sở, nguồn gốc"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "ハ",

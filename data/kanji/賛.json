@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "praise, agreement",
+    "meaning": "praise, agreement |(vi) khen ngợi, tán thành",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "賛成する（さんせいする）",
         "meaning": {
-          "english": "agree"
+          "english": "agree |(vi) tán thành, đồng ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san(pi)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "賛同する（さんどうする）",
         "meaning": {
-          "english": "agree"
+          "english": "agree |(vi) tán đồng, đồng tình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san(pi)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "賞賛する（しょうさんする）",
         "meaning": {
-          "english": "praise"
+          "english": "praise |(vi) khen ngợi, ca ngợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san(pi)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "絶賛する（ぜっさんする）",
         "meaning": {
-          "english": "praise highly"
+          "english": "praise highly |(vi) khen ngợi hết lời, ca tụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san(pi)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "協賛する（きょうさんする）",
         "meaning": {
-          "english": "cooperate, cosponsor"
+          "english": "cooperate, cosponsor |(vi) hợp tác tài trợ, đồng tài trợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san(pi)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "賛否（さんぴ）",
         "meaning": {
-          "english": "yes and no"
+          "english": "yes and no |(vi) tán thành hay phản đối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san(pi)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "賛意（さんい）",
         "meaning": {
-          "english": "assent"
+          "english": "assent |(vi) sự đồng ý, sự tán thành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san(pi)_06_g.opus",
@@ -216,7 +216,7 @@
     "kanji": {
       "character": "賛",
       "meaning": {
-        "english": "praise, agreement"
+        "english": "praise, agreement |(vi) khen ngợi, tán thành"
       },
       "strokes": {
         "count": 15,
@@ -284,7 +284,7 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (vỏ sò, của cải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -305,7 +305,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "868",
     "strokeCount": 15,
-    "meaning": "approve, praise, title or inscription on picture, assist, agree with",
+    "meaning": "approve, praise, title or inscription on picture, assist, agree with |(vi) tán thành, khen ngợi, lời đề trên tranh, trợ giúp, đồng ý |(hv) Tán",
     "kunyomi": [
       "たす.ける",
       "たた.える"
@@ -317,34 +317,34 @@
       {
         "example": "賛",
         "reading": "サン",
-        "meaning": "praise, tribute, inscription (on a painting)"
+        "meaning": "praise, tribute, inscription (on a painting) |(vi) lời khen, sự tán dương, lời đề trên tranh"
       },
       {
         "example": "賛意",
         "reading": "サンイ",
-        "meaning": "approval, assent"
+        "meaning": "approval, assent |(vi) sự tán thành, sự đồng ý"
       },
       {
         "example": "協賛",
         "reading": "キョウサン",
-        "meaning": "support, mutual aid, cooperation, approval, authorization, authorisation"
+        "meaning": "support, mutual aid, cooperation, approval, authorization, authorisation |(vi) hợp tác tài trợ, ủng hộ, tán trợ"
       },
       {
         "example": "絶賛",
         "reading": "ゼッサン",
-        "meaning": "high praise, great admiration, acclaim, with critical acclaim, to rave reviews, with high commendations, currently, presently, right now"
+        "meaning": "high praise, great admiration, acclaim, with critical acclaim, to rave reviews, with high commendations, currently, presently, right now |(vi) lời khen ngợi hết mực, sự thán phục lớn, được hoan nghênh nhiệt liệt, được đánh giá cao"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "称える",
         "reading": "たたえる",
-        "meaning": "to praise, to extol, to hail, to laud, to celebrate"
+        "meaning": "to praise, to extol, to hail, to laud, to celebrate |(vi) ca ngợi, tán tụng, tôn vinh"
       }
     ],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò)"
     },
     "parts": [
       "ハ",

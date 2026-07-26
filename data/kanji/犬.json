@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "inu",
-    "meaning": "dog",
+    "meaning": "dog |(vi) chó",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "番犬（ばんけん）",
         "meaning": {
-          "english": "watchdog"
+          "english": "watchdog |(vi) chó canh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "盲導犬（もうどうけん）",
         "meaning": {
-          "english": "seeing eye dog"
+          "english": "seeing eye dog |(vi) chó dẫn đường (cho người khiếm thị)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "犬（いぬ）",
         "meaning": {
-          "english": "dog"
+          "english": "dog |(vi) chó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "飼い犬（かいいぬ）",
         "meaning": {
-          "english": "pet dog"
+          "english": "pet dog |(vi) chó nuôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "子犬（こいぬ）",
         "meaning": {
-          "english": "puppy"
+          "english": "puppy |(vi) chó con"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inu_06_e.opus",
@@ -190,7 +190,7 @@
     "kanji": {
       "character": "犬",
       "meaning": {
-        "english": "dog"
+        "english": "dog |(vi) chó"
       },
       "strokes": {
         "count": 4,
@@ -236,7 +236,7 @@
         "romaji": "inu"
       },
       "meaning": {
-        "english": "dog"
+        "english": "dog |(vi) Khuyển (chó)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/inu0.svg",
@@ -257,7 +257,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1326",
     "strokeCount": 4,
-    "meaning": "dog",
+    "meaning": "dog |(vi) chó |(hv) Khuyển",
     "kunyomi": [
       "いぬ",
       "いぬ-"
@@ -269,44 +269,44 @@
       {
         "example": "犬猿の仲",
         "reading": "ケンエンノナカ",
-        "meaning": "like cats and dogs, (on) very bad terms, relationship of dogs and monkeys"
+        "meaning": "like cats and dogs, (on) very bad terms, relationship of dogs and monkeys |(vi) quan hệ như chó với mèo, mối quan hệ rất xấu"
       },
       {
         "example": "犬猿",
         "reading": "ケンエン",
-        "meaning": "cats and dogs (as an example of a bad relationship), dogs and monkeys"
+        "meaning": "cats and dogs (as an example of a bad relationship), dogs and monkeys |(vi) chó và khỉ (ví dụ về mối quan hệ xấu), như chó với mèo"
       },
       {
         "example": "柴犬",
         "reading": "シバイヌ",
-        "meaning": "shiba inu (dog breed), shiba, brushwood dog"
+        "meaning": "shiba inu (dog breed), shiba, brushwood dog |(vi) chó Shiba (giống chó Nhật)"
       },
       {
         "example": "ポメラニア犬",
         "reading": "ポメラニアケン",
-        "meaning": "Pomeranian (dog)"
+        "meaning": "Pomeranian (dog) |(vi) chó Phốc sóc (Pomeranian)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "犬",
         "reading": "いぬ",
-        "meaning": "dog (Canis (lupus) familiaris), squealer, rat, snitch, informer, informant, spy, loser, asshole, counterfeit, inferior, useless, wasteful"
+        "meaning": "dog (Canis (lupus) familiaris), squealer, rat, snitch, informer, informant, spy, loser, asshole, counterfeit, inferior, useless, wasteful |(vi) chó (Canis lupus familiaris), kẻ chỉ điểm, tay trong, người báo tin, gián điệp, kẻ thua cuộc, đồ khốn, hàng giả, hàng kém chất lượng, vô dụng, lãng phí"
       },
       {
         "example": "犬合わせ",
         "reading": "いぬあわせ",
-        "meaning": "dogfighting"
+        "meaning": "dogfighting |(vi) đấu chó"
       },
       {
         "example": "野良犬",
         "reading": "のらいぬ",
-        "meaning": "stray dog"
+        "meaning": "stray dog |(vi) chó hoang"
       },
       {
         "example": "柴犬",
         "reading": "しばいぬ",
-        "meaning": "shiba inu (dog breed), shiba, brushwood dog"
+        "meaning": "shiba inu (dog breed), shiba, brushwood dog |(vi) chó Shiba (giống chó Nhật)"
       }
     ],
     "radical": {
@@ -314,7 +314,7 @@
       "forms": [
         "犭"
       ],
-      "meaning": "dog"
+      "meaning": "dog |(vi) Khuyển (chó)"
     },
     "parts": [
       "丶",

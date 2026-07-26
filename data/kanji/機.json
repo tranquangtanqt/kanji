@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "hata",
-    "meaning": "machine, opportunity",
+    "meaning": "machine, opportunity |(vi) máy móc, cơ hội",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "機械（きかい）",
         "meaning": {
-          "english": "machine"
+          "english": "machine |(vi) máy móc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hata(ori)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "機会（きかい）",
         "meaning": {
-          "english": "opportunity"
+          "english": "opportunity |(vi) cơ hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hata(ori)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "機能（きのう）",
         "meaning": {
-          "english": "function"
+          "english": "function |(vi) chức năng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hata(ori)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "機嫌（きげん）",
         "meaning": {
-          "english": "mood"
+          "english": "mood |(vi) tâm trạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hata(ori)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "機敏な（きびんな）",
         "meaning": {
-          "english": "smart, quick"
+          "english": "smart, quick |(vi) nhanh nhạy, lanh lợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hata(ori)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "危機（きき）",
         "meaning": {
-          "english": "crisis"
+          "english": "crisis |(vi) khủng hoảng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hata(ori)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "動機（どうき）",
         "meaning": {
-          "english": "incentive"
+          "english": "incentive |(vi) động cơ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hata(ori)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "飛行機（ひこうき）",
         "meaning": {
-          "english": "airplane"
+          "english": "airplane |(vi) máy bay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hata(ori)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "待機する（たいきする）",
         "meaning": {
-          "english": "stand by [v.i.]"
+          "english": "stand by [v.i.] |(vi) chờ lệnh, sẵn sàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hata(ori)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "投機する（とうきする）",
         "meaning": {
-          "english": "speculate (stock, currency)"
+          "english": "speculate (stock, currency) |(vi) đầu cơ (cổ phiếu, tiền tệ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hata(ori)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "機（はた）",
         "meaning": {
-          "english": "loom"
+          "english": "loom |(vi) khung cửi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hata(ori)_06_k.opus",
@@ -274,7 +274,7 @@
     "kanji": {
       "character": "機",
       "meaning": {
-        "english": "machine, opportunity"
+        "english": "machine, opportunity |(vi) máy móc, cơ hội"
       },
       "strokes": {
         "count": 16,
@@ -344,7 +344,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -365,7 +365,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "127",
     "strokeCount": 16,
-    "meaning": "loom, mechanism, machine, airplane, opportunity, potency, efficacy, occasion",
+    "meaning": "loom, mechanism, machine, airplane, opportunity, potency, efficacy, occasion |(vi) khung cửi, cơ chế, máy móc, máy bay, cơ hội, năng lực, hiệu quả, dịp |(hv) Cơ",
     "kunyomi": [
       "はた"
     ],
@@ -376,44 +376,44 @@
       {
         "example": "機",
         "reading": "キ",
-        "meaning": "chance, opportunity, machine, aircraft, counter for aircraft, counter for (remaining) lives"
+        "meaning": "chance, opportunity, machine, aircraft, counter for aircraft, counter for (remaining) lives |(vi) cơ hội, dịp, máy móc, máy bay, lượng từ đếm máy bay, lượng từ đếm số mạng (còn lại)"
       },
       {
         "example": "機運",
         "reading": "キウン",
-        "meaning": "opportunity, chance, good time (to do), trend, tendency, momentum"
+        "meaning": "opportunity, chance, good time (to do), trend, tendency, momentum |(vi) cơ hội, thời cơ, thời điểm thích hợp, xu hướng, đà"
       },
       {
         "example": "端末機",
         "reading": "タンマツキ",
-        "meaning": "terminal (unit)"
+        "meaning": "terminal (unit) |(vi) thiết bị đầu cuối"
       },
       {
         "example": "有機",
         "reading": "ユウキ",
-        "meaning": "organic"
+        "meaning": "organic |(vi) hữu cơ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "機",
         "reading": "はた",
-        "meaning": "loom"
+        "meaning": "loom |(vi) khung cửi"
       },
       {
         "example": "機織り",
         "reading": "はたおり",
-        "meaning": "weaving, weaver"
+        "meaning": "weaving, weaver |(vi) dệt vải, thợ dệt"
       },
       {
         "example": "高機",
         "reading": "たかばた",
-        "meaning": "traditional Japanese treadle-operated tall loom"
+        "meaning": "traditional Japanese treadle-operated tall loom |(vi) khung cửi cao truyền thống Nhật Bản dùng bàn đạp"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây)"
     },
     "parts": [
       "ノ",

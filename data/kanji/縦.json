@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "tate",
-    "meaning": "vertical",
+    "meaning": "vertical |(vi) chiều dọc",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "縦横に（じゅうおうに）",
         "meaning": {
-          "english": "in all directions, freely"
+          "english": "in all directions, freely |(vi) khắp mọi hướng, tự do"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tate_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "縦断する（じゅうだんする）",
         "meaning": {
-          "english": "cut across, travel through"
+          "english": "cut across, travel through |(vi) cắt ngang, đi xuyên qua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tate_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "縦貫する（じゅうかんする）",
         "meaning": {
-          "english": "traverse, run through"
+          "english": "traverse, run through |(vi) xuyên suốt, chạy dọc qua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tate_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "操縦する（そうじゅうする）",
         "meaning": {
-          "english": "control, operate, pilot"
+          "english": "control, operate, pilot |(vi) điều khiển, vận hành, lái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tate_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "縦（たて）",
         "meaning": {
-          "english": "length, height"
+          "english": "length, height |(vi) chiều dài, chiều cao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tate_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "縦書き（たてがき）",
         "meaning": {
-          "english": "vertical writing"
+          "english": "vertical writing |(vi) viết dọc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tate_06_f.opus",
@@ -164,7 +164,7 @@
     "kanji": {
       "character": "縦",
       "meaning": {
-        "english": "vertical"
+        "english": "vertical |(vi) chiều dọc"
       },
       "strokes": {
         "count": 16,
@@ -234,7 +234,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -255,7 +255,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1258",
     "strokeCount": 16,
-    "meaning": "vertical, length, height, self-indulgent, wayward",
+    "meaning": "vertical, length, height, self-indulgent, wayward |(vi) chiều dọc, chiều dài, chiều cao, buông thả, ngang bướng |(hv) Tung",
     "kunyomi": [
       "たて"
     ],
@@ -266,34 +266,34 @@
       {
         "example": "縦断",
         "reading": "ジュウダン",
-        "meaning": "running through (north-south), cutting across, travelling across, cutting vertically, sectioning longitudinally"
+        "meaning": "running through (north-south), cutting across, travelling across, cutting vertically, sectioning longitudinally |(vi) chạy dọc (bắc-nam), cắt ngang qua, đi xuyên qua, cắt theo chiều dọc"
       },
       {
         "example": "縦横",
         "reading": "ジュウオウ",
-        "meaning": "length and width, length and breadth, lengthwise and crosswise, vertical and horizontal, the four cardinal points, every direction, all directions, as one wishes, as one pleases, at will"
+        "meaning": "length and width, length and breadth, lengthwise and crosswise, vertical and horizontal, the four cardinal points, every direction, all directions, as one wishes, as one pleases, at will |(vi) chiều dài và chiều rộng, dọc và ngang, khắp bốn phương, mọi hướng, tùy ý, thỏa thích"
       },
       {
         "example": "無線操縦",
         "reading": "ムセンソウジュウ",
-        "meaning": "radio control"
+        "meaning": "radio control |(vi) điều khiển bằng vô tuyến"
       },
       {
         "example": "自動操縦",
         "reading": "ジドウソウジュウ",
-        "meaning": "automatic pilot, autopilot, automatic control"
+        "meaning": "automatic pilot, autopilot, automatic control |(vi) lái tự động, chế độ tự động"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "縦",
         "reading": "たて",
-        "meaning": "the vertical, height, front-to-back, length, north-to-south, vertical (relationship), hierarchy, (weaving) warp"
+        "meaning": "the vertical, height, front-to-back, length, north-to-south, vertical (relationship), hierarchy, (weaving) warp |(vi) chiều dọc, chiều cao, trước sau, chiều dài, bắc nam, quan hệ trên dưới, thứ bậc, sợi dọc (dệt vải)"
       },
       {
         "example": "縦書き",
         "reading": "たてがき",
-        "meaning": "writing vertically, vertical writing"
+        "meaning": "writing vertically, vertical writing |(vi) viết theo chiều dọc"
       }
     ],
     "radical": {
@@ -301,7 +301,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi)"
     },
     "parts": [
       "小",

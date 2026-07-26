@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "kishi",
-    "meaning": "shore, bank, coast",
+    "meaning": "shore, bank, coast |(vi) bờ, bờ biển, bờ sông",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "岸壁（がんぺき）",
         "meaning": {
-          "english": "wharf, steep cliff"
+          "english": "wharf, steep cliff |(vi) bến tàu, vách đá dựng đứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kishi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "海岸（かいがん）",
         "meaning": {
-          "english": "coast, beach"
+          "english": "coast, beach |(vi) bờ biển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kishi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "沿岸（えんがん）",
         "meaning": {
-          "english": "(along) coast, shore"
+          "english": "(along) coast, shore |(vi) duyên hải, ven bờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kishi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "対岸（たいがん）",
         "meaning": {
-          "english": "opposite bank"
+          "english": "opposite bank |(vi) bờ đối diện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kishi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "彼岸（ひがん）",
         "meaning": {
-          "english": "equinoctial week, Nirvana"
+          "english": "equinoctial week, Nirvana |(vi) tuần lễ xuân/thu phân, cõi Niết Bàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kishi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "岸（きし）",
         "meaning": {
-          "english": "bank"
+          "english": "bank |(vi) bờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kishi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "向こう岸（むこうぎし）",
         "meaning": {
-          "english": "opposite bank"
+          "english": "opposite bank |(vi) bờ bên kia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kishi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "*河岸（かし）",
         "meaning": {
-          "english": "riverbank, fish market"
+          "english": "riverbank, fish market |(vi) bờ sông, chợ cá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kishi_06_h.opus",
@@ -205,7 +205,7 @@
     "kanji": {
       "character": "岸",
       "meaning": {
-        "english": "shore, bank, coast"
+        "english": "shore, bank, coast |(vi) bờ, bờ biển, bờ sông"
       },
       "strokes": {
         "count": 8,
@@ -259,7 +259,7 @@
         "romaji": "yamakanmuri"
       },
       "meaning": {
-        "english": "mountain"
+        "english": "mountain |(vi) Sơn (núi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yamakanmuri0.svg",
@@ -280,7 +280,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "556",
     "strokeCount": 8,
-    "meaning": "beach",
+    "meaning": "beach |(vi) bờ biển |(hv) Ngạn",
     "kunyomi": [
       "きし"
     ],
@@ -291,49 +291,49 @@
       {
         "example": "岸壁",
         "reading": "ガンペキ",
-        "meaning": "quay, wharf, jetty, wall-like shoreline, cliff wall"
+        "meaning": "quay, wharf, jetty, wall-like shoreline, cliff wall |(vi) bến tàu, cầu cảng, bờ dựng đứng như tường, vách đá"
       },
       {
         "example": "岸頭",
         "reading": "ガントウ",
-        "meaning": "shore, wharf"
+        "meaning": "shore, wharf |(vi) bờ, bến tàu"
       },
       {
         "example": "護岸",
         "reading": "ゴガン",
-        "meaning": "river dike"
+        "meaning": "river dike |(vi) đê kè bảo vệ bờ sông"
       },
       {
         "example": "対岸",
         "reading": "タイガン",
-        "meaning": "opposite shore"
+        "meaning": "opposite shore |(vi) bờ đối diện"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "岸",
         "reading": "きし",
-        "meaning": "bank, coast, shore"
+        "meaning": "bank, coast, shore |(vi) bờ, bờ biển"
       },
       {
         "example": "岸辺",
         "reading": "きしべ",
-        "meaning": "shore, bank (of a body of water)"
+        "meaning": "shore, bank (of a body of water) |(vi) bờ (sông, hồ...)"
       },
       {
         "example": "片岸",
         "reading": "かたぎし",
-        "meaning": "one bank (of a river)"
+        "meaning": "one bank (of a river) |(vi) một bên bờ (sông)"
       },
       {
         "example": "彼の岸",
         "reading": "かのきし",
-        "meaning": "nirvana"
+        "meaning": "nirvana |(vi) cõi Niết Bàn, bờ bên kia"
       }
     ],
     "radical": {
       "symbol": "山",
-      "meaning": "mountain"
+      "meaning": "mountain |(vi) Sơn (núi)"
     },
     "parts": [
       "厂",

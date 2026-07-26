@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "aya, ayashii, ayashimu",
-    "meaning": "mysterious, strange, doubt",
+    "meaning": "mysterious, strange, doubt |(vi) bí ẩn, kỳ lạ, nghi ngờ",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "怪獣（かいじゅう）",
         "meaning": {
-          "english": "monster"
+          "english": "monster |(vi) quái thú"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aya(shimu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "怪物（かいぶつ）",
         "meaning": {
-          "english": "monster"
+          "english": "monster |(vi) quái vật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aya(shimu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "怪談（かいだん）",
         "meaning": {
-          "english": "ghost story"
+          "english": "ghost story |(vi) chuyện ma"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aya(shimu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "妖怪（ようかい）",
         "meaning": {
-          "english": "monstrous creature, hobgoblin"
+          "english": "monstrous creature, hobgoblin |(vi) yêu quái, yêu tinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aya(shimu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "怪事件（かいじけん）",
         "meaning": {
-          "english": "unsolved mystery"
+          "english": "unsolved mystery |(vi) vụ án bí ẩn chưa có lời giải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aya(shimu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "怪奇な（かいきな）",
         "meaning": {
-          "english": "bizarre, strange"
+          "english": "bizarre, strange |(vi) kỳ dị, kỳ quái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aya(shimu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "怪我（けが）",
         "meaning": {
-          "english": "injury"
+          "english": "injury |(vi) vết thương, chấn thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aya(shimu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "怪しい（あやしい）",
         "meaning": {
-          "english": "suspicious, dubious, doubtful"
+          "english": "suspicious, dubious, doubtful |(vi) khả nghi, đáng ngờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aya(shimu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "怪しむ（あやしむ）",
         "meaning": {
-          "english": "suspect [v.t.]"
+          "english": "suspect [v.t.] |(vi) nghi ngờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aya(shimu)_06_i.opus",
@@ -211,7 +211,7 @@
     "kanji": {
       "character": "怪",
       "meaning": {
-        "english": "mysterious, strange, doubt"
+        "english": "mysterious, strange, doubt |(vi) bí ẩn, kỳ lạ, nghi ngờ"
       },
       "strokes": {
         "count": 8,
@@ -265,7 +265,7 @@
         "romaji": "risshinben"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (trái tim, tâm trí)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/risshinben0.svg",
@@ -286,7 +286,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1634",
     "strokeCount": 8,
-    "meaning": "suspicious, mystery, apparition",
+    "meaning": "suspicious, mystery, apparition |(vi) khả nghi, bí ẩn, hồn ma |(hv) Quái",
     "kunyomi": [
       "あや.しい",
       "あや.しむ"
@@ -299,59 +299,59 @@
       {
         "example": "怪",
         "reading": "カイ",
-        "meaning": "mystery, wonder"
+        "meaning": "mystery, wonder |(vi) bí ẩn, điều kỳ diệu"
       },
       {
         "example": "怪獣",
         "reading": "カイジュウ",
-        "meaning": "monster"
+        "meaning": "monster |(vi) quái thú"
       },
       {
         "example": "奇々怪々",
         "reading": "キキカイカイ",
-        "meaning": "very strange, bizarre, weird, mysterious"
+        "meaning": "very strange, bizarre, weird, mysterious |(vi) rất kỳ lạ, quái dị, bí ẩn"
       },
       {
         "example": "夜道怪",
         "reading": "ヤドウカイ",
-        "meaning": "folk monster who wanders at night injuring and kidnapping people"
+        "meaning": "folk monster who wanders at night injuring and kidnapping people |(vi) yêu quái dân gian lang thang ban đêm gây thương tích và bắt cóc người"
       },
       {
         "example": "怪我",
         "reading": "ケガ",
-        "meaning": "injury, wound, mistake, accident, loss"
+        "meaning": "injury, wound, mistake, accident, loss |(vi) vết thương, chấn thương, sai lầm, tai nạn, mất mát"
       },
       {
         "example": "けが人",
         "reading": "ケガニン",
-        "meaning": "wounded person, injured person"
+        "meaning": "wounded person, injured person |(vi) người bị thương"
       },
       {
         "example": "物怪",
         "reading": "モッケ",
-        "meaning": "unexpected"
+        "meaning": "unexpected |(vi) bất ngờ, ngoài dự tính"
       },
       {
         "example": "物の怪",
         "reading": "モノノケ",
-        "meaning": "evil spirit, (vengeful) ghost, specter, spectre"
+        "meaning": "evil spirit, (vengeful) ghost, specter, spectre |(vi) ác linh, hồn ma (báo oán)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "怪しい",
         "reading": "あやしい",
-        "meaning": "suspicious, dubious, questionable, dodgy, shady, fishy, doubtful, unsure, uncertain, unlikely, implausible, untrustworthy, unreliable, clumsy, awkward, shaky, poor, strange, weird, eerie, spooky, uncanny, ominous (e.g. weather), threatening, dangerous (e.g. financial situation), uncertain, suspicious (of a potential amorous relation), mysterious, bewitching, alluring, enticing, enchanting"
+        "meaning": "suspicious, dubious, questionable, dodgy, shady, fishy, doubtful, unsure, uncertain, unlikely, implausible, untrustworthy, unreliable, clumsy, awkward, shaky, poor, strange, weird, eerie, spooky, uncanny, ominous (e.g. weather), threatening, dangerous (e.g. financial situation), uncertain, suspicious (of a potential amorous relation), mysterious, bewitching, alluring, enticing, enchanting |(vi) khả nghi, đáng ngờ, mờ ám, không chắc chắn, khó tin, không đáng tin cậy, vụng về, kỳ lạ, quái dị, rùng rợn, đáng sợ, bất thường (thời tiết), nguy hiểm (tình hình tài chính), khả nghi (quan hệ tình cảm), bí ẩn, mê hoặc, quyến rũ"
       },
       {
         "example": "怪しい手つきで",
         "reading": "あやしいてつきで",
-        "meaning": "clumsily, with clumsy hands"
+        "meaning": "clumsily, with clumsy hands |(vi) một cách vụng về, với đôi tay lóng ngóng"
       },
       {
         "example": "怪しむ",
         "reading": "あやしむ",
-        "meaning": "to suspect"
+        "meaning": "to suspect |(vi) nghi ngờ"
       }
     ],
     "radical": {
@@ -360,7 +360,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim)"
     },
     "parts": [
       "又",

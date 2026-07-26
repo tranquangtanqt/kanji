@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "hai",
-    "meaning": "ash",
+    "meaning": "ash |(vi) tro",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "灰白色（かいはくしょく）",
         "meaning": {
-          "english": "grayish white"
+          "english": "grayish white |(vi) màu xám trắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "石灰（せっかい）",
         "meaning": {
-          "english": "lime, quicklime, caustic lime"
+          "english": "lime, quicklime, caustic lime |(vi) vôi, vôi sống, vôi tôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "灰（はい）",
         "meaning": {
-          "english": "ash"
+          "english": "ash |(vi) tro"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hai_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "灰皿（はいざら）",
         "meaning": {
-          "english": "ashtray"
+          "english": "ashtray |(vi) gạt tàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hai_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "灰色（はいいろ）",
         "meaning": {
-          "english": "grey, ashen"
+          "english": "grey, ashen |(vi) màu xám, tro"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hai_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "火山灰（かざんばい）",
         "meaning": {
-          "english": "volcanic ash"
+          "english": "volcanic ash |(vi) tro núi lửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hai_06_f.opus",
@@ -154,7 +154,7 @@
     "kanji": {
       "character": "灰",
       "meaning": {
-        "english": "ash"
+        "english": "ash |(vi) tro"
       },
       "strokes": {
         "count": 6,
@@ -204,7 +204,7 @@
         "romaji": "gandare"
       },
       "meaning": {
-        "english": "cliff"
+        "english": "cliff |(vi) Hán (vách núi, mái hiên)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gandare0.svg",
@@ -225,7 +225,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1717",
     "strokeCount": 6,
-    "meaning": "ashes, puckery juice, cremate",
+    "meaning": "ashes, puckery juice, cremate |(vi) tro, nước tro, hỏa táng |(hv) Hôi",
     "kunyomi": [
       "はい"
     ],
@@ -236,44 +236,44 @@
       {
         "example": "灰色",
         "reading": "ハイイロ",
-        "meaning": "grey, gray, ashen"
+        "meaning": "grey, gray, ashen |(vi) màu xám, tro"
       },
       {
         "example": "灰色植物門",
         "reading": "カイショクショクブツモン",
-        "meaning": "Glaucophyta (phylum of freshwater microscopic algae)"
+        "meaning": "Glaucophyta (phylum of freshwater microscopic algae) |(vi) ngành tảo lam (Glaucophyta)"
       },
       {
         "example": "石灰",
         "reading": "セッカイ",
-        "meaning": "lime, quicklime, caustic lime"
+        "meaning": "lime, quicklime, caustic lime |(vi) vôi, vôi sống, vôi tôi"
       },
       {
         "example": "生石灰",
         "reading": "セイセッカイ",
-        "meaning": "quick lime"
+        "meaning": "quick lime |(vi) vôi sống"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "灰",
         "reading": "はい",
-        "meaning": "ash, ashes"
+        "meaning": "ash, ashes |(vi) tro, tàn tro"
       },
       {
         "example": "灰色",
         "reading": "はいいろ",
-        "meaning": "grey, gray, ashen"
+        "meaning": "grey, gray, ashen |(vi) màu xám, tro"
       },
       {
         "example": "死の灰",
         "reading": "しのはい",
-        "meaning": "lethal radioactive fallout, atomic dust"
+        "meaning": "lethal radioactive fallout, atomic dust |(vi) bụi phóng xạ chết người, bụi hạt nhân"
       },
       {
         "example": "降灰",
         "reading": "こうかい",
-        "meaning": "fall of (volcanic) ash, falling ash"
+        "meaning": "fall of (volcanic) ash, falling ash |(vi) tro rơi (núi lửa), tro bụi rơi xuống"
       }
     ],
     "radical": {
@@ -281,7 +281,7 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": "fire |(vi) Hỏa (lửa)"
     },
     "parts": [
       "厂",

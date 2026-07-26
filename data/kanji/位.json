@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "kurai",
-    "meaning": "rank, position",
+    "meaning": "rank, position |(vi) cấp bậc, vị trí",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "位置（いち）",
         "meaning": {
-          "english": "position, location"
+          "english": "position, location |(vi) vị trí, địa điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kurai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "地位（ちい）",
         "meaning": {
-          "english": "(social) status"
+          "english": "(social) status |(vi) địa vị (xã hội)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kurai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "順位（じゅんい）",
         "meaning": {
-          "english": "rank [n.]"
+          "english": "rank [n.] |(vi) thứ hạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kurai_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "優位（ゆうい）",
         "meaning": {
-          "english": "superiority"
+          "english": "superiority |(vi) ưu thế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kurai_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "単位（たんい）",
         "meaning": {
-          "english": "unit, credit (in school)"
+          "english": "unit, credit (in school) |(vi) đơn vị, tín chỉ (học tập)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kurai_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "一位（いちい）",
         "meaning": {
-          "english": "first place"
+          "english": "first place |(vi) hạng nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kurai_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "位（くらい）",
         "meaning": {
-          "english": "rank, about, almost"
+          "english": "rank, about, almost |(vi) khoảng, chừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kurai_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "十分位（じゅっぷんぐらい）",
         "meaning": {
-          "english": "about 10 minutes"
+          "english": "about 10 minutes |(vi) khoảng 10 phút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kurai_06_h.opus",
@@ -211,7 +211,7 @@
     "kanji": {
       "character": "位",
       "meaning": {
-        "english": "rank, position"
+        "english": "rank, position |(vi) cấp bậc, vị trí"
       },
       "strokes": {
         "count": 7,
@@ -263,7 +263,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -284,7 +284,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "276",
     "strokeCount": 7,
-    "meaning": "rank, grade, throne, crown, about, some",
+    "meaning": "rank, grade, throne, crown, about, some |(vi) cấp bậc, ngôi vị, vương miện, khoảng, chừng |(hv) Vị",
     "kunyomi": [
       "くらい",
       "ぐらい"
@@ -296,54 +296,54 @@
       {
         "example": "位",
         "reading": "イ",
-        "meaning": "rank, place (e.g. first place), decimal place, counter for ghosts"
+        "meaning": "rank, place (e.g. first place), decimal place, counter for ghosts |(vi) cấp bậc, vị trí (vd hạng nhất), chữ số thập phân, lượng từ đếm ma"
       },
       {
         "example": "位置",
         "reading": "イチ",
-        "meaning": "place, position, location, position, standing, status, situation"
+        "meaning": "place, position, location, position, standing, status, situation |(vi) vị trí, địa điểm, tình trạng, địa vị, hoàn cảnh"
       },
       {
         "example": "一位",
         "reading": "イチイ",
-        "meaning": "first place, first rank, units position (of a number)"
+        "meaning": "first place, first rank, units position (of a number) |(vi) hạng nhất, vị trí hàng đơn vị (của một số)"
       },
       {
         "example": "高位",
         "reading": "コウイ",
-        "meaning": "dignity, eminent, high ranking, high-order (digit, bit, etc.)"
+        "meaning": "dignity, eminent, high ranking, high-order (digit, bit, etc.) |(vi) cao quý, danh giá, cấp cao, hàng cao (chữ số, bit...)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "位",
         "reading": "くらい",
-        "meaning": "throne, crown, (nobleman's) seat, government position, court rank, social standing, rank, class, echelon, rung, grade (of quality, etc.), level, tier, rank, position of a figure (e.g. tens, thousands), digit, (decimal) place"
+        "meaning": "throne, crown, (nobleman's) seat, government position, court rank, social standing, rank, class, echelon, rung, grade (of quality, etc.), level, tier, rank, position of a figure (e.g. tens, thousands), digit, (decimal) place |(vi) ngôi vua, vương miện, chỗ ngồi (quý tộc), chức vụ nhà nước, phẩm hàm triều đình, địa vị xã hội, cấp bậc, hạng, tầng, mức, chữ số (hàng chục, hàng nghìn...)"
       },
       {
         "example": "位が昇る",
         "reading": "くらいがのぼる",
-        "meaning": "to rise in rank"
+        "meaning": "to rise in rank |(vi) thăng cấp, lên chức"
       },
       {
         "example": "どれ位",
         "reading": "どれくらい",
-        "meaning": "how long, how far, how much"
+        "meaning": "how long, how far, how much |(vi) bao lâu, bao xa, bao nhiêu"
       },
       {
         "example": "申し訳ないくらい",
         "reading": "もうしわけないくらい",
-        "meaning": "to the extent it makes one feel apologetic, so (much, good, etc.) that one feels guilty"
+        "meaning": "to the extent it makes one feel apologetic, so (much, good, etc.) that one feels guilty |(vi) đến mức cảm thấy áy náy, đến mức (tốt...) khiến người ta thấy có lỗi"
       },
       {
         "example": "どれ位",
         "reading": "どれくらい",
-        "meaning": "how long, how far, how much"
+        "meaning": "how long, how far, how much |(vi) bao lâu, bao xa, bao nhiêu"
       },
       {
         "example": "申し訳ないくらい",
         "reading": "もうしわけないくらい",
-        "meaning": "to the extent it makes one feel apologetic, so (much, good, etc.) that one feels guilty"
+        "meaning": "to the extent it makes one feel apologetic, so (much, good, etc.) that one feels guilty |(vi) đến mức cảm thấy áy náy, đến mức (tốt...) khiến người ta thấy có lỗi"
       }
     ],
     "radical": {
@@ -351,7 +351,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "化",

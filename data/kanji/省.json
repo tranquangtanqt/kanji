@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "kaeri, kaerimiru, habu, habuku",
-    "meaning": "ministry, save, reflect on, omit",
+    "meaning": "ministry, save, reflect on, omit |(vi) bộ (cơ quan), tiết kiệm, xét lại, lược bỏ",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "反省する（はんせいする）",
         "meaning": {
-          "english": "reflect on, think over"
+          "english": "reflect on, think over |(vi) phản tỉnh, tự xét lại bản thân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/habu(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "帰省する（きせいする）",
         "meaning": {
-          "english": "go home (for a holiday)"
+          "english": "go home (for a holiday) |(vi) về quê (thăm nhà)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/habu(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "省庁（しょうちょう）",
         "meaning": {
-          "english": "ministries & government offices"
+          "english": "ministries & government offices |(vi) các bộ và cơ quan chính phủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/habu(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "省エネ（しょうエネ）",
         "meaning": {
-          "english": "economical use of energy"
+          "english": "economical use of energy |(vi) tiết kiệm năng lượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/habu(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "大蔵省（おおくらしょう）",
         "meaning": {
-          "english": "Ministry of Finance"
+          "english": "Ministry of Finance |(vi) Bộ Tài chính (tên cũ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/habu(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "省略する（しょうりゃくする）",
         "meaning": {
-          "english": "omit, abbreviate"
+          "english": "omit, abbreviate |(vi) lược bỏ, rút gọn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/habu(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "省みる（かえりみる）",
         "meaning": {
-          "english": "reflect on"
+          "english": "reflect on |(vi) tự xét lại, suy ngẫm lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/habu(ku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "省く（はぶく）",
         "meaning": {
-          "english": "omit"
+          "english": "omit |(vi) lược bỏ, bỏ qua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/habu(ku)_06_h.opus",
@@ -219,7 +219,7 @@
     "kanji": {
       "character": "省",
       "meaning": {
-        "english": "ministry, save, reflect on, omit"
+        "english": "ministry, save, reflect on, omit |(vi) bộ (cơ quan), tiết kiệm, xét lại, lược bỏ"
       },
       "strokes": {
         "count": 9,
@@ -275,7 +275,7 @@
         "romaji": "me"
       },
       "meaning": {
-        "english": "eye"
+        "english": "eye |(vi) Mục (mắt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/me0.svg",
@@ -296,7 +296,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "548",
     "strokeCount": 9,
-    "meaning": "government ministry, conserve, omit",
+    "meaning": "government ministry, conserve, omit |(vi) bộ (chính phủ), tiết kiệm, lược bỏ |(hv) Tỉnh/Sảnh",
     "kunyomi": [
       "かえり.みる",
       "はぶ.く"
@@ -309,59 +309,59 @@
       {
         "example": "省察",
         "reading": "セイサツ",
-        "meaning": "reflection, consideration"
+        "meaning": "reflection, consideration |(vi) tỉnh sát, suy xét, phản tỉnh"
       },
       {
         "example": "省思",
         "reading": "セイシ",
-        "meaning": "reflection, reexamination, contemplation"
+        "meaning": "reflection, reexamination, contemplation |(vi) tỉnh tư, suy ngẫm lại"
       },
       {
         "example": "三省",
         "reading": "サンセイ",
-        "meaning": "frequent reflection, frequent meditation"
+        "meaning": "frequent reflection, frequent meditation |(vi) tam tỉnh (nhiều lần tự xét lại bản thân)"
       },
       {
         "example": "内省",
         "reading": "ナイセイ",
-        "meaning": "introspection, reflection on one's self"
+        "meaning": "introspection, reflection on one's self |(vi) nội tỉnh, tự xét nội tâm"
       },
       {
         "example": "省",
         "reading": "ショウ",
-        "meaning": "ministry, department, province (of China), saving, conserving"
+        "meaning": "ministry, department, province (of China), saving, conserving |(vi) bộ, tỉnh (Trung Quốc), tiết kiệm"
       },
       {
         "example": "省エネルギー",
         "reading": "ショウエネルギー",
-        "meaning": "energy conservation, economical use of energy, energy-saving"
+        "meaning": "energy conservation, economical use of energy, energy-saving |(vi) tiết kiệm năng lượng"
       },
       {
         "example": "郵政省",
         "reading": "ユウセイショウ",
-        "meaning": "(former) Ministry of Posts and Telecommunications (now Ministry of Internal Affairs and Communications)"
+        "meaning": "(former) Ministry of Posts and Telecommunications (now Ministry of Internal Affairs and Communications) |(vi) Bộ Bưu chính Viễn thông (cũ)"
       },
       {
         "example": "厚生省",
         "reading": "コウセイショウ",
-        "meaning": "(former) Ministry of Health and Welfare"
+        "meaning": "(former) Ministry of Health and Welfare |(vi) Bộ Y tế và Phúc lợi (cũ)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "省みる",
         "reading": "かえりみる",
-        "meaning": "to reflect on (oneself, past conduct, etc.), to contemplate, to examine, to think over, to introspect"
+        "meaning": "to reflect on (oneself, past conduct, etc.), to contemplate, to examine, to think over, to introspect |(vi) tự xét lại, suy ngẫm, nội quan"
       },
       {
         "example": "省く",
         "reading": "はぶく",
-        "meaning": "to omit, to leave out, to exclude, to eliminate, to curtail, to save, to cut down, to economize, to economise"
+        "meaning": "to omit, to leave out, to exclude, to eliminate, to curtail, to save, to cut down, to economize, to economise |(vi) lược bỏ, bỏ qua, loại trừ, tiết kiệm, cắt giảm"
       }
     ],
     "radical": {
       "symbol": "目",
-      "meaning": "eye"
+      "meaning": "eye |(vi) Mục (mắt)"
     },
     "parts": [
       "ノ",

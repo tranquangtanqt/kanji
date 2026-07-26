@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "shiba",
-    "meaning": "lawn",
+    "meaning": "lawn |(vi) cỏ, bãi cỏ",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "芝（しば）",
         "meaning": {
-          "english": "lawn, sod, turf"
+          "english": "lawn, sod, turf |(vi) cỏ, vầng cỏ, thảm cỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shiba(fu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "芝生（しばふ）",
         "meaning": {
-          "english": "lawn"
+          "english": "lawn |(vi) bãi cỏ, thảm cỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shiba(fu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "芝居（しばい）",
         "meaning": {
-          "english": "play, drama"
+          "english": "play, drama |(vi) vở kịch, buổi diễn kịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shiba(fu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "人工芝（じんこうしば）",
         "meaning": {
-          "english": "artificial grass"
+          "english": "artificial grass |(vi) cỏ nhân tạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shiba(fu)_06_d.opus",
@@ -138,7 +138,7 @@
     "kanji": {
       "character": "芝",
       "meaning": {
-        "english": "lawn"
+        "english": "lawn |(vi) cỏ, bãi cỏ"
       },
       "strokes": {
         "count": 6,
@@ -188,7 +188,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -209,7 +209,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1052",
     "strokeCount": 6,
-    "meaning": "turf, lawn",
+    "meaning": "turf, lawn |(vi) thảm cỏ, bãi cỏ |(hv) Chi",
     "kunyomi": [
       "しば"
     ],
@@ -220,39 +220,39 @@
       {
         "example": "芝",
         "reading": "シバ",
-        "meaning": "lawn, sod, turf"
+        "meaning": "lawn, sod, turf |(vi) cỏ, vầng cỏ, thảm cỏ"
       },
       {
         "example": "芝居",
         "reading": "シバイ",
-        "meaning": "play, drama"
+        "meaning": "play, drama |(vi) vở kịch, buổi diễn kịch"
       },
       {
         "example": "霊芝",
         "reading": "レイシ",
-        "meaning": "bracket fungus (Ganoderma lucidum), reishi mushroom"
+        "meaning": "bracket fungus (Ganoderma lucidum), reishi mushroom |(vi) nấm linh chi (Ganoderma lucidum)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "芝",
         "reading": "しば",
-        "meaning": "lawn, sod, turf"
+        "meaning": "lawn, sod, turf |(vi) cỏ, vầng cỏ, thảm cỏ"
       },
       {
         "example": "芝居",
         "reading": "しばい",
-        "meaning": "play, drama"
+        "meaning": "play, drama |(vi) vở kịch, buổi diễn kịch"
       },
       {
         "example": "高麗芝",
         "reading": "こうらいしば",
-        "meaning": "Korean lawn grass"
+        "meaning": "Korean lawn grass |(vi) cỏ nhung Nhật (cỏ Triều Tiên, chi Zoysia)"
       },
       {
         "example": "東芝",
         "reading": "とうしば",
-        "meaning": "Toshiba Corporation, Tōshiba"
+        "meaning": "Toshiba Corporation, Tōshiba |(vi) Tập đoàn Toshiba"
       }
     ],
     "radical": {
@@ -260,7 +260,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "亠",

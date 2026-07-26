@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "tagaya, tagayasu",
-    "meaning": "till, cultivate, plough",
+    "meaning": "till, cultivate, plough |(vi) cày, canh tác, cày bừa",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "耕作（こうさく）",
         "meaning": {
-          "english": "farming"
+          "english": "farming |(vi) canh tác, nghề nông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tagaya(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "耕地（こうち）",
         "meaning": {
-          "english": "arable land"
+          "english": "arable land |(vi) đất canh tác, ruộng đất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tagaya(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "耕運機（こううんき）",
         "meaning": {
-          "english": "farm tractor"
+          "english": "farm tractor |(vi) máy cày nông nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tagaya(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "農耕（のうこう）",
         "meaning": {
-          "english": "agriculture, farming"
+          "english": "agriculture, farming |(vi) nông nghiệp, canh tác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tagaya(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "耕す（たがやす）",
         "meaning": {
-          "english": "plow [v.t.]"
+          "english": "plow [v.t.] |(vi) cày (đất)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tagaya(su)_06_e.opus",
@@ -159,7 +159,7 @@
     "kanji": {
       "character": "耕",
       "meaning": {
-        "english": "till, cultivate, plough"
+        "english": "till, cultivate, plough |(vi) cày, canh tác, cày bừa"
       },
       "strokes": {
         "count": 10,
@@ -217,7 +217,7 @@
         "romaji": "raisuki"
       },
       "meaning": {
-        "english": "plow"
+        "english": "plow |(vi) Lỗi (cái cày)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/raisuki0.svg",
@@ -238,7 +238,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1568",
     "strokeCount": 10,
-    "meaning": "till, plow, cultivate",
+    "meaning": "till, plow, cultivate |(vi) cày, cày bừa, canh tác |(hv) Canh",
     "kunyomi": [
       "たがや.す"
     ],
@@ -249,34 +249,34 @@
       {
         "example": "耕作",
         "reading": "コウサク",
-        "meaning": "cultivation, farming"
+        "meaning": "cultivation, farming |(vi) canh tác, nghề nông"
       },
       {
         "example": "耕地",
         "reading": "コウチ",
-        "meaning": "arable land, plantation, farmland, fazenda, hacienda, large estate"
+        "meaning": "arable land, plantation, farmland, fazenda, hacienda, large estate |(vi) đất canh tác, đồn điền, đất nông nghiệp, trang trại lớn"
       },
       {
         "example": "農耕",
         "reading": "ノウコウ",
-        "meaning": "farming, agriculture, cultivation"
+        "meaning": "farming, agriculture, cultivation |(vi) nghề nông, nông nghiệp, canh tác"
       },
       {
         "example": "水耕",
         "reading": "スイコウ",
-        "meaning": "hydroponics"
+        "meaning": "hydroponics |(vi) thủy canh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "耕す",
         "reading": "たがやす",
-        "meaning": "to till, to plow, to plough, to cultivate"
+        "meaning": "to till, to plow, to plough, to cultivate |(vi) cày, cày bừa, canh tác"
       }
     ],
     "radical": {
       "symbol": "耒",
-      "meaning": "plow"
+      "meaning": "plow |(vi) Lỗi (cái cày)"
     },
     "parts": [
       "ノ",

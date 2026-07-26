@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 3,
     "kunyomi": "no, noru, nori, noseru",
-    "meaning": "ride, get on",
+    "meaning": "ride, get on |(vi) cưỡi, lên (xe)",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "乗用車（じょうようしゃ）",
         "meaning": {
-          "english": "automobile"
+          "english": "automobile |(vi) xe ô tô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-no(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "乗客（じょうきゃく）",
         "meaning": {
-          "english": "passenger"
+          "english": "passenger |(vi) hành khách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-no(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "乗車する（じょうしゃする）",
         "meaning": {
-          "english": "get inside (train, car, bus, etc.)"
+          "english": "get inside (train, car, bus, etc.) |(vi) lên tàu/xe (tàu, ô tô, xe buýt...)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-no(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "乗馬する（じょうばする）",
         "meaning": {
-          "english": "ride a horse"
+          "english": "ride a horse |(vi) cưỡi ngựa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-no(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "同乗する（どうじょうする）",
         "meaning": {
-          "english": "ride together"
+          "english": "ride together |(vi) cùng đi (chung xe)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-no(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "試乗する（しじょうする）",
         "meaning": {
-          "english": "test drive [v.i.]"
+          "english": "test drive [v.i.] |(vi) lái thử (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-no(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "乗じる（じょうじる）",
         "meaning": {
-          "english": "take advantage of"
+          "english": "take advantage of |(vi) lợi dụng, thừa cơ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-no(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "乗る（のる）",
         "meaning": {
-          "english": "get on [v.i.]"
+          "english": "get on [v.i.] |(vi) lên (xe) (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-no(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "乗り物（のりもの）",
         "meaning": {
-          "english": "vehicle"
+          "english": "vehicle |(vi) phương tiện giao thông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-no(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "乗せる（のせる）",
         "meaning": {
-          "english": "give a ride [v.t.]"
+          "english": "give a ride [v.t.] |(vi) chở, cho đi nhờ (ngoại động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-no(ru)_06_j.opus",
@@ -283,7 +283,7 @@
     "kanji": {
       "character": "乗",
       "meaning": {
-        "english": "ride, get on"
+        "english": "ride, get on |(vi) cưỡi, lên (xe)"
       },
       "strokes": {
         "count": 9,
@@ -339,7 +339,7 @@
         "romaji": "nokanmuri"
       },
       "meaning": {
-        "english": "diagonal sweeping stroke"
+        "english": "diagonal sweeping stroke |(vi) Phiệt (nét phẩy, nét xổ chéo)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nokanmuri0.svg",
@@ -360,7 +360,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "377",
     "strokeCount": 9,
-    "meaning": "ride, power, multiplication, record, counter for vehicles, board, mount, join",
+    "meaning": "ride, power, multiplication, record, counter for vehicles, board, mount, join |(vi) cưỡi, lũy thừa, phép nhân, ghi chép, lượng từ đếm xe, lên, cưỡi lên, tham gia |(hv) Thừa",
     "kunyomi": [
       "の.る",
       "-の.り",
@@ -374,44 +374,44 @@
       {
         "example": "乗",
         "reading": "ジョウ",
-        "meaning": "(nth) power, counter for vehicles, multiplication, Buddha's teachings"
+        "meaning": "(nth) power, counter for vehicles, multiplication, Buddha's teachings |(vi) lũy thừa (bậc n), lượng từ đếm xe, phép nhân, giáo pháp của Phật"
       },
       {
         "example": "乗員",
         "reading": "ジョウイン",
-        "meaning": "crew member, crewman, crew"
+        "meaning": "crew member, crewman, crew |(vi) phi hành đoàn, thủy thủ đoàn, nhân viên phục vụ trên xe/tàu"
       },
       {
         "example": "同乗",
         "reading": "ドウジョウ",
-        "meaning": "riding together, riding with"
+        "meaning": "riding together, riding with |(vi) cùng đi chung (xe/tàu)"
       },
       {
         "example": "相乗",
         "reading": "ソウジョウ",
-        "meaning": "multiplication, synergism"
+        "meaning": "multiplication, synergism |(vi) phép nhân, hiệp lực, cộng hưởng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "乗る",
         "reading": "のる",
-        "meaning": "to get on (train, plane, bus, ship, etc.), to get in, to board, to take, to embark, to get on (e.g. a footstool), to step on, to jump on, to sit on, to mount, to reach, to go over, to pass, to follow, to stay (on track), to go with (the times, etc.), to take part, to participate, to join, to get into the swing (and sing, dance, etc.), to be deceived, to be taken in, to be carried, to be spread, to be scattered, to stick, to attach, to take, to go on"
+        "meaning": "to get on (train, plane, bus, ship, etc.), to get in, to board, to take, to embark, to get on (e.g. a footstool), to step on, to jump on, to sit on, to mount, to reach, to go over, to pass, to follow, to stay (on track), to go with (the times, etc.), to take part, to participate, to join, to get into the swing (and sing, dance, etc.), to be deceived, to be taken in, to be carried, to be spread, to be scattered, to stick, to attach, to take, to go on |(vi) lên (tàu, máy bay, xe buýt, tàu thủy...), bước vào, lên xe, đi, lên tàu, bước lên (vd ghế đẩu), giẫm lên, nhảy lên, ngồi lên, cưỡi lên, đạt tới, vượt qua, đi qua, theo, giữ (đúng hướng), theo kịp (thời đại...), tham gia, hòa vào (và hát, nhảy...), bị lừa, bị gạt, được chở, được lan truyền, được rải, dính, bám, lấy, tiếp tục"
       },
       {
         "example": "伸るか反るか",
         "reading": "のるかそるか",
-        "meaning": "win or lose, sink or swim, make or break, all or nothing"
+        "meaning": "win or lose, sink or swim, make or break, all or nothing |(vi) được ăn cả ngã về không, liều một phen, thành hay bại"
       },
       {
         "example": "乗せる",
         "reading": "のせる",
-        "meaning": "to place on (something), to give (someone) a ride, to give a lift, to pick up, to help on board, to load (luggage), to carry, to take on board, to send out (on the airwaves, etc.), to deceive, to take for a ride, to (sing) along with (musical accompaniment), to let (someone) take part, to excite (someone), to publish (an article), to run (an ad)"
+        "meaning": "to place on (something), to give (someone) a ride, to give a lift, to pick up, to help on board, to load (luggage), to carry, to take on board, to send out (on the airwaves, etc.), to deceive, to take for a ride, to (sing) along with (musical accompaniment), to let (someone) take part, to excite (someone), to publish (an article), to run (an ad) |(vi) đặt lên (cái gì đó), chở ai đó, cho đi nhờ, đón, giúp lên xe, chất (hành lý), mang, đưa lên tàu, phát sóng (trên đài...), lừa gạt, gài bẫy, hát theo (nhạc đệm), cho ai tham gia, kích động ai đó, đăng (bài báo), chạy (quảng cáo)"
       }
     ],
     "radical": {
       "symbol": "丿",
-      "meaning": "slash"
+      "meaning": "slash |(vi) Phiệt (nét phẩy, nét xổ chéo)"
     },
     "parts": [
       "ノ",

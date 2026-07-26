@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "fuda",
-    "meaning": "tag, bill, paper money, label",
+    "meaning": "tag, bill, paper money, label |(vi) thẻ, hóa đơn, tiền giấy, nhãn",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "札（さつ）",
         "meaning": {
-          "english": "paper money"
+          "english": "paper money |(vi) tiền giấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "札束（さつたば）",
         "meaning": {
-          "english": "roll of banknotes"
+          "english": "roll of banknotes |(vi) xấp tiền giấy, cọc tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "札入れ（さついれ）",
         "meaning": {
-          "english": "wallet, billfold"
+          "english": "wallet, billfold |(vi) ví đựng tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "偽札（にせさつ）",
         "meaning": {
-          "english": "counterfeit paper money"
+          "english": "counterfeit paper money |(vi) tiền giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "標札（ひょうさつ）",
         "meaning": {
-          "english": "nameplate, doorplate"
+          "english": "nameplate, doorplate |(vi) biển tên, biển hiệu cửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "改札口（かいさつぐち）",
         "meaning": {
-          "english": "ticket barrier, wicket"
+          "english": "ticket barrier, wicket |(vi) cửa soát vé"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "千円札（せんえんさつ）",
         "meaning": {
-          "english": "1,000 Yen bill"
+          "english": "1,000 Yen bill |(vi) tờ tiền 1.000 yên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "入札する（にゅうさつする）",
         "meaning": {
-          "english": "bid"
+          "english": "bid |(vi) đấu thầu, bỏ thầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "落札する（らくさつする）",
         "meaning": {
-          "english": "make a successful bid"
+          "english": "make a successful bid |(vi) trúng thầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "札（ふだ）",
         "meaning": {
-          "english": "note [n.]"
+          "english": "note [n.] |(vi) thẻ, nhãn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "値札（ねふだ）",
         "meaning": {
-          "english": "price tag"
+          "english": "price tag |(vi) thẻ giá, bảng giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "名札（なふだ）",
         "meaning": {
-          "english": "name plate, name tag"
+          "english": "name plate, name tag |(vi) thẻ tên, bảng tên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_l.opus",
@@ -231,7 +231,7 @@
     "kanji": {
       "character": "札",
       "meaning": {
-        "english": "tag, bill, paper money, label"
+        "english": "tag, bill, paper money, label |(vi) thẻ, hóa đơn, tiền giấy, nhãn"
       },
       "strokes": {
         "count": 5,
@@ -279,7 +279,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -300,7 +300,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "921",
     "strokeCount": 5,
-    "meaning": "tag, paper money, counter for bonds, placard, bid",
+    "meaning": "tag, paper money, counter for bonds, placard, bid |(vi) thẻ, tiền giấy, lượng từ đếm trái phiếu, biển yết thị, đấu thầu |(hv) Trát",
     "kunyomi": [
       "ふだ"
     ],
@@ -311,49 +311,49 @@
       {
         "example": "札",
         "reading": "サツ",
-        "meaning": "banknote, bill, note, paper money"
+        "meaning": "banknote, bill, note, paper money |(vi) tiền giấy, hóa đơn, giấy bạc"
       },
       {
         "example": "札束",
         "reading": "サツタバ",
-        "meaning": "bundle of banknotes, stack of bills, large sum of money"
+        "meaning": "bundle of banknotes, stack of bills, large sum of money |(vi) xấp tiền giấy, cọc tiền, số tiền lớn"
       },
       {
         "example": "落札",
         "reading": "ラクサツ",
-        "meaning": "successful bid, winning a tender"
+        "meaning": "successful bid, winning a tender |(vi) trúng thầu"
       },
       {
         "example": "応札",
         "reading": "オウサツ",
-        "meaning": "making a bid, tendering a bid"
+        "meaning": "making a bid, tendering a bid |(vi) tham gia đấu thầu, bỏ thầu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "札",
         "reading": "ふだ",
-        "meaning": "ticket, token, check, receipt, label, tag, sign, card, plate, playing card, charm, talisman, slip of paper posted on shrine pillars by pilgrims"
+        "meaning": "ticket, token, check, receipt, label, tag, sign, card, plate, playing card, charm, talisman, slip of paper posted on shrine pillars by pilgrims |(vi) vé, thẻ, phiếu, biên nhận, nhãn, thẻ bài, biển hiệu, lá bài, bùa hộ mệnh, mảnh giấy dán trên cột đền do khách hành hương dán"
       },
       {
         "example": "札所",
         "reading": "ふだしょ",
-        "meaning": "temple which issues amulets"
+        "meaning": "temple which issues amulets |(vi) chùa/đền phát bùa hộ mệnh"
       },
       {
         "example": "立て札",
         "reading": "たてふだ",
-        "meaning": "sign on a post (usu. wooden and with a small roof, containing information about a sight, warning, congratulations, etc.), public notice, bulletin board, notice board"
+        "meaning": "sign on a post (usu. wooden and with a small roof, containing information about a sight, warning, congratulations, etc.), public notice, bulletin board, notice board |(vi) biển thông báo dựng trên cột (thường bằng gỗ, có mái nhỏ), thông báo công cộng, bảng thông báo, bảng tin"
       },
       {
         "example": "合札",
         "reading": "あいふだ",
-        "meaning": "check (e.g. baggage claim), tag, token, tally, score"
+        "meaning": "check (e.g. baggage claim), tag, token, tally, score |(vi) thẻ đối chiếu (như thẻ gửi hành lý), thẻ, phiếu, số điểm"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "乙",

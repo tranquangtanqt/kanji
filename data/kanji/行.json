@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "i, iku, yu, yuku, okona, okonau",
-    "meaning": "go, act, line",
+    "meaning": "go, act, line |(vi) đi, hành động, hàng, dòng",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "旅行する（りょこうする）",
         "meaning": {
-          "english": "travel"
+          "english": "travel |(vi) du lịch, đi lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "歩行する（ほこうする）",
         "meaning": {
-          "english": "walk"
+          "english": "walk |(vi) đi bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "実行する（じっこうする）",
         "meaning": {
-          "english": "act, carry out, practice"
+          "english": "act, carry out, practice |(vi) hành động, thực hiện, thực hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "銀行（ぎんこう）",
         "meaning": {
-          "english": "bank"
+          "english": "bank |(vi) ngân hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "行政（ぎょうせい）",
         "meaning": {
-          "english": "administration"
+          "english": "administration |(vi) hành chính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "一行目（いちぎょうめ）",
         "meaning": {
-          "english": "first line"
+          "english": "first line |(vi) dòng đầu tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "行事（ぎょうじ）",
         "meaning": {
-          "english": "event"
+          "english": "event |(vi) sự kiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "行脚する（あんぎゃする）",
         "meaning": {
-          "english": "go on pilgrimage"
+          "english": "go on pilgrimage |(vi) đi hành hương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "行く（いく/ゆく）",
         "meaning": {
-          "english": "go"
+          "english": "go |(vi) đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "行き先（いきさき/ゆきさき）",
         "meaning": {
-          "english": "destination"
+          "english": "destination |(vi) điểm đến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "行う（おこなう）",
         "meaning": {
-          "english": "do"
+          "english": "do |(vi) làm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_k.opus",
@@ -310,7 +310,7 @@
     "kanji": {
       "character": "行",
       "meaning": {
-        "english": "go, act, line"
+        "english": "go, act, line |(vi) đi, hành động, hàng, dòng"
       },
       "strokes": {
         "count": 6,
@@ -360,7 +360,7 @@
         "romaji": "gyougamae"
       },
       "meaning": {
-        "english": "to go"
+        "english": "to go |(vi) Hành (đi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyougamae0.svg",
@@ -381,7 +381,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "20",
     "strokeCount": 6,
-    "meaning": "going, journey, carry out, conduct, act, line, row, bank",
+    "meaning": "going, journey, carry out, conduct, act, line, row, bank |(vi) đi, hành trình, thực hiện, làm, hành động, hàng, dòng, ngân hàng |(hv) Hành",
     "kunyomi": [
       "い.く",
       "ゆ.く",
@@ -401,89 +401,89 @@
       {
         "example": "行",
         "reading": "コウ",
-        "meaning": "going, travelling, traveling, journey, trip, act, action, bank, counter for banks, counter for groups or parties of people, type of classical Chinese verse (usu. an epic from the Tang period onwards), shopping district (of similar merchants; in the Sui and Tang periods), merchants' guild (in the Tang period)"
+        "meaning": "going, travelling, traveling, journey, trip, act, action, bank, counter for banks, counter for groups or parties of people, type of classical Chinese verse (usu. an epic from the Tang period onwards), shopping district (of similar merchants; in the Sui and Tang periods), merchants' guild (in the Tang period) |(vi) đi lại, du hành, hành trình, chuyến đi, hành vi, hành động, ngân hàng, lượng từ đếm ngân hàng, lượng từ đếm nhóm/đoàn người, thể thơ cổ điển Trung Hoa (thường là trường thi từ thời Đường), khu phố buôn bán (thời Tùy Đường), phường hội thương nhân (thời Đường)"
       },
       {
         "example": "行為",
         "reading": "コウイ",
-        "meaning": "act, deed, conduct"
+        "meaning": "act, deed, conduct |(vi) hành vi, việc làm, hành động"
       },
       {
         "example": "並行",
         "reading": "ヘイコウ",
-        "meaning": "going side-by-side, going abreast, running concurrently, occurring at the same time, keeping pace with"
+        "meaning": "going side-by-side, going abreast, running concurrently, occurring at the same time, keeping pace with |(vi) song hành, đi song song, diễn ra đồng thời, cùng lúc"
       },
       {
         "example": "性行",
         "reading": "セイコウ",
-        "meaning": "character and conduct"
+        "meaning": "character and conduct |(vi) tính cách và hành vi"
       },
       {
         "example": "行",
         "reading": "ギョウ",
-        "meaning": "line (of text), row, verse, carya (austerities), samskara (formations), semi-cursive style (of writing Chinese characters), running style"
+        "meaning": "line (of text), row, verse, carya (austerities), samskara (formations), semi-cursive style (of writing Chinese characters), running style |(vi) dòng (văn bản), hàng, câu thơ, khổ hạnh, hành uẩn, lối viết bán thảo (hành thư) chữ Hán"
       },
       {
         "example": "行革",
         "reading": "ギョウカク",
-        "meaning": "administrative reform"
+        "meaning": "administrative reform |(vi) cải cách hành chính"
       },
       {
         "example": "奉行",
         "reading": "ブギョウ",
-        "meaning": "magistrate, shogunate administrator"
+        "meaning": "magistrate, shogunate administrator |(vi) quan phụng hành, quan cai quản thời mạc phủ"
       },
       {
         "example": "施行",
         "reading": "シコウ",
-        "meaning": "putting in force (a law), putting into operation, putting into effect, enforcement, carrying out (a plan, policy, etc.), execution"
+        "meaning": "putting in force (a law), putting into operation, putting into effect, enforcement, carrying out (a plan, policy, etc.), execution |(vi) thi hành (luật), đưa vào áp dụng, ban hành, thực thi (kế hoạch, chính sách), thực hiện"
       },
       {
         "example": "行脚",
         "reading": "アンギャ",
-        "meaning": "pilgrimage, walking tour, travelling (on foot)"
+        "meaning": "pilgrimage, walking tour, travelling (on foot) |(vi) hành hương, đi bộ hành hương, du hành (bằng chân)"
       },
       {
         "example": "行火",
         "reading": "アンカ",
-        "meaning": "bed warmer, foot warmer"
+        "meaning": "bed warmer, foot warmer |(vi) lò sưởi chân, dụng cụ sưởi ấm chân"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "行く",
         "reading": "いく",
-        "meaning": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination"
+        "meaning": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination |(vi) đi, di chuyển (đến), hướng đến, rời đi (đến), đi qua, đi dọc theo (con đường), diễn ra (tốt, xấu), tiến triển, hóa ra, xoay xở, làm (theo cách nào đó), chọn (đi theo), thử, trôi qua (thời gian, mùa), qua đi, chảy, trôi, qua đời, đạt đến (mức độ, giai đoạn, tuổi), tiến đến, lan đến (thông tin, chỉ thị, gió), đến nơi, tiếp tục..., dần dần..., đạt cực khoái, lên đỉnh, phê thuốc, ảo giác do ma túy"
       },
       {
         "example": "行く先",
         "reading": "ゆくさき",
-        "meaning": "destination, whereabouts, future, prospects"
+        "meaning": "destination, whereabouts, future, prospects |(vi) điểm đến, nơi ở, tương lai, triển vọng"
       },
       {
         "example": "行く",
         "reading": "いく",
-        "meaning": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination"
+        "meaning": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination |(vi) đi, di chuyển (đến), hướng đến, rời đi (đến), đi qua, đi dọc theo (con đường), diễn ra (tốt, xấu), tiến triển, hóa ra, xoay xở, làm (theo cách nào đó), chọn (đi theo), thử, trôi qua (thời gian, mùa), qua đi, chảy, trôi, qua đời, đạt đến (mức độ, giai đoạn, tuổi), tiến đến, lan đến (thông tin, chỉ thị, gió), đến nơi, tiếp tục..., dần dần..., đạt cực khoái, lên đỉnh, phê thuốc, ảo giác do ma túy"
       },
       {
         "example": "行方",
         "reading": "ゆくえ",
-        "meaning": "(one's) whereabouts, destination, where one is headed, outcome, course (of events), development, direction, tide, future, journey ahead"
+        "meaning": "(one's) whereabouts, destination, where one is headed, outcome, course (of events), development, direction, tide, future, journey ahead |(vi) tung tích, điểm đến, nơi đang hướng tới, kết cục, diễn biến (sự việc), phương hướng, xu thế, tương lai, hành trình phía trước"
       },
       {
         "example": "行う",
         "reading": "おこなう",
-        "meaning": "to perform, to do, to conduct oneself, to carry out"
+        "meaning": "to perform, to do, to conduct oneself, to carry out |(vi) thực hiện, làm, hành xử, tiến hành"
       },
       {
         "example": "行う",
         "reading": "おこなう",
-        "meaning": "to perform, to do, to conduct oneself, to carry out"
+        "meaning": "to perform, to do, to conduct oneself, to carry out |(vi) thực hiện, làm, hành xử, tiến hành"
       }
     ],
     "radical": {
       "symbol": "行",
-      "meaning": "go, do"
+      "meaning": "go, do |(vi) Hành (đi, làm)"
     },
     "parts": [
       "彳",

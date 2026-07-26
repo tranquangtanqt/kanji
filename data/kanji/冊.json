@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 50,
     "kunyomi": "n/a",
-    "meaning": "counter for books",
+    "meaning": "counter for books |(vi) lượng từ đếm sách, quyển",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "一冊（いっさつ）",
         "meaning": {
-          "english": "one (bound object)"
+          "english": "one (bound object) |(vi) một quyển (sách đóng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)satsu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "冊数（さっすう）",
         "meaning": {
-          "english": "number of bound things"
+          "english": "number of bound things |(vi) số lượng quyển (sách)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)satsu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "別冊（べっさつ）",
         "meaning": {
-          "english": "extra issue"
+          "english": "extra issue |(vi) phụ bản, số phụ trương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)satsu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "短冊（たんざく）",
         "meaning": {
-          "english": "small vertical card for poem"
+          "english": "small vertical card for poem |(vi) thẻ giấy dài để viết thơ (tanzaku)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)satsu_06_d.opus",
@@ -153,7 +153,7 @@
     "kanji": {
       "character": "冊",
       "meaning": {
-        "english": "counter for books"
+        "english": "counter for books |(vi) lượng từ đếm sách, quyển"
       },
       "strokes": {
         "count": 5,
@@ -201,7 +201,7 @@
         "romaji": "keigamae"
       },
       "meaning": {
-        "english": "to enclose"
+        "english": "to enclose |(vi) Quynh (bao vây, ranh giới)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/keigamae0.svg",
@@ -222,7 +222,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1313",
     "strokeCount": 5,
-    "meaning": "tome, counter for books, volume",
+    "meaning": "tome, counter for books, volume |(vi) quyển sách, lượng từ đếm sách, tập |(hv) Sách",
     "kunyomi": [
       "ふみ"
     ],
@@ -234,33 +234,33 @@
       {
         "example": "冊",
         "reading": "サツ",
-        "meaning": "counter for books, volume"
+        "meaning": "counter for books, volume |(vi) lượng từ đếm sách, quyển, tập"
       },
       {
         "example": "別冊",
         "reading": "ベッサツ",
-        "meaning": "separate volume, extra issue, supplement, additional volume, supplementary volume"
+        "meaning": "separate volume, extra issue, supplement, additional volume, supplementary volume |(vi) tập riêng, số phụ, phụ lục, quyển bổ sung"
       },
       {
         "example": "合冊",
         "reading": "ガッサツ",
-        "meaning": "collection in one volume"
+        "meaning": "collection in one volume |(vi) đóng gộp thành một tập"
       },
       {
         "example": "冊",
         "reading": "サク",
-        "meaning": "imperial edict to confer nobility titles (in ancient China)"
+        "meaning": "imperial edict to confer nobility titles (in ancient China) |(vi) chiếu chỉ phong tước (thời cổ đại Trung Hoa)"
       },
       {
         "example": "冊封",
         "reading": "サクホウ",
-        "meaning": "bestowing peerage by imperial edict (in ancient China), document bestowing peerage"
+        "meaning": "bestowing peerage by imperial edict (in ancient China), document bestowing peerage |(vi) sách phong (phong tước bằng chiếu chỉ), văn bản sách phong"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冂",
-      "meaning": "open country"
+      "meaning": "open country |(vi) Quynh (vùng đất mở, bao quanh)"
     },
     "parts": [
       "一",

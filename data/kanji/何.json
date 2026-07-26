@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "nani, nan",
-    "meaning": "what, how many",
+    "meaning": "what, how many |(vi) cái gì, bao nhiêu",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "幾何学（きかがく）",
         "meaning": {
-          "english": "geometry"
+          "english": "geometry |(vi) hình học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "何（なに）",
         "meaning": {
-          "english": "what"
+          "english": "what |(vi) cái gì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "何色（なにいろ）",
         "meaning": {
-          "english": "what color"
+          "english": "what color |(vi) màu gì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "何しろ（なにしろ）",
         "meaning": {
-          "english": "at any rate, anyway"
+          "english": "at any rate, anyway |(vi) dù sao đi nữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "何か（なにか）",
         "meaning": {
-          "english": "something"
+          "english": "something |(vi) cái gì đó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "何分（なんぷん）",
         "meaning": {
-          "english": "how many minutes"
+          "english": "how many minutes |(vi) mấy phút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "何時（なんじ）",
         "meaning": {
-          "english": "what time"
+          "english": "what time |(vi) mấy giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "何回（なんかい）",
         "meaning": {
-          "english": "how many times"
+          "english": "how many times |(vi) mấy lần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "何百（なんびゃく）",
         "meaning": {
-          "english": "hundreds"
+          "english": "hundreds |(vi) hàng trăm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "何度も（なんども）",
         "meaning": {
-          "english": "many times"
+          "english": "many times |(vi) nhiều lần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "何才（なんさい）",
         "meaning": {
-          "english": "how old"
+          "english": "how old |(vi) bao nhiêu tuổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_k.opus",
@@ -286,7 +286,7 @@
     "kanji": {
       "character": "何",
       "meaning": {
-        "english": "what, how many"
+        "english": "what, how many |(vi) cái gì, bao nhiêu"
       },
       "strokes": {
         "count": 7,
@@ -338,7 +338,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -359,7 +359,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "340",
     "strokeCount": 7,
-    "meaning": "what",
+    "meaning": "what |(vi) cái gì |(hv) Hà",
     "kunyomi": [
       "なに",
       "なん",
@@ -373,34 +373,34 @@
       {
         "example": "非可換幾何",
         "reading": "ヒカカンキカ",
-        "meaning": "noncommutative geometry, NCG"
+        "meaning": "noncommutative geometry, NCG |(vi) hình học bất khả giao hoán (NCG)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "何",
         "reading": "なに",
-        "meaning": "what, you-know-what, that thing, whatsit, whachamacallit, what's-his-name, what's-her-name, penis, (one's) thing, dick, (not) at all, (not) in the slightest, what?, huh?, hey!, come on!, oh, no (it's fine), why (it's nothing), oh (certainly not)"
+        "meaning": "what, you-know-what, that thing, whatsit, whachamacallit, what's-his-name, what's-her-name, penis, (one's) thing, dick, (not) at all, (not) in the slightest, what?, huh?, hey!, come on!, oh, no (it's fine), why (it's nothing), oh (certainly not) |(vi) cái gì, cái đó, thứ đó, cái ấy, anh/chị gì đó, của quý (uyển ngữ), (không) chút nào, gì cơ?, hả?, này!, thôi nào!, ồ không (không sao), à (có gì đâu)"
       },
       {
         "example": "何か",
         "reading": "なにか",
-        "meaning": "something, some, any, somehow, for some reason, (so) what (are you trying to say)?, what (do you mean)?"
+        "meaning": "something, some, any, somehow, for some reason, (so) what (are you trying to say)?, what (do you mean)? |(vi) cái gì đó, một chút, bất kỳ, vì lý do nào đó, (vậy) ý anh là gì?, anh định nói gì?"
       },
       {
         "example": "何々",
         "reading": "なになに",
-        "meaning": "what, so-and-so, such and such, something (or other), what?, wait, hang on, well, well, let's see, no, oh (not at all), please, there, there"
+        "meaning": "what, so-and-so, such and such, something (or other), what?, wait, hang on, well, well, let's see, no, oh (not at all), please, there, there |(vi) cái gì đó, thế này thế kia, gì cơ?, khoan đã, để xem nào, không, ồ (không có gì), làm ơn, đây, đây"
       },
       {
         "example": "何",
         "reading": "なん",
-        "meaning": "what, how many, many, a lot of, several, a few, some"
+        "meaning": "what, how many, many, a lot of, several, a few, some |(vi) cái gì, bao nhiêu, nhiều, rất nhiều, một vài, một số"
       },
       {
         "example": "何か",
         "reading": "なにか",
-        "meaning": "something, some, any, somehow, for some reason, (so) what (are you trying to say)?, what (do you mean)?"
+        "meaning": "something, some, any, somehow, for some reason, (so) what (are you trying to say)?, what (do you mean)? |(vi) cái gì đó, một chút, bất kỳ, vì lý do nào đó, (vậy) ý anh là gì?, anh định nói gì?"
       }
     ],
     "radical": {
@@ -408,7 +408,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "一",

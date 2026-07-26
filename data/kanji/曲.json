@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "ma, magaru, mageru",
-    "meaning": "curve, musical composition",
+    "meaning": "curve, musical composition |(vi) cong, bản nhạc",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "曲名（きょくめい）",
         "meaning": {
-          "english": "song title"
+          "english": "song title |(vi) tên bài hát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(garu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "曲線（きょくせん）",
         "meaning": {
-          "english": "curve"
+          "english": "curve |(vi) đường cong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(garu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "名曲（めいきょく）",
         "meaning": {
-          "english": "famous song"
+          "english": "famous song |(vi) bản nhạc nổi tiếng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(garu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "新曲（しんきょく）",
         "meaning": {
-          "english": "new song"
+          "english": "new song |(vi) bài hát mới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(garu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "作曲家（さっきょくか）",
         "meaning": {
-          "english": "composer"
+          "english": "composer |(vi) nhà soạn nhạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(garu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "作曲する（さっきょくする）",
         "meaning": {
-          "english": "compose"
+          "english": "compose |(vi) sáng tác nhạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(garu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "曲げる（まげる）",
         "meaning": {
-          "english": "bend [v.t.]"
+          "english": "bend [v.t.] |(vi) uốn cong, bẻ cong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(garu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "曲がる（まがる）",
         "meaning": {
-          "english": "turn [v.i.]"
+          "english": "turn [v.i.] |(vi) rẽ, quẹo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(garu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "曲り角（まがりかど）",
         "meaning": {
-          "english": "corner"
+          "english": "corner |(vi) khúc quanh, góc rẽ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(garu)_06_i.opus",
@@ -239,7 +239,7 @@
     "kanji": {
       "character": "曲",
       "meaning": {
-        "english": "curve, musical composition"
+        "english": "curve, musical composition |(vi) cong, bản nhạc"
       },
       "strokes": {
         "count": 6,
@@ -289,7 +289,7 @@
         "romaji": "hirabi"
       },
       "meaning": {
-        "english": "to say"
+        "english": "to say |(vi) Viết (nói rằng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hirabi0.svg",
@@ -310,7 +310,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "810",
     "strokeCount": 6,
-    "meaning": "bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean",
+    "meaning": "bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean |(vi) cong, nhạc, giai điệu, sáng tác, thú vui, bất công, lỗi lầm, uốn cong, quanh co, lệch lạc, nghiêng |(hv) Khúc",
     "kunyomi": [
       "ま.がる",
       "ま.げる",
@@ -323,44 +323,44 @@
       {
         "example": "曲",
         "reading": "キョク",
-        "meaning": "composition, piece of music, song, track (on a record), tune, melody, air, enjoyment, fun, interest, pleasure"
+        "meaning": "composition, piece of music, song, track (on a record), tune, melody, air, enjoyment, fun, interest, pleasure |(vi) bản nhạc, bản soạn nhạc, bài hát, khúc nhạc (trong đĩa), giai điệu, thú vui, sự thích thú, hứng thú"
       },
       {
         "example": "曲折",
         "reading": "キョクセツ",
-        "meaning": "bending, winding, meandering, zigzagging, ups and downs, twists and turns, complications, difficulties, vicissitudes"
+        "meaning": "bending, winding, meandering, zigzagging, ups and downs, twists and turns, complications, difficulties, vicissitudes |(vi) uốn khúc, quanh co, ngoằn ngoèo, thăng trầm, khúc mắc, khó khăn, biến cố"
       },
       {
         "example": "歌謡曲",
         "reading": "カヨウキョク",
-        "meaning": "kayōkyoku, form of Japanese popular music that developed during the Showa era, (Western) pop song"
+        "meaning": "kayōkyoku, form of Japanese popular music that developed during the Showa era, (Western) pop song |(vi) ca dao Nhật (thể loại nhạc đại chúng Nhật thời Showa), nhạc pop (phương Tây)"
       },
       {
         "example": "名曲",
         "reading": "メイキョク",
-        "meaning": "famous piece of music, excellent song, (musical) masterpiece"
+        "meaning": "famous piece of music, excellent song, (musical) masterpiece |(vi) bản nhạc nổi tiếng, bài hát xuất sắc, kiệt tác âm nhạc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "曲がる",
         "reading": "まがる",
-        "meaning": "to bend, to curve, to warp, to wind, to twist, to turn, to be awry, to be askew, to be crooked"
+        "meaning": "to bend, to curve, to warp, to wind, to twist, to turn, to be awry, to be askew, to be crooked |(vi) uốn cong, cong, vênh, quanh co, xoắn, rẽ, lệch, xiêu vẹo, cong queo"
       },
       {
         "example": "曲げる",
         "reading": "まげる",
-        "meaning": "to bend, to crook, to bow, to curve, to curl, to lean, to tilt, to incline, to slant, to bend (the truth), to distort, to twist, to pervert, to yield (a point), to depart (from a principle), to ignore (what one really thinks), to pawn"
+        "meaning": "to bend, to crook, to bow, to curve, to curl, to lean, to tilt, to incline, to slant, to bend (the truth), to distort, to twist, to pervert, to yield (a point), to depart (from a principle), to ignore (what one really thinks), to pawn |(vi) uốn cong, gập, cúi, cong, cuộn, nghiêng, ngả, xiên, bẻ cong (sự thật), bóp méo, xoắn, làm sai lệch, nhượng bộ (một điểm), đi chệch (nguyên tắc), gạt bỏ (suy nghĩ thật), cầm cố"
       },
       {
         "example": "隈",
         "reading": "くま",
-        "meaning": "corner, nook, recess, shade, shadow, dark area, dark circles (under the eyes), dark rings, bend (in a road, river, etc.), shading, gradation, kumadori, style of kabuki makeup used for violent roles"
+        "meaning": "corner, nook, recess, shade, shadow, dark area, dark circles (under the eyes), dark rings, bend (in a road, river, etc.), shading, gradation, kumadori, style of kabuki makeup used for violent roles |(vi) góc, hốc, bóng râm, bóng tối, vùng tối, quầng thâm (dưới mắt), vòng thâm, khúc quanh (đường, sông...), sự đổ bóng, sự chuyển sắc độ, kumadori (kiểu trang điểm kabuki cho vai diễn dữ tợn)"
       }
     ],
     "radical": {
       "symbol": "曰",
-      "meaning": "say"
+      "meaning": "say |(vi) Viết (nói rằng)"
     },
     "parts": [
       "日",

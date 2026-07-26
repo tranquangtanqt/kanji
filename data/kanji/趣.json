@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "omomuki",
-    "meaning": "flavor, taste, elegance",
+    "meaning": "flavor, taste, elegance |(vi) hương vị, thú vị, sự tao nhã",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "趣味（しゅみ）",
         "meaning": {
-          "english": "hobby, interest, tastes"
+          "english": "hobby, interest, tastes |(vi) sở thích, thú vui, gu thẩm mỹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/omomuki_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "趣旨（しゅし）",
         "meaning": {
-          "english": "object, goal"
+          "english": "object, goal |(vi) tôn chỉ, mục đích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/omomuki_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "趣向（しゅこう）",
         "meaning": {
-          "english": "plan, scheme"
+          "english": "plan, scheme |(vi) ý tưởng, cách bày trí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/omomuki_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "趣（おもむき）",
         "meaning": {
-          "english": "grace, refinement"
+          "english": "grace, refinement |(vi) vẻ tao nhã, sự tinh tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/omomuki_06_d.opus",
@@ -152,7 +152,7 @@
     "kanji": {
       "character": "趣",
       "meaning": {
-        "english": "flavor, taste, elegance"
+        "english": "flavor, taste, elegance |(vi) hương vị, thú vị, sự tao nhã"
       },
       "strokes": {
         "count": 15,
@@ -220,7 +220,7 @@
         "romaji": "sounyou"
       },
       "meaning": {
-        "english": "to run"
+        "english": "to run |(vi) Tẩu (chạy)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sounyou0.svg",
@@ -241,7 +241,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1153",
     "strokeCount": 15,
-    "meaning": "purport, gist, elegance, interest, proceed to, tend, become",
+    "meaning": "purport, gist, elegance, interest, proceed to, tend, become |(vi) ý chỉ, đại ý, vẻ tao nhã, sự thú vị, đi tới, có xu hướng, trở nên |(hv) Thú",
     "kunyomi": [
       "おもむき",
       "おもむ.く"
@@ -253,39 +253,39 @@
       {
         "example": "趣旨",
         "reading": "シュシ",
-        "meaning": "meaning, point (e.g. of a statement), gist, effect, goal, intent, object, aim, point"
+        "meaning": "meaning, point (e.g. of a statement), gist, effect, goal, intent, object, aim, point |(vi) thú chỉ, ý nghĩa, ý chính (của một phát biểu), đại ý, hiệu lực, mục tiêu, ý định, mục đích, chủ đích, trọng tâm"
       },
       {
         "example": "趣向",
         "reading": "シュコウ",
-        "meaning": "plan, idea, design, plot, taste, liking, preference"
+        "meaning": "plan, idea, design, plot, taste, liking, preference |(vi) thú hướng, kế hoạch, ý tưởng, cách bày trí, dàn dựng, gu thẩm mỹ, sở thích, thiên hướng"
       },
       {
         "example": "異趣",
         "reading": "イシュ",
-        "meaning": "extraordinary appearance"
+        "meaning": "extraordinary appearance |(vi) dị thú, dáng vẻ khác thường"
       },
       {
         "example": "意趣",
         "reading": "イシュ",
-        "meaning": "grudge, malice, spite, intention, disposition, obstinacy, reason, revenge"
+        "meaning": "grudge, malice, spite, intention, disposition, obstinacy, reason, revenge |(vi) ý thú, mối hiềm khích, ác ý, sự thù oán, ý định, tâm tính, sự cố chấp, lý do, sự trả thù"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "趣",
         "reading": "おもむき",
-        "meaning": "meaning, tenor, gist, effect, influence, appearance, aspect, grace, charm, refinement, taste, elegance"
+        "meaning": "meaning, tenor, gist, effect, influence, appearance, aspect, grace, charm, refinement, taste, elegance |(vi) ý nghĩa, nội dung, đại ý, hiệu lực, ảnh hưởng, dáng vẻ, khía cạnh, vẻ duyên dáng, nét quyến rũ, sự tinh tế, gu thẩm mỹ, sự tao nhã"
       },
       {
         "example": "趣のある",
         "reading": "おもむきのある",
-        "meaning": "tasteful, elegant, refined, charming, attractive"
+        "meaning": "tasteful, elegant, refined, charming, attractive |(vi) có vẻ tao nhã, thanh lịch, tinh tế, duyên dáng, cuốn hút"
       },
       {
         "example": "赴く",
         "reading": "おもむく",
-        "meaning": "to go in the direction of, to proceed toward, to proceed according to, to repair to, to betake oneself to, to become, to face (facts, circumstances, etc.), to abide by, to agree to, to consent to, to obey"
+        "meaning": "to go in the direction of, to proceed toward, to proceed according to, to repair to, to betake oneself to, to become, to face (facts, circumstances, etc.), to abide by, to agree to, to consent to, to obey |(vi) đi về hướng, tiến tới, tiến hành theo, lên đường tới, đích thân tới, trở nên, đối mặt với (sự thật, hoàn cảnh...), tuân theo, chấp thuận, ưng thuận, phục tùng"
       }
     ],
     "radical": {
@@ -293,7 +293,7 @@
       "forms": [
         "赱"
       ],
-      "meaning": "run"
+      "meaning": "run |(vi) Tẩu (chạy)"
     },
     "parts": [
       "又",

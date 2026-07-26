@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "shime, shimeru, shimesu",
-    "meaning": "damp, moisten, humid",
+    "meaning": "damp, moisten, humid |(vi) ẩm, làm ẩm, ẩm ướt",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "湿度（しつど）",
         "meaning": {
-          "english": "level of humidity"
+          "english": "level of humidity |(vi) độ ẩm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu-shime(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "湿地（しっち）",
         "meaning": {
-          "english": "swamp"
+          "english": "swamp |(vi) đất ẩm lầy, đầm lầy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu-shime(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "湿気（しっけ）",
         "meaning": {
-          "english": "moisture, humidity, dampness"
+          "english": "moisture, humidity, dampness |(vi) hơi ẩm, độ ẩm, sự ẩm ướt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu-shime(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "湿布（しっぷ）",
         "meaning": {
-          "english": "wet compress, poultice"
+          "english": "wet compress, poultice |(vi) miếng dán ướt, gạc đắp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu-shime(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "加湿器（かしつき）",
         "meaning": {
-          "english": "humidifier"
+          "english": "humidifier |(vi) máy tạo ẩm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu-shime(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "湿す（しめす）",
         "meaning": {
-          "english": "wet, moisten, dampen [v.t.]"
+          "english": "wet, moisten, dampen [v.t.] |(vi) làm ướt, làm ẩm, thấm ướt [tha động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu-shime(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "湿る（しめる）",
         "meaning": {
-          "english": "be wet, be damp, moisten [v.i.]"
+          "english": "be wet, be damp, moisten [v.i.] |(vi) bị ướt, ẩm ướt, trở nên ẩm [tự động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu-shime(ru)_06_g.opus",
@@ -178,7 +178,7 @@
     "kanji": {
       "character": "湿",
       "meaning": {
-        "english": "damp, moisten, humid"
+        "english": "damp, moisten, humid |(vi) ẩm, làm ẩm, ẩm ướt"
       },
       "strokes": {
         "count": 12,
@@ -240,7 +240,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -261,7 +261,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1517",
     "strokeCount": 12,
-    "meaning": "damp, wet, moist",
+    "meaning": "damp, wet, moist |(vi) ẩm, ướt, ẩm ướt |(hv) Thấp",
     "kunyomi": [
       "しめ.る",
       "しめ.す",
@@ -276,34 +276,34 @@
       {
         "example": "湿",
         "reading": "シツ",
-        "meaning": "moisture, humidity, dampness, scabies, sarcoptic mange, the itch"
+        "meaning": "moisture, humidity, dampness, scabies, sarcoptic mange, the itch |(vi) hơi ẩm, độ ẩm, sự ẩm ướt, bệnh ghẻ, ghẻ ngứa"
       },
       {
         "example": "湿原",
         "reading": "シツゲン",
-        "meaning": "marshy grassland, wetlands"
+        "meaning": "marshy grassland, wetlands |(vi) thấp nguyên, đồng cỏ đầm lầy, vùng đất ngập nước"
       },
       {
         "example": "多湿",
         "reading": "タシツ",
-        "meaning": "high humidity"
+        "meaning": "high humidity |(vi) nhiều ẩm, độ ẩm cao"
       },
       {
         "example": "耐湿",
         "reading": "タイシツ",
-        "meaning": "resisting moisture"
+        "meaning": "resisting moisture |(vi) chịu ẩm, chống ẩm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "湿る",
         "reading": "しめる",
-        "meaning": "to become damp, to become moist, to become wet, to lack energy, to be in a slump, to be in low spirits, to feel depressed"
+        "meaning": "to become damp, to become moist, to become wet, to lack energy, to be in a slump, to be in low spirits, to feel depressed |(vi) trở nên ẩm, ẩm ướt, bị ướt, thiếu sức sống, ỉu xìu, ủ rũ, chán nản"
       },
       {
         "example": "湿す",
         "reading": "しめす",
-        "meaning": "to wet, to moisten, to dampen"
+        "meaning": "to wet, to moisten, to dampen |(vi) làm ướt, làm ẩm, thấm ướt"
       }
     ],
     "radical": {
@@ -312,7 +312,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "日",

@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "moto",
-    "meaning": "origin",
+    "meaning": "origin |(vi) nguồn gốc, khởi nguyên",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "元気な（げんきな）",
         "meaning": {
-          "english": "energetic"
+          "english": "energetic |(vi) khỏe mạnh, tràn đầy sức sống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "紀元前（きげんぜん）",
         "meaning": {
-          "english": "B.C.E."
+          "english": "B.C.E. |(vi) trước Công nguyên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "三次元（さんじげん）",
         "meaning": {
-          "english": "3 dimensions"
+          "english": "3 dimensions |(vi) ba chiều (không gian)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "元祖（がんそ）",
         "meaning": {
-          "english": "founder, inventor"
+          "english": "founder, inventor |(vi) người sáng lập, tổ sư, người khởi xướng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "元年（がんねん）",
         "meaning": {
-          "english": "first year (of a specific reign)"
+          "english": "first year (of a specific reign) |(vi) năm đầu (của một niên hiệu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "製造元（せいぞうもと）",
         "meaning": {
-          "english": "manufacturer"
+          "english": "manufacturer |(vi) nhà sản xuất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "地元（じもと）",
         "meaning": {
-          "english": "local"
+          "english": "local |(vi) địa phương, bản địa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "身元（みもと）",
         "meaning": {
-          "english": "person's identity"
+          "english": "person's identity |(vi) lai lịch, thân thế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_h.opus",
@@ -246,7 +246,7 @@
     "kanji": {
       "character": "元",
       "meaning": {
-        "english": "origin"
+        "english": "origin |(vi) nguồn gốc, khởi nguyên"
       },
       "strokes": {
         "count": 4,
@@ -292,7 +292,7 @@
         "romaji": "hitoashi"
       },
       "meaning": {
-        "english": "human legs"
+        "english": "human legs |(vi) Nhân (chân người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoashi0.svg",
@@ -313,7 +313,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "192",
     "strokeCount": 4,
-    "meaning": "beginning, former time, origin",
+    "meaning": "beginning, former time, origin |(vi) khởi đầu, thời trước, nguồn gốc |(hv) Nguyên",
     "kunyomi": [
       "もと"
     ],
@@ -325,59 +325,59 @@
       {
         "example": "元",
         "reading": "ゲン",
-        "meaning": "unknown (e.g. in an equation), element (of a set), yuan (monetary unit of China), New Taiwan dollar, Yuan dynasty (of China; 1271-1368), Yüan dynasty, Mongol dynasty"
+        "meaning": "unknown (e.g. in an equation), element (of a set), yuan (monetary unit of China), New Taiwan dollar, Yuan dynasty (of China; 1271-1368), Yüan dynasty, Mongol dynasty |(vi) ẩn số (trong phương trình), phần tử (của tập hợp), đồng nguyên (đơn vị tiền Trung Quốc), đồng Đài Loan mới, nhà Nguyên (Trung Quốc, 1271-1368)"
       },
       {
         "example": "原価",
         "reading": "ゲンカ",
-        "meaning": "cost price"
+        "meaning": "cost price |(vi) giá vốn"
       },
       {
         "example": "中元",
         "reading": "チュウゲン",
-        "meaning": "15th day of the 7th lunar month, (last day of) Bon lantern festival, mid-year gift, summer gift, Bon Festival gifts"
+        "meaning": "15th day of the 7th lunar month, (last day of) Bon lantern festival, mid-year gift, summer gift, Bon Festival gifts |(vi) rằm tháng bảy âm lịch, lễ Trung Nguyên, quà tặng giữa năm, quà mùa hè"
       },
       {
         "example": "抗原",
         "reading": "コウゲン",
-        "meaning": "antigen"
+        "meaning": "antigen |(vi) kháng nguyên"
       },
       {
         "example": "元祖",
         "reading": "ガンソ",
-        "meaning": "originator, pioneer, inventor, founder, progenitor, primogenitor, founder of a family line"
+        "meaning": "originator, pioneer, inventor, founder, progenitor, primogenitor, founder of a family line |(vi) người sáng lập, người khởi xướng, tổ sư, thủy tổ, người mở đầu dòng họ"
       },
       {
         "example": "元日",
         "reading": "ガンジツ",
-        "meaning": "New Year's Day"
+        "meaning": "New Year's Day |(vi) ngày mồng một Tết, ngày đầu năm mới"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "元",
         "reading": "もと",
-        "meaning": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry)"
+        "meaning": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry) |(vi) nguồn gốc, khởi đầu, căn bản, nền tảng, gốc rễ, nguyên nhân, nguyên liệu, hỗn hợp (làm bánh), nước dùng (súp), phía mình, vốn liếng, giá vốn, gốc cây, thân cây, phần cầm tay (bút, đũa...)"
       },
       {
         "example": "元",
         "reading": "もと",
-        "meaning": "former, ex-, past, one-time, earlier times, the past, previous state, formerly, previously, originally, before"
+        "meaning": "former, ex-, past, one-time, earlier times, the past, previous state, formerly, previously, originally, before |(vi) trước đây, cựu, quá khứ, một thời, thời trước, vốn dĩ, ban đầu"
       },
       {
         "example": "家元",
         "reading": "いえもと",
-        "meaning": "head of a school (of music, dance), head family of a school"
+        "meaning": "head of a school (of music, dance), head family of a school |(vi) người đứng đầu môn phái (nhạc, múa), tông chủ"
       },
       {
         "example": "大本",
         "reading": "おおもと",
-        "meaning": "root, origin, source, cause, basis, foundation, Ōmoto (religion)"
+        "meaning": "root, origin, source, cause, basis, foundation, Ōmoto (religion) |(vi) gốc rễ, nguồn gốc, nguyên nhân, nền tảng, căn bản"
       }
     ],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": "legs |(vi) Nhân (chân người)"
     },
     "parts": [
       "二",

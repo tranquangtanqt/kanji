@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "kaiko",
-    "meaning": "silkworm",
+    "meaning": "silkworm |(vi) con tằm",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "蚕糸（さんし）",
         "meaning": {
-          "english": "silk thread, silk yarn"
+          "english": "silk thread, silk yarn |(vi) tơ tằm, sợi tơ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaiko_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "養蚕（ようさん）",
         "meaning": {
-          "english": "sericulture, silkworm culture"
+          "english": "sericulture, silkworm culture |(vi) nghề nuôi tằm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaiko_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "蚕食する（さんしょくする）",
         "meaning": {
-          "english": "encroach, invade"
+          "english": "encroach, invade |(vi) xâm lấn, gặm nhấm dần (như tằm ăn dâu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaiko_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "蚕（かいこ）",
         "meaning": {
-          "english": "silkworm"
+          "english": "silkworm |(vi) con tằm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaiko_06_d.opus",
@@ -134,7 +134,7 @@
     "kanji": {
       "character": "蚕",
       "meaning": {
-        "english": "silkworm"
+        "english": "silkworm |(vi) con tằm"
       },
       "strokes": {
         "count": 10,
@@ -192,7 +192,7 @@
         "romaji": "mushi"
       },
       "meaning": {
-        "english": "worm, insect, bug"
+        "english": "worm, insect, bug |(vi) Trùng (sâu bọ, côn trùng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mushi0.svg",
@@ -213,7 +213,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2272",
     "strokeCount": 10,
-    "meaning": "silkworm",
+    "meaning": "silkworm |(vi) con tằm |(hv) Tàm",
     "kunyomi": [
       "かいこ",
       "こ"
@@ -226,64 +226,64 @@
       {
         "example": "蚕糸",
         "reading": "サンシ",
-        "meaning": "silk thread, silk yarn"
+        "meaning": "silk thread, silk yarn |(vi) tơ tằm, sợi tơ"
       },
       {
         "example": "蚕業",
         "reading": "サンギョウ",
-        "meaning": "sericulture"
+        "meaning": "sericulture |(vi) nghề nuôi tằm, ngành tằm tang"
       },
       {
         "example": "養蚕",
         "reading": "ヨウサン",
-        "meaning": "sericulture, silkworm culture, silkworm raising"
+        "meaning": "sericulture, silkworm culture, silkworm raising |(vi) nghề nuôi tằm, chăn nuôi tằm"
       },
       {
         "example": "秋蚕",
         "reading": "シュウサン",
-        "meaning": "autumn silkworms, fall silkworms"
+        "meaning": "autumn silkworms, fall silkworms |(vi) tằm thu, tằm nuôi vào mùa thu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蚕",
         "reading": "かいこ",
-        "meaning": "silkworm (Bombyx mori)"
+        "meaning": "silkworm (Bombyx mori) |(vi) con tằm (Bombyx mori)"
       },
       {
         "example": "蚕蛾",
         "reading": "かいこが",
-        "meaning": "silkworm moth, silk moth (Bombyx mori)"
+        "meaning": "silkworm moth, silk moth (Bombyx mori) |(vi) ngài tằm, bướm tằm"
       },
       {
         "example": "三眠蚕",
         "reading": "さんみんかいこ",
-        "meaning": "three-molt silkworm"
+        "meaning": "three-molt silkworm |(vi) tằm ba lần lột xác (tam miên tàm)"
       },
       {
         "example": "蚕糞",
         "reading": "こくそ",
-        "meaning": "silkworm droppings"
+        "meaning": "silkworm droppings |(vi) phân tằm"
       },
       {
         "example": "蚕玉",
         "reading": "こだま",
-        "meaning": "guardian deity of silkworms"
+        "meaning": "guardian deity of silkworms |(vi) thần hộ mệnh của tằm"
       },
       {
         "example": "三眠蚕",
         "reading": "さんみんかいこ",
-        "meaning": "three-molt silkworm"
+        "meaning": "three-molt silkworm |(vi) tằm ba lần lột xác (tam miên tàm)"
       },
       {
         "example": "桑蚕",
         "reading": "くわこ",
-        "meaning": "wild silkworm moth (Bombyx mandarina)"
+        "meaning": "wild silkworm moth (Bombyx mandarina) |(vi) tằm hoang dã (Bombyx mandarina)"
       }
     ],
     "radical": {
       "symbol": "虫",
-      "meaning": "insect"
+      "meaning": "insect |(vi) Trùng (côn trùng, sâu bọ)"
     },
     "parts": [
       "一",

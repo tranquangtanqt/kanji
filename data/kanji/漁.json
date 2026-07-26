@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "fish, fishing",
+    "meaning": "fish, fishing |(vi) cá, đánh cá",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "漁村（ぎょそん）",
         "meaning": {
-          "english": "fishing village"
+          "english": "fishing village |(vi) làng chài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyo(gyou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "漁業（ぎょぎょう）",
         "meaning": {
-          "english": "fishing"
+          "english": "fishing |(vi) nghề cá, ngư nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyo(gyou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "漁船（ぎょせん）",
         "meaning": {
-          "english": "fishing boat"
+          "english": "fishing boat |(vi) thuyền đánh cá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyo(gyou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "漁（りょう）",
         "meaning": {
-          "english": "fishing catch"
+          "english": "fishing catch |(vi) sự đánh bắt cá, mẻ cá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyo(gyou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "漁師（りょうし）",
         "meaning": {
-          "english": "fisherman"
+          "english": "fisherman |(vi) ngư dân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyo(gyou)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "出漁する（しゅつりょうする）",
         "meaning": {
-          "english": "go fishing"
+          "english": "go fishing |(vi) ra khơi đánh cá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyo(gyou)_06_f.opus",
@@ -173,7 +173,7 @@
     "kanji": {
       "character": "漁",
       "meaning": {
-        "english": "fish, fishing"
+        "english": "fish, fishing |(vi) cá, đánh cá"
       },
       "strokes": {
         "count": 14,
@@ -239,7 +239,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -260,7 +260,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1094",
     "strokeCount": 14,
-    "meaning": "fishing, fishery",
+    "meaning": "fishing, fishery |(vi) đánh cá, nghề cá |(hv) Ngư",
     "kunyomi": [
       "あさ.る"
     ],
@@ -272,49 +272,49 @@
       {
         "example": "漁業",
         "reading": "ギョギョウ",
-        "meaning": "fishing industry, fishery"
+        "meaning": "fishing industry, fishery |(vi) ngành đánh cá, ngư nghiệp"
       },
       {
         "example": "漁獲",
         "reading": "ギョカク",
-        "meaning": "fishing, catch, haul"
+        "meaning": "fishing, catch, haul |(vi) đánh bắt, sản lượng cá"
       },
       {
         "example": "出漁",
         "reading": "シュツリョウ",
-        "meaning": "going fishing, going out to fish"
+        "meaning": "going fishing, going out to fish |(vi) ra khơi đánh cá"
       },
       {
         "example": "大漁",
         "reading": "タイリョウ",
-        "meaning": "big catch (fishing), good haul"
+        "meaning": "big catch (fishing), good haul |(vi) được mùa cá, mẻ cá lớn"
       },
       {
         "example": "漁",
         "reading": "リョウ",
-        "meaning": "fishing, gathering seafood (e.g. clams, seaweed), catch (e.g. of fish), haul"
+        "meaning": "fishing, gathering seafood (e.g. clams, seaweed), catch (e.g. of fish), haul |(vi) đánh bắt (cá, hải sản), mẻ đánh bắt"
       },
       {
         "example": "漁師",
         "reading": "リョウシ",
-        "meaning": "fisherman"
+        "meaning": "fisherman |(vi) ngư dân"
       },
       {
         "example": "大漁",
         "reading": "タイリョウ",
-        "meaning": "big catch (fishing), good haul"
+        "meaning": "big catch (fishing), good haul |(vi) được mùa cá, mẻ cá lớn"
       },
       {
         "example": "豊漁",
         "reading": "ホウリョウ",
-        "meaning": "good catch, good haul"
+        "meaning": "good catch, good haul |(vi) được mùa cá"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "漁る",
         "reading": "あさる",
-        "meaning": "to fish, to look for, to search for, to hunt for, to scavenge, to scrounge, to look through, to rummage through, to go on a spree (spending, reading, etc.), to binge"
+        "meaning": "to fish, to look for, to search for, to hunt for, to scavenge, to scrounge, to look through, to rummage through, to go on a spree (spending, reading, etc.), to binge |(vi) đánh bắt, tìm kiếm, lùng sục, moi móc, (nghĩa bóng) mải mê (tiêu tiền, đọc sách...)"
       }
     ],
     "radical": {
@@ -323,7 +323,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "杰",

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "tane",
-    "meaning": "variety, seed, type, kind",
+    "meaning": "variety, seed, type, kind |(vi) chủng loại, hạt giống, kiểu, loại",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "人種（じんしゅ）",
         "meaning": {
-          "english": "race (of people)"
+          "english": "race (of people) |(vi) nhân chủng, chủng tộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tane_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "職種（しょくしゅ）",
         "meaning": {
-          "english": "occupational category"
+          "english": "occupational category |(vi) chức chủng, loại hình nghề nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tane_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "業種（ぎょうしゅ）",
         "meaning": {
-          "english": "type of industry"
+          "english": "type of industry |(vi) nghiệp chủng, ngành nghề kinh doanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tane_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "品種（ひんしゅ）",
         "meaning": {
-          "english": "brand, kind"
+          "english": "brand, kind |(vi) phẩm chủng, giống, chủng loại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tane_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "各種（かくしゅ）",
         "meaning": {
-          "english": "each kind"
+          "english": "each kind |(vi) các chủng loại, mỗi loại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tane_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "一種（いっしゅ）",
         "meaning": {
-          "english": "one variety, one class"
+          "english": "one variety, one class |(vi) một loại, một chủng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tane_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "種子（しゅし）",
         "meaning": {
-          "english": "seed"
+          "english": "seed |(vi) chủng tử, hạt giống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tane_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "種（たね）",
         "meaning": {
-          "english": "seed"
+          "english": "seed |(vi) hạt, hạt giống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tane_06_h.opus",
@@ -205,7 +205,7 @@
     "kanji": {
       "character": "種",
       "meaning": {
-        "english": "variety, seed, type, kind"
+        "english": "variety, seed, type, kind |(vi) chủng loại, hạt giống, kiểu, loại"
       },
       "strokes": {
         "count": 14,
@@ -271,7 +271,7 @@
         "romaji": "nogihen"
       },
       "meaning": {
-        "english": "grain"
+        "english": "grain |(vi) Hòa (cây lúa, ngũ cốc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nogihen0.svg",
@@ -292,7 +292,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "461",
     "strokeCount": 14,
-    "meaning": "species, kind, class, variety, seed",
+    "meaning": "species, kind, class, variety, seed |(vi) loài, loại, hạng, chủng loại, hạt giống |(hv) Chủng",
     "kunyomi": [
       "たね",
       "-ぐさ"
@@ -304,49 +304,49 @@
       {
         "example": "種",
         "reading": "シュ",
-        "meaning": "kind, variety, (biological) species, (logical) species"
+        "meaning": "kind, variety, (biological) species, (logical) species |(vi) loại, chủng loại, loài (sinh học), chủng (trong logic)"
       },
       {
         "example": "種子",
         "reading": "シュシ",
-        "meaning": "seed, pit"
+        "meaning": "seed, pit |(vi) chủng tử, hạt giống, hột"
       },
       {
         "example": "職種",
         "reading": "ショクシュ",
-        "meaning": "type of occupation, occupational category"
+        "meaning": "type of occupation, occupational category |(vi) chức chủng, loại hình nghề nghiệp"
       },
       {
         "example": "業種",
         "reading": "ギョウシュ",
-        "meaning": "type of industry"
+        "meaning": "type of industry |(vi) nghiệp chủng, ngành nghề kinh doanh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "種",
         "reading": "たね",
-        "meaning": "seed (e.g. of a plant), pip, kernel, stone (e.g. of a peach), progeny, offspring, issue, breed, paternal blood, lineage, sperm, semen, seed, cause, source, seed, origin, material (e.g. for an article), matter (e.g. of a story), subject (of discussion), theme, (news) copy, source (of a story), ingredient, main ingredient (of a piece of sushi), leaven, mechanism (of a magic trick, etc.), secret, trickery, 10-point card, tane, animal card"
+        "meaning": "seed (e.g. of a plant), pip, kernel, stone (e.g. of a peach), progeny, offspring, issue, breed, paternal blood, lineage, sperm, semen, seed, cause, source, seed, origin, material (e.g. for an article), matter (e.g. of a story), subject (of discussion), theme, (news) copy, source (of a story), ingredient, main ingredient (of a piece of sushi), leaven, mechanism (of a magic trick, etc.), secret, trickery, 10-point card, tane, animal card |(vi) hạt (của cây), hột, nhân, hạt (của quả đào...), con cháu, dòng dõi, hậu duệ, giống nòi, huyết thống bên cha, dòng giống, tinh trùng, tinh dịch, mầm mống, nguyên nhân, nguồn cơn, mầm, gốc rễ, tư liệu (cho bài viết), chuyện (của câu chuyện), đề tài (bàn luận), chủ đề, bản tin, nguồn tin (của câu chuyện), nguyên liệu, nhân chính (của miếng sushi), men (làm bánh), cơ chế (của trò ảo thuật...), bí mật, mánh khóe, lá bài 10 điểm, lá tane, lá bài hình con vật"
       },
       {
         "example": "種馬",
         "reading": "たねうま",
-        "meaning": "studhorse, stallion, breeding horse"
+        "meaning": "studhorse, stallion, breeding horse |(vi) chủng mã, ngựa giống, ngựa đực giống"
       },
       {
         "example": "菜種",
         "reading": "なたね",
-        "meaning": "rapeseed, coleseed"
+        "meaning": "rapeseed, coleseed |(vi) hạt cải dầu"
       },
       {
         "example": "麻種",
         "reading": "あさたね",
-        "meaning": "hemp seed"
+        "meaning": "hemp seed |(vi) hạt gai dầu"
       }
     ],
     "radical": {
       "symbol": "禾",
-      "meaning": "grain"
+      "meaning": "grain |(vi) Hòa (cây lúa, ngũ cốc)"
     },
     "parts": [
       "ノ",

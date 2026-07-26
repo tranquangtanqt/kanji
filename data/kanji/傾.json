@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "katamu, kashi, katamukeru, katamuku, kashigeru",
-    "meaning": "incline, lean, tilt",
+    "meaning": "incline, lean, tilt |(vi) nghiêng, ngả, xiên",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "傾向（けいこう）",
         "meaning": {
-          "english": "tendency, trend, inclination"
+          "english": "tendency, trend, inclination |(vi) xu hướng, khuynh hướng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "傾度（けいど）",
         "meaning": {
-          "english": "degree of inclination"
+          "english": "degree of inclination |(vi) độ nghiêng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "傾斜する（けいしゃする）",
         "meaning": {
-          "english": "incline, slant, slope"
+          "english": "incline, slant, slope |(vi) nghiêng, dốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "右傾する（うけいする）",
         "meaning": {
-          "english": "lean to the (political) right"
+          "english": "lean to the (political) right |(vi) thiên hữu, ngả sang cánh hữu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "左傾する（さけいする）",
         "meaning": {
-          "english": "leaning the (political) left"
+          "english": "leaning the (political) left |(vi) thiên tả, ngả sang cánh tả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "傾ける（かたむける）",
         "meaning": {
-          "english": "lean, tip, tilt, slant [v.t.]"
+          "english": "lean, tip, tilt, slant [v.t.] |(vi) làm nghiêng, làm ngả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "傾く（かたむく）",
         "meaning": {
-          "english": "lean, tip, tilt, slant [v.i.]"
+          "english": "lean, tip, tilt, slant [v.i.] |(vi) nghiêng, ngả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "傾き（かたむき）",
         "meaning": {
-          "english": "slope, inclination"
+          "english": "slope, inclination |(vi) độ nghiêng, độ dốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "傾げる（かしげる）",
         "meaning": {
-          "english": "lean, tip, tilt, slant [v.t.]"
+          "english": "lean, tip, tilt, slant [v.t.] |(vi) nghiêng (đầu), làm nghiêng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "傾ぐ（かしぐ）",
         "meaning": {
-          "english": "lean, tip, tilt, slant [v.i.]"
+          "english": "lean, tip, tilt, slant [v.i.] |(vi) nghiêng, ngả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_j.opus",
@@ -235,7 +235,7 @@
     "kanji": {
       "character": "傾",
       "meaning": {
-        "english": "incline, lean, tilt"
+        "english": "incline, lean, tilt |(vi) nghiêng, ngả, xiên"
       },
       "strokes": {
         "count": 13,
@@ -299,7 +299,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -320,7 +320,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "938",
     "strokeCount": 13,
-    "meaning": "lean, incline, tilt, trend, wane, sink, ruin, bias",
+    "meaning": "lean, incline, tilt, trend, wane, sink, ruin, bias |(vi) nghiêng, ngả, xu hướng, suy tàn, chìm, sụp đổ, thiên vị |(hv) Khuynh",
     "kunyomi": [
       "かたむ.く",
       "かたむ.ける",
@@ -335,49 +335,49 @@
       {
         "example": "傾斜",
         "reading": "ケイシャ",
-        "meaning": "inclination, slant, slope, bevel, list, dip, tilt, lean"
+        "meaning": "inclination, slant, slope, bevel, list, dip, tilt, lean |(vi) độ nghiêng, độ dốc"
       },
       {
         "example": "傾向",
         "reading": "ケイコウ",
-        "meaning": "tendency, trend, inclination"
+        "meaning": "tendency, trend, inclination |(vi) xu hướng, khuynh hướng"
       },
       {
         "example": "前傾",
         "reading": "ゼンケイ",
-        "meaning": "forward inclination (of the body), bending forward, anteversion"
+        "meaning": "forward inclination (of the body), bending forward, anteversion |(vi) nghiêng về phía trước, cúi người về trước"
       },
       {
         "example": "右傾",
         "reading": "ウケイ",
-        "meaning": "leaning to the right, leaning to the (political) right, rightist tendency, becoming right-wing"
+        "meaning": "leaning to the right, leaning to the (political) right, rightist tendency, becoming right-wing |(vi) thiên hữu, khuynh hướng cánh hữu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "傾く",
         "reading": "かたむく",
-        "meaning": "to incline toward, to slant, to lurch, to heel over, to be disposed to, to trend toward, to be prone to, to go down (sun, moon), to sink, to decline, to wane, to ebb, to fall away, to tend (towards), to be inclined (to), to come around to (opinion, etc.)"
+        "meaning": "to incline toward, to slant, to lurch, to heel over, to be disposed to, to trend toward, to be prone to, to go down (sun, moon), to sink, to decline, to wane, to ebb, to fall away, to tend (towards), to be inclined (to), to come around to (opinion, etc.) |(vi) nghiêng, ngả, có xu hướng, lặn (mặt trời, mặt trăng), suy tàn, sa sút"
       },
       {
         "example": "傾ける",
         "reading": "かたむける",
-        "meaning": "to incline, to lean, to tip, to tilt, to slant, to bend, to list, to devote oneself to, to concentrate on, to pour one's energy into, to ruin, to squander, to empty, to drink (alcohol)"
+        "meaning": "to incline, to lean, to tip, to tilt, to slant, to bend, to list, to devote oneself to, to concentrate on, to pour one's energy into, to ruin, to squander, to empty, to drink (alcohol) |(vi) làm nghiêng, dốc sức vào, tập trung vào, làm sụp đổ, uống (rượu)"
       },
       {
         "example": "傾く",
         "reading": "かたむく",
-        "meaning": "to incline toward, to slant, to lurch, to heel over, to be disposed to, to trend toward, to be prone to, to go down (sun, moon), to sink, to decline, to wane, to ebb, to fall away, to tend (towards), to be inclined (to), to come around to (opinion, etc.)"
+        "meaning": "to incline toward, to slant, to lurch, to heel over, to be disposed to, to trend toward, to be prone to, to go down (sun, moon), to sink, to decline, to wane, to ebb, to fall away, to tend (towards), to be inclined (to), to come around to (opinion, etc.) |(vi) nghiêng, ngả, có xu hướng, lặn (mặt trời, mặt trăng), suy tàn, sa sút"
       },
       {
         "example": "傾げる",
         "reading": "かしげる",
-        "meaning": "to tilt (esp. head), to lean, to incline, to slant"
+        "meaning": "to tilt (esp. head), to lean, to incline, to slant |(vi) nghiêng (đầu), ngả"
       },
       {
         "example": "傾げる",
         "reading": "かしげる",
-        "meaning": "to tilt (esp. head), to lean, to incline, to slant"
+        "meaning": "to tilt (esp. head), to lean, to incline, to slant |(vi) nghiêng (đầu), ngả"
       }
     ],
     "radical": {
@@ -385,7 +385,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "ハ",

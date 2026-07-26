@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 2,
     "kunyomi": "maru, marui",
-    "meaning": "circle, yen",
+    "meaning": "circle, yen |(vi) hình tròn, đồng yên",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "千円（せんえん）",
         "meaning": {
-          "english": "a thousand yen"
+          "english": "a thousand yen |(vi) một nghìn yên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-maru_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "円高（えんだか）",
         "meaning": {
-          "english": "strong yen"
+          "english": "strong yen |(vi) đồng yên tăng giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-maru_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "円安（えんやす）",
         "meaning": {
-          "english": "cheap yen"
+          "english": "cheap yen |(vi) đồng yên mất giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-maru_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "円満な（えんまんな）",
         "meaning": {
-          "english": "peaceful"
+          "english": "peaceful |(vi) êm đẹp, hòa thuận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-maru_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "円滑な（えんかつな）",
         "meaning": {
-          "english": "smooth"
+          "english": "smooth |(vi) trôi chảy, suôn sẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-maru_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "円い（まるい）",
         "meaning": {
-          "english": "round"
+          "english": "round |(vi) tròn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-maru_06_f.opus",
@@ -228,7 +228,7 @@
     "kanji": {
       "character": "円",
       "meaning": {
-        "english": "circle, yen"
+        "english": "circle, yen |(vi) hình tròn, đồng yên"
       },
       "strokes": {
         "count": 4,
@@ -274,7 +274,7 @@
         "romaji": "keigamae"
       },
       "meaning": {
-        "english": "to enclose"
+        "english": "to enclose |(vi) Quynh (bao quanh, vùng đất mở)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/keigamae0.svg",
@@ -295,7 +295,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "69",
     "strokeCount": 4,
-    "meaning": "circle, yen, round",
+    "meaning": "circle, yen, round |(vi) hình tròn, đồng yên, tròn |(hv) Viên",
     "kunyomi": [
       "まる.い",
       "まる",
@@ -310,69 +310,69 @@
       {
         "example": "円",
         "reading": "エン",
-        "meaning": "yen (Japanese monetary unit), circle"
+        "meaning": "yen (Japanese monetary unit), circle |(vi) đồng yên (đơn vị tiền tệ Nhật), hình tròn"
       },
       {
         "example": "円滑",
         "reading": "エンカツ",
-        "meaning": "smooth, undisturbed, uninterrupted, harmonious"
+        "meaning": "smooth, undisturbed, uninterrupted, harmonious |(vi) trôi chảy, suôn sẻ, không bị gián đoạn, hài hòa"
       },
       {
         "example": "楕円",
         "reading": "ダエン",
-        "meaning": "ellipse, oval"
+        "meaning": "ellipse, oval |(vi) hình elip, hình bầu dục"
       },
       {
         "example": "同心円",
         "reading": "ドウシンエン",
-        "meaning": "concentric circles"
+        "meaning": "concentric circles |(vi) các vòng tròn đồng tâm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "丸い",
         "reading": "まるい",
-        "meaning": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable"
+        "meaning": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable |(vi) tròn, hình cầu, cong, mượt, hài hòa, êm đềm, hòa nhã"
       },
       {
         "example": "丸",
         "reading": "まる",
-        "meaning": "circle, entirety, whole, full, complete, money, dough, moola, enclosure inside a castle's walls, soft-shelled turtle, suffix for ship names, suffix for names of people (esp. infants), suffix for names of swords, armour, musical instruments, etc., suffix for names of dogs, horses, etc."
+        "meaning": "circle, entirety, whole, full, complete, money, dough, moola, enclosure inside a castle's walls, soft-shelled turtle, suffix for ship names, suffix for names of people (esp. infants), suffix for names of swords, armour, musical instruments, etc., suffix for names of dogs, horses, etc. |(vi) vòng tròn, toàn bộ, trọn vẹn, đầy đủ, tiền, khu thành trong lâu đài, con rùa mai mềm, hậu tố tên tàu thuyền/người/kiếm/áo giáp/nhạc cụ/chó/ngựa"
       },
       {
         "example": "丸い",
         "reading": "まるい",
-        "meaning": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable"
+        "meaning": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable |(vi) tròn, hình cầu, cong, mượt, hài hòa, êm đềm, hòa nhã"
       },
       {
         "example": "黒円",
         "reading": "くろまる",
-        "meaning": "black spot, black dot, bull's-eye, middle dot, interpunct"
+        "meaning": "black spot, black dot, bull's-eye, middle dot, interpunct |(vi) chấm đen, dấu chấm đen, tâm điểm, dấu chấm giữa"
       },
       {
         "example": "円居",
         "reading": "まどい",
-        "meaning": "sitting in a circle, pleasant gathering"
+        "meaning": "sitting in a circle, pleasant gathering |(vi) ngồi quây quần, buổi họp mặt vui vẻ"
       },
       {
         "example": "円か",
         "reading": "まどか",
-        "meaning": "round, tranquil, contentedly at ease"
+        "meaning": "round, tranquil, contentedly at ease |(vi) tròn trịa, yên bình, thư thái"
       },
       {
         "example": "円か",
         "reading": "まどか",
-        "meaning": "round, tranquil, contentedly at ease"
+        "meaning": "round, tranquil, contentedly at ease |(vi) tròn trịa, yên bình, thư thái"
       },
       {
         "example": "円やか",
         "reading": "まろやか",
-        "meaning": "round, circular, spherical, mellow (flavour, voice, etc.), mild, smooth"
+        "meaning": "round, circular, spherical, mellow (flavour, voice, etc.), mild, smooth |(vi) tròn trịa, êm dịu (vị, giọng...), nhẹ nhàng, mượt mà"
       }
     ],
     "radical": {
       "symbol": "冂",
-      "meaning": "open country"
+      "meaning": "open country |(vi) Quynh (bao quanh, vùng đất mở)"
     },
     "parts": [
       "一",

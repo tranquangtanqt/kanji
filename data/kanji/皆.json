@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "mina",
-    "meaning": "all",
+    "meaning": "all |(vi) tất cả",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "皆目（かいもく）",
         "meaning": {
-          "english": "entirely, completely"
+          "english": "entirely, completely |(vi) hoàn toàn, hoàn toàn không"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mina_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "皆無（かいむ）",
         "meaning": {
-          "english": "nothing, none"
+          "english": "nothing, none |(vi) không có gì, không hề"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mina_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "皆勤（かいきん）",
         "meaning": {
-          "english": "perfect attendance"
+          "english": "perfect attendance |(vi) chuyên cần hoàn hảo, đi làm/học đầy đủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mina_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "皆既食（かいきしょく）",
         "meaning": {
-          "english": "total eclipse"
+          "english": "total eclipse |(vi) nhật thực toàn phần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mina_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "皆さん（みなさん）",
         "meaning": {
-          "english": "all, everyone"
+          "english": "all, everyone |(vi) tất cả mọi người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mina_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "*皆（みな/みんな）",
         "meaning": {
-          "english": "everyone"
+          "english": "everyone |(vi) mọi người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mina_06_f.opus",
@@ -196,7 +196,7 @@
     "kanji": {
       "character": "皆",
       "meaning": {
-        "english": "all"
+        "english": "all |(vi) tất cả"
       },
       "strokes": {
         "count": 9,
@@ -252,7 +252,7 @@
         "romaji": "shiro"
       },
       "meaning": {
-        "english": "white"
+        "english": "white |(vi) Bạch (trắng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shiro0.svg",
@@ -273,7 +273,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1267",
     "strokeCount": 9,
-    "meaning": "all, everything",
+    "meaning": "all, everything |(vi) tất cả, mọi thứ |(hv) Giai",
     "kunyomi": [
       "みな",
       "みんな"
@@ -285,59 +285,59 @@
       {
         "example": "皆無",
         "reading": "カイム",
-        "meaning": "nonexistent, nil, none, nothing (at all), bugger-all"
+        "meaning": "nonexistent, nil, none, nothing (at all), bugger-all |(vi) không có gì, không hề, hoàn toàn không"
       },
       {
         "example": "皆目",
         "reading": "カイモク",
-        "meaning": "entirely, (not) at all"
+        "meaning": "entirely, (not) at all |(vi) hoàn toàn, hoàn toàn không"
       },
       {
         "example": "悉皆",
         "reading": "シッカイ",
-        "meaning": "all"
+        "meaning": "all |(vi) tất cả"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "皆",
         "reading": "みんな",
-        "meaning": "everyone, everybody, all, everything, all"
+        "meaning": "everyone, everybody, all, everything, all |(vi) mọi người, tất cả, tất cả mọi thứ"
       },
       {
         "example": "皆様",
         "reading": "みなさま",
-        "meaning": "everyone"
+        "meaning": "everyone |(vi) mọi người (kính ngữ)"
       },
       {
         "example": "皆が皆",
         "reading": "みんながみんな",
-        "meaning": "each and all, every single one, everybody"
+        "meaning": "each and all, every single one, everybody |(vi) từng người một, tất cả không trừ ai"
       },
       {
         "example": "皆々",
         "reading": "みなみな",
-        "meaning": "all, everyone, everybody, everything"
+        "meaning": "all, everyone, everybody, everything |(vi) tất cả, mọi người, mọi thứ"
       },
       {
         "example": "皆",
         "reading": "みんな",
-        "meaning": "everyone, everybody, all, everything, all"
+        "meaning": "everyone, everybody, all, everything, all |(vi) mọi người, tất cả, tất cả mọi thứ"
       },
       {
         "example": "皆が皆",
         "reading": "みんながみんな",
-        "meaning": "each and all, every single one, everybody"
+        "meaning": "each and all, every single one, everybody |(vi) từng người một, tất cả không trừ ai"
       },
       {
         "example": "皆が皆",
         "reading": "みんながみんな",
-        "meaning": "each and all, every single one, everybody"
+        "meaning": "each and all, every single one, everybody |(vi) từng người một, tất cả không trừ ai"
       }
     ],
     "radical": {
       "symbol": "白",
-      "meaning": "white"
+      "meaning": "white |(vi) Bạch (trắng)"
     },
     "parts": [
       "比",

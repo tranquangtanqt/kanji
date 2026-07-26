@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "sake, sakebu",
-    "meaning": "shout, scream",
+    "meaning": "shout, scream |(vi) hét, la hét",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "阿鼻叫喚（あびきょうかん）",
         "meaning": {
-          "english": "agonizing cries, pandemonium"
+          "english": "agonizing cries, pandemonium |(vi) tiếng kêu than thảm thiết, cảnh hỗn loạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sake(bu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "絶叫する（ぜっきょうする）",
         "meaning": {
-          "english": "scream, shout [v.i.]"
+          "english": "scream, shout [v.i.] |(vi) hét lên, la hét [nội động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sake(bu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "叫ぶ（さけぶ）",
         "meaning": {
-          "english": "scream, shout [v.i.]"
+          "english": "scream, shout [v.i.] |(vi) hét lên, la hét [nội động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sake(bu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "叫び声（さけびごえ）",
         "meaning": {
-          "english": "shout, scream [n.]"
+          "english": "shout, scream [n.] |(vi) tiếng hét, tiếng la hét [danh từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sake(bu)_06_d.opus",
@@ -133,7 +133,7 @@
     "kanji": {
       "character": "叫",
       "meaning": {
-        "english": "shout, scream"
+        "english": "shout, scream |(vi) hét, la hét"
       },
       "strokes": {
         "count": 6,
@@ -183,7 +183,7 @@
         "romaji": "kuchihen"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchihen0.svg",
@@ -204,7 +204,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1426",
     "strokeCount": 6,
-    "meaning": "shout, exclaim, yell",
+    "meaning": "shout, exclaim, yell |(vi) hét, kêu lên, la hét |(hv) Khiếu",
     "kunyomi": [
       "さけ.ぶ"
     ],
@@ -215,34 +215,34 @@
       {
         "example": "叫喚",
         "reading": "キョウカン",
-        "meaning": "shout, scream"
+        "meaning": "shout, scream |(vi) hét, la hét, gào thét"
       },
       {
         "example": "叫号",
         "reading": "キョウゴウ",
-        "meaning": "crying aloud"
+        "meaning": "crying aloud |(vi) kêu to, gào lớn"
       },
       {
         "example": "哀叫",
         "reading": "アイキョウ",
-        "meaning": "crying loudly with sadness"
+        "meaning": "crying loudly with sadness |(vi) khóc than thảm thiết"
       },
       {
         "example": "大絶叫",
         "reading": "ダイゼッキョウ",
-        "meaning": "loud scream, screaming at the top of one's lungs"
+        "meaning": "loud scream, screaming at the top of one's lungs |(vi) tiếng thét lớn, hét to hết cỡ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "叫ぶ",
         "reading": "さけぶ",
-        "meaning": "to shout, to cry, to scream, to shriek, to yell, to exclaim, to clamor (for or against), to clamour (for or against)"
+        "meaning": "to shout, to cry, to scream, to shriek, to yell, to exclaim, to clamor (for or against), to clamour (for or against) |(vi) hét lên, kêu lên, la hét, thét lên, gào lên, kêu gào (ủng hộ hoặc phản đối)"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "十",

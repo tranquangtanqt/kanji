@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "umi",
-    "meaning": "sea, ocean",
+    "meaning": "sea, ocean |(vi) biển, đại dương",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "日本海（にほんかい）",
         "meaning": {
-          "english": "Sea of Japan"
+          "english": "Sea of Japan |(vi) biển Nhật Bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "航海（こうかい）",
         "meaning": {
-          "english": "sailing"
+          "english": "sailing |(vi) hàng hải, đi biển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "海岸（かいがん）",
         "meaning": {
-          "english": "coast"
+          "english": "coast |(vi) bờ biển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "海外（かいがい）",
         "meaning": {
-          "english": "abroad"
+          "english": "abroad |(vi) nước ngoài, hải ngoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "海水浴（かいすいよく）",
         "meaning": {
-          "english": "sea bathing"
+          "english": "sea bathing |(vi) tắm biển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "海（うみ）",
         "meaning": {
-          "english": "sea"
+          "english": "sea |(vi) biển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "海辺（うみべ）",
         "meaning": {
-          "english": "beach"
+          "english": "beach |(vi) bãi biển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "*海老（えび）",
         "meaning": {
-          "english": "shrimp"
+          "english": "shrimp |(vi) tôm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "*海苔（のり）",
         "meaning": {
-          "english": "sea seed sheet"
+          "english": "sea seed sheet |(vi) rong biển, tảo biển (nori)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_i.opus",
@@ -259,7 +259,7 @@
     "kanji": {
       "character": "海",
       "meaning": {
-        "english": "sea, ocean"
+        "english": "sea, ocean |(vi) biển, đại dương"
       },
       "strokes": {
         "count": 9,
@@ -315,7 +315,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -336,7 +336,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "200",
     "strokeCount": 9,
-    "meaning": "sea, ocean",
+    "meaning": "sea, ocean |(vi) biển, đại dương |(hv) Hải",
     "kunyomi": [
       "うみ"
     ],
@@ -347,44 +347,44 @@
       {
         "example": "海運",
         "reading": "カイウン",
-        "meaning": "maritime transport, shipping"
+        "meaning": "maritime transport, shipping |(vi) vận tải đường biển, hàng hải"
       },
       {
         "example": "海域",
         "reading": "カイイキ",
-        "meaning": "area of sea, waters"
+        "meaning": "area of sea, waters |(vi) vùng biển, hải phận"
       },
       {
         "example": "公海",
         "reading": "コウカイ",
-        "meaning": "high seas, international waters"
+        "meaning": "high seas, international waters |(vi) biển quốc tế, hải phận quốc tế"
       },
       {
         "example": "内海",
         "reading": "ナイカイ",
-        "meaning": "inland sea, inlet, gulf, bay, lake"
+        "meaning": "inland sea, inlet, gulf, bay, lake |(vi) biển nội địa, vịnh, hồ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "海",
         "reading": "うみ",
-        "meaning": "sea, ocean, waters"
+        "meaning": "sea, ocean, waters |(vi) biển, đại dương, vùng nước"
       },
       {
         "example": "海辺",
         "reading": "うみべ",
-        "meaning": "beach, seashore, seaside, coast"
+        "meaning": "beach, seashore, seaside, coast |(vi) bờ biển, bãi biển, ven biển"
       },
       {
         "example": "内海",
         "reading": "ないかい",
-        "meaning": "inland sea, inlet, gulf, bay, lake"
+        "meaning": "inland sea, inlet, gulf, bay, lake |(vi) biển nội địa, vịnh, hồ"
       },
       {
         "example": "血の海",
         "reading": "ちのうみ",
-        "meaning": "sea of blood, pool of blood"
+        "meaning": "sea of blood, pool of blood |(vi) biển máu, vũng máu"
       }
     ],
     "radical": {
@@ -393,7 +393,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "乞",

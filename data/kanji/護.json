@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 6,
     "kunyomi": "mamo, mamoru",
-    "meaning": "protect",
+    "meaning": "protect |(vi) bảo vệ, che chở",
     "kstroke": 20,
     "examples": [
       {
         "japanese": "保護する（ほごする）",
         "meaning": {
-          "english": "protect"
+          "english": "protect |(vi) bảo hộ, bảo vệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ben)go_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "弁護する（べんごする）",
         "meaning": {
-          "english": "defend"
+          "english": "defend |(vi) biện hộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ben)go_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "擁護する（ようごする）",
         "meaning": {
-          "english": "support [v.t.]"
+          "english": "support [v.t.] |(vi) ủng hộ, bênh vực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ben)go_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "看護する（かんごする）",
         "meaning": {
-          "english": "nurse [v.t.]"
+          "english": "nurse [v.t.] |(vi) chăm sóc, điều dưỡng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ben)go_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "護衛する（ごえいする）",
         "meaning": {
-          "english": "guard, escort [v.t.]"
+          "english": "guard, escort [v.t.] |(vi) hộ tống, bảo vệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ben)go_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "護身術（ごしんじゅつ）",
         "meaning": {
-          "english": "art of self-defense"
+          "english": "art of self-defense |(vi) thuật tự vệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ben)go_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "保護者（ほごしゃ）",
         "meaning": {
-          "english": "protector, guardian"
+          "english": "protector, guardian |(vi) người bảo hộ, người giám hộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ben)go_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "弁護士（べんごし）",
         "meaning": {
-          "english": "lawyer, attorney"
+          "english": "lawyer, attorney |(vi) luật sư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ben)go_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "護る（まもる）",
         "meaning": {
-          "english": "protect"
+          "english": "protect |(vi) bảo vệ, che chở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ben)go_06_i.opus",
@@ -226,7 +226,7 @@
     "kanji": {
       "character": "護",
       "meaning": {
-        "english": "protect"
+        "english": "protect |(vi) bảo vệ, che chở"
       },
       "strokes": {
         "count": 20,
@@ -304,7 +304,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói, nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -325,7 +325,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "351",
     "strokeCount": 20,
-    "meaning": "safeguard, protect",
+    "meaning": "safeguard, protect |(vi) bảo vệ, che chở, bảo hộ |(hv) Hộ",
     "kunyomi": [
       "まも.る"
     ],
@@ -336,29 +336,29 @@
       {
         "example": "護岸",
         "reading": "ゴガン",
-        "meaning": "river dike"
+        "meaning": "river dike |(vi) đê sông, kè chắn sông"
       },
       {
         "example": "護衛",
         "reading": "ゴエイ",
-        "meaning": "guard, convoy, escort"
+        "meaning": "guard, convoy, escort |(vi) hộ tống, hộ vệ"
       },
       {
         "example": "警護",
         "reading": "ケイゴ",
-        "meaning": "bodyguard, escort"
+        "meaning": "bodyguard, escort |(vi) vệ sĩ, hộ tống"
       },
       {
         "example": "愛護",
         "reading": "アイゴ",
-        "meaning": "protection, tender care"
+        "meaning": "protection, tender care |(vi) bảo vệ, chăm sóc ân cần"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "守る",
         "reading": "まもる",
-        "meaning": "to protect, to guard, to defend, to keep (i.e. a promise), to abide (by the rules), to observe, to obey, to follow"
+        "meaning": "to protect, to guard, to defend, to keep (i.e. a promise), to abide (by the rules), to observe, to obey, to follow |(vi) bảo vệ, canh giữ, che chở, giữ (lời hứa), tuân theo (quy tắc), tuân thủ, vâng theo"
       }
     ],
     "radical": {
@@ -366,7 +366,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói, nói)"
     },
     "parts": [
       "又",

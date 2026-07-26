@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "calculate",
+    "meaning": "calculate |(vi) tính toán",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "算数（さんすう）",
         "meaning": {
-          "english": "arithmetic"
+          "english": "arithmetic |(vi) số học, môn toán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san(suu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "採算（さいさん）",
         "meaning": {
-          "english": "profit"
+          "english": "profit |(vi) tính lời lãi, hạch toán lời lỗ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san(suu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "暗算（あんざん）",
         "meaning": {
-          "english": "mental arithmetic"
+          "english": "mental arithmetic |(vi) tính nhẩm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san(suu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "予算（よさん）",
         "meaning": {
-          "english": "estimate, budget"
+          "english": "estimate, budget |(vi) dự toán, ngân sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san(suu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "足し算（たしざん）",
         "meaning": {
-          "english": "addition"
+          "english": "addition |(vi) phép cộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san(suu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "引き算（ひきざん）",
         "meaning": {
-          "english": "subtraction"
+          "english": "subtraction |(vi) phép trừ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san(suu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "計算する（けいさんする）",
         "meaning": {
-          "english": "calculate, reckon"
+          "english": "calculate, reckon |(vi) tính toán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san(suu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "概算する（がいさんする）",
         "meaning": {
-          "english": "approximate, estimate"
+          "english": "approximate, estimate |(vi) tính sơ bộ, ước tính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san(suu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "精算する（せいさんする）",
         "meaning": {
-          "english": "adjust a fare, settle up"
+          "english": "adjust a fare, settle up |(vi) thanh toán, tính lại cho đúng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san(suu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "換算する（かんさんする）",
         "meaning": {
-          "english": "convert, change"
+          "english": "convert, change |(vi) quy đổi, chuyển đổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san(suu)_06_j.opus",
@@ -244,7 +244,7 @@
     "kanji": {
       "character": "算",
       "meaning": {
-        "english": "calculate"
+        "english": "calculate |(vi) tính toán"
       },
       "strokes": {
         "count": 14,
@@ -310,7 +310,7 @@
         "romaji": "takekanmuri"
       },
       "meaning": {
-        "english": "bamboo"
+        "english": "bamboo |(vi) Trúc (tre, trúc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takekanmuri0.svg",
@@ -331,7 +331,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "361",
     "strokeCount": 14,
-    "meaning": "calculate, divining, number, abacus, probability",
+    "meaning": "calculate, divining, number, abacus, probability |(vi) tính toán, bói toán, con số, bàn tính, xác suất |(hv) Toán",
     "kunyomi": [
       "そろ"
     ],
@@ -342,39 +342,39 @@
       {
         "example": "算",
         "reading": "サン",
-        "meaning": "divining sticks, counting, calculation"
+        "meaning": "divining sticks, counting, calculation |(vi) que bói, đếm, tính toán"
       },
       {
         "example": "算出",
         "reading": "サンシュツ",
-        "meaning": "calculation, computation"
+        "meaning": "calculation, computation |(vi) tính toán, tính ra"
       },
       {
         "example": "通算",
         "reading": "ツウサン",
-        "meaning": "total, sum, aggregate"
+        "meaning": "total, sum, aggregate |(vi) tổng cộng, cộng dồn"
       },
       {
         "example": "公算",
         "reading": "コウサン",
-        "meaning": "probability, likelihood"
+        "meaning": "probability, likelihood |(vi) khả năng, xác suất"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "算盤",
         "reading": "そろばん",
-        "meaning": "abacus, soroban, calculation (esp. of profit and loss), reckoning"
+        "meaning": "abacus, soroban, calculation (esp. of profit and loss), reckoning |(vi) bàn tính (soroban), tính toán (lời lỗ)"
       },
       {
         "example": "算盤勘定",
         "reading": "そろばんかんじょう",
-        "meaning": "counting on the abacus, cost-benefit calculation, profit calculation"
+        "meaning": "counting on the abacus, cost-benefit calculation, profit calculation |(vi) tính toán bằng bàn tính, tính lời lãi"
       },
       {
         "example": "電算",
         "reading": "でんそろ",
-        "meaning": "electronic calculator combined with a soroban"
+        "meaning": "electronic calculator combined with a soroban |(vi) máy tính điện tử kết hợp bàn tính"
       }
     ],
     "radical": {
@@ -382,7 +382,7 @@
       "forms": [
         "⺮"
       ],
-      "meaning": "bamboo"
+      "meaning": "bamboo |(vi) Trúc (tre, trúc)"
     },
     "parts": [
       "乞",

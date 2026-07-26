@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "kuwa, kuwaeru, kuwawaru",
-    "meaning": "add, append, join",
+    "meaning": "add, append, join |(vi) thêm, bổ sung, gia nhập",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "加減（かげん）",
         "meaning": {
-          "english": "degree, extent"
+          "english": "degree, extent |(vi) mức độ, chừng mực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwa(eru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "加害者（かがいしゃ）",
         "meaning": {
-          "english": "assailant"
+          "english": "assailant |(vi) kẻ gây hại, thủ phạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwa(eru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "参加者（さんかしゃ）",
         "meaning": {
-          "english": "participant, entrant"
+          "english": "participant, entrant |(vi) người tham gia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwa(eru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "付加価値（ふかかち）",
         "meaning": {
-          "english": "added value"
+          "english": "added value |(vi) giá trị gia tăng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwa(eru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "加速する（かそくする）",
         "meaning": {
-          "english": "accelerate"
+          "english": "accelerate |(vi) tăng tốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwa(eru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "加担する（かたんする）",
         "meaning": {
-          "english": "support, participate [v.i.]"
+          "english": "support, participate [v.i.] |(vi) tiếp tay, tham gia, ủng hộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwa(eru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "加工する（かこうする）",
         "meaning": {
-          "english": "manufacture, process, treat"
+          "english": "manufacture, process, treat |(vi) gia công, chế biến, xử lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwa(eru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "参加する（さんかする）",
         "meaning": {
-          "english": "participate"
+          "english": "participate |(vi) tham gia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwa(eru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "追加する（ついかする）",
         "meaning": {
-          "english": "add, supplement"
+          "english": "add, supplement |(vi) bổ sung, thêm vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwa(eru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "増加する（ぞうかする）",
         "meaning": {
-          "english": "increase, grow [v.i.]"
+          "english": "increase, grow [v.i.] |(vi) tăng lên, gia tăng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwa(eru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "加える（くわえる）",
         "meaning": {
-          "english": "append, add, include [v.t.]"
+          "english": "append, add, include [v.t.] |(vi) thêm vào, bổ sung, gồm có"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwa(eru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "加わる（くわわる）",
         "meaning": {
-          "english": "grow, increase, join[v.i.]"
+          "english": "grow, increase, join[v.i.] |(vi) tăng lên, gia nhập, tham gia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwa(eru)_06_l.opus",
@@ -249,7 +249,7 @@
     "kanji": {
       "character": "加",
       "meaning": {
-        "english": "add, append, join"
+        "english": "add, append, join |(vi) thêm, bổ sung, gia nhập"
       },
       "strokes": {
         "count": 5,
@@ -297,7 +297,7 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power |(vi) Lực (sức mạnh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -318,7 +318,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "130",
     "strokeCount": 5,
-    "meaning": "add, addition, increase, join, include, Canada",
+    "meaning": "add, addition, increase, join, include, Canada |(vi) thêm, cộng thêm, tăng, gia nhập, bao gồm, Canada |(hv) Gia",
     "kunyomi": [
       "くわ.える",
       "くわ.わる"
@@ -330,39 +330,39 @@
       {
         "example": "加",
         "reading": "カ",
-        "meaning": "addition, Canada"
+        "meaning": "addition, Canada |(vi) phép cộng, Canada"
       },
       {
         "example": "加圧",
         "reading": "カアツ",
-        "meaning": "pressurization, applying pressure (to)"
+        "meaning": "pressurization, applying pressure (to) |(vi) sự tăng áp, gia áp"
       },
       {
         "example": "添加",
         "reading": "テンカ",
-        "meaning": "addition, annexing"
+        "meaning": "addition, annexing |(vi) thêm vào, phụ gia"
       },
       {
         "example": "倍加",
         "reading": "バイカ",
-        "meaning": "doubling, marked increase, multiplying, redoubling"
+        "meaning": "doubling, marked increase, multiplying, redoubling |(vi) tăng gấp đôi, tăng vọt"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "加える",
         "reading": "くわえる",
-        "meaning": "to add, to add up, to sum up, to append, to annex, to increase, to gather (e.g. speed), to pick up, to include, to count in, to let join, to inflict (damage), to deal, to give"
+        "meaning": "to add, to add up, to sum up, to append, to annex, to increase, to gather (e.g. speed), to pick up, to include, to count in, to let join, to inflict (damage), to deal, to give |(vi) thêm vào, cộng lại, tính tổng, bổ sung, sáp nhập, tăng, tăng tốc, gồm có, tính vào, cho tham gia, gây (thiệt hại), giáng (đòn)"
       },
       {
         "example": "加わる",
         "reading": "くわわる",
-        "meaning": "to be added to, to be appended, to join in (e.g. a group of friends), to participate, to increase (e.g. heat), to gain in (e.g. influence), to grow, to gather (speed), to be applied (e.g. heat, pressure), to be exerted"
+        "meaning": "to be added to, to be appended, to join in (e.g. a group of friends), to participate, to increase (e.g. heat), to gain in (e.g. influence), to grow, to gather (speed), to be applied (e.g. heat, pressure), to be exerted |(vi) được thêm vào, được bổ sung, gia nhập (nhóm bạn), tham gia, tăng lên (nhiệt), tăng ảnh hưởng, gia tăng, tăng tốc, chịu tác động (nhiệt, áp suất)"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": "power, force |(vi) Lực (sức mạnh, sức lực)"
     },
     "parts": [
       "力",

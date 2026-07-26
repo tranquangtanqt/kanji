@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "kaka, kakaru, kakari, kakawaru, kakawari",
-    "meaning": "connect, person in charge",
+    "meaning": "connect, person in charge |(vi) liên kết, người phụ trách",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "関係する（かんけいする）",
         "meaning": {
-          "english": "be related to"
+          "english": "be related to |(vi) có liên quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-kaka(ri)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "連係する（れんけいする）",
         "meaning": {
-          "english": "work in a team"
+          "english": "work in a team |(vi) phối hợp, liên kết làm việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-kaka(ri)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "係る（かかる）",
         "meaning": {
-          "english": "affect, concern, depend on"
+          "english": "affect, concern, depend on |(vi) liên quan đến, ảnh hưởng đến, tùy thuộc vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-kaka(ri)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "係わる（かかわる）",
         "meaning": {
-          "english": "be involved"
+          "english": "be involved |(vi) liên quan, dính líu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-kaka(ri)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "係（かかり）",
         "meaning": {
-          "english": "person in charge"
+          "english": "person in charge |(vi) người phụ trách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-kaka(ri)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "案内係（あんないがかり）",
         "meaning": {
-          "english": "clerk at the information desk"
+          "english": "clerk at the information desk |(vi) nhân viên hướng dẫn, lễ tân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-kaka(ri)_06_f.opus",
@@ -222,7 +222,7 @@
     "kanji": {
       "character": "係",
       "meaning": {
-        "english": "connect, person in charge"
+        "english": "connect, person in charge |(vi) liên kết, người phụ trách"
       },
       "strokes": {
         "count": 9,
@@ -278,7 +278,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -299,7 +299,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "232",
     "strokeCount": 9,
-    "meaning": "person in charge, connection, duty, concern oneself",
+    "meaning": "person in charge, connection, duty, concern oneself |(vi) người phụ trách, mối liên hệ, nhiệm vụ, quan tâm đến |(hv) Hệ",
     "kunyomi": [
       "かか.る",
       "かかり",
@@ -313,54 +313,54 @@
       {
         "example": "係争",
         "reading": "ケイソウ",
-        "meaning": "dispute, contention, conflict, controversy"
+        "meaning": "dispute, contention, conflict, controversy |(vi) tranh chấp, tranh cãi, xung đột"
       },
       {
         "example": "係数",
         "reading": "ケイスウ",
-        "meaning": "coefficient, factor, proportional constant"
+        "meaning": "coefficient, factor, proportional constant |(vi) hệ số"
       },
       {
         "example": "相関関係",
         "reading": "ソウカンカンケイ",
-        "meaning": "correlation, interrelation, intertwining"
+        "meaning": "correlation, interrelation, intertwining |(vi) mối tương quan, mối liên hệ qua lại"
       },
       {
         "example": "三角関係",
         "reading": "サンカクカンケイ",
-        "meaning": "love triangle, eternal triangle"
+        "meaning": "love triangle, eternal triangle |(vi) tam giác tình yêu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "係る",
         "reading": "かかる",
-        "meaning": "to be the work of, to be the result of, to be done by, to concern, to affect, to involve, to relate to"
+        "meaning": "to be the work of, to be the result of, to be done by, to concern, to affect, to involve, to relate to |(vi) là do, là kết quả của, liên quan đến, ảnh hưởng đến"
       },
       {
         "example": "係",
         "reading": "かかり",
-        "meaning": "charge, duty, person in charge, official, clerk, connection, linking"
+        "meaning": "charge, duty, person in charge, official, clerk, connection, linking |(vi) nhiệm vụ, người phụ trách, nhân viên, mối liên hệ"
       },
       {
         "example": "係員",
         "reading": "かかりいん",
-        "meaning": "person in charge, official, attendant"
+        "meaning": "person in charge, official, attendant |(vi) nhân viên phụ trách"
       },
       {
         "example": "口座係",
         "reading": "こうざかかり",
-        "meaning": "teller (in bank)"
+        "meaning": "teller (in bank) |(vi) nhân viên giao dịch tài khoản (ngân hàng)"
       },
       {
         "example": "応接係",
         "reading": "おうせつかかり",
-        "meaning": "receptionist, desk clerk"
+        "meaning": "receptionist, desk clerk |(vi) lễ tân, nhân viên tiếp khách"
       },
       {
         "example": "関わる",
         "reading": "かかわる",
-        "meaning": "to be involved (in), to get involved (in), to concern oneself (with), to take part (in), to interfere (in), to relate to (a matter), to pertain to, to concern, to have to do with, to (seriously) affect, to concern, to have a serious bearing (on), to stick (to), to adhere (to), to be particular (about)"
+        "meaning": "to be involved (in), to get involved (in), to concern oneself (with), to take part (in), to interfere (in), to relate to (a matter), to pertain to, to concern, to have to do with, to (seriously) affect, to concern, to have a serious bearing (on), to stick (to), to adhere (to), to be particular (about) |(vi) liên quan đến, dính líu, can dự vào, quan tâm sâu sắc đến"
       }
     ],
     "radical": {
@@ -368,7 +368,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "ノ",

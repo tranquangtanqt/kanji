@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "view",
+    "meaning": "view |(vi) cách nhìn, quan điểm",
     "kstroke": 18,
     "examples": [
       {
         "japanese": "観点（かんてん）",
         "meaning": {
-          "english": "point of view"
+          "english": "point of view |(vi) quan điểm, góc nhìn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(koukyaku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "観念（かんねん）",
         "meaning": {
-          "english": "idea, notion"
+          "english": "idea, notion |(vi) quan niệm, ý niệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(koukyaku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "景観（けいかん）",
         "meaning": {
-          "english": "scenery"
+          "english": "scenery |(vi) cảnh quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(koukyaku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "外観（がいかん）",
         "meaning": {
-          "english": "appearance, exterior"
+          "english": "appearance, exterior |(vi) diện mạo bên ngoài, ngoại quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(koukyaku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "歴史観（れきしかん）",
         "meaning": {
-          "english": "historical viewpoint"
+          "english": "historical viewpoint |(vi) quan điểm lịch sử, sử quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(koukyaku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "先入観（せんにゅうかん）",
         "meaning": {
-          "english": "preconception"
+          "english": "preconception |(vi) định kiến, thành kiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(koukyaku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "主観的な（しゅかんてきな）",
         "meaning": {
-          "english": "subjective"
+          "english": "subjective |(vi) chủ quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(koukyaku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "客観的な（きゃっかんてきな）",
         "meaning": {
-          "english": "objective [adj.]"
+          "english": "objective [adj.] |(vi) khách quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(koukyaku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "楽観的な（らっかんてきな）",
         "meaning": {
-          "english": "optimistic"
+          "english": "optimistic |(vi) lạc quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(koukyaku)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "悲観的な（ひかんてきな）",
         "meaning": {
-          "english": "pessimistic"
+          "english": "pessimistic |(vi) bi quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(koukyaku)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "観光する（かんこうする）",
         "meaning": {
-          "english": "go sightseeing"
+          "english": "go sightseeing |(vi) đi tham quan, du lịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(koukyaku)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "観察する（かんさつする）",
         "meaning": {
-          "english": "observe"
+          "english": "observe |(vi) quan sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(koukyaku)_06_l.opus",
@@ -260,7 +260,7 @@
     "kanji": {
       "character": "観",
       "meaning": {
-        "english": "view"
+        "english": "view |(vi) cách nhìn, quan điểm"
       },
       "strokes": {
         "count": 18,
@@ -334,7 +334,7 @@
         "romaji": "miru"
       },
       "meaning": {
-        "english": "to see"
+        "english": "to see |(vi) Kiến (nhìn thấy)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/miru0.svg",
@@ -355,7 +355,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "476",
     "strokeCount": 18,
-    "meaning": "outlook, look, appearance, condition, view",
+    "meaning": "outlook, look, appearance, condition, view |(vi) cách nhìn nhận, vẻ ngoài, diện mạo, tình trạng, quan điểm |(hv) Quan",
     "kunyomi": [
       "み.る",
       "しめ.す"
@@ -367,39 +367,39 @@
       {
         "example": "観",
         "reading": "カン",
-        "meaning": "look, appearance, spectacle, sight, observation meditation, outlook on ..., view of ..."
+        "meaning": "look, appearance, spectacle, sight, observation meditation, outlook on ..., view of ... |(vi) cái nhìn, vẻ ngoài, cảnh tượng, sự quan sát, thiền quán, quan điểm về..."
       },
       {
         "example": "看過",
         "reading": "カンカ",
-        "meaning": "overlooking, turning a blind eye"
+        "meaning": "overlooking, turning a blind eye |(vi) bỏ qua, làm ngơ"
       },
       {
         "example": "客観",
         "reading": "キャッカン",
-        "meaning": "objectivity, objective, object (philosophical)"
+        "meaning": "objectivity, objective, object (philosophical) |(vi) tính khách quan, khách thể (triết học)"
       },
       {
         "example": "静観",
         "reading": "セイカン",
-        "meaning": "watchful waiting, careful supervision"
+        "meaning": "watchful waiting, careful supervision |(vi) chờ đợi quan sát, thận trọng theo dõi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "見る",
         "reading": "みる",
-        "meaning": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ..."
+        "meaning": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ... |(vi) nhìn, xem, quan sát, kiểm tra, xem xét, đánh giá, chăm sóc, trải nghiệm, gặp phải (điều không may, thành công...), thử làm..., nhận thấy rằng..."
       },
       {
         "example": "観る将",
         "reading": "みるしょう",
-        "meaning": "shogi spectator, shogi fan who enjoys watching matches but does not play"
+        "meaning": "shogi spectator, shogi fan who enjoys watching matches but does not play |(vi) người hâm mộ cờ tướng Nhật (shogi) chỉ thích xem mà không chơi"
       }
     ],
     "radical": {
       "symbol": "見",
-      "meaning": "see"
+      "meaning": "see |(vi) Kiến (nhìn thấy)"
     },
     "parts": [
       "乞",

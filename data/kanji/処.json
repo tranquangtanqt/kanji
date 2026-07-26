@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "deal with, treat",
+    "meaning": "deal with, treat |(vi) xử lý, đối xử",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "処女（しょじょ）",
         "meaning": {
-          "english": "virgin, maiden"
+          "english": "virgin, maiden |(vi) trinh nữ, còn trinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "処方箋（しょほうせん）",
         "meaning": {
-          "english": "prescription"
+          "english": "prescription |(vi) đơn thuốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "処置する（しょちする）",
         "meaning": {
-          "english": "treat [v.t.]"
+          "english": "treat [v.t.] |(vi) xử lý, xử trí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "処罰する（しょばつする）",
         "meaning": {
-          "english": "punish"
+          "english": "punish |(vi) trừng phạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "処刑する（しょけいする）",
         "meaning": {
-          "english": "execute"
+          "english": "execute |(vi) xử tử, hành hình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "処分する（しょぶんする）",
         "meaning": {
-          "english": "dispose of, deal with, punish"
+          "english": "dispose of, deal with, punish |(vi) xử lý, xử phạt, thanh lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "処理する（しょりする）",
         "meaning": {
-          "english": "process, deal with"
+          "english": "process, deal with |(vi) xử lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "対処する（たいしょする）",
         "meaning": {
-          "english": "deal with, cope"
+          "english": "deal with, cope |(vi) đối phó, xử lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "善処する（ぜんしょする）",
         "meaning": {
-          "english": "handle carefully, use discretion"
+          "english": "handle carefully, use discretion |(vi) xử lý khéo léo, cân nhắc kỹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_i.opus",
@@ -191,7 +191,7 @@
     "kanji": {
       "character": "処",
       "meaning": {
-        "english": "deal with, treat"
+        "english": "deal with, treat |(vi) xử lý, đối xử"
       },
       "strokes": {
         "count": 5,
@@ -239,7 +239,7 @@
         "romaji": "kinyou"
       },
       "meaning": {
-        "english": "table"
+        "english": "table |(vi) Kỷ (cái bàn nhỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kinyou0.svg",
@@ -260,7 +260,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "547",
     "strokeCount": 5,
-    "meaning": "dispose, manage, deal with, sentence, condemn, act, behave, place",
+    "meaning": "dispose, manage, deal with, sentence, condemn, act, behave, place |(vi) xử lý, quản lý, giải quyết, kết án, hành động, cư xử, nơi chốn |(hv) Xử",
     "kunyomi": [
       "ところ",
       "-こ",
@@ -273,49 +273,49 @@
       {
         "example": "処刑",
         "reading": "ショケイ",
-        "meaning": "execution"
+        "meaning": "execution |(vi) xử tử, hành hình"
       },
       {
         "example": "処遇",
         "reading": "ショグウ",
-        "meaning": "treatment (of a person), dealing with"
+        "meaning": "treatment (of a person), dealing with |(vi) cách đối xử, cách đãi ngộ"
       },
       {
         "example": "随所",
         "reading": "ズイショ",
-        "meaning": "everywhere, all over the place, here and there, at every turn"
+        "meaning": "everywhere, all over the place, here and there, at every turn |(vi) khắp nơi, mọi chỗ, ở đâu cũng"
       },
       {
         "example": "一所",
         "reading": "イッショ",
-        "meaning": "one place, the same place, one person, together"
+        "meaning": "one place, the same place, one person, together |(vi) một chỗ, cùng một nơi, cùng nhau"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "所",
         "reading": "ところ",
-        "meaning": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about"
+        "meaning": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about |(vi) nơi, chỗ, địa điểm, địa chỉ, khu vực, điểm, khía cạnh, phần, vừa mới, đang, khoảng chừng"
       },
       {
         "example": "所々",
         "reading": "ところどころ",
-        "meaning": "here and there, in places"
+        "meaning": "here and there, in places |(vi) chỗ này chỗ kia, rải rác"
       },
       {
         "example": "一所",
         "reading": "いっしょ",
-        "meaning": "one place, the same place, one person, together"
+        "meaning": "one place, the same place, one person, together |(vi) một chỗ, cùng một nơi, cùng nhau"
       },
       {
         "example": "候処",
         "reading": "そうろうところ",
-        "meaning": "just, but"
+        "meaning": "just, but |(vi) tuy nhiên, nhưng"
       }
     ],
     "radical": {
       "symbol": "几",
-      "meaning": "table"
+      "meaning": "table |(vi) Kỷ (cái bàn nhỏ)"
     },
     "parts": [
       "几",

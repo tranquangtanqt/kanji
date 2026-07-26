@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "a, au",
-    "meaning": "meet, society",
+    "meaning": "meet, society |(vi) gặp gỡ, hội, xã hội",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "会話（かいわ）",
         "meaning": {
-          "english": "conversation"
+          "english": "conversation |(vi) hội thoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-a(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "会議（かいぎ）",
         "meaning": {
-          "english": "conference"
+          "english": "conference |(vi) hội nghị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-a(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "会社（かいしゃ）",
         "meaning": {
-          "english": "company"
+          "english": "company |(vi) công ty"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-a(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "会社員（かいしゃいん）",
         "meaning": {
-          "english": "company employee"
+          "english": "company employee |(vi) nhân viên công ty"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-a(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "会計士（かいけいし）",
         "meaning": {
-          "english": "accountant"
+          "english": "accountant |(vi) kế toán viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-a(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "忘年会（ぼうねんかい）",
         "meaning": {
-          "english": "year-end party"
+          "english": "year-end party |(vi) tiệc tất niên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-a(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "国会（こっかい）",
         "meaning": {
-          "english": "parliament"
+          "english": "parliament |(vi) quốc hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-a(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "都会（とかい）",
         "meaning": {
-          "english": "city"
+          "english": "city |(vi) đô thị, thành phố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-a(u)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "再会する（さいかいする）",
         "meaning": {
-          "english": "meet again"
+          "english": "meet again |(vi) gặp lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-a(u)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "会釈する（えしゃくする）",
         "meaning": {
-          "english": "nod in greeting"
+          "english": "nod in greeting |(vi) cúi chào, gật đầu chào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-a(u)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "会う（あう）",
         "meaning": {
-          "english": "meet"
+          "english": "meet |(vi) gặp gỡ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-a(u)_06_k.opus",
@@ -285,7 +285,7 @@
     "kanji": {
       "character": "会",
       "meaning": {
-        "english": "meet, society"
+        "english": "meet, society |(vi) gặp gỡ, hội, xã hội"
       },
       "strokes": {
         "count": 6,
@@ -335,7 +335,7 @@
         "romaji": "hitoyane"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoyane0.svg",
@@ -356,7 +356,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "4",
     "strokeCount": 6,
-    "meaning": "meeting, meet, party, association, interview, join",
+    "meaning": "meeting, meet, party, association, interview, join |(vi) cuộc họp, gặp gỡ, buổi tiệc, hiệp hội, phỏng vấn, gia nhập |(hv) Hội",
     "kunyomi": [
       "あ.う",
       "あ.わせる",
@@ -370,59 +370,59 @@
       {
         "example": "会",
         "reading": "カイ",
-        "meaning": "meeting, assembly, party, gathering, conference, athletic meet, society, association, club"
+        "meaning": "meeting, assembly, party, gathering, conference, athletic meet, society, association, club |(vi) cuộc họp, hội nghị, buổi tiệc, buổi tụ họp, đại hội thể thao, hội, hiệp hội, câu lạc bộ"
       },
       {
         "example": "会員",
         "reading": "カイイン",
-        "meaning": "member, the membership"
+        "meaning": "member, the membership |(vi) hội viên, tư cách hội viên"
       },
       {
         "example": "例会",
         "reading": "レイカイ",
-        "meaning": "regular meeting"
+        "meaning": "regular meeting |(vi) buổi họp định kỳ"
       },
       {
         "example": "際会",
         "reading": "サイカイ",
-        "meaning": "meeting, facing, confronting"
+        "meaning": "meeting, facing, confronting |(vi) gặp gỡ, đối mặt, đương đầu"
       },
       {
         "example": "会",
         "reading": "エ",
-        "meaning": "gathering (esp. Buddhist, festive, etc.)"
+        "meaning": "gathering (esp. Buddhist, festive, etc.) |(vi) buổi tụ họp (đặc biệt lễ Phật giáo, lễ hội...)"
       },
       {
         "example": "会釈",
         "reading": "エシャク",
-        "meaning": "slight bow (as a greeting or sign of gratitude), nod, salutation, consideration, thoughtfulness"
+        "meaning": "slight bow (as a greeting or sign of gratitude), nod, salutation, consideration, thoughtfulness |(vi) cúi chào nhẹ (khi chào hỏi hoặc bày tỏ biết ơn), gật đầu, chào hỏi, sự chu đáo, ân cần"
       },
       {
         "example": "法会",
         "reading": "ホウエ",
-        "meaning": "Buddhist service (e.g. memorial service)"
+        "meaning": "Buddhist service (e.g. memorial service) |(vi) lễ Phật giáo (vd. lễ giỗ)"
       },
       {
         "example": "御斎会",
         "reading": "ゴサイエ",
-        "meaning": "imperial event at which high monks recited the Golden Light Sutra to pray for national security and good harvests (held annually at the palace from the 8th to the 14th of the first lunar month, between the Nara and Muromachi periods)"
+        "meaning": "imperial event at which high monks recited the Golden Light Sutra to pray for national security and good harvests (held annually at the palace from the 8th to the 14th of the first lunar month, between the Nara and Muromachi periods) |(vi) nghi lễ hoàng gia nơi các cao tăng tụng kinh Kim Quang Minh cầu quốc thái dân an và mùa màng bội thu (tổ chức hàng năm tại hoàng cung từ ngày 8 đến 14 tháng giêng âm lịch, thời Nara đến Muromachi)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "会う",
         "reading": "あう",
-        "meaning": "to meet, to encounter, to see, to have an accident, to have a bad experience"
+        "meaning": "to meet, to encounter, to see, to have an accident, to have a bad experience |(vi) gặp gỡ, gặp phải, gặp (tai nạn), trải qua (điều tồi tệ)"
       },
       {
         "example": "逢うは別れの始め",
         "reading": "あうはわかれのはじめ",
-        "meaning": "we meet only to part, meeting is the first step to parting"
+        "meaning": "we meet only to part, meeting is the first step to parting |(vi) gặp gỡ là khởi đầu của chia ly"
       },
       {
         "example": "会わせる",
         "reading": "あわせる",
-        "meaning": "to make (someone) to meet, to let (someone) meet, to expose to, to subject to"
+        "meaning": "to make (someone) to meet, to let (someone) meet, to expose to, to subject to |(vi) cho gặp, để ai đó gặp, phơi bày trước, chịu tác động của"
       }
     ],
     "radical": {
@@ -430,7 +430,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "个",

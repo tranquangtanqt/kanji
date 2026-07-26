@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "season",
+    "meaning": "season |(vi) mùa",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "季節（きせつ）",
         "meaning": {
-          "english": "season"
+          "english": "season |(vi) mùa, thời tiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(go)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "季語（きご）",
         "meaning": {
-          "english": "seasonal word"
+          "english": "seasonal word |(vi) quý ngữ (từ chỉ mùa trong thơ haiku)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(go)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "季刊（きかん）",
         "meaning": {
-          "english": "quarterly"
+          "english": "quarterly |(vi) phát hành hàng quý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(go)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "四季（しき）",
         "meaning": {
-          "english": "four seasons"
+          "english": "four seasons |(vi) bốn mùa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(go)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "夏季（かき）",
         "meaning": {
-          "english": "summer season"
+          "english": "summer season |(vi) mùa hè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(go)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "冬季（とうき）",
         "meaning": {
-          "english": "winter season"
+          "english": "winter season |(vi) mùa đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(go)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "雨季（うき）",
         "meaning": {
-          "english": "rainy season"
+          "english": "rainy season |(vi) mùa mưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(go)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "乾季（かんき）",
         "meaning": {
-          "english": "dry season"
+          "english": "dry season |(vi) mùa khô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(go)_06_h.opus",
@@ -191,7 +191,7 @@
     "kanji": {
       "character": "季",
       "meaning": {
-        "english": "season"
+        "english": "season |(vi) mùa"
       },
       "strokes": {
         "count": 8,
@@ -245,7 +245,7 @@
         "romaji": "ko"
       },
       "meaning": {
-        "english": "child, son"
+        "english": "child, son |(vi) Tử (con, con trai)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ko0.svg",
@@ -266,7 +266,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "842",
     "strokeCount": 8,
-    "meaning": "seasons",
+    "meaning": "seasons |(vi) các mùa |(hv) Quý",
     "kunyomi": [],
     "onyomi": [
       "キ"
@@ -275,28 +275,28 @@
       {
         "example": "季",
         "reading": "キ",
-        "meaning": "season (in nature, sports, etc.), seasonal word or phrase (in haiku), year"
+        "meaning": "season (in nature, sports, etc.), seasonal word or phrase (in haiku), year |(vi) mùa (trong tự nhiên, thể thao...), quý ngữ (từ/cụm từ chỉ mùa trong haiku), năm"
       },
       {
         "example": "季刊",
         "reading": "キカン",
-        "meaning": "quarterly publication"
+        "meaning": "quarterly publication |(vi) ấn phẩm phát hành hàng quý"
       },
       {
         "example": "夏季",
         "reading": "カキ",
-        "meaning": "summer season, summer, summertime"
+        "meaning": "summer season, summer, summertime |(vi) mùa hè"
       },
       {
         "example": "秋季",
         "reading": "シュウキ",
-        "meaning": "fall season, autumn season"
+        "meaning": "fall season, autumn season |(vi) mùa thu"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "子",
-      "meaning": "child, seed"
+      "meaning": "child, seed |(vi) Tử (con, hạt giống)"
     },
     "parts": [
       "子",

@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "iku, ikutsu, ikura",
-    "meaning": "how many/much, some",
+    "meaning": "how many/much, some |(vi) bao nhiêu, một vài",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "幾何学（きかがく）",
         "meaning": {
-          "english": "geometry"
+          "english": "geometry |(vi) hình học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iku(tsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "幾ら（いくら）",
         "meaning": {
-          "english": "how much?, how many?"
+          "english": "how much?, how many? |(vi) bao nhiêu?"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iku(tsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "幾つ（いくつ）",
         "meaning": {
-          "english": "how many?, how old?"
+          "english": "how many?, how old? |(vi) mấy cái?, mấy tuổi?"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iku(tsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "幾らか（いくらか）",
         "meaning": {
-          "english": "some, somewhat, a little"
+          "english": "some, somewhat, a little |(vi) một chút, phần nào, ít nhiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iku(tsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "幾日も（いくにちも）",
         "meaning": {
-          "english": "for many days, for some days"
+          "english": "for many days, for some days |(vi) nhiều ngày, mấy ngày liền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iku(tsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "幾分（いくぶん）",
         "meaning": {
-          "english": "somewhat"
+          "english": "somewhat |(vi) phần nào, một chút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iku(tsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "幾度も（いくども）",
         "meaning": {
-          "english": "many times, often"
+          "english": "many times, often |(vi) nhiều lần, thường xuyên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/iku(tsu)_06_g.opus",
@@ -178,7 +178,7 @@
     "kanji": {
       "character": "幾",
       "meaning": {
-        "english": "how many/much, some"
+        "english": "how many/much, some |(vi) bao nhiêu, một vài"
       },
       "strokes": {
         "count": 12,
@@ -240,7 +240,7 @@
         "romaji": "itogashira"
       },
       "meaning": {
-        "english": "young, slight"
+        "english": "young, slight |(vi) Yêu (nhỏ bé, non trẻ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itogashira0.svg",
@@ -261,7 +261,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1725",
     "strokeCount": 12,
-    "meaning": "how many, how much, how far, how long, some, several",
+    "meaning": "how many, how much, how far, how long, some, several |(vi) bao nhiêu, bao xa, bao lâu, một vài, vài |(hv) Cơ",
     "kunyomi": [
       "いく-",
       "いく.つ",
@@ -274,49 +274,49 @@
       {
         "example": "幾何学",
         "reading": "キカガク",
-        "meaning": "geometry"
+        "meaning": "geometry |(vi) hình học"
       },
       {
         "example": "幾何",
         "reading": "キカ",
-        "meaning": "geometry"
+        "meaning": "geometry |(vi) hình học"
       },
       {
         "example": "庶幾",
         "reading": "ショキ",
-        "meaning": "desire, hope"
+        "meaning": "desire, hope |(vi) mong mỏi, hy vọng"
       },
       {
         "example": "丁幾",
         "reading": "チンキ",
-        "meaning": "tincture"
+        "meaning": "tincture |(vi) cồn thuốc (tincture)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "幾つ",
         "reading": "いくつ",
-        "meaning": "how many, how old"
+        "meaning": "how many, how old |(vi) mấy cái, mấy tuổi"
       },
       {
         "example": "幾つか",
         "reading": "いくつか",
-        "meaning": "(a) few, some, several"
+        "meaning": "(a) few, some, several |(vi) một vài, vài"
       },
       {
         "example": "幾ら",
         "reading": "いくら",
-        "meaning": "how much, something over, and something, -odd, however (much), no matter how"
+        "meaning": "how much, something over, and something, -odd, however (much), no matter how |(vi) bao nhiêu, hơn một chút, lẻ, dù bao nhiêu đi nữa, bất kể ra sao"
       },
       {
         "example": "幾らか",
         "reading": "いくらか",
-        "meaning": "some, (a) little, somewhat, to some extent, in part"
+        "meaning": "some, (a) little, somewhat, to some extent, in part |(vi) một chút, ít nhiều, phần nào, một phần"
       }
     ],
     "radical": {
       "symbol": "幺",
-      "meaning": "short, tiny"
+      "meaning": "short, tiny |(vi) Yêu (nhỏ bé, non trẻ)"
     },
     "parts": [
       "ノ",

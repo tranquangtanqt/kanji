@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "nobiru, noberu, nobe, nobasu, no",
-    "meaning": "extend, postpone",
+    "meaning": "extend, postpone |(vi) kéo dài, hoãn lại",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "延期する（えんきする）",
         "meaning": {
-          "english": "postpone"
+          "english": "postpone |(vi) hoãn lại, trì hoãn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-no(biru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "延滞する（えんたいする）",
         "meaning": {
-          "english": "be in arrears"
+          "english": "be in arrears |(vi) chậm trễ, quá hạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-no(biru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "延長する（えんちょうする）",
         "meaning": {
-          "english": "extend, elongate"
+          "english": "extend, elongate |(vi) kéo dài, gia hạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-no(biru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "延ばす（のばす）",
         "meaning": {
-          "english": "postpone, prolong [v.t.]"
+          "english": "postpone, prolong [v.t.] |(vi) hoãn lại, kéo dài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-no(biru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "延びる（のびる）",
         "meaning": {
-          "english": "be postponed [v.i.]"
+          "english": "be postponed [v.i.] |(vi) bị hoãn lại, kéo dài ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-no(biru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "延べる（のべる）",
         "meaning": {
-          "english": "lengthen, spread [v.t.]"
+          "english": "lengthen, spread [v.t.] |(vi) kéo dài, trải ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-no(biru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "延べ（のべ）",
         "meaning": {
-          "english": "in total"
+          "english": "in total |(vi) tổng cộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-no(biru)_06_g.opus",
@@ -218,7 +218,7 @@
     "kanji": {
       "character": "延",
       "meaning": {
-        "english": "extend, postpone"
+        "english": "extend, postpone |(vi) kéo dài, hoãn lại"
       },
       "strokes": {
         "count": 8,
@@ -272,7 +272,7 @@
         "romaji": "ennyou"
       },
       "meaning": {
-        "english": "to move, stretch"
+        "english": "to move, stretch |(vi) Dẫn (bước dài, kéo dài)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ennyou0.svg",
@@ -293,7 +293,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "747",
     "strokeCount": 8,
-    "meaning": "prolong, stretching",
+    "meaning": "prolong, stretching |(vi) kéo dài, trải dài |(hv) Diên",
     "kunyomi": [
       "の.びる",
       "の.べる",
@@ -307,54 +307,54 @@
       {
         "example": "延滞",
         "reading": "エンタイ",
-        "meaning": "arrears, (being) overdue, delay (e.g. in payment), procrastination"
+        "meaning": "arrears, (being) overdue, delay (e.g. in payment), procrastination |(vi) nợ quá hạn, trễ hạn, chậm trễ (thanh toán), trì hoãn"
       },
       {
         "example": "延期",
         "reading": "エンキ",
-        "meaning": "postponement, deferment, adjournment"
+        "meaning": "postponement, deferment, adjournment |(vi) hoãn lại, trì hoãn, đình hoãn"
       },
       {
         "example": "熱延",
         "reading": "ネツエン",
-        "meaning": "hot rolling"
+        "meaning": "hot rolling |(vi) cán nóng"
       },
       {
         "example": "圧延",
         "reading": "アツエン",
-        "meaning": "rolling, extending by applying pressure"
+        "meaning": "rolling, extending by applying pressure |(vi) cán, kéo dài bằng áp lực"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "伸びる",
         "reading": "のびる",
-        "meaning": "to stretch, to extend, to lengthen, to grow (of hair, height, grass, etc.), to straighten out, to be flattened, to become smooth, to spread (of paint, cream, etc.), to stretch out (e.g. of a hand), to extend, to lose elasticity, to become slack, to become soggy (e.g. of noodles), to make progress, to develop, to expand, to increase, to improve, to be exhausted, to get groggy, to be stunned (by a blow), to pass out, to collapse, to be prolonged (of a meeting, life span, etc.), to be extended (e.g. of a deadline), to lengthen (e.g. of the days), to be postponed, to be delayed, to be put off"
+        "meaning": "to stretch, to extend, to lengthen, to grow (of hair, height, grass, etc.), to straighten out, to be flattened, to become smooth, to spread (of paint, cream, etc.), to stretch out (e.g. of a hand), to extend, to lose elasticity, to become slack, to become soggy (e.g. of noodles), to make progress, to develop, to expand, to increase, to improve, to be exhausted, to get groggy, to be stunned (by a blow), to pass out, to collapse, to be prolonged (of a meeting, life span, etc.), to be extended (e.g. of a deadline), to lengthen (e.g. of the days), to be postponed, to be delayed, to be put off |(vi) kéo dài, mở rộng, dài ra (tóc, chiều cao, cỏ...), duỗi thẳng, trở nên phẳng, trở nên mịn, trải ra (sơn, kem...), vươn ra (tay), mất độ đàn hồi, chùng xuống, nhão (mì...), tiến bộ, phát triển, mở rộng, tăng lên, kiệt sức, choáng váng, ngất xỉu, bị hoãn lại, trễ hạn"
       },
       {
         "example": "延べる",
         "reading": "のべる",
-        "meaning": "to lay out (a futon), to make (bed), to spread out, to stretch, to widen, to postpone, to extend"
+        "meaning": "to lay out (a futon), to make (bed), to spread out, to stretch, to widen, to postpone, to extend |(vi) trải (futon), dọn giường, trải ra, kéo dài, mở rộng, hoãn lại, gia hạn"
       },
       {
         "example": "延べ",
         "reading": "のべ",
-        "meaning": "futures, credit (buying), stretching, total (preceding counter, unit, etc.), aggregate, gross"
+        "meaning": "futures, credit (buying), stretching, total (preceding counter, unit, etc.), aggregate, gross |(vi) hợp đồng tương lai, mua chịu, kéo dài, tổng số (đơn vị đếm trước đó), tổng cộng, tổng thể"
       },
       {
         "example": "延べ板",
         "reading": "のべいた",
-        "meaning": "hammered-out plates"
+        "meaning": "hammered-out plates |(vi) tấm kim loại dát mỏng"
       },
       {
         "example": "伸ばす",
         "reading": "のばす",
-        "meaning": "to grow long (e.g. hair, nails), to lengthen, to extend, to stretch, to reach out, to hold out, to straighten, to smooth out, to spread evenly (dough, cream, etc.), to dilute, to thin out, to postpone, to prolong, to strengthen, to develop, to expand"
+        "meaning": "to grow long (e.g. hair, nails), to lengthen, to extend, to stretch, to reach out, to hold out, to straighten, to smooth out, to spread evenly (dough, cream, etc.), to dilute, to thin out, to postpone, to prolong, to strengthen, to develop, to expand |(vi) để dài ra (tóc, móng tay...), kéo dài, vươn ra, duỗi thẳng, làm phẳng, trải đều (bột, kem...), pha loãng, làm mỏng, hoãn lại, kéo dài, củng cố, phát triển, mở rộng"
       }
     ],
     "radical": {
       "symbol": "廴",
-      "meaning": "long stride"
+      "meaning": "long stride |(vi) Dẫn (bước dài, kéo dài)"
     },
     "parts": [
       "一",

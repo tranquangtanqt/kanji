@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "world, boundary",
+    "meaning": "world, boundary |(vi) thế giới, ranh giới",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "世界（せかい）",
         "meaning": {
-          "english": "world"
+          "english": "world |(vi) thế giới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(se)kai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "業界（ぎょうかい）",
         "meaning": {
-          "english": "industry, business"
+          "english": "industry, business |(vi) ngành, giới (kinh doanh)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(se)kai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "学界（がっかい）",
         "meaning": {
-          "english": "academic world"
+          "english": "academic world |(vi) giới học thuật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(se)kai_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "政界（せいかい）",
         "meaning": {
-          "english": "political world"
+          "english": "political world |(vi) giới chính trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(se)kai_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "経済界（けいざいかい）",
         "meaning": {
-          "english": "economic world"
+          "english": "economic world |(vi) giới kinh tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(se)kai_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "限界（げんかい）",
         "meaning": {
-          "english": "limit [n.]"
+          "english": "limit [n.] |(vi) giới hạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(se)kai_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "境界（きょうかい）",
         "meaning": {
-          "english": "boundary"
+          "english": "boundary |(vi) ranh giới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(se)kai_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "他界する（たかいする）",
         "meaning": {
-          "english": "pass away"
+          "english": "pass away |(vi) qua đời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(se)kai_06_h.opus",
@@ -250,7 +250,7 @@
     "kanji": {
       "character": "界",
       "meaning": {
-        "english": "world, boundary"
+        "english": "world, boundary |(vi) thế giới, ranh giới"
       },
       "strokes": {
         "count": 9,
@@ -306,7 +306,7 @@
         "romaji": "ta"
       },
       "meaning": {
-        "english": "rice paddy"
+        "english": "rice paddy |(vi) Điền (ruộng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ta0.svg",
@@ -327,7 +327,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "158",
     "strokeCount": 9,
-    "meaning": "world, boundary",
+    "meaning": "world, boundary |(vi) thế giới, ranh giới |(hv) Giới",
     "kunyomi": [],
     "onyomi": [
       "カイ"
@@ -336,28 +336,28 @@
       {
         "example": "界",
         "reading": "カイ",
-        "meaning": "community, circles, world, kingdom, erathem, field (electrical), border, boundary, division"
+        "meaning": "community, circles, world, kingdom, erathem, field (electrical), border, boundary, division |(vi) cộng đồng, giới, thế giới, vương quốc, tầng đất, trường (điện), biên giới, ranh giới, phân chia"
       },
       {
         "example": "界隈",
         "reading": "カイワイ",
-        "meaning": "neighborhood, neighbourhood, vicinity"
+        "meaning": "neighborhood, neighbourhood, vicinity |(vi) khu phố, vùng lân cận"
       },
       {
         "example": "球界",
         "reading": "キュウカイ",
-        "meaning": "the baseball world"
+        "meaning": "the baseball world |(vi) giới bóng chày"
       },
       {
         "example": "経済界",
         "reading": "ケイザイカイ",
-        "meaning": "economic world, financial circles, business community"
+        "meaning": "economic world, financial circles, business community |(vi) giới kinh tế, giới tài chính, cộng đồng doanh nghiệp"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "田",
-      "meaning": "field"
+      "meaning": "field |(vi) Điền (ruộng)"
     },
     "parts": [
       "个",

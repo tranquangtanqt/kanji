@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "prove, certificate",
+    "meaning": "prove, certificate |(vi) chứng minh, giấy chứng nhận",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "証拠（しょうこ）",
         "meaning": {
-          "english": "evidence, proof"
+          "english": "evidence, proof |(vi) chứng cứ, bằng chứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "証人（しょうにん）",
         "meaning": {
-          "english": "witness [n.]"
+          "english": "witness [n.] |(vi) nhân chứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "証言（しょうげん）",
         "meaning": {
-          "english": "testimony"
+          "english": "testimony |(vi) lời chứng, chứng ngôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "証書（しょうしょ）",
         "meaning": {
-          "english": "certificate"
+          "english": "certificate |(vi) chứng thư, giấy chứng nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "証券（しょうけん）",
         "meaning": {
-          "english": "bonds, stock certificates"
+          "english": "bonds, stock certificates |(vi) chứng khoán, trái phiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "免許証（めんきょしょう）",
         "meaning": {
-          "english": "(driver's) license"
+          "english": "(driver's) license |(vi) giấy phép (lái xe)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "保証する（ほしょうする）",
         "meaning": {
-          "english": "guarantee [v.t.]"
+          "english": "guarantee [v.t.] |(vi) bảo đảm, bảo lãnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "証明する（しょうめいする）",
         "meaning": {
-          "english": "prove, verify"
+          "english": "prove, verify |(vi) chứng minh, xác minh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "検証する（けんしょうする）",
         "meaning": {
-          "english": "inspect"
+          "english": "inspect |(vi) kiểm chứng, kiểm tra xác minh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_i.opus",
@@ -216,7 +216,7 @@
     "kanji": {
       "character": "証",
       "meaning": {
-        "english": "prove, certificate"
+        "english": "prove, certificate |(vi) chứng minh, giấy chứng nhận"
       },
       "strokes": {
         "count": 12,
@@ -278,7 +278,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -299,7 +299,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "306",
     "strokeCount": 12,
-    "meaning": "evidence, proof, certificate",
+    "meaning": "evidence, proof, certificate |(vi) bằng chứng, chứng cứ, giấy chứng nhận |(hv) Chứng",
     "kunyomi": [
       "あかし"
     ],
@@ -310,34 +310,34 @@
       {
         "example": "証",
         "reading": "ショウ",
-        "meaning": "proof, evidence, certificate, license, permit, membership card, ID card, enlightenment, symptoms (in Chinese medicine), patient's condition"
+        "meaning": "proof, evidence, certificate, license, permit, membership card, ID card, enlightenment, symptoms (in Chinese medicine), patient's condition |(vi) bằng chứng, chứng cứ, giấy chứng nhận, giấy phép, thẻ hội viên, thẻ căn cước, giác ngộ, chứng (trong y học cổ truyền), tình trạng bệnh của bệnh nhân"
       },
       {
         "example": "証券",
         "reading": "ショウケン",
-        "meaning": "bond, bill, certificate, security"
+        "meaning": "bond, bill, certificate, security |(vi) chứng khoán, trái phiếu, chứng từ, giấy tờ có giá"
       },
       {
         "example": "査証",
         "reading": "サショウ",
-        "meaning": "visa, endorsing (e.g. a passport), stamping"
+        "meaning": "visa, endorsing (e.g. a passport), stamping |(vi) thị thực (visa), đóng dấu xác nhận (hộ chiếu, v.v.)"
       },
       {
         "example": "偽証",
         "reading": "ギショウ",
-        "meaning": "false evidence, perjury, false testimony"
+        "meaning": "false evidence, perjury, false testimony |(vi) chứng cứ giả, khai man, lời khai gian dối"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "証",
         "reading": "あかし",
-        "meaning": "proof, evidence, sign, testimony, testament (to something), vindication, witnessing, testifying, testimony"
+        "meaning": "proof, evidence, sign, testimony, testament (to something), vindication, witnessing, testifying, testimony |(vi) bằng chứng, dấu hiệu, lời chứng, minh chứng, sự biện minh, sự làm chứng"
       },
       {
         "example": "証として",
         "reading": "あかしとして",
-        "meaning": "in sign of, in proof of"
+        "meaning": "in sign of, in proof of |(vi) như một bằng chứng, để chứng tỏ"
       }
     ],
     "radical": {
@@ -345,7 +345,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "一",

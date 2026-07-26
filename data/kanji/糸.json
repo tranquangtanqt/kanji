@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "ito",
-    "meaning": "thread",
+    "meaning": "thread |(vi) sợi chỉ, sợi tơ",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "綿糸（めんし）",
         "meaning": {
-          "english": "cotton yarn"
+          "english": "cotton yarn |(vi) sợi bông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "抜糸する（ばっしする）",
         "meaning": {
-          "english": "remove stitches"
+          "english": "remove stitches |(vi) cắt chỉ khâu, rút chỉ (vết thương)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "糸（いと）",
         "meaning": {
-          "english": "thread, yarn, string"
+          "english": "thread, yarn, string |(vi) sợi chỉ, sợi tơ, dây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "糸口（いとぐち）",
         "meaning": {
-          "english": "beginning, start, clue"
+          "english": "beginning, start, clue |(vi) đầu mối, manh mối, khởi đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "毛糸（けいと）",
         "meaning": {
-          "english": "knitting wool"
+          "english": "knitting wool |(vi) sợi len"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "縦糸（たていと）",
         "meaning": {
-          "english": "warp"
+          "english": "warp |(vi) sợi dọc (trong dệt vải)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "横糸（よこいと）",
         "meaning": {
-          "english": "woof"
+          "english": "woof |(vi) sợi ngang (trong dệt vải)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_g.opus",
@@ -197,7 +197,7 @@
     "kanji": {
       "character": "糸",
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) sợi chỉ, sợi tơ"
       },
       "strokes": {
         "count": 6,
@@ -247,7 +247,7 @@
         "romaji": "ito"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi chỉ nhỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ito0.svg",
@@ -268,7 +268,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1488",
     "strokeCount": 6,
-    "meaning": "thread",
+    "meaning": "thread |(vi) sợi chỉ, sợi tơ |(hv) Ti",
     "kunyomi": [
       "いと"
     ],
@@ -279,44 +279,44 @@
       {
         "example": "糸",
         "reading": "シ",
-        "meaning": "thread, 0.0001, one ten-thousandth"
+        "meaning": "thread, 0.0001, one ten-thousandth |(vi) sợi tơ, 0,0001, một phần vạn"
       },
       {
         "example": "糸雨",
         "reading": "シウ",
-        "meaning": "drizzle, light rain, fine rain"
+        "meaning": "drizzle, light rain, fine rain |(vi) mưa phùn, mưa nhỏ như sợi tơ"
       },
       {
         "example": "蚕糸",
         "reading": "サンシ",
-        "meaning": "silk thread, silk yarn"
+        "meaning": "silk thread, silk yarn |(vi) tơ tằm"
       },
       {
         "example": "金糸",
         "reading": "キンシ",
-        "meaning": "gold thread"
+        "meaning": "gold thread |(vi) sợi chỉ vàng, kim tuyến"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "糸",
         "reading": "いと",
-        "meaning": "thread, yarn, string"
+        "meaning": "thread, yarn, string |(vi) sợi chỉ, sợi tơ, dây"
       },
       {
         "example": "糸口",
         "reading": "いとぐち",
-        "meaning": "beginning, start, first step, clue, lead, hint, thread end"
+        "meaning": "beginning, start, first step, clue, lead, hint, thread end |(vi) đầu mối, manh mối, bước khởi đầu, gợi ý"
       },
       {
         "example": "横糸",
         "reading": "よこいと",
-        "meaning": "weft, woof (crosswise threads on a loom)"
+        "meaning": "weft, woof (crosswise threads on a loom) |(vi) sợi ngang (trong dệt vải)"
       },
       {
         "example": "生糸",
         "reading": "きいと",
-        "meaning": "raw silk thread"
+        "meaning": "raw silk thread |(vi) tơ sống, tơ thô"
       }
     ],
     "radical": {
@@ -324,7 +324,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi chỉ nhỏ)"
     },
     "parts": [
       "小",

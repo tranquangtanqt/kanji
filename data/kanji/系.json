@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "system, lineage",
+    "meaning": "system, lineage |(vi) hệ thống, dòng dõi",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "系統（けいとう）",
         "meaning": {
-          "english": "system, genealogy, phylogeny"
+          "english": "system, genealogy, phylogeny |(vi) hệ thống, phả hệ, chủng loại phát sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(retsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "系列（けいれつ）",
         "meaning": {
-          "english": "order, succession, series"
+          "english": "order, succession, series |(vi) chuỗi, hệ thống liên kết, dãy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(retsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "系図（けいず）",
         "meaning": {
-          "english": "family tree, pedigree, genealogy"
+          "english": "family tree, pedigree, genealogy |(vi) gia phả, phả hệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(retsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "体系（たいけい）",
         "meaning": {
-          "english": "system, organization"
+          "english": "system, organization |(vi) hệ thống, tổ chức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(retsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "直系（ちょっけい）",
         "meaning": {
-          "english": "direct descent, direct line"
+          "english": "direct descent, direct line |(vi) trực hệ, dòng dõi trực tiếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(retsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "家系（かけい）",
         "meaning": {
-          "english": "family lineage"
+          "english": "family lineage |(vi) dòng họ, gia hệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(retsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "日系人（にっけいじん）",
         "meaning": {
-          "english": "person of Japanese descent"
+          "english": "person of Japanese descent |(vi) người gốc Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei(retsu)_06_g.opus",
@@ -174,7 +174,7 @@
     "kanji": {
       "character": "系",
       "meaning": {
-        "english": "system, lineage"
+        "english": "system, lineage |(vi) hệ thống, dòng dõi"
       },
       "strokes": {
         "count": 7,
@@ -226,7 +226,7 @@
         "romaji": "ito"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi chỉ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ito0.svg",
@@ -247,7 +247,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "567",
     "strokeCount": 7,
-    "meaning": "lineage, system",
+    "meaning": "lineage, system |(vi) dòng dõi, hệ thống |(hv) Hệ",
     "kunyomi": [],
     "onyomi": [
       "ケイ"
@@ -256,22 +256,22 @@
       {
         "example": "系",
         "reading": "ケイ",
-        "meaning": "system, lineage, group, corollary, system (range of strata that correspond to a particular time period), (taxonomical) series"
+        "meaning": "system, lineage, group, corollary, system (range of strata that correspond to a particular time period), (taxonomical) series |(vi) hệ thống, dòng dõi, nhóm, hệ quả, hệ (tầng địa chất theo thời kỳ), chuỗi phân loại"
       },
       {
         "example": "系統",
         "reading": "ケイトウ",
-        "meaning": "system, lineage, ancestry, family line, group (e.g. of colors) (colours), family (e.g. of languages), party, school (of thought), close (evolutionary) relationship, a population sharing a common ancestor (in genetics), strain (e.g. bacterial)"
+        "meaning": "system, lineage, ancestry, family line, group (e.g. of colors) (colours), family (e.g. of languages), party, school (of thought), close (evolutionary) relationship, a population sharing a common ancestor (in genetics), strain (e.g. bacterial) |(vi) hệ thống, dòng dõi, gia tộc, dòng họ, nhóm (màu sắc), họ (ngôn ngữ), phe phái, trường phái, quan hệ tiến hóa gần, quần thể có chung tổ tiên (di truyền học), chủng (vi khuẩn)"
       },
       {
         "example": "日系",
         "reading": "ニッケイ",
-        "meaning": "(of) Japanese descent, non-Japanese of Japanese descent, nikkeijin, company, etc. set up with Japanese capital, company managed by Japanese or non-Japanese of Japanese descent"
+        "meaning": "(of) Japanese descent, non-Japanese of Japanese descent, nikkeijin, company, etc. set up with Japanese capital, company managed by Japanese or non-Japanese of Japanese descent |(vi) gốc Nhật, người không phải Nhật nhưng có gốc Nhật, công ty được thành lập bằng vốn Nhật, công ty do người Nhật hoặc người gốc Nhật quản lý"
       },
       {
         "example": "水系",
         "reading": "スイケイ",
-        "meaning": "water system, river system, drainage system"
+        "meaning": "water system, river system, drainage system |(vi) hệ thống nước, hệ thống sông ngòi, hệ thống thoát nước"
       }
     ],
     "kunyomiExamples": [],
@@ -280,7 +280,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi chỉ)"
     },
     "parts": [
       "ノ",

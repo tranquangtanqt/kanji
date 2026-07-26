@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "school",
+    "meaning": "school |(vi) trường học",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "学校（がっこう）",
         "meaning": {
-          "english": "school"
+          "english": "school |(vi) trường học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "母校（ぼこう）",
         "meaning": {
-          "english": "alma mater"
+          "english": "alma mater |(vi) trường cũ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "小学校（しょうがっこう）",
         "meaning": {
-          "english": "elementary school"
+          "english": "elementary school |(vi) trường tiểu học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "中学校（ちゅうがっこう）",
         "meaning": {
-          "english": "junior high school"
+          "english": "junior high school |(vi) trường trung học cơ sở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "高校生（こうこうせい）",
         "meaning": {
-          "english": "senior high school student"
+          "english": "senior high school student |(vi) học sinh trung học phổ thông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "予備校（よびこう）",
         "meaning": {
-          "english": "cram school"
+          "english": "cram school |(vi) trường luyện thi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "校正する（こうせいする）",
         "meaning": {
-          "english": "proofread"
+          "english": "proofread |(vi) đọc soát lỗi, hiệu đính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_g.opus",
@@ -238,7 +238,7 @@
     "kanji": {
       "character": "校",
       "meaning": {
-        "english": "school"
+        "english": "school |(vi) trường học"
       },
       "strokes": {
         "count": 10,
@@ -296,7 +296,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -317,7 +317,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "294",
     "strokeCount": 10,
-    "meaning": "exam, school, printing, proof, correction",
+    "meaning": "exam, school, printing, proof, correction |(vi) thi cử, trường học, in ấn, bản in thử, hiệu đính |(hv) Giáo, Hiệu",
     "kunyomi": [],
     "onyomi": [
       "コウ",
@@ -327,38 +327,38 @@
       {
         "example": "校",
         "reading": "コウ",
-        "meaning": "school, proofreading, proof"
+        "meaning": "school, proofreading, proof |(vi) trường học, hiệu đính, bản in thử"
       },
       {
         "example": "校歌",
         "reading": "コウカ",
-        "meaning": "school song, college song, school anthem"
+        "meaning": "school song, college song, school anthem |(vi) bài ca của trường, ca khúc trường học"
       },
       {
         "example": "一校",
         "reading": "イッコウ",
-        "meaning": "one school, the whole school, one proofreading, first proof"
+        "meaning": "one school, the whole school, one proofreading, first proof |(vi) một trường, toàn trường, một lần hiệu đính, bản in thử đầu tiên"
       },
       {
         "example": "同校",
         "reading": "ドウコウ",
-        "meaning": "the same school, the said school"
+        "meaning": "the same school, the said school |(vi) cùng trường, trường đã nêu"
       },
       {
         "example": "校合",
         "reading": "キョウゴウ",
-        "meaning": "collation, examining and comparing, checking (against the original text)"
+        "meaning": "collation, examining and comparing, checking (against the original text) |(vi) đối chiếu văn bản, so sánh và kiểm tra, đối chiếu với bản gốc"
       },
       {
         "example": "校書",
         "reading": "キョウショ",
-        "meaning": "collation, examining and comparing, checking (against the original text), geisha"
+        "meaning": "collation, examining and comparing, checking (against the original text), geisha |(vi) đối chiếu văn bản, so sánh và kiểm tra, đối chiếu với bản gốc, geisha"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây)"
     },
     "parts": [
       "亠",

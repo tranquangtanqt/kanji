@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 2,
     "kunyomi": "su, suteru",
-    "meaning": "discard, throw away, abandon",
+    "meaning": "discard, throw away, abandon |(vi) vứt bỏ, ném đi, bỏ rơi",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "四捨五入（ししゃごにゅう）",
         "meaning": {
-          "english": "rounding up (fractions)"
+          "english": "rounding up (fractions) |(vi) làm tròn số (bỏ 4 lấy 5)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-su(teru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "取捨選択（しゅしゃせんたく）",
         "meaning": {
-          "english": "decision to adopt or reject"
+          "english": "decision to adopt or reject |(vi) sự chọn lọc, cân nhắc lấy bỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-su(teru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "捨てる（すてる）",
         "meaning": {
-          "english": "throw away"
+          "english": "throw away |(vi) vứt đi, ném bỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-su(teru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "見捨てる（みすてる）",
         "meaning": {
-          "english": "abandon"
+          "english": "abandon |(vi) bỏ mặc, ruồng bỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-su(teru)_06_d.opus",
@@ -175,7 +175,7 @@
     "kanji": {
       "character": "捨",
       "meaning": {
-        "english": "discard, throw away, abandon"
+        "english": "discard, throw away, abandon |(vi) vứt bỏ, ném đi, bỏ rơi"
       },
       "strokes": {
         "count": 11,
@@ -235,7 +235,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -256,7 +256,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1266",
     "strokeCount": 11,
-    "meaning": "discard, throw away, abandon, resign, reject, sacrifice",
+    "meaning": "discard, throw away, abandon, resign, reject, sacrifice |(vi) vứt bỏ, ném đi, bỏ rơi, từ bỏ, chối bỏ, hy sinh |(hv) Xả",
     "kunyomi": [
       "す.てる"
     ],
@@ -267,34 +267,34 @@
       {
         "example": "捨",
         "reading": "シャ",
-        "meaning": "equanimity, upeksa, upekkha"
+        "meaning": "equanimity, upeksa, upekkha |(vi) xả (tâm buông xả, sự bình thản trong Phật giáo), upeksa"
       },
       {
         "example": "捨象",
         "reading": "シャショウ",
-        "meaning": "abstraction"
+        "meaning": "abstraction |(vi) sự trừu tượng hóa (gạt bỏ chi tiết không bản chất)"
       },
       {
         "example": "取捨",
         "reading": "シュシャ",
-        "meaning": "adoption or rejection, selection, choice, option"
+        "meaning": "adoption or rejection, selection, choice, option |(vi) sự lấy bỏ, sự chọn lọc, sự lựa chọn"
       },
       {
         "example": "用捨",
         "reading": "ヨウシャ",
-        "meaning": "adoption or rejection, selection, choice, leniency, mercy, going easy (on someone)"
+        "meaning": "adoption or rejection, selection, choice, leniency, mercy, going easy (on someone) |(vi) sự lấy bỏ, sự chọn lọc, sự khoan dung, lòng thương, nương tay (với ai)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "捨てる",
         "reading": "すてる",
-        "meaning": "to throw away, to cast away, to dump, to discard, to abandon, to desert, to leave, to give up, to resign"
+        "meaning": "to throw away, to cast away, to dump, to discard, to abandon, to desert, to leave, to give up, to resign |(vi) vứt đi, quăng bỏ, đổ bỏ, loại bỏ, bỏ rơi, ruồng bỏ, rời bỏ, từ bỏ, buông xuôi"
       },
       {
         "example": "捨てる神あれば拾う神あり",
         "reading": "すてるかみあればひろうかみあり",
-        "meaning": "when one door is shut, another is open, the world is as kind as it is cruel, there are gods that will abandon you and there are gods that will pick you up"
+        "meaning": "when one door is shut, another is open, the world is as kind as it is cruel, there are gods that will abandon you and there are gods that will pick you up |(vi) khi cánh cửa này đóng lại sẽ có cánh cửa khác mở ra, đời có kẻ phụ ta thì cũng có người cứu ta"
       }
     ],
     "radical": {
@@ -302,7 +302,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "个",

@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "hometown",
+    "meaning": "hometown |(vi) quê nhà",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "郷里（きょうり）",
         "meaning": {
-          "english": "birth-place, home town"
+          "english": "birth-place, home town |(vi) nơi sinh, quê nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ko)kyou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "郷土（きょうど）",
         "meaning": {
-          "english": "native place, birth-place"
+          "english": "native place, birth-place |(vi) quê hương, nơi sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ko)kyou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "郷愁（きょうしゅう）",
         "meaning": {
-          "english": "nostalgia, homesickness"
+          "english": "nostalgia, homesickness |(vi) nỗi nhớ quê, nhớ nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ko)kyou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "故郷（こきょう）",
         "meaning": {
-          "english": "home town, native place"
+          "english": "home town, native place |(vi) quê nhà, quê hương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ko)kyou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "同郷（どうきょう）",
         "meaning": {
-          "english": "from the same birthplace"
+          "english": "from the same birthplace |(vi) cùng quê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ko)kyou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "望郷（ぼうきょう）",
         "meaning": {
-          "english": "homesickness, nostalgia"
+          "english": "homesickness, nostalgia |(vi) nhớ nhà, nỗi nhớ quê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ko)kyou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "愛郷心（あいきょうしん）",
         "meaning": {
-          "english": "love of one's hometown"
+          "english": "love of one's hometown |(vi) tình yêu quê hương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ko)kyou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "帰郷する（ききょうする）",
         "meaning": {
-          "english": "return to one's home"
+          "english": "return to one's home |(vi) trở về quê nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ko)kyou_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "近郷（きんごう）",
         "meaning": {
-          "english": "neighboring districts"
+          "english": "neighboring districts |(vi) vùng lân cận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ko)kyou_06_i.opus",
@@ -198,7 +198,7 @@
     "kanji": {
       "character": "郷",
       "meaning": {
-        "english": "hometown"
+        "english": "hometown |(vi) quê nhà"
       },
       "strokes": {
         "count": 11,
@@ -258,7 +258,7 @@
         "romaji": "oozato"
       },
       "meaning": {
-        "english": "village, country, city"
+        "english": "village, country, city |(vi) Ấp (làng, xứ, thành phố)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/oozato0.svg",
@@ -279,7 +279,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1077",
     "strokeCount": 11,
-    "meaning": "home town, village, native place, district",
+    "meaning": "home town, village, native place, district |(vi) quê nhà, làng, quê hương, khu vực |(hv) Hương",
     "kunyomi": [
       "さと"
     ],
@@ -291,59 +291,59 @@
       {
         "example": "郷",
         "reading": "キョウ",
-        "meaning": "hometown, rural township (of China)"
+        "meaning": "hometown, rural township (of China) |(vi) quê nhà, thị trấn nông thôn (của Trung Quốc)"
       },
       {
         "example": "郷愁",
         "reading": "キョウシュウ",
-        "meaning": "nostalgia, homesickness"
+        "meaning": "nostalgia, homesickness |(vi) nỗi nhớ quê, nhớ nhà"
       },
       {
         "example": "同郷",
         "reading": "ドウキョウ",
-        "meaning": "same village, same town, same province"
+        "meaning": "same village, same town, same province |(vi) cùng làng, cùng thị trấn, cùng tỉnh"
       },
       {
         "example": "故郷",
         "reading": "コキョウ",
-        "meaning": "hometown, birthplace, native place, one's old home"
+        "meaning": "hometown, birthplace, native place, one's old home |(vi) quê nhà, nơi sinh, quê hương, nhà cũ"
       },
       {
         "example": "郷",
         "reading": "ゴウ",
-        "meaning": "countryside, country, 50-home township (comprised of 2-3 neighbourhoods)"
+        "meaning": "countryside, country, 50-home township (comprised of 2-3 neighbourhoods) |(vi) vùng quê, nông thôn, thị trấn 50 hộ (gồm 2-3 khu phố)"
       },
       {
         "example": "郷学",
         "reading": "ゴウガク",
-        "meaning": "village school (esp. in Edo-era Japan, and ancient Korea and China)"
+        "meaning": "village school (esp. in Edo-era Japan, and ancient Korea and China) |(vi) trường làng (nhất là thời Edo ở Nhật, và Hàn Quốc, Trung Quốc cổ đại)"
       },
       {
         "example": "水郷",
         "reading": "スイゴウ",
-        "meaning": "beautiful riverside location, lakeside district, canal district"
+        "meaning": "beautiful riverside location, lakeside district, canal district |(vi) vùng ven sông đẹp, khu ven hồ, vùng kênh rạch"
       },
       {
         "example": "大西郷",
         "reading": "ダイサイゴウ",
-        "meaning": "the Great Saigo"
+        "meaning": "the Great Saigo |(vi) Đại Tây Hương (Saigo vĩ đại)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "里",
         "reading": "さと",
-        "meaning": "village, hamlet, countryside, country, home (of one's parents, etc.), hometown, one's origins, one's upbringing, one's past"
+        "meaning": "village, hamlet, countryside, country, home (of one's parents, etc.), hometown, one's origins, one's upbringing, one's past |(vi) làng, thôn xóm, vùng quê, quê hương, nhà (của cha mẹ, v.v.), quê nhà, nguồn gốc, sự nuôi dưỡng, quá khứ của một người"
       },
       {
         "example": "無何有の郷",
         "reading": "むかうのさと",
-        "meaning": "utopia, (natural) paradise"
+        "meaning": "utopia, (natural) paradise |(vi) chốn không tưởng, thiên đường (tự nhiên)"
       },
       {
         "example": "第二の故郷",
         "reading": "だいにのこきょう",
-        "meaning": "one's second home, home away from home"
+        "meaning": "one's second home, home away from home |(vi) quê hương thứ hai, ngôi nhà xa quê"
       }
     ],
     "radical": {
@@ -351,7 +351,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "town (阝 right)"
+      "meaning": "town (阝 right) |(vi) Ấp (thị trấn, 阝 bên phải)"
     },
     "parts": [
       "幺",

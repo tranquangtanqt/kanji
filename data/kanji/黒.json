@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kuroi, kuro",
-    "meaning": "black",
+    "meaning": "black |(vi) đen",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "黒板（こくばん）",
         "meaning": {
-          "english": "blackboard"
+          "english": "blackboard |(vi) bảng đen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuro_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "暗黒（あんこく）",
         "meaning": {
-          "english": "darkness"
+          "english": "darkness |(vi) bóng tối, đen tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuro_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "黒い（くろい）",
         "meaning": {
-          "english": "black"
+          "english": "black |(vi) đen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuro_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "黒髪（くろかみ）",
         "meaning": {
-          "english": "black hair"
+          "english": "black hair |(vi) tóc đen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuro_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "白黒（しろくろ）",
         "meaning": {
-          "english": "black and white"
+          "english": "black and white |(vi) đen trắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuro_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "真っ黒な（まっくろな）",
         "meaning": {
-          "english": "pitch black"
+          "english": "pitch black |(vi) đen kịt, đen thui"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuro_06_f.opus",
@@ -225,7 +225,7 @@
     "kanji": {
       "character": "黒",
       "meaning": {
-        "english": "black"
+        "english": "black |(vi) đen"
       },
       "strokes": {
         "count": 11,
@@ -285,7 +285,7 @@
         "romaji": "kuro"
       },
       "meaning": {
-        "english": "black"
+        "english": "black |(vi) Hắc (đen)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuro0.svg",
@@ -306,7 +306,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "573",
     "strokeCount": 11,
-    "meaning": "black",
+    "meaning": "black |(vi) đen |(hv) Hắc",
     "kunyomi": [
       "くろ",
       "くろ.ずむ",
@@ -319,54 +319,54 @@
       {
         "example": "黒煙",
         "reading": "コクエン",
-        "meaning": "black smoke"
+        "meaning": "black smoke |(vi) khói đen"
       },
       {
         "example": "黒衣",
         "reading": "コクイ",
-        "meaning": "black clothes"
+        "meaning": "black clothes |(vi) áo đen"
       },
       {
         "example": "大黒",
         "reading": "ダイコク",
-        "meaning": "god of wealth, monk's wife"
+        "meaning": "god of wealth, monk's wife |(vi) thần tài, vợ của nhà sư"
       },
       {
         "example": "二黒",
         "reading": "ジコク",
-        "meaning": "second of nine traditional astrological signs (corresponding to Saturn and southwest)"
+        "meaning": "second of nine traditional astrological signs (corresponding to Saturn and southwest) |(vi) nhị hắc (sao thứ hai trong chín sao chiêm tinh cổ, ứng với Thổ tinh và hướng tây nam)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "黒",
         "reading": "くろ",
-        "meaning": "black, black stone, guilt, guilty person"
+        "meaning": "black, black stone, guilt, guilty person |(vi) màu đen, đá đen, tội lỗi, kẻ có tội"
       },
       {
         "example": "黒い",
         "reading": "くろい",
-        "meaning": "black, dark, blackish, sun-tanned (skin), suspicious, criminal, illicit, darkened and dirty, sooty, covered in dirt, evil, wicked, black-hearted, inauspicious, ill-boding, unlucky"
+        "meaning": "black, dark, blackish, sun-tanned (skin), suspicious, criminal, illicit, darkened and dirty, sooty, covered in dirt, evil, wicked, black-hearted, inauspicious, ill-boding, unlucky |(vi) đen, tối, đen sẫm, rám nắng (da), khả nghi, phạm tội, bất hợp pháp, bám bẩn đen, ám khói, dính bẩn, xấu xa, độc ác, đen tối, xui xẻo, điềm gở, không may mắn"
       },
       {
         "example": "黒ずむ",
         "reading": "くろずむ",
-        "meaning": "to blacken, to darken"
+        "meaning": "to blacken, to darken |(vi) đen dần, sẫm màu dần"
       },
       {
         "example": "黒い",
         "reading": "くろい",
-        "meaning": "black, dark, blackish, sun-tanned (skin), suspicious, criminal, illicit, darkened and dirty, sooty, covered in dirt, evil, wicked, black-hearted, inauspicious, ill-boding, unlucky"
+        "meaning": "black, dark, blackish, sun-tanned (skin), suspicious, criminal, illicit, darkened and dirty, sooty, covered in dirt, evil, wicked, black-hearted, inauspicious, ill-boding, unlucky |(vi) đen, tối, đen sẫm, rám nắng (da), khả nghi, phạm tội, bất hợp pháp, bám bẩn đen, ám khói, dính bẩn, xấu xa, độc ác, đen tối, xui xẻo, điềm gở, không may mắn"
       },
       {
         "example": "黒色",
         "reading": "くろいろ",
-        "meaning": "black (colour, color)"
+        "meaning": "black (colour, color) |(vi) màu đen"
       }
     ],
     "radical": {
       "symbol": "黑",
-      "meaning": "black"
+      "meaning": "black |(vi) Hắc (đen)"
     },
     "parts": [
       "杰",

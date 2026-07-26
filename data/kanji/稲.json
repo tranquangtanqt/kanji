@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "ine, ina",
-    "meaning": "rice plant",
+    "meaning": "rice plant |(vi) cây lúa",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "水稲（すいとう）",
         "meaning": {
-          "english": "wet-land rice"
+          "english": "wet-land rice |(vi) lúa nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ine_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "稲（いね）",
         "meaning": {
-          "english": "rice-plant"
+          "english": "rice-plant |(vi) cây lúa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ine_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "稲刈り（いねかり）",
         "meaning": {
-          "english": "rice reaping"
+          "english": "rice reaping |(vi) gặt lúa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ine_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "稲作（いなさく）",
         "meaning": {
-          "english": "rice crop"
+          "english": "rice crop |(vi) trồng lúa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ine_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "稲穂（いなほ）",
         "meaning": {
-          "english": "ear of rice"
+          "english": "ear of rice |(vi) bông lúa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ine_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "稲荷（いなり）",
         "meaning": {
-          "english": "Inari shrine"
+          "english": "Inari shrine |(vi) đền Inari"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ine_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "稲妻（いなづま）",
         "meaning": {
-          "english": "lightning"
+          "english": "lightning |(vi) chớp, tia sét"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ine_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "稲光（いなびかり）",
         "meaning": {
-          "english": "lightning"
+          "english": "lightning |(vi) chớp, ánh chớp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ine_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "*早稲田（わせだ）",
         "meaning": {
-          "english": "Waseda (place name)"
+          "english": "Waseda (place name) |(vi) Waseda (tên địa danh)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ine_06_i.opus",
@@ -211,7 +211,7 @@
     "kanji": {
       "character": "稲",
       "meaning": {
-        "english": "rice plant"
+        "english": "rice plant |(vi) cây lúa"
       },
       "strokes": {
         "count": 14,
@@ -277,7 +277,7 @@
         "romaji": "nogihen"
       },
       "meaning": {
-        "english": "grain"
+        "english": "grain |(vi) Hòa (lúa, ngũ cốc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nogihen0.svg",
@@ -298,7 +298,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1038",
     "strokeCount": 14,
-    "meaning": "rice plant",
+    "meaning": "rice plant |(vi) cây lúa |(hv) Đạo",
     "kunyomi": [
       "いね",
       "いな-"
@@ -311,59 +311,59 @@
       {
         "example": "稲架",
         "reading": "ハサ",
-        "meaning": "drying rice on a rack, rack for drying rice"
+        "meaning": "drying rice on a rack, rack for drying rice |(vi) giàn phơi lúa, giá phơi lúa"
       },
       {
         "example": "稲粟",
         "reading": "トウゾク",
-        "meaning": "rice and millet"
+        "meaning": "rice and millet |(vi) lúa và kê"
       },
       {
         "example": "水稲",
         "reading": "スイトウ",
-        "meaning": "wet-land rice"
+        "meaning": "wet-land rice |(vi) lúa nước"
       },
       {
         "example": "占城稲",
         "reading": "センジョウトウ",
-        "meaning": "Champa rice"
+        "meaning": "Champa rice |(vi) lúa Chiêm Thành"
       },
       {
         "example": "中手",
         "reading": "ナカテ",
-        "meaning": "mid-season crops, mid-season rice, mid-season vegetables, metacarpus"
+        "meaning": "mid-season crops, mid-season rice, mid-season vegetables, metacarpus |(vi) mùa vụ giữa vụ, lúa trung mùa, rau trung mùa, xương bàn tay"
       },
       {
         "example": "奥手",
         "reading": "オクテ",
-        "meaning": "late-growing rice, late-ripening crops, late-blooming flowers, late developer (e.g. child who reaches puberty late), late bloomer"
+        "meaning": "late-growing rice, late-ripening crops, late-blooming flowers, late developer (e.g. child who reaches puberty late), late bloomer |(vi) lúa chín muộn, cây trồng chín muộn, hoa nở muộn, người phát triển muộn (vd trẻ dậy thì muộn)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "稲",
         "reading": "いね",
-        "meaning": "rice plant (Oryza sativa)"
+        "meaning": "rice plant (Oryza sativa) |(vi) cây lúa (Oryza sativa)"
       },
       {
         "example": "稲刈り",
         "reading": "いねかり",
-        "meaning": "rice reaping, rice harvesting"
+        "meaning": "rice reaping, rice harvesting |(vi) gặt lúa, thu hoạch lúa"
       },
       {
         "example": "束稲",
         "reading": "つかいね",
-        "meaning": "sheaf of rice, bundle of rice plants"
+        "meaning": "sheaf of rice, bundle of rice plants |(vi) bó lúa"
       },
       {
         "example": "アフリカ稲",
         "reading": "アフリカいね",
-        "meaning": "African rice (Oryza glaberrima)"
+        "meaning": "African rice (Oryza glaberrima) |(vi) lúa châu Phi (Oryza glaberrima)"
       }
     ],
     "radical": {
       "symbol": "禾",
-      "meaning": "grain"
+      "meaning": "grain |(vi) Hòa (lúa, ngũ cốc)"
     },
     "parts": [
       "日",

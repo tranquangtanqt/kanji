@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "mu, mura, mureru, mure, muragaru",
-    "meaning": "group, herd, crowd, flock",
+    "meaning": "group, herd, crowd, flock |(vi) nhóm, bầy, đám đông, đàn",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "群衆（ぐんしゅう）",
         "meaning": {
-          "english": "group, crowd, throng, mob"
+          "english": "group, crowd, throng, mob |(vi) nhóm, đám đông, đoàn người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun-mura_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "魚群（ぎょぐん）",
         "meaning": {
-          "english": "school of fish"
+          "english": "school of fish |(vi) đàn cá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun-mura_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "一群（いちぐん）",
         "meaning": {
-          "english": "one group, one flock, one herd"
+          "english": "one group, one flock, one herd |(vi) một nhóm, một bầy, một đàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun-mura_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "抜群（ばつぐん）",
         "meaning": {
-          "english": "pre-eminent, outstanding"
+          "english": "pre-eminent, outstanding |(vi) xuất sắc, nổi bật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun-mura_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "群生する（ぐんせいする）",
         "meaning": {
-          "english": "grow in a colony or group"
+          "english": "grow in a colony or group |(vi) mọc thành đám hoặc thành cụm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun-mura_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "群れ（むれ）",
         "meaning": {
-          "english": "group, crowd, flock, herd"
+          "english": "group, crowd, flock, herd |(vi) nhóm, đám đông, bầy, đàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun-mura_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "群れる（むれる）",
         "meaning": {
-          "english": "flock, swarm [v.i.]"
+          "english": "flock, swarm [v.i.] |(vi) tụ tập thành đàn, bầy đàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun-mura_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "群がる（むらがる）",
         "meaning": {
-          "english": "swarm around [v.i.]"
+          "english": "swarm around [v.i.] |(vi) tụ tập, vây quanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun-mura_06_h.opus",
@@ -203,7 +203,7 @@
     "kanji": {
       "character": "群",
       "meaning": {
-        "english": "group, herd, crowd, flock"
+        "english": "group, herd, crowd, flock |(vi) nhóm, bầy, đám đông, đàn"
       },
       "strokes": {
         "count": 13,
@@ -267,7 +267,7 @@
         "romaji": "hitsuji"
       },
       "meaning": {
-        "english": "sheep"
+        "english": "sheep |(vi) Dương (cừu, dê)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitsuji0.svg",
@@ -288,7 +288,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1012",
     "strokeCount": 13,
-    "meaning": "flock, group, crowd, herd, swarm, cluster",
+    "meaning": "flock, group, crowd, herd, swarm, cluster |(vi) bầy, nhóm, đám đông, đàn, bầy đàn, cụm |(hv) Quần",
     "kunyomi": [
       "む.れる",
       "む.れ",
@@ -302,64 +302,64 @@
       {
         "example": "群",
         "reading": "グン",
-        "meaning": "group, bunch, crowd, throng, swarm, band, group"
+        "meaning": "group, bunch, crowd, throng, swarm, band, group |(vi) nhóm, tốp, đám đông, đoàn người, bầy, băng, nhóm"
       },
       {
         "example": "群衆",
         "reading": "グンシュウ",
-        "meaning": "group (of people), crowd, horde, throng, mob, multitude"
+        "meaning": "group (of people), crowd, horde, throng, mob, multitude |(vi) nhóm người, đám đông, đoàn người đông đúc, đám đông ồn ào"
       },
       {
         "example": "症候群",
         "reading": "ショウコウグン",
-        "meaning": "syndrome"
+        "meaning": "syndrome |(vi) hội chứng"
       },
       {
         "example": "層群",
         "reading": "ソウグン",
-        "meaning": "(geol) group"
+        "meaning": "(geol) group |(vi) (địa chất) nhóm, tầng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "群れる",
         "reading": "むれる",
-        "meaning": "to crowd, to flock, to swarm"
+        "meaning": "to crowd, to flock, to swarm |(vi) tụ tập, quần tụ, kết bầy"
       },
       {
         "example": "群れ",
         "reading": "むれ",
-        "meaning": "group, crowd, flock, herd, bevy, school, swarm, cluster (e.g. of stars), clump, pack (e.g. of dogs)"
+        "meaning": "group, crowd, flock, herd, bevy, school, swarm, cluster (e.g. of stars), clump, pack (e.g. of dogs) |(vi) nhóm, đám đông, bầy, đàn, tốp, đàn cá, bầy sao, cụm, bầy (chó)"
       },
       {
         "example": "群れる",
         "reading": "むれる",
-        "meaning": "to crowd, to flock, to swarm"
+        "meaning": "to crowd, to flock, to swarm |(vi) tụ tập, quần tụ, kết bầy"
       },
       {
         "example": "群",
         "reading": "むら",
-        "meaning": "gathering"
+        "meaning": "gathering |(vi) sự tụ tập"
       },
       {
         "example": "群がる",
         "reading": "むらがる",
-        "meaning": "to swarm, to gather"
+        "meaning": "to swarm, to gather |(vi) tụ tập, kết bầy"
       },
       {
         "example": "魚群",
         "reading": "ぎょぐん",
-        "meaning": "school of fish, shoal of fish"
+        "meaning": "school of fish, shoal of fish |(vi) đàn cá, bầy cá"
       },
       {
         "example": "葉群",
         "reading": "はむら",
-        "meaning": "leaves, foliage"
+        "meaning": "leaves, foliage |(vi) lá, tán lá"
       },
       {
         "example": "群がる",
         "reading": "むらがる",
-        "meaning": "to swarm, to gather"
+        "meaning": "to swarm, to gather |(vi) tụ tập, kết bầy"
       }
     ],
     "radical": {
@@ -367,7 +367,7 @@
       "forms": [
         "⺶"
       ],
-      "meaning": "sheep"
+      "meaning": "sheep |(vi) Dương (cừu, dê)"
     },
     "parts": [
       "ノ",

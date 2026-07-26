@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "kinu",
-    "meaning": "silk",
+    "meaning": "silk |(vi) lụa",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "絹布（けんぷ）",
         "meaning": {
-          "english": "silk, silk cloth"
+          "english": "silk, silk cloth |(vi) lụa, vải lụa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kinu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "正絹（しょうけん）",
         "meaning": {
-          "english": "pure silk"
+          "english": "pure silk |(vi) lụa nguyên chất, lụa thật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kinu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "絹（きぬ）",
         "meaning": {
-          "english": "silk"
+          "english": "silk |(vi) lụa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kinu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "絹糸（きぬいと）",
         "meaning": {
-          "english": "silk thread"
+          "english": "silk thread |(vi) sợi tơ lụa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kinu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "絹織物（きぬおりもの）",
         "meaning": {
-          "english": "silk goods"
+          "english": "silk goods |(vi) hàng dệt lụa, vải lụa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kinu_06_e.opus",
@@ -149,7 +149,7 @@
     "kanji": {
       "character": "絹",
       "meaning": {
-        "english": "silk"
+        "english": "silk |(vi) lụa"
       },
       "strokes": {
         "count": 13,
@@ -213,7 +213,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -234,7 +234,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1916",
     "strokeCount": 13,
-    "meaning": "silk",
+    "meaning": "silk |(vi) lụa |(hv) Quyên",
     "kunyomi": [
       "きぬ"
     ],
@@ -245,39 +245,39 @@
       {
         "example": "絹布",
         "reading": "ケンプ",
-        "meaning": "silk, silk cloth"
+        "meaning": "silk, silk cloth |(vi) lụa, vải lụa"
       },
       {
         "example": "絹糸",
         "reading": "キヌイト",
-        "meaning": "silk thread, silk yarn, corn silk"
+        "meaning": "silk thread, silk yarn, corn silk |(vi) sợi tơ lụa, sợi tơ, râu ngô"
       },
       {
         "example": "生絹",
         "reading": "キギヌ",
-        "meaning": "raw silk (fabric)"
+        "meaning": "raw silk (fabric) |(vi) lụa sống, lụa mộc"
       },
       {
         "example": "正絹",
         "reading": "ショウケン",
-        "meaning": "pure silk"
+        "meaning": "pure silk |(vi) lụa nguyên chất, lụa thật"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "絹",
         "reading": "きぬ",
-        "meaning": "silk"
+        "meaning": "silk |(vi) lụa"
       },
       {
         "example": "絹糸",
         "reading": "きぬいと",
-        "meaning": "silk thread, silk yarn, corn silk"
+        "meaning": "silk thread, silk yarn, corn silk |(vi) sợi tơ lụa, sợi tơ, râu ngô"
       },
       {
         "example": "白絹",
         "reading": "しらぎぬ",
-        "meaning": "white silk"
+        "meaning": "white silk |(vi) lụa trắng"
       }
     ],
     "radical": {
@@ -285,7 +285,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi)"
     },
     "parts": [
       "口",

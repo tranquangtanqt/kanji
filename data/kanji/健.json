@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "suko, sukoyakana",
-    "meaning": "robust, healthy",
+    "meaning": "robust, healthy |(vi) khỏe mạnh, cường tráng",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "健康（けんこう）",
         "meaning": {
-          "english": "health"
+          "english": "health |(vi) sức khỏe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(yaka)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "健康保険（けんこうほけん）",
         "meaning": {
-          "english": "health insurance"
+          "english": "health insurance |(vi) bảo hiểm y tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(yaka)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "健全な（けんぜんな）",
         "meaning": {
-          "english": "healthy, sound, wholesome"
+          "english": "healthy, sound, wholesome |(vi) lành mạnh, khỏe mạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(yaka)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "穏健な（おんけんな）",
         "meaning": {
-          "english": "quiet, dependable, moderate"
+          "english": "quiet, dependable, moderate |(vi) ôn hòa, điềm đạm, ổn định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(yaka)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "健康的な（けんこうてきな）",
         "meaning": {
-          "english": "hygienic, healthful, sanitary"
+          "english": "hygienic, healthful, sanitary |(vi) hợp vệ sinh, tốt cho sức khỏe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(yaka)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "健やかな（すこやかな）",
         "meaning": {
-          "english": "healthy"
+          "english": "healthy |(vi) khỏe mạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(yaka)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "*健気な（けなげな）",
         "meaning": {
-          "english": "heroic, brave, admirable"
+          "english": "heroic, brave, admirable |(vi) kiên cường, dũng cảm, đáng khâm phục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(yaka)_06_g.opus",
@@ -197,7 +197,7 @@
     "kanji": {
       "character": "健",
       "meaning": {
-        "english": "robust, healthy"
+        "english": "robust, healthy |(vi) khỏe mạnh, cường tráng"
       },
       "strokes": {
         "count": 11,
@@ -257,7 +257,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -278,7 +278,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "572",
     "strokeCount": 11,
-    "meaning": "healthy, health, strength, persistence",
+    "meaning": "healthy, health, strength, persistence |(vi) khỏe mạnh, sức khỏe, sức mạnh, kiên trì |(hv) Kiện",
     "kunyomi": [
       "すこ.やか"
     ],
@@ -289,29 +289,29 @@
       {
         "example": "健康食品",
         "reading": "ケンコウショクヒン",
-        "meaning": "health foods"
+        "meaning": "health foods |(vi) thực phẩm tốt cho sức khỏe"
       },
       {
         "example": "健康",
         "reading": "ケンコウ",
-        "meaning": "health, healthy, sound, fit, wholesome"
+        "meaning": "health, healthy, sound, fit, wholesome |(vi) sức khỏe, khỏe mạnh, lành mạnh"
       },
       {
         "example": "豪健",
         "reading": "ゴウケン",
-        "meaning": "hardy, sturdy, robust"
+        "meaning": "hardy, sturdy, robust |(vi) cường tráng, mạnh mẽ, dẻo dai"
       },
       {
         "example": "質実剛健",
         "reading": "シツジツゴウケン",
-        "meaning": "unaffected and sincere, with fortitude and vigor (vigour)"
+        "meaning": "unaffected and sincere, with fortitude and vigor (vigour) |(vi) chất phác chân thành, cương nghị mạnh mẽ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "健やか",
         "reading": "すこやか",
-        "meaning": "vigorous, healthy, sound"
+        "meaning": "vigorous, healthy, sound |(vi) khỏe mạnh, cường tráng"
       }
     ],
     "radical": {
@@ -319,7 +319,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "化",

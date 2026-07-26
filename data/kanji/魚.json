@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "uo, sakana",
-    "meaning": "fish",
+    "meaning": "fish |(vi) cá",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "魚類（ぎょるい）",
         "meaning": {
-          "english": "fish (as class of animal)"
+          "english": "fish (as class of animal) |(vi) loài cá, các loại cá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "魚介類（ぎょかいるい）",
         "meaning": {
-          "english": "marine products, seafood"
+          "english": "marine products, seafood |(vi) hải sản, thủy hải sản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "金魚（きんぎょ）",
         "meaning": {
-          "english": "goldfish"
+          "english": "goldfish |(vi) cá vàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "鮮魚（せんぎょ）",
         "meaning": {
-          "english": "fresh fish"
+          "english": "fresh fish |(vi) cá tươi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "人魚（にんぎょ）",
         "meaning": {
-          "english": "mermaid, merman"
+          "english": "mermaid, merman |(vi) người cá, nàng tiên cá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "深海魚（しんかいぎょ）",
         "meaning": {
-          "english": "deep-sea fish"
+          "english": "deep-sea fish |(vi) cá biển sâu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "熱帯魚（ねったいぎょ）",
         "meaning": {
-          "english": "tropical fish"
+          "english": "tropical fish |(vi) cá nhiệt đới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "魚市場（うおいちば）",
         "meaning": {
-          "english": "fish market"
+          "english": "fish market |(vi) chợ cá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "飛び魚（とびうお）",
         "meaning": {
-          "english": "flying fish"
+          "english": "flying fish |(vi) cá chuồn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "魚（さかな）",
         "meaning": {
-          "english": "fish [n.]"
+          "english": "fish [n.] |(vi) cá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "魚屋（さかなや）",
         "meaning": {
-          "english": "fish market, fish dealer"
+          "english": "fish market, fish dealer |(vi) cửa hàng cá, người bán cá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "*雑魚（ざこ）",
         "meaning": {
-          "english": "small fish, small fry"
+          "english": "small fish, small fry |(vi) cá tạp, cá nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_l.opus",
@@ -290,7 +290,7 @@
     "kanji": {
       "character": "魚",
       "meaning": {
-        "english": "fish"
+        "english": "fish |(vi) cá"
       },
       "strokes": {
         "count": 11,
@@ -350,7 +350,7 @@
         "romaji": "uo"
       },
       "meaning": {
-        "english": "fish"
+        "english": "fish |(vi) Ngư (cá)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/uo0.svg",
@@ -371,7 +371,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1208",
     "strokeCount": 11,
-    "meaning": "fish",
+    "meaning": "fish |(vi) cá |(hv) Ngư",
     "kunyomi": [
       "うお",
       "さかな",
@@ -384,64 +384,64 @@
       {
         "example": "魚類",
         "reading": "ギョルイ",
-        "meaning": "fish, fishes"
+        "meaning": "fish, fishes |(vi) loài cá, các loại cá"
       },
       {
         "example": "魚介類",
         "reading": "ギョカイルイ",
-        "meaning": "marine products, seafood, fish and shellfish"
+        "meaning": "marine products, seafood, fish and shellfish |(vi) hải sản, thủy hải sản"
       },
       {
         "example": "鮮魚",
         "reading": "センギョ",
-        "meaning": "fresh fish"
+        "meaning": "fresh fish |(vi) cá tươi"
       },
       {
         "example": "稚魚",
         "reading": "チギョ",
-        "meaning": "fry, juvenile fish, fingerling"
+        "meaning": "fry, juvenile fish, fingerling |(vi) cá con, cá bột"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "魚",
         "reading": "さかな",
-        "meaning": "fish"
+        "meaning": "fish |(vi) cá"
       },
       {
         "example": "魚市場",
         "reading": "うおいちば",
-        "meaning": "fish market"
+        "meaning": "fish market |(vi) chợ cá"
       },
       {
         "example": "川魚",
         "reading": "かわうお",
-        "meaning": "river fish, freshwater fish"
+        "meaning": "river fish, freshwater fish |(vi) cá sông, cá nước ngọt"
       },
       {
         "example": "活魚",
         "reading": "かつぎょ",
-        "meaning": "live fish and shellfish (kept in a tank in a restaurant)"
+        "meaning": "live fish and shellfish (kept in a tank in a restaurant) |(vi) cá (hải sản) còn sống"
       },
       {
         "example": "魚",
         "reading": "さかな",
-        "meaning": "fish"
+        "meaning": "fish |(vi) cá"
       },
       {
         "example": "魚釣り",
         "reading": "さかなつり",
-        "meaning": "fishing"
+        "meaning": "fishing |(vi) câu cá"
       },
       {
         "example": "旬の魚",
         "reading": "しゅんのさかな",
-        "meaning": "fish in season"
+        "meaning": "fish in season |(vi) cá đúng mùa, cá theo mùa"
       }
     ],
     "radical": {
       "symbol": "魚",
-      "meaning": "fish"
+      "meaning": "fish |(vi) Ngư (cá)"
     },
     "parts": [
       "杰",

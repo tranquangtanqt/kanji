@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "week",
+    "meaning": "week |(vi) tuần",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "今週（こんしゅう）",
         "meaning": {
-          "english": "this week"
+          "english": "this week |(vi) tuần này"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(matsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "先週（せんしゅう）",
         "meaning": {
-          "english": "last week"
+          "english": "last week |(vi) tuần trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(matsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "来週（らいしゅう）",
         "meaning": {
-          "english": "next week"
+          "english": "next week |(vi) tuần sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(matsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "週末（しゅうまつ）",
         "meaning": {
-          "english": "weekend"
+          "english": "weekend |(vi) cuối tuần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(matsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "一週間（いっしゅうかん）",
         "meaning": {
-          "english": "one week"
+          "english": "one week |(vi) một tuần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(matsu)_06_e.opus",
@@ -223,7 +223,7 @@
     "kanji": {
       "character": "週",
       "meaning": {
-        "english": "week"
+        "english": "week |(vi) tuần"
       },
       "strokes": {
         "count": 11,
@@ -283,7 +283,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đường đi, bước đi, tiến tới)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -304,7 +304,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "540",
     "strokeCount": 11,
-    "meaning": "week",
+    "meaning": "week |(vi) tuần |(hv) Chu",
     "kunyomi": [],
     "onyomi": [
       "シュウ"
@@ -313,22 +313,22 @@
       {
         "example": "週",
         "reading": "シュウ",
-        "meaning": "week"
+        "meaning": "week |(vi) tuần"
       },
       {
         "example": "週明け",
         "reading": "シュウアケ",
-        "meaning": "beginning of next week (usu. Monday), early next week"
+        "meaning": "beginning of next week (usu. Monday), early next week |(vi) đầu tuần sau (thường là thứ Hai), đầu tuần tới"
       },
       {
         "example": "前週",
         "reading": "ゼンシュウ",
-        "meaning": "last week, the week before"
+        "meaning": "last week, the week before |(vi) tuần trước, tuần trước đó"
       },
       {
         "example": "隔週",
         "reading": "カクシュウ",
-        "meaning": "every other week, every two weeks"
+        "meaning": "every other week, every two weeks |(vi) cách tuần, hai tuần một lần"
       }
     ],
     "kunyomiExamples": [],
@@ -339,7 +339,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, bước đi)"
     },
     "parts": [
       "冂",

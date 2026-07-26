@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "watashi, watakushi",
-    "meaning": "I, private",
+    "meaning": "I, private |(vi) tôi, riêng tư, cá nhân",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "私鉄（してつ）",
         "meaning": {
-          "english": "privately-owned railway"
+          "english": "privately-owned railway |(vi) đường sắt tư nhân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/watashi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "私（わたし/わたくし）",
         "meaning": {
-          "english": "I"
+          "english": "I |(vi) tôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/watashi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "私立（しりつ/わたくしりつ）",
         "meaning": {
-          "english": "privately-owned (institution)"
+          "english": "privately-owned (institution) |(vi) tư lập, do tư nhân thành lập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/watashi_06_c.opus",
@@ -181,7 +181,7 @@
     "kanji": {
       "character": "私",
       "meaning": {
-        "english": "I, private"
+        "english": "I, private |(vi) tôi, riêng tư, cá nhân"
       },
       "strokes": {
         "count": 7,
@@ -233,7 +233,7 @@
         "romaji": "nogihen"
       },
       "meaning": {
-        "english": "grain"
+        "english": "grain |(vi) Hòa (lúa, cây ngũ cốc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nogihen0.svg",
@@ -254,7 +254,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "242",
     "strokeCount": 7,
-    "meaning": "private, I, me",
+    "meaning": "private, I, me |(vi) riêng tư, tôi, ta |(hv) Tư",
     "kunyomi": [
       "わたくし",
       "わたし"
@@ -266,54 +266,54 @@
       {
         "example": "私",
         "reading": "シ",
-        "meaning": "private affairs, personal matter"
+        "meaning": "private affairs, personal matter |(vi) việc riêng, chuyện cá nhân"
       },
       {
         "example": "私案",
         "reading": "シアン",
-        "meaning": "private plan, one's own plan"
+        "meaning": "private plan, one's own plan |(vi) kế hoạch riêng, phương án cá nhân"
       },
       {
         "example": "無私",
         "reading": "ムシ",
-        "meaning": "unselfish, selfless, disinterested"
+        "meaning": "unselfish, selfless, disinterested |(vi) vô tư, không vị kỷ, không thiên vị"
       },
       {
         "example": "滅私",
         "reading": "メッシ",
-        "meaning": "selflessness, being unselfish"
+        "meaning": "selflessness, being unselfish |(vi) diệt trừ tư tâm, quên mình"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "私",
         "reading": "わたくし",
-        "meaning": "I, me, personal (affairs, etc.), private, selfishness, partiality, secrecy, confidentiality"
+        "meaning": "I, me, personal (affairs, etc.), private, selfishness, partiality, secrecy, confidentiality |(vi) tôi, việc cá nhân, riêng tư, tính ích kỷ, thiên vị, bí mật, kín đáo"
       },
       {
         "example": "私立",
         "reading": "しりつ",
-        "meaning": "private (establishment)"
+        "meaning": "private (establishment) |(vi) tư lập, thuộc về tư nhân"
       },
       {
         "example": "不肖私",
         "reading": "ふしょうわたくし",
-        "meaning": "I, me"
+        "meaning": "I, me |(vi) tôi (cách nói khiêm tốn)"
       },
       {
         "example": "私",
         "reading": "わたし",
-        "meaning": "I, me"
+        "meaning": "I, me |(vi) tôi"
       },
       {
         "example": "私たち",
         "reading": "わたしたち",
-        "meaning": "we, us"
+        "meaning": "we, us |(vi) chúng tôi"
       }
     ],
     "radical": {
       "symbol": "禾",
-      "meaning": "grain"
+      "meaning": "grain |(vi) Hòa (lúa, cây ngũ cốc)"
     },
     "parts": [
       "厶",

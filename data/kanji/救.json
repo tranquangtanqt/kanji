@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "suku, sukuu",
-    "meaning": "save, rescue, aid",
+    "meaning": "save, rescue, aid |(vi) cứu, cứu giúp, viện trợ",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "救急車（きゅうきゅうしゃ）",
         "meaning": {
-          "english": "ambulance"
+          "english": "ambulance |(vi) xe cứu thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-suku(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "救世主（きゅうせいしゅ）",
         "meaning": {
-          "english": "savior, messiah, rescuer"
+          "english": "savior, messiah, rescuer |(vi) đấng cứu thế, cứu tinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-suku(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "救世軍（きゅうせいぐん）",
         "meaning": {
-          "english": "Salvation Army"
+          "english": "Salvation Army |(vi) Đội quân Cứu tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-suku(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "救命ボート（きゅうめいボート）",
         "meaning": {
-          "english": "lifeboat"
+          "english": "lifeboat |(vi) xuồng cứu sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-suku(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "救援活動（きゅうえんかつどう）",
         "meaning": {
-          "english": "rescue operation"
+          "english": "rescue operation |(vi) hoạt động cứu trợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-suku(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "救出する（きゅうしゅつする）",
         "meaning": {
-          "english": "rescue [v.t.]"
+          "english": "rescue [v.t.] |(vi) giải cứu [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-suku(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "救助する（きゅうじょする）",
         "meaning": {
-          "english": "aid, rescue [v.t.]"
+          "english": "aid, rescue [v.t.] |(vi) hỗ trợ, cứu giúp [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-suku(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "救済する（きゅうさいする）",
         "meaning": {
-          "english": "aid, rescue, salvage, help"
+          "english": "aid, rescue, salvage, help |(vi) cứu trợ, cứu tế, cứu giúp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-suku(u)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "救う（すくう）",
         "meaning": {
-          "english": "rescue, help"
+          "english": "rescue, help |(vi) cứu, giúp đỡ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-suku(u)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "救い主（すくいぬし）",
         "meaning": {
-          "english": "messiah"
+          "english": "messiah |(vi) đấng cứu thế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu-suku(u)_06_j.opus",
@@ -224,7 +224,7 @@
     "kanji": {
       "character": "救",
       "meaning": {
-        "english": "save, rescue, aid"
+        "english": "save, rescue, aid |(vi) cứu, cứu giúp, viện trợ"
       },
       "strokes": {
         "count": 11,
@@ -284,7 +284,7 @@
         "romaji": "bokuzukuri"
       },
       "meaning": {
-        "english": "activity, to strike, hit"
+        "english": "activity, to strike, hit |(vi) Phộc (đánh nhẹ, gõ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/bokuzukuri0.svg",
@@ -305,7 +305,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "799",
     "strokeCount": 11,
-    "meaning": "salvation, save, help, rescue, reclaim",
+    "meaning": "salvation, save, help, rescue, reclaim |(vi) sự cứu rỗi, cứu, giúp đỡ, giải cứu, cải tạo |(hv) Cứu",
     "kunyomi": [
       "すく.う"
     ],
@@ -316,24 +316,24 @@
       {
         "example": "救急",
         "reading": "キュウキュウ",
-        "meaning": "first-aid, emergency (aid)"
+        "meaning": "first-aid, emergency (aid) |(vi) sơ cứu, cấp cứu"
       },
       {
         "example": "救援",
         "reading": "キュウエン",
-        "meaning": "relief, rescue"
+        "meaning": "relief, rescue |(vi) sự cứu trợ, giải cứu"
       },
       {
         "example": "匡救",
         "reading": "キョウキュウ",
-        "meaning": "delivering from sin, succor, succour"
+        "meaning": "delivering from sin, succor, succour |(vi) cứu rỗi khỏi tội lỗi, cứu giúp"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "救う",
         "reading": "すくう",
-        "meaning": "to rescue from, to help out of, to save"
+        "meaning": "to rescue from, to help out of, to save |(vi) cứu khỏi, giúp thoát khỏi, cứu"
       }
     ],
     "radical": {
@@ -341,7 +341,7 @@
       "forms": [
         "攵"
       ],
-      "meaning": "rap"
+      "meaning": "rap |(vi) Phộc (đánh nhẹ, gõ)"
     },
     "parts": [
       "丶",

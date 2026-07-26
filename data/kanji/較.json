@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "compare",
+    "meaning": "compare |(vi) so sánh",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "較差（かくさ）",
         "meaning": {
-          "english": "range [n.]"
+          "english": "range [n.] |(vi) biên độ, khoảng chênh lệch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hi)kaku(suru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "比較的（ひかくてき）",
         "meaning": {
-          "english": "comparatively, relatively"
+          "english": "comparatively, relatively |(vi) tương đối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hi)kaku(suru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "比較する（ひかくする）",
         "meaning": {
-          "english": "compare"
+          "english": "compare |(vi) so sánh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hi)kaku(suru)_06_c.opus",
@@ -142,7 +142,7 @@
     "kanji": {
       "character": "較",
       "meaning": {
-        "english": "compare"
+        "english": "compare |(vi) so sánh"
       },
       "strokes": {
         "count": 13,
@@ -206,7 +206,7 @@
         "romaji": "kurumahen"
       },
       "meaning": {
-        "english": "vehicle, wheel, car"
+        "english": "vehicle, wheel, car |(vi) Xa (xe, bánh xe)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kurumahen0.svg",
@@ -227,7 +227,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1172",
     "strokeCount": 13,
-    "meaning": "contrast, compare",
+    "meaning": "contrast, compare |(vi) đối chiếu, so sánh |(hv) Giảo",
     "kunyomi": [
       "くら.べる"
     ],
@@ -239,44 +239,44 @@
       {
         "example": "較差",
         "reading": "カクサ",
-        "meaning": "range"
+        "meaning": "range |(vi) biên độ, khoảng chênh lệch"
       },
       {
         "example": "較優位論",
         "reading": "カクユウイロン",
-        "meaning": "theory of comparative advantage"
+        "meaning": "theory of comparative advantage |(vi) lý thuyết lợi thế so sánh"
       },
       {
         "example": "国際比較",
         "reading": "コクサイヒカク",
-        "meaning": "international comparison, country-by-country comparison"
+        "meaning": "international comparison, country-by-country comparison |(vi) so sánh quốc tế, so sánh giữa các nước"
       },
       {
         "example": "直接比較",
         "reading": "チョクセツヒカク",
-        "meaning": "direct comparison"
+        "meaning": "direct comparison |(vi) so sánh trực tiếp"
       },
       {
         "example": "校正",
         "reading": "コウセイ",
-        "meaning": "proofreading, calibration"
+        "meaning": "proofreading, calibration |(vi) hiệu đính, hiệu chuẩn"
       },
       {
         "example": "較量",
         "reading": "コウリョウ",
-        "meaning": "comparison"
+        "meaning": "comparison |(vi) sự so sánh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "比べる",
         "reading": "くらべる",
-        "meaning": "to compare, to make a comparison (between), to compete (on), to measure (one's strength, ability, etc. against another's)"
+        "meaning": "to compare, to make a comparison (between), to compete (on), to measure (one's strength, ability, etc. against another's) |(vi) so sánh, đối chiếu, thi đua (về), đo lường (sức mạnh, khả năng... với người khác)"
       }
     ],
     "radical": {
       "symbol": "車",
-      "meaning": "cart, car"
+      "meaning": "cart, car |(vi) Xa (xe, bánh xe)"
     },
     "parts": [
       "亠",

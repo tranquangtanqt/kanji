@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "introduce",
+    "meaning": "introduce |(vi) giới thiệu",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "紹介状（しょうかいじょう）",
         "meaning": {
-          "english": "letter of introduction"
+          "english": "letter of introduction |(vi) thư giới thiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(kaisuru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "自己紹介（じこしょうかい）",
         "meaning": {
-          "english": "self-introduction"
+          "english": "self-introduction |(vi) tự giới thiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(kaisuru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "紹介する（しょうかいする）",
         "meaning": {
-          "english": "introduce"
+          "english": "introduce |(vi) giới thiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(kaisuru)_06_c.opus",
@@ -159,7 +159,7 @@
     "kanji": {
       "character": "紹",
       "meaning": {
-        "english": "introduce"
+        "english": "introduce |(vi) giới thiệu"
       },
       "strokes": {
         "count": 11,
@@ -219,7 +219,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -240,7 +240,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "963",
     "strokeCount": 11,
-    "meaning": "introduce, inherit, help",
+    "meaning": "introduce, inherit, help |(vi) giới thiệu, kế thừa, giúp đỡ |(hv) Thiệu",
     "kunyomi": [],
     "onyomi": [
       "ショウ"
@@ -249,12 +249,12 @@
       {
         "example": "紹介",
         "reading": "ショウカイ",
-        "meaning": "introduction, presentation, referral, showcase (of a product)"
+        "meaning": "introduction, presentation, referral, showcase (of a product) |(vi) giới thiệu, trình bày, tiến cử, giới thiệu (sản phẩm)"
       },
       {
         "example": "紹介者",
         "reading": "ショウカイシャ",
-        "meaning": "person who introduces someone, introducer"
+        "meaning": "person who introduces someone, introducer |(vi) người giới thiệu"
       }
     ],
     "kunyomiExamples": [],
@@ -263,7 +263,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi)"
     },
     "parts": [
       "刀",

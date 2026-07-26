@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "suna",
-    "meaning": "sand",
+    "meaning": "sand |(vi) cát",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "砂漠（さばく）",
         "meaning": {
-          "english": "desert"
+          "english": "desert |(vi) sa mạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suna_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "砂丘（さきゅう）",
         "meaning": {
-          "english": "sand dune, sand hill"
+          "english": "sand dune, sand hill |(vi) đồi cát, cồn cát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suna_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "砂州（さす）",
         "meaning": {
-          "english": "reef, sandbar, sandbank"
+          "english": "reef, sandbar, sandbank |(vi) bãi cát ngầm, doi cát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suna_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "砂糖（さとう）",
         "meaning": {
-          "english": "sugar"
+          "english": "sugar |(vi) đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suna_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "砂金（さきん）",
         "meaning": {
-          "english": "gold dust"
+          "english": "gold dust |(vi) vàng sa khoáng, bụi vàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suna_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "土砂（どしゃ）",
         "meaning": {
-          "english": "earth and sand"
+          "english": "earth and sand |(vi) đất cát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suna_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "土砂崩れ（どしゃくずれ）",
         "meaning": {
-          "english": "landslide"
+          "english": "landslide |(vi) lở đất, sạt lở đất đá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suna_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "砂（すな）",
         "meaning": {
-          "english": "sand"
+          "english": "sand |(vi) cát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suna_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "砂地（すなち）",
         "meaning": {
-          "english": "sandy soil"
+          "english": "sandy soil |(vi) đất cát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suna_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "砂場（すなば）",
         "meaning": {
-          "english": "sand pit"
+          "english": "sand pit |(vi) hố cát, sân cát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suna_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "砂浜（すなはま）",
         "meaning": {
-          "english": "sandy beach"
+          "english": "sandy beach |(vi) bãi biển cát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suna_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "*砂利（じゃり）",
         "meaning": {
-          "english": "gravel"
+          "english": "gravel |(vi) sỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suna_06_l.opus",
@@ -231,7 +231,7 @@
     "kanji": {
       "character": "砂",
       "meaning": {
-        "english": "sand"
+        "english": "sand |(vi) cát"
       },
       "strokes": {
         "count": 9,
@@ -287,7 +287,7 @@
         "romaji": "ishihen"
       },
       "meaning": {
-        "english": "stone"
+        "english": "stone |(vi) Thạch (đá)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ishihen0.svg",
@@ -308,7 +308,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1146",
     "strokeCount": 9,
-    "meaning": "sand",
+    "meaning": "sand |(vi) cát |(hv) Sa",
     "kunyomi": [
       "すな"
     ],
@@ -320,69 +320,69 @@
       {
         "example": "砂漠",
         "reading": "サバク",
-        "meaning": "desert"
+        "meaning": "desert |(vi) sa mạc"
       },
       {
         "example": "砂糖",
         "reading": "サトウ",
-        "meaning": "sugar"
+        "meaning": "sugar |(vi) đường"
       },
       {
         "example": "土砂",
         "reading": "ドシャ",
-        "meaning": "sediment, earth and sand"
+        "meaning": "sediment, earth and sand |(vi) đất cát, trầm tích"
       },
       {
         "example": "流砂",
         "reading": "リュウサ",
-        "meaning": "quicksand"
+        "meaning": "quicksand |(vi) cát lún, cát chảy"
       },
       {
         "example": "砂岩",
         "reading": "サガン",
-        "meaning": "sandstone"
+        "meaning": "sandstone |(vi) đá cát, sa thạch"
       },
       {
         "example": "砂丘",
         "reading": "サキュウ",
-        "meaning": "sand dune, sand hill"
+        "meaning": "sand dune, sand hill |(vi) đồi cát, cồn cát"
       },
       {
         "example": "土砂",
         "reading": "ドシャ",
-        "meaning": "sediment, earth and sand"
+        "meaning": "sediment, earth and sand |(vi) đất cát, trầm tích"
       },
       {
         "example": "流砂",
         "reading": "リュウサ",
-        "meaning": "quicksand"
+        "meaning": "quicksand |(vi) cát lún, cát chảy"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "砂",
         "reading": "すな",
-        "meaning": "sand, grit"
+        "meaning": "sand, grit |(vi) cát, sạn"
       },
       {
         "example": "砂浜",
         "reading": "すなはま",
-        "meaning": "sandy beach"
+        "meaning": "sandy beach |(vi) bãi biển cát"
       },
       {
         "example": "鳴き砂",
         "reading": "なきすな",
-        "meaning": "singing sand (which produces sound when stepped on), whistling sand, squeaking sand, barking sand"
+        "meaning": "singing sand (which produces sound when stepped on), whistling sand, squeaking sand, barking sand |(vi) cát biết hát, cát rít khi giẫm lên"
       },
       {
         "example": "猫砂",
         "reading": "ねこすな",
-        "meaning": "cat litter, kitty litter"
+        "meaning": "cat litter, kitty litter |(vi) cát vệ sinh cho mèo"
       }
     ],
     "radical": {
       "symbol": "石",
-      "meaning": "stone"
+      "meaning": "stone |(vi) Thạch (đá)"
     },
     "parts": [
       "ノ",

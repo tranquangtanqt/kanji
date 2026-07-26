@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ichi",
-    "meaning": "city, market",
+    "meaning": "city, market |(vi) thành phố, chợ",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "横浜市（よこはまし）",
         "meaning": {
-          "english": "Yokohama city"
+          "english": "Yokohama city |(vi) thành phố Yokohama"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ichi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "都市（とし）",
         "meaning": {
-          "english": "city, urban area"
+          "english": "city, urban area |(vi) thành phố, khu đô thị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ichi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "市内（しない）",
         "meaning": {
-          "english": "(within a) city"
+          "english": "(within a) city |(vi) trong thành phố, nội thành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ichi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "市外（しがい）",
         "meaning": {
-          "english": "outside the city"
+          "english": "outside the city |(vi) ngoại thành, ngoài thành phố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ichi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "市民（しみん）",
         "meaning": {
-          "english": "citizen"
+          "english": "citizen |(vi) công dân, thị dân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ichi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "市長（しちょう）",
         "meaning": {
-          "english": "mayor"
+          "english": "mayor |(vi) thị trưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ichi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "市役所（しやくしょ）",
         "meaning": {
-          "english": "city hall"
+          "english": "city hall |(vi) tòa thị chính, ủy ban thành phố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ichi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "市場（しじょう/いちば）",
         "meaning": {
-          "english": "market (business) / market place"
+          "english": "market (business) / market place |(vi) thị trường (kinh doanh) / chợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ichi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "市（いち）",
         "meaning": {
-          "english": "market place"
+          "english": "market place |(vi) chợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ichi_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "競り市（せりいち）",
         "meaning": {
-          "english": "auction market"
+          "english": "auction market |(vi) chợ đấu giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ichi_06_j.opus",
@@ -273,7 +273,7 @@
     "kanji": {
       "character": "市",
       "meaning": {
-        "english": "city, market"
+        "english": "city, market |(vi) thành phố, chợ"
       },
       "strokes": {
         "count": 5,
@@ -321,7 +321,7 @@
         "romaji": "haba"
       },
       "meaning": {
-        "english": "cloth"
+        "english": "cloth |(vi) Cân (vải, khăn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/haba0.svg",
@@ -342,7 +342,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "42",
     "strokeCount": 5,
-    "meaning": "market, city, town",
+    "meaning": "market, city, town |(vi) chợ, thành phố, thị trấn |(hv) Thị",
     "kunyomi": [
       "いち"
     ],
@@ -353,49 +353,49 @@
       {
         "example": "市",
         "reading": "シ",
-        "meaning": "city"
+        "meaning": "city |(vi) thành phố"
       },
       {
         "example": "市営",
         "reading": "シエイ",
-        "meaning": "(under) municipal management (transport, housing, etc.), city facility management"
+        "meaning": "(under) municipal management (transport, housing, etc.), city facility management |(vi) do thành phố quản lý (giao thông, nhà ở...), công quản đô thị"
       },
       {
         "example": "同市",
         "reading": "ドウシ",
-        "meaning": "same city"
+        "meaning": "same city |(vi) cùng thành phố"
       },
       {
         "example": "田園都市",
         "reading": "デンエントシ",
-        "meaning": "garden city"
+        "meaning": "garden city |(vi) thành phố vườn, đô thị sinh thái"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "市",
         "reading": "いち",
-        "meaning": "market, fair"
+        "meaning": "market, fair |(vi) chợ, hội chợ"
       },
       {
         "example": "市中",
         "reading": "しちゅう",
-        "meaning": "in the city, in the community"
+        "meaning": "in the city, in the community |(vi) trong thành phố, trong cộng đồng"
       },
       {
         "example": "骨董市",
         "reading": "こっとういち",
-        "meaning": "antique market, flea market"
+        "meaning": "antique market, flea market |(vi) chợ đồ cổ, chợ trời"
       },
       {
         "example": "草市",
         "reading": "くさいち",
-        "meaning": "flower market during Obon, fair of plants and flowers (as offerings)"
+        "meaning": "flower market during Obon, fair of plants and flowers (as offerings) |(vi) chợ hoa dịp Obon, hội chợ cây hoa (dùng để cúng)"
       }
     ],
     "radical": {
       "symbol": "巾",
-      "meaning": "turban, scarf"
+      "meaning": "turban, scarf |(vi) Cân (khăn, vải)"
     },
     "parts": [
       "亠",

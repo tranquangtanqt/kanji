@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 4,
     "kunyomi": "su",
-    "meaning": "state",
+    "meaning": "state |(vi) bang, châu",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "州（しゅう）",
         "meaning": {
-          "english": "state"
+          "english": "state |(vi) bang, tiểu bang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ritsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "州立（しゅうりつ）",
         "meaning": {
-          "english": "state-run"
+          "english": "state-run |(vi) châu lập, do bang quản lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ritsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "州都（しゅうと）",
         "meaning": {
-          "english": "state capital"
+          "english": "state capital |(vi) châu đô, thủ phủ bang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ritsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "九州（きゅうしゅう）",
         "meaning": {
-          "english": "Kyushu"
+          "english": "Kyushu |(vi) Kyushu (Cửu Châu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ritsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "本州（ほんしゅう）",
         "meaning": {
-          "english": "Honshu"
+          "english": "Honshu |(vi) Honshu (Bản Châu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ritsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "イリノイ州（イリノイしゅう）",
         "meaning": {
-          "english": "state of Illinois"
+          "english": "state of Illinois |(vi) bang Illinois"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ritsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "三角州（さんかくす）",
         "meaning": {
-          "english": "delta"
+          "english": "delta |(vi) tam giác châu, đồng bằng châu thổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ritsu)_06_g.opus",
@@ -219,7 +219,7 @@
     "kanji": {
       "character": "州",
       "meaning": {
-        "english": "state"
+        "english": "state |(vi) bang, châu"
       },
       "strokes": {
         "count": 6,
@@ -269,7 +269,7 @@
         "romaji": "sanbongawa"
       },
       "meaning": {
-        "english": "river"
+        "english": "river |(vi) Xuyên (sông)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanbongawa0.svg",
@@ -290,7 +290,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "386",
     "strokeCount": 6,
-    "meaning": "state, province",
+    "meaning": "state, province |(vi) bang, châu, tỉnh |(hv) Châu",
     "kunyomi": [
       "す"
     ],
@@ -302,64 +302,64 @@
       {
         "example": "州",
         "reading": "シュウ",
-        "meaning": "state (of the US, Australia, India, Germany, etc.), province (e.g. of Canada), county (e.g. of the UK), region (e.g. of Italy), canton, oblast, continent, province (of Japan), province (of ancient China), prefecture, department, dear"
+        "meaning": "state (of the US, Australia, India, Germany, etc.), province (e.g. of Canada), county (e.g. of the UK), region (e.g. of Italy), canton, oblast, continent, province (of Japan), province (of ancient China), prefecture, department, dear |(vi) bang (của Mỹ, Úc, Ấn Độ, Đức...), tỉnh (như của Canada), hạt (như của Anh), vùng (như của Ý), bang (Thụy Sĩ), oblast, châu lục, châu (của Nhật xưa), châu (của Trung Hoa cổ), phủ, tỉnh, thân mến"
       },
       {
         "example": "州政府",
         "reading": "シュウセイフ",
-        "meaning": "state government"
+        "meaning": "state government |(vi) chính quyền bang"
       },
       {
         "example": "広州",
         "reading": "コウシュウ",
-        "meaning": "Guangzhou (China), Canton"
+        "meaning": "Guangzhou (China), Canton |(vi) Quảng Châu (Trung Quốc)"
       },
       {
         "example": "沿海州",
         "reading": "エンカイシュウ",
-        "meaning": "Primorskaya Oblast (Russia)"
+        "meaning": "Primorskaya Oblast (Russia) |(vi) Duyên Hải Châu (tỉnh Primorye, Nga)"
       },
       {
         "example": "州",
         "reading": "ス",
-        "meaning": "sandbank, sandbar"
+        "meaning": "sandbank, sandbar |(vi) bãi cát, doi cát"
       },
       {
         "example": "洲浜",
         "reading": "スハマ",
-        "meaning": "sandy beach, sandbar that projects into the ocean, particularly in a wavy form, designs and objects with a wavy pattern, sweet mochi cake"
+        "meaning": "sandy beach, sandbar that projects into the ocean, particularly in a wavy form, designs and objects with a wavy pattern, sweet mochi cake |(vi) bãi biển cát, doi cát nhô ra biển (nhất là dạng lượn sóng), họa tiết và đồ vật có hoa văn lượn sóng, bánh mochi ngọt suhama"
       },
       {
         "example": "白州",
         "reading": "シラス",
-        "meaning": "white sandbar, white sandbank, area in a garden or entrance of a house laid with white sand or pebbles, gravel separating a noh stage from the audience, court of law in the Edo period, in which the parties sat on white sand"
+        "meaning": "white sandbar, white sandbank, area in a garden or entrance of a house laid with white sand or pebbles, gravel separating a noh stage from the audience, court of law in the Edo period, in which the parties sat on white sand |(vi) bãi cát trắng, doi cát trắng, khoảnh sân vườn hay lối vào nhà rải cát trắng hoặc sỏi, dải sỏi ngăn sân khấu nō với khán giả, công đường thời Edo nơi các bên ngồi trên cát trắng"
       },
       {
         "example": "中州",
         "reading": "ナカス",
-        "meaning": "sandbank (in a river), sandbar"
+        "meaning": "sandbank (in a river), sandbar |(vi) cồn giữa sông, doi cát"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "州",
         "reading": "す",
-        "meaning": "sandbank, sandbar"
+        "meaning": "sandbank, sandbar |(vi) bãi cát, doi cát"
       },
       {
         "example": "洲浜",
         "reading": "すはま",
-        "meaning": "sandy beach, sandbar that projects into the ocean, particularly in a wavy form, designs and objects with a wavy pattern, sweet mochi cake"
+        "meaning": "sandy beach, sandbar that projects into the ocean, particularly in a wavy form, designs and objects with a wavy pattern, sweet mochi cake |(vi) bãi biển cát, doi cát nhô ra biển (nhất là dạng lượn sóng), họa tiết và đồ vật có hoa văn lượn sóng, bánh mochi ngọt suhama"
       },
       {
         "example": "白州",
         "reading": "しらす",
-        "meaning": "white sandbar, white sandbank, area in a garden or entrance of a house laid with white sand or pebbles, gravel separating a noh stage from the audience, court of law in the Edo period, in which the parties sat on white sand"
+        "meaning": "white sandbar, white sandbank, area in a garden or entrance of a house laid with white sand or pebbles, gravel separating a noh stage from the audience, court of law in the Edo period, in which the parties sat on white sand |(vi) bãi cát trắng, doi cát trắng, khoảnh sân vườn hay lối vào nhà rải cát trắng hoặc sỏi, dải sỏi ngăn sân khấu nō với khán giả, công đường thời Edo nơi các bên ngồi trên cát trắng"
       },
       {
         "example": "中州",
         "reading": "なかす",
-        "meaning": "sandbank (in a river), sandbar"
+        "meaning": "sandbank (in a river), sandbar |(vi) cồn giữa sông, doi cát"
       }
     ],
     "radical": {
@@ -368,7 +368,7 @@
         "川",
         "巜"
       ],
-      "meaning": "river"
+      "meaning": "river |(vi) Xuyên (sông)"
     },
     "parts": [
       "丶",

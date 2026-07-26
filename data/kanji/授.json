@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 6,
     "kunyomi": "sazu, sazukeru, sazukaru",
-    "meaning": "confer",
+    "meaning": "confer |(vi) trao, ban cho",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "授業（じゅぎょう）",
         "meaning": {
-          "english": "lesson, class"
+          "english": "lesson, class |(vi) tiết học, buổi học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sazu(karu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "授業料（じゅぎょうりょう）",
         "meaning": {
-          "english": "school fees, tuition"
+          "english": "school fees, tuition |(vi) học phí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sazu(karu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "授業中（じゅぎょうちゅう）",
         "meaning": {
-          "english": "while in class, during a class"
+          "english": "while in class, during a class |(vi) trong giờ học, đang trong tiết học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sazu(karu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "授与する（じゅよする）",
         "meaning": {
-          "english": "award"
+          "english": "award |(vi) trao tặng, ban tặng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sazu(karu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "教授（きょうじゅ）",
         "meaning": {
-          "english": "professor"
+          "english": "professor |(vi) giáo sư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sazu(karu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "授ける（さずける）",
         "meaning": {
-          "english": "grant [v.t.]"
+          "english": "grant [v.t.] |(vi) trao cho, ban cho [tha động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sazu(karu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "授かる（さずかる）",
         "meaning": {
-          "english": "be granted [v.i.]"
+          "english": "be granted [v.i.] |(vi) được ban cho, được trao [tự động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sazu(karu)_06_g.opus",
@@ -216,7 +216,7 @@
     "kanji": {
       "character": "授",
       "meaning": {
-        "english": "confer"
+        "english": "confer |(vi) trao, ban cho"
       },
       "strokes": {
         "count": 11,
@@ -276,7 +276,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -297,7 +297,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "535",
     "strokeCount": 11,
-    "meaning": "impart, instruct, grant, confer",
+    "meaning": "impart, instruct, grant, confer |(vi) truyền dạy, chỉ bảo, ban cho, trao tặng |(hv) Thụ",
     "kunyomi": [
       "さず.ける",
       "さず.かる"
@@ -309,34 +309,34 @@
       {
         "example": "授業料",
         "reading": "ジュギョウリョウ",
-        "meaning": "tuition fee, course fee"
+        "meaning": "tuition fee, course fee |(vi) học phí, tiền học"
       },
       {
         "example": "授業",
         "reading": "ジュギョウ",
-        "meaning": "lesson, class, teaching, instruction, classwork, schoolwork"
+        "meaning": "lesson, class, teaching, instruction, classwork, schoolwork |(vi) thụ nghiệp, tiết học, buổi học, việc giảng dạy, sự chỉ dẫn, bài trên lớp, bài vở"
       },
       {
         "example": "授受",
         "reading": "ジュジュ",
-        "meaning": "giving and receiving, transferring, transfer, changing hands"
+        "meaning": "giving and receiving, transferring, transfer, changing hands |(vi) thụ thụ, sự trao và nhận, sự chuyển giao, sự sang tay"
       },
       {
         "example": "伝授",
         "reading": "デンジュ",
-        "meaning": "(giving) instruction (esp. in the secrets of an art, discipline, etc.), initiation, teaching, passing on, imparting"
+        "meaning": "(giving) instruction (esp. in the secrets of an art, discipline, etc.), initiation, teaching, passing on, imparting |(vi) truyền thụ, sự chỉ dạy (nhất là bí quyết của một môn nghệ thuật, môn phái...), lễ nhập môn, sự dạy bảo, sự truyền lại"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "授ける",
         "reading": "さずける",
-        "meaning": "to grant, to give, to confer, to award, to teach, to instruct, to impart (knowledge)"
+        "meaning": "to grant, to give, to confer, to award, to teach, to instruct, to impart (knowledge) |(vi) ban cho, trao cho, phong tặng, trao tặng, dạy, chỉ bảo, truyền thụ (kiến thức)"
       },
       {
         "example": "授かる",
         "reading": "さずかる",
-        "meaning": "to be awarded (e.g. a prize), to be given an award, to receive (e.g. a title), to be gifted or endowed (e.g. with a talent), to be blessed (e.g. with a child), to be initiated (e.g. into a secret)"
+        "meaning": "to be awarded (e.g. a prize), to be given an award, to receive (e.g. a title), to be gifted or endowed (e.g. with a talent), to be blessed (e.g. with a child), to be initiated (e.g. into a secret) |(vi) được trao (giải thưởng...), được ban thưởng, được nhận (danh hiệu...), được trời phú (tài năng...), được ban phúc (có con...), được truyền cho (bí quyết...)"
       }
     ],
     "radical": {
@@ -344,7 +344,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "冖",

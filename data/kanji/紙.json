@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kami",
-    "meaning": "paper",
+    "meaning": "paper |(vi) giấy",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "白紙（はくし）",
         "meaning": {
-          "english": "white paper"
+          "english": "white paper |(vi) giấy trắng, giấy trắng tinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "用紙（ようし）",
         "meaning": {
-          "english": "blank form"
+          "english": "blank form |(vi) biểu mẫu, giấy dùng để viết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "表紙（ひょうし）",
         "meaning": {
-          "english": "front cover"
+          "english": "front cover |(vi) bìa sách, trang bìa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "新聞紙（しんぶんし）",
         "meaning": {
-          "english": "newspaper"
+          "english": "newspaper |(vi) báo, giấy báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "紙（かみ）",
         "meaning": {
-          "english": "paper"
+          "english": "paper |(vi) giấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "手紙（てがみ）",
         "meaning": {
-          "english": "letter"
+          "english": "letter |(vi) thư, lá thư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_f.opus",
@@ -224,7 +224,7 @@
     "kanji": {
       "character": "紙",
       "meaning": {
-        "english": "paper"
+        "english": "paper |(vi) giấy"
       },
       "strokes": {
         "count": 10,
@@ -282,7 +282,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -303,7 +303,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "559",
     "strokeCount": 10,
-    "meaning": "paper",
+    "meaning": "paper |(vi) giấy |(hv) Chỉ",
     "kunyomi": [
       "かみ"
     ],
@@ -314,44 +314,44 @@
       {
         "example": "紙",
         "reading": "シ",
-        "meaning": "newspaper, paper, counter for newspapers"
+        "meaning": "newspaper, paper, counter for newspapers |(vi) báo, giấy, lượng từ đếm tờ báo"
       },
       {
         "example": "紙上",
         "reading": "シジョウ",
-        "meaning": "on paper, in the newspapers, in a letter"
+        "meaning": "on paper, in the newspapers, in a letter |(vi) trên giấy, trên báo, trong thư"
       },
       {
         "example": "原稿用紙",
         "reading": "ゲンコウヨウシ",
-        "meaning": "Japanese writing paper (lined with a square grid, one square per character), manuscript paper"
+        "meaning": "Japanese writing paper (lined with a square grid, one square per character), manuscript paper |(vi) giấy viết bản thảo (kẻ ô vuông), giấy nguyên cảo"
       },
       {
         "example": "製紙",
         "reading": "セイシ",
-        "meaning": "papermaking, paper manufacture"
+        "meaning": "papermaking, paper manufacture |(vi) nghề làm giấy, sản xuất giấy"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "紙",
         "reading": "かみ",
-        "meaning": "paper"
+        "meaning": "paper |(vi) giấy"
       },
       {
         "example": "紙芝居",
         "reading": "かみしばい",
-        "meaning": "kamishibai, storytelling with pictures, form of Japanese street theater and storytelling (popular from the 1930s to the 1950s)"
+        "meaning": "kamishibai, storytelling with pictures, form of Japanese street theater and storytelling (popular from the 1930s to the 1950s) |(vi) kamishibai, kịch giấy kể chuyện bằng tranh"
       },
       {
         "example": "インディア紙",
         "reading": "インディアかみ",
-        "meaning": "India paper"
+        "meaning": "India paper |(vi) giấy Ấn Độ (giấy in mỏng)"
       },
       {
         "example": "頸上",
         "reading": "くびかみ",
-        "meaning": "neckband, round upright collar (on some traditional Japanese clothing)"
+        "meaning": "neckband, round upright collar (on some traditional Japanese clothing) |(vi) cổ áo dựng tròn (trên trang phục truyền thống Nhật Bản)"
       }
     ],
     "radical": {
@@ -359,7 +359,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi)"
     },
     "parts": [
       "小",

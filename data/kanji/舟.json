@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "fune, funa",
-    "meaning": "small boat, ship",
+    "meaning": "small boat, ship |(vi) thuyền nhỏ, tàu",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "舟航（しゅうこう）",
         "meaning": {
-          "english": "boating, sailing"
+          "english": "boating, sailing |(vi) đi thuyền, chèo thuyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-fune_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "呉越同舟（ごえつどうしゅう）",
         "meaning": {
-          "english": "bitter enemies in the same boat"
+          "english": "bitter enemies in the same boat |(vi) kẻ thù chung thuyền (đồng chu cộng tế)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-fune_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "舟（ふね）",
         "meaning": {
-          "english": "ship, boat, watercraft"
+          "english": "ship, boat, watercraft |(vi) thuyền, tàu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-fune_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "釣り舟（つりぶね）",
         "meaning": {
-          "english": "fishing boat"
+          "english": "fishing boat |(vi) thuyền câu cá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-fune_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "舟大工（ふなだいく）",
         "meaning": {
-          "english": "shipwright"
+          "english": "shipwright |(vi) thợ đóng thuyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-fune_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "舟着き場（ふなつきば）",
         "meaning": {
-          "english": "wharf"
+          "english": "wharf |(vi) bến thuyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-fune_06_f.opus",
@@ -158,7 +158,7 @@
     "kanji": {
       "character": "舟",
       "meaning": {
-        "english": "small boat, ship"
+        "english": "small boat, ship |(vi) thuyền nhỏ, tàu"
       },
       "strokes": {
         "count": 6,
@@ -208,7 +208,7 @@
         "romaji": "fune"
       },
       "meaning": {
-        "english": "ship, boat"
+        "english": "ship, boat |(vi) Chu (thuyền)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/fune0.svg",
@@ -229,7 +229,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1786",
     "strokeCount": 6,
-    "meaning": "boat, ship",
+    "meaning": "boat, ship |(vi) thuyền, tàu |(hv) Chu",
     "kunyomi": [
       "ふね",
       "ふな-",
@@ -242,49 +242,49 @@
       {
         "example": "舟艇",
         "reading": "シュウテイ",
-        "meaning": "boat, watercraft"
+        "meaning": "boat, watercraft |(vi) thuyền, tàu"
       },
       {
         "example": "舟橋",
         "reading": "フナバシ",
-        "meaning": "pontoon bridge"
+        "meaning": "pontoon bridge |(vi) cầu phao"
       },
       {
         "example": "軽舟",
         "reading": "ケイシュウ",
-        "meaning": "light boat, skiff"
+        "meaning": "light boat, skiff |(vi) thuyền nhẹ, xuồng"
       },
       {
         "example": "同舟",
         "reading": "ドウシュウ",
-        "meaning": "shipmates, fellow passengers"
+        "meaning": "shipmates, fellow passengers |(vi) cùng thuyền, hành khách đi cùng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "船",
         "reading": "ふね",
-        "meaning": "ship, boat, watercraft, vessel, seaplane, tank, tub, vat, trough, counter for boat-shaped containers (e.g. of sashimi)"
+        "meaning": "ship, boat, watercraft, vessel, seaplane, tank, tub, vat, trough, counter for boat-shaped containers (e.g. of sashimi) |(vi) thuyền, tàu, thủy phi cơ, xe tăng, thùng, bồn, lượng từ đếm khay hình thuyền"
       },
       {
         "example": "船貝",
         "reading": "ふねがい",
-        "meaning": "Arca avellana (species of ark shell)"
+        "meaning": "Arca avellana (species of ark shell) |(vi) loài sò hình thuyền (Arca avellana)"
       },
       {
         "example": "釣り船",
         "reading": "つりぶね",
-        "meaning": "fishing boat, boat-shaped hanging flower vase"
+        "meaning": "fishing boat, boat-shaped hanging flower vase |(vi) thuyền câu cá, bình hoa treo hình thuyền"
       },
       {
         "example": "浮舟",
         "reading": "うきふね",
-        "meaning": "floating boat"
+        "meaning": "floating boat |(vi) thuyền trôi nổi"
       }
     ],
     "radical": {
       "symbol": "舟",
-      "meaning": "boat"
+      "meaning": "boat |(vi) Chu (thuyền)"
     },
     "parts": [
       "舟"

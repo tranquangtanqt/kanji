@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "minato",
-    "meaning": "port, harbor",
+    "meaning": "port, harbor |(vi) cảng, bến tàu",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "港湾（こうわん）",
         "meaning": {
-          "english": "harbors and ports"
+          "english": "harbors and ports |(vi) bến cảng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-minato_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "港内（こうない）",
         "meaning": {
-          "english": "inside a harbor"
+          "english": "inside a harbor |(vi) trong cảng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-minato_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "空港（くうこう）",
         "meaning": {
-          "english": "airport"
+          "english": "airport |(vi) sân bay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-minato_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "漁港（ぎょこう）",
         "meaning": {
-          "english": "fishing harbor"
+          "english": "fishing harbor |(vi) cảng cá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-minato_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "貿易港（ぼうえきこう）",
         "meaning": {
-          "english": "trade port"
+          "english": "trade port |(vi) cảng thương mại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-minato_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "寄港する（きこうする）",
         "meaning": {
-          "english": "call at port"
+          "english": "call at port |(vi) ghé cảng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-minato_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "港（みなと）",
         "meaning": {
-          "english": "harbor, port"
+          "english": "harbor, port |(vi) cảng, bến tàu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-minato_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "港町（みなとまち）",
         "meaning": {
-          "english": "port city"
+          "english": "port city |(vi) thành phố cảng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-minato_06_h.opus",
@@ -241,7 +241,7 @@
     "kanji": {
       "character": "港",
       "meaning": {
-        "english": "port, harbor"
+        "english": "port, harbor |(vi) cảng, bến tàu"
       },
       "strokes": {
         "count": 12,
@@ -303,7 +303,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -324,7 +324,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "495",
     "strokeCount": 12,
-    "meaning": "harbor",
+    "meaning": "harbor |(vi) cảng, bến tàu |(hv) Cảng",
     "kunyomi": [
       "みなと"
     ],
@@ -335,34 +335,34 @@
       {
         "example": "港",
         "reading": "コウ",
-        "meaning": "harbour"
+        "meaning": "harbour |(vi) bến cảng"
       },
       {
         "example": "港内",
         "reading": "コウナイ",
-        "meaning": "inside the harbour, inside the harbor"
+        "meaning": "inside the harbour, inside the harbor |(vi) trong cảng"
       },
       {
         "example": "漁港",
         "reading": "ギョコウ",
-        "meaning": "fishing harbour, fishing harbor"
+        "meaning": "fishing harbour, fishing harbor |(vi) cảng cá"
       },
       {
         "example": "海港",
         "reading": "カイコウ",
-        "meaning": "port, seaport"
+        "meaning": "port, seaport |(vi) cảng biển"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "港",
         "reading": "みなと",
-        "meaning": "harbour, harbor, port"
+        "meaning": "harbour, harbor, port |(vi) cảng, bến tàu"
       },
       {
         "example": "港区",
         "reading": "みなとく",
-        "meaning": "Minato City (special ward of Tokyo), Minato Ward (Osaka), Minato Ward (Nagoya)"
+        "meaning": "Minato City (special ward of Tokyo), Minato Ward (Osaka), Minato Ward (Nagoya) |(vi) khu Minato (đặc khu ở Tokyo), quận Minato (Osaka), quận Minato (Nagoya)"
       }
     ],
     "radical": {
@@ -371,7 +371,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "ハ",

@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "tsuku, tsukuru, tsukuri",
-    "meaning": "make, work",
+    "meaning": "make, work |(vi) làm, chế tạo",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "作成する（さくせいする）",
         "meaning": {
-          "english": "produce"
+          "english": "produce |(vi) chế tạo, soạn thảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "試作する（しさくする）",
         "meaning": {
-          "english": "make a prototype"
+          "english": "make a prototype |(vi) làm thử, chế tạo thử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "作戦（さくせん）",
         "meaning": {
-          "english": "strategy"
+          "english": "strategy |(vi) chiến lược, tác chiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "作曲家（さっきょくか）",
         "meaning": {
-          "english": "composer"
+          "english": "composer |(vi) nhà soạn nhạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "作曲する（さっきょくする）",
         "meaning": {
-          "english": "compose"
+          "english": "compose |(vi) sáng tác nhạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "操作する（そうさする）",
         "meaning": {
-          "english": "operate"
+          "english": "operate |(vi) vận hành, điều khiển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "作業する（さぎょうする）",
         "meaning": {
-          "english": "work [v.i.]"
+          "english": "work [v.i.] |(vi) làm việc, thao tác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "動作（どうさ）",
         "meaning": {
-          "english": "movements"
+          "english": "movements |(vi) động tác, cử động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "作る（つくる）",
         "meaning": {
-          "english": "make"
+          "english": "make |(vi) làm, chế tạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "形作る（かたちづくる）",
         "meaning": {
-          "english": "form [v.t.]"
+          "english": "form [v.t.] |(vi) tạo hình, hình thành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_j.opus",
@@ -276,7 +276,7 @@
     "kanji": {
       "character": "作",
       "meaning": {
-        "english": "make, work"
+        "english": "make, work |(vi) làm, chế tạo"
       },
       "strokes": {
         "count": 7,
@@ -328,7 +328,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người, bộ nhân đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -349,7 +349,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "103",
     "strokeCount": 7,
-    "meaning": "make, production, prepare, build",
+    "meaning": "make, production, prepare, build |(vi) làm, sản xuất, chuẩn bị, xây dựng |(hv) Tác",
     "kunyomi": [
       "つく.る",
       "つく.り",
@@ -363,59 +363,59 @@
       {
         "example": "作",
         "reading": "サク",
-        "meaning": "work (e.g. of art), piece, production, harvest, crop, yield, cultivation, tillage, technique"
+        "meaning": "work (e.g. of art), piece, production, harvest, crop, yield, cultivation, tillage, technique |(vi) tác phẩm, sản phẩm, mùa màng, thu hoạch, canh tác, kỹ thuật"
       },
       {
         "example": "作柄",
         "reading": "サクガラ",
-        "meaning": "crop (conditions), harvest, yield, quality (of an artistic work)"
+        "meaning": "crop (conditions), harvest, yield, quality (of an artistic work) |(vi) tình hình mùa màng, sản lượng thu hoạch, chất lượng (tác phẩm nghệ thuật)"
       },
       {
         "example": "大作",
         "reading": "タイサク",
-        "meaning": "large-scale work, voluminous work, monumental work, great work, masterpiece"
+        "meaning": "large-scale work, voluminous work, monumental work, great work, masterpiece |(vi) tác phẩm lớn, kiệt tác, tác phẩm đồ sộ"
       },
       {
         "example": "遺作",
         "reading": "イサク",
-        "meaning": "posthumous works"
+        "meaning": "posthumous works |(vi) di tác, tác phẩm để lại sau khi mất"
       },
       {
         "example": "作",
         "reading": "サク",
-        "meaning": "work (e.g. of art), piece, production, harvest, crop, yield, cultivation, tillage, technique"
+        "meaning": "work (e.g. of art), piece, production, harvest, crop, yield, cultivation, tillage, technique |(vi) tác phẩm, sản phẩm, mùa màng, thu hoạch, canh tác, kỹ thuật"
       },
       {
         "example": "作業",
         "reading": "サギョウ",
-        "meaning": "work, operation, task"
+        "meaning": "work, operation, task |(vi) công việc, thao tác, nhiệm vụ"
       },
       {
         "example": "所作",
         "reading": "ショサ",
-        "meaning": "conduct, behaviour, movements, gesture, one's carriage, performance (on stage, etc.), dance, acting, dance (in kabuki), dance play"
+        "meaning": "conduct, behaviour, movements, gesture, one's carriage, performance (on stage, etc.), dance, acting, dance (in kabuki), dance play |(vi) hành vi, cử chỉ, động tác, dáng điệu, biểu diễn (trên sân khấu...), múa, diễn xuất, múa (trong kabuki), vở múa"
       },
       {
         "example": "安定操作",
         "reading": "アンテイソウサ",
-        "meaning": "stabilizing (stock) transaction"
+        "meaning": "stabilizing (stock) transaction |(vi) giao dịch ổn định (cổ phiếu)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "作る",
         "reading": "つくる",
-        "meaning": "to make, to produce, to manufacture, to build, to construct, to prepare (food), to brew (alcohol), to raise, to grow, to cultivate, to train, to till, to draw up (a document), to make out, to prepare, to write, to create (an artistic work, etc.), to compose, to coin (a phrase), to organize, to organise, to establish, to found, to have (a child), to make up (one's face, etc.), to fabricate (an excuse, etc.), to give a (false) appearance, to feign (a smile, etc.), to put on a show of emotion, to form (a line, etc.), to set (a record), to commit (a sin, etc.)"
+        "meaning": "to make, to produce, to manufacture, to build, to construct, to prepare (food), to brew (alcohol), to raise, to grow, to cultivate, to train, to till, to draw up (a document), to make out, to prepare, to write, to create (an artistic work, etc.), to compose, to coin (a phrase), to organize, to organise, to establish, to found, to have (a child), to make up (one's face, etc.), to fabricate (an excuse, etc.), to give a (false) appearance, to feign (a smile, etc.), to put on a show of emotion, to form (a line, etc.), to set (a record), to commit (a sin, etc.) |(vi) làm, sản xuất, chế tạo, xây dựng, kiến tạo, chuẩn bị (thức ăn), ủ (rượu), nuôi, trồng, canh tác, huấn luyện, cày xới, soạn thảo (văn bản), lập ra, chuẩn bị, viết, sáng tác (tác phẩm nghệ thuật...), soạn nhạc, đặt ra (cụm từ), tổ chức, thành lập, sáng lập, có (con), trang điểm (mặt...), bịa đặt (lý do...), tạo vẻ giả, giả vờ (nụ cười...), tỏ vẻ (cảm xúc), xếp thành (hàng...), lập (kỷ lục), phạm (tội...)"
       },
       {
         "example": "作り",
         "reading": "つくり",
-        "meaning": "making, producing, manufacturing, building, construction, make, structure, appearance (attire, make-up, etc.), build, physique, sashimi, forced (smile, etc.)"
+        "meaning": "making, producing, manufacturing, building, construction, make, structure, appearance (attire, make-up, etc.), build, physique, sashimi, forced (smile, etc.) |(vi) sự chế tạo, sản xuất, xây dựng, cấu trúc, vẻ ngoài (trang phục, trang điểm...), vóc dáng, thể hình, sashimi (cá sống thái lát), (nụ cười) gượng gạo"
       },
       {
         "example": "作り上げる",
         "reading": "つくりあげる",
-        "meaning": "to build up, to complete, to construct, to create, to put together, to make up, to fabricate, to invent, to cook up"
+        "meaning": "to build up, to complete, to construct, to create, to put together, to make up, to fabricate, to invent, to cook up |(vi) xây dựng nên, hoàn thành, kiến tạo, sáng tạo, ghép lại, bịa ra, sáng chế, dựng chuyện"
       }
     ],
     "radical": {
@@ -423,7 +423,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "ノ",

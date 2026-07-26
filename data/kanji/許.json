@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 2,
     "kunyomi": "yuru, yurusu, yurushi",
-    "meaning": "permit, allow",
+    "meaning": "permit, allow |(vi) cho phép, chấp thuận",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "免許（めんきょ）",
         "meaning": {
-          "english": "license [n.]"
+          "english": "license [n.] |(vi) giấy phép [danh từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-yuru(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "特許（とっきょ）",
         "meaning": {
-          "english": "patent [n.]"
+          "english": "patent [n.] |(vi) bằng sáng chế [danh từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-yuru(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "許可する（きょかする）",
         "meaning": {
-          "english": "approve, permit, admit"
+          "english": "approve, permit, admit |(vi) phê duyệt, cho phép, chấp nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-yuru(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "許す（ゆるす）",
         "meaning": {
-          "english": "allow, forgive, permit, admit"
+          "english": "allow, forgive, permit, admit |(vi) cho phép, tha thứ, chấp thuận, chấp nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-yuru(su)_06_d.opus",
@@ -171,7 +171,7 @@
     "kanji": {
       "character": "許",
       "meaning": {
-        "english": "permit, allow"
+        "english": "permit, allow |(vi) cho phép, chấp thuận"
       },
       "strokes": {
         "count": 11,
@@ -231,7 +231,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -252,7 +252,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "720",
     "strokeCount": 11,
-    "meaning": "permit, approve",
+    "meaning": "permit, approve |(vi) cho phép, chấp thuận |(hv) Hứa",
     "kunyomi": [
       "ゆる.す",
       "もと"
@@ -264,49 +264,49 @@
       {
         "example": "許諾",
         "reading": "キョダク",
-        "meaning": "consent, assent, approval, permission"
+        "meaning": "consent, assent, approval, permission |(vi) sự đồng ý, tán thành, phê chuẩn, cho phép"
       },
       {
         "example": "許可",
         "reading": "キョカ",
-        "meaning": "permission, approval, authorization, license"
+        "meaning": "permission, approval, authorization, license |(vi) sự cho phép, phê duyệt, ủy quyền, giấy phép"
       },
       {
         "example": "特許",
         "reading": "トッキョ",
-        "meaning": "patent, special permission, license, licence, concession, charter"
+        "meaning": "patent, special permission, license, licence, concession, charter |(vi) bằng sáng chế, sự cho phép đặc biệt, giấy phép, nhượng quyền, đặc quyền"
       },
       {
         "example": "専売特許",
         "reading": "センバイトッキョ",
-        "meaning": "patent, one's specialty (party piece, etc.)"
+        "meaning": "patent, one's specialty (party piece, etc.) |(vi) bằng sáng chế, sở trường riêng (tiết mục riêng...)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "許す",
         "reading": "ゆるす",
-        "meaning": "to permit, to allow, to approve, to consent to, to forgive, to pardon, to excuse, to tolerate, to exempt (someone) from, to remit, to release, to let off, to acknowledge, to admit, to trust, to confide in, to let one's guard down, to give up (points in a game, distance in a race, etc.), to yield"
+        "meaning": "to permit, to allow, to approve, to consent to, to forgive, to pardon, to excuse, to tolerate, to exempt (someone) from, to remit, to release, to let off, to acknowledge, to admit, to trust, to confide in, to let one's guard down, to give up (points in a game, distance in a race, etc.), to yield |(vi) cho phép, chấp thuận, phê duyệt, đồng ý với, tha thứ, ân xá, tha lỗi, bao dung, miễn trừ (cho ai đó), miễn giảm, thả, tha, thừa nhận, tin tưởng, tâm sự, mất cảnh giác, nhường điểm (trong trò chơi, khoảng cách trong cuộc đua...), nhượng bộ"
       },
       {
         "example": "許すまじ",
         "reading": "ゆるすまじ",
-        "meaning": "unforgivable, inexcusable, unpardonable"
+        "meaning": "unforgivable, inexcusable, unpardonable |(vi) không thể tha thứ, không thể biện minh, không thể dung thứ"
       },
       {
         "example": "下",
         "reading": "もと",
-        "meaning": "under (guidance, supervision, rules, the law, etc.), under (a flag, the sun, etc.), beneath, with (e.g. one blow), on (the promise, condition, assumption, etc. that ...), in (e.g. the name of ...), (someone's) side, (someone's) location"
+        "meaning": "under (guidance, supervision, rules, the law, etc.), under (a flag, the sun, etc.), beneath, with (e.g. one blow), on (the promise, condition, assumption, etc. that ...), in (e.g. the name of ...), (someone's) side, (someone's) location |(vi) dưới (sự hướng dẫn, giám sát, quy tắc, luật pháp...), dưới (một lá cờ, mặt trời...), bên dưới, với (ví dụ một cú đánh), với điều kiện (giả định rằng...), dưới danh nghĩa (của...), bên cạnh (ai đó), nơi ở (của ai đó)"
       },
       {
         "example": "胸元",
         "reading": "むなもと",
-        "meaning": "breast, chest, pit of the stomach, solar plexus, epigastrium"
+        "meaning": "breast, chest, pit of the stomach, solar plexus, epigastrium |(vi) ngực, lồng ngực, vùng thượng vị, đám rối thần kinh mặt trời, vùng thượng vị"
       },
       {
         "example": "此処許",
         "reading": "ここもと",
-        "meaning": "here, this area, around here, I, me"
+        "meaning": "here, this area, around here, I, me |(vi) ở đây, khu vực này, quanh đây, tôi"
       }
     ],
     "radical": {
@@ -314,7 +314,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "ノ",

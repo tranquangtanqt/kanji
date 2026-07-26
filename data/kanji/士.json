@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "military man, profession suffix",
+    "meaning": "military man, profession suffix |(vi) quân nhân, hậu tố chỉ nghề nghiệp",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "士官（しかん）",
         "meaning": {
-          "english": "officer"
+          "english": "officer |(vi) sĩ quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(riki)shi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "士農工商（しのうこうしょう）",
         "meaning": {
-          "english": "feudal hierarchy"
+          "english": "feudal hierarchy |(vi) sĩ nông công thương (thứ bậc phong kiến)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(riki)shi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "兵士（へいし）",
         "meaning": {
-          "english": "soldier"
+          "english": "soldier |(vi) binh sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(riki)shi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "騎士（きし）",
         "meaning": {
-          "english": "knight"
+          "english": "knight |(vi) kỵ sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(riki)shi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "武士（ぶし）",
         "meaning": {
-          "english": "warrior, samurai"
+          "english": "warrior, samurai |(vi) võ sĩ, samurai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(riki)shi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "紳士（しんし）",
         "meaning": {
-          "english": "gentleman"
+          "english": "gentleman |(vi) quý ông, thân sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(riki)shi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "名士（めいし）",
         "meaning": {
-          "english": "celebrity, personage"
+          "english": "celebrity, personage |(vi) danh sĩ, người nổi tiếng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(riki)shi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "同士（どうし）",
         "meaning": {
-          "english": "fellow, companion, comrade"
+          "english": "fellow, companion, comrade |(vi) đồng chí, bạn đồng hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(riki)shi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "力士（りきし）",
         "meaning": {
-          "english": "sumo wrestler"
+          "english": "sumo wrestler |(vi) lực sĩ, đô vật sumo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(riki)shi_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "博士（はくし）",
         "meaning": {
-          "english": "PhD holder, learned man"
+          "english": "PhD holder, learned man |(vi) tiến sĩ, học giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(riki)shi_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "弁護士（べんごし）",
         "meaning": {
-          "english": "lawyer, attorney"
+          "english": "lawyer, attorney |(vi) luật sư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(riki)shi_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "*博士（はかせ）",
         "meaning": {
-          "english": "expert, learned man"
+          "english": "expert, learned man |(vi) chuyên gia, học giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(riki)shi_06_l.opus",
@@ -262,7 +262,7 @@
     "kanji": {
       "character": "士",
       "meaning": {
-        "english": "military man, profession suffix"
+        "english": "military man, profession suffix |(vi) quân nhân, hậu tố chỉ nghề nghiệp"
       },
       "strokes": {
         "count": 3,
@@ -306,7 +306,7 @@
         "romaji": "samurai"
       },
       "meaning": {
-        "english": "man, scholar, samurai"
+        "english": "man, scholar, samurai |(vi) Sĩ (kẻ sĩ, học giả, võ sĩ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/samurai0.svg",
@@ -327,7 +327,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "526",
     "strokeCount": 3,
-    "meaning": "gentleman, scholar, samurai, samurai radical (no. 33)",
+    "meaning": "gentleman, scholar, samurai, samurai radical (no. 33) |(vi) quý ông, học giả, võ sĩ, bộ thủ Sĩ (số 33) |(hv) Sĩ",
     "kunyomi": [
       "さむらい"
     ],
@@ -338,39 +338,39 @@
       {
         "example": "士",
         "reading": "シ",
-        "meaning": "man (esp. one who is well-respected), samurai, person (in a certain profession, esp. licensed), member"
+        "meaning": "man (esp. one who is well-respected), samurai, person (in a certain profession, esp. licensed), member |(vi) người được kính trọng, võ sĩ, người làm nghề có chứng chỉ, thành viên"
       },
       {
         "example": "士官",
         "reading": "シカン",
-        "meaning": "officer"
+        "meaning": "officer |(vi) sĩ quan"
       },
       {
         "example": "飛行士",
         "reading": "ヒコウシ",
-        "meaning": "pilot"
+        "meaning": "pilot |(vi) phi công"
       },
       {
         "example": "公認会計士",
         "reading": "コウニンカイケイシ",
-        "meaning": "certified public accountant"
+        "meaning": "certified public accountant |(vi) kế toán viên công chứng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "侍",
         "reading": "さむらい",
-        "meaning": "warrior (esp. of military retainers of daimyos in the Edo period), samurai, person with a strong backbone, person that does incredible things, person of considerable talent"
+        "meaning": "warrior (esp. of military retainers of daimyos in the Edo period), samurai, person with a strong backbone, person that does incredible things, person of considerable talent |(vi) võ sĩ (gia thần quân sự của lãnh chúa daimyo thời Edo), samurai, người có bản lĩnh vững vàng, người làm việc phi thường, người tài năng xuất chúng"
       },
       {
         "example": "二四六九士",
         "reading": "にしむくさむらい",
-        "meaning": "nishimuku samurai (mnemonic for remembering the months with fewer than 31 days)"
+        "meaning": "nishimuku samurai (mnemonic for remembering the months with fewer than 31 days) |(vi) câu ghi nhớ \"nishimuku samurai\" (dùng để nhớ các tháng có ít hơn 31 ngày)"
       }
     ],
     "radical": {
       "symbol": "士",
-      "meaning": "scholar, bachelor"
+      "meaning": "scholar, bachelor |(vi) Sĩ (học giả, kẻ sĩ)"
     },
     "parts": [
       "士"

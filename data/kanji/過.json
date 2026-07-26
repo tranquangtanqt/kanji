@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 5,
     "kunyomi": "su, sugiru, sugosu, ayama, ayamatsu, ayamachi",
-    "meaning": "pass by, exceed, spend (time), err",
+    "meaning": "pass by, exceed, spend (time), err |(vi) đi qua, vượt quá, dùng (thời gian), sai lầm",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "過去（かこ）",
         "meaning": {
-          "english": "the past, bygone days"
+          "english": "the past, bygone days |(vi) quá khứ, ngày đã qua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(giru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "過程（かてい）",
         "meaning": {
-          "english": "process [n.]"
+          "english": "process [n.] |(vi) quá trình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(giru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "過労死（かろうし）",
         "meaning": {
-          "english": "death from overwork"
+          "english": "death from overwork |(vi) chết do làm việc quá sức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(giru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "過渡期（かとき）",
         "meaning": {
-          "english": "transition period"
+          "english": "transition period |(vi) thời kỳ chuyển tiếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(giru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "過保護（かほご）",
         "meaning": {
-          "english": "excessive care"
+          "english": "excessive care |(vi) bảo bọc quá mức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(giru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "過剰な（かじょうな）",
         "meaning": {
-          "english": "excessive"
+          "english": "excessive |(vi) quá mức, thái quá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(giru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "経過する（けいかする）",
         "meaning": {
-          "english": "pass (time) [v.i.]"
+          "english": "pass (time) [v.i.] |(vi) trôi qua (thời gian)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(giru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "通過する（つうかする）",
         "meaning": {
-          "english": "pass through [v.t.]"
+          "english": "pass through [v.t.] |(vi) đi qua, thông qua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(giru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "過ぎる（すぎる）",
         "meaning": {
-          "english": "pass, go beyond [v.i.]"
+          "english": "pass, go beyond [v.i.] |(vi) đi qua, vượt quá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(giru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "過ごす（すごす）",
         "meaning": {
-          "english": "pass time [v.t.]"
+          "english": "pass time [v.t.] |(vi) trải qua (thời gian)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(giru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "過つ（あやまつ）",
         "meaning": {
-          "english": "err"
+          "english": "err |(vi) phạm sai lầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(giru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "過ち（あやまち）",
         "meaning": {
-          "english": "fault, error, indiscretion"
+          "english": "fault, error, indiscretion |(vi) lỗi lầm, sai sót"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(giru)_06_l.opus",
@@ -294,7 +294,7 @@
     "kanji": {
       "character": "過",
       "meaning": {
-        "english": "pass by, exceed, spend (time), err"
+        "english": "pass by, exceed, spend (time), err |(vi) đi qua, vượt quá, dùng (thời gian), sai lầm"
       },
       "strokes": {
         "count": 12,
@@ -356,7 +356,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đi bộ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -377,7 +377,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "285",
     "strokeCount": 12,
-    "meaning": "overdo, exceed, go beyond, error",
+    "meaning": "overdo, exceed, go beyond, error |(vi) làm quá, vượt quá, đi quá xa, sai lầm |(hv) Quá",
     "kunyomi": [
       "す.ぎる",
       "す.ごす",
@@ -393,59 +393,59 @@
       {
         "example": "過",
         "reading": "カ",
-        "meaning": "surplus-, excess-, over-, per- (chemical with more of a certain element than found in other compounds of the same constituents)"
+        "meaning": "surplus-, excess-, over-, per- (chemical with more of a certain element than found in other compounds of the same constituents) |(vi) dư, thừa, quá mức, per- (hợp chất hóa học có nhiều nguyên tố hơn)"
       },
       {
         "example": "過激",
         "reading": "カゲキ",
-        "meaning": "extreme (measure, idea, etc.), radical, violent (language), strenuous (exercise, work, etc.), excessive, (physically) demanding"
+        "meaning": "extreme (measure, idea, etc.), radical, violent (language), strenuous (exercise, work, etc.), excessive, (physically) demanding |(vi) cực đoan (biện pháp, ý tưởng...), quá khích, gay gắt (ngôn từ), quá sức (bài tập, công việc...), đòi hỏi khắt khe"
       },
       {
         "example": "看過",
         "reading": "カンカ",
-        "meaning": "overlooking, turning a blind eye"
+        "meaning": "overlooking, turning a blind eye |(vi) bỏ qua, làm ngơ"
       },
       {
         "example": "輸出超過",
         "reading": "ユシュツチョウカ",
-        "meaning": "excess of exports"
+        "meaning": "excess of exports |(vi) xuất khẩu vượt mức, thặng dư xuất khẩu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "過ぎる",
         "reading": "すぎる",
-        "meaning": "to pass through, to pass by, to go beyond, to pass (of time), to elapse, to have expired, to have ended, to be over, to exceed, to surpass, to be above, to be no more than ..., to be excessive, to be too much, to be too ..."
+        "meaning": "to pass through, to pass by, to go beyond, to pass (of time), to elapse, to have expired, to have ended, to be over, to exceed, to surpass, to be above, to be no more than ..., to be excessive, to be too much, to be too ... |(vi) đi qua, vượt qua, trôi qua (thời gian), hết hạn, kết thúc, vượt quá, hơn, quá mức, quá nhiều, quá..."
       },
       {
         "example": "過ごす",
         "reading": "すごす",
-        "meaning": "to spend (time), to pass, to lead (a life), to live, to overdo (esp. alcohol consumption), to drink (alcohol), to carry too far, to carry to excess, to take care of, to support, to overdo, to do too much, to ... without acting on it, to ... without getting involved"
+        "meaning": "to spend (time), to pass, to lead (a life), to live, to overdo (esp. alcohol consumption), to drink (alcohol), to carry too far, to carry to excess, to take care of, to support, to overdo, to do too much, to ... without acting on it, to ... without getting involved |(vi) trải qua (thời gian), sống (cuộc đời), uống quá chén (rượu), làm quá tay, chăm sóc, bỏ qua không hành động, không can thiệp"
       },
       {
         "example": "過ち",
         "reading": "あやまち",
-        "meaning": "fault, error, indiscretion, faux pas"
+        "meaning": "fault, error, indiscretion, faux pas |(vi) lỗi lầm, sai sót, thất thố"
       },
       {
         "example": "過ちて改めざるこれを過ちという",
         "reading": "あやまちてあらためざるこれをあやまちという",
-        "meaning": "a man who has committed a mistake and doesn't correct it is committing another mistake"
+        "meaning": "a man who has committed a mistake and doesn't correct it is committing another mistake |(vi) có lỗi mà không sửa mới thực là có lỗi"
       },
       {
         "example": "過つ",
         "reading": "あやまつ",
-        "meaning": "to err"
+        "meaning": "to err |(vi) phạm sai lầm"
       },
       {
         "example": "過ぎる",
         "reading": "よぎる",
-        "meaning": "to go by, to cross, to pass by, to flash across"
+        "meaning": "to go by, to cross, to pass by, to flash across |(vi) lướt qua, băng qua, thoáng qua"
       },
       {
         "example": "過ぎる",
         "reading": "よぎる",
-        "meaning": "to go by, to cross, to pass by, to flash across"
+        "meaning": "to go by, to cross, to pass by, to flash across |(vi) lướt qua, băng qua, thoáng qua"
       }
     ],
     "radical": {
@@ -455,7 +455,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi bộ)"
     },
     "parts": [
       "冂",

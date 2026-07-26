@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "money, goods, property, freight",
+    "meaning": "money, goods, property, freight |(vi) tiền, hàng hóa, tài sản, hàng chuyên chở",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "貨幣（かへい）",
         "meaning": {
-          "english": "money, currency, coinage"
+          "english": "money, currency, coinage |(vi) tiền tệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(motsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "貨物列車（かもつれっしゃ）",
         "meaning": {
-          "english": "freight train"
+          "english": "freight train |(vi) tàu chở hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(motsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "外貨（がいか）",
         "meaning": {
-          "english": "foreign money"
+          "english": "foreign money |(vi) ngoại tệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(motsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "通貨（つうか）",
         "meaning": {
-          "english": "currency"
+          "english": "currency |(vi) tiền tệ, đồng tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(motsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "硬貨（こうか）",
         "meaning": {
-          "english": "coin [n.]"
+          "english": "coin [n.] |(vi) tiền xu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(motsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "雑貨（ざっか）",
         "meaning": {
-          "english": "general goods"
+          "english": "general goods |(vi) hàng tạp hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(motsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "金貨（きんか）",
         "meaning": {
-          "english": "gold coin"
+          "english": "gold coin |(vi) tiền vàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(motsu)_06_g.opus",
@@ -182,7 +182,7 @@
     "kanji": {
       "character": "貨",
       "meaning": {
-        "english": "money, goods, property, freight"
+        "english": "money, goods, property, freight |(vi) tiền, hàng hóa, tài sản, hàng chuyên chở"
       },
       "strokes": {
         "count": 11,
@@ -242,7 +242,7 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (vỏ sò, của cải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -263,7 +263,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "822",
     "strokeCount": 11,
-    "meaning": "freight, goods, property",
+    "meaning": "freight, goods, property |(vi) hàng chuyên chở, hàng hóa, tài sản |(hv) Hóa",
     "kunyomi": [
       "たから"
     ],
@@ -274,34 +274,34 @@
       {
         "example": "貨幣",
         "reading": "カヘイ",
-        "meaning": "money, currency, coin"
+        "meaning": "money, currency, coin |(vi) tiền tệ"
       },
       {
         "example": "貨物",
         "reading": "カモツ",
-        "meaning": "cargo, freight, money or assets"
+        "meaning": "cargo, freight, money or assets |(vi) hàng hóa, hàng chuyên chở, tiền hoặc tài sản"
       },
       {
         "example": "基軸通貨",
         "reading": "キジクツウカ",
-        "meaning": "key currency"
+        "meaning": "key currency |(vi) đồng tiền chủ chốt (dự trữ quốc tế)"
       },
       {
         "example": "英貨",
         "reading": "エイカ",
-        "meaning": "British currency, pound sterling"
+        "meaning": "British currency, pound sterling |(vi) đồng bảng Anh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "宝",
         "reading": "たから",
-        "meaning": "treasure"
+        "meaning": "treasure |(vi) châu báu, kho báu"
       }
     ],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò)"
     },
     "parts": [
       "ハ",

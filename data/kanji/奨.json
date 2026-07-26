@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "encourage, urge",
+    "meaning": "encourage, urge |(vi) khuyến khích, thúc giục",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "奨学金（しょうがくきん）",
         "meaning": {
-          "english": "scholarship"
+          "english": "scholarship |(vi) học bổng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(reisuru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "奨学生（しょうがくせい）",
         "meaning": {
-          "english": "scholarship student"
+          "english": "scholarship student |(vi) học sinh nhận học bổng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(reisuru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "報奨金（ほうしょうきん）",
         "meaning": {
-          "english": "cash bonus, reward"
+          "english": "cash bonus, reward |(vi) tiền thưởng, phần thưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(reisuru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "奨励する（しょうれいする）",
         "meaning": {
-          "english": "encourage, promote"
+          "english": "encourage, promote |(vi) khuyến khích, thúc đẩy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(reisuru)_06_d.opus",
@@ -152,7 +152,7 @@
     "kanji": {
       "character": "奨",
       "meaning": {
-        "english": "encourage, urge"
+        "english": "encourage, urge |(vi) khuyến khích, thúc giục"
       },
       "strokes": {
         "count": 13,
@@ -216,7 +216,7 @@
         "romaji": "dai"
       },
       "meaning": {
-        "english": "large, big"
+        "english": "large, big |(vi) Đại (to, lớn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/dai0.svg",
@@ -237,7 +237,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1445",
     "strokeCount": 13,
-    "meaning": "exhort, urge, encourage",
+    "meaning": "exhort, urge, encourage |(vi) khuyên nhủ, thúc giục, khuyến khích |(hv) Tưởng",
     "kunyomi": [
       "すす.める"
     ],
@@ -249,34 +249,34 @@
       {
         "example": "奨学",
         "reading": "ショウガク",
-        "meaning": "encouragement to study"
+        "meaning": "encouragement to study |(vi) khuyến khích học tập"
       },
       {
         "example": "奨学金",
         "reading": "ショウガクキン",
-        "meaning": "scholarship, stipend, bursary, grant-in-aid, student loan"
+        "meaning": "scholarship, stipend, bursary, grant-in-aid, student loan |(vi) học bổng, trợ cấp, tiền vay học tập"
       },
       {
         "example": "勧奨",
         "reading": "カンショウ",
-        "meaning": "encouragement, stimulation"
+        "meaning": "encouragement, stimulation |(vi) khuyến khích, khích lệ"
       },
       {
         "example": "推奨",
         "reading": "スイショウ",
-        "meaning": "recommendation, endorsement"
+        "meaning": "recommendation, endorsement |(vi) giới thiệu, đề cử, khuyến nghị"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "勧める",
         "reading": "すすめる",
-        "meaning": "to recommend (someone to do), to advise, to encourage, to urge, to recommend (a book, someone for a position, etc.), to suggest, to offer (a drink, cigarette, seat, etc.)"
+        "meaning": "to recommend (someone to do), to advise, to encourage, to urge, to recommend (a book, someone for a position, etc.), to suggest, to offer (a drink, cigarette, seat, etc.) |(vi) khuyên (ai làm gì), khuyên bảo, khuyến khích, thúc giục, giới thiệu (sách, người cho vị trí...), gợi ý, mời (đồ uống, thuốc lá, chỗ ngồi...)"
       }
     ],
     "radical": {
       "symbol": "大",
-      "meaning": "big, very"
+      "meaning": "big, very |(vi) Đại (to, lớn)"
     },
     "parts": [
       "大",

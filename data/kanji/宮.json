@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "miya",
-    "meaning": "royal palace, shinto shrine",
+    "meaning": "royal palace, shinto shrine |(vi) cung điện, đền thần đạo",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "宮殿（きゅうでん）",
         "meaning": {
-          "english": "palace"
+          "english": "palace |(vi) cung điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miya_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "王宮（おうきゅう）",
         "meaning": {
-          "english": "royal palace"
+          "english": "royal palace |(vi) hoàng cung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miya_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "迷宮（めいきゅう）",
         "meaning": {
-          "english": "mystery, maze, labyrinth"
+          "english": "mystery, maze, labyrinth |(vi) sự bí ẩn, mê cung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miya_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "離宮（りきゅう）",
         "meaning": {
-          "english": "villa"
+          "english": "villa |(vi) biệt cung, biệt điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miya_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "子宮（しきゅう）",
         "meaning": {
-          "english": "womb, uterus"
+          "english": "womb, uterus |(vi) tử cung, dạ con"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miya_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "宮司（ぐうじ）",
         "meaning": {
-          "english": "chief priest"
+          "english": "chief priest |(vi) chánh tế, chủ tế đền thần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miya_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "神宮（しんぐう）",
         "meaning": {
-          "english": "Shinto shrine"
+          "english": "Shinto shrine |(vi) đền thần đạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miya_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "宮内庁（くないちょう）",
         "meaning": {
-          "english": "Imperial Household Agency"
+          "english": "Imperial Household Agency |(vi) Cục Nội chính Hoàng gia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miya_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "宮（みや）",
         "meaning": {
-          "english": "residence or family of a prince"
+          "english": "residence or family of a prince |(vi) dinh thự hoặc gia đình của hoàng thân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miya_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "宮仕え（みやづかえ）",
         "meaning": {
-          "english": "court (government) service"
+          "english": "court (government) service |(vi) phục vụ trong triều đình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miya_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "宮参り（みやまいり）",
         "meaning": {
-          "english": "shrine visit"
+          "english": "shrine visit |(vi) viếng thăm đền thờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/miya_06_k.opus",
@@ -237,7 +237,7 @@
     "kanji": {
       "character": "宮",
       "meaning": {
-        "english": "royal palace, shinto shrine"
+        "english": "royal palace, shinto shrine |(vi) cung điện, đền thần đạo"
       },
       "strokes": {
         "count": 10,
@@ -295,7 +295,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -316,7 +316,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "367",
     "strokeCount": 10,
-    "meaning": "Shinto shrine, constellations, palace, princess",
+    "meaning": "Shinto shrine, constellations, palace, princess |(vi) đền thần đạo, chòm sao, cung điện, công chúa |(hv) Cung",
     "kunyomi": [
       "みや"
     ],
@@ -330,99 +330,99 @@
       {
         "example": "宮",
         "reading": "キュウ",
-        "meaning": "palace, tonic (of the Japanese and Chinese pentatonic scale), ancient Chinese punishment (castration for men, or confinement for women), zodiacal sign"
+        "meaning": "palace, tonic (of the Japanese and Chinese pentatonic scale), ancient Chinese punishment (castration for men, or confinement for women), zodiacal sign |(vi) cung điện, âm chủ (trong ngũ âm giai Nhật-Trung), hình phạt cổ Trung Hoa (thiến với nam, giam cầm với nữ), cung hoàng đạo"
       },
       {
         "example": "宮中",
         "reading": "キュウチュウ",
-        "meaning": "imperial court"
+        "meaning": "imperial court |(vi) hoàng cung, nội đình"
       },
       {
         "example": "離宮",
         "reading": "リキュウ",
-        "meaning": "imperial villa, royal villa, detached palace"
+        "meaning": "imperial villa, royal villa, detached palace |(vi) biệt cung, biệt điện của hoàng gia"
       },
       {
         "example": "巨蟹宮",
         "reading": "キョカイキュウ",
-        "meaning": "Cancer (4th zodiacal sign), the Crab"
+        "meaning": "Cancer (4th zodiacal sign), the Crab |(vi) cung Cự Giải (cung hoàng đạo thứ 4), con Cua"
       },
       {
         "example": "宮司",
         "reading": "グウジ",
-        "meaning": "chief priest"
+        "meaning": "chief priest |(vi) chánh tế, chủ tế đền thần"
       },
       {
         "example": "宮寺",
         "reading": "グウジ",
-        "meaning": "Buddhist temple within a Shinto shrine"
+        "meaning": "Buddhist temple within a Shinto shrine |(vi) chùa Phật nằm trong khuôn viên đền Thần đạo"
       },
       {
         "example": "二宮",
         "reading": "ニグウ",
-        "meaning": "the Two Ise Shrines"
+        "meaning": "the Two Ise Shrines |(vi) Hai đền Ise"
       },
       {
         "example": "東宮",
         "reading": "トウグウ",
-        "meaning": "crown prince"
+        "meaning": "crown prince |(vi) thái tử, hoàng thái tử"
       },
       {
         "example": "宮内庁",
         "reading": "クナイチョウ",
-        "meaning": "Imperial Household Agency"
+        "meaning": "Imperial Household Agency |(vi) Cục Nội chính Hoàng gia"
       },
       {
         "example": "宮内",
         "reading": "クナイ",
-        "meaning": "inside the Imperial Palace, Department of the Imperial Household"
+        "meaning": "inside the Imperial Palace, Department of the Imperial Household |(vi) bên trong hoàng cung, Bộ Nội chính Hoàng gia"
       },
       {
         "example": "月宮",
         "reading": "ゲッキュウ",
-        "meaning": "moon palace of the Hindu god Chandra"
+        "meaning": "moon palace of the Hindu god Chandra |(vi) cung trăng của thần Chandra (Ấn Độ giáo)"
       },
       {
         "example": "夙",
         "reading": "シュク",
-        "meaning": "outcasts common around the Kyoto region from the Kamakura period to the Edo period"
+        "meaning": "outcasts common around the Kyoto region from the Kamakura period to the Edo period |(vi) tầng lớp bị ruồng bỏ phổ biến ở vùng Kyoto từ thời Kamakura đến thời Edo"
       },
       {
         "example": "内宮",
         "reading": "ナイクウ",
-        "meaning": "Inner Ise Shrine"
+        "meaning": "Inner Ise Shrine |(vi) Nội cung đền Ise"
       },
       {
         "example": "外宮",
         "reading": "ゲクウ",
-        "meaning": "outer shrine of the Ise Grand Shrine"
+        "meaning": "outer shrine of the Ise Grand Shrine |(vi) ngoại cung của đền Ise"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "宮",
         "reading": "みや",
-        "meaning": "shrine, palace, imperial residence, Imperial prince, Imperial princess, headboard with built-in shelves, drawers, etc., temple"
+        "meaning": "shrine, palace, imperial residence, Imperial prince, Imperial princess, headboard with built-in shelves, drawers, etc., temple |(vi) đền thờ, cung điện, nơi ở của hoàng gia, hoàng tử, công chúa, đầu giường có kệ và ngăn kéo tích hợp, chùa"
       },
       {
         "example": "宮家",
         "reading": "みやけ",
-        "meaning": "house of an imperial prince"
+        "meaning": "house of an imperial prince |(vi) dinh thự của hoàng thân"
       },
       {
         "example": "若宮",
         "reading": "わかみや",
-        "meaning": "young imperial prince, child of the imperial family, shrine dedicated to a child of the god of the main shrine, newly built shrine (to which a divided tutelary deity has just been transferred)"
+        "meaning": "young imperial prince, child of the imperial family, shrine dedicated to a child of the god of the main shrine, newly built shrine (to which a divided tutelary deity has just been transferred) |(vi) hoàng tử nhỏ, con của hoàng gia, đền thờ dành cho con của vị thần chính, đền mới xây (mới nhận thần linh chia tách về thờ)"
       },
       {
         "example": "大宮",
         "reading": "おおみや",
-        "meaning": "imperial palace, shrine, Grand Empress Dowager, Empress Dowager, woman of imperial lineage who has borne a child, elderly woman of imperial lineage"
+        "meaning": "imperial palace, shrine, Grand Empress Dowager, Empress Dowager, woman of imperial lineage who has borne a child, elderly woman of imperial lineage |(vi) hoàng cung, đền thờ, Thái hoàng thái hậu, Hoàng thái hậu, phụ nữ hoàng tộc đã sinh con, phụ nữ hoàng tộc cao tuổi"
       }
     ],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà)"
     },
     "parts": [
       "ノ",

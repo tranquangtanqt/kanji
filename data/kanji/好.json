@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "kono, konomu, konomi, su, suki, suku, yo, yoi, i, ii",
-    "meaning": "like, favorable",
+    "meaning": "like, favorable |(vi) thích, ưa chuộng",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "好意（こうい）",
         "meaning": {
-          "english": "good will"
+          "english": "good will |(vi) thiện chí, hảo ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-su(ki)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "同好会（どうこうかい）",
         "meaning": {
-          "english": "club of like-minded people"
+          "english": "club of like-minded people |(vi) câu lạc bộ những người cùng sở thích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-su(ki)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "好調（こうちょう）",
         "meaning": {
-          "english": "favorable"
+          "english": "favorable |(vi) thuận lợi, tốt đẹp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-su(ki)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "好み（このみ）",
         "meaning": {
-          "english": "inclination, taste"
+          "english": "inclination, taste |(vi) sở thích, gu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-su(ki)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "好き（すき）",
         "meaning": {
-          "english": "like"
+          "english": "like |(vi) thích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-su(ki)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "物好き（ものずき）",
         "meaning": {
-          "english": "(idle) curiosity"
+          "english": "(idle) curiosity |(vi) tò mò vu vơ, hiếu kỳ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-su(ki)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "お人好し（おひとよし）",
         "meaning": {
-          "english": "softhearted"
+          "english": "softhearted |(vi) người tốt bụng cả tin, dễ bị lợi dụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-su(ki)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "好い加減（いいかげん）",
         "meaning": {
-          "english": "unconvincing, irresponsible remark"
+          "english": "unconvincing, irresponsible remark |(vi) nói bừa, thiếu trách nhiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-su(ki)_06_h.opus",
@@ -265,7 +265,7 @@
     "kanji": {
       "character": "好",
       "meaning": {
-        "english": "like, favorable"
+        "english": "like, favorable |(vi) thích, ưa chuộng"
       },
       "strokes": {
         "count": 6,
@@ -314,7 +314,7 @@
         "romaji": "onnahen"
       },
       "meaning": {
-        "english": "woman"
+        "english": "woman |(vi) Nữ (phụ nữ, giống cái)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/onnahen0.svg",
@@ -335,7 +335,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "423",
     "strokeCount": 6,
-    "meaning": "fond, pleasing, like something",
+    "meaning": "fond, pleasing, like something |(vi) yêu thích, dễ chịu, ưa thích cái gì đó |(hv) Hảo",
     "kunyomi": [
       "この.む",
       "す.く",
@@ -349,64 +349,64 @@
       {
         "example": "好",
         "reading": "コウ",
-        "meaning": "good"
+        "meaning": "good |(vi) tốt"
       },
       {
         "example": "好意",
         "reading": "コウイ",
-        "meaning": "kindness, favor, favour, friendliness, goodwill, affection, liking (for someone), love"
+        "meaning": "kindness, favor, favour, friendliness, goodwill, affection, liking (for someone), love |(vi) thiện chí, hảo ý, tình cảm mến mộ"
       },
       {
         "example": "友好",
         "reading": "ユウコウ",
-        "meaning": "friendship"
+        "meaning": "friendship |(vi) hữu nghị"
       },
       {
         "example": "同好",
         "reading": "ドウコウ",
-        "meaning": "similar tastes"
+        "meaning": "similar tastes |(vi) cùng sở thích"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "好む",
         "reading": "このむ",
-        "meaning": "to like, to prefer"
+        "meaning": "to like, to prefer |(vi) thích, ưa chuộng"
       },
       {
         "example": "好むと好まざるとにかかわらず",
         "reading": "このむとこのまざるとにかかわらず",
-        "meaning": "whether one likes it or not"
+        "meaning": "whether one likes it or not |(vi) dù thích hay không"
       },
       {
         "example": "好く",
         "reading": "すく",
-        "meaning": "to like, to love, to be fond of"
+        "meaning": "to like, to love, to be fond of |(vi) thích, yêu mến"
       },
       {
         "example": "良い",
         "reading": "よい",
-        "meaning": "good, excellent, fine, nice, pleasant, agreeable, sufficient, enough, ready, prepared, profitable (deal, business offer, etc.), beneficial, OK, all right, fine, no problem, easy to ..."
+        "meaning": "good, excellent, fine, nice, pleasant, agreeable, sufficient, enough, ready, prepared, profitable (deal, business offer, etc.), beneficial, OK, all right, fine, no problem, easy to ... |(vi) tốt, tuyệt vời, đủ, ổn, có lợi"
       },
       {
         "example": "いい男",
         "reading": "いいおとこ",
-        "meaning": "handsome man, looker, good guy, great guy, influential person (esp. in the yakuza), sumo wrestler"
+        "meaning": "handsome man, looker, good guy, great guy, influential person (esp. in the yakuza), sumo wrestler |(vi) người đàn ông đẹp trai, người tốt, người có ảnh hưởng (trong yakuza), đô vật sumo"
       },
       {
         "example": "いい加減",
         "reading": "いいかげん",
-        "meaning": "irresponsible, perfunctory, careless, lukewarm, half-baked, halfhearted, vague, (already) enough, considerably, quite, rather, pretty"
+        "meaning": "irresponsible, perfunctory, careless, lukewarm, half-baked, halfhearted, vague, (already) enough, considerably, quite, rather, pretty |(vi) vô trách nhiệm, qua loa, nửa vời, khá nhiều"
       },
       {
         "example": "いい男",
         "reading": "いいおとこ",
-        "meaning": "handsome man, looker, good guy, great guy, influential person (esp. in the yakuza), sumo wrestler"
+        "meaning": "handsome man, looker, good guy, great guy, influential person (esp. in the yakuza), sumo wrestler |(vi) người đàn ông đẹp trai, người tốt, người có ảnh hưởng (trong yakuza), đô vật sumo"
       }
     ],
     "radical": {
       "symbol": "女",
-      "meaning": "woman, female"
+      "meaning": "woman, female |(vi) Nữ (phụ nữ, giống cái)"
     },
     "parts": [
       "女",

@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "nareru, narasu, na",
-    "meaning": "habitual practice, get used",
+    "meaning": "habitual practice, get used |(vi) quen thuộc, thành thói quen, trở nên quen",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "習慣（しゅうかん）",
         "meaning": {
-          "english": "custom, habit"
+          "english": "custom, habit |(vi) thói quen, tập quán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-na(reru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "慣例（かんれい）",
         "meaning": {
-          "english": "custom, convention"
+          "english": "custom, convention |(vi) thông lệ, tiền lệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-na(reru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "慣用句（かんようく）",
         "meaning": {
-          "english": "idiomatic phrase"
+          "english": "idiomatic phrase |(vi) thành ngữ, quán ngữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-na(reru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "慣れる（なれる）",
         "meaning": {
-          "english": "grow accustomed"
+          "english": "grow accustomed |(vi) trở nên quen, quen dần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-na(reru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "使い慣らす（つかいならす）",
         "meaning": {
-          "english": "accustom oneself to using"
+          "english": "accustom oneself to using |(vi) dùng quen tay, làm quen với việc sử dụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-na(reru)_06_e.opus",
@@ -191,7 +191,7 @@
     "kanji": {
       "character": "慣",
       "meaning": {
-        "english": "habitual practice, get used"
+        "english": "habitual practice, get used |(vi) quen thuộc, thành thói quen, trở nên quen"
       },
       "strokes": {
         "count": 14,
@@ -257,7 +257,7 @@
         "romaji": "risshinben"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (tim, tâm trí, tinh thần)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/risshinben0.svg",
@@ -278,7 +278,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1177",
     "strokeCount": 14,
-    "meaning": "accustomed, get used to, become experienced",
+    "meaning": "accustomed, get used to, become experienced |(vi) quen thuộc, trở nên quen, có kinh nghiệm |(hv) Quán",
     "kunyomi": [
       "な.れる",
       "な.らす"
@@ -290,34 +290,34 @@
       {
         "example": "慣習",
         "reading": "カンシュウ",
-        "meaning": "custom, convention, common practice, becoming accustomed (to)"
+        "meaning": "custom, convention, common practice, becoming accustomed (to) |(vi) phong tục, tập quán, thói quen thông thường"
       },
       {
         "example": "慣行",
         "reading": "カンコウ",
-        "meaning": "customary practice, habit, traditional event"
+        "meaning": "customary practice, habit, traditional event |(vi) thông lệ, tập quán, sự kiện truyền thống"
       },
       {
         "example": "旧慣",
         "reading": "キュウカン",
-        "meaning": "old customs"
+        "meaning": "old customs |(vi) tập tục cũ, lệ cũ"
       },
       {
         "example": "購買習慣",
         "reading": "コウバイシュウカン",
-        "meaning": "buying habit"
+        "meaning": "buying habit |(vi) thói quen mua sắm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "慣れる",
         "reading": "なれる",
-        "meaning": "to get used to, to grow accustomed to, to become familiar with, to become skilled in, to become experienced at, to become tame, to become domesticated, to get used to doing"
+        "meaning": "to get used to, to grow accustomed to, to become familiar with, to become skilled in, to become experienced at, to become tame, to become domesticated, to get used to doing |(vi) trở nên quen, quen dần, thành thạo, thuần hóa (đối với động vật)"
       },
       {
         "example": "慣らす",
         "reading": "ならす",
-        "meaning": "to accustom, to train (e.g. one's ear), to tame, to domesticate, to train (an animal)"
+        "meaning": "to accustom, to train (e.g. one's ear), to tame, to domesticate, to train (an animal) |(vi) làm quen, luyện tập (tai...), thuần hóa, huấn luyện (động vật)"
       }
     ],
     "radical": {
@@ -326,7 +326,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim)"
     },
     "parts": [
       "ハ",

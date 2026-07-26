@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "supply, pay",
+    "meaning": "supply, pay |(vi) cung cấp, trả lương",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "給料（きゅうりょう）",
         "meaning": {
-          "english": "salary, wages"
+          "english": "salary, wages |(vi) lương, tiền công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(yu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "月給（げっきゅう）",
         "meaning": {
-          "english": "monthly salary"
+          "english": "monthly salary |(vi) lương tháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(yu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "時給（じきゅう）",
         "meaning": {
-          "english": "hourly pay hourly wage"
+          "english": "hourly pay hourly wage |(vi) lương theo giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(yu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "初任給（しょにんきゅう）",
         "meaning": {
-          "english": "initial salary"
+          "english": "initial salary |(vi) lương khởi điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(yu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "給付する（きゅうふする）",
         "meaning": {
-          "english": "pay, provide"
+          "english": "pay, provide |(vi) chi trả, cấp phát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(yu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "供給する（きょうきゅうする）",
         "meaning": {
-          "english": "supply, provide"
+          "english": "supply, provide |(vi) cung cấp, cung ứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(yu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "支給する（しきゅうする）",
         "meaning": {
-          "english": "pay, provide, grant"
+          "english": "pay, provide, grant |(vi) chi trả, cấp phát, ban cấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(yu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "補給する（ほきゅうする）",
         "meaning": {
-          "english": "supply, replenish"
+          "english": "supply, replenish |(vi) tiếp tế, bổ sung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyuu(yu)_06_h.opus",
@@ -200,7 +200,7 @@
     "kanji": {
       "character": "給",
       "meaning": {
-        "english": "supply, pay"
+        "english": "supply, pay |(vi) cung cấp, trả lương"
       },
       "strokes": {
         "count": 12,
@@ -262,7 +262,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -283,7 +283,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "615",
     "strokeCount": 12,
-    "meaning": "salary, wage, gift, allow, grant, bestow on",
+    "meaning": "salary, wage, gift, allow, grant, bestow on |(vi) lương, tiền công, quà tặng, cho phép, ban cấp, ban tặng |(hv) Cấp",
     "kunyomi": [
       "たま.う",
       "たも.う",
@@ -296,44 +296,44 @@
       {
         "example": "給",
         "reading": "キュウ",
-        "meaning": "wage, recompense"
+        "meaning": "wage, recompense |(vi) lương, tiền công"
       },
       {
         "example": "給食",
         "reading": "キュウショク",
-        "meaning": "provision of lunch (e.g. at office, school, etc.), providing a meal, lunch service"
+        "meaning": "provision of lunch (e.g. at office, school, etc.), providing a meal, lunch service |(vi) cung cấp bữa trưa (ví dụ tại công sở, trường học...), cung cấp bữa ăn, dịch vụ ăn trưa"
       },
       {
         "example": "自給",
         "reading": "ジキュウ",
-        "meaning": "self-support"
+        "meaning": "self-support |(vi) tự cung tự cấp"
       },
       {
         "example": "有給",
         "reading": "ユウキュウ",
-        "meaning": "salaried, paid, with pay, paid vacation, paid holiday, paid leave"
+        "meaning": "salaried, paid, with pay, paid vacation, paid holiday, paid leave |(vi) có lương, được trả lương, có lương, ngày nghỉ có lương"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "給う",
         "reading": "たまう",
-        "meaning": "to give, to do ..."
+        "meaning": "to give, to do ... |(vi) ban cho, làm..."
       },
       {
         "example": "給ふ",
         "reading": "たまう",
-        "meaning": "to give, to receive"
+        "meaning": "to give, to receive |(vi) ban cho, nhận"
       },
       {
         "example": "給う",
         "reading": "たもう",
-        "meaning": "to give, to do ..."
+        "meaning": "to give, to do ... |(vi) ban cho, làm..."
       },
       {
         "example": "給ふ",
         "reading": "たまう",
-        "meaning": "to give, to receive"
+        "meaning": "to give, to receive |(vi) ban cho, nhận"
       }
     ],
     "radical": {
@@ -341,7 +341,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi)"
     },
     "parts": [
       "一",

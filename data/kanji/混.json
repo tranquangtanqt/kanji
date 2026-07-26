@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "ma, majiru, majiri, mazaru, mazeru",
-    "meaning": "mix",
+    "meaning": "mix |(vi) trộn, pha lẫn",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "混浴（こんよく）",
         "meaning": {
-          "english": "co-ed bathing"
+          "english": "co-ed bathing |(vi) tắm chung (nam nữ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kon-ma(zeru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "混声合唱（こんせいがっしょう）",
         "meaning": {
-          "english": "co-ed chorus"
+          "english": "co-ed chorus |(vi) hợp xướng nam nữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kon-ma(zeru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "混同する（こんどうする）",
         "meaning": {
-          "english": "confuse, mix, merge"
+          "english": "confuse, mix, merge |(vi) nhầm lẫn, trộn lẫn, hòa lẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kon-ma(zeru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "混合する（こんごうする）",
         "meaning": {
-          "english": "mix"
+          "english": "mix |(vi) trộn, pha trộn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kon-ma(zeru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "混入する（こんにゅうする）",
         "meaning": {
-          "english": "mix in, adulterate"
+          "english": "mix in, adulterate |(vi) trộn vào, pha tạp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kon-ma(zeru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "混雑する（こんざつする）",
         "meaning": {
-          "english": "be crowded, be congested"
+          "english": "be crowded, be congested |(vi) đông đúc, tắc nghẽn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kon-ma(zeru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "混乱する（こんらんする）",
         "meaning": {
-          "english": "be in disorder, confusion, chaos"
+          "english": "be in disorder, confusion, chaos |(vi) hỗn loạn, rối loạn, lộn xộn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kon-ma(zeru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "混ぜる（まぜる）",
         "meaning": {
-          "english": "mix, stir [v.t.]"
+          "english": "mix, stir [v.t.] |(vi) trộn, khuấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kon-ma(zeru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "混ざる（まざる）",
         "meaning": {
-          "english": "mix, blend [v.i.]"
+          "english": "mix, blend [v.i.] |(vi) trộn lẫn, pha lẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kon-ma(zeru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "混じる（まじる）",
         "meaning": {
-          "english": "mix, blend [v.i.]"
+          "english": "mix, blend [v.i.] |(vi) trộn lẫn, pha lẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kon-ma(zeru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "*混む（こむ）",
         "meaning": {
-          "english": "be crowded, be congested"
+          "english": "be crowded, be congested |(vi) đông đúc, tắc nghẽn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kon-ma(zeru)_06_k.opus",
@@ -257,7 +257,7 @@
     "kanji": {
       "character": "混",
       "meaning": {
-        "english": "mix"
+        "english": "mix |(vi) trộn, pha lẫn"
       },
       "strokes": {
         "count": 11,
@@ -317,7 +317,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -338,7 +338,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "824",
     "strokeCount": 11,
-    "meaning": "mix, blend, confuse",
+    "meaning": "mix, blend, confuse |(vi) trộn, pha lẫn, gây nhầm lẫn |(hv) Hỗn",
     "kunyomi": [
       "ま.じる",
       "-ま.じり",
@@ -353,44 +353,44 @@
       {
         "example": "混",
         "reading": "コン",
-        "meaning": "(traffic) congestion, heavy traffic"
+        "meaning": "(traffic) congestion, heavy traffic |(vi) tắc nghẽn (giao thông), giao thông đông đúc"
       },
       {
         "example": "混血",
         "reading": "コンケツ",
-        "meaning": "mixed race, mixed parentage"
+        "meaning": "mixed race, mixed parentage |(vi) con lai, gốc gác lai"
       },
       {
         "example": "麻混",
         "reading": "アサコン",
-        "meaning": "hemp blend, linen blend"
+        "meaning": "hemp blend, linen blend |(vi) pha sợi gai, pha vải lanh"
       },
       {
         "example": "滾々",
         "reading": "コンコン",
-        "meaning": "(flowing) copiously"
+        "meaning": "(flowing) copiously |(vi) chảy cuồn cuộn, tuôn trào"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "混じる",
         "reading": "まじる",
-        "meaning": "to be mixed, to be blended with, to be combined, to associate with, to mingle with, to interest, to join"
+        "meaning": "to be mixed, to be blended with, to be combined, to associate with, to mingle with, to interest, to join |(vi) được trộn lẫn, được hòa lẫn, được kết hợp, hòa đồng với, giao du với, xen vào"
       },
       {
         "example": "混ざる",
         "reading": "まざる",
-        "meaning": "to be mixed, to be blended with, to associate with, to mingle with, to join"
+        "meaning": "to be mixed, to be blended with, to associate with, to mingle with, to join |(vi) được trộn lẫn, được hòa lẫn, hòa đồng với, giao du với, xen vào"
       },
       {
         "example": "混ぜる",
         "reading": "まぜる",
-        "meaning": "to mix, to stir, to blend"
+        "meaning": "to mix, to stir, to blend |(vi) trộn, khuấy, pha trộn"
       },
       {
         "example": "混む",
         "reading": "こむ",
-        "meaning": "to be crowded, to be packed, to be congested, to be thronged (with)"
+        "meaning": "to be crowded, to be packed, to be congested, to be thronged (with) |(vi) đông đúc, chật ních, tắc nghẽn"
       }
     ],
     "radical": {
@@ -399,7 +399,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "日",

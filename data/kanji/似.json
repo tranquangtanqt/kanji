@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 4,
     "kunyomi": "niru, ni",
-    "meaning": "resemble, be similar",
+    "meaning": "resemble, be similar |(vi) giống, tương tự",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "類似する（るいじする）",
         "meaning": {
-          "english": "be analogous to [v.i.]"
+          "english": "be analogous to [v.i.] |(vi) tương tự, loại suy [tự động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ni(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "酷似する（こくじする）",
         "meaning": {
-          "english": "have a striking resemblance [v.i.]"
+          "english": "have a striking resemblance [v.i.] |(vi) giống hệt, giống nhau rõ rệt [tự động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ni(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "近似値（きんじち）",
         "meaning": {
-          "english": "approximate value"
+          "english": "approximate value |(vi) giá trị gần đúng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ni(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "似ている（にている）",
         "meaning": {
-          "english": "be similar [v.i.]"
+          "english": "be similar [v.i.] |(vi) giống, tương tự [tự động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ni(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "似顔絵（にがおえ）",
         "meaning": {
-          "english": "portrait"
+          "english": "portrait |(vi) chân dung, tranh vẽ mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ni(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "似合う（にあう）",
         "meaning": {
-          "english": "suit, match"
+          "english": "suit, match |(vi) hợp, phù hợp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ni(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "空似（そらに）",
         "meaning": {
-          "english": "chance resemblance"
+          "english": "chance resemblance |(vi) giống nhau tình cờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ni(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "*真似（まね）",
         "meaning": {
-          "english": "imitation, mimicry"
+          "english": "imitation, mimicry |(vi) bắt chước, nhại lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ni(ru)_06_h.opus",
@@ -221,7 +221,7 @@
     "kanji": {
       "character": "似",
       "meaning": {
-        "english": "resemble, be similar"
+        "english": "resemble, be similar |(vi) giống, tương tự"
       },
       "strokes": {
         "count": 7,
@@ -273,7 +273,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người, bộ nhân đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -294,7 +294,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "923",
     "strokeCount": 7,
-    "meaning": "becoming, resemble, counterfeit, imitate, suitable",
+    "meaning": "becoming, resemble, counterfeit, imitate, suitable |(vi) giống, tương tự, giả mạo, bắt chước, phù hợp |(hv) Tự",
     "kunyomi": [
       "に.る",
       "ひ.る"
@@ -306,24 +306,24 @@
       {
         "example": "【ジガバチ】",
         "reading": "red-banded sand wasp (Ammophila sabulosa), thread-waisted wasp (any wasp of family Sphecidae, incl. digger wasps and mud daubers)",
-        "meaning": ""
+        "meaning": " |(vi) ong cát vòng đỏ (Ammophila sabulosa), ong eo chỉ (họ Sphecidae, gồm ong đào hang và ong làm tổ bùn)"
       },
       {
         "example": "酷似",
         "reading": "コクジ",
-        "meaning": "resembling closely, being strikingly similar, bearing a strong likeness"
+        "meaning": "resembling closely, being strikingly similar, bearing a strong likeness |(vi) giống hệt, giống nhau rõ rệt, có nét giống mạnh mẽ"
       },
       {
         "example": "疑似",
         "reading": "ギジ",
-        "meaning": "pseudo, quasi, false, para-, mock, sham, suspected (case, e.g. of disease)"
+        "meaning": "pseudo, quasi, false, para-, mock, sham, suspected (case, e.g. of disease) |(vi) giả, tựa như, không thật, nghi ngờ (trường hợp bệnh...)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "似る",
         "reading": "にる",
-        "meaning": "to resemble, to look like, to be like, to be alike, to be similar, to take after"
+        "meaning": "to resemble, to look like, to be like, to be alike, to be similar, to take after |(vi) giống, trông giống, tương tự, thừa hưởng nét giống (từ cha mẹ)"
       }
     ],
     "radical": {
@@ -331,7 +331,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "丶",

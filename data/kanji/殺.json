@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "koro, korosu, koroshi",
-    "meaning": "kill",
+    "meaning": "kill |(vi) giết",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "殺人（さつじん）",
         "meaning": {
-          "english": "murder"
+          "english": "murder |(vi) giết người, sát nhân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "殺風景な（さっぷうけいな）",
         "meaning": {
-          "english": "tasteless, dreary"
+          "english": "tasteless, dreary |(vi) nhạt nhẽo, buồn tẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "殺害する（さつがいする）",
         "meaning": {
-          "english": "kill, murder"
+          "english": "kill, murder |(vi) giết, sát hại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "殺菌する（さっきんする）",
         "meaning": {
-          "english": "sterilize, disinfect"
+          "english": "sterilize, disinfect |(vi) khử trùng, tiệt trùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "殺到する（さっとうする）",
         "meaning": {
-          "english": "throng, flood, rush [v.i.]"
+          "english": "throng, flood, rush [v.i.] |(vi) đổ xô đến, ùn ùn kéo đến (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(su)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "暗殺する（あんさつする）",
         "meaning": {
-          "english": "assassinate"
+          "english": "assassinate |(vi) ám sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(su)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "自殺する（じさつする）",
         "meaning": {
-          "english": "commit suicide"
+          "english": "commit suicide |(vi) tự sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(su)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "毒殺する（どくさつする）",
         "meaning": {
-          "english": "poison, kill by poison"
+          "english": "poison, kill by poison |(vi) đầu độc, giết bằng thuốc độc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(su)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "相殺する（そうさいする）",
         "meaning": {
-          "english": "offset, cancel out"
+          "english": "offset, cancel out |(vi) bù trừ, triệt tiêu lẫn nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(su)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "殺生する（せっしょうする）",
         "meaning": {
-          "english": "kill, destroy life"
+          "english": "kill, destroy life |(vi) giết, hủy diệt sự sống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(su)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "殺す（ころす）",
         "meaning": {
-          "english": "kill, murder"
+          "english": "kill, murder |(vi) giết, sát hại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(su)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "人殺し（ひとごろし）",
         "meaning": {
-          "english": "murderer"
+          "english": "murderer |(vi) kẻ giết người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(su)_06_l.opus",
@@ -257,7 +257,7 @@
     "kanji": {
       "character": "殺",
       "meaning": {
-        "english": "kill"
+        "english": "kill |(vi) giết"
       },
       "strokes": {
         "count": 10,
@@ -315,7 +315,7 @@
         "romaji": "rumata"
       },
       "meaning": {
-        "english": "lance shaft, action"
+        "english": "lance shaft, action |(vi) Thù (binh khí, cây giáo)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rumata0.svg",
@@ -336,7 +336,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "581",
     "strokeCount": 10,
-    "meaning": "kill, murder, butcher, slice off, split, diminish, reduce, spoil",
+    "meaning": "kill, murder, butcher, slice off, split, diminish, reduce, spoil |(vi) giết, sát hại, mổ thịt (súc vật), cắt lát, chia tách, giảm bớt, làm giảm, làm hỏng |(hv) Sát",
     "kunyomi": [
       "ころ.す",
       "-ごろ.し",
@@ -352,69 +352,69 @@
       {
         "example": "殺意",
         "reading": "サツイ",
-        "meaning": "intent to kill, intent to murder, urge to kill, murderous impulse"
+        "meaning": "intent to kill, intent to murder, urge to kill, murderous impulse |(vi) ý định giết người, ý muốn sát hại, thôi thúc giết chóc, xung động giết người"
       },
       {
         "example": "殺害",
         "reading": "サツガイ",
-        "meaning": "killing, murder"
+        "meaning": "killing, murder |(vi) sự giết chóc, sự sát hại"
       },
       {
         "example": "他殺",
         "reading": "タサツ",
-        "meaning": "murder"
+        "meaning": "murder |(vi) án mạng, giết người"
       },
       {
         "example": "併殺",
         "reading": "ヘイサツ",
-        "meaning": "double play"
+        "meaning": "double play |(vi) cú đánh đôi (bóng chày)"
       },
       {
         "example": "相殺",
         "reading": "ソウサイ",
-        "meaning": "offset, offsetting each other, cancelling each other out, counterbalancing, set-off, setoff, killing each other"
+        "meaning": "offset, offsetting each other, cancelling each other out, counterbalancing, set-off, setoff, killing each other |(vi) bù trừ, triệt tiêu lẫn nhau, cân bằng lẫn nhau, giết lẫn nhau"
       },
       {
         "example": "減殺",
         "reading": "ゲンサイ",
-        "meaning": "lessening, diminishing, reducing"
+        "meaning": "lessening, diminishing, reducing |(vi) sự giảm bớt, sự làm giảm, sự thu nhỏ"
       },
       {
         "example": "殺害",
         "reading": "サツガイ",
-        "meaning": "killing, murder"
+        "meaning": "killing, murder |(vi) sự giết chóc, sự sát hại"
       },
       {
         "example": "刹那",
         "reading": "セツナ",
-        "meaning": "moment, instant, kshana, duration of a single mental event (about 1/75 second), shortest possible interval of time"
+        "meaning": "moment, instant, kshana, duration of a single mental event (about 1/75 second), shortest possible interval of time |(vi) sát na, khoảnh khắc, thời gian của một niệm (khoảng 1/75 giây), khoảng thời gian ngắn nhất có thể"
       },
       {
         "example": "歳殺",
         "reading": "サイセツ",
-        "meaning": "Saisetsu, one of the eight gods of the traditional calendar"
+        "meaning": "Saisetsu, one of the eight gods of the traditional calendar |(vi) Saisetsu, một trong tám vị thần của lịch pháp truyền thống"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "殺す",
         "reading": "ころす",
-        "meaning": "to kill, to slay, to murder, to slaughter, to suppress, to block, to hamper, to destroy (e.g. talent), to eliminate (e.g. an odour), to spoil (e.g. a flavour), to kill (e.g. one's speed), to suppress (a voice, feelings, etc.), to hold back, to stifle (a yawn, laugh, etc.), to hold (one's breath), to put out (a runner), to pawn, to put in hock"
+        "meaning": "to kill, to slay, to murder, to slaughter, to suppress, to block, to hamper, to destroy (e.g. talent), to eliminate (e.g. an odour), to spoil (e.g. a flavour), to kill (e.g. one's speed), to suppress (a voice, feelings, etc.), to hold back, to stifle (a yawn, laugh, etc.), to hold (one's breath), to put out (a runner), to pawn, to put in hock |(vi) giết, sát hại, hạ sát, tàn sát, đàn áp, ngăn chặn, cản trở, hủy hoại (ví dụ: tài năng), khử (ví dụ: mùi hôi), làm hỏng (ví dụ: hương vị), giảm (ví dụ: tốc độ), kìm nén (giọng nói, cảm xúc,...), kìm lại, nén (ngáp, cười,...), nín (thở), loại người chạy ra ngoài (bóng chày), cầm cố, đem cầm"
       },
       {
         "example": "削ぐ",
         "reading": "そぐ",
-        "meaning": "to chip (off), to shave off, to slice off, to cut off, to sharpen, to dampen (one's enthusiasm, interest, etc.), to reduce, to diminish, to weaken, to spoil"
+        "meaning": "to chip (off), to shave off, to slice off, to cut off, to sharpen, to dampen (one's enthusiasm, interest, etc.), to reduce, to diminish, to weaken, to spoil |(vi) gọt (bớt), bào mỏng, cắt lát, cắt bỏ, mài sắc, làm giảm (nhiệt tình, hứng thú,...), giảm bớt, làm suy yếu, làm hỏng"
       },
       {
         "example": "殺める",
         "reading": "あやめる",
-        "meaning": "to wound, to murder"
+        "meaning": "to wound, to murder |(vi) làm bị thương, giết hại"
       }
     ],
     "radical": {
       "symbol": "殳",
-      "meaning": "weapon, lance"
+      "meaning": "weapon, lance |(vi) Thù (binh khí, cây giáo)"
     },
     "parts": [
       "ノ",

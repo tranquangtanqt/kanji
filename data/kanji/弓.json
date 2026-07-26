@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "yumi",
-    "meaning": "bow",
+    "meaning": "bow |(vi) cung (vũ khí)",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "弓道（きゅうどう）",
         "meaning": {
-          "english": "archery"
+          "english": "archery |(vi) cung đạo (bắn cung)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yumi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "弓状（きゅうじょう）",
         "meaning": {
-          "english": "bow-shaped, arched"
+          "english": "bow-shaped, arched |(vi) hình cung, cong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yumi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "洋弓（ようきゅう）",
         "meaning": {
-          "english": "Western-style archery"
+          "english": "Western-style archery |(vi) bắn cung kiểu phương Tây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yumi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "弓（ゆみ）",
         "meaning": {
-          "english": "bow [n.]"
+          "english": "bow [n.] |(vi) cây cung [danh từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yumi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "弓矢（ゆみや）",
         "meaning": {
-          "english": "bow and arrow"
+          "english": "bow and arrow |(vi) cung tên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yumi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "弓形（ゆみなり）",
         "meaning": {
-          "english": "arched, crescent-shaped"
+          "english": "arched, crescent-shaped |(vi) hình cung, hình lưỡi liềm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yumi_06_f.opus",
@@ -167,7 +167,7 @@
     "kanji": {
       "character": "弓",
       "meaning": {
-        "english": "bow"
+        "english": "bow |(vi) cung (vũ khí)"
       },
       "strokes": {
         "count": 3,
@@ -211,7 +211,7 @@
         "romaji": "yumi"
       },
       "meaning": {
-        "english": "bow（in archery）"
+        "english": "bow（in archery） |(vi) Cung (cây cung)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yumi0.svg",
@@ -232,7 +232,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1802",
     "strokeCount": 3,
-    "meaning": "bow, bow (archery, violin)",
+    "meaning": "bow, bow (archery, violin) |(vi) cung, cây cung (bắn cung, đàn violin) |(hv) Cung",
     "kunyomi": [
       "ゆみ"
     ],
@@ -243,49 +243,49 @@
       {
         "example": "弓",
         "reading": "キュウ",
-        "meaning": "bow (and arrow), unit of distance to an archery target (approx. six feet), unit of distance for land surveying (approx. eight feet)"
+        "meaning": "bow (and arrow), unit of distance to an archery target (approx. six feet), unit of distance for land surveying (approx. eight feet) |(vi) cung tên, đơn vị khoảng cách đến bia bắn cung (khoảng 1,8m), đơn vị đo đạc đất đai (khoảng 2,4m)"
       },
       {
         "example": "弓矢",
         "reading": "ユミヤ",
-        "meaning": "bow and arrow, weapon, arms"
+        "meaning": "bow and arrow, weapon, arms |(vi) cung tên, vũ khí, binh khí"
       },
       {
         "example": "洋弓",
         "reading": "ヨウキュウ",
-        "meaning": "(Western) archery, Western-style bow"
+        "meaning": "(Western) archery, Western-style bow |(vi) bắn cung kiểu phương Tây, cung kiểu Tây phương"
       },
       {
         "example": "鰓弓",
         "reading": "サイキュウ",
-        "meaning": "branchial arch, gill arch"
+        "meaning": "branchial arch, gill arch |(vi) cung mang, cung mang tai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "弓",
         "reading": "ゆみ",
-        "meaning": "bow (weapon), archery, bow (for a violin, etc.)"
+        "meaning": "bow (weapon), archery, bow (for a violin, etc.) |(vi) cây cung (vũ khí), bắn cung, cần kéo (đàn violin...)"
       },
       {
         "example": "弓矢",
         "reading": "ゆみや",
-        "meaning": "bow and arrow, weapon, arms"
+        "meaning": "bow and arrow, weapon, arms |(vi) cung tên, vũ khí, binh khí"
       },
       {
         "example": "大弓",
         "reading": "だいきゅう",
-        "meaning": "bow, longbow"
+        "meaning": "bow, longbow |(vi) cung dài, trường cung"
       },
       {
         "example": "上げ弓",
         "reading": "あげゆみ",
-        "meaning": "up-bow (technique used when playing a string instrument)"
+        "meaning": "up-bow (technique used when playing a string instrument) |(vi) kéo cần lên (kỹ thuật chơi đàn dây)"
       }
     ],
     "radical": {
       "symbol": "弓",
-      "meaning": "bow"
+      "meaning": "bow |(vi) Cung (cây cung)"
     },
     "parts": [
       "弓"

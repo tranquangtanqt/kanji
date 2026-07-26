@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "tokoro",
-    "meaning": "place",
+    "meaning": "place |(vi) nơi, chỗ",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "場所（ばしょ）",
         "meaning": {
-          "english": "place"
+          "english": "place |(vi) nơi, địa điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "住所（じゅうしょ）",
         "meaning": {
-          "english": "address"
+          "english": "address |(vi) địa chỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "近所（きんじょ）",
         "meaning": {
-          "english": "neighborhood"
+          "english": "neighborhood |(vi) hàng xóm, khu lân cận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "役所（やくしょ）",
         "meaning": {
-          "english": "public office"
+          "english": "public office |(vi) cơ quan hành chính, sở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "名所（めいしょ）",
         "meaning": {
-          "english": "famous place"
+          "english": "famous place |(vi) danh lam thắng cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "研究所（けんきゅうじょ）",
         "meaning": {
-          "english": "research institute"
+          "english": "research institute |(vi) viện nghiên cứu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "停留所（ていりゅうじょ）",
         "meaning": {
-          "english": "bus stop"
+          "english": "bus stop |(vi) trạm xe buýt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "所有する（しょゆうする）",
         "meaning": {
-          "english": "possess"
+          "english": "possess |(vi) sở hữu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "所（ところ）",
         "meaning": {
-          "english": "place"
+          "english": "place |(vi) nơi, chỗ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "台所（だいどころ）",
         "meaning": {
-          "english": "kitchen"
+          "english": "kitchen |(vi) nhà bếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "居所（いどころ）",
         "meaning": {
-          "english": "whereabouts"
+          "english": "whereabouts |(vi) nơi ở, chỗ ở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_k.opus",
@@ -282,7 +282,7 @@
     "kanji": {
       "character": "所",
       "meaning": {
-        "english": "place"
+        "english": "place |(vi) nơi, chỗ"
       },
       "strokes": {
         "count": 8,
@@ -336,7 +336,7 @@
         "romaji": "todare"
       },
       "meaning": {
-        "english": "door"
+        "english": "door |(vi) Hộ (cửa, nhà)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/todare0.svg",
@@ -357,7 +357,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "221",
     "strokeCount": 8,
-    "meaning": "place, extent",
+    "meaning": "place, extent |(vi) nơi, chỗ, phạm vi |(hv) Sở",
     "kunyomi": [
       "ところ",
       "-ところ",
@@ -371,84 +371,84 @@
       {
         "example": "所",
         "reading": "ショ",
-        "meaning": "counter for places"
+        "meaning": "counter for places |(vi) lượng từ đếm số nơi, địa điểm"
       },
       {
         "example": "署員",
         "reading": "ショイン",
-        "meaning": "staff member, station employee, official"
+        "meaning": "staff member, station employee, official |(vi) nhân viên, cán bộ, viên chức"
       },
       {
         "example": "高所",
         "reading": "コウショ",
-        "meaning": "high place, high ground, height, (high) altitude, elevation, broad (point of) view"
+        "meaning": "high place, high ground, height, (high) altitude, elevation, broad (point of) view |(vi) nơi cao, vùng cao, độ cao, tầm nhìn rộng"
       },
       {
         "example": "随所",
         "reading": "ズイショ",
-        "meaning": "everywhere, all over the place, here and there, at every turn"
+        "meaning": "everywhere, all over the place, here and there, at every turn |(vi) khắp nơi, chỗ nào cũng có, đâu đâu cũng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "所",
         "reading": "ところ",
-        "meaning": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about"
+        "meaning": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about |(vi) nơi, chỗ, cảnh, địa điểm, địa chỉ, khu vực, vùng, nhà mình, điểm, khía cạnh, mặt, đoạn (văn bản), phần, không gian, phòng, việc, chuyện, do đó, kết quả là, sắp sửa, vừa mới, đang, vừa xong, khoảng chừng"
       },
       {
         "example": "所で",
         "reading": "ところで",
-        "meaning": "by the way, incidentally, well, now, even if, no matter (what, where, how, etc.)"
+        "meaning": "by the way, incidentally, well, now, even if, no matter (what, where, how, etc.) |(vi) à này, nhân tiện, thế còn, dù thế nào đi nữa"
       },
       {
         "example": "一所",
         "reading": "いっしょ",
-        "meaning": "one place, the same place, one person, together"
+        "meaning": "one place, the same place, one person, together |(vi) một nơi, cùng một chỗ, một người, cùng nhau"
       },
       {
         "example": "痛いところ",
         "reading": "いたいところ",
-        "meaning": "one's weak point, one's sore spot, raw nerve"
+        "meaning": "one's weak point, one's sore spot, raw nerve |(vi) điểm yếu, chỗ đau, nỗi đau thầm kín"
       },
       {
         "example": "所か",
         "reading": "どころか",
-        "meaning": "far from, anything but, not at all ... but rather ..., not ..., on the contrary, ..., instead of, rather than, let alone, to say nothing of, not to mention, much less, not only ... (but also ...)"
+        "meaning": "far from, anything but, not at all ... but rather ..., not ..., on the contrary, ..., instead of, rather than, let alone, to say nothing of, not to mention, much less, not only ... (but also ...) |(vi) chẳng những không... mà ngược lại, đừng nói là..., huống chi, chưa nói đến"
       },
       {
         "example": "所じゃない",
         "reading": "どころじゃない",
-        "meaning": "not the time for, not the place for, far from, anything but, ... is out of the question, ... isn't the word for it"
+        "meaning": "not the time for, not the place for, far from, anything but, ... is out of the question, ... isn't the word for it |(vi) không phải lúc, không phải chuyện, ngoài sức tưởng tượng"
       },
       {
         "example": "大所",
         "reading": "おおどころ",
-        "meaning": "wealthy family, important person, bigwig"
+        "meaning": "wealthy family, important person, bigwig |(vi) nhà giàu có, người quan trọng, nhân vật lớn"
       },
       {
         "example": "居所",
         "reading": "いどころ",
-        "meaning": "whereabouts, address, place of temporary residence"
+        "meaning": "whereabouts, address, place of temporary residence |(vi) nơi ở, địa chỉ, chỗ tạm trú"
       },
       {
         "example": "所",
         "reading": "ところ",
-        "meaning": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about"
+        "meaning": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about |(vi) nơi, chỗ, cảnh, địa điểm, địa chỉ, khu vực, vùng, nhà mình, điểm, khía cạnh, mặt, đoạn (văn bản), phần, không gian, phòng, việc, chuyện, do đó, kết quả là, sắp sửa, vừa mới, đang, vừa xong, khoảng chừng"
       },
       {
         "example": "所で",
         "reading": "ところで",
-        "meaning": "by the way, incidentally, well, now, even if, no matter (what, where, how, etc.)"
+        "meaning": "by the way, incidentally, well, now, even if, no matter (what, where, how, etc.) |(vi) à này, nhân tiện, thế còn, dù thế nào đi nữa"
       },
       {
         "example": "早いとこ",
         "reading": "はやいとこ",
-        "meaning": "promptly, quickly"
+        "meaning": "promptly, quickly |(vi) nhanh chóng, mau lẹ"
       },
       {
         "example": "僕んとこ",
         "reading": "ぼくんとこ",
-        "meaning": "at my place"
+        "meaning": "at my place |(vi) chỗ của tôi, nhà tôi"
       }
     ],
     "radical": {
@@ -457,7 +457,7 @@
         "户",
         "戸"
       ],
-      "meaning": "door, house"
+      "meaning": "door, house |(vi) Hộ (cửa, nhà)"
     },
     "parts": [
       "一",

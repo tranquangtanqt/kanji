@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "naga, nagai",
-    "meaning": "eternal, long, forever",
+    "meaning": "eternal, long, forever |(vi) vĩnh cửu, dài lâu, mãi mãi",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "永遠（えいえん）",
         "meaning": {
-          "english": "eternity, permanence"
+          "english": "eternity, permanence |(vi) vĩnh viễn, trường tồn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "永久（えいきゅう）",
         "meaning": {
-          "english": "eternity, permanence"
+          "english": "eternity, permanence |(vi) vĩnh cửu, trường tồn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "永眠する（えいみんする）",
         "meaning": {
-          "english": "sleep eternally, pass away"
+          "english": "sleep eternally, pass away |(vi) yên giấc ngàn thu, qua đời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "永住する（えいじゅうする）",
         "meaning": {
-          "english": "reside permanently"
+          "english": "reside permanently |(vi) định cư vĩnh viễn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "永続する（えいぞくする）",
         "meaning": {
-          "english": "continue for a long time"
+          "english": "continue for a long time |(vi) kéo dài lâu bền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "永い（ながい）",
         "meaning": {
-          "english": "long, lengthy"
+          "english": "long, lengthy |(vi) dài, lâu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "永年（ながねん）",
         "meaning": {
-          "english": "long time, many years"
+          "english": "long time, many years |(vi) thời gian dài, nhiều năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "末永く（すえながく）",
         "meaning": {
-          "english": "forever"
+          "english": "forever |(vi) mãi mãi về sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_h.opus",
@@ -188,7 +188,7 @@
     "kanji": {
       "character": "永",
       "meaning": {
-        "english": "eternal, long, forever"
+        "english": "eternal, long, forever |(vi) vĩnh cửu, dài lâu, mãi mãi"
       },
       "strokes": {
         "count": 5,
@@ -236,7 +236,7 @@
         "romaji": "mizu"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mizu0.svg",
@@ -257,7 +257,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "846",
     "strokeCount": 5,
-    "meaning": "eternity, long, lengthy",
+    "meaning": "eternity, long, lengthy |(vi) vĩnh cửu, dài, lâu |(hv) Vĩnh",
     "kunyomi": [
       "なが.い"
     ],
@@ -268,34 +268,34 @@
       {
         "example": "永久",
         "reading": "エイキュウ",
-        "meaning": "eternity, permanence, perpetuity, Eikyū era (1113.7.13-1118.4.3)"
+        "meaning": "eternity, permanence, perpetuity, Eikyū era (1113.7.13-1118.4.3) |(vi) vĩnh cửu, trường tồn, niên hiệu Eikyū (1113-1118)"
       },
       {
         "example": "永遠",
         "reading": "エイエン",
-        "meaning": "eternity, perpetuity, permanence, immortality"
+        "meaning": "eternity, perpetuity, permanence, immortality |(vi) vĩnh viễn, trường tồn, bất tử"
       },
       {
         "example": "永々",
         "reading": "エイエイ",
-        "meaning": "forever"
+        "meaning": "forever |(vi) mãi mãi"
       },
       {
         "example": "大永",
         "reading": "タイエイ",
-        "meaning": "Taiei era (1521.8.23-1528.8.20)"
+        "meaning": "Taiei era (1521.8.23-1528.8.20) |(vi) niên hiệu Taiei (1521-1528)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "長い",
         "reading": "ながい",
-        "meaning": "long (distance, length), long (time), protracted, prolonged"
+        "meaning": "long (distance, length), long (time), protracted, prolonged |(vi) dài (khoảng cách, chiều dài), lâu (thời gian), kéo dài"
       },
       {
         "example": "長いこと",
         "reading": "ながいこと",
-        "meaning": "for a long time"
+        "meaning": "for a long time |(vi) trong một thời gian dài"
       }
     ],
     "radical": {
@@ -304,7 +304,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "丶",

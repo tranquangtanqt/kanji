@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "ingest, drink, smoke",
+    "meaning": "ingest, drink, smoke |(vi) ăn uống, hút (thuốc)",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "喫茶店（きっさてん）",
         "meaning": {
-          "english": "coffee shop"
+          "english": "coffee shop |(vi) quán cà phê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kitsu(ensuru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "喫煙する（きつえんする）",
         "meaning": {
-          "english": "smoke, have a smoke"
+          "english": "smoke, have a smoke |(vi) hút thuốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kitsu(ensuru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "満喫する（まんきつする）",
         "meaning": {
-          "english": "have enough of fully enjoy"
+          "english": "have enough of fully enjoy |(vi) tận hưởng trọn vẹn, thỏa thích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kitsu(ensuru)_06_c.opus",
@@ -134,7 +134,7 @@
     "kanji": {
       "character": "喫",
       "meaning": {
-        "english": "ingest, drink, smoke"
+        "english": "ingest, drink, smoke |(vi) ăn uống, hút (thuốc)"
       },
       "strokes": {
         "count": 12,
@@ -196,7 +196,7 @@
         "romaji": "kuchihen"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchihen0.svg",
@@ -217,7 +217,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1347",
     "strokeCount": 12,
-    "meaning": "consume, eat, drink, smoke, receive (a blow)",
+    "meaning": "consume, eat, drink, smoke, receive (a blow) |(vi) ăn uống, hút (thuốc), hứng chịu (một cú đánh) |(hv) Khiết",
     "kunyomi": [
       "の.む"
     ],
@@ -228,29 +228,29 @@
       {
         "example": "喫煙",
         "reading": "キツエン",
-        "meaning": "smoking (tobacco)"
+        "meaning": "smoking (tobacco) |(vi) hút thuốc"
       },
       {
         "example": "喫飲",
         "reading": "キツイン",
-        "meaning": "eating and drinking"
+        "meaning": "eating and drinking |(vi) ăn uống"
       },
       {
         "example": "漫喫",
         "reading": "マンキツ",
-        "meaning": "manga cafe, coffee shop with a manga library (usu. has Internet facilities and charges by the hour)"
+        "meaning": "manga cafe, coffee shop with a manga library (usu. has Internet facilities and charges by the hour) |(vi) quán cà phê truyện tranh (thường có Internet, tính phí theo giờ)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "喫む",
         "reading": "のむ",
-        "meaning": "to smoke (tobacco)"
+        "meaning": "to smoke (tobacco) |(vi) hút thuốc"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng)"
     },
     "parts": [
       "二",

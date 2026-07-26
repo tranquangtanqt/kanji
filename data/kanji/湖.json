@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "mizuumi",
-    "meaning": "lake",
+    "meaning": "lake |(vi) hồ",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "湖上（こじょう）",
         "meaning": {
-          "english": "on the lake"
+          "english": "on the lake |(vi) trên hồ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizuumi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "湖畔（こはん）",
         "meaning": {
-          "english": "lake shore"
+          "english": "lake shore |(vi) bờ hồ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizuumi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "淡水湖（たんすいこ）",
         "meaning": {
-          "english": "freshwater lake"
+          "english": "freshwater lake |(vi) hồ nước ngọt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizuumi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "琵琶湖（びわこ）",
         "meaning": {
-          "english": "Lake Biwa"
+          "english": "Lake Biwa |(vi) hồ Biwa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizuumi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "ミシガン湖（ミシガンこ）",
         "meaning": {
-          "english": "Lake Michigan"
+          "english": "Lake Michigan |(vi) hồ Michigan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizuumi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "湖（みずうみ）",
         "meaning": {
-          "english": "lake"
+          "english": "lake |(vi) hồ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizuumi_06_f.opus",
@@ -177,7 +177,7 @@
     "kanji": {
       "character": "湖",
       "meaning": {
-        "english": "lake"
+        "english": "lake |(vi) hồ"
       },
       "strokes": {
         "count": 12,
@@ -239,7 +239,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -260,7 +260,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1344",
     "strokeCount": 12,
-    "meaning": "lake",
+    "meaning": "lake |(vi) hồ |(hv) Hồ",
     "kunyomi": [
       "みずうみ"
     ],
@@ -271,39 +271,39 @@
       {
         "example": "湖",
         "reading": "コ",
-        "meaning": "lake (in place names)"
+        "meaning": "lake (in place names) |(vi) hồ (trong địa danh)"
       },
       {
         "example": "湖沼",
         "reading": "コショウ",
-        "meaning": "lake, marsh, wetland, inland waters"
+        "meaning": "lake, marsh, wetland, inland waters |(vi) hồ, đầm lầy, vùng đất ngập nước, nội thủy"
       },
       {
         "example": "汽水湖",
         "reading": "キスイコ",
-        "meaning": "brackish lake"
+        "meaning": "brackish lake |(vi) hồ nước lợ"
       },
       {
         "example": "塩水湖",
         "reading": "エンスイコ",
-        "meaning": "saltwater or saline lake"
+        "meaning": "saltwater or saline lake |(vi) hồ nước mặn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "湖",
         "reading": "みずうみ",
-        "meaning": "lake"
+        "meaning": "lake |(vi) hồ"
       },
       {
         "example": "白鳥の湖",
         "reading": "はくちょうのみずうみ",
-        "meaning": "Swan Lake (ballet)"
+        "meaning": "Swan Lake (ballet) |(vi) Hồ thiên nga (vở ba lê)"
       },
       {
         "example": "白鳥の湖",
         "reading": "はくちょうのみずうみ",
-        "meaning": "Swan Lake (ballet)"
+        "meaning": "Swan Lake (ballet) |(vi) Hồ thiên nga (vở ba lê)"
       }
     ],
     "radical": {
@@ -312,7 +312,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "十",

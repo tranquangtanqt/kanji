@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "kuchi",
-    "meaning": "mouth",
+    "meaning": "mouth |(vi) miệng",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "人口（じんこう）",
         "meaning": {
-          "english": "population"
+          "english": "population |(vi) dân số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "利口な（りこうな）",
         "meaning": {
-          "english": "clever"
+          "english": "clever |(vi) khôn ngoan, thông minh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "口調（くちょう）",
         "meaning": {
-          "english": "tone of voice"
+          "english": "tone of voice |(vi) giọng điệu, ngữ điệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "異口同音（いくどうおん）",
         "meaning": {
-          "english": "say something in unison"
+          "english": "say something in unison |(vi) đồng thanh, nhất trí nói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "口（くち）",
         "meaning": {
-          "english": "mouth"
+          "english": "mouth |(vi) miệng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "入り口（いりぐち）",
         "meaning": {
-          "english": "entrance"
+          "english": "entrance |(vi) lối vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "出口（でぐち）",
         "meaning": {
-          "english": "exit [n.]"
+          "english": "exit [n.] |(vi) lối ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "窓口（まどぐち）",
         "meaning": {
-          "english": "service window (e.g. at bank)"
+          "english": "service window (e.g. at bank) |(vi) quầy giao dịch, cửa sổ giao dịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "悪口（わるぐち）",
         "meaning": {
-          "english": "slander, abuse"
+          "english": "slander, abuse |(vi) nói xấu, chửi mắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "無口な（むくちな）",
         "meaning": {
-          "english": "reticent"
+          "english": "reticent |(vi) ít nói, kiệm lời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_j.opus",
@@ -279,7 +279,7 @@
     "kanji": {
       "character": "口",
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) miệng"
       },
       "strokes": {
         "count": 3,
@@ -323,7 +323,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng, lỗ mở)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -344,7 +344,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "284",
     "strokeCount": 3,
-    "meaning": "mouth",
+    "meaning": "mouth |(vi) miệng |(hv) Khẩu",
     "kunyomi": [
       "くち"
     ],
@@ -356,69 +356,69 @@
       {
         "example": "口",
         "reading": "ク",
-        "meaning": "mouth, speech, counter for people or implements"
+        "meaning": "mouth, speech, counter for people or implements |(vi) miệng, lời nói, lượng từ đếm người/dụng cụ"
       },
       {
         "example": "口径",
         "reading": "コウケイ",
-        "meaning": "aperture, bore, calibre, caliber"
+        "meaning": "aperture, bore, calibre, caliber |(vi) khẩu kính, cỡ nòng"
       },
       {
         "example": "開口",
         "reading": "カイコウ",
-        "meaning": "opening, aperture (e.g. camera), opening one's mouth, beginning to speak, open, broad"
+        "meaning": "opening, aperture (e.g. camera), opening one's mouth, beginning to speak, open, broad |(vi) khai khẩu, mở miệng, bắt đầu nói, rộng mở"
       },
       {
         "example": "悪口",
         "reading": "アッコウ",
-        "meaning": "(verbal) abuse, name-calling, abusive language, insulting remarks"
+        "meaning": "(verbal) abuse, name-calling, abusive language, insulting remarks |(vi) lời nói xúc phạm, chửi rủa"
       },
       {
         "example": "口",
         "reading": "ク",
-        "meaning": "mouth, speech, counter for people or implements"
+        "meaning": "mouth, speech, counter for people or implements |(vi) miệng, lời nói, lượng từ đếm người/dụng cụ"
       },
       {
         "example": "口",
         "reading": "クチ",
-        "meaning": "mouth, opening, hole, gap, orifice, mouth (of a bottle), spout, nozzle, mouthpiece, gate, door, entrance, exit, speaking, speech, talk (i.e. gossip), taste, palate, mouth (to feed), opening (i.e. vacancy), available position, invitation, summons, kind, sort, type, opening (i.e. beginning), counter for mouthfuls, shares (of money), stove burners, and swords"
+        "meaning": "mouth, opening, hole, gap, orifice, mouth (of a bottle), spout, nozzle, mouthpiece, gate, door, entrance, exit, speaking, speech, talk (i.e. gossip), taste, palate, mouth (to feed), opening (i.e. vacancy), available position, invitation, summons, kind, sort, type, opening (i.e. beginning), counter for mouthfuls, shares (of money), stove burners, and swords |(vi) miệng, lỗ mở, khe hở, miệng (chai), vòi, cửa, lối vào/ra, lời nói, khẩu vị, chỗ trống, việc làm, lượng từ"
       },
       {
         "example": "猪口",
         "reading": "チョコ",
-        "meaning": "sake cup, small deep porcelain bowl for serving food"
+        "meaning": "sake cup, small deep porcelain bowl for serving food |(vi) chén rượu sake, chén sứ nhỏ đựng thức ăn"
       },
       {
         "example": "赤口",
         "reading": "シャッコウ",
-        "meaning": "day that is unlucky except between the auspicious hours of 11am and 1pm (in the traditional calendar)"
+        "meaning": "day that is unlucky except between the auspicious hours of 11am and 1pm (in the traditional calendar) |(vi) ngày xích khẩu (ngày xấu trừ giờ Ngọ, theo lịch cũ)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "口",
         "reading": "くち",
-        "meaning": "mouth, opening, hole, gap, orifice, mouth (of a bottle), spout, nozzle, mouthpiece, gate, door, entrance, exit, speaking, speech, talk (i.e. gossip), taste, palate, mouth (to feed), opening (i.e. vacancy), available position, invitation, summons, kind, sort, type, opening (i.e. beginning), counter for mouthfuls, shares (of money), stove burners, and swords"
+        "meaning": "mouth, opening, hole, gap, orifice, mouth (of a bottle), spout, nozzle, mouthpiece, gate, door, entrance, exit, speaking, speech, talk (i.e. gossip), taste, palate, mouth (to feed), opening (i.e. vacancy), available position, invitation, summons, kind, sort, type, opening (i.e. beginning), counter for mouthfuls, shares (of money), stove burners, and swords |(vi) miệng, lỗ mở, khe hở, miệng (chai), vòi, cửa, lối vào/ra, lời nói, khẩu vị, chỗ trống, việc làm, lượng từ"
       },
       {
         "example": "口利き",
         "reading": "くちきき",
-        "meaning": "mediation, good offices, intervention, mediator, middleman, influential person, person of influence, eloquence, eloquent person, way of speaking"
+        "meaning": "mediation, good offices, intervention, mediator, middleman, influential person, person of influence, eloquence, eloquent person, way of speaking |(vi) sự trung gian, người môi giới, người có ảnh hưởng, tài ăn nói"
       },
       {
         "example": "切り口",
         "reading": "きりくち",
-        "meaning": "cut end, section, opening, slit, point of view, (different) perspective, new approach"
+        "meaning": "cut end, section, opening, slit, point of view, (different) perspective, new approach |(vi) mặt cắt, khe hở, góc nhìn, hướng tiếp cận mới"
       },
       {
         "example": "大口",
         "reading": "おおぐち",
-        "meaning": "big mouth, mouth opened wide, boastful speech, tall talk, bragging, boasting, large amount, large quantity"
+        "meaning": "big mouth, mouth opened wide, boastful speech, tall talk, bragging, boasting, large amount, large quantity |(vi) miệng rộng, lời khoác lác, số lượng lớn"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "口",

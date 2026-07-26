@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "yoko",
-    "meaning": "sideways, side",
+    "meaning": "sideways, side |(vi) ngang, bên cạnh",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "横断歩道（おうだんほどう）",
         "meaning": {
-          "english": "pedestrian crossing"
+          "english": "pedestrian crossing |(vi) vạch qua đường cho người đi bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoko_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "横着な（おうちゃくな）",
         "meaning": {
-          "english": "lazy"
+          "english": "lazy |(vi) lười biếng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoko_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "横（よこ）",
         "meaning": {
-          "english": "beside, side"
+          "english": "beside, side |(vi) bên cạnh, phía bên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoko_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "横浜（よこはま）",
         "meaning": {
-          "english": "Yokohama"
+          "english": "Yokohama |(vi) Yokohama"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoko_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "横綱（よこづな）",
         "meaning": {
-          "english": "sumo grand champion"
+          "english": "sumo grand champion |(vi) yokozuna (đại quán quân sumo)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoko_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "横書き（よこがき）",
         "meaning": {
-          "english": "writing horizontally"
+          "english": "writing horizontally |(vi) viết ngang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoko_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "横取りする（よこどりする）",
         "meaning": {
-          "english": "snatch"
+          "english": "snatch |(vi) cướp lấy, giật lấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoko_06_g.opus",
@@ -218,7 +218,7 @@
     "kanji": {
       "character": "横",
       "meaning": {
-        "english": "sideways, side"
+        "english": "sideways, side |(vi) ngang, bên cạnh"
       },
       "strokes": {
         "count": 15,
@@ -286,7 +286,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -307,7 +307,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "480",
     "strokeCount": 15,
-    "meaning": "sideways, side, horizontal, width, woof, unreasonable, perverse",
+    "meaning": "sideways, side, horizontal, width, woof, unreasonable, perverse |(vi) ngang, bên cạnh, nằm ngang, chiều rộng, sợi ngang (dệt), vô lý, ngang ngược |(hv) Hoành",
     "kunyomi": [
       "よこ"
     ],
@@ -318,49 +318,49 @@
       {
         "example": "横線",
         "reading": "オウセン",
-        "meaning": "horizontal line"
+        "meaning": "horizontal line |(vi) đường ngang, gạch ngang"
       },
       {
         "example": "横行",
         "reading": "オウコウ",
-        "meaning": "being rampant, being widespread, being prevalent, walking sideways, staggering, striding"
+        "meaning": "being rampant, being widespread, being prevalent, walking sideways, staggering, striding |(vi) hoành hành, lan tràn, phổ biến, đi ngang, đi loạng choạng, sải bước"
       },
       {
         "example": "縦横",
         "reading": "ジュウオウ",
-        "meaning": "length and width, length and breadth, lengthwise and crosswise, vertical and horizontal, the four cardinal points, every direction, all directions, as one wishes, as one pleases, at will"
+        "meaning": "length and width, length and breadth, lengthwise and crosswise, vertical and horizontal, the four cardinal points, every direction, all directions, as one wishes, as one pleases, at will |(vi) chiều dài và chiều rộng, dọc ngang, bốn phương tám hướng, mọi hướng, tùy ý, tự do"
       },
       {
         "example": "専横",
         "reading": "センオウ",
-        "meaning": "arbitrariness, despotism, high-handedness, tyranny"
+        "meaning": "arbitrariness, despotism, high-handedness, tyranny |(vi) sự chuyên quyền, độc đoán, áp bức, bạo ngược"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "横",
         "reading": "よこ",
-        "meaning": "horizontal (as opposed to vertical), side-to-side (as opposed to front-to-back), width, breadth, side (of a box, etc.), beside, aside, next to, unconnected"
+        "meaning": "horizontal (as opposed to vertical), side-to-side (as opposed to front-to-back), width, breadth, side (of a box, etc.), beside, aside, next to, unconnected |(vi) ngang (trái với dọc), từ bên này sang bên kia (trái với trước sau), chiều rộng, cạnh bên (của hộp...), bên cạnh, kề bên, không liên quan"
       },
       {
         "example": "邪",
         "reading": "よこしま",
-        "meaning": "wicked, evil, wrong, bad"
+        "meaning": "wicked, evil, wrong, bad |(vi) gian ác, xấu xa, sai trái, tồi tệ"
       },
       {
         "example": "真横",
         "reading": "まよこ",
-        "meaning": "(right at the) side, just beside"
+        "meaning": "(right at the) side, just beside |(vi) ngay bên cạnh, sát cạnh"
       },
       {
         "example": "縦中横",
         "reading": "たてちゅうよこ",
-        "meaning": "using horizontal characters in vertical writing"
+        "meaning": "using horizontal characters in vertical writing |(vi) viết chữ ngang trong dòng chữ dọc"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "ハ",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "institution",
+    "meaning": "institution |(vi) cơ sở, viện",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "大学院（だいがくいん）",
         "meaning": {
-          "english": "graduate school"
+          "english": "graduate school |(vi) trường sau đại học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)in_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "病院（びょういん）",
         "meaning": {
-          "english": "hospital"
+          "english": "hospital |(vi) bệnh viện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)in_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "美容院（びよういん）",
         "meaning": {
-          "english": "beauty salon"
+          "english": "beauty salon |(vi) thẩm mỹ viện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)in_06_c.opus",
@@ -185,7 +185,7 @@
     "kanji": {
       "character": "院",
       "meaning": {
-        "english": "institution"
+        "english": "institution |(vi) cơ sở, viện"
       },
       "strokes": {
         "count": 10,
@@ -243,7 +243,7 @@
         "romaji": "kozatohen"
       },
       "meaning": {
-        "english": "hill, mound"
+        "english": "hill, mound |(vi) Phụ (gò đất, đê)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kozatohen0.svg",
@@ -264,7 +264,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "150",
     "strokeCount": 10,
-    "meaning": "Inst., institution, temple, mansion, school",
+    "meaning": "Inst., institution, temple, mansion, school |(vi) viện, cơ sở, chùa, dinh thự, trường học |(hv) Viện",
     "kunyomi": [],
     "onyomi": [
       "イン"
@@ -273,22 +273,22 @@
       {
         "example": "院",
         "reading": "イン",
-        "meaning": "house of parliament (congress, diet, etc.), graduate school, postgraduate school, institution (often medical), institutional building, government office, sub-temple, minor temple building, temple, cloister, imperial palace, title bestowed on empresses, princesses, etc., former (esp. of emperors, daimyos, etc.), late"
+        "meaning": "house of parliament (congress, diet, etc.), graduate school, postgraduate school, institution (often medical), institutional building, government office, sub-temple, minor temple building, temple, cloister, imperial palace, title bestowed on empresses, princesses, etc., former (esp. of emperors, daimyos, etc.), late |(vi) viện (quốc hội, nghị viện...), trường sau đại học, cơ sở (thường là y tế), tòa nhà công quyền, chùa phụ, tòa nhà chùa nhỏ, chùa, tu viện, hoàng cung, tước hiệu ban cho hoàng hậu, công chúa..., cựu (đặc biệt thiên hoàng, lãnh chúa...), cố"
       },
       {
         "example": "院長",
         "reading": "インチョウ",
-        "meaning": "director (of a hospital, institution, academy, etc.), superintendent, rector"
+        "meaning": "director (of a hospital, institution, academy, etc.), superintendent, rector |(vi) giám đốc (bệnh viện, cơ sở, học viện...), hiệu trưởng, viện trưởng"
       },
       {
         "example": "議院",
         "reading": "ギイン",
-        "meaning": "parliament, congress, diet, house (of parliament, etc.), chamber"
+        "meaning": "parliament, congress, diet, house (of parliament, etc.), chamber |(vi) nghị viện, quốc hội, viện (lập pháp)"
       },
       {
         "example": "棋院",
         "reading": "キイン",
-        "meaning": "go institution, go club, go hall"
+        "meaning": "go institution, go club, go hall |(vi) viện cờ vây, câu lạc bộ cờ vây"
       }
     ],
     "kunyomiExamples": [],
@@ -297,7 +297,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "mound, dam (阝 left)"
+      "meaning": "mound, dam (阝 left) |(vi) Phụ (gò đất, đê)"
     },
     "parts": [
       "二",

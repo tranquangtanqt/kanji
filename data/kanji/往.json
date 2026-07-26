@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "go on, proceed",
+    "meaning": "go on, proceed |(vi) tiếp tục, đi tới",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "往年（おうねん）",
         "meaning": {
-          "english": "former, one-time, years ago"
+          "english": "former, one-time, years ago |(vi) trước đây, ngày xưa, những năm đã qua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(fukusuru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "往来（おうらい）",
         "meaning": {
-          "english": "comings and goings, traffic"
+          "english": "comings and goings, traffic |(vi) qua lại, giao thông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(fukusuru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "往復する（おうふくする）",
         "meaning": {
-          "english": "make a round trip"
+          "english": "make a round trip |(vi) đi khứ hồi, đi và về"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(fukusuru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "往診する（おうしんする）",
         "meaning": {
-          "english": "make a house call"
+          "english": "make a house call |(vi) khám bệnh tại nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(fukusuru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "往生する（おうじょうする）",
         "meaning": {
-          "english": "die peacefully, be in a fix"
+          "english": "die peacefully, be in a fix |(vi) chết yên bình, lâm vào thế bí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(fukusuru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "右往左往する（うおうさおうする）",
         "meaning": {
-          "english": "go every which way"
+          "english": "go every which way |(vi) chạy tán loạn, chạy qua chạy lại lộn xộn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(fukusuru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "立ち往生する（たちおうじょうする）",
         "meaning": {
-          "english": "be brought to a standstill [v.i.]"
+          "english": "be brought to a standstill [v.i.] |(vi) bị mắc kẹt, đứng khựng lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(fukusuru)_06_g.opus",
@@ -175,7 +175,7 @@
     "kanji": {
       "character": "往",
       "meaning": {
-        "english": "go on, proceed"
+        "english": "go on, proceed |(vi) tiếp tục, đi tới"
       },
       "strokes": {
         "count": 8,
@@ -229,7 +229,7 @@
         "romaji": "gyouninben"
       },
       "meaning": {
-        "english": "step, stride, street, to go"
+        "english": "step, stride, street, to go |(vi) Xích (bước chân)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
@@ -250,7 +250,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1421",
     "strokeCount": 8,
-    "meaning": "journey, travel, chase away, let go, going, before, formerly",
+    "meaning": "journey, travel, chase away, let go, going, before, formerly |(vi) hành trình, du hành, xua đuổi, để đi, sự đi, trước đây, ngày xưa |(hv) Vãng",
     "kunyomi": [
       "い.く",
       "いにしえ",
@@ -264,44 +264,44 @@
       {
         "example": "往復",
         "reading": "オウフク",
-        "meaning": "making a round trip, going and returning, coming and going, round-trip ticket, return ticket, correspondence, exchanging (of letters), keeping company (with), socializing, visiting each other"
+        "meaning": "making a round trip, going and returning, coming and going, round-trip ticket, return ticket, correspondence, exchanging (of letters), keeping company (with), socializing, visiting each other |(vi) chuyến đi khứ hồi, đi và về, vé khứ hồi, thư từ qua lại, giao thiệp, thăm hỏi lẫn nhau"
       },
       {
         "example": "往年",
         "reading": "オウネン",
-        "meaning": "years gone by, earlier years, former years, the past"
+        "meaning": "years gone by, earlier years, former years, the past |(vi) những năm đã qua, năm xưa, quá khứ"
       },
       {
         "example": "右往左往",
         "reading": "ウオウサオウ",
-        "meaning": "moving about in confusion, going every which way, going this way and that"
+        "meaning": "moving about in confusion, going every which way, going this way and that |(vi) chạy tán loạn, chạy qua chạy lại lộn xộn"
       },
       {
         "example": "以往",
         "reading": "イオウ",
-        "meaning": "after, ... and later, before, prior to"
+        "meaning": "after, ... and later, before, prior to |(vi) sau đó, kể từ, trước đó"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "行く",
         "reading": "いく",
-        "meaning": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination"
+        "meaning": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination |(vi) đi, di chuyển (đến), hướng (đến), rời đi, đi qua, đi dọc (con đường...), diễn ra (tốt, xấu...), tiến hành, trôi qua (thời gian, mùa...), chết, qua đời, đạt đến (giai đoạn, mức độ...), tiếp tục..., dần dần..., đạt cực khoái"
       },
       {
         "example": "古",
         "reading": "いにしえ",
-        "meaning": "antiquity, ancient times, bygone days, former times"
+        "meaning": "antiquity, ancient times, bygone days, former times |(vi) thời cổ, ngày xưa, quá khứ xa xưa"
       },
       {
         "example": "行く",
         "reading": "いく",
-        "meaning": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination"
+        "meaning": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination |(vi) đi, di chuyển (đến), hướng (đến), rời đi, đi qua, đi dọc (con đường...), diễn ra (tốt, xấu...), tiến hành, trôi qua (thời gian, mùa...), chết, qua đời, đạt đến (giai đoạn, mức độ...), tiếp tục..., dần dần..., đạt cực khoái"
       }
     ],
     "radical": {
       "symbol": "彳",
-      "meaning": "step"
+      "meaning": "step |(vi) Xích (bước chân)"
     },
     "parts": [
       "丶",

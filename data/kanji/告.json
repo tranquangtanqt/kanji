@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 5,
     "kunyomi": "tsu, tsugu, tsugeru",
-    "meaning": "notify, tell, inform",
+    "meaning": "notify, tell, inform |(vi) báo, kể, thông báo",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "報告する（ほうこくする）",
         "meaning": {
-          "english": "report [v.t.]"
+          "english": "report [v.t.] |(vi) báo cáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "忠告する（ちゅうこくする）",
         "meaning": {
-          "english": "advise, warn"
+          "english": "advise, warn |(vi) khuyên bảo, cảnh báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "警告する（けいこくする）",
         "meaning": {
-          "english": "warn"
+          "english": "warn |(vi) cảnh cáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "申告する（しんこくする）",
         "meaning": {
-          "english": "file a report"
+          "english": "file a report |(vi) khai báo, kê khai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "告訴する（こくそする）",
         "meaning": {
-          "english": "accuse"
+          "english": "accuse |(vi) kiện, tố cáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "告白する（こくはくする）",
         "meaning": {
-          "english": "confess"
+          "english": "confess |(vi) thú nhận, thổ lộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "広告（こうこく）",
         "meaning": {
-          "english": "advertisement"
+          "english": "advertisement |(vi) quảng cáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "被告（ひこく）",
         "meaning": {
-          "english": "defendant"
+          "english": "defendant |(vi) bị cáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "原告（げんこく）",
         "meaning": {
-          "english": "prosecutor"
+          "english": "prosecutor |(vi) nguyên cáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "告げる（つげる）",
         "meaning": {
-          "english": "inform"
+          "english": "inform |(vi) báo cho biết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "告げ口（つげぐち）",
         "meaning": {
-          "english": "tell on (someone) [n.]"
+          "english": "tell on (someone) [n.] |(vi) mách lẻo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_k.opus",
@@ -242,7 +242,7 @@
     "kanji": {
       "character": "告",
       "meaning": {
-        "english": "notify, tell, inform"
+        "english": "notify, tell, inform |(vi) báo, kể, thông báo"
       },
       "strokes": {
         "count": 7,
@@ -294,7 +294,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -315,7 +315,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "188",
     "strokeCount": 7,
-    "meaning": "revelation, tell, inform, announce",
+    "meaning": "revelation, tell, inform, announce |(vi) khải thị, kể, thông báo, loan báo |(hv) Cáo",
     "kunyomi": [
       "つ.げる"
     ],
@@ -326,34 +326,34 @@
       {
         "example": "告訴",
         "reading": "コクソ",
-        "meaning": "accusation, complaint, charge, suit, legal action, legal proceedings"
+        "meaning": "accusation, complaint, charge, suit, legal action, legal proceedings |(vi) tố cáo, khiếu nại, buộc tội, kiện tụng, tố tụng"
       },
       {
         "example": "告示",
         "reading": "コクジ",
-        "meaning": "notice, bulletin"
+        "meaning": "notice, bulletin |(vi) thông báo, cáo thị"
       },
       {
         "example": "抗告",
         "reading": "コウコク",
-        "meaning": "appeal, protest, complaint"
+        "meaning": "appeal, protest, complaint |(vi) kháng cáo, phản đối, khiếu nại"
       },
       {
         "example": "戒告",
         "reading": "カイコク",
-        "meaning": "admonition, warning, caution"
+        "meaning": "admonition, warning, caution |(vi) răn đe, cảnh cáo, cảnh báo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "告げる",
         "reading": "つげる",
-        "meaning": "to tell, to inform, to announce, to indicate, to signal, to mark"
+        "meaning": "to tell, to inform, to announce, to indicate, to signal, to mark |(vi) báo cho biết, thông báo, loan báo, chỉ ra, báo hiệu, đánh dấu"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "ノ",

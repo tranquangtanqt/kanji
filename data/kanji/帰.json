@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kae, kaeru",
-    "meaning": "return",
+    "meaning": "return |(vi) trở về",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "帰国する（きこくする）",
         "meaning": {
-          "english": "return to one's own country"
+          "english": "return to one's own country |(vi) về nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-kae(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "帰宅する（きたくする）",
         "meaning": {
-          "english": "return home"
+          "english": "return home |(vi) về nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-kae(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "復帰する（ふっきする）",
         "meaning": {
-          "english": "come back"
+          "english": "come back |(vi) quay trở lại, phục hồi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-kae(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "帰る（かえる）",
         "meaning": {
-          "english": "go home, go back"
+          "english": "go home, go back |(vi) về nhà, trở về"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-kae(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "日帰り（ひがえり）",
         "meaning": {
-          "english": "day trip"
+          "english": "day trip |(vi) chuyến đi trong ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-kae(ru)_06_e.opus",
@@ -212,7 +212,7 @@
     "kanji": {
       "character": "帰",
       "meaning": {
-        "english": "return"
+        "english": "return |(vi) trở về"
       },
       "strokes": {
         "count": 10,
@@ -270,7 +270,7 @@
         "romaji": "haba"
       },
       "meaning": {
-        "english": "cloth"
+        "english": "cloth |(vi) Cân (khăn, vải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/haba0.svg",
@@ -291,7 +291,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "504",
     "strokeCount": 10,
-    "meaning": "homecoming, arrive at, lead to, result in",
+    "meaning": "homecoming, arrive at, lead to, result in |(vi) trở về nhà, đi đến, dẫn đến, đưa đến kết quả |(hv) Quy",
     "kunyomi": [
       "かえ.る",
       "かえ.す",
@@ -305,39 +305,39 @@
       {
         "example": "帰還",
         "reading": "キカン",
-        "meaning": "return (home), repatriation, feedback (in an electronic circuit, biological system, etc.)"
+        "meaning": "return (home), repatriation, feedback (in an electronic circuit, biological system, etc.) |(vi) trở về (nhà), hồi hương, phản hồi (trong mạch điện tử, hệ sinh học...)"
       },
       {
         "example": "帰化",
         "reading": "キカ",
-        "meaning": "naturalization, naturalisation"
+        "meaning": "naturalization, naturalisation |(vi) nhập quốc tịch"
       },
       {
         "example": "社会復帰",
         "reading": "シャカイフッキ",
-        "meaning": "rehabilitation (in society)"
+        "meaning": "rehabilitation (in society) |(vi) tái hòa nhập xã hội"
       },
       {
         "example": "回帰",
         "reading": "カイキ",
-        "meaning": "return (to), revolution, recurrence, regression"
+        "meaning": "return (to), revolution, recurrence, regression |(vi) quay trở lại, sự tuần hoàn, tái diễn, hồi quy"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "帰る",
         "reading": "かえる",
-        "meaning": "to return, to come home, to go home, to go back, to leave (of a guest, customer, etc.), to get home, to get to home plate"
+        "meaning": "to return, to come home, to go home, to go back, to leave (of a guest, customer, etc.), to get home, to get to home plate |(vi) trở về, về nhà, quay lại, rời đi (khách...), đến nhà, về đến chốt nhà (bóng chày)"
       },
       {
         "example": "帰す",
         "reading": "かえす",
-        "meaning": "to send (someone) back, to send (someone) home"
+        "meaning": "to send (someone) back, to send (someone) home |(vi) đưa ai đó về, cho ai đó về nhà"
       }
     ],
     "radical": {
       "symbol": "巾",
-      "meaning": "turban, scarf"
+      "meaning": "turban, scarf |(vi) Cân (khăn, vải)"
     },
     "parts": [
       "ヨ",

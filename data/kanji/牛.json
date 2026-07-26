@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ushi",
-    "meaning": "cattle, cow, ox",
+    "meaning": "cattle, cow, ox |(vi) gia súc, bò, trâu",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "牛乳（ぎゅうにゅう）",
         "meaning": {
-          "english": "(cow) milk"
+          "english": "(cow) milk |(vi) sữa bò"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyuu-ushi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "牛肉（ぎゅうにく）",
         "meaning": {
-          "english": "beef"
+          "english": "beef |(vi) thịt bò"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyuu-ushi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "闘牛（とうぎゅう）",
         "meaning": {
-          "english": "bull fight"
+          "english": "bull fight |(vi) đấu bò"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyuu-ushi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "牛（うし）",
         "meaning": {
-          "english": "cow"
+          "english": "cow |(vi) con bò"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyuu-ushi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "子牛（こうし）",
         "meaning": {
-          "english": "calf"
+          "english": "calf |(vi) bê con"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyuu-ushi_06_e.opus",
@@ -216,7 +216,7 @@
     "kanji": {
       "character": "牛",
       "meaning": {
-        "english": "cattle, cow, ox"
+        "english": "cattle, cow, ox |(vi) gia súc, bò, trâu"
       },
       "strokes": {
         "count": 4,
@@ -262,7 +262,7 @@
         "romaji": "ushi"
       },
       "meaning": {
-        "english": "cow"
+        "english": "cow |(vi) Ngưu (trâu, bò)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ushi0.svg",
@@ -283,7 +283,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1202",
     "strokeCount": 4,
-    "meaning": "cow",
+    "meaning": "cow |(vi) bò |(hv) Ngưu",
     "kunyomi": [
       "うし"
     ],
@@ -294,44 +294,44 @@
       {
         "example": "妓夫",
         "reading": "ギュウ",
-        "meaning": "pimp, brothel tout"
+        "meaning": "pimp, brothel tout |(vi) kẻ dắt mối, người mồi chài cho nhà thổ"
       },
       {
         "example": "牛",
         "reading": "ウシ",
-        "meaning": "cattle (Bos taurus), cow, bull, ox, calf, beef, Chinese \"Ox\" constellation (one of the 28 mansions)"
+        "meaning": "cattle (Bos taurus), cow, bull, ox, calf, beef, Chinese \"Ox\" constellation (one of the 28 mansions) |(vi) gia súc (Bos taurus), bò cái, bò đực, bò thiến, bê, thịt bò, chòm sao \"Ngưu\" của Trung Hoa (một trong 28 tú)"
       },
       {
         "example": "肉牛",
         "reading": "ニクギュウ",
-        "meaning": "beef cattle"
+        "meaning": "beef cattle |(vi) bò thịt"
       },
       {
         "example": "海牛",
         "reading": "カイギュウ",
-        "meaning": "sirenian (any aquatic mammal of order Sirenia, incl. manatees, and dugongs), sea cow"
+        "meaning": "sirenian (any aquatic mammal of order Sirenia, incl. manatees, and dugongs), sea cow |(vi) bò biển (động vật có vú dưới nước thuộc bộ Sirenia, gồm lợn biển và cá cúi)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "牛",
         "reading": "うし",
-        "meaning": "cattle (Bos taurus), cow, bull, ox, calf, beef, Chinese \"Ox\" constellation (one of the 28 mansions)"
+        "meaning": "cattle (Bos taurus), cow, bull, ox, calf, beef, Chinese \"Ox\" constellation (one of the 28 mansions) |(vi) gia súc (Bos taurus), bò cái, bò đực, bò thiến, bê, thịt bò, chòm sao \"Ngưu\" của Trung Hoa (một trong 28 tú)"
       },
       {
         "example": "牛車",
         "reading": "ぎゅうしゃ",
-        "meaning": "ox carriage (for Heian-era nobles), oxcart"
+        "meaning": "ox carriage (for Heian-era nobles), oxcart |(vi) xe bò (dành cho quý tộc thời Heian), xe kéo bởi bò"
       },
       {
         "example": "去勢牛",
         "reading": "きょせいうし",
-        "meaning": "ox, bullock"
+        "meaning": "ox, bullock |(vi) bò đực bị thiến"
       },
       {
         "example": "特牛",
         "reading": "こというし",
-        "meaning": "strong bull"
+        "meaning": "strong bull |(vi) bò đực khỏe mạnh"
       }
     ],
     "radical": {
@@ -339,7 +339,7 @@
       "forms": [
         "牜"
       ],
-      "meaning": "cow"
+      "meaning": "cow |(vi) Ngưu (trâu, bò)"
     },
     "parts": [
       "牛"

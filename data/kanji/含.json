@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "fuku, fukumu, fukumi, fukumeru",
-    "meaning": "contain, include",
+    "meaning": "contain, include |(vi) chứa đựng, bao gồm",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "含蓄（がんちく）",
         "meaning": {
-          "english": "significance, implication"
+          "english": "significance, implication |(vi) hàm ý, ngụ ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "含有する（がんゆうする）",
         "meaning": {
-          "english": "contain, include"
+          "english": "contain, include |(vi) chứa, hàm chứa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "包含する（ほうがんする）",
         "meaning": {
-          "english": "include, contain, imply"
+          "english": "include, contain, imply |(vi) bao gồm, bao hàm, hàm chứa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "含める（ふくめる）",
         "meaning": {
-          "english": "include [v.t.]"
+          "english": "include [v.t.] |(vi) bao gồm, tính cả vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "含む（ふくむ）",
         "meaning": {
-          "english": "include, contain, hold [v.i.]"
+          "english": "include, contain, hold [v.i.] |(vi) chứa, bao gồm, ngậm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(mu)_06_e.opus",
@@ -164,7 +164,7 @@
     "kanji": {
       "character": "含",
       "meaning": {
-        "english": "contain, include"
+        "english": "contain, include |(vi) chứa đựng, bao gồm"
       },
       "strokes": {
         "count": 7,
@@ -216,7 +216,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng, lỗ mở)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -237,7 +237,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "466",
     "strokeCount": 7,
-    "meaning": "contain, include, hold in the mouth, bear in mind, understand, cherish",
+    "meaning": "contain, include, hold in the mouth, bear in mind, understand, cherish |(vi) chứa đựng, bao gồm, ngậm trong miệng, ghi nhớ, hiểu, ấp ủ |(hv) Hàm",
     "kunyomi": [
       "ふく.む",
       "ふく.める"
@@ -249,39 +249,39 @@
       {
         "example": "含有",
         "reading": "ガンユウ",
-        "meaning": "containing (an ingredient, mineral, etc.)"
+        "meaning": "containing (an ingredient, mineral, etc.) |(vi) chứa (thành phần, khoáng chất...)"
       },
       {
         "example": "含蓄",
         "reading": "ガンチク",
-        "meaning": "implication, significance, connotation, depth of meaning, complications of a problem"
+        "meaning": "implication, significance, connotation, depth of meaning, complications of a problem |(vi) hàm ý, ý nghĩa sâu xa, sắc thái ngụ ý"
       },
       {
         "example": "内含",
         "reading": "ナイガン",
-        "meaning": "containing within (it), inclusion, (material) implication, material conditional"
+        "meaning": "containing within (it), inclusion, (material) implication, material conditional |(vi) hàm chứa bên trong, bao hàm, phép kéo theo (logic)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "含む",
         "reading": "ふくむ",
-        "meaning": "to contain, to comprise, to have, to hold, to include, to embrace, to hold in the mouth, to bear in mind, to understand, to harbor (grudge, etc.), to harbour, to express (emotion, etc.), to imply"
+        "meaning": "to contain, to comprise, to have, to hold, to include, to embrace, to hold in the mouth, to bear in mind, to understand, to harbor (grudge, etc.), to harbour, to express (emotion, etc.), to imply |(vi) chứa, bao gồm, có, ngậm trong miệng, ghi nhớ, hiểu, ôm giữ (mối hận...), thể hiện (cảm xúc...), ngụ ý"
       },
       {
         "example": "含むところがある",
         "reading": "ふくむところがある",
-        "meaning": "to harbor ill feeling"
+        "meaning": "to harbor ill feeling |(vi) ôm giữ ác cảm, có ẩn ý không hài lòng"
       },
       {
         "example": "含める",
         "reading": "ふくめる",
-        "meaning": "to include (in a group or scope), to instruct, to make one understand, to include (a nuance), to put in (an implication), to put in (someone's) mouth, to permeate with flavor"
+        "meaning": "to include (in a group or scope), to instruct, to make one understand, to include (a nuance), to put in (an implication), to put in (someone's) mouth, to permeate with flavor |(vi) bao gồm (trong nhóm/phạm vi), dạy bảo, giúp hiểu rõ, ngụ ý, gửi gắm (hàm ý), đút vào miệng ai, thấm đượm hương vị"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "一",

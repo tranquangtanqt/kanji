@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "manufacture, construction",
+    "meaning": "manufacture, construction |(vi) chế tạo, xây dựng",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "工事（こうじ）",
         "meaning": {
-          "english": "construction work"
+          "english": "construction work |(vi) công trình xây dựng, thi công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "工場（こうじょう）",
         "meaning": {
-          "english": "factory"
+          "english": "factory |(vi) nhà máy, xưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "工学部（こうがくぶ）",
         "meaning": {
-          "english": "engineering department"
+          "english": "engineering department |(vi) khoa kỹ thuật, khoa công nghệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "人工的な（じんこうてきな）",
         "meaning": {
-          "english": "artificial"
+          "english": "artificial |(vi) nhân tạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "加工する（かこうする）",
         "meaning": {
-          "english": "process [v.t.]"
+          "english": "process [v.t.] |(vi) chế biến, gia công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "大工（だいく）",
         "meaning": {
-          "english": "carpenter"
+          "english": "carpenter |(vi) thợ mộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "細工する（さいくする）",
         "meaning": {
-          "english": "craft"
+          "english": "craft |(vi) chế tác, làm thủ công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "工夫する（くふうする）",
         "meaning": {
-          "english": "devise"
+          "english": "devise |(vi) sáng tạo, nghĩ cách, tìm tòi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "工面する（くめんする）",
         "meaning": {
-          "english": "raise (money)"
+          "english": "raise (money) |(vi) xoay xở (tiền bạc)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_i.opus",
@@ -252,7 +252,7 @@
     "kanji": {
       "character": "工",
       "meaning": {
-        "english": "manufacture, construction"
+        "english": "manufacture, construction |(vi) chế tạo, xây dựng"
       },
       "strokes": {
         "count": 3,
@@ -296,7 +296,7 @@
         "romaji": "takumi"
       },
       "meaning": {
-        "english": "work, carpenter, skill"
+        "english": "work, carpenter, skill |(vi) Công (công việc, thợ, kỹ năng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takumi0.svg",
@@ -317,7 +317,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "299",
     "strokeCount": 3,
-    "meaning": "craft, construction, katakana e radical (no. 48)",
+    "meaning": "craft, construction, katakana e radical (no. 48) |(vi) thủ công, xây dựng, bộ thủ katakana e (số 48) |(hv) Công",
     "kunyomi": [],
     "onyomi": [
       "コウ",
@@ -328,58 +328,58 @@
       {
         "example": "工",
         "reading": "コウ",
-        "meaning": "(factory) worker"
+        "meaning": "(factory) worker |(vi) công nhân (nhà máy)"
       },
       {
         "example": "工員",
         "reading": "コウイン",
-        "meaning": "factory worker"
+        "meaning": "factory worker |(vi) công nhân nhà máy"
       },
       {
         "example": "起工",
         "reading": "キコウ",
-        "meaning": "setting to work"
+        "meaning": "setting to work |(vi) khởi công"
       },
       {
         "example": "商工",
         "reading": "ショウコウ",
-        "meaning": "commerce and industry"
+        "meaning": "commerce and industry |(vi) thương mại và công nghiệp"
       },
       {
         "example": "工夫",
         "reading": "クフウ",
-        "meaning": "devising (a way), contriving, inventing, thinking up, figuring out, coming up with, working out, device, design, idea, plan, invention, dedication to spiritual improvement (esp. through Zen meditation)"
+        "meaning": "devising (a way), contriving, inventing, thinking up, figuring out, coming up with, working out, device, design, idea, plan, invention, dedication to spiritual improvement (esp. through Zen meditation) |(vi) nghĩ cách, sáng kiến, ý tưởng, sự tu dưỡng tinh thần (thiền định)"
       },
       {
         "example": "工面",
         "reading": "クメン",
-        "meaning": "contrivance, managing (to raise money), one's financial condition"
+        "meaning": "contrivance, managing (to raise money), one's financial condition |(vi) xoay xở tiền bạc, tình hình tài chính"
       },
       {
         "example": "竹細工",
         "reading": "タケザイク",
-        "meaning": "bamboo work, bamboo ware"
+        "meaning": "bamboo work, bamboo ware |(vi) đồ thủ công tre, hàng tre đan"
       },
       {
         "example": "寄せ木細工",
         "reading": "ヨセギザイク",
-        "meaning": "wooden mosaic work, parquetry, wooden mosaic (e.g. on a piece of furniture), marquetry, marqueterie"
+        "meaning": "wooden mosaic work, parquetry, wooden mosaic (e.g. on a piece of furniture), marquetry, marqueterie |(vi) đồ khảm gỗ, tranh khảm gỗ"
       },
       {
         "example": "具合",
         "reading": "グアイ",
-        "meaning": "condition, state, health, state (of health), way, manner, circumstance, luck, face, dignity, decency, propriety"
+        "meaning": "condition, state, health, state (of health), way, manner, circumstance, luck, face, dignity, decency, propriety |(vi) tình trạng, tình hình sức khỏe, cách thức, hoàn cảnh"
       },
       {
         "example": "工面",
         "reading": "クメン",
-        "meaning": "contrivance, managing (to raise money), one's financial condition"
+        "meaning": "contrivance, managing (to raise money), one's financial condition |(vi) xoay xở tiền bạc, tình hình tài chính"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "工",
-      "meaning": "work"
+      "meaning": "work |(vi) Công (công việc)"
     },
     "parts": [
       "工"

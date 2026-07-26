@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "matsu",
-    "meaning": "pine",
+    "meaning": "pine |(vi) thông (cây thông)",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "松竹梅（しょうちくばい）",
         "meaning": {
-          "english": "pine, bamboo, plum"
+          "english": "pine, bamboo, plum |(vi) tùng, trúc, mai (bộ ba biểu tượng may mắn)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-matsu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "松（まつ）",
         "meaning": {
-          "english": "pine tree, highest rank"
+          "english": "pine tree, highest rank |(vi) cây thông; hạng cao nhất (trong xếp hạng tùng - trúc - mai)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-matsu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "松林（まつばやし）",
         "meaning": {
-          "english": "pine forest"
+          "english": "pine forest |(vi) rừng thông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-matsu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "松葉（まつば）",
         "meaning": {
-          "english": "pine needle"
+          "english": "pine needle |(vi) lá thông, kim thông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-matsu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "松茸（まつたけ）",
         "meaning": {
-          "english": "matsutake mushroom"
+          "english": "matsutake mushroom |(vi) nấm thông (matsutake)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-matsu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "門松（かどまつ）",
         "meaning": {
-          "english": "New Year's decorative pine trees"
+          "english": "New Year's decorative pine trees |(vi) cây thông trang trí trước cổng dịp năm mới (kadomatsu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-matsu_06_f.opus",
@@ -157,7 +157,7 @@
     "kanji": {
       "character": "松",
       "meaning": {
-        "english": "pine"
+        "english": "pine |(vi) thông (cây thông)"
       },
       "strokes": {
         "count": 8,
@@ -211,7 +211,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -232,7 +232,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "471",
     "strokeCount": 8,
-    "meaning": "pine tree",
+    "meaning": "pine tree |(vi) cây thông |(hv) Tùng",
     "kunyomi": [
       "まつ"
     ],
@@ -243,49 +243,49 @@
       {
         "example": "松竹梅",
         "reading": "ショウチクバイ",
-        "meaning": "pine, bamboo and plum (an auspicious grouping), high, middle and low (ranking), top, middle and bottom, upper, medium, lower, first, second and third (class)"
+        "meaning": "pine, bamboo and plum (an auspicious grouping), high, middle and low (ranking), top, middle and bottom, upper, medium, lower, first, second and third (class) |(vi) tùng, trúc, mai (bộ ba biểu tượng may mắn); hạng cao-trung-thấp, thượng-trung-hạ, hạng nhất-nhì-ba"
       },
       {
         "example": "鰹",
         "reading": "カツオ",
-        "meaning": "skipjack tuna (Katsuwonus pelamis), oceanic bonito, victorfish"
+        "meaning": "skipjack tuna (Katsuwonus pelamis), oceanic bonito, victorfish |(vi) cá ngừ vằn (bonito), cá ngừ đại dương"
       },
       {
         "example": "老松",
         "reading": "ロウショウ",
-        "meaning": "old pine tree"
+        "meaning": "old pine tree |(vi) cây thông già"
       },
       {
         "example": "翠松",
         "reading": "スイショウ",
-        "meaning": "verdant pine, green pine"
+        "meaning": "verdant pine, green pine |(vi) thông xanh biếc, thông xanh tươi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "松",
         "reading": "まつ",
-        "meaning": "pine tree (Pinus spp.), highest (of a three-tier ranking system)"
+        "meaning": "pine tree (Pinus spp.), highest (of a three-tier ranking system) |(vi) cây thông (chi Pinus); hạng cao nhất (trong hệ thống xếp hạng ba bậc)"
       },
       {
         "example": "松下電工",
         "reading": "まつしたでんこう",
-        "meaning": "Matsushita Electric Works"
+        "meaning": "Matsushita Electric Works |(vi) Công ty Điện khí Matsushita (Matsushita Electric Works)"
       },
       {
         "example": "赤松",
         "reading": "あかまつ",
-        "meaning": "Japanese red pine (Pinus densiflora), Japanese umbrella pine, tanyosho pine"
+        "meaning": "Japanese red pine (Pinus densiflora), Japanese umbrella pine, tanyosho pine |(vi) thông đỏ Nhật Bản (Pinus densiflora), thông tán Nhật Bản, thông tanyosho"
       },
       {
         "example": "浜松",
         "reading": "はままつ",
-        "meaning": "Hamamatsu (city)"
+        "meaning": "Hamamatsu (city) |(vi) Hamamatsu (thành phố)"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "ハ",

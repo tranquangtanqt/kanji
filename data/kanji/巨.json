@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "huge, gigantic, large",
+    "meaning": "huge, gigantic, large |(vi) khổng lồ, to lớn, đồ sộ",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "巨人（きょじん）",
         "meaning": {
-          "english": "giant"
+          "english": "giant |(vi) người khổng lồ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo(daina)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "巨岩（きょがん）",
         "meaning": {
-          "english": "huge rock, crag"
+          "english": "huge rock, crag |(vi) tảng đá lớn, mỏm đá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo(daina)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "巨視的な（きょしてきな）",
         "meaning": {
-          "english": "macroscopic"
+          "english": "macroscopic |(vi) vĩ mô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo(daina)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "巨大な（きょだいな）",
         "meaning": {
-          "english": "enormous, colossal"
+          "english": "enormous, colossal |(vi) khổng lồ, đồ sộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo(daina)_06_d.opus",
@@ -137,7 +137,7 @@
     "kanji": {
       "character": "巨",
       "meaning": {
-        "english": "huge, gigantic, large"
+        "english": "huge, gigantic, large |(vi) khổng lồ, to lớn, đồ sộ"
       },
       "strokes": {
         "count": 5,
@@ -185,7 +185,7 @@
         "romaji": "ni"
       },
       "meaning": {
-        "english": "two"
+        "english": "two |(vi) Nhị (hai)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ni0.svg",
@@ -206,7 +206,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "892",
     "strokeCount": 5,
-    "meaning": "gigantic, big, large, great",
+    "meaning": "gigantic, big, large, great |(vi) khổng lồ, to, lớn, vĩ đại |(hv) Cự",
     "kunyomi": [],
     "onyomi": [
       "キョ"
@@ -215,18 +215,18 @@
       {
         "example": "巨匠",
         "reading": "キョショウ",
-        "meaning": "master, masterhand, maestro"
+        "meaning": "master, masterhand, maestro |(vi) bậc thầy, danh thủ, maestro"
       },
       {
         "example": "巨額",
         "reading": "キョガク",
-        "meaning": "huge sum (esp. of money), enormous sum, massive amount"
+        "meaning": "huge sum (esp. of money), enormous sum, massive amount |(vi) số tiền khổng lồ, số tiền lớn, khoản tiền đồ sộ"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "工",
-      "meaning": "work"
+      "meaning": "work |(vi) Công (thợ, việc)"
     },
     "parts": [
       "匚",

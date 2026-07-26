@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 4,
     "kunyomi": "kaeru, kawaru, ka",
-    "meaning": "exchange, substitute",
+    "meaning": "exchange, substitute |(vi) trao đổi, thay thế",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "換気する（かんきする）",
         "meaning": {
-          "english": "ventilate"
+          "english": "ventilate |(vi) thông gió"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ka(eru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "換算する（かんさんする）",
         "meaning": {
-          "english": "convert (calculation)"
+          "english": "convert (calculation) |(vi) quy đổi, chuyển đổi (tính toán)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ka(eru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "交換する（こうかんする）",
         "meaning": {
-          "english": "exchange [v.t.]"
+          "english": "exchange [v.t.] |(vi) trao đổi, hoán đổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ka(eru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "変換する（へんかんする）",
         "meaning": {
-          "english": "change, convert, transform"
+          "english": "change, convert, transform |(vi) biến đổi, chuyển đổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ka(eru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "転換期（てんかんき）",
         "meaning": {
-          "english": "turning point, transitional period"
+          "english": "turning point, transitional period |(vi) thời kỳ chuyển đổi, bước ngoặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ka(eru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "互換性（ごかんせい）",
         "meaning": {
-          "english": "compatibility"
+          "english": "compatibility |(vi) tính tương thích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ka(eru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "換える（かえる）",
         "meaning": {
-          "english": "replace [v.t.]"
+          "english": "replace [v.t.] |(vi) thay thế, đổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ka(eru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "乗り換える（のりかえる）",
         "meaning": {
-          "english": "transfer (bus, trains)"
+          "english": "transfer (bus, trains) |(vi) chuyển tàu/xe, đổi chuyến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ka(eru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "換わる（かわる）",
         "meaning": {
-          "english": "take the place of [v.i.]"
+          "english": "take the place of [v.i.] |(vi) được thay thế, thay đổi vị trí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-ka(eru)_06_i.opus",
@@ -231,7 +231,7 @@
     "kanji": {
       "character": "換",
       "meaning": {
-        "english": "exchange, substitute"
+        "english": "exchange, substitute |(vi) trao đổi, thay thế"
       },
       "strokes": {
         "count": 12,
@@ -293,7 +293,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -314,7 +314,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "687",
     "strokeCount": 12,
-    "meaning": "interchange, period, change, convert, replace, renew",
+    "meaning": "interchange, period, change, convert, replace, renew |(vi) trao đổi, thay đổi, chuyển đổi, thay thế, đổi mới |(hv) Hoán",
     "kunyomi": [
       "か.える",
       "-か.える",
@@ -327,34 +327,34 @@
       {
         "example": "換金",
         "reading": "カンキン",
-        "meaning": "realization (of goods into money), conversion (into money), liquidation"
+        "meaning": "realization (of goods into money), conversion (into money), liquidation |(vi) đổi thành tiền, chuyển đổi thành tiền, thanh lý"
       },
       {
         "example": "換気",
         "reading": "カンキ",
-        "meaning": "ventilation"
+        "meaning": "ventilation |(vi) thông gió, thông khí"
       },
       {
         "example": "互換",
         "reading": "ゴカン",
-        "meaning": "interchange, transposition, compatible (e.g. PC)"
+        "meaning": "interchange, transposition, compatible (e.g. PC) |(vi) hoán đổi, tương thích (máy tính...)"
       },
       {
         "example": "代換",
         "reading": "ダイカン",
-        "meaning": "hypallage"
+        "meaning": "hypallage |(vi) phép hoán dụ, phép thay thế (tu từ)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "替える",
         "reading": "かえる",
-        "meaning": "to replace, to convert, to change, to exchange, to interchange, to renew, to substitute (person, staff member, player, etc.)"
+        "meaning": "to replace, to convert, to change, to exchange, to interchange, to renew, to substitute (person, staff member, player, etc.) |(vi) thay thế, đổi, chuyển đổi, thay người (nhân viên, cầu thủ...)"
       },
       {
         "example": "替わる",
         "reading": "かわる",
-        "meaning": "to succeed, to relieve, to replace, to take the place of, to substitute for, to take over for, to represent, to hand over (telephone), to be exchanged, to change (places with), to switch"
+        "meaning": "to succeed, to relieve, to replace, to take the place of, to substitute for, to take over for, to represent, to hand over (telephone), to be exchanged, to change (places with), to switch |(vi) thay thế, kế nhiệm, đảm nhận thay, chuyển giao (điện thoại), đổi chỗ"
       }
     ],
     "radical": {
@@ -362,7 +362,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "儿",

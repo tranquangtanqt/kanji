@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kuni",
-    "meaning": "country",
+    "meaning": "country |(vi) quốc gia, đất nước",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "国際（こくさい）",
         "meaning": {
-          "english": "international"
+          "english": "international |(vi) quốc tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuni_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "国立（こくりつ）",
         "meaning": {
-          "english": "nationally owned (institution)"
+          "english": "nationally owned (institution) |(vi) quốc lập (cơ sở của nhà nước)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuni_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "国会（こっかい）",
         "meaning": {
-          "english": "parliament"
+          "english": "parliament |(vi) quốc hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuni_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "四国（しこく）",
         "meaning": {
-          "english": "Shikoku"
+          "english": "Shikoku |(vi) Shikoku"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuni_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "韓国（かんこく）",
         "meaning": {
-          "english": "South Korea"
+          "english": "South Korea |(vi) Hàn Quốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuni_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "中国（ちゅうごく）",
         "meaning": {
-          "english": "China"
+          "english": "China |(vi) Trung Quốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuni_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "帝国主義（ていこくしゅぎ）",
         "meaning": {
-          "english": "imperialism"
+          "english": "imperialism |(vi) chủ nghĩa đế quốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuni_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "帰国する（きこくする）",
         "meaning": {
-          "english": "return to one's own country"
+          "english": "return to one's own country |(vi) trở về nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuni_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "入国する（にゅうこくする）",
         "meaning": {
-          "english": "enter a country"
+          "english": "enter a country |(vi) nhập cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuni_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "国（くに）",
         "meaning": {
-          "english": "country"
+          "english": "country |(vi) đất nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuni_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "国々（くにぐに）",
         "meaning": {
-          "english": "countries"
+          "english": "countries |(vi) các nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuni_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "島国（しまぐに）",
         "meaning": {
-          "english": "island country"
+          "english": "island country |(vi) quốc đảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuni_06_l.opus",
@@ -291,7 +291,7 @@
     "kanji": {
       "character": "国",
       "meaning": {
-        "english": "country"
+        "english": "country |(vi) quốc gia, đất nước"
       },
       "strokes": {
         "count": 8,
@@ -345,7 +345,7 @@
         "romaji": "kunigamae"
       },
       "meaning": {
-        "english": "border, territorial boundaries"
+        "english": "border, territorial boundaries |(vi) Vi (đường biên, ranh giới)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kunigamae0.svg",
@@ -366,7 +366,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "3",
     "strokeCount": 8,
-    "meaning": "country",
+    "meaning": "country |(vi) quốc gia, đất nước |(hv) Quốc",
     "kunyomi": [
       "くに"
     ],
@@ -377,49 +377,49 @@
       {
         "example": "国益",
         "reading": "コクエキ",
-        "meaning": "national interest"
+        "meaning": "national interest |(vi) lợi ích quốc gia"
       },
       {
         "example": "国営",
         "reading": "コクエイ",
-        "meaning": "government management, state management"
+        "meaning": "government management, state management |(vi) quản lý nhà nước, quốc doanh"
       },
       {
         "example": "最恵国",
         "reading": "サイケイコク",
-        "meaning": "most favored nation, most favoured nation, MFN"
+        "meaning": "most favored nation, most favoured nation, MFN |(vi) quốc gia được ưu đãi nhất, tối huệ quốc"
       },
       {
         "example": "異国",
         "reading": "イコク",
-        "meaning": "foreign country"
+        "meaning": "foreign country |(vi) nước ngoài, dị quốc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "国",
         "reading": "くに",
-        "meaning": "country, state, region, national government, central government, home (i.e. hometown, home country), province (of Japan), land, earth"
+        "meaning": "country, state, region, national government, central government, home (i.e. hometown, home country), province (of Japan), land, earth |(vi) đất nước, quốc gia, vùng miền, chính quyền trung ương, quê hương, tỉnh (Nhật Bản thời cổ), đất đai, trái đất"
       },
       {
         "example": "国人",
         "reading": "こくじん",
-        "meaning": "indigenous person, inhabitant of a country, local, native, local lords and samurai, daimyo who did not leave his domains to meet the shogun in Kyoto (during the Muromachi period)"
+        "meaning": "indigenous person, inhabitant of a country, local, native, local lords and samurai, daimyo who did not leave his domains to meet the shogun in Kyoto (during the Muromachi period) |(vi) người bản xứ, cư dân một nước, người địa phương, lãnh chúa và võ sĩ địa phương, daimyo không rời lãnh địa để yết kiến shogun ở Kyoto (thời Muromachi)"
       },
       {
         "example": "お国",
         "reading": "おくに",
-        "meaning": "your native country, your hometown, my home country (i.e. Japan), countryside, country, daimyo's territory (Edo period)"
+        "meaning": "your native country, your hometown, my home country (i.e. Japan), countryside, country, daimyo's territory (Edo period) |(vi) quê hương của bạn, quê tôi (tức Nhật Bản), miền quê, đất nước, lãnh địa của daimyo (thời Edo)"
       },
       {
         "example": "現国",
         "reading": "うつしくに",
-        "meaning": "world of mankind, this world"
+        "meaning": "world of mankind, this world |(vi) cõi nhân gian, thế giới này"
       }
     ],
     "radical": {
       "symbol": "囗",
-      "meaning": "enclosure"
+      "meaning": "enclosure |(vi) Vi (vây, bao vây)"
     },
     "parts": [
       "丶",

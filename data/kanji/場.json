@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ba",
-    "meaning": "place",
+    "meaning": "place |(vi) nơi, chỗ",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "入場する（にゅうじょうする）",
         "meaning": {
-          "english": "enter"
+          "english": "enter |(vi) vào (nơi nào đó)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ba_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "出場する（しゅつじょうする）",
         "meaning": {
-          "english": "participate (game)"
+          "english": "participate (game) |(vi) tham gia (thi đấu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ba_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "会場（かいじょう）",
         "meaning": {
-          "english": "assembly hall, meeting place"
+          "english": "assembly hall, meeting place |(vi) hội trường, nơi họp mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ba_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "式場（しきじょう）",
         "meaning": {
-          "english": "ceremonial hall"
+          "english": "ceremonial hall |(vi) hội trường nghi lễ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ba_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "工場（こうじょう）",
         "meaning": {
-          "english": "factory"
+          "english": "factory |(vi) nhà máy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ba_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "市場（しじょう）",
         "meaning": {
-          "english": "market (business)"
+          "english": "market (business) |(vi) thị trường, chợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ba_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "試験場（しけんじょう）",
         "meaning": {
-          "english": "examination room, laboratory"
+          "english": "examination room, laboratory |(vi) phòng thi, phòng thí nghiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ba_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "野球場（やきゅうじょう）",
         "meaning": {
-          "english": "baseball field"
+          "english": "baseball field |(vi) sân bóng chày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ba_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "場所（ばしょ）",
         "meaning": {
-          "english": "location"
+          "english": "location |(vi) địa điểm, vị trí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ba_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "場面（ばめん）",
         "meaning": {
-          "english": "scene"
+          "english": "scene |(vi) cảnh, khung cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ba_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "場合（ばあい）",
         "meaning": {
-          "english": "case"
+          "english": "case |(vi) trường hợp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ba_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "立場（たちば）",
         "meaning": {
-          "english": "standpoint"
+          "english": "standpoint |(vi) lập trường, quan điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ba_06_l.opus",
@@ -302,7 +302,7 @@
     "kanji": {
       "character": "場",
       "meaning": {
-        "english": "place"
+        "english": "place |(vi) nơi, chỗ"
       },
       "strokes": {
         "count": 12,
@@ -364,7 +364,7 @@
         "romaji": "tsuchihen"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
@@ -385,7 +385,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "52",
     "strokeCount": 12,
-    "meaning": "location, place",
+    "meaning": "location, place |(vi) vị trí, nơi chốn |(hv) Trường",
     "kunyomi": [
       "ば"
     ],
@@ -397,49 +397,49 @@
       {
         "example": "場",
         "reading": "ジョウ",
-        "meaning": "place, spot, grounds, arena, stadium, range, course"
+        "meaning": "place, spot, grounds, arena, stadium, range, course |(vi) nơi, địa điểm, khu đất, đấu trường, sân vận động, phạm vi, sân"
       },
       {
         "example": "場外",
         "reading": "ジョウガイ",
-        "meaning": "outside the hall (or stadium, market, etc.), off the grounds, off the premises, off-track"
+        "meaning": "outside the hall (or stadium, market, etc.), off the grounds, off the premises, off-track |(vi) bên ngoài hội trường (sân vận động, chợ...), ngoài khuôn viên, ngoài khu vực, ngoài đường đua"
       },
       {
         "example": "斎場",
         "reading": "サイジョウ",
-        "meaning": "funeral hall, ceremony site"
+        "meaning": "funeral hall, ceremony site |(vi) nhà tang lễ, địa điểm tổ chức tang lễ"
       },
       {
         "example": "開場",
         "reading": "カイジョウ",
-        "meaning": "opening (the doors of a venue), inauguration (of a new building, facility, etc.)"
+        "meaning": "opening (the doors of a venue), inauguration (of a new building, facility, etc.) |(vi) mở cửa (địa điểm), khánh thành (tòa nhà, cơ sở mới...)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "場",
         "reading": "ば",
-        "meaning": "place, spot, space, field, discipline, sphere, realm, occasion, situation, scene (of a play, movie, etc.), session, field, table, area in which cards are laid out, round (east, south, etc.), field, field (in Gestalt psychology)"
+        "meaning": "place, spot, space, field, discipline, sphere, realm, occasion, situation, scene (of a play, movie, etc.), session, field, table, area in which cards are laid out, round (east, south, etc.), field, field (in Gestalt psychology) |(vi) nơi, địa điểm, không gian, lĩnh vực, ngành, phạm vi, cảnh giới, dịp, tình huống, cảnh (của vở kịch, phim...), buổi, sân, bàn, khu vực bày bài, ván (đông, nam...), trường (trong tâm lý học Gestalt)"
       },
       {
         "example": "場合",
         "reading": "ばあい",
-        "meaning": "case, occasion, situation, circumstances"
+        "meaning": "case, occasion, situation, circumstances |(vi) trường hợp, dịp, tình huống, hoàn cảnh"
       },
       {
         "example": "木場",
         "reading": "きば",
-        "meaning": "lumberyard"
+        "meaning": "lumberyard |(vi) bãi gỗ"
       },
       {
         "example": "漁場",
         "reading": "ぎょじょう",
-        "meaning": "fishing grounds, permitted fishing zone"
+        "meaning": "fishing grounds, permitted fishing zone |(vi) ngư trường, khu vực đánh cá được phép"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "一",

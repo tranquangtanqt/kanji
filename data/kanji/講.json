@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 3,
     "kunyomi": "n/a",
-    "meaning": "lecture",
+    "meaning": "lecture |(vi) bài giảng",
     "kstroke": 17,
     "examples": [
       {
         "japanese": "講演（こうえん）",
         "meaning": {
-          "english": "lecture [n.]"
+          "english": "lecture [n.] |(vi) buổi diễn thuyết, bài giảng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ju)kou(suru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "講義（こうぎ）",
         "meaning": {
-          "english": "lecture [n.]"
+          "english": "lecture [n.] |(vi) bài giảng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ju)kou(suru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "講座（こうざ）",
         "meaning": {
-          "english": "course"
+          "english": "course |(vi) khóa học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ju)kou(suru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "講師（こうし）",
         "meaning": {
-          "english": "lecturer"
+          "english": "lecturer |(vi) giảng viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ju)kou(suru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "講堂（こうどう）",
         "meaning": {
-          "english": "auditorium"
+          "english": "auditorium |(vi) giảng đường, hội trường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ju)kou(suru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "休講（きゅうこう）",
         "meaning": {
-          "english": "lecture cancelled"
+          "english": "lecture cancelled |(vi) hủy buổi giảng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ju)kou(suru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "聴講する（ちょうこうする）",
         "meaning": {
-          "english": "audit (lecture)"
+          "english": "audit (lecture) |(vi) dự thính (bài giảng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ju)kou(suru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "受講する（じゅこうする）",
         "meaning": {
-          "english": "take (class)"
+          "english": "take (class) |(vi) theo học (lớp)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ju)kou(suru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "開講する（かいこうする）",
         "meaning": {
-          "english": "start a new course"
+          "english": "start a new course |(vi) khai giảng khóa học mới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ju)kou(suru)_06_i.opus",
@@ -235,7 +235,7 @@
     "kanji": {
       "character": "講",
       "meaning": {
-        "english": "lecture"
+        "english": "lecture |(vi) bài giảng"
       },
       "strokes": {
         "count": 17,
@@ -307,7 +307,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -328,7 +328,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "653",
     "strokeCount": 17,
-    "meaning": "lecture, club, association",
+    "meaning": "lecture, club, association |(vi) bài giảng, hội, hiệp hội |(hv) Giảng",
     "kunyomi": [],
     "onyomi": [
       "コウ"
@@ -337,22 +337,22 @@
       {
         "example": "講",
         "reading": "コウ",
-        "meaning": "(Buddhist) lecture meeting, religious association, mutual assistance association (i.e. for financial assistance)"
+        "meaning": "(Buddhist) lecture meeting, religious association, mutual assistance association (i.e. for financial assistance) |(vi) buổi giảng đạo (Phật giáo), hội tôn giáo, hội tương trợ (hỗ trợ tài chính lẫn nhau)"
       },
       {
         "example": "講演",
         "reading": "コウエン",
-        "meaning": "lecture, address, speech"
+        "meaning": "lecture, address, speech |(vi) buổi diễn thuyết, bài giảng, bài phát biểu"
       },
       {
         "example": "進講",
         "reading": "シンコウ",
-        "meaning": "giving a lecture in the Emperor's presence, lecturing to the Emperor"
+        "meaning": "giving a lecture in the Emperor's presence, lecturing to the Emperor |(vi) giảng bài trước mặt Thiên hoàng, thuyết giảng cho vua nghe"
       },
       {
         "example": "代講",
         "reading": "ダイコウ",
-        "meaning": "substitute lecturing, substitute lecturer"
+        "meaning": "substitute lecturing, substitute lecturer |(vi) giảng thay, giảng viên dạy thay"
       }
     ],
     "kunyomiExamples": [],
@@ -361,7 +361,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "一",

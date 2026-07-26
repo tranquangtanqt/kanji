@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "magazine",
+    "meaning": "magazine |(vi) tạp chí",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "雑誌（ざっし）",
         "meaning": {
-          "english": "journal, magazine"
+          "english": "journal, magazine |(vi) tạp chí, tập san"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shuukan)shi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "日誌（にっし）",
         "meaning": {
-          "english": "diary"
+          "english": "diary |(vi) nhật ký, nhật chí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shuukan)shi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "週刊誌（しゅうかんし）",
         "meaning": {
-          "english": "weekly publication"
+          "english": "weekly publication |(vi) ấn phẩm hàng tuần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shuukan)shi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "月刊誌（げっかんし）",
         "meaning": {
-          "english": "monthly publication"
+          "english": "monthly publication |(vi) ấn phẩm hàng tháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shuukan)shi_06_d.opus",
@@ -171,7 +171,7 @@
     "kanji": {
       "character": "誌",
       "meaning": {
-        "english": "magazine"
+        "english": "magazine |(vi) tạp chí"
       },
       "strokes": {
         "count": 14,
@@ -237,7 +237,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (nói, lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -258,7 +258,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "851",
     "strokeCount": 14,
-    "meaning": "document, records",
+    "meaning": "document, records |(vi) tài liệu, ghi chép |(hv) Chí",
     "kunyomi": [],
     "onyomi": [
       "シ"
@@ -267,22 +267,22 @@
       {
         "example": "誌",
         "reading": "シ",
-        "meaning": "magazine, journal"
+        "meaning": "magazine, journal |(vi) tạp chí, tập san"
       },
       {
         "example": "記す",
         "reading": "シルス",
-        "meaning": "to write down, to note down, to jot down, to take a note of, to mention, to describe, to give an account of, to inscribe, to mark, to brand, to remember, to engrave (in one's mind)"
+        "meaning": "to write down, to note down, to jot down, to take a note of, to mention, to describe, to give an account of, to inscribe, to mark, to brand, to remember, to engrave (in one's mind) |(vi) ghi lại, ghi chú, ghi nhớ, mô tả, khắc ghi (trong tâm trí)"
       },
       {
         "example": "風物詩",
         "reading": "フウブツシ",
-        "meaning": "feature of the season, something characteristic of a particular season, poem about natural scenery or a particular season"
+        "meaning": "feature of the season, something characteristic of a particular season, poem about natural scenery or a particular season |(vi) nét đặc trưng của mùa, điều tiêu biểu cho một mùa, thơ về phong cảnh hoặc mùa"
       },
       {
         "example": "日誌",
         "reading": "ニッシ",
-        "meaning": "journal, log"
+        "meaning": "journal, log |(vi) nhật ký, sổ ghi chép"
       }
     ],
     "kunyomiExamples": [],
@@ -291,7 +291,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (nói, lời nói)"
     },
     "parts": [
       "士",

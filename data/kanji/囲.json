@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "kako, kakomu, kakou, kakoi",
-    "meaning": "enclose, surround",
+    "meaning": "enclose, surround |(vi) bao vây, bao quanh",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "囲碁（いご）",
         "meaning": {
-          "english": "Go (the board game)"
+          "english": "Go (the board game) |(vi) cờ vây (Go)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kako(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "範囲（はんい）",
         "meaning": {
-          "english": "extent, scope, sphere, range"
+          "english": "extent, scope, sphere, range |(vi) phạm vi, giới hạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kako(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "周囲（しゅうい）",
         "meaning": {
-          "english": "surroundings, circumference"
+          "english": "surroundings, circumference |(vi) xung quanh, chu vi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kako(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "胸囲（きょうい）",
         "meaning": {
-          "english": "chest measurement"
+          "english": "chest measurement |(vi) vòng ngực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kako(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "雰囲気（ふんいき）",
         "meaning": {
-          "english": "atmosphere , mood, ambience"
+          "english": "atmosphere , mood, ambience |(vi) bầu không khí, tâm trạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kako(mu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "包囲する（ほういする）",
         "meaning": {
-          "english": "besiege, encircle"
+          "english": "besiege, encircle |(vi) bao vây, vây hãm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kako(mu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "囲む（かこむ）",
         "meaning": {
-          "english": "surround, encircle"
+          "english": "surround, encircle |(vi) bao quanh, vây quanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kako(mu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "囲う（かこう）",
         "meaning": {
-          "english": "enclose"
+          "english": "enclose |(vi) quây kín, rào lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kako(mu)_06_h.opus",
@@ -214,7 +214,7 @@
     "kanji": {
       "character": "囲",
       "meaning": {
-        "english": "enclose, surround"
+        "english": "enclose, surround |(vi) bao vây, bao quanh"
       },
       "strokes": {
         "count": 7,
@@ -266,7 +266,7 @@
         "romaji": "kunigamae"
       },
       "meaning": {
-        "english": "border, territorial boundaries"
+        "english": "border, territorial boundaries |(vi) Vi (đường biên, ranh giới)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kunigamae0.svg",
@@ -287,7 +287,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "771",
     "strokeCount": 7,
-    "meaning": "surround, besiege, store, paling, enclosure, encircle, preserve, keep",
+    "meaning": "surround, besiege, store, paling, enclosure, encircle, preserve, keep |(vi) bao vây, vây hãm, cất giữ, hàng rào, khu vây kín, bảo quản, giữ gìn |(hv) Vi",
     "kunyomi": [
       "かこ.む",
       "かこ.う",
@@ -300,49 +300,49 @@
       {
         "example": "囲碁",
         "reading": "イゴ",
-        "meaning": "go (board game)"
+        "meaning": "go (board game) |(vi) cờ vây (Go)"
       },
       {
         "example": "囲郭村",
         "reading": "イカクソン",
-        "meaning": "walled settlement, walled town"
+        "meaning": "walled settlement, walled town |(vi) làng có tường bao, thị trấn có thành lũy"
       },
       {
         "example": "解囲",
         "reading": "カイイ",
-        "meaning": "breaking the enemy siege"
+        "meaning": "breaking the enemy siege |(vi) phá vòng vây của địch"
       },
       {
         "example": "外囲",
         "reading": "ガイイ",
-        "meaning": "periphery, surroundings"
+        "meaning": "periphery, surroundings |(vi) vùng ngoại vi, xung quanh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "囲む",
         "reading": "かこむ",
-        "meaning": "to surround, to encircle, to enclose, to fence, to wall in, to besiege, to lay siege to, to play (go, shogi, etc.)"
+        "meaning": "to surround, to encircle, to enclose, to fence, to wall in, to besiege, to lay siege to, to play (go, shogi, etc.) |(vi) bao quanh, vây quanh, rào lại, xây tường bao, bao vây, vây hãm, chơi (cờ vây, shogi...)"
       },
       {
         "example": "囲う",
         "reading": "かこう",
-        "meaning": "to enclose, to surround, to encircle, to fence, to wall in, to shelter (e.g. a criminal), to shield, to hide, to protect, to keep (e.g. a mistress), to store (vegetables, fruit, etc.), to preserve, to protect"
+        "meaning": "to enclose, to surround, to encircle, to fence, to wall in, to shelter (e.g. a criminal), to shield, to hide, to protect, to keep (e.g. a mistress), to store (vegetables, fruit, etc.), to preserve, to protect |(vi) quây kín, bao quanh, rào lại, che chở (vd tội phạm), bảo vệ, giấu, nuôi (vd nhân tình), cất trữ (rau quả...), bảo quản"
       },
       {
         "example": "囲い",
         "reading": "かこい",
-        "meaning": "enclosure, fence, wall, pen, paling, storage (of fruit, vegetables, etc.), partitioned area of a room for conducting tea ceremonies, mistress, castle, strong defensive position"
+        "meaning": "enclosure, fence, wall, pen, paling, storage (of fruit, vegetables, etc.), partitioned area of a room for conducting tea ceremonies, mistress, castle, strong defensive position |(vi) hàng rào, tường bao, chuồng, khu cất trữ (rau quả...), khu trà thất riêng, nhân tình, thành lũy, vị trí phòng thủ vững chắc"
       },
       {
         "example": "囲い女",
         "reading": "かこいおんな",
-        "meaning": "mistress"
+        "meaning": "mistress |(vi) nhân tình, vợ lẽ được bao nuôi"
       }
     ],
     "radical": {
       "symbol": "囗",
-      "meaning": "enclosure"
+      "meaning": "enclosure |(vi) Vi (vây quanh, ranh giới)"
     },
     "parts": [
       "井",

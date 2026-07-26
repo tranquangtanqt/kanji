@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "too, tooi, tooku",
-    "meaning": "distant, far",
+    "meaning": "distant, far |(vi) xa xôi, xa",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "遠慮する（えんりょする）",
         "meaning": {
-          "english": "refrain, exercise restraint"
+          "english": "refrain, exercise restraint |(vi) e dè, giữ ý, khách sáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/too(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "遠足（えんそく）",
         "meaning": {
-          "english": "field trip"
+          "english": "field trip |(vi) chuyến dã ngoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/too(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "永遠（えいえん）",
         "meaning": {
-          "english": "eternity"
+          "english": "eternity |(vi) vĩnh viễn, vĩnh cửu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/too(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "久遠（くおん）",
         "meaning": {
-          "english": "eternity"
+          "english": "eternity |(vi) vĩnh cửu, lâu dài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/too(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "遠い（とおい）",
         "meaning": {
-          "english": "far"
+          "english": "far |(vi) xa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/too(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "遠く（とおく）",
         "meaning": {
-          "english": "far"
+          "english": "far |(vi) xa xôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/too(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "遠回りする（とおまわりする）",
         "meaning": {
-          "english": "detour"
+          "english": "detour |(vi) đi đường vòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/too(i)_06_g.opus",
@@ -258,7 +258,7 @@
     "kanji": {
       "character": "遠",
       "meaning": {
-        "english": "distant, far"
+        "english": "distant, far |(vi) xa xôi, xa"
       },
       "strokes": {
         "count": 13,
@@ -322,7 +322,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đi bộ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -343,7 +343,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "887",
     "strokeCount": 13,
-    "meaning": "distant, far",
+    "meaning": "distant, far |(vi) xa xôi, xa |(hv) Viễn",
     "kunyomi": [
       "とお.い"
     ],
@@ -355,49 +355,49 @@
       {
         "example": "遠山",
         "reading": "エンザン",
-        "meaning": "distant mountain"
+        "meaning": "distant mountain |(vi) núi xa"
       },
       {
         "example": "遠隔",
         "reading": "エンカク",
-        "meaning": "distant, remote, isolated"
+        "meaning": "distant, remote, isolated |(vi) xa xôi, hẻo lánh, cách biệt"
       },
       {
         "example": "望遠",
         "reading": "ボウエン",
-        "meaning": "seeing at a distance"
+        "meaning": "seeing at a distance |(vi) nhìn từ xa, viễn vọng"
       },
       {
         "example": "以遠",
         "reading": "イエン",
-        "meaning": "beyond, further than"
+        "meaning": "beyond, further than |(vi) xa hơn, quá khỏi"
       },
       {
         "example": "遠忌",
         "reading": "オンキ",
-        "meaning": "anniversary of a death twelve or more years earlier"
+        "meaning": "anniversary of a death twelve or more years earlier |(vi) lễ giỗ tròn 12 năm trở lên"
       },
       {
         "example": "遠諱",
         "reading": "オンキ",
-        "meaning": "semicentennial memorial service"
+        "meaning": "semicentennial memorial service |(vi) lễ tưởng niệm 50 năm"
       },
       {
         "example": "久遠",
         "reading": "クオン",
-        "meaning": "eternity"
+        "meaning": "eternity |(vi) vĩnh cửu, lâu dài"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "遠い",
         "reading": "とおい",
-        "meaning": "far, distant, far away, a long way off, in the distance, distant (past), remote (in time), remote, far-removed (in time), distant (relationship or kinship), having little to do (with someone), far (from something else in quality, degree, etc.), not similar, way off, hard (of hearing), nearsighted"
+        "meaning": "far, distant, far away, a long way off, in the distance, distant (past), remote (in time), remote, far-removed (in time), distant (relationship or kinship), having little to do (with someone), far (from something else in quality, degree, etc.), not similar, way off, hard (of hearing), nearsighted |(vi) xa, xa xôi, xa cách, trong quá khứ xa xôi, xa xưa (thời gian), quan hệ xa (họ hàng), ít liên quan đến ai đó, khác biệt lớn (về chất lượng, mức độ...), không giống, nặng tai, cận thị"
       },
       {
         "example": "遠い昔",
         "reading": "とおいむかし",
-        "meaning": "remote past, far ago, time immemorial"
+        "meaning": "remote past, far ago, time immemorial |(vi) quá khứ xa xôi, ngày xưa, thời xa xưa"
       }
     ],
     "radical": {
@@ -407,7 +407,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi bộ)"
     },
     "parts": [
       "口",

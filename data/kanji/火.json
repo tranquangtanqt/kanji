@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "hi",
-    "meaning": "fire",
+    "meaning": "fire |(vi) lửa",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "火事（かじ）",
         "meaning": {
-          "english": "fire"
+          "english": "fire |(vi) hỏa hoạn, cháy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "火力（かりょく）",
         "meaning": {
-          "english": "thermal power"
+          "english": "thermal power |(vi) hỏa lực, nhiệt điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "火曜日（かようび）",
         "meaning": {
-          "english": "Tuesday"
+          "english": "Tuesday |(vi) thứ Ba"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "火（ひ）",
         "meaning": {
-          "english": "flame, fire"
+          "english": "flame, fire |(vi) ngọn lửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "花火（はなび）",
         "meaning": {
-          "english": "fireworks"
+          "english": "fireworks |(vi) pháo hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_e.opus",
@@ -211,7 +211,7 @@
     "kanji": {
       "character": "火",
       "meaning": {
-        "english": "fire"
+        "english": "fire |(vi) lửa"
       },
       "strokes": {
         "count": 4,
@@ -257,7 +257,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "fire"
+        "english": "fire |(vi) Hỏa (lửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi-fire0.svg",
@@ -278,7 +278,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "574",
     "strokeCount": 4,
-    "meaning": "fire",
+    "meaning": "fire |(vi) lửa |(hv) Hỏa",
     "kunyomi": [
       "ひ",
       "-び",
@@ -291,44 +291,44 @@
       {
         "example": "火",
         "reading": "カ",
-        "meaning": "Tuesday, fire (second of the five elements)"
+        "meaning": "Tuesday, fire (second of the five elements) |(vi) thứ Ba, hành Hỏa (ngũ hành thứ hai)"
       },
       {
         "example": "火炎瓶",
         "reading": "カエンビン",
-        "meaning": "Molotov cocktail, petrol bomb, gasoline bomb"
+        "meaning": "Molotov cocktail, petrol bomb, gasoline bomb |(vi) bom xăng (chai cháy Molotov)"
       },
       {
         "example": "発火",
         "reading": "ハッカ",
-        "meaning": "ignition, combustion, catching fire, firing a blank cartridge, discharge of a gun without bullets, firing (of an event), triggering"
+        "meaning": "ignition, combustion, catching fire, firing a blank cartridge, discharge of a gun without bullets, firing (of an event), triggering |(vi) bắt lửa, đốt cháy, bén lửa, bắn đạn giả, kích hoạt (sự kiện)"
       },
       {
         "example": "点火",
         "reading": "テンカ",
-        "meaning": "ignition, lighting, firing, setting off"
+        "meaning": "ignition, lighting, firing, setting off |(vi) châm lửa, đánh lửa, kích hoạt"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "火",
         "reading": "ひ",
-        "meaning": "fire, flame, blaze"
+        "meaning": "fire, flame, blaze |(vi) lửa, ngọn lửa"
       },
       {
         "example": "火口",
         "reading": "ひぐち",
-        "meaning": "burner, nozzle, origin of a fire"
+        "meaning": "burner, nozzle, origin of a fire |(vi) miệng lò đốt, vòi đốt, nơi bắt nguồn đám cháy"
       },
       {
         "example": "飛び火",
         "reading": "とびひ",
-        "meaning": "leaping flames, flying sparks, spread of fire (due to leaping flames), repercussions in unanticipated areas, spilling over, effects of an incident spreading to those seemingly uninvolved, impetigo contagiosa"
+        "meaning": "leaping flames, flying sparks, spread of fire (due to leaping flames), repercussions in unanticipated areas, spilling over, effects of an incident spreading to those seemingly uninvolved, impetigo contagiosa |(vi) tia lửa bay, lửa lan (do tia lửa bay), hậu quả lan sang khu vực không ngờ tới, ảnh hưởng lan rộng đến những người tưởng như không liên quan, bệnh chốc lở"
       },
       {
         "example": "不知火",
         "reading": "しらぬい",
-        "meaning": "phosphorescent light, mysterious lights on the sea, sea fire"
+        "meaning": "phosphorescent light, mysterious lights on the sea, sea fire |(vi) ánh sáng lân quang, ánh sáng huyền bí trên biển, lửa biển"
       }
     ],
     "radical": {
@@ -336,7 +336,7 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": "fire |(vi) Hỏa (lửa)"
     },
     "parts": [
       "火"

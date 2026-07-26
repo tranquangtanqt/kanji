@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 5,
     "kunyomi": "kuda",
-    "meaning": "pipe, exercise control, wind instrument, tube",
+    "meaning": "pipe, exercise control, wind instrument, tube |(vi) ống, quản lý, kèn (nhạc cụ hơi), ống dẫn",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "菅（かん）",
         "meaning": {
-          "english": "pipe, tube, duct"
+          "english": "pipe, tube, duct |(vi) ống, ống dẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuda_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "管轄（かんかつ）",
         "meaning": {
-          "english": "jurisdiction, control"
+          "english": "jurisdiction, control |(vi) quyền quản lý, thẩm quyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuda_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "管楽器（かんがっき）",
         "meaning": {
-          "english": "wind instrument"
+          "english": "wind instrument |(vi) nhạc cụ hơi (kèn, sáo...)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuda_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "配管（はいかん）",
         "meaning": {
-          "english": "plumbing, piping"
+          "english": "plumbing, piping |(vi) hệ thống ống dẫn, đường ống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuda_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "血管（けっかん）",
         "meaning": {
-          "english": "blood vessel"
+          "english": "blood vessel |(vi) mạch máu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuda_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "気管（きかん）",
         "meaning": {
-          "english": "trachea"
+          "english": "trachea |(vi) khí quản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuda_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "水道管（すいどうかん）",
         "meaning": {
-          "english": "water pipe"
+          "english": "water pipe |(vi) ống nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuda_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "試験管（しけんかん）",
         "meaning": {
-          "english": "test tube"
+          "english": "test tube |(vi) ống nghiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuda_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "管理する（かんりする）",
         "meaning": {
-          "english": "control, manage"
+          "english": "control, manage |(vi) quản lý, kiểm soát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuda_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "保管する（ほかんする）",
         "meaning": {
-          "english": "keep, have in one's custody"
+          "english": "keep, have in one's custody |(vi) bảo quản, cất giữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuda_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "管（くだ）",
         "meaning": {
-          "english": "pipe, tube"
+          "english": "pipe, tube |(vi) ống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuda_06_k.opus",
@@ -253,7 +253,7 @@
     "kanji": {
       "character": "管",
       "meaning": {
-        "english": "pipe, exercise control, wind instrument, tube"
+        "english": "pipe, exercise control, wind instrument, tube |(vi) ống, quản lý, kèn (nhạc cụ hơi), ống dẫn"
       },
       "strokes": {
         "count": 14,
@@ -319,7 +319,7 @@
         "romaji": "takekanmuri"
       },
       "meaning": {
-        "english": "bamboo"
+        "english": "bamboo |(vi) Trúc (tre)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takekanmuri0.svg",
@@ -340,7 +340,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "517",
     "strokeCount": 14,
-    "meaning": "pipe, tube, wind instrument, drunken talk, control, jurisdiction",
+    "meaning": "pipe, tube, wind instrument, drunken talk, control, jurisdiction |(vi) ống, ống dẫn, nhạc cụ hơi, lời nói say rượu, quản lý, thẩm quyền |(hv) Quản",
     "kunyomi": [
       "くだ"
     ],
@@ -351,44 +351,44 @@
       {
         "example": "管",
         "reading": "カン",
-        "meaning": "pipe, tube"
+        "meaning": "pipe, tube |(vi) ống, ống dẫn"
       },
       {
         "example": "管轄",
         "reading": "カンカツ",
-        "meaning": "jurisdiction, control"
+        "meaning": "jurisdiction, control |(vi) quyền quản lý, thẩm quyền"
       },
       {
         "example": "配管",
         "reading": "ハイカン",
-        "meaning": "plumbing, piping"
+        "meaning": "plumbing, piping |(vi) hệ thống ống dẫn, đường ống"
       },
       {
         "example": "移管",
         "reading": "イカン",
-        "meaning": "transfer of control"
+        "meaning": "transfer of control |(vi) chuyển giao quyền quản lý"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "管",
         "reading": "かん",
-        "meaning": "pipe, tube"
+        "meaning": "pipe, tube |(vi) ống, ống dẫn"
       },
       {
         "example": "管狐",
         "reading": "くだぎつね",
-        "meaning": "kuda-gitsune, pipe fox, fox-like spirit kept inside a bamboo tube and used by its master to perform divinations and curses, stoat"
+        "meaning": "kuda-gitsune, pipe fox, fox-like spirit kept inside a bamboo tube and used by its master to perform divinations and curses, stoat |(vi) cáo ống (kuda-gitsune) - linh hồn dạng cáo được nuôi trong ống tre, dùng để bói toán và trù ếm, cầy chồn"
       },
       {
         "example": "手練手管",
         "reading": "てれんてくだ",
-        "meaning": "wiles, art of coaxing"
+        "meaning": "wiles, art of coaxing |(vi) mưu mẹo, nghệ thuật dụ dỗ"
       },
       {
         "example": "手管",
         "reading": "てくだ",
-        "meaning": "wiles, trick, artifice, coquetry"
+        "meaning": "wiles, trick, artifice, coquetry |(vi) mánh khóe, thủ đoạn, sự đong đưa quyến rũ"
       }
     ],
     "radical": {
@@ -396,7 +396,7 @@
       "forms": [
         "⺮"
       ],
-      "meaning": "bamboo"
+      "meaning": "bamboo |(vi) Trúc (tre)"
     },
     "parts": [
       "乞",

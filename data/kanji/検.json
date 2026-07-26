@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "examine, investigate, inspect",
+    "meaning": "examine, investigate, inspect |(vi) kiểm tra, điều tra, thanh tra",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "検診（けんしん）",
         "meaning": {
-          "english": "medical examination"
+          "english": "medical examination |(vi) khám sức khỏe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(sa)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "検事（けんじ）",
         "meaning": {
-          "english": "public prosecutor"
+          "english": "public prosecutor |(vi) công tố viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(sa)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "検察（けんさつ）",
         "meaning": {
-          "english": "examination, prosecutor"
+          "english": "examination, prosecutor |(vi) kiểm sát, công tố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(sa)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "検定試験（けんていしけん）",
         "meaning": {
-          "english": "licensing examination"
+          "english": "licensing examination |(vi) kỳ thi cấp chứng chỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(sa)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "検索する（けんさくする）",
         "meaning": {
-          "english": "look up in reference"
+          "english": "look up in reference |(vi) tra cứu, tìm kiếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(sa)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "検出する（けんしゅつする）",
         "meaning": {
-          "english": "detect"
+          "english": "detect |(vi) phát hiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(sa)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "検証する（けんしょうする）",
         "meaning": {
-          "english": "inspect"
+          "english": "inspect |(vi) kiểm chứng, xác minh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(sa)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "検査する（けんさする）",
         "meaning": {
-          "english": "examine"
+          "english": "examine |(vi) kiểm tra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(sa)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "検討する（けんとうする）",
         "meaning": {
-          "english": "consider, examine, investigate"
+          "english": "consider, examine, investigate |(vi) xem xét, cân nhắc, nghiên cứu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(sa)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "検閲する（けんえつする）",
         "meaning": {
-          "english": "censor"
+          "english": "censor |(vi) kiểm duyệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(sa)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "探検する（たんけんする）",
         "meaning": {
-          "english": "explore, go on an expedition"
+          "english": "explore, go on an expedition |(vi) thám hiểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(sa)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "点検する（てんけんする）",
         "meaning": {
-          "english": "examine, check"
+          "english": "examine, check |(vi) kiểm tra, rà soát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(sa)_06_l.opus",
@@ -243,7 +243,7 @@
     "kanji": {
       "character": "検",
       "meaning": {
-        "english": "examine, investigate, inspect"
+        "english": "examine, investigate, inspect |(vi) kiểm tra, điều tra, thanh tra"
       },
       "strokes": {
         "count": 12,
@@ -305,7 +305,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -326,7 +326,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "290",
     "strokeCount": 12,
-    "meaning": "examination, investigate",
+    "meaning": "examination, investigate |(vi) kiểm tra, điều tra |(hv) Kiểm",
     "kunyomi": [
       "しら.べる"
     ],
@@ -337,28 +337,28 @@
       {
         "example": "検閲",
         "reading": "ケンエツ",
-        "meaning": "censorship, inspection, examination"
+        "meaning": "censorship, inspection, examination |(vi) kiểm duyệt, thanh tra, kiểm tra"
       },
       {
         "example": "検疫",
         "reading": "ケンエキ",
-        "meaning": "quarantine, medical inspection"
+        "meaning": "quarantine, medical inspection |(vi) kiểm dịch, khám y tế"
       },
       {
         "example": "送検",
         "reading": "ソウケン",
-        "meaning": "committing a suspect to trial, referring a case to a public prosecutor"
+        "meaning": "committing a suspect to trial, referring a case to a public prosecutor |(vi) chuyển hồ sơ nghi phạm đến viện công tố, đưa vụ án ra công tố"
       },
       {
         "example": "最高検",
         "reading": "サイコウケン",
-        "meaning": "Public Prosecutor's Office"
+        "meaning": "Public Prosecutor's Office |(vi) Viện Công tố Tối cao"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "个",
