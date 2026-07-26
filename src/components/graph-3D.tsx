@@ -10,6 +10,7 @@ import {
 } from "@/lib/graph-colors";
 import { useTheme } from "next-themes";
 import { useRouter } from "next/navigation";
+import { extractViHvMeaning } from "@/lib/meaning";
 import * as React from "react";
 import type { ForceGraphMethods, GraphData } from "react-force-graph-3d";
 import ForceGraph3D, { LinkObject, NodeObject } from "react-force-graph-3d";
@@ -126,7 +127,7 @@ const getNodeLabel = (n: NodeObject, enableNodePreview: boolean) => {
   }
 
   const kunyomi = node.data.jishoData?.kunyomi;
-  const meaning = node.data.jishoData?.meaning;
+  const meaning = extractViHvMeaning(node.data.jishoData?.meaning);
   if ((!kunyomi || kunyomi.length === 0) && (!meaning || meaning === "")) {
     return "";
   }

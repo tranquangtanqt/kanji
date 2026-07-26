@@ -3,6 +3,7 @@
 import * as React from "react";
 import { joyoList } from "@/../data/joyo";
 import { jinmeiyoList } from "@/../data/jinmeiyo";
+import { extractViHvMeaning } from "@/lib/meaning";
 import { KanjiStrokeAnimation } from "./kanji-animation";
 
 interface Props {
@@ -84,7 +85,8 @@ export const Kanji = ({
         {kanjiInfo?.jishoData?.meaning && (
           <>
             <p>
-              Meaning: <strong>{kanjiInfo?.jishoData?.meaning}</strong>
+              Meaning:{" "}
+              <strong>{extractViHvMeaning(kanjiInfo?.jishoData?.meaning)}</strong>
             </p>
           </>
         )}

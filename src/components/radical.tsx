@@ -5,6 +5,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { buildKanjiHref } from "@/lib/kanji-routing";
 import { resolveKanjiId } from "@/lib/kanji-variants";
+import { extractViHvMeaning } from "@/lib/meaning";
 import { buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import { RadicalImages } from "./radical-images";
@@ -153,7 +154,10 @@ export const Radical: React.FC<Props> = ({
         )}
         {kanjiInfo?.jishoData?.radical?.meaning && (
           <p>
-            Meaning: <strong>{kanjiInfo?.jishoData?.radical?.meaning}</strong>
+            Meaning:{" "}
+            <strong>
+              {extractViHvMeaning(kanjiInfo?.jishoData?.radical?.meaning)}
+            </strong>
           </p>
         )}
         {kanjiInfo?.kanjialiveData?.radical?.strokes && (

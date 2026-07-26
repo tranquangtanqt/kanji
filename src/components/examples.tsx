@@ -2,6 +2,7 @@
 import * as React from "react";
 import { Button } from "./ui/button";
 import { CirclePlayIcon } from "lucide-react";
+import { extractViHvMeaning } from "@/lib/meaning";
 
 export const Examples = ({ kanjiInfo }: { kanjiInfo: KanjiInfo | null }) => {
   const playSound = (url: string) => {
@@ -33,14 +34,7 @@ export const Examples = ({ kanjiInfo }: { kanjiInfo: KanjiInfo | null }) => {
   };
 
   const renderMeaning = (meaning?: string) => {
-    return (meaning || "").split("|(vi)").map((line, i) => (
-      <span
-        key={i}
-        style={i === 0 ? {} : { fontStyle: "italic", fontWeight: "bold", color: "#1976d2",}}
-      >
-        {line}
-      </span>
-    ));
+    return <span>{extractViHvMeaning(meaning)}</span>;
   };
 
   return (

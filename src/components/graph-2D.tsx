@@ -19,6 +19,7 @@ import {
 import type { RectReadOnly } from "react-use-measure";
 import { useRouter } from "next/navigation";
 import { useTheme } from "next-themes";
+import { extractViHvMeaning } from "@/lib/meaning";
 
 interface Props {
   kanjiInfo: KanjiInfo;
@@ -202,7 +203,7 @@ const Graph2D: React.FC<Props> = ({
           return "";
         }
         const kunyomi = node.data.jishoData?.kunyomi;
-        const meaning = node.data.jishoData?.meaning;
+        const meaning = extractViHvMeaning(node.data.jishoData?.meaning);
         // Don't show tooltip if both kunyomi and meaning are empty
         if (
           (!kunyomi || kunyomi.length === 0) &&

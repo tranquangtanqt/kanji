@@ -33,6 +33,7 @@ import { buildKanjiHref, type MobileTabKey } from "@/lib/kanji-routing";
 import {
   resolveKanjiId,
 } from "@/lib/kanji-variants";
+import { extractViHvMeaning } from "@/lib/meaning";
 
 const Graph2DNoSSR = dynamic(() => import("./graph-2D"), {
   ssr: false,
@@ -118,7 +119,9 @@ export const Graphs: React.FC<Props> = ({
   const previewOnyomi = previewNode?.data?.jishoData?.onyomi
     ?.filter(Boolean)
     ?.join("、");
-  const previewMeaning = previewNode?.data?.jishoData?.meaning;
+  const previewMeaning = extractViHvMeaning(
+    previewNode?.data?.jishoData?.meaning,
+  );
   const previewIsCurrentKanji = previewNode
     ? resolveKanjiId(previewNode.id) === kanjiInfo?.id
     : false;
