@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "makoto",
-    "meaning": "sincerity, truth, reality, fidelity",
+    "meaning": "sincerity, truth, reality, fidelity |(vi) chân thành, sự thật, lòng trung thực",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "誠意（せいい）",
         "meaning": {
-          "english": "sincerity, good faith"
+          "english": "sincerity, good faith |(vi) sự chân thành, thiện chí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei(jitsuna)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "忠誠（ちゅうせい）",
         "meaning": {
-          "english": "loyalty, sincerity"
+          "english": "loyalty, sincerity |(vi) lòng trung thành, sự tận tụy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei(jitsuna)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "誠心誠意（せいしんせいい）",
         "meaning": {
-          "english": "in all sincerity"
+          "english": "in all sincerity |(vi) hết lòng thành thật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei(jitsuna)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "誠実な（せいじつな）",
         "meaning": {
-          "english": "sincere, honest, faithful"
+          "english": "sincere, honest, faithful |(vi) chân thành, trung thực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei(jitsuna)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "誠（まこと）",
         "meaning": {
-          "english": "truth, faith, fidelity"
+          "english": "truth, faith, fidelity |(vi) sự thật, lòng tin, trung thực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei(jitsuna)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "誠に（まことに）",
         "meaning": {
-          "english": "indeed, really, truly"
+          "english": "indeed, really, truly |(vi) quả thực, thật sự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei(jitsuna)_06_f.opus",
@@ -168,7 +168,7 @@
     "kanji": {
       "character": "誠",
       "meaning": {
-        "english": "sincerity, truth, reality, fidelity"
+        "english": "sincerity, truth, reality, fidelity |(vi) chân thành, sự thật, lòng trung thực"
       },
       "strokes": {
         "count": 13,
@@ -232,7 +232,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -253,7 +253,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1128",
     "strokeCount": 13,
-    "meaning": "sincerity, admonish, warn, prohibit, truth, fidelity",
+    "meaning": "sincerity, admonish, warn, prohibit, truth, fidelity |(vi) chân thành, răn dạy, cảnh báo, cấm đoán, sự thật, lòng trung thực |(hv) Thành",
     "kunyomi": [
       "まこと"
     ],
@@ -264,39 +264,39 @@
       {
         "example": "誠実",
         "reading": "セイジツ",
-        "meaning": "sincere, honest, faithful"
+        "meaning": "sincere, honest, faithful |(vi) chân thành, trung thực"
       },
       {
         "example": "誠意",
         "reading": "セイイ",
-        "meaning": "sincerity, good faith"
+        "meaning": "sincerity, good faith |(vi) sự chân thành, thiện chí"
       },
       {
         "example": "至誠",
         "reading": "シセイ",
-        "meaning": "sincerity, devotion"
+        "meaning": "sincerity, devotion |(vi) lòng chân thành tột bậc, sự tận tụy"
       },
       {
         "example": "赤誠",
         "reading": "セキセイ",
-        "meaning": "sincerity, true heart, devotion"
+        "meaning": "sincerity, true heart, devotion |(vi) tấm lòng chân thành, lòng thành thực"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "誠",
         "reading": "まこと",
-        "meaning": "truth, reality, fact, sincerity, honesty, faithfulness, good faith, indeed, really, absolutely, truly, actually, very, quite"
+        "meaning": "truth, reality, fact, sincerity, honesty, faithfulness, good faith, indeed, really, absolutely, truly, actually, very, quite |(vi) sự thật, thực tế, chân thành, trung thực, thiện chí, quả thực, thật sự, đúng vậy"
       },
       {
         "example": "誠に",
         "reading": "まことに",
-        "meaning": "indeed, really, absolutely, truly, actually, very, quite"
+        "meaning": "indeed, really, absolutely, truly, actually, very, quite |(vi) quả thực, thật sự, đúng vậy"
       },
       {
         "example": "嘘から出たまこと",
         "reading": "うそからでたまこと",
-        "meaning": "something intended as a lie or joke which (by chance) ends up being true, lie turned truth"
+        "meaning": "something intended as a lie or joke which (by chance) ends up being true, lie turned truth |(vi) nói dối/nói đùa mà hóa ra lại thành sự thật"
       }
     ],
     "radical": {
@@ -304,7 +304,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "ノ",

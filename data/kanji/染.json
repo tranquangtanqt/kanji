@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "so, shi, someru, zome, somaru, shimiru, jimiru",
-    "meaning": "dye",
+    "meaning": "dye |(vi) nhuộm",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "染色（せんしょく）",
         "meaning": {
-          "english": "staining, stain, dyeing"
+          "english": "staining, stain, dyeing |(vi) sự nhuộm màu, vết nhuộm, sự nhuộm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "染料（せんりょう）",
         "meaning": {
-          "english": "dyes"
+          "english": "dyes |(vi) thuốc nhuộm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "染色体（せんしょくたい）",
         "meaning": {
-          "english": "chromosome"
+          "english": "chromosome |(vi) nhiễm sắc thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "伝染病（でんせんびょう）",
         "meaning": {
-          "english": "infectious disease, epidemic"
+          "english": "infectious disease, epidemic |(vi) bệnh truyền nhiễm, dịch bệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "染色する（せんしょくする）",
         "meaning": {
-          "english": "stain, dye"
+          "english": "stain, dye |(vi) nhuộm màu, nhuộm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "感染する（かんせんする）",
         "meaning": {
-          "english": "contract, be infected [v.i.]"
+          "english": "contract, be infected [v.i.] |(vi) lây nhiễm, bị nhiễm bệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "汚染する（おせんする）",
         "meaning": {
-          "english": "pollute, contaminate [v.i.]"
+          "english": "pollute, contaminate [v.i.] |(vi) gây ô nhiễm, làm bẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "伝染する（でんせんする）",
         "meaning": {
-          "english": "contract, be infected [v.i.]"
+          "english": "contract, be infected [v.i.] |(vi) lây nhiễm, bị nhiễm bệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "染める（そめる）",
         "meaning": {
-          "english": "dye, color [v.t.]"
+          "english": "dye, color [v.t.] |(vi) nhuộm, tô màu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "染まる（そまる）",
         "meaning": {
-          "english": "dye [v.i.]"
+          "english": "dye [v.i.] |(vi) bị nhuộm màu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "染みる（しみる）",
         "meaning": {
-          "english": "pierce, permeate [v.i.]"
+          "english": "pierce, permeate [v.i.] |(vi) thấm vào, ngấm vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "染み（しみ）",
         "meaning": {
-          "english": "stain, spot"
+          "english": "stain, spot |(vi) vết ố, đốm, vết bẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_l.opus",
@@ -240,7 +240,7 @@
     "kanji": {
       "character": "染",
       "meaning": {
-        "english": "dye"
+        "english": "dye |(vi) nhuộm"
       },
       "strokes": {
         "count": 9,
@@ -296,7 +296,7 @@
         "romaji": "ki"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ki0.svg",
@@ -317,7 +317,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "837",
     "strokeCount": 9,
-    "meaning": "dye, color, paint, stain, print",
+    "meaning": "dye, color, paint, stain, print |(vi) nhuộm, tô màu, sơn, làm bẩn, in |(hv) Nhiễm",
     "kunyomi": [
       "そ.める",
       "そ.まる",
@@ -331,54 +331,54 @@
       {
         "example": "染色体",
         "reading": "センショクタイ",
-        "meaning": "chromosome"
+        "meaning": "chromosome |(vi) nhiễm sắc thể"
       },
       {
         "example": "染色",
         "reading": "センショク",
-        "meaning": "dyeing, staining (a sample), dyed colour (color)"
+        "meaning": "dyeing, staining (a sample), dyed colour (color) |(vi) sự nhuộm, sự nhuộm màu (mẫu vật), màu nhuộm"
       },
       {
         "example": "媒染",
         "reading": "バイセン",
-        "meaning": "color fixing, colour fixing, mordantizing"
+        "meaning": "color fixing, colour fixing, mordantizing |(vi) sự cố định màu, sự hãm màu"
       },
       {
         "example": "鉄媒染",
         "reading": "テツバイセン",
-        "meaning": "iron mordanting"
+        "meaning": "iron mordanting |(vi) hãm màu bằng sắt"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "染める",
         "reading": "そめる",
-        "meaning": "to dye, to colour, to color"
+        "meaning": "to dye, to colour, to color |(vi) nhuộm, tô màu"
       },
       {
         "example": "染まる",
         "reading": "そまる",
-        "meaning": "to be dyed, to be tainted, to be infected, to be stained, to be steeped"
+        "meaning": "to be dyed, to be tainted, to be infected, to be stained, to be steeped |(vi) bị nhuộm, bị nhiễm thói xấu, bị lây nhiễm, bị vấy bẩn, bị ngấm"
       },
       {
         "example": "染みる",
         "reading": "しみる",
-        "meaning": "to pierce, to penetrate, to soak in, to permeate, to sting (wound or sensitive area, etc.), to smart, to twinge, to be infected (with vice), to be steeped (with prejudice), to be influenced, to feel keenly, to make a deep impression"
+        "meaning": "to pierce, to penetrate, to soak in, to permeate, to sting (wound or sensitive area, etc.), to smart, to twinge, to be infected (with vice), to be steeped (with prejudice), to be influenced, to feel keenly, to make a deep impression |(vi) xuyên qua, thấm vào, ngấm vào, nhức nhối (vết thương hay chỗ nhạy cảm), buốt, nhói, bị nhiễm (thói xấu), bị ảnh hưởng bởi thành kiến, chịu ảnh hưởng, cảm nhận sâu sắc, gây ấn tượng sâu đậm"
       },
       {
         "example": "染み",
         "reading": "しみ",
-        "meaning": "stain, spot, smudge, blot, smear, blotch, spot (on one's skin, e.g. chloasma, liver spot), blemish, discoloration, freckle"
+        "meaning": "stain, spot, smudge, blot, smear, blotch, spot (on one's skin, e.g. chloasma, liver spot), blemish, discoloration, freckle |(vi) vết ố, đốm, vết bẩn, vết lem, vết nhòe, vết loang, đốm trên da (ví dụ nám, đồi mồi), tì vết, đổi màu, tàn nhang"
       },
       {
         "example": "染みる",
         "reading": "しみる",
-        "meaning": "to pierce, to penetrate, to soak in, to permeate, to sting (wound or sensitive area, etc.), to smart, to twinge, to be infected (with vice), to be steeped (with prejudice), to be influenced, to feel keenly, to make a deep impression"
+        "meaning": "to pierce, to penetrate, to soak in, to permeate, to sting (wound or sensitive area, etc.), to smart, to twinge, to be infected (with vice), to be steeped (with prejudice), to be influenced, to feel keenly, to make a deep impression |(vi) xuyên qua, thấm vào, ngấm vào, nhức nhối (vết thương hay chỗ nhạy cảm), buốt, nhói, bị nhiễm (thói xấu), bị ảnh hưởng bởi thành kiến, chịu ảnh hưởng, cảm nhận sâu sắc, gây ấn tượng sâu đậm"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "九",

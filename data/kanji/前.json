@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "mae",
-    "meaning": "before, front",
+    "meaning": "before, front |(vi) trước, phía trước",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "午前（ごぜん）",
         "meaning": {
-          "english": "morning, a.m."
+          "english": "morning, a.m. |(vi) buổi sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mae_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "前日（ぜんじつ）",
         "meaning": {
-          "english": "previous day"
+          "english": "previous day |(vi) ngày hôm trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mae_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "前回（ぜんかい）",
         "meaning": {
-          "english": "last time"
+          "english": "last time |(vi) lần trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mae_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "前（まえ）",
         "meaning": {
-          "english": "before, ago, former"
+          "english": "before, ago, former |(vi) trước, trước đây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mae_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "この前（このまえ）",
         "meaning": {
-          "english": "the other day"
+          "english": "the other day |(vi) hôm nọ, lần trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mae_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "名前（なまえ）",
         "meaning": {
-          "english": "name"
+          "english": "name |(vi) tên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mae_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "手前（てまえ）",
         "meaning": {
-          "english": "in front of oneself, this side"
+          "english": "in front of oneself, this side |(vi) phía trước mặt, phía này"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mae_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "駅前（えきまえ）",
         "meaning": {
-          "english": "in front of the train station"
+          "english": "in front of the train station |(vi) trước ga"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mae_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "斜め前（ななめまえ）",
         "meaning": {
-          "english": "diagonally in front of"
+          "english": "diagonally in front of |(vi) phía trước chéo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mae_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "前売り（まえうり）",
         "meaning": {
-          "english": "advance sale"
+          "english": "advance sale |(vi) bán trước, đặt vé trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mae_06_j.opus",
@@ -273,7 +273,7 @@
     "kanji": {
       "character": "前",
       "meaning": {
-        "english": "before, front"
+        "english": "before, front |(vi) trước, phía trước"
       },
       "strokes": {
         "count": 9,
@@ -329,7 +329,7 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, kiếm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -350,7 +350,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "27",
     "strokeCount": 9,
-    "meaning": "in front, before",
+    "meaning": "in front, before |(vi) phía trước, trước |(hv) Tiền",
     "kunyomi": [
       "まえ",
       "-まえ"
@@ -362,44 +362,44 @@
       {
         "example": "前",
         "reading": "ゼン",
-        "meaning": "last (i.e. immediately preceding), previous, ex-, former, pre- (e.g. premodern), before, before, earlier"
+        "meaning": "last (i.e. immediately preceding), previous, ex-, former, pre- (e.g. premodern), before, before, earlier |(vi) trước, trước đây, cựu, tiền-"
       },
       {
         "example": "前衛",
         "reading": "ゼンエイ",
-        "meaning": "advance guard, vanguard, avant-garde, forward (player)"
+        "meaning": "advance guard, vanguard, avant-garde, forward (player) |(vi) tiên phong, tiền vệ"
       },
       {
         "example": "中前",
         "reading": "チュウゼン",
-        "meaning": "front of center field, front of centre field"
+        "meaning": "front of center field, front of centre field |(vi) phía trước trung tâm sân (bóng chày)"
       },
       {
         "example": "風前",
         "reading": "フウゼン",
-        "meaning": "where the wind blows"
+        "meaning": "where the wind blows |(vi) trước gió"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "前",
         "reading": "まえ",
-        "meaning": "in front (of), before (e.g. a building), before, earlier, previously, prior, ago, (minutes) to (the hour), (the) front, frontal part, fore, head (e.g. of a line), forward, ahead, (in the) presence (of), in front (of someone), previous (e.g. page), prior (e.g. engagement), first (e.g. half), former (e.g. example), portion, helping, front (of one's body or clothing), breast (of a coat, kimono, etc.), privates, private parts, criminal record, previous conviction, (a) prior"
+        "meaning": "in front (of), before (e.g. a building), before, earlier, previously, prior, ago, (minutes) to (the hour), (the) front, frontal part, fore, head (e.g. of a line), forward, ahead, (in the) presence (of), in front (of someone), previous (e.g. page), prior (e.g. engagement), first (e.g. half), former (e.g. example), portion, helping, front (of one's body or clothing), breast (of a coat, kimono, etc.), privates, private parts, criminal record, previous conviction, (a) prior |(vi) phía trước, trước, trước đây, mặt trước, phần, suất ăn, tiền án"
       },
       {
         "example": "前売り",
         "reading": "まえうり",
-        "meaning": "advance sale, booking"
+        "meaning": "advance sale, booking |(vi) bán trước, đặt trước"
       },
       {
         "example": "左前",
         "reading": "ひだりまえ",
-        "meaning": "wearing a kimono with the right side over the left (normally used only for the dead), downturn, recession, economic adversity, being in a bad financial situation, front left, front and left, before and left"
+        "meaning": "wearing a kimono with the right side over the left (normally used only for the dead), downturn, recession, economic adversity, being in a bad financial situation, front left, front and left, before and left |(vi) mặc kimono trái phải ngược (cho người chết), suy thoái kinh tế, khó khăn tài chính"
       },
       {
         "example": "出前",
         "reading": "でまえ",
-        "meaning": "home delivery (of food), outside catering"
+        "meaning": "home delivery (of food), outside catering |(vi) giao hàng tận nơi (đồ ăn)"
       }
     ],
     "radical": {
@@ -407,7 +407,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "一",

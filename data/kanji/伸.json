@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "no, nobiru, nobasu",
-    "meaning": "stretch, lengthen, grow",
+    "meaning": "stretch, lengthen, grow |(vi) kéo dài, duỗi ra, phát triển",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "追伸（ついしん）",
         "meaning": {
-          "english": "postscript"
+          "english": "postscript |(vi) tái bút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-no(biru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "伸縮する（しんしゅくする）",
         "meaning": {
-          "english": "expand and contract"
+          "english": "expand and contract |(vi) co giãn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-no(biru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "伸長する（しんちょうする）",
         "meaning": {
-          "english": "expand, extend, elongate"
+          "english": "expand, extend, elongate |(vi) mở rộng, kéo dài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-no(biru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "伸ばす（のばす）",
         "meaning": {
-          "english": "lengthen, reach out [v.t.]"
+          "english": "lengthen, reach out [v.t.] |(vi) kéo dài, vươn ra (tha động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-no(biru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "伸びる（のびる）",
         "meaning": {
-          "english": "stretch, extend, grow [v.i.]"
+          "english": "stretch, extend, grow [v.i.] |(vi) duỗi ra, kéo dài, phát triển (tự động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-no(biru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "伸び率（のびりつ）",
         "meaning": {
-          "english": "growth rate"
+          "english": "growth rate |(vi) tỷ lệ tăng trưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-no(biru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "背伸びする（せのびする）",
         "meaning": {
-          "english": "stand on tiptoe, stretch oneself"
+          "english": "stand on tiptoe, stretch oneself |(vi) kiễng chân, vươn người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-no(biru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "*欠伸（あくび）",
         "meaning": {
-          "english": "yawn [n.]"
+          "english": "yawn [n.] |(vi) cái ngáp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-no(biru)_06_h.opus",
@@ -194,7 +194,7 @@
     "kanji": {
       "character": "伸",
       "meaning": {
-        "english": "stretch, lengthen, grow"
+        "english": "stretch, lengthen, grow |(vi) kéo dài, duỗi ra, phát triển"
       },
       "strokes": {
         "count": 7,
@@ -246,7 +246,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -267,7 +267,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "730",
     "strokeCount": 7,
-    "meaning": "expand, stretch, extend, lengthen, increase",
+    "meaning": "expand, stretch, extend, lengthen, increase |(vi) mở rộng, duỗi ra, kéo dài, tăng lên |(hv) Thân",
     "kunyomi": [
       "の.びる",
       "の.ばす",
@@ -281,44 +281,44 @@
       {
         "example": "伸長",
         "reading": "シンチョウ",
-        "meaning": "expansion, extension, elongation, stretching"
+        "meaning": "expansion, extension, elongation, stretching |(vi) sự mở rộng, kéo dài, gia tăng, duỗi ra"
       },
       {
         "example": "伸縮",
         "reading": "シンシュク",
-        "meaning": "expansion and contraction, elasticity, flexibility"
+        "meaning": "expansion and contraction, elasticity, flexibility |(vi) sự co giãn, tính đàn hồi, tính linh hoạt"
       },
       {
         "example": "続伸",
         "reading": "ゾクシン",
-        "meaning": "continuous rise (in market price)"
+        "meaning": "continuous rise (in market price) |(vi) sự tăng liên tục (giá thị trường)"
       },
       {
         "example": "急伸",
         "reading": "キュウシン",
-        "meaning": "sudden rise (esp. of stock prices), jump"
+        "meaning": "sudden rise (esp. of stock prices), jump |(vi) sự tăng đột ngột (nhất là giá cổ phiếu), bật tăng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "伸びる",
         "reading": "のびる",
-        "meaning": "to stretch, to extend, to lengthen, to grow (of hair, height, grass, etc.), to straighten out, to be flattened, to become smooth, to spread (of paint, cream, etc.), to stretch out (e.g. of a hand), to extend, to lose elasticity, to become slack, to become soggy (e.g. of noodles), to make progress, to develop, to expand, to increase, to improve, to be exhausted, to get groggy, to be stunned (by a blow), to pass out, to collapse, to be prolonged (of a meeting, life span, etc.), to be extended (e.g. of a deadline), to lengthen (e.g. of the days), to be postponed, to be delayed, to be put off"
+        "meaning": "to stretch, to extend, to lengthen, to grow (of hair, height, grass, etc.), to straighten out, to be flattened, to become smooth, to spread (of paint, cream, etc.), to stretch out (e.g. of a hand), to extend, to lose elasticity, to become slack, to become soggy (e.g. of noodles), to make progress, to develop, to expand, to increase, to improve, to be exhausted, to get groggy, to be stunned (by a blow), to pass out, to collapse, to be prolonged (of a meeting, life span, etc.), to be extended (e.g. of a deadline), to lengthen (e.g. of the days), to be postponed, to be delayed, to be put off |(vi) duỗi ra, kéo dài, mọc dài (tóc, chiều cao, cỏ...), được là phẳng, trở nên mịn, lan đều (sơn, kem...), vươn ra (tay), mất độ đàn hồi, trở nên nhão, bị nhũn (mì...), tiến bộ, phát triển, mở rộng, tăng lên, được cải thiện, kiệt sức, choáng váng, ngất xỉu (do bị đánh), được kéo dài (cuộc họp, tuổi thọ...), được gia hạn (thời hạn), dài ra (ngày), bị hoãn lại, bị trì hoãn"
       },
       {
         "example": "伸ばす",
         "reading": "のばす",
-        "meaning": "to grow long (e.g. hair, nails), to lengthen, to extend, to stretch, to reach out, to hold out, to straighten, to smooth out, to spread evenly (dough, cream, etc.), to dilute, to thin out, to postpone, to prolong, to strengthen, to develop, to expand"
+        "meaning": "to grow long (e.g. hair, nails), to lengthen, to extend, to stretch, to reach out, to hold out, to straighten, to smooth out, to spread evenly (dough, cream, etc.), to dilute, to thin out, to postpone, to prolong, to strengthen, to develop, to expand |(vi) để mọc dài (tóc, móng), kéo dài, duỗi ra, vươn tới, giữ nguyên, làm thẳng, làm mịn, dàn đều (bột, kem...), pha loãng, làm mỏng, trì hoãn, kéo dài, tăng cường, phát triển, mở rộng"
       },
       {
         "example": "延べる",
         "reading": "のべる",
-        "meaning": "to lay out (a futon), to make (bed), to spread out, to stretch, to widen, to postpone, to extend"
+        "meaning": "to lay out (a futon), to make (bed), to spread out, to stretch, to widen, to postpone, to extend |(vi) trải (futon), dọn giường, trải ra, kéo dài, mở rộng, trì hoãn, gia hạn"
       },
       {
         "example": "伸す",
         "reading": "のす",
-        "meaning": "to stretch, to extend, to lengthen, to spread, to gain influence, to become stronger, to increase (e.g. in scope), to go further, to extend one's journey, to smooth out, to roll out, to spread out (something folded), to iron out (creases), to knock out, to knock down"
+        "meaning": "to stretch, to extend, to lengthen, to spread, to gain influence, to become stronger, to increase (e.g. in scope), to go further, to extend one's journey, to smooth out, to roll out, to spread out (something folded), to iron out (creases), to knock out, to knock down |(vi) duỗi ra, kéo dài, mở rộng, lan rộng, tăng ảnh hưởng, trở nên mạnh hơn, tăng lên (phạm vi), tiến xa hơn, kéo dài chuyến đi, làm mịn, cán mỏng, trải ra (vật đã gấp), là phẳng (nếp nhăn), đánh gục, hạ gục"
       }
     ],
     "radical": {
@@ -326,7 +326,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "化",

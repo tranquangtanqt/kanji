@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "hoshi",
-    "meaning": "star",
+    "meaning": "star |(vi) ngôi sao",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "星座（せいざ）",
         "meaning": {
-          "english": "constellation"
+          "english": "constellation |(vi) chòm sao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "星雲（せいうん）",
         "meaning": {
-          "english": "nebula, galaxy"
+          "english": "nebula, galaxy |(vi) tinh vân, thiên hà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "惑星（わくせい）",
         "meaning": {
-          "english": "planet"
+          "english": "planet |(vi) hành tinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "衛星（えいせい）",
         "meaning": {
-          "english": "satellite"
+          "english": "satellite |(vi) vệ tinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "火星（かせい）",
         "meaning": {
-          "english": "Mars"
+          "english": "Mars |(vi) Sao Hỏa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "一等星（いっとうせい）",
         "meaning": {
-          "english": "first-magnitude star"
+          "english": "first-magnitude star |(vi) sao cấp một"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "北極星（ほっきょくせい）",
         "meaning": {
-          "english": "Polaris, north star"
+          "english": "Polaris, north star |(vi) sao Bắc Cực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "明星（みょうじょう）",
         "meaning": {
-          "english": "morning star, Venus, Lucifer"
+          "english": "morning star, Venus, Lucifer |(vi) sao mai, Kim tinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "星（ほし）",
         "meaning": {
-          "english": "star"
+          "english": "star |(vi) ngôi sao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "星占い（ほしうらない）",
         "meaning": {
-          "english": "astrology, horoscope"
+          "english": "astrology, horoscope |(vi) chiêm tinh, tử vi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_j.opus",
@@ -223,7 +223,7 @@
     "kanji": {
       "character": "星",
       "meaning": {
-        "english": "star"
+        "english": "star |(vi) ngôi sao"
       },
       "strokes": {
         "count": 9,
@@ -279,7 +279,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi0.svg",
@@ -300,7 +300,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "844",
     "strokeCount": 9,
-    "meaning": "star, spot, dot, mark",
+    "meaning": "star, spot, dot, mark |(vi) ngôi sao, đốm, chấm, dấu |(hv) Tinh",
     "kunyomi": [
       "ほし",
       "-ぼし"
@@ -313,59 +313,59 @@
       {
         "example": "星",
         "reading": "セイ",
-        "meaning": "Chinese \"star\" constellation (one of the 28 mansions), Singapore"
+        "meaning": "Chinese \"star\" constellation (one of the 28 mansions), Singapore |(vi) sao Tinh (một trong 28 tú), Singapore"
       },
       {
         "example": "星座",
         "reading": "セイザ",
-        "meaning": "constellation, astrological sign, star sign, zodiac sign"
+        "meaning": "constellation, astrological sign, star sign, zodiac sign |(vi) chòm sao, cung hoàng đạo"
       },
       {
         "example": "新星",
         "reading": "シンセイ",
-        "meaning": "nova, new face, new star"
+        "meaning": "nova, new face, new star |(vi) sao mới, tân tinh, gương mặt mới nổi"
       },
       {
         "example": "小惑星",
         "reading": "ショウワクセイ",
-        "meaning": "asteroid"
+        "meaning": "asteroid |(vi) tiểu hành tinh"
       },
       {
         "example": "客星",
         "reading": "カクセイ",
-        "meaning": "celestial body seen only for a short time (e.g. comet)"
+        "meaning": "celestial body seen only for a short time (e.g. comet) |(vi) thiên thể chỉ nhìn thấy trong thời gian ngắn (như sao chổi)"
       },
       {
         "example": "七星",
         "reading": "シチセイ",
-        "meaning": "the Big Dipper (asterism), the Plough, the Plow"
+        "meaning": "the Big Dipper (asterism), the Plough, the Plow |(vi) chòm sao Bắc Đẩu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "星",
         "reading": "ほし",
-        "meaning": "star (usu. excluding the Sun), planet (usu. excluding Earth), heavenly body, star (glyph, symbol, shape), asterisk, star (actor, player, etc.), dot, spot, fleck, bullseye, perp, perpetrator, culprit, offender, suspect, one's star (that determines one's fate), one's fortune, point, score, star point (intersection marked with a dot), hoshi, (pyrotechnic) star"
+        "meaning": "star (usu. excluding the Sun), planet (usu. excluding Earth), heavenly body, star (glyph, symbol, shape), asterisk, star (actor, player, etc.), dot, spot, fleck, bullseye, perp, perpetrator, culprit, offender, suspect, one's star (that determines one's fate), one's fortune, point, score, star point (intersection marked with a dot), hoshi, (pyrotechnic) star |(vi) ngôi sao, hành tinh, thiên thể, dấu sao, diễn viên/vận động viên nổi tiếng, chấm, đốm, thủ phạm, nghi phạm, vận mệnh, điểm số"
       },
       {
         "example": "星空",
         "reading": "ほしぞら",
-        "meaning": "starry sky"
+        "meaning": "starry sky |(vi) bầu trời đầy sao"
       },
       {
         "example": "四三の星",
         "reading": "しそうのほし",
-        "meaning": "the Big Dipper (asterism), the Plough, the Plow"
+        "meaning": "the Big Dipper (asterism), the Plough, the Plow |(vi) chòm sao Bắc Đẩu"
       },
       {
         "example": "希望の星",
         "reading": "きぼうのほし",
-        "meaning": "ray of light, ray of hope, promising talent"
+        "meaning": "ray of light, ray of hope, promising talent |(vi) tia hy vọng, tài năng đầy hứa hẹn"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "日",

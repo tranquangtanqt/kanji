@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "surname",
+    "meaning": "surname |(vi) họ (tên họ)",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "姓（せい）",
         "meaning": {
-          "english": "surname, family name"
+          "english": "surname, family name |(vi) họ, tên họ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)sei(doumei)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "姓名（せいめい）",
         "meaning": {
-          "english": "full name"
+          "english": "full name |(vi) họ tên đầy đủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)sei(doumei)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "旧姓（きゅうせい）",
         "meaning": {
-          "english": "maiden name"
+          "english": "maiden name |(vi) họ thời con gái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)sei(doumei)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "同姓同名（どうせいどうめい）",
         "meaning": {
-          "english": "same family & personal name"
+          "english": "same family & personal name |(vi) cùng họ cùng tên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)sei(doumei)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "改姓する（かいせいする）",
         "meaning": {
-          "english": "change one's family name"
+          "english": "change one's family name |(vi) đổi họ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)sei(doumei)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "百姓（ひゃくしょう）",
         "meaning": {
-          "english": "farmer, peasant"
+          "english": "farmer, peasant |(vi) nông dân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)sei(doumei)_06_f.opus",
@@ -157,7 +157,7 @@
     "kanji": {
       "character": "姓",
       "meaning": {
-        "english": "surname"
+        "english": "surname |(vi) họ (tên họ)"
       },
       "strokes": {
         "count": 8,
@@ -211,7 +211,7 @@
         "romaji": "onnahen"
       },
       "meaning": {
-        "english": "woman"
+        "english": "woman |(vi) Nữ (phụ nữ, giống cái)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/onnahen0.svg",
@@ -232,7 +232,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1628",
     "strokeCount": 8,
-    "meaning": "surname",
+    "meaning": "surname |(vi) họ, tên họ |(hv) Tính",
     "kunyomi": [],
     "onyomi": [
       "セイ",
@@ -242,43 +242,43 @@
       {
         "example": "姓",
         "reading": "セイ",
-        "meaning": "surname, family name, hereditary title (used in ancient Japan to denote rank and political standing)"
+        "meaning": "surname, family name, hereditary title (used in ancient Japan to denote rank and political standing) |(vi) họ, tên họ, tước hiệu cha truyền con nối (dùng ở Nhật Bản cổ đại để chỉ thứ bậc và địa vị chính trị)"
       },
       {
         "example": "姓名",
         "reading": "セイメイ",
-        "meaning": "(full) name, family name and given name"
+        "meaning": "(full) name, family name and given name |(vi) họ tên đầy đủ, họ và tên"
       },
       {
         "example": "旧姓",
         "reading": "キュウセイ",
-        "meaning": "one's original family name, maiden name"
+        "meaning": "one's original family name, maiden name |(vi) họ gốc, họ thời con gái"
       },
       {
         "example": "同姓",
         "reading": "ドウセイ",
-        "meaning": "same surname"
+        "meaning": "same surname |(vi) cùng họ"
       },
       {
         "example": "姓",
         "reading": "セイ",
-        "meaning": "surname, family name, hereditary title (used in ancient Japan to denote rank and political standing)"
+        "meaning": "surname, family name, hereditary title (used in ancient Japan to denote rank and political standing) |(vi) họ, tên họ, tước hiệu cha truyền con nối (dùng ở Nhật Bản cổ đại để chỉ thứ bậc và địa vị chính trị)"
       },
       {
         "example": "俗姓",
         "reading": "ゾクショウ",
-        "meaning": "secular surname (of a priest)"
+        "meaning": "secular surname (of a priest) |(vi) họ tục (của tu sĩ)"
       },
       {
         "example": "小百姓",
         "reading": "コビャクショウ",
-        "meaning": "peasant, small farmer"
+        "meaning": "peasant, small farmer |(vi) nông dân, tiểu nông"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "女",
-      "meaning": "woman, female"
+      "meaning": "woman, female |(vi) Nữ (phụ nữ, giống cái)"
     },
     "parts": [
       "女",

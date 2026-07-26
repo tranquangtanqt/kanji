@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "stratum, layer, level",
+    "meaning": "stratum, layer, level |(vi) tầng, lớp, mức độ",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "階層（かいそう）",
         "meaning": {
-          "english": "class, social stratum, hierarchy"
+          "english": "class, social stratum, hierarchy |(vi) giai tầng, tầng lớp xã hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kou)sou(biru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "地層（ちそう）",
         "meaning": {
-          "english": "stratum"
+          "english": "stratum |(vi) địa tầng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kou)sou(biru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "上層（じょうそう）",
         "meaning": {
-          "english": "upper stratum"
+          "english": "upper stratum |(vi) tầng trên, thượng tầng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kou)sou(biru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "下層（かそう）",
         "meaning": {
-          "english": "lower stratum"
+          "english": "lower stratum |(vi) tầng dưới, hạ tầng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kou)sou(biru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "高層ビル（こうそうビル）",
         "meaning": {
-          "english": "skyscraper"
+          "english": "skyscraper |(vi) tòa nhà cao tầng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kou)sou(biru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "成層圏（せいそうけん）",
         "meaning": {
-          "english": "stratosphere"
+          "english": "stratosphere |(vi) tầng bình lưu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kou)sou(biru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "知識層（ちしきそう）",
         "meaning": {
-          "english": "the intellectual class"
+          "english": "the intellectual class |(vi) tầng lớp trí thức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kou)sou(biru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "読者層（どくしゃそう）",
         "meaning": {
-          "english": "class of readers"
+          "english": "class of readers |(vi) tầng lớp độc giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kou)sou(biru)_06_h.opus",
@@ -197,7 +197,7 @@
     "kanji": {
       "character": "層",
       "meaning": {
-        "english": "stratum, layer, level"
+        "english": "stratum, layer, level |(vi) tầng, lớp, mức độ"
       },
       "strokes": {
         "count": 14,
@@ -263,7 +263,7 @@
         "romaji": "shikabane"
       },
       "meaning": {
-        "english": "corpse, awning"
+        "english": "corpse, awning |(vi) Thi (xác chết, mái che)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shikabane0.svg",
@@ -284,7 +284,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "801",
     "strokeCount": 14,
-    "meaning": "stratum, social class, layer, story, floor",
+    "meaning": "stratum, social class, layer, story, floor |(vi) tầng, giai cấp xã hội, lớp, tầng nhà |(hv) Tằng",
     "kunyomi": [],
     "onyomi": [
       "ソウ"
@@ -293,28 +293,28 @@
       {
         "example": "層",
         "reading": "ソウ",
-        "meaning": "layer, stratum, seam, bed, class, stratum, bracket, group, sheaf, counter for stories (of a building)"
+        "meaning": "layer, stratum, seam, bed, class, stratum, bracket, group, sheaf, counter for stories (of a building) |(vi) tầng, lớp, giai tầng, lượng từ đếm tầng (nhà)"
       },
       {
         "example": "層群",
         "reading": "ソウグン",
-        "meaning": "(geol) group"
+        "meaning": "(geol) group |(vi) hệ tầng (địa chất)"
       },
       {
         "example": "重層",
         "reading": "ジュウソウ",
-        "meaning": "multistoried, multilayered"
+        "meaning": "multistoried, multilayered |(vi) nhiều tầng, nhiều lớp"
       },
       {
         "example": "高層",
         "reading": "コウソウ",
-        "meaning": "high-rise (building), multistory, multistoried, tall, high (altitude), upper (atmosphere, air current, etc.)"
+        "meaning": "high-rise (building), multistory, multistoried, tall, high (altitude), upper (atmosphere, air current, etc.) |(vi) cao tầng, tầng cao, thượng tầng khí quyển"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "尸",
-      "meaning": "corpse"
+      "meaning": "corpse |(vi) Thi (xác chết, thây người)"
     },
     "parts": [
       "尸",

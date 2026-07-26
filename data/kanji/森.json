@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "mori",
-    "meaning": "forest",
+    "meaning": "forest |(vi) rừng",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "森林（しんりん）",
         "meaning": {
-          "english": "forest"
+          "english": "forest |(vi) rừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-mori_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "森（もり）",
         "meaning": {
-          "english": "woods"
+          "english": "woods |(vi) khu rừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-mori_06_b.opus",
@@ -166,7 +166,7 @@
     "kanji": {
       "character": "森",
       "meaning": {
-        "english": "forest"
+        "english": "forest |(vi) rừng"
       },
       "strokes": {
         "count": 12,
@@ -228,7 +228,7 @@
         "romaji": "ki"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ki0.svg",
@@ -249,7 +249,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "609",
     "strokeCount": 12,
-    "meaning": "forest, woods",
+    "meaning": "forest, woods |(vi) rừng, khu rừng |(hv) Sâm",
     "kunyomi": [
       "もり"
     ],
@@ -260,44 +260,44 @@
       {
         "example": "森林",
         "reading": "シンリン",
-        "meaning": "forest, woods"
+        "meaning": "forest, woods |(vi) rừng, khu rừng"
       },
       {
         "example": "森閑",
         "reading": "シンカン",
-        "meaning": "silent, still, quiet, hushed"
+        "meaning": "silent, still, quiet, hushed |(vi) yên tĩnh, im lặng, tĩnh mịch, tĩnh lặng"
       },
       {
         "example": "森々",
         "reading": "シンシン",
-        "meaning": "dense with trees, deeply forested"
+        "meaning": "dense with trees, deeply forested |(vi) rậm rạp cây cối, rừng rậm um tùm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "森",
         "reading": "もり",
-        "meaning": "forest, shrine grove"
+        "meaning": "forest, shrine grove |(vi) rừng, rừng thiêng quanh đền thờ"
       },
       {
         "example": "森青蛙",
         "reading": "もりあおがえる",
-        "meaning": "forest green tree frog (Rhacophorus arboreus)"
+        "meaning": "forest green tree frog (Rhacophorus arboreus) |(vi) ếch cây rừng xanh (Rhacophorus arboreus)"
       },
       {
         "example": "どう森",
         "reading": "どうもり",
-        "meaning": "Animal Crossing (video game series) (abbr)"
+        "meaning": "Animal Crossing (video game series) (abbr) |(vi) Animal Crossing (dòng game điện tử) (viết tắt)"
       },
       {
         "example": "青森",
         "reading": "あおもり",
-        "meaning": "Aomori (city, prefecture)"
+        "meaning": "Aomori (city, prefecture) |(vi) Aomori (thành phố, tỉnh)"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "木"

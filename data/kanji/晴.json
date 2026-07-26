@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ha, hareru, hare, harasu",
-    "meaning": "fine weather, clear up",
+    "meaning": "fine weather, clear up |(vi) trời quang, tạnh ráo",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "晴天（せいてん）",
         "meaning": {
-          "english": "fine weather"
+          "english": "fine weather |(vi) trời quang đãng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-ha(reru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "晴れる（はれる）",
         "meaning": {
-          "english": "become sunny"
+          "english": "become sunny |(vi) trời trở nắng, quang mây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-ha(reru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "五月晴れ（さつきばれ）",
         "meaning": {
-          "english": "early summer fine weather"
+          "english": "early summer fine weather |(vi) trời quang đầu hè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-ha(reru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "晴らす（はらす）",
         "meaning": {
-          "english": "clear away"
+          "english": "clear away |(vi) xua tan, giải tỏa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-ha(reru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "素晴らしい（すばらしい）",
         "meaning": {
-          "english": "wonderful"
+          "english": "wonderful |(vi) tuyệt vời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-ha(reru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "気晴らし（きばらし）",
         "meaning": {
-          "english": "recreation"
+          "english": "recreation |(vi) giải trí, thư giãn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-ha(reru)_06_f.opus",
@@ -221,7 +221,7 @@
     "kanji": {
       "character": "晴",
       "meaning": {
-        "english": "fine weather, clear up"
+        "english": "fine weather, clear up |(vi) trời quang, tạnh ráo"
       },
       "strokes": {
         "count": 12,
@@ -283,7 +283,7 @@
         "romaji": "hihen"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hihen0.svg",
@@ -304,7 +304,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1022",
     "strokeCount": 12,
-    "meaning": "clear up",
+    "meaning": "clear up |(vi) trời quang, tạnh ráo |(hv) Tình",
     "kunyomi": [
       "は.れる",
       "は.れ",
@@ -319,49 +319,49 @@
       {
         "example": "晴天",
         "reading": "セイテン",
-        "meaning": "fine weather (i.e. little or no clouds), fair weather, clear weather, clear sky, fair skies"
+        "meaning": "fine weather (i.e. little or no clouds), fair weather, clear weather, clear sky, fair skies |(vi) trời quang, thời tiết tốt, bầu trời trong xanh"
       },
       {
         "example": "晴雨",
         "reading": "セイウ",
-        "meaning": "clear or rainy weather, sunshine or rain"
+        "meaning": "clear or rainy weather, sunshine or rain |(vi) trời tạnh hoặc mưa, nắng hay mưa"
       },
       {
         "example": "好晴",
         "reading": "コウセイ",
-        "meaning": "clear weather, good weather"
+        "meaning": "clear weather, good weather |(vi) trời quang, thời tiết đẹp"
       },
       {
         "example": "陰晴",
         "reading": "インセイ",
-        "meaning": "unsettled (fine and cloudy) weather"
+        "meaning": "unsettled (fine and cloudy) weather |(vi) thời tiết thất thường (lúc quang lúc âm u)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "晴れる",
         "reading": "はれる",
-        "meaning": "to clear up, to clear away, to be sunny, to stop raining, to refresh (e.g. spirits), to be cleared (e.g. of a suspicion), to be dispelled, to be banished"
+        "meaning": "to clear up, to clear away, to be sunny, to stop raining, to refresh (e.g. spirits), to be cleared (e.g. of a suspicion), to be dispelled, to be banished |(vi) trời quang, tạnh mưa, trở nắng, giải tỏa (tâm trạng), được minh oan"
       },
       {
         "example": "晴れ",
         "reading": "はれ",
-        "meaning": "clear weather, fine weather, formal, ceremonial, public, cleared of suspicion"
+        "meaning": "clear weather, fine weather, formal, ceremonial, public, cleared of suspicion |(vi) trời quang, thời tiết đẹp, trang trọng, nghi lễ, được minh oan"
       },
       {
         "example": "晴れる",
         "reading": "はれる",
-        "meaning": "to clear up, to clear away, to be sunny, to stop raining, to refresh (e.g. spirits), to be cleared (e.g. of a suspicion), to be dispelled, to be banished"
+        "meaning": "to clear up, to clear away, to be sunny, to stop raining, to refresh (e.g. spirits), to be cleared (e.g. of a suspicion), to be dispelled, to be banished |(vi) trời quang, tạnh mưa, trở nắng, giải tỏa (tâm trạng), được minh oan"
       },
       {
         "example": "晴らす",
         "reading": "はらす",
-        "meaning": "to dispel, to clear away, to refresh (oneself), to accomplish a goal, to make it sunny, to make clouds disappear"
+        "meaning": "to dispel, to clear away, to refresh (oneself), to accomplish a goal, to make it sunny, to make clouds disappear |(vi) xua tan, giải tỏa, đạt được mục tiêu, làm trời quang mây"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "二",

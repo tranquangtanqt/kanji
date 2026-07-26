@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "shizu, shizuka, shizumaru, shizumeru",
-    "meaning": "quiet",
+    "meaning": "quiet |(vi) yên tĩnh",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "静寂（せいじゃく）",
         "meaning": {
-          "english": "silence"
+          "english": "silence |(vi) sự tĩnh lặng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "安静（あんせい）",
         "meaning": {
-          "english": "rest [n.]"
+          "english": "rest [n.] |(vi) sự nghỉ ngơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "冷静な（れいせいな）",
         "meaning": {
-          "english": "calm, cool-headed"
+          "english": "calm, cool-headed |(vi) bình tĩnh, điềm đạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "静止する（せいしする）",
         "meaning": {
-          "english": "stand still"
+          "english": "stand still |(vi) đứng yên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "静聴する（せいちょうする）",
         "meaning": {
-          "english": "listen quietly"
+          "english": "listen quietly |(vi) lắng nghe yên lặng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "静脈（じょうみゃく）",
         "meaning": {
-          "english": "vein"
+          "english": "vein |(vi) tĩnh mạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "静かな（しずかな）",
         "meaning": {
-          "english": "quiet"
+          "english": "quiet |(vi) yên tĩnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "静まる（しずまる）",
         "meaning": {
-          "english": "quiet down, calm down [v.i.]"
+          "english": "quiet down, calm down [v.i.] |(vi) lắng xuống, bình tĩnh lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "静める（しずめる）",
         "meaning": {
-          "english": "appease, pacify, calm [v.t.]"
+          "english": "appease, pacify, calm [v.t.] |(vi) xoa dịu, trấn an, làm yên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_i.opus",
@@ -271,7 +271,7 @@
     "kanji": {
       "character": "静",
       "meaning": {
-        "english": "quiet"
+        "english": "quiet |(vi) yên tĩnh"
       },
       "strokes": {
         "count": 14,
@@ -337,7 +337,7 @@
         "romaji": "ao"
       },
       "meaning": {
-        "english": "blue, green"
+        "english": "blue, green |(vi) Thanh (màu xanh, màu lục)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ao0.svg",
@@ -358,7 +358,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "764",
     "strokeCount": 14,
-    "meaning": "quiet",
+    "meaning": "quiet |(vi) yên tĩnh |(hv) Tĩnh",
     "kunyomi": [
       "しず-",
       "しず.か",
@@ -373,74 +373,74 @@
       {
         "example": "静",
         "reading": "セイ",
-        "meaning": "stillness, quiet, peacefulness"
+        "meaning": "stillness, quiet, peacefulness |(vi) sự tĩnh lặng, yên tĩnh, thanh bình"
       },
       {
         "example": "静観",
         "reading": "セイカン",
-        "meaning": "watchful waiting, careful supervision"
+        "meaning": "watchful waiting, careful supervision |(vi) chờ đợi theo dõi thận trọng, giám sát cẩn thận"
       },
       {
         "example": "沈静",
         "reading": "チンセイ",
-        "meaning": "settling down, quieting down, cooling down, cooling off, stillness, quiet, tranquility"
+        "meaning": "settling down, quieting down, cooling down, cooling off, stillness, quiet, tranquility |(vi) lắng xuống, dịu đi, hạ nhiệt, sự tĩnh lặng, yên bình"
       },
       {
         "example": "寧静",
         "reading": "ネイセイ",
-        "meaning": "calm, peace, tranquility"
+        "meaning": "calm, peace, tranquility |(vi) bình yên, hòa bình, thanh bình"
       },
       {
         "example": "静脈",
         "reading": "ジョウミャク",
-        "meaning": "vein"
+        "meaning": "vein |(vi) tĩnh mạch"
       },
       {
         "example": "静注",
         "reading": "ジョウチュウ",
-        "meaning": "intravenous injection, IV"
+        "meaning": "intravenous injection, IV |(vi) tiêm tĩnh mạch, truyền tĩnh mạch"
       },
       {
         "example": "寂静",
         "reading": "ジャクジョウ",
-        "meaning": "quiet, stillness, tranquility, enlightenment, nirvana"
+        "meaning": "quiet, stillness, tranquility, enlightenment, nirvana |(vi) sự tĩnh lặng, yên tĩnh, thanh thản, giác ngộ, niết bàn"
       },
       {
         "example": "涅槃寂静",
         "reading": "ネハンジャクジョウ",
-        "meaning": "enlightenment leads to serenity"
+        "meaning": "enlightenment leads to serenity |(vi) giác ngộ dẫn đến sự thanh thản"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "静か",
         "reading": "しずか",
-        "meaning": "quiet, silent, slow, unhurried, calm, peaceful"
+        "meaning": "quiet, silent, slow, unhurried, calm, peaceful |(vi) yên tĩnh, im lặng, chậm rãi, thong thả, bình tĩnh, thanh bình"
       },
       {
         "example": "静かに",
         "reading": "しずかに",
-        "meaning": "calmly, quietly, gently, peacefully, be quiet!"
+        "meaning": "calmly, quietly, gently, peacefully, be quiet! |(vi) một cách bình tĩnh, yên lặng, nhẹ nhàng, thanh thản, im lặng nào!"
       },
       {
         "example": "二人静",
         "reading": "ふたりしずか",
-        "meaning": "Chloranthus serratus (species of flowering plant)"
+        "meaning": "Chloranthus serratus (species of flowering plant) |(vi) cây Chloranthus serratus (một loài thực vật có hoa)"
       },
       {
         "example": "一人静",
         "reading": "ひとりしずか",
-        "meaning": "Chloranthus japonicus"
+        "meaning": "Chloranthus japonicus |(vi) cây Chloranthus japonicus"
       },
       {
         "example": "静まる",
         "reading": "しずまる",
-        "meaning": "to become quiet, to quiet down, to quieten down, to calm down, to die down, to subside, to abate, to be suppressed"
+        "meaning": "to become quiet, to quiet down, to quieten down, to calm down, to die down, to subside, to abate, to be suppressed |(vi) trở nên yên tĩnh, lắng xuống, dịu lại, bình tĩnh lại, tan biến, giảm bớt, bị dập tắt"
       },
       {
         "example": "静める",
         "reading": "しずめる",
-        "meaning": "to quiet (a child, crowd, etc.), to quieten, to make quiet, to calm (one's nerves, excitement, etc.), to compose (oneself), to appease (someone's anger), to pacify, to settle (e.g. discord), to suppress (a rebellion, riot, fire, etc.), to quell, to put down, to get under control, to relieve (a cough, pain, etc.), to soothe, to alleviate, to ease, to appease (a spirit, soul, etc.), to pacify, to soothe"
+        "meaning": "to quiet (a child, crowd, etc.), to quieten, to make quiet, to calm (one's nerves, excitement, etc.), to compose (oneself), to appease (someone's anger), to pacify, to settle (e.g. discord), to suppress (a rebellion, riot, fire, etc.), to quell, to put down, to get under control, to relieve (a cough, pain, etc.), to soothe, to alleviate, to ease, to appease (a spirit, soul, etc.), to pacify, to soothe |(vi) làm yên (trẻ con, đám đông...), làm dịu, trấn an (thần kinh, sự kích động...), giữ bình tĩnh, nguôi giận (ai đó), dàn xếp (bất hòa), dập tắt (nổi loạn, bạo động, hỏa hoạn...), kiểm soát tình hình, làm giảm (ho, đau...), xoa dịu, an ủi (linh hồn...)"
       }
     ],
     "radical": {
@@ -448,7 +448,7 @@
       "forms": [
         "靑"
       ],
-      "meaning": "blue"
+      "meaning": "blue |(vi) Thanh (màu xanh)"
     },
     "parts": [
       "ヨ",

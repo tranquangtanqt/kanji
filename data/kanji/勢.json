@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 4,
     "kunyomi": "ikio, ikioi",
-    "meaning": "power, force, vigor",
+    "meaning": "power, force, vigor |(vi) sức mạnh, thế lực, sinh khí",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "勢力（せいりょく）",
         "meaning": {
-          "english": "strength, force"
+          "english": "strength, force |(vi) sức mạnh, thế lực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "威勢（いせい）",
         "meaning": {
-          "english": "power, energy"
+          "english": "power, energy |(vi) khí thế, năng lượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "態勢（たいせい）",
         "meaning": {
-          "english": "attitude, condition"
+          "english": "attitude, condition |(vi) thái độ, tình trạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "姿勢（しせい）",
         "meaning": {
-          "english": "attitude, posture"
+          "english": "attitude, posture |(vi) tư thế, dáng điệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "情勢（じょうせい）",
         "meaning": {
-          "english": "situation"
+          "english": "situation |(vi) tình hình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "優勢な（ゆうせいな）",
         "meaning": {
-          "english": "superior"
+          "english": "superior |(vi) vượt trội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "豪勢な（ごうせいな）",
         "meaning": {
-          "english": "luxurious"
+          "english": "luxurious |(vi) xa hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "大勢（おおぜい）",
         "meaning": {
-          "english": "great number of people"
+          "english": "great number of people |(vi) đông người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "勢い（いきおい）",
         "meaning": {
-          "english": "force"
+          "english": "force |(vi) khí thế, đà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_i.opus",
@@ -208,7 +208,7 @@
     "kanji": {
       "character": "勢",
       "meaning": {
-        "english": "power, force, vigor"
+        "english": "power, force, vigor |(vi) sức mạnh, thế lực, sinh khí"
       },
       "strokes": {
         "count": 13,
@@ -272,7 +272,7 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power |(vi) Lực (sức mạnh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -293,7 +293,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "260",
     "strokeCount": 13,
-    "meaning": "forces, energy, military strength",
+    "meaning": "forces, energy, military strength |(vi) thế lực, năng lượng, sức mạnh quân sự |(hv) Thế",
     "kunyomi": [
       "いきお.い",
       "はずみ"
@@ -306,64 +306,64 @@
       {
         "example": "勢",
         "reading": "セイ",
-        "meaning": "strength, power, energy, military strength, army, (number of) troops"
+        "meaning": "strength, power, energy, military strength, army, (number of) troops |(vi) sức mạnh, quyền lực, năng lượng, sức mạnh quân sự, quân đội, số lượng quân"
       },
       {
         "example": "勢力",
         "reading": "セイリョク",
-        "meaning": "influence, power, might, strength, potency, force, energy"
+        "meaning": "influence, power, might, strength, potency, force, energy |(vi) ảnh hưởng, quyền lực, sức mạnh, thế lực, năng lượng"
       },
       {
         "example": "国勢",
         "reading": "コクセイ",
-        "meaning": "state of a country (population, resources, etc.), condition of a country, strength of a country"
+        "meaning": "state of a country (population, resources, etc.), condition of a country, strength of a country |(vi) tình trạng đất nước (dân số, tài nguyên...), thực lực quốc gia"
       },
       {
         "example": "党勢",
         "reading": "トウセイ",
-        "meaning": "strength of a party"
+        "meaning": "strength of a party |(vi) thế lực của đảng phái"
       },
       {
         "example": "勢",
         "reading": "ゼイ",
-        "meaning": "group (of people, players, companies, etc.), camp, team"
+        "meaning": "group (of people, players, companies, etc.), camp, team |(vi) nhóm (người, người chơi, công ty...), phe, đội"
       },
       {
         "example": "同勢",
         "reading": "ドウゼイ",
-        "meaning": "party, company"
+        "meaning": "party, company |(vi) phe phái, công ty đồng minh"
       },
       {
         "example": "猛勢",
         "reading": "モウセイ",
-        "meaning": "great strength, courageous army, valiant troops"
+        "meaning": "great strength, courageous army, valiant troops |(vi) sức mạnh to lớn, quân đội dũng mãnh, binh lính can trường"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "勢い",
         "reading": "いきおい",
-        "meaning": "force, vigor, vigour, energy, spirit, life, influence, authority, power, might, impetus, momentum, course (of events), naturally, necessarily"
+        "meaning": "force, vigor, vigour, energy, spirit, life, influence, authority, power, might, impetus, momentum, course (of events), naturally, necessarily |(vi) sức mạnh, khí thế, năng lượng, tinh thần, sức sống, ảnh hưởng, quyền lực, đà, xu thế (của sự việc), đương nhiên, tất yếu"
       },
       {
         "example": "勢い余る",
         "reading": "いきおいあまる",
-        "meaning": "to have excess momentum (from going too fast, using too much force, etc.), to get carried away, to go overboard, to overdo (something)"
+        "meaning": "to have excess momentum (from going too fast, using too much force, etc.), to get carried away, to go overboard, to overdo (something) |(vi) quá đà (do đi quá nhanh, dùng quá nhiều lực...), bị cuốn theo, làm quá tay"
       },
       {
         "example": "弾み",
         "reading": "はずみ",
-        "meaning": "bounce, spring, rebound, momentum, impetus, impulse, stimulus, inertia, moment, instant, impulse, chance"
+        "meaning": "bounce, spring, rebound, momentum, impetus, impulse, stimulus, inertia, moment, instant, impulse, chance |(vi) nảy, bật, đà, động lực, xung lực, quán tính, khoảnh khắc, cơ hội"
       },
       {
         "example": "弾車",
         "reading": "はずみぐるま",
-        "meaning": "flywheel"
+        "meaning": "flywheel |(vi) bánh đà"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": "power, force |(vi) Lực (sức mạnh)"
     },
     "parts": [
       "丶",

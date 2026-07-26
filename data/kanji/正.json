@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "tada, tadashii, tadasu, masa, masani",
-    "meaning": "right, correct",
+    "meaning": "right, correct |(vi) đúng, chính xác",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "正解（せいかい）",
         "meaning": {
-          "english": "correct answer"
+          "english": "correct answer |(vi) câu trả lời đúng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tada(shii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "正義（せいぎ）",
         "meaning": {
-          "english": "justice"
+          "english": "justice |(vi) công lý, chính nghĩa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tada(shii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "正確な（せいかくな）",
         "meaning": {
-          "english": "accurate"
+          "english": "accurate |(vi) chính xác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tada(shii)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "正常な（せいじょうな）",
         "meaning": {
-          "english": "normal"
+          "english": "normal |(vi) bình thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tada(shii)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "不正な（ふせいな）",
         "meaning": {
-          "english": "unjust"
+          "english": "unjust |(vi) bất chính, phi pháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tada(shii)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "修正する（しゅうせいする）",
         "meaning": {
-          "english": "revise"
+          "english": "revise |(vi) sửa đổi, chỉnh sửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tada(shii)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "正気（しょうき）",
         "meaning": {
-          "english": "sanity"
+          "english": "sanity |(vi) tỉnh táo, sáng suốt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tada(shii)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "正しい（ただしい）",
         "meaning": {
-          "english": "correct [adj.]"
+          "english": "correct [adj.] |(vi) đúng, chính xác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tada(shii)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "正す（ただす）",
         "meaning": {
-          "english": "straighten"
+          "english": "straighten |(vi) chỉnh lại, sửa cho đúng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tada(shii)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "正に（まさに）",
         "meaning": {
-          "english": "surely"
+          "english": "surely |(vi) chắc chắn, đúng là"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tada(shii)_06_j.opus",
@@ -298,7 +298,7 @@
     "kanji": {
       "character": "正",
       "meaning": {
-        "english": "right, correct"
+        "english": "right, correct |(vi) đúng, chính xác"
       },
       "strokes": {
         "count": 5,
@@ -346,7 +346,7 @@
         "romaji": "tomeru"
       },
       "meaning": {
-        "english": "to stop"
+        "english": "to stop |(vi) Chỉ (dừng lại)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tomeru0.svg",
@@ -367,7 +367,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "143",
     "strokeCount": 5,
-    "meaning": "correct, justice, righteous, 10**40",
+    "meaning": "correct, justice, righteous, 10**40 |(vi) đúng, chính xác, công lý, chính nghĩa, 10 mũ 40 |(hv) Chính",
     "kunyomi": [
       "ただ.しい",
       "ただ.す",
@@ -382,84 +382,84 @@
       {
         "example": "正",
         "reading": "セイ",
-        "meaning": "(logical) true, regular, 10^40, ten duodecillion, original, positive, greater than zero, thesis (in dialectics)"
+        "meaning": "(logical) true, regular, 10^40, ten duodecillion, original, positive, greater than zero, thesis (in dialectics) |(vi) đúng (logic), bình thường, 10^40, số cực lớn, ban đầu, dương, lớn hơn không, luận đề (trong biện chứng)"
       },
       {
         "example": "正解",
         "reading": "セイカイ",
-        "meaning": "correct answer, right solution, correct interpretation, right decision, right choice, appropriate judgement"
+        "meaning": "correct answer, right solution, correct interpretation, right decision, right choice, appropriate judgement |(vi) câu trả lời đúng, lời giải đúng, cách hiểu đúng, quyết định đúng, lựa chọn đúng, phán đoán phù hợp"
       },
       {
         "example": "検事正",
         "reading": "ケンジセイ",
-        "meaning": "chief public prosecutor"
+        "meaning": "chief public prosecutor |(vi) công tố trưởng, chưởng lý trưởng"
       },
       {
         "example": "適正",
         "reading": "テキセイ",
-        "meaning": "reasonable, suitable"
+        "meaning": "reasonable, suitable |(vi) hợp lý, thích hợp"
       },
       {
         "example": "正",
         "reading": "ショウ",
-        "meaning": "exactly, precisely, correct, right, true, greater (of equal court ranks), upper, senior, director (highest of the four administrative positions of the ritsuryō period), chief"
+        "meaning": "exactly, precisely, correct, right, true, greater (of equal court ranks), upper, senior, director (highest of the four administrative positions of the ritsuryō period), chief |(vi) chính xác, đúng, thật, đúng đắn, cao hơn (trong cùng phẩm hàm triều đình), cấp trên, cấp cao, trưởng quan (chức cao nhất trong bốn cấp hành chính thời Ritsuryo), người đứng đầu"
       },
       {
         "example": "正月",
         "reading": "ショウガツ",
-        "meaning": "New Year (esp. first three days), first month of the year, January"
+        "meaning": "New Year (esp. first three days), first month of the year, January |(vi) năm mới (nhất là ba ngày đầu), tháng giêng, tháng một"
       },
       {
         "example": "大正",
         "reading": "タイショウ",
-        "meaning": "Taishō era (1912.7.30-1926.12.25), Taisho era"
+        "meaning": "Taishō era (1912.7.30-1926.12.25), Taisho era |(vi) thời kỳ Taisho (30/7/1912-25/12/1926)"
       },
       {
         "example": "賀正",
         "reading": "ガショウ",
-        "meaning": "A Happy New Year!"
+        "meaning": "A Happy New Year! |(vi) Chúc mừng năm mới!"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "正しい",
         "reading": "ただしい",
-        "meaning": "right, correct, proper, righteous, just, honest, truthful, lawful"
+        "meaning": "right, correct, proper, righteous, just, honest, truthful, lawful |(vi) đúng, chính xác, thích hợp, chính trực, công bằng, trung thực, chân thật, hợp pháp"
       },
       {
         "example": "正しい行い",
         "reading": "ただしいおこない",
-        "meaning": "conducting oneself properly, right conduct, doing the right thing"
+        "meaning": "conducting oneself properly, right conduct, doing the right thing |(vi) cư xử đúng mực, hành vi đúng đắn, làm điều đúng"
       },
       {
         "example": "正す",
         "reading": "ただす",
-        "meaning": "to correct, to rectify, to reform, to amend, to redress, to straighten (one's posture, collar, etc.), to adjust"
+        "meaning": "to correct, to rectify, to reform, to amend, to redress, to straighten (one's posture, collar, etc.), to adjust |(vi) sửa chữa, chỉnh đốn, cải cách, tu chỉnh, khắc phục, chỉnh lại (tư thế, cổ áo...), điều chỉnh"
       },
       {
         "example": "糺す",
         "reading": "ただす",
-        "meaning": "to ascertain, to confirm, to verify, to make sure of"
+        "meaning": "to ascertain, to confirm, to verify, to make sure of |(vi) xác minh, xác nhận, kiểm chứng, chắc chắn về"
       },
       {
         "example": "正",
         "reading": "まさ",
-        "meaning": "exact, precise"
+        "meaning": "exact, precise |(vi) chính xác, chuẩn xác"
       },
       {
         "example": "正に",
         "reading": "まさに",
-        "meaning": "exactly, just, precisely, really, truly, surely, certainly, without doubt, right (when), just (as), just (about to), on the point of, on the verge of, on the brink of, really (ought to), certainly (should), naturally"
+        "meaning": "exactly, just, precisely, really, truly, surely, certainly, without doubt, right (when), just (as), just (about to), on the point of, on the verge of, on the brink of, really (ought to), certainly (should), naturally |(vi) chính xác, đúng, chuẩn, thật sự, thực sự, chắc chắn, quả thật, không nghi ngờ gì, đúng lúc, đúng như, sắp sửa, ngay lúc, trên bờ vực, thật sự nên, chắc chắn nên, đương nhiên"
       },
       {
         "example": "正に",
         "reading": "まさに",
-        "meaning": "exactly, just, precisely, really, truly, surely, certainly, without doubt, right (when), just (as), just (about to), on the point of, on the verge of, on the brink of, really (ought to), certainly (should), naturally"
+        "meaning": "exactly, just, precisely, really, truly, surely, certainly, without doubt, right (when), just (as), just (about to), on the point of, on the verge of, on the brink of, really (ought to), certainly (should), naturally |(vi) chính xác, đúng, chuẩn, thật sự, thực sự, chắc chắn, quả thật, không nghi ngờ gì, đúng lúc, đúng như, sắp sửa, ngay lúc, trên bờ vực, thật sự nên, chắc chắn nên, đương nhiên"
       }
     ],
     "radical": {
       "symbol": "止",
-      "meaning": "stop"
+      "meaning": "stop |(vi) Chỉ (dừng lại)"
     },
     "parts": [
       "一",

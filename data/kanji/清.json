@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "kiyo, kiyoi, kiyomaru, kiyomeru",
-    "meaning": "clear, purify, pure",
+    "meaning": "clear, purify, pure |(vi) trong, thanh khiết, tinh khiết",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "清潔な（せいけつな）",
         "meaning": {
-          "english": "clean"
+          "english": "clean |(vi) sạch sẽ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiyo(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "清純な（せいじゅんな）",
         "meaning": {
-          "english": "pure, innocent"
+          "english": "pure, innocent |(vi) thuần khiết, trong trắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiyo(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "清掃する（せいそうする）",
         "meaning": {
-          "english": "clean [v.t.]"
+          "english": "clean [v.t.] |(vi) dọn dẹp, quét dọn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiyo(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "清算する（せいさんする）",
         "meaning": {
-          "english": "liquidate, settle (an account)"
+          "english": "liquidate, settle (an account) |(vi) thanh toán, quyết toán (sổ sách)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiyo(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "清浄（しょうじょう）",
         "meaning": {
-          "english": "pure, clean"
+          "english": "pure, clean |(vi) trong sạch, tinh khiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiyo(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "清い（きよい）",
         "meaning": {
-          "english": "clear pure noble"
+          "english": "clear pure noble |(vi) trong, thanh cao, cao quý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiyo(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "清める（きよめる）",
         "meaning": {
-          "english": "purify, cleanse, exorcise [v.t.]"
+          "english": "purify, cleanse, exorcise [v.t.] |(vi) thanh tẩy, làm sạch, trừ tà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiyo(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "清まる（きよまる）",
         "meaning": {
-          "english": "be purified or cleansed [v.i.]"
+          "english": "be purified or cleansed [v.i.] |(vi) được thanh tẩy, được làm sạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiyo(i)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "*清水（しみず）",
         "meaning": {
-          "english": "a spring, spring water"
+          "english": "a spring, spring water |(vi) suối, nước suối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiyo(i)_06_i.opus",
@@ -214,7 +214,7 @@
     "kanji": {
       "character": "清",
       "meaning": {
-        "english": "clear, purify, pure"
+        "english": "clear, purify, pure |(vi) trong, thanh khiết, tinh khiết"
       },
       "strokes": {
         "count": 11,
@@ -274,7 +274,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -295,7 +295,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "705",
     "strokeCount": 11,
-    "meaning": "pure, purify, cleanse, exorcise, Manchu dynasty",
+    "meaning": "pure, purify, cleanse, exorcise, Manchu dynasty |(vi) thuần khiết, thanh tẩy, làm sạch, trừ tà, nhà Thanh |(hv) Thanh",
     "kunyomi": [
       "きよ.い",
       "きよ.まる",
@@ -310,74 +310,74 @@
       {
         "example": "清算",
         "reading": "セイサン",
-        "meaning": "(financial) settlement, squaring accounts, clearing debts, liquidation, ending (a relationship), breaking up (with), burying (the past), redeeming (one's faults)"
+        "meaning": "(financial) settlement, squaring accounts, clearing debts, liquidation, ending (a relationship), breaking up (with), burying (the past), redeeming (one's faults) |(vi) thanh toán (tài chính), quyết toán sổ sách, xóa nợ, giải thể, chấm dứt (mối quan hệ), chia tay, gác lại (quá khứ), chuộc lại (lỗi lầm)"
       },
       {
         "example": "清潔",
         "reading": "セイケツ",
-        "meaning": "clean, hygienic, sanitary, pure, virtuous, immaculate"
+        "meaning": "clean, hygienic, sanitary, pure, virtuous, immaculate |(vi) sạch, hợp vệ sinh, trong sạch, thuần khiết, thanh cao, không tì vết"
       },
       {
         "example": "血清",
         "reading": "ケッセイ",
-        "meaning": "serum, blood serum"
+        "meaning": "serum, blood serum |(vi) huyết thanh"
       },
       {
         "example": "乳清",
         "reading": "ニュウセイ",
-        "meaning": "whey"
+        "meaning": "whey |(vi) váng sữa, nước whey"
       },
       {
         "example": "清浄",
         "reading": "セイジョウ",
-        "meaning": "pure, clean, purity"
+        "meaning": "pure, clean, purity |(vi) trong sạch, sạch sẽ, sự tinh khiết"
       },
       {
         "example": "清浄無垢",
         "reading": "セイジョウムク",
-        "meaning": "purity, spotlessness"
+        "meaning": "purity, spotlessness |(vi) sự tinh khiết, sự không tì vết"
       },
       {
         "example": "清",
         "reading": "シン",
-        "meaning": "Qing dynasty (of China; 1644-1912), Ch'ing dynasty, Manchu dynasty"
+        "meaning": "Qing dynasty (of China; 1644-1912), Ch'ing dynasty, Manchu dynasty |(vi) nhà Thanh (Trung Quốc; 1644-1912), triều đại Mãn Thanh"
       },
       {
         "example": "清朝",
         "reading": "シンチョウ",
-        "meaning": "Qing dynasty (of China; 1644-1912), Ch'ing dynasty, Manchu dynasty, seichōtai, typeface which resembles brush-stroke forms of characters"
+        "meaning": "Qing dynasty (of China; 1644-1912), Ch'ing dynasty, Manchu dynasty, seichōtai, typeface which resembles brush-stroke forms of characters |(vi) nhà Thanh (Trung Quốc; 1644-1912), triều đại Mãn Thanh, kiểu chữ mô phỏng nét bút thư pháp"
       },
       {
         "example": "東清",
         "reading": "トウシン",
-        "meaning": "Eastern China"
+        "meaning": "Eastern China |(vi) Đông Thanh (miền Đông Trung Quốc)"
       },
       {
         "example": "日清",
         "reading": "ニッシン",
-        "meaning": "Japan and Qing China"
+        "meaning": "Japan and Qing China |(vi) Nhật Bản và nhà Thanh Trung Quốc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "清い",
         "reading": "きよい",
-        "meaning": "clean, clear, pure, honest, clean, innocent, platonic, chaste"
+        "meaning": "clean, clear, pure, honest, clean, innocent, platonic, chaste |(vi) trong sạch, trong trẻo, thuần khiết, trung thực, sạch sẽ, trong trắng, thanh khiết (tình cảm), trinh bạch"
       },
       {
         "example": "清い愛",
         "reading": "きよいあい",
-        "meaning": "pure love, platonic love"
+        "meaning": "pure love, platonic love |(vi) tình yêu trong sáng, tình yêu thanh khiết"
       },
       {
         "example": "清まる",
         "reading": "きよまる",
-        "meaning": "to be purified, to be cleansed"
+        "meaning": "to be purified, to be cleansed |(vi) được thanh tẩy, được làm sạch"
       },
       {
         "example": "清める",
         "reading": "きよめる",
-        "meaning": "to purify, to cleanse, to exorcise, to purge, to ward off"
+        "meaning": "to purify, to cleanse, to exorcise, to purge, to ward off |(vi) thanh tẩy, làm sạch, trừ tà, xua đuổi, gột rửa"
       }
     ],
     "radical": {
@@ -386,7 +386,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "二",

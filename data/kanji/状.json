@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "form, condition, letter, circumstances",
+    "meaning": "form, condition, letter, circumstances |(vi) hình dạng, tình trạng, thư từ, hoàn cảnh",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "状態（じょうたい）",
         "meaning": {
-          "english": "condition, state"
+          "english": "condition, state |(vi) tình trạng, trạng thái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)jou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "状況（じょうきょう）",
         "meaning": {
-          "english": "situation, circumstances"
+          "english": "situation, circumstances |(vi) tình hình, hoàn cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)jou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "形状（けいじょう）",
         "meaning": {
-          "english": "shape [n.]"
+          "english": "shape [n.] |(vi) hình dạng [danh từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)jou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "液状（えきじょう）",
         "meaning": {
-          "english": "liquid state"
+          "english": "liquid state |(vi) trạng thái lỏng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)jou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "現状（げんじょう）",
         "meaning": {
-          "english": "status quo, present state"
+          "english": "status quo, present state |(vi) hiện trạng, tình trạng hiện tại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)jou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "症状（しょうじょう）",
         "meaning": {
-          "english": "symptoms"
+          "english": "symptoms |(vi) triệu chứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)jou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "病状（びょうじょう）",
         "meaning": {
-          "english": "condition of disease or patient"
+          "english": "condition of disease or patient |(vi) tình trạng bệnh hoặc bệnh nhân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)jou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "賞状（しょうじょう）",
         "meaning": {
-          "english": "certificate of merit"
+          "english": "certificate of merit |(vi) giấy khen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)jou_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "礼状（れいじょう）",
         "meaning": {
-          "english": "letter of thanks"
+          "english": "letter of thanks |(vi) thư cảm ơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)jou_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "招待状（しょうたいじょう）",
         "meaning": {
-          "english": "written invitation"
+          "english": "written invitation |(vi) thư mời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)jou_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "年賀状（ねんがじょう）",
         "meaning": {
-          "english": "New Year's card"
+          "english": "New Year's card |(vi) thiệp chúc mừng năm mới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)jou_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "白状する（はくじょうする）",
         "meaning": {
-          "english": "confess"
+          "english": "confess |(vi) thú nhận, thú tội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)jou_06_l.opus",
@@ -257,7 +257,7 @@
     "kanji": {
       "character": "状",
       "meaning": {
-        "english": "form, condition, letter, circumstances"
+        "english": "form, condition, letter, circumstances |(vi) hình dạng, tình trạng, thư từ, hoàn cảnh"
       },
       "strokes": {
         "count": 7,
@@ -309,7 +309,7 @@
         "romaji": "inu"
       },
       "meaning": {
-        "english": "dog"
+        "english": "dog |(vi) Khuyển (con chó)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/inu0.svg",
@@ -330,7 +330,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "298",
     "strokeCount": 7,
-    "meaning": "status quo, conditions, circumstances, form, appearance",
+    "meaning": "status quo, conditions, circumstances, form, appearance |(vi) hiện trạng, tình trạng, hoàn cảnh, hình dạng, dáng vẻ |(hv) Trạng",
     "kunyomi": [],
     "onyomi": [
       "ジョウ"
@@ -339,22 +339,22 @@
       {
         "example": "状",
         "reading": "ジョウ",
-        "meaning": "form, shape, appearance, state, condition, circumstances, letter, correspondence"
+        "meaning": "form, shape, appearance, state, condition, circumstances, letter, correspondence |(vi) hình dạng, dáng vẻ, hình thức, trạng thái, tình trạng, hoàn cảnh, thư từ"
       },
       {
         "example": "状況",
         "reading": "ジョウキョウ",
-        "meaning": "state of affairs, situation, conditions, circumstances"
+        "meaning": "state of affairs, situation, conditions, circumstances |(vi) tình hình sự việc, tình huống, điều kiện, hoàn cảnh"
       },
       {
         "example": "内情",
         "reading": "ナイジョウ",
-        "meaning": "internal conditions, true state of affairs"
+        "meaning": "internal conditions, true state of affairs |(vi) tình hình nội bộ, tình trạng thực tế"
       },
       {
         "example": "形状",
         "reading": "ケイジョウ",
-        "meaning": "shape, form"
+        "meaning": "shape, form |(vi) hình dạng, hình thức"
       }
     ],
     "kunyomiExamples": [],
@@ -363,7 +363,7 @@
       "forms": [
         "犭"
       ],
-      "meaning": "dog"
+      "meaning": "dog |(vi) Khuyển (con chó)"
     },
     "parts": [
       "爿",

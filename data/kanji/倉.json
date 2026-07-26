@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 2,
     "kunyomi": "kura",
-    "meaning": "storehouse, warehouse, depository",
+    "meaning": "storehouse, warehouse, depository |(vi) nhà kho, kho chứa, kho tàng",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "倉庫（そうこ）",
         "meaning": {
-          "english": "storehouse, warehouse"
+          "english": "storehouse, warehouse |(vi) nhà kho, kho hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-kura_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "穀倉（こくそう）",
         "meaning": {
-          "english": "granary"
+          "english": "granary |(vi) kho thóc, vựa lúa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-kura_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "弾倉（だんそう）",
         "meaning": {
-          "english": "magazine (gun)"
+          "english": "magazine (gun) |(vi) hộp đạn, ổ đạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-kura_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "正倉院（しょうそういん）",
         "meaning": {
-          "english": "Shosouin"
+          "english": "Shosouin |(vi) Chính Thương Viện (kho báu hoàng gia Nhật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-kura_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "倉（くら）",
         "meaning": {
-          "english": "warehouse, cellar, depository"
+          "english": "warehouse, cellar, depository |(vi) kho, nhà kho"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-kura_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "倉荷（くらに）",
         "meaning": {
-          "english": "warehouse goods"
+          "english": "warehouse goods |(vi) hàng lưu kho"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-kura_06_f.opus",
@@ -160,7 +160,7 @@
     "kanji": {
       "character": "倉",
       "meaning": {
-        "english": "storehouse, warehouse, depository"
+        "english": "storehouse, warehouse, depository |(vi) nhà kho, kho chứa, kho tàng"
       },
       "strokes": {
         "count": 10,
@@ -218,7 +218,7 @@
         "romaji": "hitoyane"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoyane0.svg",
@@ -239,7 +239,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1114",
     "strokeCount": 10,
-    "meaning": "godown, warehouse, storehouse, cellar, treasury",
+    "meaning": "godown, warehouse, storehouse, cellar, treasury |(vi) nhà kho, kho chứa, hầm kho, kho báu |(hv) Thương",
     "kunyomi": [
       "くら"
     ],
@@ -250,44 +250,44 @@
       {
         "example": "倉庫",
         "reading": "ソウコ",
-        "meaning": "storehouse, warehouse, godown"
+        "meaning": "storehouse, warehouse, godown |(vi) nhà kho, kho hàng"
       },
       {
         "example": "倉頡",
         "reading": "ソウケツ",
-        "meaning": "Cangjie (input method for Chinese)"
+        "meaning": "Cangjie (input method for Chinese) |(vi) Thương Hiệt (phương pháp gõ chữ Hán)"
       },
       {
         "example": "船倉",
         "reading": "センソウ",
-        "meaning": "ship's hold, hatch"
+        "meaning": "ship's hold, hatch |(vi) khoang tàu, hầm tàu"
       },
       {
         "example": "穀倉",
         "reading": "コクソウ",
-        "meaning": "granary"
+        "meaning": "granary |(vi) kho thóc, vựa lúa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蔵",
         "reading": "くら",
-        "meaning": "warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator"
+        "meaning": "warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator |(vi) kho, nhà kho, hầm chứa, kho thóc, kho báu"
       },
       {
         "example": "倉敷",
         "reading": "くらしき",
-        "meaning": "Kurashiki (city), storage charges"
+        "meaning": "Kurashiki (city), storage charges |(vi) Kurashiki (thành phố), phí lưu kho"
       },
       {
         "example": "鎌倉",
         "reading": "かまくら",
-        "meaning": "Kamakura (city)"
+        "meaning": "Kamakura (city) |(vi) Kamakura (thành phố)"
       },
       {
         "example": "お蔵",
         "reading": "おくら",
-        "meaning": "shelving (a play, movie, etc.), closing down, cancelling, canceling, rice storehouse (of the Edo shogunate)"
+        "meaning": "shelving (a play, movie, etc.), closing down, cancelling, canceling, rice storehouse (of the Edo shogunate) |(vi) xếp xó, hủy bỏ, đóng cửa, kho thóc (thời Mạc phủ Edo)"
       }
     ],
     "radical": {
@@ -295,7 +295,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "ノ",

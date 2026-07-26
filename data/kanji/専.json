@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 4,
     "kunyomi": "moppara, moppa",
-    "meaning": "exclusive",
+    "meaning": "exclusive |(vi) độc quyền, chuyên biệt",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "専門（せんもん）",
         "meaning": {
-          "english": "speciality"
+          "english": "speciality |(vi) chuyên môn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moppa(ra)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "専攻（せんこう）",
         "meaning": {
-          "english": "major (at university)"
+          "english": "major (at university) |(vi) chuyên ngành (ở đại học)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moppa(ra)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "専念する（せんねんする）",
         "meaning": {
-          "english": "devote oneself to [v.i.]"
+          "english": "devote oneself to [v.i.] |(vi) tập trung, chuyên tâm vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moppa(ra)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "専ら（もっぱら）",
         "meaning": {
-          "english": "wholly, mostly"
+          "english": "wholly, mostly |(vi) hoàn toàn, chủ yếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moppa(ra)_06_d.opus",
@@ -177,7 +177,7 @@
     "kanji": {
       "character": "専",
       "meaning": {
-        "english": "exclusive"
+        "english": "exclusive |(vi) độc quyền, chuyên biệt"
       },
       "strokes": {
         "count": 9,
@@ -233,7 +233,7 @@
         "romaji": "sun"
       },
       "meaning": {
-        "english": "inch, (2.25 cm)"
+        "english": "inch, (2.25 cm) |(vi) Thốn (tấc, 2.25 cm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sun0.svg",
@@ -254,7 +254,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "506",
     "strokeCount": 9,
-    "meaning": "specialty, exclusive, mainly, solely",
+    "meaning": "specialty, exclusive, mainly, solely |(vi) chuyên môn, độc quyền, chủ yếu, riêng biệt |(hv) Chuyên",
     "kunyomi": [
       "もっぱ.ら"
     ],
@@ -265,39 +265,39 @@
       {
         "example": "専",
         "reading": "セン",
-        "meaning": "exclusively doing ..., person who exclusively does ..., fetish for ..., someone with a fetish for ..., first, most important thing, number one priority"
+        "meaning": "exclusively doing ..., person who exclusively does ..., fetish for ..., someone with a fetish for ..., first, most important thing, number one priority |(vi) chuyên làm..., người chuyên làm..., đam mê với..., người đam mê..., điều quan trọng nhất, ưu tiên hàng đầu"
       },
       {
         "example": "専業",
         "reading": "センギョウ",
-        "meaning": "special occupation, principal occupation, specialty, monopoly"
+        "meaning": "special occupation, principal occupation, specialty, monopoly |(vi) nghề chuyên biệt, nghề chính, chuyên môn, độc quyền"
       },
       {
         "example": "住専",
         "reading": "ジュウセン",
-        "meaning": "housing-loan corporation"
+        "meaning": "housing-loan corporation |(vi) công ty cho vay nhà ở"
       },
       {
         "example": "高専",
         "reading": "コウセン",
-        "meaning": "technical college, higher schools and colleges"
+        "meaning": "technical college, higher schools and colleges |(vi) trường cao đẳng kỹ thuật, trường cao đẳng và đại học"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "専ら",
         "reading": "もっぱら",
-        "meaning": "wholly, solely, entirely, exclusively, devotedly, fixedly, principally, mostly, chiefly, mainly"
+        "meaning": "wholly, solely, entirely, exclusively, devotedly, fixedly, principally, mostly, chiefly, mainly |(vi) hoàn toàn, chỉ, toàn bộ, độc quyền, tận tâm, chủ yếu, phần lớn"
       },
       {
         "example": "専らにする",
         "reading": "もっぱらにする",
-        "meaning": "devote oneself to, to do as one pleases, to act selfishly"
+        "meaning": "devote oneself to, to do as one pleases, to act selfishly |(vi) chuyên tâm vào, làm theo ý mình, hành động ích kỷ"
       }
     ],
     "radical": {
       "symbol": "寸",
-      "meaning": "thumb, inch"
+      "meaning": "thumb, inch |(vi) Thốn (tấc)"
     },
     "parts": [
       "十",

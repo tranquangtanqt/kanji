@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "ishizue",
-    "meaning": "foundation stone, cornerstone",
+    "meaning": "foundation stone, cornerstone |(vi) đá tảng, đá móng",
     "kstroke": 18,
     "examples": [
       {
         "japanese": "礎石（そせき）",
         "meaning": {
-          "english": "foundation stone, cornerstone"
+          "english": "foundation stone, cornerstone |(vi) đá tảng, đá móng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishizue_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "定礎（ていそ）",
         "meaning": {
-          "english": "laying a cornerstone"
+          "english": "laying a cornerstone |(vi) đặt viên đá đầu tiên (lễ khởi công)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishizue_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "基礎（きそ）",
         "meaning": {
-          "english": "foundation, basis"
+          "english": "foundation, basis |(vi) nền tảng, cơ sở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishizue_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "礎（いしずえ）",
         "meaning": {
-          "english": "foundation stone, cornerstone"
+          "english": "foundation stone, cornerstone |(vi) đá tảng, đá móng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishizue_06_d.opus",
@@ -161,7 +161,7 @@
     "kanji": {
       "character": "礎",
       "meaning": {
-        "english": "foundation stone, cornerstone"
+        "english": "foundation stone, cornerstone |(vi) đá tảng, đá móng"
       },
       "strokes": {
         "count": 18,
@@ -235,7 +235,7 @@
         "romaji": "ishihen"
       },
       "meaning": {
-        "english": "stone"
+        "english": "stone |(vi) Thạch (đá)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ishihen0.svg",
@@ -256,7 +256,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1224",
     "strokeCount": 18,
-    "meaning": "cornerstone, foundation stone",
+    "meaning": "cornerstone, foundation stone |(vi) đá móng, đá tảng, nền tảng |(hv) Sở",
     "kunyomi": [
       "いしずえ"
     ],
@@ -267,39 +267,39 @@
       {
         "example": "素案",
         "reading": "ソアン",
-        "meaning": "rough plan, draft"
+        "meaning": "rough plan, draft |(vi) bản phác thảo, dự thảo sơ bộ"
       },
       {
         "example": "礎石",
         "reading": "ソセキ",
-        "meaning": "foundation stone, cornerstone"
+        "meaning": "foundation stone, cornerstone |(vi) đá tảng, đá móng"
       },
       {
         "example": "定礎",
         "reading": "テイソ",
-        "meaning": "laying a cornerstone (foundation stone)"
+        "meaning": "laying a cornerstone (foundation stone) |(vi) đặt viên đá móng (lễ khởi công)"
       },
       {
         "example": "柱礎",
         "reading": "チュウソ",
-        "meaning": "plinth"
+        "meaning": "plinth |(vi) đá kê chân cột"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "礎",
         "reading": "いしずえ",
-        "meaning": "foundation stone, cornerstone"
+        "meaning": "foundation stone, cornerstone |(vi) đá tảng, đá móng"
       },
       {
         "example": "礎を築く",
         "reading": "いしずえをきずく",
-        "meaning": "to lay the foundation (for)"
+        "meaning": "to lay the foundation (for) |(vi) đặt nền móng (cho)"
       }
     ],
     "radical": {
       "symbol": "石",
-      "meaning": "stone"
+      "meaning": "stone |(vi) Thạch (đá)"
     },
     "parts": [
       "口",

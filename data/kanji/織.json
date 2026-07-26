@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "o, oru, ori",
-    "meaning": "weave",
+    "meaning": "weave |(vi) dệt",
     "kstroke": 18,
     "examples": [
       {
         "japanese": "染織（せんしょく）",
         "meaning": {
-          "english": "weaving and dyeing"
+          "english": "weaving and dyeing |(vi) nhuộm và dệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(so)shiki_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "紡織（ぼうしょく）",
         "meaning": {
-          "english": "spinning and weaving"
+          "english": "spinning and weaving |(vi) kéo sợi và dệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(so)shiki_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "織機（しょっき）",
         "meaning": {
-          "english": "loom, weaving machine"
+          "english": "loom, weaving machine |(vi) khung dệt, máy dệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(so)shiki_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "組織（そしき）",
         "meaning": {
-          "english": "organization, structure"
+          "english": "organization, structure |(vi) tổ chức, cấu trúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(so)shiki_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "織る（おる）",
         "meaning": {
-          "english": "weave"
+          "english": "weave |(vi) dệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(so)shiki_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "織り目（おりめ）",
         "meaning": {
-          "english": "texture"
+          "english": "texture |(vi) kết cấu vải, đường dệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(so)shiki_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "織物（おりもの）",
         "meaning": {
-          "english": "textile, fabric"
+          "english": "textile, fabric |(vi) vải dệt, hàng dệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(so)shiki_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "毛織（けおり）",
         "meaning": {
-          "english": "woolen fabric, woolen cloth"
+          "english": "woolen fabric, woolen cloth |(vi) vải len, hàng dệt len"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(so)shiki_06_h.opus",
@@ -205,7 +205,7 @@
     "kanji": {
       "character": "織",
       "meaning": {
-        "english": "weave"
+        "english": "weave |(vi) dệt"
       },
       "strokes": {
         "count": 18,
@@ -279,7 +279,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi tơ lụa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -300,7 +300,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "608",
     "strokeCount": 18,
-    "meaning": "weave, fabric",
+    "meaning": "weave, fabric |(vi) dệt, vải |(hv) Chức",
     "kunyomi": [
       "お.る",
       "お.り",
@@ -316,79 +316,79 @@
       {
         "example": "織布",
         "reading": "ショクフ",
-        "meaning": "woven fabric"
+        "meaning": "woven fabric |(vi) vải dệt"
       },
       {
         "example": "織女",
         "reading": "ショクジョ",
-        "meaning": "female weaver, Vega (star in the constellation Lyra), Alpha Lyrae"
+        "meaning": "female weaver, Vega (star in the constellation Lyra), Alpha Lyrae |(vi) chức nữ (sao Chức Nữ, sao Vega)"
       },
       {
         "example": "染織",
         "reading": "センショク",
-        "meaning": "dyeing and weaving"
+        "meaning": "dyeing and weaving |(vi) nhuộm và dệt"
       },
       {
         "example": "紡織",
         "reading": "ボウショク",
-        "meaning": "spinning and weaving"
+        "meaning": "spinning and weaving |(vi) kéo sợi và dệt"
       },
       {
         "example": "子宮旁結合織",
         "reading": "シキュウボウケツゴウシキ",
-        "meaning": "parametrium"
+        "meaning": "parametrium |(vi) mô liên kết cạnh tử cung (parametrium)"
       },
       {
         "example": "間充織",
         "reading": "カンジュウシキ",
-        "meaning": "mesenchyme"
+        "meaning": "mesenchyme |(vi) trung mô (mesenchyme)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "織る",
         "reading": "おる",
-        "meaning": "to weave"
+        "meaning": "to weave |(vi) dệt"
       },
       {
         "example": "織り",
         "reading": "おり",
-        "meaning": "weave, weaving, woven item"
+        "meaning": "weave, weaving, woven item |(vi) sự dệt, vật được dệt"
       },
       {
         "example": "織物",
         "reading": "おりもの",
-        "meaning": "textile, fabric"
+        "meaning": "textile, fabric |(vi) vải dệt, hàng dệt"
       },
       {
         "example": "羽織",
         "reading": "はおり",
-        "meaning": "haori (Japanese formal coat)"
+        "meaning": "haori (Japanese formal coat) |(vi) áo haori (áo khoác lễ phục Nhật)"
       },
       {
         "example": "手織り",
         "reading": "ており",
-        "meaning": "handwoven, handspun, weaving by hand"
+        "meaning": "handwoven, handspun, weaving by hand |(vi) dệt tay, hàng dệt thủ công"
       },
       {
         "example": "織り",
         "reading": "おり",
-        "meaning": "weave, weaving, woven item"
+        "meaning": "weave, weaving, woven item |(vi) sự dệt, vật được dệt"
       },
       {
         "example": "織物",
         "reading": "おりもの",
-        "meaning": "textile, fabric"
+        "meaning": "textile, fabric |(vi) vải dệt, hàng dệt"
       },
       {
         "example": "羽織",
         "reading": "はおり",
-        "meaning": "haori (Japanese formal coat)"
+        "meaning": "haori (Japanese formal coat) |(vi) áo haori (áo khoác lễ phục Nhật)"
       },
       {
         "example": "手織り",
         "reading": "ており",
-        "meaning": "handwoven, handspun, weaving by hand"
+        "meaning": "handwoven, handspun, weaving by hand |(vi) dệt tay, hàng dệt thủ công"
       }
     ],
     "radical": {
@@ -396,7 +396,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi tơ lụa)"
     },
     "parts": [
       "小",

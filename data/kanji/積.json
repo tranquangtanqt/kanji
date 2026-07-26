@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "tsu, tsumu, tsumoru, tsumori",
-    "meaning": "accumulate",
+    "meaning": "accumulate |(vi) tích lũy, chất chồng",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "積雪（せきせつ）",
         "meaning": {
-          "english": "fallen snow"
+          "english": "fallen snow |(vi) tuyết đọng lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsu(moru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "面積（めんせき）",
         "meaning": {
-          "english": "area, square measure"
+          "english": "area, square measure |(vi) diện tích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsu(moru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "体積（たいせき）",
         "meaning": {
-          "english": "capacity volume"
+          "english": "capacity volume |(vi) thể tích, dung tích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsu(moru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "容積（ようせき）",
         "meaning": {
-          "english": "capacity volume"
+          "english": "capacity volume |(vi) dung tích, thể tích chứa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsu(moru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "積極的な（せっきょくてきな）",
         "meaning": {
-          "english": "positive, active, proactive"
+          "english": "positive, active, proactive |(vi) tích cực, chủ động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsu(moru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "蓄積する（ちくせきする）",
         "meaning": {
-          "english": "accumulate, store"
+          "english": "accumulate, store |(vi) tích lũy, tích trữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsu(moru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "山積する（さんせきする）",
         "meaning": {
-          "english": "pile up, lie in a heap [v.i.]"
+          "english": "pile up, lie in a heap [v.i.] |(vi) chất đống, tồn đọng thành đống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsu(moru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "積む（つむ）",
         "meaning": {
-          "english": "pile, stack, load [v.t.]"
+          "english": "pile, stack, load [v.t.] |(vi) chất, xếp, chở (hàng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsu(moru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "山積み（やまづみ）",
         "meaning": {
-          "english": "huge mound, heap"
+          "english": "huge mound, heap |(vi) đống lớn, sự tồn đọng chất đống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsu(moru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "積もる（つもる）",
         "meaning": {
-          "english": "pile up [v.i.]"
+          "english": "pile up [v.i.] |(vi) chất đống, tích tụ (tuyết...)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsu(moru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "見積もる（みつもる）",
         "meaning": {
-          "english": "estimate [v.t.]"
+          "english": "estimate [v.t.] |(vi) ước tính, dự tính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsu(moru)_06_k.opus",
@@ -246,7 +246,7 @@
     "kanji": {
       "character": "積",
       "meaning": {
-        "english": "accumulate"
+        "english": "accumulate |(vi) tích lũy, chất chồng"
       },
       "strokes": {
         "count": 16,
@@ -316,7 +316,7 @@
         "romaji": "nogihen"
       },
       "meaning": {
-        "english": "grain"
+        "english": "grain |(vi) Hòa (lúa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nogihen0.svg",
@@ -337,7 +337,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "541",
     "strokeCount": 16,
-    "meaning": "volume, product (x*y), acreage, contents, pile up, stack, load, amass",
+    "meaning": "volume, product (x*y), acreage, contents, pile up, stack, load, amass |(vi) thể tích, tích (x*y), diện tích, dung tích, chất đống, chồng chất, tích lũy |(hv) Tích",
     "kunyomi": [
       "つ.む",
       "-づ.み",
@@ -351,59 +351,59 @@
       {
         "example": "積",
         "reading": "セキ",
-        "meaning": "product, volume, area"
+        "meaning": "product, volume, area |(vi) tích số, thể tích, diện tích"
       },
       {
         "example": "積載",
         "reading": "セキサイ",
-        "meaning": "loading, carrying"
+        "meaning": "loading, carrying |(vi) sự chất tải, sự chở hàng"
       },
       {
         "example": "作付面積",
         "reading": "サクヅケメンセキ",
-        "meaning": "planted area"
+        "meaning": "planted area |(vi) diện tích gieo trồng"
       },
       {
         "example": "蓄積",
         "reading": "チクセキ",
-        "meaning": "accumulation, accumulate, store"
+        "meaning": "accumulation, accumulate, store |(vi) sự tích lũy, tích trữ, cất giữ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "積む",
         "reading": "つむ",
-        "meaning": "to pile up, to stack, to load (car, ship, etc.), to pack, to acquire, to accumulate"
+        "meaning": "to pile up, to stack, to load (car, ship, etc.), to pack, to acquire, to accumulate |(vi) chất đống, xếp chồng, chở (xe, tàu...), đóng gói, thu thập, tích lũy"
       },
       {
         "example": "積もる",
         "reading": "つもる",
-        "meaning": "to pile up, to accumulate, to estimate"
+        "meaning": "to pile up, to accumulate, to estimate |(vi) chất đống, tích tụ, ước tính"
       },
       {
         "example": "積もり",
         "reading": "つもり",
-        "meaning": "intention, plan, purpose, expectation, belief, assumption, thought, conviction, estimate, estimation, calculation"
+        "meaning": "intention, plan, purpose, expectation, belief, assumption, thought, conviction, estimate, estimation, calculation |(vi) ý định, kế hoạch, mục đích, kỳ vọng, niềm tin, giả định, suy nghĩ, sự tin chắc, ước tính, tính toán"
       },
       {
         "example": "積り書",
         "reading": "つもりがき",
-        "meaning": "written estimate"
+        "meaning": "written estimate |(vi) bản ước tính viết tay"
       },
       {
         "example": "お見積もり",
         "reading": "おみつもり",
-        "meaning": "(price) quotation, quote"
+        "meaning": "(price) quotation, quote |(vi) báo giá"
       },
       {
         "example": "相見積もり",
         "reading": "あいみつもり",
-        "meaning": "(obtaining) quotes from several companies, (fielding) competitive bids, competitive bidding"
+        "meaning": "(obtaining) quotes from several companies, (fielding) competitive bids, competitive bidding |(vi) xin báo giá từ nhiều công ty, đấu thầu cạnh tranh"
       }
     ],
     "radical": {
       "symbol": "禾",
-      "meaning": "grain"
+      "meaning": "grain |(vi) Hòa (lúa)"
     },
     "parts": [
       "ハ",

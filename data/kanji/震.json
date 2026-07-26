@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "furu, furueru, furue",
-    "meaning": "quake, shake, tremble",
+    "meaning": "quake, shake, tremble |(vi) rung động, lay động, run rẩy",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "震動（しんどう）",
         "meaning": {
-          "english": "shock, tremor, impact"
+          "english": "shock, tremor, impact |(vi) chấn động, rung động, va chạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/furu(eru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "震度（しんど）",
         "meaning": {
-          "english": "Japanese earthquake scale"
+          "english": "Japanese earthquake scale |(vi) thang đo độ rung động đất Nhật Bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/furu(eru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "震源（しんげん）",
         "meaning": {
-          "english": "epicenter"
+          "english": "epicenter |(vi) tâm chấn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/furu(eru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "震災（しんさい）",
         "meaning": {
-          "english": "earthquake (disaster)"
+          "english": "earthquake (disaster) |(vi) thảm họa động đất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/furu(eru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "地震（じしん）",
         "meaning": {
-          "english": "earthquake"
+          "english": "earthquake |(vi) động đất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/furu(eru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "強震（きょうしん）",
         "meaning": {
-          "english": "severe earthquake"
+          "english": "severe earthquake |(vi) động đất mạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/furu(eru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "弱震（じゃくしん）",
         "meaning": {
-          "english": "mild earthquake"
+          "english": "mild earthquake |(vi) động đất nhẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/furu(eru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "震える（ふるえる）",
         "meaning": {
-          "english": "shiver, shake, quake [v.i.]"
+          "english": "shiver, shake, quake [v.i.] |(vi) run rẩy, rung động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/furu(eru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "身震いする（みぶるいする）",
         "meaning": {
-          "english": "shiver, tremble, shudder"
+          "english": "shiver, tremble, shudder |(vi) rùng mình, run rẩy, ớn lạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/furu(eru)_06_i.opus",
@@ -218,7 +218,7 @@
     "kanji": {
       "character": "震",
       "meaning": {
-        "english": "quake, shake, tremble"
+        "english": "quake, shake, tremble |(vi) rung động, lay động, run rẩy"
       },
       "strokes": {
         "count": 15,
@@ -286,7 +286,7 @@
         "romaji": "amekanmuri"
       },
       "meaning": {
-        "english": "rain"
+        "english": "rain |(vi) Vũ (mưa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/amekanmuri0.svg",
@@ -307,7 +307,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "893",
     "strokeCount": 15,
-    "meaning": "quake, shake, tremble, quiver, shiver",
+    "meaning": "quake, shake, tremble, quiver, shiver |(vi) rung động, lay động, run rẩy, rùng mình |(hv) Chấn",
     "kunyomi": [
       "ふる.う",
       "ふる.える",
@@ -321,49 +321,49 @@
       {
         "example": "震",
         "reading": "シン",
-        "meaning": "zhen (one of the trigrams of the I Ching: thunder, east)"
+        "meaning": "zhen (one of the trigrams of the I Ching: thunder, east) |(vi) quẻ Chấn (một quẻ trong Kinh Dịch: sấm sét, hướng đông)"
       },
       {
         "example": "震源",
         "reading": "シンゲン",
-        "meaning": "hypocentre (of an earthquake), hypocenter, focus"
+        "meaning": "hypocentre (of an earthquake), hypocenter, focus |(vi) tâm chấn (của động đất), chấn tiêu"
       },
       {
         "example": "微震",
         "reading": "ビシン",
-        "meaning": "slight earthquake"
+        "meaning": "slight earthquake |(vi) động đất rất nhẹ"
       },
       {
         "example": "軽震",
         "reading": "ケイシン",
-        "meaning": "weak earthquake"
+        "meaning": "weak earthquake |(vi) động đất nhẹ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "震う",
         "reading": "ふるう",
-        "meaning": "to shake, to tremble, to vibrate"
+        "meaning": "to shake, to tremble, to vibrate |(vi) rung lắc, run rẩy, rung động"
       },
       {
         "example": "震える",
         "reading": "ふるえる",
-        "meaning": "to shiver, to shake, to quake, to tremble, to quaver, to quiver"
+        "meaning": "to shiver, to shake, to quake, to tremble, to quaver, to quiver |(vi) run rẩy, rung lắc, rung chuyển, run lên, rung động"
       },
       {
         "example": "震わせる",
         "reading": "ふるわせる",
-        "meaning": "to (make something) quiver, to shake, to tremble, to vibrate"
+        "meaning": "to (make something) quiver, to shake, to tremble, to vibrate |(vi) làm rung lên, làm lay động, làm rung chuyển"
       },
       {
         "example": "震わす",
         "reading": "ふるわす",
-        "meaning": "to (make something) quiver, to shake, to tremble, to vibrate"
+        "meaning": "to (make something) quiver, to shake, to tremble, to vibrate |(vi) làm rung lên, làm lay động, làm rung chuyển"
       }
     ],
     "radical": {
       "symbol": "雨",
-      "meaning": "rain"
+      "meaning": "rain |(vi) Vũ (mưa)"
     },
     "parts": [
       "厂",

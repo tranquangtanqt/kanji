@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "matsurigoto",
-    "meaning": "political administration, government, rule",
+    "meaning": "political administration, government, rule |(vi) chính trị, chính quyền, cai trị",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "政府（せいふ）",
         "meaning": {
-          "english": "government"
+          "english": "government |(vi) chính phủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "政治（せいじ）",
         "meaning": {
-          "english": "politics"
+          "english": "politics |(vi) chính trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "政権（せいけん）",
         "meaning": {
-          "english": "political power"
+          "english": "political power |(vi) quyền lực chính trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "政策（せいさく）",
         "meaning": {
-          "english": "policy"
+          "english": "policy |(vi) chính sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "政党（せいとう）",
         "meaning": {
-          "english": "political party"
+          "english": "political party |(vi) đảng phái chính trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "政界（せいかい）",
         "meaning": {
-          "english": "political world"
+          "english": "political world |(vi) chính trường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "政局（せいきょく）",
         "meaning": {
-          "english": "political situation"
+          "english": "political situation |(vi) tình hình chính trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "政治家（せいじか）",
         "meaning": {
-          "english": "politician"
+          "english": "politician |(vi) chính trị gia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "行政（ぎょうせい）",
         "meaning": {
-          "english": "administration"
+          "english": "administration |(vi) hành chính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "財政（ざいせい）",
         "meaning": {
-          "english": "financial affairs"
+          "english": "financial affairs |(vi) tài chính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "摂政（せっしょう）",
         "meaning": {
-          "english": "regency"
+          "english": "regency |(vi) nhiếp chính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "政（まつりごと）",
         "meaning": {
-          "english": "politics"
+          "english": "politics |(vi) chính trị, việc triều chính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_l.opus",
@@ -280,7 +280,7 @@
     "kanji": {
       "character": "政",
       "meaning": {
-        "english": "political administration, government, rule"
+        "english": "political administration, government, rule |(vi) chính trị, chính quyền, cai trị"
       },
       "strokes": {
         "count": 9,
@@ -336,7 +336,7 @@
         "romaji": "bokuzukuri"
       },
       "meaning": {
-        "english": "activity, to strike, hit"
+        "english": "activity, to strike, hit |(vi) Phộc (đánh nhẹ, gõ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/bokuzukuri0.svg",
@@ -357,7 +357,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "17",
     "strokeCount": 9,
-    "meaning": "politics, government",
+    "meaning": "politics, government |(vi) chính trị, chính quyền |(hv) Chính",
     "kunyomi": [
       "まつりごと",
       "まん"
@@ -370,49 +370,49 @@
       {
         "example": "政",
         "reading": "マツリゴト",
-        "meaning": "rule, government"
+        "meaning": "rule, government |(vi) sự cai trị, chính quyền, việc triều chính"
       },
       {
         "example": "政界",
         "reading": "セイカイ",
-        "meaning": "(world of) politics, political world, political circles"
+        "meaning": "(world of) politics, political world, political circles |(vi) chính trường, giới chính trị"
       },
       {
         "example": "農政",
         "reading": "ノウセイ",
-        "meaning": "agricultural administration"
+        "meaning": "agricultural administration |(vi) hành chính nông nghiệp"
       },
       {
         "example": "帝政",
         "reading": "テイセイ",
-        "meaning": "imperial government, imperialism, monarchical rule"
+        "meaning": "imperial government, imperialism, monarchical rule |(vi) chính thể quân chủ, chế độ đế quốc"
       },
       {
         "example": "摂政",
         "reading": "セッショウ",
-        "meaning": "regency, regent"
+        "meaning": "regency, regent |(vi) sự nhiếp chính, nhiếp chính vương"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "政",
         "reading": "まつりごと",
-        "meaning": "rule, government"
+        "meaning": "rule, government |(vi) sự cai trị, chính quyền, việc triều chính"
       },
       {
         "example": "政所",
         "reading": "まんどころ",
-        "meaning": "official in charge of the administration of domains and general affairs of powerful noble families (from the middle of the Heian period), titled lady (legal wife of an important official), government office related to finances (Kamakura and Muromachi periods), clerk working for large temples and shrines"
+        "meaning": "official in charge of the administration of domains and general affairs of powerful noble families (from the middle of the Heian period), titled lady (legal wife of an important official), government office related to finances (Kamakura and Muromachi periods), clerk working for large temples and shrines |(vi) quan phụ trách hành chính lãnh địa của quý tộc (thời Heian), phu nhân được phong tước, cơ quan tài chính (thời Kamakura, Muromachi), thư lại đền chùa lớn"
       },
       {
         "example": "太政",
         "reading": "おおまつりごと",
-        "meaning": "(Japanese) imperial government"
+        "meaning": "(Japanese) imperial government |(vi) triều đình (chính quyền Nhật Bản)"
       },
       {
         "example": "政所",
         "reading": "まんどころ",
-        "meaning": "official in charge of the administration of domains and general affairs of powerful noble families (from the middle of the Heian period), titled lady (legal wife of an important official), government office related to finances (Kamakura and Muromachi periods), clerk working for large temples and shrines"
+        "meaning": "official in charge of the administration of domains and general affairs of powerful noble families (from the middle of the Heian period), titled lady (legal wife of an important official), government office related to finances (Kamakura and Muromachi periods), clerk working for large temples and shrines |(vi) quan phụ trách hành chính lãnh địa của quý tộc (thời Heian), phu nhân được phong tước, cơ quan tài chính (thời Kamakura, Muromachi), thư lại đền chùa lớn"
       }
     ],
     "radical": {
@@ -420,7 +420,7 @@
       "forms": [
         "攵"
       ],
-      "meaning": "rap"
+      "meaning": "rap |(vi) Phộc (đánh nhẹ, gõ)"
     },
     "parts": [
       "一",

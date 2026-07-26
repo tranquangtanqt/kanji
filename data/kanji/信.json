@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "believe, trust, message",
+    "meaning": "believe, trust, message |(vi) tin tưởng, tín nhiệm, thư tín",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "信号（しんごう）",
         "meaning": {
-          "english": "traffic lights, signal"
+          "english": "traffic lights, signal |(vi) đèn giao thông, tín hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin(jiru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "信仰（しんこう）",
         "meaning": {
-          "english": "(religious) faith"
+          "english": "(religious) faith |(vi) đức tin (tôn giáo)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin(jiru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "自信（じしん）",
         "meaning": {
-          "english": "self-confidence"
+          "english": "self-confidence |(vi) sự tự tin"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin(jiru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "不信（ふしん）",
         "meaning": {
-          "english": "distrust"
+          "english": "distrust |(vi) sự bất tín, ngờ vực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin(jiru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "私信（ししん）",
         "meaning": {
-          "english": "private message"
+          "english": "private message |(vi) thư riêng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin(jiru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "信用する（しんようする）",
         "meaning": {
-          "english": "believe"
+          "english": "believe |(vi) tin tưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin(jiru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "信頼する（しんらいする）",
         "meaning": {
-          "english": "trust"
+          "english": "trust |(vi) tín nhiệm, tin cậy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin(jiru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "確信する（かくしんする）",
         "meaning": {
-          "english": "become convinced"
+          "english": "become convinced |(vi) trở nên chắc chắn, tin chắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin(jiru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "返信する（へんしんする）",
         "meaning": {
-          "english": "reply"
+          "english": "reply |(vi) hồi âm, trả lời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin(jiru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "受信する（じゅしんする）",
         "meaning": {
-          "english": "receive (e.g. radio)"
+          "english": "receive (e.g. radio) |(vi) nhận (sóng radio...)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin(jiru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "通信する（つうしんする）",
         "meaning": {
-          "english": "correspond"
+          "english": "correspond |(vi) liên lạc, thư từ qua lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin(jiru)_06_k.opus",
@@ -292,7 +292,7 @@
     "kanji": {
       "character": "信",
       "meaning": {
-        "english": "believe, trust, message"
+        "english": "believe, trust, message |(vi) tin tưởng, tín nhiệm, thư tín"
       },
       "strokes": {
         "count": 9,
@@ -348,7 +348,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -369,7 +369,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "208",
     "strokeCount": 9,
-    "meaning": "faith, truth, fidelity, trust",
+    "meaning": "faith, truth, fidelity, trust |(vi) đức tin, sự thật, lòng trung thành, tin tưởng |(hv) Tín",
     "kunyomi": [],
     "onyomi": [
       "シン"
@@ -378,22 +378,22 @@
       {
         "example": "信",
         "reading": "シン",
-        "meaning": "honesty, sincerity, fidelity, trust, reliance, confidence, (religious) faith, devotion, counter for received messages"
+        "meaning": "honesty, sincerity, fidelity, trust, reliance, confidence, (religious) faith, devotion, counter for received messages |(vi) sự trung thực, chân thành, lòng trung thành, tin tưởng, tin cậy, đức tin (tôn giáo), sự tận tâm, lượng từ đếm tin nhắn nhận được"
       },
       {
         "example": "信金",
         "reading": "シンキン",
-        "meaning": "credit union"
+        "meaning": "credit union |(vi) hiệp hội tín dụng"
       },
       {
         "example": "配信",
         "reading": "ハイシン",
-        "meaning": "distribution (of information, news, etc.), broadcast, delivery, transmission, streaming (over the Internet)"
+        "meaning": "distribution (of information, news, etc.), broadcast, delivery, transmission, streaming (over the Internet) |(vi) sự phân phối (thông tin, tin tức...), phát sóng, truyền tải, phát trực tuyến (Internet)"
       },
       {
         "example": "外信",
         "reading": "ガイシン",
-        "meaning": "external communication"
+        "meaning": "external communication |(vi) thông tin liên lạc từ nước ngoài"
       }
     ],
     "kunyomiExamples": [],
@@ -402,7 +402,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "化",

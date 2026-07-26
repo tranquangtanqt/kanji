@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 6,
     "kunyomi": "zeni",
-    "meaning": "money",
+    "meaning": "money |(vi) tiền",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "銭湯（せんとう）",
         "meaning": {
-          "english": "bath-house, public bath"
+          "english": "bath-house, public bath |(vi) nhà tắm công cộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zeni_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "金銭（きんせん）",
         "meaning": {
-          "english": "money, cash"
+          "english": "money, cash |(vi) tiền bạc, tiền mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zeni_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "賽銭（さいせん）",
         "meaning": {
-          "english": "monetary offering"
+          "english": "monetary offering |(vi) tiền cúng, tiền dâng lễ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zeni_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "釣り銭（つりせん）",
         "meaning": {
-          "english": "change [n.]"
+          "english": "change [n.] |(vi) tiền thối, tiền thừa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zeni_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "守銭奴（しゅせんど）",
         "meaning": {
-          "english": "miser"
+          "english": "miser |(vi) kẻ keo kiệt, người hà tiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zeni_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "無銭飲食（むせんいんしょく）",
         "meaning": {
-          "english": "leaving without paying for food"
+          "english": "leaving without paying for food |(vi) ăn quỵt (bỏ đi không trả tiền ăn)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zeni_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "銭（ぜに）",
         "meaning": {
-          "english": "money"
+          "english": "money |(vi) tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zeni_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "小銭（こぜに）",
         "meaning": {
-          "english": "coins, small change"
+          "english": "coins, small change |(vi) tiền xu, tiền lẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zeni_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "身銭（みぜに）",
         "meaning": {
-          "english": "one's own money"
+          "english": "one's own money |(vi) tiền túi của mình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zeni_06_i.opus",
@@ -200,7 +200,7 @@
     "kanji": {
       "character": "銭",
       "meaning": {
-        "english": "money"
+        "english": "money |(vi) tiền"
       },
       "strokes": {
         "count": 14,
@@ -266,7 +266,7 @@
         "romaji": "kanehen"
       },
       "meaning": {
-        "english": "metal, gold, mineral"
+        "english": "metal, gold, mineral |(vi) Kim (vàng, kim loại)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kanehen0.svg",
@@ -287,7 +287,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1008",
     "strokeCount": 14,
-    "meaning": "coin, .01 yen, money",
+    "meaning": "coin, .01 yen, money |(vi) đồng xu, 1/100 yên, tiền |(hv) Tiền",
     "kunyomi": [
       "ぜに",
       "すき"
@@ -300,44 +300,44 @@
       {
         "example": "銭",
         "reading": "セン",
-        "meaning": "sen (hundredth of a yen), coin made of non-precious materials, one-thousandth of a kan (as a unit of currency), one-thousandth of a kan (as a unit of mass)"
+        "meaning": "sen (hundredth of a yen), coin made of non-precious materials, one-thousandth of a kan (as a unit of currency), one-thousandth of a kan (as a unit of mass) |(vi) sen (một phần trăm yên), đồng xu làm bằng vật liệu không quý, một phần nghìn quan (đơn vị tiền tệ), một phần nghìn quan (đơn vị khối lượng)"
       },
       {
         "example": "銭湯",
         "reading": "セントウ",
-        "meaning": "public bath, bathhouse"
+        "meaning": "public bath, bathhouse |(vi) nhà tắm công cộng"
       },
       {
         "example": "間銭",
         "reading": "アイセン",
-        "meaning": "handling fee, commission"
+        "meaning": "handling fee, commission |(vi) phí xử lý, hoa hồng"
       },
       {
         "example": "追い銭",
         "reading": "オイセン",
-        "meaning": "money paid in addition"
+        "meaning": "money paid in addition |(vi) tiền trả thêm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "銭",
         "reading": "ぜに",
-        "meaning": "round coin with a (square) hole in the center, coin made of non-precious materials, money"
+        "meaning": "round coin with a (square) hole in the center, coin made of non-precious materials, money |(vi) đồng tiền tròn có lỗ vuông ở giữa, đồng xu làm bằng vật liệu không quý, tiền"
       },
       {
         "example": "銭葵",
         "reading": "ぜにあおい",
-        "meaning": "common mallow (Malva sylvestris var. mauritiana)"
+        "meaning": "common mallow (Malva sylvestris var. mauritiana) |(vi) cây cẩm quỳ (Malva sylvestris var. mauritiana)"
       },
       {
         "example": "身銭",
         "reading": "みぜに",
-        "meaning": "one's own money"
+        "meaning": "one's own money |(vi) tiền túi của mình"
       },
       {
         "example": "日銭",
         "reading": "ひぜに",
-        "meaning": "daily income in cash, money paid by daily installments, money paid by daily instalments"
+        "meaning": "daily income in cash, money paid by daily installments, money paid by daily instalments |(vi) thu nhập tiền mặt hàng ngày, tiền trả theo từng ngày"
       }
     ],
     "radical": {
@@ -345,7 +345,7 @@
       "forms": [
         "釒"
       ],
-      "meaning": "metal, gold"
+      "meaning": "metal, gold |(vi) Kim (vàng, kim loại)"
     },
     "parts": [
       "二",

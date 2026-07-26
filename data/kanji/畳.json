@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "tata, tatamu, tatami",
-    "meaning": "tatami, fold up",
+    "meaning": "tatami, fold up |(vi) chiếu tatami, gấp lại",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "6畳（ろくじょう）",
         "meaning": {
-          "english": "6 tatami mats"
+          "english": "6 tatami mats |(vi) 6 chiếu tatami"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tatami_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "畳む（たたむ）",
         "meaning": {
-          "english": "fold"
+          "english": "fold |(vi) gấp lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tatami_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "折り畳み椅子（おりたたみいす）",
         "meaning": {
-          "english": "folding chair"
+          "english": "folding chair |(vi) ghế gấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tatami_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "畳（たたみ）",
         "meaning": {
-          "english": "tatami, reed floor matting"
+          "english": "tatami, reed floor matting |(vi) chiếu tatami, thảm sàn bằng rơm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tatami_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "畳屋（たたみや）",
         "meaning": {
-          "english": "tatami mat maker, mat dealer"
+          "english": "tatami mat maker, mat dealer |(vi) thợ làm chiếu tatami, người bán chiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tatami_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "畳替え（たたみがえ）",
         "meaning": {
-          "english": "re-covering a tatami mat"
+          "english": "re-covering a tatami mat |(vi) thay mặt chiếu tatami"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tatami_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "青畳（あおだたみ）",
         "meaning": {
-          "english": "new tatami mat"
+          "english": "new tatami mat |(vi) chiếu tatami mới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tatami_06_g.opus",
@@ -179,7 +179,7 @@
     "kanji": {
       "character": "畳",
       "meaning": {
-        "english": "tatami, fold up"
+        "english": "tatami, fold up |(vi) chiếu tatami, gấp lại"
       },
       "strokes": {
         "count": 12,
@@ -241,7 +241,7 @@
         "romaji": "ta"
       },
       "meaning": {
-        "english": "rice paddy"
+        "english": "rice paddy |(vi) Điền (ruộng lúa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ta0.svg",
@@ -262,7 +262,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1665",
     "strokeCount": 12,
-    "meaning": "tatami mat, counter for tatami mats, fold, shut up, do away with",
+    "meaning": "tatami mat, counter for tatami mats, fold, shut up, do away with |(vi) chiếu tatami, đơn vị đếm chiếu tatami, gấp, đóng lại, dẹp bỏ |(hv) Điệp",
     "kunyomi": [
       "たた.む",
       "たたみ",
@@ -276,54 +276,54 @@
       {
         "example": "畳",
         "reading": "ジョウ",
-        "meaning": "tatami mat (esp. as a measure of room size, either 1.82 sqm or 1.54 sqm)"
+        "meaning": "tatami mat (esp. as a measure of room size, either 1.82 sqm or 1.54 sqm) |(vi) chiếu tatami (đơn vị đo diện tích phòng, khoảng 1,82 m2 hoặc 1,54 m2)"
       },
       {
         "example": "畳韻",
         "reading": "ジョウイン",
-        "meaning": "repeated rhymes (in Chinese poetry), recurring rhymes"
+        "meaning": "repeated rhymes (in Chinese poetry), recurring rhymes |(vi) vần lặp lại (trong thơ Trung Quốc), vần tái diễn"
       },
       {
         "example": "重畳",
         "reading": "チョウジョウ",
-        "meaning": "placed one upon another, piled up, excellent, splendid, superimposition, superposition"
+        "meaning": "placed one upon another, piled up, excellent, splendid, superimposition, superposition |(vi) xếp chồng lên nhau, chất đống, xuất sắc, rực rỡ, sự chồng chất, sự xếp lớp"
       },
       {
         "example": "山岳重畳",
         "reading": "サンガクチョウジョウ",
-        "meaning": "mountains rising one above another"
+        "meaning": "mountains rising one above another |(vi) núi non trùng điệp"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "畳む",
         "reading": "たたむ",
-        "meaning": "to fold (clothes, umbrella), to close (a shop, business), to vacate"
+        "meaning": "to fold (clothes, umbrella), to close (a shop, business), to vacate |(vi) gấp (quần áo, ô), đóng cửa (cửa hàng, việc kinh doanh), dọn đi"
       },
       {
         "example": "畳",
         "reading": "たたみ",
-        "meaning": "tatami mat, Japanese straw floor coverings"
+        "meaning": "tatami mat, Japanese straw floor coverings |(vi) chiếu tatami, thảm sàn rơm Nhật Bản"
       },
       {
         "example": "畳敷き",
         "reading": "たたみじき",
-        "meaning": "tatami-matted"
+        "meaning": "tatami-matted |(vi) lát chiếu tatami"
       },
       {
         "example": "柔道畳",
         "reading": "じゅうどうたたみ",
-        "meaning": "judo mat"
+        "meaning": "judo mat |(vi) chiếu judo"
       },
       {
         "example": "琉球畳",
         "reading": "りゅうきゅうたたみ",
-        "meaning": "Ryūkyū tatami, sturdy and durable tatami that has a facing weaved from Shichito matgrass"
+        "meaning": "Ryūkyū tatami, sturdy and durable tatami that has a facing weaved from Shichito matgrass |(vi) chiếu tatami Ryūkyū, chiếu bền chắc dệt từ cỏ chiếu Shichito"
       }
     ],
     "radical": {
       "symbol": "田",
-      "meaning": "field"
+      "meaning": "field |(vi) Điền (ruộng)"
     },
     "parts": [
       "一",

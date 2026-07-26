@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "o, osu",
-    "meaning": "infer, deduce, recommend",
+    "meaning": "infer, deduce, recommend |(vi) suy luận, suy đoán, tiến cử",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "推薦状（すいせんじょう）",
         "meaning": {
-          "english": "letter of recommendation"
+          "english": "letter of recommendation |(vi) thư giới thiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui(soku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "推薦する（すいせんする）",
         "meaning": {
-          "english": "recommend"
+          "english": "recommend |(vi) tiến cử, giới thiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui(soku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "推理する（すいりする）",
         "meaning": {
-          "english": "reason, infer"
+          "english": "reason, infer |(vi) suy luận, lý giải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui(soku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "推測する（すいそくする）",
         "meaning": {
-          "english": "guess, make a conjecture"
+          "english": "guess, make a conjecture |(vi) đoán, phỏng đoán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui(soku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "推論する（すいろんする）",
         "meaning": {
-          "english": "infer, deduce"
+          "english": "infer, deduce |(vi) suy luận, suy diễn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui(soku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "推定する（すいていする）",
         "meaning": {
-          "english": "presume, assume"
+          "english": "presume, assume |(vi) suy đoán, giả định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui(soku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "推進する（すいしんする）",
         "meaning": {
-          "english": "propel, promote, drive forward"
+          "english": "propel, promote, drive forward |(vi) thúc đẩy, xúc tiến, đẩy tới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui(soku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "推察する（すいさつする）",
         "meaning": {
-          "english": "guess, surmise"
+          "english": "guess, surmise |(vi) đoán, suy đoán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui(soku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "推敲する（すいこうする）",
         "meaning": {
-          "english": "revise, elaborate on, polish"
+          "english": "revise, elaborate on, polish |(vi) chỉnh sửa, trau chuốt, gọt giũa (câu văn)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui(soku)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "推す（おす）",
         "meaning": {
-          "english": "infer, conclude, recommend"
+          "english": "infer, conclude, recommend |(vi) suy luận, kết luận, tiến cử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui(soku)_06_j.opus",
@@ -220,7 +220,7 @@
     "kanji": {
       "character": "推",
       "meaning": {
-        "english": "infer, deduce, recommend"
+        "english": "infer, deduce, recommend |(vi) suy luận, suy đoán, tiến cử"
       },
       "strokes": {
         "count": 11,
@@ -280,7 +280,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -301,7 +301,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "507",
     "strokeCount": 11,
-    "meaning": "conjecture, infer, guess, suppose, support, push (for)",
+    "meaning": "conjecture, infer, guess, suppose, support, push (for) |(vi) phỏng đoán, suy luận, đoán, giả định, ủng hộ, thúc đẩy |(hv) Suy",
     "kunyomi": [
       "お.す"
     ],
@@ -312,29 +312,29 @@
       {
         "example": "推計",
         "reading": "スイケイ",
-        "meaning": "estimate, estimation"
+        "meaning": "estimate, estimation |(vi) ước tính, sự ước lượng"
       },
       {
         "example": "推移",
         "reading": "スイイ",
-        "meaning": "transition, change, progress, development, shift, passing (of time)"
+        "meaning": "transition, change, progress, development, shift, passing (of time) |(vi) chuyển biến, thay đổi, tiến triển, phát triển, dịch chuyển, sự trôi qua (của thời gian)"
       },
       {
         "example": "類推",
         "reading": "ルイスイ",
-        "meaning": "analogy, analogical reasoning, analogical inference, analogy"
+        "meaning": "analogy, analogical reasoning, analogical inference, analogy |(vi) loại suy, suy luận tương tự, suy diễn theo phép loại suy"
       },
       {
         "example": "邪推",
         "reading": "ジャスイ",
-        "meaning": "distrust, unjust suspicion"
+        "meaning": "distrust, unjust suspicion |(vi) ngờ vực, nghi ngờ vô cớ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "推す",
         "reading": "おす",
-        "meaning": "to recommend, to endorse (e.g. a candidate), to nominate, to support, to back, to infer (from), to deduce, to gather, to conjecture, to surmise, to think (something) through, to ponder deeply"
+        "meaning": "to recommend, to endorse (e.g. a candidate), to nominate, to support, to back, to infer (from), to deduce, to gather, to conjecture, to surmise, to think (something) through, to ponder deeply |(vi) tiến cử, đề cử (vd. một ứng viên), giới thiệu, ủng hộ, hậu thuẫn, suy luận (từ), suy diễn, thu thập (thông tin), phỏng đoán, đoán định, suy nghĩ thấu đáo, cân nhắc kỹ"
       }
     ],
     "radical": {
@@ -342,7 +342,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "扎",

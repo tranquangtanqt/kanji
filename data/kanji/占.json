@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "shi, urana, shimeru, uranau",
-    "meaning": "occupy, tell fortunes, hold",
+    "meaning": "occupy, tell fortunes, hold |(vi) chiếm, bói toán, giữ",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "占星術（せんせいじゅつ）",
         "meaning": {
-          "english": "astrology"
+          "english": "astrology |(vi) chiêm tinh học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "占領地（せんりょうち）",
         "meaning": {
-          "english": "occupied territory"
+          "english": "occupied territory |(vi) vùng bị chiếm đóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "占拠する（せんきょする）",
         "meaning": {
-          "english": "occupy"
+          "english": "occupy |(vi) chiếm đóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "占有する（せんゆうする）",
         "meaning": {
-          "english": "have exclusive possession"
+          "english": "have exclusive possession |(vi) sở hữu độc quyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "独占する（どくせんする）",
         "meaning": {
-          "english": "monopolize"
+          "english": "monopolize |(vi) độc quyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "占める（しめる）",
         "meaning": {
-          "english": "comprise, occupy"
+          "english": "comprise, occupy |(vi) chiếm, gồm có"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "独り占めする（ひとりじめする）",
         "meaning": {
-          "english": "monopolize"
+          "english": "monopolize |(vi) chiếm riêng một mình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "占う（うらなう）",
         "meaning": {
-          "english": "tell one's fortune, divine"
+          "english": "tell one's fortune, divine |(vi) xem bói, tiên đoán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "占い師（うらないし）",
         "meaning": {
-          "english": "diviner, fortuneteller, palmist"
+          "english": "diviner, fortuneteller, palmist |(vi) thầy bói, người xem tướng số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "星占い（ほしうらない）",
         "meaning": {
-          "english": "astrology, horoscope"
+          "english": "astrology, horoscope |(vi) chiêm tinh, tử vi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_j.opus",
@@ -218,7 +218,7 @@
     "kanji": {
       "character": "占",
       "meaning": {
-        "english": "occupy, tell fortunes, hold"
+        "english": "occupy, tell fortunes, hold |(vi) chiếm, bói toán, giữ"
       },
       "strokes": {
         "count": 5,
@@ -266,7 +266,7 @@
         "romaji": "boku"
       },
       "meaning": {
-        "english": "oracle"
+        "english": "oracle |(vi) Bốc (bói toán)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/boku0.svg",
@@ -287,7 +287,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "694",
     "strokeCount": 5,
-    "meaning": "fortune-telling, divining, forecasting, occupy, hold, have, get, take",
+    "meaning": "fortune-telling, divining, forecasting, occupy, hold, have, get, take |(vi) bói toán, tiên đoán, chiếm giữ, có được |(hv) Chiêm",
     "kunyomi": [
       "し.める",
       "うらな.う"
@@ -299,39 +299,39 @@
       {
         "example": "占領",
         "reading": "センリョウ",
-        "meaning": "occupying, having (an area) all to oneself, military occupation, possession, capture, seizure"
+        "meaning": "occupying, having (an area) all to oneself, military occupation, possession, capture, seizure |(vi) chiếm đóng, chiếm cứ toàn bộ khu vực, quân sự chiếm đóng, chiếm hữu, đoạt lấy"
       },
       {
         "example": "占拠",
         "reading": "センキョ",
-        "meaning": "occupation, taking and maintaining exclusive control (of a location)"
+        "meaning": "occupation, taking and maintaining exclusive control (of a location) |(vi) chiếm cứ, giữ và duy trì quyền kiểm soát độc quyền (một địa điểm)"
       },
       {
         "example": "寡占",
         "reading": "カセン",
-        "meaning": "oligopoly, control of a market"
+        "meaning": "oligopoly, control of a market |(vi) độc quyền nhóm, kiểm soát thị trường"
       },
       {
         "example": "買い手寡占",
         "reading": "カイテカセン",
-        "meaning": "oligopsony"
+        "meaning": "oligopsony |(vi) độc quyền mua (bên mua kiểm soát thị trường)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "占める",
         "reading": "しめる",
-        "meaning": "to occupy, to hold, to account for, to make up, to take up"
+        "meaning": "to occupy, to hold, to account for, to make up, to take up |(vi) chiếm giữ, chiếm dụng, chiếm tỉ lệ, chiếm phần"
       },
       {
         "example": "占う",
         "reading": "うらなう",
-        "meaning": "to tell someone's fortune, to divine (the future), to predict, to forecast"
+        "meaning": "to tell someone's fortune, to divine (the future), to predict, to forecast |(vi) xem bói cho ai đó, tiên đoán (tương lai), dự báo"
       }
     ],
     "radical": {
       "symbol": "卜",
-      "meaning": "divination"
+      "meaning": "divination |(vi) Bốc (bói toán)"
     },
     "parts": [
       "卜",

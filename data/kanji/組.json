@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ku, kumu, kumi",
-    "meaning": "organize, assemble, group, class, gang",
+    "meaning": "organize, assemble, group, class, gang |(vi) tổ chức, sắp xếp, nhóm, lớp, băng nhóm",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "組織する（そしきする）",
         "meaning": {
-          "english": "organize"
+          "english": "organize |(vi) tổ chức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "組閣する（そかくする）",
         "meaning": {
-          "english": "form a cabinet"
+          "english": "form a cabinet |(vi) thành lập nội các"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "労組（ろうそ）",
         "meaning": {
-          "english": "labor union"
+          "english": "labor union |(vi) công đoàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "組む（くむ）",
         "meaning": {
-          "english": "put together"
+          "english": "put together |(vi) ghép lại, kết hợp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "組（くみ）",
         "meaning": {
-          "english": "class, team, set"
+          "english": "class, team, set |(vi) lớp, đội, bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "一年一組（いちねんいちくみ）",
         "meaning": {
-          "english": "1st grade, homeroom 1"
+          "english": "1st grade, homeroom 1 |(vi) lớp 1 (lớp 1-1)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "組合（くみあい）",
         "meaning": {
-          "english": "union, association"
+          "english": "union, association |(vi) công đoàn, hiệp hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "番組（ばんぐみ）",
         "meaning": {
-          "english": "program (TV)"
+          "english": "program (TV) |(vi) chương trình (truyền hình)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "三人組（さんにんぐみ）",
         "meaning": {
-          "english": "trio"
+          "english": "trio |(vi) nhóm ba người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumi_06_i.opus",
@@ -241,7 +241,7 @@
     "kanji": {
       "character": "組",
       "meaning": {
-        "english": "organize, assemble, group, class, gang"
+        "english": "organize, assemble, group, class, gang |(vi) tổ chức, sắp xếp, nhóm, lớp, băng nhóm"
       },
       "strokes": {
         "count": 11,
@@ -301,7 +301,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -322,7 +322,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "204",
     "strokeCount": 11,
-    "meaning": "association, braid, plait, construct, assemble, unite, cooperate, grapple",
+    "meaning": "association, braid, plait, construct, assemble, unite, cooperate, grapple |(vi) hiệp hội, bện, đan, xây dựng, lắp ráp, đoàn kết, hợp tác, vật lộn |(hv) Tổ",
     "kunyomi": [
       "く.む",
       "くみ",
@@ -335,49 +335,49 @@
       {
         "example": "組閣",
         "reading": "ソカク",
-        "meaning": "formation of a cabinet"
+        "meaning": "formation of a cabinet |(vi) thành lập nội các"
       },
       {
         "example": "組織",
         "reading": "ソシキ",
-        "meaning": "organization, organisation, formation, structure, construction, setup, constitution, system (e.g. railroad, transport, party, etc.), tissue, texture (of a rock), weave (of a fabric)"
+        "meaning": "organization, organisation, formation, structure, construction, setup, constitution, system (e.g. railroad, transport, party, etc.), tissue, texture (of a rock), weave (of a fabric) |(vi) tổ chức, cơ cấu, kết cấu, hệ thống, mô, kết cấu đá, cách dệt (vải)"
       },
       {
         "example": "労組",
         "reading": "ロウソ",
-        "meaning": "labor union, labour union, trade union"
+        "meaning": "labor union, labour union, trade union |(vi) công đoàn, nghiệp đoàn"
       },
       {
         "example": "改組",
         "reading": "カイソ",
-        "meaning": "reorganization, reorganisation, reshuffle"
+        "meaning": "reorganization, reorganisation, reshuffle |(vi) cải tổ, tổ chức lại"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "組む",
         "reading": "くむ",
-        "meaning": "to cross (legs or arms), to link (arms), to put together, to construct, to assemble, to produce (e.g. TV program), to braid, to plait, to grapple, to wrestle, to unite, to join, to link up, to form an alliance, to set (e.g. type), to issue (e.g. money order)"
+        "meaning": "to cross (legs or arms), to link (arms), to put together, to construct, to assemble, to produce (e.g. TV program), to braid, to plait, to grapple, to wrestle, to unite, to join, to link up, to form an alliance, to set (e.g. type), to issue (e.g. money order) |(vi) bắt chéo (tay, chân), liên kết, ghép lại, xây dựng, lắp ráp, sản xuất (chương trình truyền hình), bện, đan, vật lộn, đấu vật, đoàn kết, liên minh, sắp chữ, phát hành (lệnh chuyển tiền)"
       },
       {
         "example": "組",
         "reading": "くみ",
-        "meaning": "class (of students), group (of people), party, team, crew, lot, bunch, set, crime family, organized-crime syndicate, set (of items), assortment, deck (of cards), pack, typesetting, composition"
+        "meaning": "class (of students), group (of people), party, team, crew, lot, bunch, set, crime family, organized-crime syndicate, set (of items), assortment, deck (of cards), pack, typesetting, composition |(vi) lớp (học sinh), nhóm (người), phe nhóm, đội, tổ, băng đảng, bộ, cỗ (bài), sắp chữ, dàn trang"
       },
       {
         "example": "組合",
         "reading": "くみあい",
-        "meaning": "association, union, guild"
+        "meaning": "association, union, guild |(vi) hiệp hội, công đoàn, phường hội"
       },
       {
         "example": "労組",
         "reading": "ろうそ",
-        "meaning": "labor union, labour union, trade union"
+        "meaning": "labor union, labour union, trade union |(vi) công đoàn, nghiệp đoàn"
       },
       {
         "example": "文字組み",
         "reading": "もじくみ",
-        "meaning": "character layout, typesetting"
+        "meaning": "character layout, typesetting |(vi) bố cục chữ, sắp chữ"
       }
     ],
     "radical": {
@@ -385,7 +385,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi)"
     },
     "parts": [
       "一",

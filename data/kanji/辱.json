@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 50,
     "kunyomi": "hazukashi, hazukashime, hazukashimeru",
-    "meaning": "humiliate, disgrace",
+    "meaning": "humiliate, disgrace |(vi) làm nhục, sỉ nhục",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "屈辱（くつじょく）",
         "meaning": {
-          "english": "disgrace, humiliation"
+          "english": "disgrace, humiliation |(vi) sự sỉ nhục, nỗi ô nhục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazukashi(meru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "恥辱（ちじょく）",
         "meaning": {
-          "english": "disgrace, shame, insult"
+          "english": "disgrace, shame, insult |(vi) sự ô nhục, xấu hổ, sỉ nhục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazukashi(meru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "雪辱（せつじょく）",
         "meaning": {
-          "english": "vindication of one's honor"
+          "english": "vindication of one's honor |(vi) rửa nhục, phục thù danh dự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazukashi(meru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "侮辱する（ぶじょくする）",
         "meaning": {
-          "english": "treat with contempt, insult"
+          "english": "treat with contempt, insult |(vi) khinh miệt, sỉ nhục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazukashi(meru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "辱める（はずかしめる）",
         "meaning": {
-          "english": "put to shame"
+          "english": "put to shame |(vi) làm nhục, bêu xấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazukashi(meru)_06_e.opus",
@@ -164,7 +164,7 @@
     "kanji": {
       "character": "辱",
       "meaning": {
-        "english": "humiliate, disgrace"
+        "english": "humiliate, disgrace |(vi) làm nhục, sỉ nhục"
       },
       "strokes": {
         "count": 10,
@@ -222,7 +222,7 @@
         "romaji": "shinnotatsu"
       },
       "meaning": {
-        "english": "Fifth zodiac sign, 7–9 A.M."
+        "english": "Fifth zodiac sign, 7–9 A.M. |(vi) Thìn (chi Thìn, khoảng 7-9 giờ sáng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnotatsu0.svg",
@@ -243,7 +243,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1769",
     "strokeCount": 10,
-    "meaning": "embarrass, humiliate, shame",
+    "meaning": "embarrass, humiliate, shame |(vi) làm bẽ mặt, làm nhục, sỉ nhục |(hv) Nhục",
     "kunyomi": [
       "はずかし.める"
     ],
@@ -254,34 +254,34 @@
       {
         "example": "恥",
         "reading": "ハジ",
-        "meaning": "shame, embarrassment, disgrace"
+        "meaning": "shame, embarrassment, disgrace |(vi) sự xấu hổ, bẽ mặt, ô nhục"
       },
       {
         "example": "辱知",
         "reading": "ジョクチ",
-        "meaning": "acquaintance"
+        "meaning": "acquaintance |(vi) người quen biết"
       },
       {
         "example": "恥辱",
         "reading": "チジョク",
-        "meaning": "disgrace, shame, insult"
+        "meaning": "disgrace, shame, insult |(vi) sự ô nhục, xấu hổ, sỉ nhục"
       },
       {
         "example": "栄辱",
         "reading": "エイジョク",
-        "meaning": "honor and-or shame (honour)"
+        "meaning": "honor and-or shame (honour) |(vi) vinh và nhục (danh dự và ô nhục)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "辱める",
         "reading": "はずかしめる",
-        "meaning": "to humiliate, to disgrace, to put to shame, to insult, to violate, to (sexually) assault, to rape"
+        "meaning": "to humiliate, to disgrace, to put to shame, to insult, to violate, to (sexually) assault, to rape |(vi) làm nhục, bêu xấu, làm bẽ mặt, sỉ nhục, xâm phạm, cưỡng hiếp"
       }
     ],
     "radical": {
       "symbol": "辰",
-      "meaning": "morning"
+      "meaning": "morning |(vi) Thìn (chi Thìn, buổi sáng, con rồng)"
     },
     "parts": [
       "厂",

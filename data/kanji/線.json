@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "line",
+    "meaning": "line |(vi) đường, tuyến",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "線（せん）",
         "meaning": {
-          "english": "line [n.]"
+          "english": "line [n.] |(vi) đường thẳng, tuyến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suihei)sen_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "線路（せんろ）",
         "meaning": {
-          "english": "train track"
+          "english": "train track |(vi) đường ray"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suihei)sen_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "直線（ちょくせん）",
         "meaning": {
-          "english": "straight line"
+          "english": "straight line |(vi) đường thẳng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suihei)sen_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "曲線（きょくせん）",
         "meaning": {
-          "english": "curve"
+          "english": "curve |(vi) đường cong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suihei)sen_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "電線（でんせん）",
         "meaning": {
-          "english": "electric wire"
+          "english": "electric wire |(vi) dây điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suihei)sen_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "戦線（せんせん）",
         "meaning": {
-          "english": "front (in a war)"
+          "english": "front (in a war) |(vi) mặt trận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suihei)sen_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "前線（ぜんせん）",
         "meaning": {
-          "english": "front line, weather front"
+          "english": "front line, weather front |(vi) tiền tuyến, mặt trận thời tiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suihei)sen_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "沿線（えんせん）",
         "meaning": {
-          "english": "along a train line"
+          "english": "along a train line |(vi) dọc theo tuyến đường sắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suihei)sen_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "一番線（いちばんせん）",
         "meaning": {
-          "english": "Track No. 1"
+          "english": "Track No. 1 |(vi) ke ga số 1"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suihei)sen_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "新幹線（しんかんせん）",
         "meaning": {
-          "english": "Shinkansen"
+          "english": "Shinkansen |(vi) tàu Shinkansen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suihei)sen_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "水平線（すいへいせん）",
         "meaning": {
-          "english": "horizon"
+          "english": "horizon |(vi) đường chân trời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suihei)sen_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "脱線する（だっせんする）",
         "meaning": {
-          "english": "derail, digress"
+          "english": "derail, digress |(vi) trật bánh, lạc đề"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suihei)sen_06_l.opus",
@@ -280,7 +280,7 @@
     "kanji": {
       "character": "線",
       "meaning": {
-        "english": "line"
+        "english": "line |(vi) đường, tuyến"
       },
       "strokes": {
         "count": 15,
@@ -348,7 +348,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -369,7 +369,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "382",
     "strokeCount": 15,
-    "meaning": "line, track",
+    "meaning": "line, track |(vi) đường, tuyến |(hv) Tuyến",
     "kunyomi": [
       "すじ"
     ],
@@ -380,22 +380,22 @@
       {
         "example": "線",
         "reading": "セン",
-        "meaning": "line, stripe, stria, line (e.g. telephone line), wire, ray (e.g. X-ray), beam, line (e.g. of a railroad), track, route, lane, outline, contours, form, level, division, line (of action), position, approach, policy, principle, impression one leaves, air one gives off"
+        "meaning": "line, stripe, stria, line (e.g. telephone line), wire, ray (e.g. X-ray), beam, line (e.g. of a railroad), track, route, lane, outline, contours, form, level, division, line (of action), position, approach, policy, principle, impression one leaves, air one gives off |(vi) đường kẻ, vạch, sọc, đường dây (điện thoại), dây điện, tia (tia X), chùm tia, tuyến (đường sắt), đường ray, lộ trình, làn đường, đường viền, hình dáng, mức độ, ranh giới, đường lối (hành động), lập trường, chính sách, nguyên tắc, ấn tượng để lại, phong thái toát ra"
       },
       {
         "example": "繊維",
         "reading": "センイ",
-        "meaning": "fibre, fiber"
+        "meaning": "fibre, fiber |(vi) sợi, chất xơ"
       },
       {
         "example": "横線",
         "reading": "オウセン",
-        "meaning": "horizontal line"
+        "meaning": "horizontal line |(vi) đường ngang"
       },
       {
         "example": "赤外線",
         "reading": "セキガイセン",
-        "meaning": "infrared rays, infrared radiation"
+        "meaning": "infrared rays, infrared radiation |(vi) tia hồng ngoại, bức xạ hồng ngoại"
       }
     ],
     "kunyomiExamples": [],
@@ -404,7 +404,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi)"
     },
     "parts": [
       "小",

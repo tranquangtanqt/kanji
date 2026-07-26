@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 2,
     "kunyomi": "kana, kanaderu",
-    "meaning": "play music",
+    "meaning": "play music |(vi) tấu nhạc, biểu diễn nhạc",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "吹奏楽（すいそうがく）",
         "meaning": {
-          "english": "wind-instrument music"
+          "english": "wind-instrument music |(vi) nhạc kèn, nhạc quản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kana(deru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "協奏曲（きょうそうきょく）",
         "meaning": {
-          "english": "concerto"
+          "english": "concerto |(vi) bản concerto, hòa tấu khúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kana(deru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "演奏会（えんそうかい）",
         "meaning": {
-          "english": "concert"
+          "english": "concert |(vi) buổi hòa nhạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kana(deru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "二重奏（にじゅうそう）",
         "meaning": {
-          "english": "instrumental duo"
+          "english": "instrumental duo |(vi) song tấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kana(deru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "合奏する（がっそうする）",
         "meaning": {
-          "english": "play in concert"
+          "english": "play in concert |(vi) hòa tấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kana(deru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "伴奏する（ばんそうする）",
         "meaning": {
-          "english": "accompany (music)"
+          "english": "accompany (music) |(vi) đệm nhạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kana(deru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "演奏する（えんそうする）",
         "meaning": {
-          "english": "perform (music)"
+          "english": "perform (music) |(vi) biểu diễn (nhạc)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kana(deru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "奏でる（かなでる）",
         "meaning": {
-          "english": "play (an instrument)"
+          "english": "play (an instrument) |(vi) chơi (nhạc cụ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kana(deru)_06_h.opus",
@@ -184,7 +184,7 @@
     "kanji": {
       "character": "奏",
       "meaning": {
-        "english": "play music"
+        "english": "play music |(vi) tấu nhạc, biểu diễn nhạc"
       },
       "strokes": {
         "count": 9,
@@ -240,7 +240,7 @@
         "romaji": "dai"
       },
       "meaning": {
-        "english": "large, big"
+        "english": "large, big |(vi) Đại (to lớn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/dai0.svg",
@@ -261,7 +261,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1067",
     "strokeCount": 9,
-    "meaning": "play music, speak to a ruler, complete",
+    "meaning": "play music, speak to a ruler, complete |(vi) tấu nhạc, tâu lên vua, hoàn thành |(hv) Tấu",
     "kunyomi": [
       "かな.でる"
     ],
@@ -272,34 +272,34 @@
       {
         "example": "奏",
         "reading": "ソウ",
-        "meaning": "report to the emperor"
+        "meaning": "report to the emperor |(vi) tâu lên vua"
       },
       {
         "example": "奏功",
         "reading": "ソウコウ",
-        "meaning": "success, achievement, fruition"
+        "meaning": "success, achievement, fruition |(vi) thành công, đạt kết quả"
       },
       {
         "example": "合奏",
         "reading": "ガッソウ",
-        "meaning": "ensemble (e.g. orchestra, chamber group, etc.), concert"
+        "meaning": "ensemble (e.g. orchestra, chamber group, etc.), concert |(vi) hòa tấu"
       },
       {
         "example": "四重奏",
         "reading": "シジュウソウ",
-        "meaning": "instrumental quartet"
+        "meaning": "instrumental quartet |(vi) tứ tấu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "奏でる",
         "reading": "かなでる",
-        "meaning": "to play an instrument (esp. string instruments), to dance"
+        "meaning": "to play an instrument (esp. string instruments), to dance |(vi) chơi nhạc cụ (đàn dây), múa"
       }
     ],
     "radical": {
       "symbol": "大",
-      "meaning": "big, very"
+      "meaning": "big, very |(vi) Đại (to lớn)"
     },
     "parts": [
       "一",

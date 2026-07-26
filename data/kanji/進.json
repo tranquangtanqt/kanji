@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "susu, susumu, susumeru",
-    "meaning": "advance, progress",
+    "meaning": "advance, progress |(vi) tiến lên, tiến bộ",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "進行する（しんこうする）",
         "meaning": {
-          "english": "advance [v.i.]"
+          "english": "advance [v.i.] |(vi) tiến hành, tiến triển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/susu(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "進学する（しんがくする）",
         "meaning": {
-          "english": "advance to a higher school"
+          "english": "advance to a higher school |(vi) học lên bậc cao hơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/susu(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "進歩する（しんぽする）",
         "meaning": {
-          "english": "progress [v.i]"
+          "english": "progress [v.i] |(vi) tiến bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/susu(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "進化する（しんかする）",
         "meaning": {
-          "english": "evolve [v.i.]"
+          "english": "evolve [v.i.] |(vi) tiến hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/susu(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "前進する（ぜんしんする）",
         "meaning": {
-          "english": "advance [v.i.]"
+          "english": "advance [v.i.] |(vi) tiến lên, tiến về phía trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/susu(mu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "促進する（そくしんする）",
         "meaning": {
-          "english": "promote, advance, help [v.t.]"
+          "english": "promote, advance, help [v.t.] |(vi) thúc đẩy, xúc tiến, hỗ trợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/susu(mu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "昇進する（しょうしんする）",
         "meaning": {
-          "english": "be promoted"
+          "english": "be promoted |(vi) được thăng chức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/susu(mu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "進路（しんろ）",
         "meaning": {
-          "english": "course, route"
+          "english": "course, route |(vi) lộ trình, hướng đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/susu(mu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "先進国（せんしんこく）",
         "meaning": {
-          "english": "developed country"
+          "english": "developed country |(vi) nước phát triển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/susu(mu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "進む（すすむ）",
         "meaning": {
-          "english": "progress, advance [v.i.]"
+          "english": "progress, advance [v.i.] |(vi) tiến triển, tiến lên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/susu(mu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "進める（すすめる）",
         "meaning": {
-          "english": "advance [v.t.]"
+          "english": "advance [v.t.] |(vi) đẩy tới, thúc đẩy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/susu(mu)_06_k.opus",
@@ -280,7 +280,7 @@
     "kanji": {
       "character": "進",
       "meaning": {
-        "english": "advance, progress"
+        "english": "advance, progress |(vi) tiến lên, tiến bộ"
       },
       "strokes": {
         "count": 11,
@@ -340,7 +340,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đường đi, bước đi, sự tiến lên)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -361,7 +361,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "142",
     "strokeCount": 11,
-    "meaning": "advance, proceed, progress, promote",
+    "meaning": "advance, proceed, progress, promote |(vi) tiến lên, tiến hành, tiến bộ, thúc đẩy |(hv) Tiến",
     "kunyomi": [
       "すす.む",
       "すす.める"
@@ -373,39 +373,39 @@
       {
         "example": "進学",
         "reading": "シンガク",
-        "meaning": "advancing to the next stage of education, going on to (high school, college, etc.)"
+        "meaning": "advancing to the next stage of education, going on to (high school, college, etc.) |(vi) học lên bậc học cao hơn, vào (cấp ba, đại học, v.v.)"
       },
       {
         "example": "進化",
         "reading": "シンカ",
-        "meaning": "evolution, evolution, becoming more advanced, progress, development, improvement"
+        "meaning": "evolution, evolution, becoming more advanced, progress, development, improvement |(vi) tiến hóa, trở nên tiên tiến hơn, tiến bộ, phát triển, cải thiện"
       },
       {
         "example": "後進",
         "reading": "コウシン",
-        "meaning": "one's junior, younger generation, next generation, moving backwards, backing up, reversing"
+        "meaning": "one's junior, younger generation, next generation, moving backwards, backing up, reversing |(vi) đàn em, thế hệ sau, lùi lại, đi lùi, đảo ngược"
       },
       {
         "example": "累進",
         "reading": "ルイシン",
-        "meaning": "successive promotion, gradual progression, rising step by step, increasing progressively (of income tax, etc.)"
+        "meaning": "successive promotion, gradual progression, rising step by step, increasing progressively (of income tax, etc.) |(vi) thăng tiến dần dần, tiến bộ từng bước, tăng dần theo cấp bậc (vd thuế thu nhập lũy tiến)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "進む",
         "reading": "すすむ",
-        "meaning": "to advance, to go forward, to precede, to go ahead (of), to make progress, to improve, to deepen, to heighten, to be fast (of a clock), to be ahead, to do of one's own free will"
+        "meaning": "to advance, to go forward, to precede, to go ahead (of), to make progress, to improve, to deepen, to heighten, to be fast (of a clock), to be ahead, to do of one's own free will |(vi) tiến lên, đi tới trước, đi trước, vượt lên trước, tiến bộ, cải thiện, sâu sắc hơn, cao hơn, chạy nhanh (đồng hồ), đi trước, tự nguyện làm"
       },
       {
         "example": "進むも地獄退くも地獄",
         "reading": "すすむもじごくしりぞくもじごく",
-        "meaning": "between the devil and the deep blue sea, both advancing and retreating are hell"
+        "meaning": "between the devil and the deep blue sea, both advancing and retreating are hell |(vi) tiến thoái lưỡng nan, tiến cũng khổ mà lùi cũng khổ"
       },
       {
         "example": "進める",
         "reading": "すすめる",
-        "meaning": "to advance, to move forward, to put (a clock, watch) forward, to carry forward (plans, work, etc.), to proceed with, to make progress in, to further, to advance, to hasten, to speed up, to raise, to elevate, to promote, to develop, to stimulate (e.g. one's appetite)"
+        "meaning": "to advance, to move forward, to put (a clock, watch) forward, to carry forward (plans, work, etc.), to proceed with, to make progress in, to further, to advance, to hasten, to speed up, to raise, to elevate, to promote, to develop, to stimulate (e.g. one's appetite) |(vi) tiến lên, đẩy tới trước, vặn nhanh (đồng hồ), xúc tiến (kế hoạch, công việc, v.v.), tiến hành, thúc đẩy, đẩy nhanh, nâng cao, đề bạt, phát triển, kích thích (vd khẩu vị)"
       }
     ],
     "radical": {
@@ -415,7 +415,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, bước đi chợt dừng chợt tiến)"
     },
     "parts": [
       "込",

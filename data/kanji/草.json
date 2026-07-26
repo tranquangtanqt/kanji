@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 6,
     "kunyomi": "kusa",
-    "meaning": "grass",
+    "meaning": "grass |(vi) cỏ",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "草原（そうげん）",
         "meaning": {
-          "english": "grass-covered plain, grasslands"
+          "english": "grass-covered plain, grasslands |(vi) đồng cỏ, thảo nguyên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "草食（そうしょく）",
         "meaning": {
-          "english": "herbivorous"
+          "english": "herbivorous |(vi) ăn cỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "草稿（そうこう）",
         "meaning": {
-          "english": "notes, draft, manuscript"
+          "english": "notes, draft, manuscript |(vi) ghi chú, bản thảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "草案（そうあん）",
         "meaning": {
-          "english": "draft"
+          "english": "draft |(vi) bản dự thảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "雑草（ざっそう）",
         "meaning": {
-          "english": "weed"
+          "english": "weed |(vi) cỏ dại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "野草（やそう）",
         "meaning": {
-          "english": "wild grasses, wildflowers"
+          "english": "wild grasses, wildflowers |(vi) cỏ dại, hoa dại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "海草（かいそう）",
         "meaning": {
-          "english": "seaweed"
+          "english": "seaweed |(vi) rong biển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "除草剤（じょそうざい）",
         "meaning": {
-          "english": "herbicide"
+          "english": "herbicide |(vi) thuốc diệt cỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "草（くさ）",
         "meaning": {
-          "english": "grass"
+          "english": "grass |(vi) cỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "草分け（くさわけ）",
         "meaning": {
-          "english": "pioneer, trailblazer"
+          "english": "pioneer, trailblazer |(vi) người tiên phong, người mở đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "*草履（ぞうり）",
         "meaning": {
-          "english": "zori, straw sandals"
+          "english": "zori, straw sandals |(vi) dép zori, dép rơm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "*煙草（たばこ）",
         "meaning": {
-          "english": "tobacco"
+          "english": "tobacco |(vi) thuốc lá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_l.opus",
@@ -256,7 +256,7 @@
     "kanji": {
       "character": "草",
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) cỏ"
       },
       "strokes": {
         "count": 9,
@@ -312,7 +312,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -333,7 +333,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "967",
     "strokeCount": 9,
-    "meaning": "grass, weeds, herbs, pasture, write, draft",
+    "meaning": "grass, weeds, herbs, pasture, write, draft |(vi) cỏ, cỏ dại, thảo dược, đồng cỏ, viết, soạn thảo |(hv) Thảo",
     "kunyomi": [
       "くさ",
       "くさ-",
@@ -346,44 +346,44 @@
       {
         "example": "草",
         "reading": "ソウ",
-        "meaning": "draft, rough copy, highly cursive style (of writing Chinese characters), grass style"
+        "meaning": "draft, rough copy, highly cursive style (of writing Chinese characters), grass style |(vi) bản nháp, bản thảo, lối viết thảo (chữ Hán), thể thảo"
       },
       {
         "example": "壮",
         "reading": "ソウ",
-        "meaning": "vibrancy, strength, bravery, manliness, one's prime (around age 30; esp. of a man), counter for cones or sticks of moxa burned on the skin (in moxibustion)"
+        "meaning": "vibrancy, strength, bravery, manliness, one's prime (around age 30; esp. of a man), counter for cones or sticks of moxa burned on the skin (in moxibustion) |(vi) sức sống, mạnh mẽ, dũng cảm, nam tính, tuổi tráng niên (khoảng 30, đặc biệt với nam giới), lượng từ đếm mồi ngải cứu (trong châm cứu)"
       },
       {
         "example": "除草",
         "reading": "ジョソウ",
-        "meaning": "weeding"
+        "meaning": "weeding |(vi) làm cỏ, nhổ cỏ"
       },
       {
         "example": "起草",
         "reading": "キソウ",
-        "meaning": "drafting (e.g. a bill), drawing up"
+        "meaning": "drafting (e.g. a bill), drawing up |(vi) soạn thảo (dự luật), lập bản thảo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "草",
         "reading": "くさ",
-        "meaning": "grass, weed, herb, thatch, ninja, marijuana, cannabis, not genuine, substandard, LOL, haha"
+        "meaning": "grass, weed, herb, thatch, ninja, marijuana, cannabis, not genuine, substandard, LOL, haha |(vi) cỏ, cỏ dại, thảo dược, mái tranh, ninja, cần sa, không chính hãng, kém chất lượng, cười (LOL)"
       },
       {
         "example": "草刈り",
         "reading": "くさかり",
-        "meaning": "mowing, mower"
+        "meaning": "mowing, mower |(vi) cắt cỏ, máy cắt cỏ"
       },
       {
         "example": "水草",
         "reading": "みずくさ",
-        "meaning": "water plant, aquatic plant, waterweed, hydrophyte"
+        "meaning": "water plant, aquatic plant, waterweed, hydrophyte |(vi) thủy sinh thực vật, cây thủy sinh, rong nước"
       },
       {
         "example": "若草",
         "reading": "わかくさ",
-        "meaning": "green grass, young (fresh) grass"
+        "meaning": "green grass, young (fresh) grass |(vi) cỏ xanh, cỏ non"
       }
     ],
     "radical": {
@@ -391,7 +391,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "十",

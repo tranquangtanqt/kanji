@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "create",
+    "meaning": "create |(vi) sáng tạo, tạo ra",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "創意（そうい）",
         "meaning": {
-          "english": "original idea, originality"
+          "english": "original idea, originality |(vi) ý tưởng sáng tạo, tính độc đáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "創世記（そうせいき）",
         "meaning": {
-          "english": "Genesis"
+          "english": "Genesis |(vi) Sáng Thế Ký"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "創設者（そうせつしゃ）",
         "meaning": {
-          "english": "founder"
+          "english": "founder |(vi) người sáng lập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "創始者（そうししゃ）",
         "meaning": {
-          "english": "originator"
+          "english": "originator |(vi) người khởi xướng, người sáng lập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "独創的な（どくそうてきな）",
         "meaning": {
-          "english": "creative, original"
+          "english": "creative, original |(vi) sáng tạo, độc đáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "創造する（そうぞうする）",
         "meaning": {
-          "english": "create"
+          "english": "create |(vi) sáng tạo, tạo ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "創作する（そうさくする）",
         "meaning": {
-          "english": "create, write a novel"
+          "english": "create, write a novel |(vi) sáng tác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "創立する（そうりつする）",
         "meaning": {
-          "english": "establish, found"
+          "english": "establish, found |(vi) thành lập, sáng lập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "創刊する（そうかんする）",
         "meaning": {
-          "english": "launching (a magazine)"
+          "english": "launching (a magazine) |(vi) phát hành số đầu tiên, sáng lập (tạp chí)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "創業する（そうぎょうする）",
         "meaning": {
-          "english": "establish (a company)"
+          "english": "establish (a company) |(vi) khởi nghiệp, sáng lập (công ty)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_j.opus",
@@ -224,7 +224,7 @@
     "kanji": {
       "character": "創",
       "meaning": {
-        "english": "create"
+        "english": "create |(vi) sáng tạo, tạo ra"
       },
       "strokes": {
         "count": 12,
@@ -286,7 +286,7 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, kiếm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -307,7 +307,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "741",
     "strokeCount": 12,
-    "meaning": "genesis, wound, injury, hurt, start, originate",
+    "meaning": "genesis, wound, injury, hurt, start, originate |(vi) khởi nguyên, vết thương, tổn thương, bắt đầu, sáng lập |(hv) Sáng",
     "kunyomi": [
       "つく.る",
       "はじ.める",
@@ -322,49 +322,49 @@
       {
         "example": "創価学会",
         "reading": "ソウカガッカイ",
-        "meaning": "Soka Gakkai (lay organization based on Nichiren Buddhism)"
+        "meaning": "Soka Gakkai (lay organization based on Nichiren Buddhism) |(vi) Sáng Giá Học Hội (tổ chức Phật giáo Nhật Liên)"
       },
       {
         "example": "創意",
         "reading": "ソウイ",
-        "meaning": "original idea, originality"
+        "meaning": "original idea, originality |(vi) ý tưởng sáng tạo, tính độc đáo"
       },
       {
         "example": "独創",
         "reading": "ドクソウ",
-        "meaning": "originality"
+        "meaning": "originality |(vi) tính độc đáo, sáng tạo riêng"
       },
       {
         "example": "草創",
         "reading": "ソウソウ",
-        "meaning": "beginning, inauguration"
+        "meaning": "beginning, inauguration |(vi) khởi đầu, sáng lập"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "作る",
         "reading": "つくる",
-        "meaning": "to make, to produce, to manufacture, to build, to construct, to prepare (food), to brew (alcohol), to raise, to grow, to cultivate, to train, to till, to draw up (a document), to make out, to prepare, to write, to create (an artistic work, etc.), to compose, to coin (a phrase), to organize, to organise, to establish, to found, to have (a child), to make up (one's face, etc.), to fabricate (an excuse, etc.), to give a (false) appearance, to feign (a smile, etc.), to put on a show of emotion, to form (a line, etc.), to set (a record), to commit (a sin, etc.)"
+        "meaning": "to make, to produce, to manufacture, to build, to construct, to prepare (food), to brew (alcohol), to raise, to grow, to cultivate, to train, to till, to draw up (a document), to make out, to prepare, to write, to create (an artistic work, etc.), to compose, to coin (a phrase), to organize, to organise, to establish, to found, to have (a child), to make up (one's face, etc.), to fabricate (an excuse, etc.), to give a (false) appearance, to feign (a smile, etc.), to put on a show of emotion, to form (a line, etc.), to set (a record), to commit (a sin, etc.) |(vi) làm, chế tạo, xây dựng, sáng tác, thành lập, tạo ra"
       },
       {
         "example": "始める",
         "reading": "はじめる",
-        "meaning": "to start, to begin, to commence, to initiate, to originate, to start up (a business, society, etc.), to open (e.g. a store), to establish, to start ..., to begin to ..."
+        "meaning": "to start, to begin, to commence, to initiate, to originate, to start up (a business, society, etc.), to open (e.g. a store), to establish, to start ..., to begin to ... |(vi) bắt đầu, khởi đầu, thành lập"
       },
       {
         "example": "傷",
         "reading": "きず",
-        "meaning": "wound, injury, cut, gash, bruise, scratch, scrape, scar, chip, crack, scratch, nick, flaw, defect, weakness, weak point, stain (on one's reputation), disgrace, dishonor, dishonour, (emotional) hurt, hurt feelings"
+        "meaning": "wound, injury, cut, gash, bruise, scratch, scrape, scar, chip, crack, scratch, nick, flaw, defect, weakness, weak point, stain (on one's reputation), disgrace, dishonor, dishonour, (emotional) hurt, hurt feelings |(vi) vết thương, vết cắt, vết trầy, sẹo, khuyết điểm, tổn thương (tình cảm)"
       },
       {
         "example": "古傷",
         "reading": "ふるきず",
-        "meaning": "old wound, scar, unpleasant past experience, painful memory, past misdeed"
+        "meaning": "old wound, scar, unpleasant past experience, painful memory, past misdeed |(vi) vết thương cũ, ký ức đau buồn, lỗi lầm quá khứ"
       },
       {
         "example": "手傷",
         "reading": "てきず",
-        "meaning": "wound (suffered in a fight)"
+        "meaning": "wound (suffered in a fight) |(vi) vết thương (do đánh nhau)"
       }
     ],
     "radical": {
@@ -372,7 +372,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "一",

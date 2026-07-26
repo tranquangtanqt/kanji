@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "dry up",
+    "meaning": "dry up |(vi) khô, làm khô",
     "kstroke": 17,
     "examples": [
       {
         "japanese": "乾燥機（かんそうき）",
         "meaning": {
-          "english": "dryer, drying machine"
+          "english": "dryer, drying machine |(vi) máy sấy, máy làm khô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mumikan)sou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "焦燥感（しょうそうかん）",
         "meaning": {
-          "english": "impatience, uneasiness"
+          "english": "impatience, uneasiness |(vi) cảm giác nôn nóng, bồn chồn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mumikan)sou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "無味乾燥な（むみかんそうな）",
         "meaning": {
-          "english": "dull and uninteresting, vapid"
+          "english": "dull and uninteresting, vapid |(vi) khô khan, nhạt nhẽo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mumikan)sou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "乾燥する（かんそうする）",
         "meaning": {
-          "english": "be dry, become dry [v.i.]"
+          "english": "be dry, become dry [v.i.] |(vi) khô đi, trở nên khô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mumikan)sou_06_d.opus",
@@ -142,7 +142,7 @@
     "kanji": {
       "character": "燥",
       "meaning": {
-        "english": "dry up"
+        "english": "dry up |(vi) khô, làm khô"
       },
       "strokes": {
         "count": 17,
@@ -214,7 +214,7 @@
         "romaji": "hihen"
       },
       "meaning": {
-        "english": "fire"
+        "english": "fire |(vi) Hỏa (lửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hihen-fire0.svg",
@@ -235,7 +235,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1819",
     "strokeCount": 17,
-    "meaning": "parch, dry up",
+    "meaning": "parch, dry up |(vi) khô, làm khô, cháy khô |(hv) Táo",
     "kunyomi": [
       "はしゃ.ぐ"
     ],
@@ -246,19 +246,19 @@
       {
         "example": "焦燥",
         "reading": "ショウソウ",
-        "meaning": "impatience, irritation, frustration, fretfulness"
+        "meaning": "impatience, irritation, frustration, fretfulness |(vi) nôn nóng, bồn chồn, bức bối"
       },
       {
         "example": "高燥",
         "reading": "コウソウ",
-        "meaning": "high and dry"
+        "meaning": "high and dry |(vi) cao ráo, khô ráo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "燥ぐ",
         "reading": "はしゃぐ",
-        "meaning": "to make merry, to frolic, to be in high spirits"
+        "meaning": "to make merry, to frolic, to be in high spirits |(vi) vui đùa, náo nhiệt, phấn khích"
       }
     ],
     "radical": {
@@ -266,7 +266,7 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": "fire |(vi) Hỏa (lửa)"
     },
     "parts": [
       "口",

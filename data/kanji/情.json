@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "nasa, nasake",
-    "meaning": "emotion, actual conditions",
+    "meaning": "emotion, actual conditions |(vi) cảm xúc, tình hình thực tế",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "情（じょう）",
         "meaning": {
-          "english": "feelings"
+          "english": "feelings |(vi) cảm xúc, tình cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nasa(ke)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "感情（かんじょう）",
         "meaning": {
-          "english": "emotion(s)"
+          "english": "emotion(s) |(vi) cảm xúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nasa(ke)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "愛情（あいじょう）",
         "meaning": {
-          "english": "love [n.]"
+          "english": "love [n.] |(vi) tình yêu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nasa(ke)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "友情（ゆうじょう）",
         "meaning": {
-          "english": "friendship"
+          "english": "friendship |(vi) tình bạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nasa(ke)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "表情（ひょうじょう）",
         "meaning": {
-          "english": "facial expression"
+          "english": "facial expression |(vi) biểu cảm khuôn mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nasa(ke)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "事情（じじょう）",
         "meaning": {
-          "english": "circumstances"
+          "english": "circumstances |(vi) hoàn cảnh, tình huống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nasa(ke)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "情報（じょうほう）",
         "meaning": {
-          "english": "information"
+          "english": "information |(vi) thông tin"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nasa(ke)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "強情な（ごうじょうな）",
         "meaning": {
-          "english": "stubborn"
+          "english": "stubborn |(vi) cứng đầu, ương ngạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nasa(ke)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "同情する（どうじょうする）",
         "meaning": {
-          "english": "sympathize"
+          "english": "sympathize |(vi) thông cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nasa(ke)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "風情（ふぜい）",
         "meaning": {
-          "english": "taste, appearance"
+          "english": "taste, appearance |(vi) phong vị, dáng vẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nasa(ke)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "情け（なさけ）",
         "meaning": {
-          "english": "sympathy, compassion"
+          "english": "sympathy, compassion |(vi) thông cảm, lòng trắc ẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nasa(ke)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "情けない（なさけない）",
         "meaning": {
-          "english": "miserable, shameful"
+          "english": "miserable, shameful |(vi) thảm hại, đáng xấu hổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nasa(ke)_06_l.opus",
@@ -303,7 +303,7 @@
     "kanji": {
       "character": "情",
       "meaning": {
-        "english": "emotion, actual conditions"
+        "english": "emotion, actual conditions |(vi) cảm xúc, tình hình thực tế"
       },
       "strokes": {
         "count": 11,
@@ -363,7 +363,7 @@
         "romaji": "risshinben"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (trái tim, tâm trí)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/risshinben0.svg",
@@ -384,7 +384,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "235",
     "strokeCount": 11,
-    "meaning": "feelings, emotion, passion, sympathy, circumstances, facts",
+    "meaning": "feelings, emotion, passion, sympathy, circumstances, facts |(vi) cảm xúc, tình cảm, đam mê, thông cảm, hoàn cảnh, sự thật |(hv) Tình",
     "kunyomi": [
       "なさ.け"
     ],
@@ -396,49 +396,49 @@
       {
         "example": "情",
         "reading": "ジョウ",
-        "meaning": "feelings, emotion, sentiment, compassion, sympathy, passion, affection, love, the way things really are, the actual situation"
+        "meaning": "feelings, emotion, sentiment, compassion, sympathy, passion, affection, love, the way things really are, the actual situation |(vi) cảm xúc, tình cảm, tâm tình, lòng trắc ẩn, thông cảm, đam mê, yêu thương, tình yêu, thực trạng, tình hình thực tế"
       },
       {
         "example": "情感",
         "reading": "ジョウカン",
-        "meaning": "feeling, sensitivity, emotion"
+        "meaning": "feeling, sensitivity, emotion |(vi) cảm giác, sự nhạy cảm, cảm xúc"
       },
       {
         "example": "風情",
         "reading": "フゼイ",
-        "meaning": "taste, elegance, charm, appearance, air, the likes of ..., lowly people such as ..."
+        "meaning": "taste, elegance, charm, appearance, air, the likes of ..., lowly people such as ... |(vi) phong vị, sự thanh lịch, sức hấp dẫn, dáng vẻ, khí chất, những kẻ như..., hạng người thấp kém như..."
       },
       {
         "example": "内情",
         "reading": "ナイジョウ",
-        "meaning": "internal conditions, true state of affairs"
+        "meaning": "internal conditions, true state of affairs |(vi) tình hình nội bộ, thực trạng thật sự"
       },
       {
         "example": "傾城",
         "reading": "ケイセイ",
-        "meaning": "beauty, siren, courtesan, prostitute"
+        "meaning": "beauty, siren, courtesan, prostitute |(vi) người đẹp, hồng nhan, kỹ nữ, gái mại dâm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "情け",
         "reading": "なさけ",
-        "meaning": "pity, sympathy, compassion, mercy, affection, love"
+        "meaning": "pity, sympathy, compassion, mercy, affection, love |(vi) lòng thương, thông cảm, trắc ẩn, lòng nhân từ, tình cảm, tình yêu"
       },
       {
         "example": "情けない",
         "reading": "なさけない",
-        "meaning": "miserable, pitiable, shameful, deplorable, pathetic"
+        "meaning": "miserable, pitiable, shameful, deplorable, pathetic |(vi) thảm hại, đáng thương, đáng xấu hổ, đáng trách, tội nghiệp"
       },
       {
         "example": "恋情",
         "reading": "れんじょう",
-        "meaning": "love, attachment, lovesickness"
+        "meaning": "love, attachment, lovesickness |(vi) tình yêu, sự quyến luyến, tương tư"
       },
       {
         "example": "武士の情け",
         "reading": "ぶしのなさけ",
-        "meaning": "samurai's compassion, samurai-like mercy"
+        "meaning": "samurai's compassion, samurai-like mercy |(vi) lòng nhân từ của võ sĩ, sự khoan dung kiểu samurai"
       }
     ],
     "radical": {
@@ -447,7 +447,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim, tâm trí)"
     },
     "parts": [
       "二",

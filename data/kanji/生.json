@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "i, ikiru, u, umareru, umu, o, ha, haeru, hayasu, nama, ki",
-    "meaning": "life, be born, student",
+    "meaning": "life, be born, student |(vi) sự sống, sinh ra, học sinh",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "学生（がくせい）",
         "meaning": {
-          "english": "student"
+          "english": "student |(vi) học sinh, sinh viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "先生（せんせい）",
         "meaning": {
-          "english": "teacher, master, doctor"
+          "english": "teacher, master, doctor |(vi) giáo viên, thầy, bác sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "一生（いっしょう）",
         "meaning": {
-          "english": "one's whole life"
+          "english": "one's whole life |(vi) cả đời, cả cuộc đời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "誕生日（たんじょうび）",
         "meaning": {
-          "english": "birthday"
+          "english": "birthday |(vi) sinh nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "生きる（いきる）",
         "meaning": {
-          "english": "live"
+          "english": "live |(vi) sống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "生まれる（うまれる）",
         "meaning": {
-          "english": "be born"
+          "english": "be born |(vi) được sinh ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "生い立ち（おいたち）",
         "meaning": {
-          "english": "upbringing, background"
+          "english": "upbringing, background |(vi) sự trưởng thành, hoàn cảnh xuất thân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "生える（はえる）",
         "meaning": {
-          "english": "grow [v.i.]"
+          "english": "grow [v.i.] |(vi) mọc, mọc lên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "生やす（はやす）",
         "meaning": {
-          "english": "grow [v.t.]"
+          "english": "grow [v.t.] |(vi) để mọc, nuôi (râu, tóc)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "生卵（なまたまご）",
         "meaning": {
-          "english": "raw egg"
+          "english": "raw egg |(vi) trứng sống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "生地（きじ）",
         "meaning": {
-          "english": "cloth"
+          "english": "cloth |(vi) vải, chất liệu vải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_k.opus",
@@ -340,7 +340,7 @@
     "kanji": {
       "character": "生",
       "meaning": {
-        "english": "life, be born, student"
+        "english": "life, be born, student |(vi) sự sống, sinh ra, học sinh"
       },
       "strokes": {
         "count": 5,
@@ -388,7 +388,7 @@
         "romaji": "umareru"
       },
       "meaning": {
-        "english": "birth, to be born, live"
+        "english": "birth, to be born, live |(vi) Sinh (sinh ra, sống)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/umareru0.svg",
@@ -409,7 +409,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "29",
     "strokeCount": 5,
-    "meaning": "life, genuine, birth",
+    "meaning": "life, genuine, birth |(vi) sống, chân thật, sinh ra |(hv) Sinh",
     "kunyomi": [
       "い.きる",
       "い.かす",
@@ -438,174 +438,174 @@
       {
         "example": "生",
         "reading": "セイ",
-        "meaning": "life, living, I, me, myself, student"
+        "meaning": "life, living, I, me, myself, student |(vi) cuộc sống, sự sống, tôi, bản thân, học sinh"
       },
       {
         "example": "生育",
         "reading": "セイイク",
-        "meaning": "birth and growth, giving birth and raising, development, breeding"
+        "meaning": "birth and growth, giving birth and raising, development, breeding |(vi) sinh trưởng, sinh và nuôi dưỡng, phát triển, nhân giống"
       },
       {
         "example": "回生",
         "reading": "カイセイ",
-        "meaning": "resurrection, resuscitation, coming back to life, regeneration, nth-year university student"
+        "meaning": "resurrection, resuscitation, coming back to life, regeneration, nth-year university student |(vi) sự hồi sinh, sự phục hồi, trở lại sự sống, tái sinh, sinh viên năm thứ (n) đại học"
       },
       {
         "example": "公衆衛生",
         "reading": "コウシュウエイセイ",
-        "meaning": "public health, public hygiene, sanitation"
+        "meaning": "public health, public hygiene, sanitation |(vi) y tế công cộng, vệ sinh công cộng, vệ sinh"
       },
       {
         "example": "生",
         "reading": "セイ",
-        "meaning": "life, living, I, me, myself, student"
+        "meaning": "life, living, I, me, myself, student |(vi) cuộc sống, sự sống, tôi, bản thân, học sinh"
       },
       {
         "example": "生家",
         "reading": "セイカ",
-        "meaning": "house where one was born, one's parents' house"
+        "meaning": "house where one was born, one's parents' house |(vi) nhà nơi mình sinh ra, nhà cha mẹ"
       },
       {
         "example": "殺生",
         "reading": "セッショウ",
-        "meaning": "killing, destruction of life, cruel, heartless, callous, brutal"
+        "meaning": "killing, destruction of life, cruel, heartless, callous, brutal |(vi) giết hại, hủy diệt sự sống, tàn nhẫn, vô tâm, nhẫn tâm, độc ác"
       },
       {
         "example": "死生",
         "reading": "シセイ",
-        "meaning": "life and death"
+        "meaning": "life and death |(vi) sống và chết"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "生きる",
         "reading": "いきる",
-        "meaning": "to live, to exist, to make a living, to subsist, to be in effect, to be in use, to function, to come to life, to be enlivened, to be safe (in baseball, go, etc.)"
+        "meaning": "to live, to exist, to make a living, to subsist, to be in effect, to be in use, to function, to come to life, to be enlivened, to be safe (in baseball, go, etc.) |(vi) sống, tồn tại, mưu sinh, kiếm sống, có hiệu lực, được sử dụng, hoạt động, hồi sinh, tràn đầy sức sống, an toàn (trong bóng chày, cờ vây...)"
       },
       {
         "example": "生きる糧",
         "reading": "いきるかて",
-        "meaning": "source of vitality, life sustenance"
+        "meaning": "source of vitality, life sustenance |(vi) nguồn sống, lương thực nuôi sống"
       },
       {
         "example": "生かす",
         "reading": "いかす",
-        "meaning": "to make (the best) use of, to put to good use, to leverage (skills, attributes, experience, etc.), to capitalise on (experience, etc.), to let live, to keep alive, to revive, to resuscitate, to bring back to life, to restore (a deleted passage; in proofreading)"
+        "meaning": "to make (the best) use of, to put to good use, to leverage (skills, attributes, experience, etc.), to capitalise on (experience, etc.), to let live, to keep alive, to revive, to resuscitate, to bring back to life, to restore (a deleted passage; in proofreading) |(vi) tận dụng (tốt nhất), sử dụng hiệu quả, phát huy (kỹ năng, đặc điểm, kinh nghiệm...), tận dụng (kinh nghiệm...), để cho sống, giữ cho sống, hồi sinh, cứu sống, khôi phục (đoạn bị xóa, khi hiệu đính)"
       },
       {
         "example": "生ける",
         "reading": "いける",
-        "meaning": "to arrange (flowers), to plant, living, live"
+        "meaning": "to arrange (flowers), to plant, living, live |(vi) cắm (hoa), trồng, sống, sống động"
       },
       {
         "example": "生ける屍",
         "reading": "いけるしかばね",
-        "meaning": "living corpse"
+        "meaning": "living corpse |(vi) xác sống, người sống như xác chết"
       },
       {
         "example": "生まれる",
         "reading": "うまれる",
-        "meaning": "to be born"
+        "meaning": "to be born |(vi) được sinh ra"
       },
       {
         "example": "生まれる",
         "reading": "うまれる",
-        "meaning": "to be born"
+        "meaning": "to be born |(vi) được sinh ra"
       },
       {
         "example": "生まれ",
         "reading": "うまれ",
-        "meaning": "birth, birthplace, born in (country, month, imperial era, zodiac year, etc.)"
+        "meaning": "birth, birthplace, born in (country, month, imperial era, zodiac year, etc.) |(vi) sự ra đời, nơi sinh, sinh ra tại (quốc gia, tháng, niên hiệu, năm con giáp...)"
       },
       {
         "example": "生まれつき",
         "reading": "うまれつき",
-        "meaning": "by nature, by birth, naturally, natural, innate"
+        "meaning": "by nature, by birth, naturally, natural, innate |(vi) bẩm sinh, từ khi sinh ra, tự nhiên, thiên phú, vốn có"
       },
       {
         "example": "生まれ",
         "reading": "うまれ",
-        "meaning": "birth, birthplace, born in (country, month, imperial era, zodiac year, etc.)"
+        "meaning": "birth, birthplace, born in (country, month, imperial era, zodiac year, etc.) |(vi) sự ra đời, nơi sinh, sinh ra tại (quốc gia, tháng, niên hiệu, năm con giáp...)"
       },
       {
         "example": "生まれつき",
         "reading": "うまれつき",
-        "meaning": "by nature, by birth, naturally, natural, innate"
+        "meaning": "by nature, by birth, naturally, natural, innate |(vi) bẩm sinh, từ khi sinh ra, tự nhiên, thiên phú, vốn có"
       },
       {
         "example": "生む",
         "reading": "うむ",
-        "meaning": "to give birth, to bear (child), to lay (eggs), to produce, to yield, to give rise to, to deliver"
+        "meaning": "to give birth, to bear (child), to lay (eggs), to produce, to yield, to give rise to, to deliver |(vi) sinh con, đẻ (con), đẻ (trứng), sản xuất, tạo ra, sinh ra, hạ sinh"
       },
       {
         "example": "生う",
         "reading": "おう",
-        "meaning": "to grow (of plants), to spring up"
+        "meaning": "to grow (of plants), to spring up |(vi) mọc lên (của cây cối), mọc lên"
       },
       {
         "example": "生える",
         "reading": "はえる",
-        "meaning": "to grow, to spring up, to sprout, to cut (teeth)"
+        "meaning": "to grow, to spring up, to sprout, to cut (teeth) |(vi) mọc, mọc lên, nảy mầm, mọc (răng)"
       },
       {
         "example": "生やす",
         "reading": "はやす",
-        "meaning": "to grow, to cultivate, to let grow (e.g. weeds)"
+        "meaning": "to grow, to cultivate, to let grow (e.g. weeds) |(vi) trồng, nuôi trồng, để mọc (ví dụ cỏ dại)"
       },
       {
         "example": "生",
         "reading": "き",
-        "meaning": "pure, undiluted, raw, crude"
+        "meaning": "pure, undiluted, raw, crude |(vi) thuần khiết, nguyên chất, thô, chưa qua chế biến"
       },
       {
         "example": "生地",
         "reading": "きじ",
-        "meaning": "cloth, fabric, material, texture, dough, batter, inherent quality, one's true character, one's true colours, unglazed pottery, skin with no make-up, uncoated metal"
+        "meaning": "cloth, fabric, material, texture, dough, batter, inherent quality, one's true character, one's true colours, unglazed pottery, skin with no make-up, uncoated metal |(vi) vải, chất liệu, nguyên liệu, kết cấu, bột nhào, bột bánh, bản chất vốn có, bản tính thật, màu sắc thật, gốm chưa tráng men, da mặt không trang điểm, kim loại chưa phủ lớp bảo vệ"
       },
       {
         "example": "死に生き",
         "reading": "しにいき",
-        "meaning": "death and life, death or life, death"
+        "meaning": "death and life, death or life, death |(vi) sống chết, sự sống hay cái chết, cái chết"
       },
       {
         "example": "生",
         "reading": "なま",
-        "meaning": "raw, uncooked, fresh, natural, as it is, unedited, unprocessed, unprotected (sex), raw, bareback, live (i.e. not recorded), inexperienced, unpolished, green, crude, impudence, sauciness, unpasteurized beer, draft beer, draught beer, blank (e.g. disk), unused, just a little, somehow, vaguely, partially, somewhat, half-, semi-, insufficient, incomplete, half-baked, half-hearted, perfunctory, cash, tipsiness"
+        "meaning": "raw, uncooked, fresh, natural, as it is, unedited, unprocessed, unprotected (sex), raw, bareback, live (i.e. not recorded), inexperienced, unpolished, green, crude, impudence, sauciness, unpasteurized beer, draft beer, draught beer, blank (e.g. disk), unused, just a little, somehow, vaguely, partially, somewhat, half-, semi-, insufficient, incomplete, half-baked, half-hearted, perfunctory, cash, tipsiness |(vi) sống, chưa nấu chín, tươi, tự nhiên, nguyên trạng, chưa biên tập, chưa qua xử lý, quan hệ không bảo vệ, trần trụi, trực tiếp (không thu âm trước), thiếu kinh nghiệm, chưa được mài giũa, non nớt, thô, hỗn xược, xấc láo, bia tươi chưa tiệt trùng, để trống (ví dụ đĩa), chưa dùng, chỉ một chút, phần nào đó, mơ hồ, một phần, hơi hơi, bán-, nửa-, không đủ, chưa hoàn chỉnh, làm nửa vời, thiếu nhiệt tình, qua loa, tiền mặt, hơi say"
       },
       {
         "example": "生り",
         "reading": "なまり",
-        "meaning": "boiled and half-dried bonito"
+        "meaning": "boiled and half-dried bonito |(vi) cá ngừ luộc phơi khô nửa chừng"
       },
       {
         "example": "お生",
         "reading": "おなま",
-        "meaning": "impudence, sauciness"
+        "meaning": "impudence, sauciness |(vi) hỗn xược, xấc láo"
       },
       {
         "example": "現ナマ",
         "reading": "げんナマ",
-        "meaning": "cold cash, hard cash"
+        "meaning": "cold cash, hard cash |(vi) tiền mặt, tiền mặt trong tay"
       },
       {
         "example": "生る",
         "reading": "なる",
-        "meaning": "to bear fruit"
+        "meaning": "to bear fruit |(vi) kết trái, ra quả"
       },
       {
         "example": "生す",
         "reading": "なす",
-        "meaning": "to have a child"
+        "meaning": "to have a child |(vi) có con, sinh con"
       },
       {
         "example": "生す",
         "reading": "むす",
-        "meaning": "to grow (of moss, etc.)"
+        "meaning": "to grow (of moss, etc.) |(vi) mọc lên (của rêu...)"
       }
     ],
     "radical": {
       "symbol": "生",
-      "meaning": "life"
+      "meaning": "life |(vi) Sinh (sinh ra, sống)"
     },
     "parts": [
       "生"

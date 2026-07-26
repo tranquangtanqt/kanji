@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "proclaim, announce",
+    "meaning": "proclaim, announce |(vi) tuyên bố, thông báo",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "宣教師（せんきょうし）",
         "meaning": {
-          "english": "missionary"
+          "english": "missionary |(vi) nhà truyền giáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen(den)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "宣戦布告（せんせんふこく）",
         "meaning": {
-          "english": "proclamation of war"
+          "english": "proclamation of war |(vi) tuyên chiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen(den)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "独立宣言（どくりつせんげん）",
         "meaning": {
-          "english": "Declaration of Independence"
+          "english": "Declaration of Independence |(vi) Tuyên ngôn Độc lập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen(den)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "宣言する（せんげんする）",
         "meaning": {
-          "english": "declare, proclaim, announce"
+          "english": "declare, proclaim, announce |(vi) tuyên bố, công bố, thông báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen(den)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "宣伝する（せんでんする）",
         "meaning": {
-          "english": "publicize, propagandize"
+          "english": "publicize, propagandize |(vi) quảng bá, tuyên truyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen(den)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "宣告する（せんこくする）",
         "meaning": {
-          "english": "pronounce, condemn"
+          "english": "pronounce, condemn |(vi) tuyên án, kết án"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen(den)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "宣誓する（せんせいする）",
         "meaning": {
-          "english": "swear and oath"
+          "english": "swear and oath |(vi) tuyên thệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen(den)_06_g.opus",
@@ -179,7 +179,7 @@
     "kanji": {
       "character": "宣",
       "meaning": {
-        "english": "proclaim, announce"
+        "english": "proclaim, announce |(vi) tuyên bố, thông báo"
       },
       "strokes": {
         "count": 9,
@@ -235,7 +235,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -256,7 +256,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "695",
     "strokeCount": 9,
-    "meaning": "proclaim, say, announce",
+    "meaning": "proclaim, say, announce |(vi) tuyên bố, nói, thông báo |(hv) Tuyên",
     "kunyomi": [
       "のたま.う"
     ],
@@ -267,39 +267,39 @@
       {
         "example": "宣",
         "reading": "セン",
-        "meaning": "imperial order, imperial decree"
+        "meaning": "imperial order, imperial decree |(vi) sắc lệnh của vua, chiếu chỉ"
       },
       {
         "example": "宣教師",
         "reading": "センキョウシ",
-        "meaning": "missionary"
+        "meaning": "missionary |(vi) nhà truyền giáo"
       },
       {
         "example": "託宣",
         "reading": "タクセン",
-        "meaning": "oracle, revelation, divine message"
+        "meaning": "oracle, revelation, divine message |(vi) lời sấm truyền, khải thị, thông điệp thần thánh"
       },
       {
         "example": "街宣",
         "reading": "ガイセン",
-        "meaning": "carrying out (political) propaganda activity on the streets"
+        "meaning": "carrying out (political) propaganda activity on the streets |(vi) hoạt động tuyên truyền (chính trị) trên đường phố"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "宣ふ",
         "reading": "のたまう",
-        "meaning": "to say"
+        "meaning": "to say |(vi) nói (kính ngữ cổ)"
       },
       {
         "example": "宣う",
         "reading": "のたまう",
-        "meaning": "to say, to be pleased to say"
+        "meaning": "to say, to be pleased to say |(vi) nói, vui lòng nói (kính ngữ cổ)"
       }
     ],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà)"
     },
     "parts": [
       "一",

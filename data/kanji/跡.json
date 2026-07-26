@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 2,
     "kunyomi": "ato",
-    "meaning": "trace, mark, remains, ruins, tracks",
+    "meaning": "trace, mark, remains, ruins, tracks |(vi) dấu vết, di tích, tàn tích",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "足跡（そくせき/あしあと）",
         "meaning": {
-          "english": "footprints"
+          "english": "footprints |(vi) dấu chân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-ato_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "奇跡（きせき）",
         "meaning": {
-          "english": "miracle, wonder, marvel"
+          "english": "miracle, wonder, marvel |(vi) phép lạ, điều kỳ diệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-ato_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "筆跡（ひっせき）",
         "meaning": {
-          "english": "handwriting"
+          "english": "handwriting |(vi) nét chữ, bút tích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-ato_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "遺跡（いせき）",
         "meaning": {
-          "english": "historic ruins"
+          "english": "historic ruins |(vi) di tích lịch sử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-ato_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "軌跡（きせき）",
         "meaning": {
-          "english": "locus, tracks"
+          "english": "locus, tracks |(vi) quỹ đạo, dấu vết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-ato_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "追跡する（ついせきする）",
         "meaning": {
-          "english": "pursue"
+          "english": "pursue |(vi) truy đuổi, theo dõi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-ato_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "跡（あと）",
         "meaning": {
-          "english": "trace, tracks, mark, remains"
+          "english": "trace, tracks, mark, remains |(vi) dấu vết, tàn tích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-ato_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "跡形（あとかた）",
         "meaning": {
-          "english": "trace, vestige, evidence"
+          "english": "trace, vestige, evidence |(vi) dấu vết, bằng chứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-ato_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "傷跡（きずあと）",
         "meaning": {
-          "english": "scar, cicatrix"
+          "english": "scar, cicatrix |(vi) vết sẹo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-ato_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "城跡（しろあと）",
         "meaning": {
-          "english": "castle site, ruins of a castle"
+          "english": "castle site, ruins of a castle |(vi) di tích thành cổ, tàn tích lâu đài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-ato_06_j.opus",
@@ -214,7 +214,7 @@
     "kanji": {
       "character": "跡",
       "meaning": {
-        "english": "trace, mark, remains, ruins, tracks"
+        "english": "trace, mark, remains, ruins, tracks |(vi) dấu vết, di tích, tàn tích"
       },
       "strokes": {
         "count": 13,
@@ -278,7 +278,7 @@
         "romaji": "ashihen"
       },
       "meaning": {
-        "english": "foot, leg"
+        "english": "foot, leg |(vi) Túc (chân, bàn chân)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ashihen0.svg",
@@ -299,7 +299,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "953",
     "strokeCount": 13,
-    "meaning": "tracks, mark, print, impression",
+    "meaning": "tracks, mark, print, impression |(vi) dấu vết, dấu ấn, dấu in |(hv) Tích",
     "kunyomi": [
       "あと"
     ],
@@ -310,39 +310,39 @@
       {
         "example": "跡",
         "reading": "セキ",
-        "meaning": "trace"
+        "meaning": "trace |(vi) dấu vết"
       },
       {
         "example": "史跡",
         "reading": "シセキ",
-        "meaning": "historic landmark, historic site, historic remains"
+        "meaning": "historic landmark, historic site, historic remains |(vi) di tích lịch sử, thắng cảnh lịch sử"
       },
       {
         "example": "軌跡",
         "reading": "キセキ",
-        "meaning": "tire track, traces of a person or thing, path one has taken, locus"
+        "meaning": "tire track, traces of a person or thing, path one has taken, locus |(vi) vết bánh xe, dấu vết của người hay vật, quỹ đạo di chuyển"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "跡",
         "reading": "あと",
-        "meaning": "trace, tracks, mark, sign, site, remains, ruins, scar"
+        "meaning": "trace, tracks, mark, sign, site, remains, ruins, scar |(vi) dấu vết, di tích, tàn tích, vết sẹo"
       },
       {
         "example": "後始末",
         "reading": "あとしまつ",
-        "meaning": "settlement (of a matter), sorting out, winding up (affairs), dealing with the aftermath, cleaning up afterwards, tidying up (when finished)"
+        "meaning": "settlement (of a matter), sorting out, winding up (affairs), dealing with the aftermath, cleaning up afterwards, tidying up (when finished) |(vi) giải quyết xong việc, thu xếp ổn thỏa, xử lý hậu quả, dọn dẹp sau cùng"
       },
       {
         "example": "焼け跡",
         "reading": "やけあと",
-        "meaning": "ruins of a fire, fire-devastated area"
+        "meaning": "ruins of a fire, fire-devastated area |(vi) tàn tích sau vụ cháy, khu vực bị hỏa hoạn tàn phá"
       },
       {
         "example": "後々",
         "reading": "あとあと",
-        "meaning": "future, distant future"
+        "meaning": "future, distant future |(vi) tương lai, tương lai xa"
       }
     ],
     "radical": {
@@ -350,7 +350,7 @@
       "forms": [
         "⻊"
       ],
-      "meaning": "foot"
+      "meaning": "foot |(vi) Túc (chân)"
     },
     "parts": [
       "亠",

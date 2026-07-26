@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "mado",
-    "meaning": "window",
+    "meaning": "window |(vi) cửa sổ",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "車窓（しゃそう）",
         "meaning": {
-          "english": "car window"
+          "english": "car window |(vi) cửa sổ xe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mado_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "同窓会（どうそうかい）",
         "meaning": {
-          "english": "class reunion"
+          "english": "class reunion |(vi) họp mặt cựu học sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mado_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "窓（まど）",
         "meaning": {
-          "english": "window"
+          "english": "window |(vi) cửa sổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mado_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "窓口（まどぐち）",
         "meaning": {
-          "english": "ticket window"
+          "english": "ticket window |(vi) quầy vé, cửa bán vé"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mado_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "窓際（まどぎわ）",
         "meaning": {
-          "english": "(at the) window"
+          "english": "(at the) window |(vi) bên cửa sổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mado_06_e.opus",
@@ -192,7 +192,7 @@
     "kanji": {
       "character": "窓",
       "meaning": {
-        "english": "window"
+        "english": "window |(vi) cửa sổ"
       },
       "strokes": {
         "count": 11,
@@ -252,7 +252,7 @@
         "romaji": "anakanmuri"
       },
       "meaning": {
-        "english": "hole, cave"
+        "english": "hole, cave |(vi) Huyệt (hang, lỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/anakanmuri0.svg",
@@ -273,7 +273,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1186",
     "strokeCount": 11,
-    "meaning": "window, pane",
+    "meaning": "window, pane |(vi) cửa sổ, ô kính |(hv) Song",
     "kunyomi": [
       "まど",
       "てんまど",
@@ -287,54 +287,54 @@
       {
         "example": "窓外",
         "reading": "ソウガイ",
-        "meaning": "outside a window"
+        "meaning": "outside a window |(vi) bên ngoài cửa sổ"
       },
       {
         "example": "窓間壁",
         "reading": "ソウカンヘキ",
-        "meaning": "pier"
+        "meaning": "pier |(vi) trụ tường giữa các cửa sổ"
       },
       {
         "example": "同窓",
         "reading": "ドウソウ",
-        "meaning": "being a graduate of the same school, person who went to the same school, fellow alumnus"
+        "meaning": "being a graduate of the same school, person who went to the same school, fellow alumnus |(vi) học cùng trường, người học cùng trường, bạn học cũ"
       },
       {
         "example": "車窓",
         "reading": "シャソウ",
-        "meaning": "train window, car window"
+        "meaning": "train window, car window |(vi) cửa sổ tàu, cửa sổ xe"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "窓",
         "reading": "まど",
-        "meaning": "window"
+        "meaning": "window |(vi) cửa sổ"
       },
       {
         "example": "窓口",
         "reading": "まどぐち",
-        "meaning": "counter, window, teller window, ticket window, contact person, point of contact"
+        "meaning": "counter, window, teller window, ticket window, contact person, point of contact |(vi) quầy giao dịch, cửa sổ, quầy vé, người liên hệ, đầu mối liên lạc"
       },
       {
         "example": "引違い窓",
         "reading": "ひきちがいまど",
-        "meaning": "double sliding window"
+        "meaning": "double sliding window |(vi) cửa sổ trượt đôi"
       },
       {
         "example": "鎧窓",
         "reading": "よろいまど",
-        "meaning": "louvered window"
+        "meaning": "louvered window |(vi) cửa sổ chớp lật"
       },
       {
         "example": "回転窓",
         "reading": "かいてんまど",
-        "meaning": "pivoted window"
+        "meaning": "pivoted window |(vi) cửa sổ xoay"
       }
     ],
     "radical": {
       "symbol": "穴",
-      "meaning": "cave"
+      "meaning": "cave |(vi) Huyệt (hang, lỗ)"
     },
     "parts": [
       "儿",

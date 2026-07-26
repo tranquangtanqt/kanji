@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "oya, shita, shitashii",
-    "meaning": "parent, relatives, intimate",
+    "meaning": "parent, relatives, intimate |(vi) cha mẹ, họ hàng, thân mật",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "両親（りょうしん）",
         "meaning": {
-          "english": "parents"
+          "english": "parents |(vi) cha mẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shita(shii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "親戚（しんせき）",
         "meaning": {
-          "english": "relative"
+          "english": "relative |(vi) họ hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shita(shii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "親友（しんゆう）",
         "meaning": {
-          "english": "close friend"
+          "english": "close friend |(vi) bạn thân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shita(shii)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "親切な（しんせつな）",
         "meaning": {
-          "english": "kind"
+          "english": "kind |(vi) tử tế, thân thiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shita(shii)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "親（おや）",
         "meaning": {
-          "english": "parent"
+          "english": "parent |(vi) cha mẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shita(shii)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "母親（ははおや）",
         "meaning": {
-          "english": "mother"
+          "english": "mother |(vi) mẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shita(shii)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "父親（ちちおや）",
         "meaning": {
-          "english": "father"
+          "english": "father |(vi) cha"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shita(shii)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "親会社（おやがいしゃ）",
         "meaning": {
-          "english": "parent company"
+          "english": "parent company |(vi) công ty mẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shita(shii)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "親しい（したしい）",
         "meaning": {
-          "english": "close, familiar"
+          "english": "close, familiar |(vi) thân thiết, gần gũi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shita(shii)_06_i.opus",
@@ -290,7 +290,7 @@
     "kanji": {
       "character": "親",
       "meaning": {
-        "english": "parent, relatives, intimate"
+        "english": "parent, relatives, intimate |(vi) cha mẹ, họ hàng, thân mật"
       },
       "strokes": {
         "count": 16,
@@ -360,7 +360,7 @@
         "romaji": "miru"
       },
       "meaning": {
-        "english": "to see"
+        "english": "to see |(vi) Kiến (nhìn thấy)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/miru0.svg",
@@ -381,7 +381,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "406",
     "strokeCount": 16,
-    "meaning": "parent, intimacy, relative, familiarity, dealer (cards)",
+    "meaning": "parent, intimacy, relative, familiarity, dealer (cards) |(vi) cha mẹ, thân mật, họ hàng, sự thân thiết, nhà cái (bài bạc) |(hv) Thân",
     "kunyomi": [
       "おや",
       "おや-",
@@ -395,59 +395,59 @@
       {
         "example": "親",
         "reading": "シン",
-        "meaning": "intimacy, closeness, friendliness, close relative, pro- (e.g. pro-American)"
+        "meaning": "intimacy, closeness, friendliness, close relative, pro- (e.g. pro-American) |(vi) sự thân thiết, gần gũi, thân thiện, họ hàng gần, thân- (ví dụ thân Mỹ)"
       },
       {
         "example": "親衛",
         "reading": "シンエイ",
-        "meaning": "monarch's guards"
+        "meaning": "monarch's guards |(vi) cận vệ quân vương"
       },
       {
         "example": "懇親",
         "reading": "コンシン",
-        "meaning": "friendship, intimacy"
+        "meaning": "friendship, intimacy |(vi) tình bạn thân thiết, sự gần gũi"
       },
       {
         "example": "近親",
         "reading": "キンシン",
-        "meaning": "near relative"
+        "meaning": "near relative |(vi) họ hàng gần"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "親",
         "reading": "おや",
-        "meaning": "parent, parents, mother and father, dealer, banker, founder, inventor, (pet) owner, key, parent (organization), main, ancestor, forefather"
+        "meaning": "parent, parents, mother and father, dealer, banker, founder, inventor, (pet) owner, key, parent (organization), main, ancestor, forefather |(vi) cha mẹ, cha và mẹ, nhà cái, chủ ngân hàng, người sáng lập, người phát minh, chủ (thú cưng), then chốt, tổ chức mẹ, chính, tổ tiên"
       },
       {
         "example": "親方",
         "reading": "おやかた",
-        "meaning": "master, boss, chief, foreman, supervisor, stable master, craftsman, artisan, foster parent"
+        "meaning": "master, boss, chief, foreman, supervisor, stable master, craftsman, artisan, foster parent |(vi) chủ, sếp, trưởng nhóm, đốc công, giám sát, chủ chuồng ngựa (sumo), thợ thủ công, nghệ nhân, cha mẹ nuôi"
       },
       {
         "example": "生みの親",
         "reading": "うみのおや",
-        "meaning": "biological parent, founder, creator"
+        "meaning": "biological parent, founder, creator |(vi) cha mẹ ruột, người sáng lập, người tạo ra"
       },
       {
         "example": "里親",
         "reading": "さとおや",
-        "meaning": "foster parent, foster parents, (pet) caretaker"
+        "meaning": "foster parent, foster parents, (pet) caretaker |(vi) cha mẹ nuôi, người chăm sóc (thú cưng)"
       },
       {
         "example": "親しい",
         "reading": "したしい",
-        "meaning": "close (e.g. friend), familiar, friendly, intimate, familiar (e.g. story), well-known (to one), close (relatives), closely related"
+        "meaning": "close (e.g. friend), familiar, friendly, intimate, familiar (e.g. story), well-known (to one), close (relatives), closely related |(vi) thân thiết (bạn bè), gần gũi, thân thiện, quen thuộc (câu chuyện), được biết đến, họ hàng gần, có quan hệ mật thiết"
       },
       {
         "example": "親しむ",
         "reading": "したしむ",
-        "meaning": "to be intimate with, to befriend"
+        "meaning": "to be intimate with, to befriend |(vi) trở nên thân thiết, kết bạn"
       }
     ],
     "radical": {
       "symbol": "見",
-      "meaning": "see"
+      "meaning": "see |(vi) Kiến (nhìn thấy)"
     },
     "parts": [
       "亠",

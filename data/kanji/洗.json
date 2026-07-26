@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "arau, ara",
-    "meaning": "wash",
+    "meaning": "wash |(vi) rửa, giặt",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "洗顔する（せんがんする）",
         "meaning": {
-          "english": "wash one's face"
+          "english": "wash one's face |(vi) rửa mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-ara(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "洗髪する（せんぱつする）",
         "meaning": {
-          "english": "wash one's hair"
+          "english": "wash one's hair |(vi) gội đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-ara(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "洗練する（せんれんする）",
         "meaning": {
-          "english": "polish, refine"
+          "english": "polish, refine |(vi) trau chuốt, tinh luyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-ara(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "洗面所（せんめんじょ）",
         "meaning": {
-          "english": "washroom, bathroom"
+          "english": "washroom, bathroom |(vi) phòng rửa mặt, phòng tắm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-ara(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "洗濯機（せんたくき）",
         "meaning": {
-          "english": "washing machine"
+          "english": "washing machine |(vi) máy giặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-ara(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "洗剤（せんざい）",
         "meaning": {
-          "english": "detergent"
+          "english": "detergent |(vi) chất tẩy rửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-ara(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "洗う（あらう）",
         "meaning": {
-          "english": "wash"
+          "english": "wash |(vi) rửa, giặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-ara(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "お手洗い（おてあらい）",
         "meaning": {
-          "english": "restroom"
+          "english": "restroom |(vi) nhà vệ sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-ara(u)_06_h.opus",
@@ -239,7 +239,7 @@
     "kanji": {
       "character": "洗",
       "meaning": {
-        "english": "wash"
+        "english": "wash |(vi) rửa, giặt"
       },
       "strokes": {
         "count": 9,
@@ -295,7 +295,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -316,7 +316,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1168",
     "strokeCount": 9,
-    "meaning": "wash, inquire into, probe",
+    "meaning": "wash, inquire into, probe |(vi) rửa, giặt, tra hỏi, điều tra kỹ |(hv) Tẩy",
     "kunyomi": [
       "あら.う"
     ],
@@ -327,29 +327,29 @@
       {
         "example": "洗",
         "reading": "セン",
-        "meaning": "washing machine, (clothes) washer"
+        "meaning": "washing machine, (clothes) washer |(vi) máy giặt, người/máy rửa (quần áo)"
       },
       {
         "example": "洗剤",
         "reading": "センザイ",
-        "meaning": "detergent, cleanser, cleaning agent, washing material"
+        "meaning": "detergent, cleanser, cleaning agent, washing material |(vi) chất tẩy rửa, chất tẩy, hóa chất làm sạch, vật liệu giặt tẩy"
       },
       {
         "example": "水洗",
         "reading": "スイセン",
-        "meaning": "washing with water, rinsing, flushing"
+        "meaning": "washing with water, rinsing, flushing |(vi) rửa bằng nước, tráng rửa, xả nước"
       },
       {
         "example": "杯洗",
         "reading": "ハイセン",
-        "meaning": "small vessel or bowl in which sake cups are rinsed"
+        "meaning": "small vessel or bowl in which sake cups are rinsed |(vi) chén nhỏ dùng để tráng chén rượu sake"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "洗う",
         "reading": "あらう",
-        "meaning": "to wash, to cleanse, to rinse, to inquire into, to investigate, to purify (one's heart), to lave (e.g. shore), to wash over (e.g. deck), to sweep"
+        "meaning": "to wash, to cleanse, to rinse, to inquire into, to investigate, to purify (one's heart), to lave (e.g. shore), to wash over (e.g. deck), to sweep |(vi) rửa, làm sạch, tráng, tra hỏi, điều tra, thanh lọc (tâm hồn), rửa trôi (ví dụ bờ biển), quét qua (ví dụ boong tàu), quét dọn"
       }
     ],
     "radical": {
@@ -358,7 +358,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "ノ",

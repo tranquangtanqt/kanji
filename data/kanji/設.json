@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "mou, moukeru",
-    "meaning": "set up, establish",
+    "meaning": "set up, establish |(vi) thiết lập, xây dựng",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "設備（せつび）",
         "meaning": {
-          "english": "equipment, facilities"
+          "english": "equipment, facilities |(vi) thiết bị, cơ sở vật chất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ken)setsu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "施設（しせつ）",
         "meaning": {
-          "english": "institution, facility"
+          "english": "institution, facility |(vi) cơ sở, thiết chế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ken)setsu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "私設（しせつ）",
         "meaning": {
-          "english": "private"
+          "english": "private |(vi) tư nhân (thành lập)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ken)setsu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "設計する（せっけいする）",
         "meaning": {
-          "english": "plan, design"
+          "english": "plan, design |(vi) thiết kế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ken)setsu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "設定する（せっていする）",
         "meaning": {
-          "english": "establish, set up"
+          "english": "establish, set up |(vi) thiết lập, cài đặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ken)setsu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "設立する（せつりつする）",
         "meaning": {
-          "english": "establish, found, organize"
+          "english": "establish, found, organize |(vi) thành lập, sáng lập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ken)setsu_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "設置する（せっちする）",
         "meaning": {
-          "english": "establish, found"
+          "english": "establish, found |(vi) thiết lập, lắp đặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ken)setsu_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "創設する（そうせつする）",
         "meaning": {
-          "english": "establish, found"
+          "english": "establish, found |(vi) sáng lập, khai sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ken)setsu_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "開設する（かいせつする）",
         "meaning": {
-          "english": "establish, open"
+          "english": "establish, open |(vi) mở, thành lập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ken)setsu_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "建設する（けんせつする）",
         "meaning": {
-          "english": "build, establish, construct"
+          "english": "build, establish, construct |(vi) xây dựng, kiến thiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ken)setsu_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "設ける（もうける）",
         "meaning": {
-          "english": "create, establish"
+          "english": "create, establish |(vi) lập ra, thiết lập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ken)setsu_06_k.opus",
@@ -244,7 +244,7 @@
     "kanji": {
       "character": "設",
       "meaning": {
-        "english": "set up, establish"
+        "english": "set up, establish |(vi) thiết lập, xây dựng"
       },
       "strokes": {
         "count": 11,
@@ -304,7 +304,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -325,7 +325,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "145",
     "strokeCount": 11,
-    "meaning": "establishment, provision, prepare",
+    "meaning": "establishment, provision, prepare |(vi) thiết lập, chuẩn bị, dự phòng |(hv) Thiết",
     "kunyomi": [
       "もう.ける"
     ],
@@ -336,29 +336,29 @@
       {
         "example": "設問",
         "reading": "セツモン",
-        "meaning": "posing a question, question"
+        "meaning": "posing a question, question |(vi) đặt câu hỏi, câu hỏi"
       },
       {
         "example": "設備",
         "reading": "セツビ",
-        "meaning": "equipment, facilities, installation, accommodations, conveniences, arrangements"
+        "meaning": "equipment, facilities, installation, accommodations, conveniences, arrangements |(vi) thiết bị, cơ sở vật chất, tiện nghi, bố trí"
       },
       {
         "example": "公設",
         "reading": "コウセツ",
-        "meaning": "public (institution)"
+        "meaning": "public (institution) |(vi) công lập"
       },
       {
         "example": "併設",
         "reading": "ヘイセツ",
-        "meaning": "joint establishment (esp. schools of different levels or different courses of study), establishment as an annex (e.g. of a school), juxtaposition, placing side by side"
+        "meaning": "joint establishment (esp. schools of different levels or different courses of study), establishment as an annex (e.g. of a school), juxtaposition, placing side by side |(vi) thành lập kèm theo (trường/cơ sở), đặt song song, sáp nhập"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "設ける",
         "reading": "もうける",
-        "meaning": "to prepare, to provide, to set up, to establish, to organize, to lay down (rules), to make (an excuse)"
+        "meaning": "to prepare, to provide, to set up, to establish, to organize, to lay down (rules), to make (an excuse) |(vi) chuẩn bị, cung cấp, thiết lập, tổ chức, đặt ra (quy tắc), viện (lý do)"
       }
     ],
     "radical": {
@@ -366,7 +366,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "几",

@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 5,
     "kunyomi": "mu, musu, mureru, murasu",
-    "meaning": "steam, evaporate",
+    "meaning": "steam, evaporate |(vi) hấp, bốc hơi",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "蒸気（じょうき）",
         "meaning": {
-          "english": "steam, vapor"
+          "english": "steam, vapor |(vi) hơi nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "蒸発する（じょうはつする）",
         "meaning": {
-          "english": "evaporate"
+          "english": "evaporate |(vi) bốc hơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "蒸留する（じょうりゅうする）",
         "meaning": {
-          "english": "distill"
+          "english": "distill |(vi) chưng cất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "蒸す（むす）",
         "meaning": {
-          "english": "steam, be humid"
+          "english": "steam, be humid |(vi) hấp, oi bức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "蒸し器（むしき）",
         "meaning": {
-          "english": "steamer"
+          "english": "steamer |(vi) xửng hấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu(su)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "蒸し暑い（むしあつい）",
         "meaning": {
-          "english": "humid, sultry"
+          "english": "humid, sultry |(vi) oi bức, ngột ngạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu(su)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "蒸らす（むらす）",
         "meaning": {
-          "english": "steam, cook by steam [v.t.]"
+          "english": "steam, cook by steam [v.t.] |(vi) hấp chín, nấu bằng hơi nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu(su)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "蒸れる（むれる）",
         "meaning": {
-          "english": "be well steamed [v.i.]"
+          "english": "be well steamed [v.i.] |(vi) được hấp chín kỹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu(su)_06_h.opus",
@@ -192,7 +192,7 @@
     "kanji": {
       "character": "蒸",
       "meaning": {
-        "english": "steam, evaporate"
+        "english": "steam, evaporate |(vi) hấp, bốc hơi"
       },
       "strokes": {
         "count": 13,
@@ -256,7 +256,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -277,7 +277,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1552",
     "strokeCount": 13,
-    "meaning": "steam, heat, sultry, foment, get musty",
+    "meaning": "steam, heat, sultry, foment, get musty |(vi) hấp, hơi nóng, oi bức, ủ, bị mốc |(hv) Chưng",
     "kunyomi": [
       "む.す",
       "む.れる",
@@ -291,44 +291,44 @@
       {
         "example": "蒸気",
         "reading": "ジョウキ",
-        "meaning": "steam, vapour, vapor, steamboat, steam locomotive"
+        "meaning": "steam, vapour, vapor, steamboat, steam locomotive |(vi) hơi nước, tàu hơi nước, đầu máy hơi nước"
       },
       {
         "example": "蒸発",
         "reading": "ジョウハツ",
-        "meaning": "evaporation, disappearance (of a person), vanishing without a trace"
+        "meaning": "evaporation, disappearance (of a person), vanishing without a trace |(vi) sự bốc hơi, biến mất (của một người), mất tích không dấu vết"
       },
       {
         "example": "燻蒸",
         "reading": "クンジョウ",
-        "meaning": "fumigation, smoking (out)"
+        "meaning": "fumigation, smoking (out) |(vi) xông khói, hun khói"
       },
       {
         "example": "蒸籠",
         "reading": "セイロ",
-        "meaning": "bamboo steamer, steaming basket, wooden frame holder with reed base used to steam food over a pot, soba served on a small wickerwork tray, wickerwork tray (for serving soba)"
+        "meaning": "bamboo steamer, steaming basket, wooden frame holder with reed base used to steam food over a pot, soba served on a small wickerwork tray, wickerwork tray (for serving soba) |(vi) xửng hấp tre, khay đan tre để hấp thức ăn hoặc bày soba"
       },
       {
         "example": "せいろ蒸し",
         "reading": "セイロムシ",
-        "meaning": "steaming (of food) using a bamboo steamer"
+        "meaning": "steaming (of food) using a bamboo steamer |(vi) hấp bằng xửng tre"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蒸す",
         "reading": "むす",
-        "meaning": "to steam (food, towel, etc.), to be hot and humid, to be sultry"
+        "meaning": "to steam (food, towel, etc.), to be hot and humid, to be sultry |(vi) hấp (thức ăn, khăn...), nóng ẩm, oi bức"
       },
       {
         "example": "蒸れる",
         "reading": "むれる",
-        "meaning": "to be steamed (properly, e.g. rice), to be stuffy, to grow musty, to get close, to become sweaty, to feel sticky, to moulder"
+        "meaning": "to be steamed (properly, e.g. rice), to be stuffy, to grow musty, to get close, to become sweaty, to feel sticky, to moulder |(vi) được hấp chín, ngột ngạt, bị mốc, đổ mồ hôi, dính bết"
       },
       {
         "example": "蒸らす",
         "reading": "むらす",
-        "meaning": "to cook by steam"
+        "meaning": "to cook by steam |(vi) nấu chín bằng hơi nước"
       }
     ],
     "radical": {
@@ -336,7 +336,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "ノ",

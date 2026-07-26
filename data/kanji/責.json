@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 5,
     "kunyomi": "se, semeru",
-    "meaning": "responsibility, blame, condemn",
+    "meaning": "responsibility, blame, condemn |(vi) trách nhiệm, quở trách, chỉ trích",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "責務（せきむ）",
         "meaning": {
-          "english": "duty, obligation"
+          "english": "duty, obligation |(vi) nghĩa vụ, bổn phận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-se(meru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "責任（せきにん）",
         "meaning": {
-          "english": "duty, responsibility"
+          "english": "duty, responsibility |(vi) bổn phận, trách nhiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-se(meru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "責任感（せきにんかん）",
         "meaning": {
-          "english": "sense of responsibility"
+          "english": "sense of responsibility |(vi) tinh thần trách nhiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-se(meru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "重責（じゅうせき）",
         "meaning": {
-          "english": "heavy responsibility"
+          "english": "heavy responsibility |(vi) trách nhiệm nặng nề"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-se(meru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "自責（じせき）",
         "meaning": {
-          "english": "self reproach"
+          "english": "self reproach |(vi) tự trách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-se(meru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "免責する（めんせきする）",
         "meaning": {
-          "english": "exempt from responsibility"
+          "english": "exempt from responsibility |(vi) miễn trách nhiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-se(meru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "叱責する（しっせきする）",
         "meaning": {
-          "english": "reprimand rebuke"
+          "english": "reprimand rebuke |(vi) khiển trách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-se(meru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "責める（せめる）",
         "meaning": {
-          "english": "condemn, blame, criticize"
+          "english": "condemn, blame, criticize |(vi) chỉ trích, trách móc, phê phán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-se(meru)_06_h.opus",
@@ -207,7 +207,7 @@
     "kanji": {
       "character": "責",
       "meaning": {
-        "english": "responsibility, blame, condemn"
+        "english": "responsibility, blame, condemn |(vi) trách nhiệm, quở trách, chỉ trích"
       },
       "strokes": {
         "count": 11,
@@ -267,7 +267,7 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (vỏ sò, của cải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -288,7 +288,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "598",
     "strokeCount": 11,
-    "meaning": "blame, condemn, censure",
+    "meaning": "blame, condemn, censure |(vi) trách móc, quở trách, khiển trách |(hv) Trách",
     "kunyomi": [
       "せ.める"
     ],
@@ -299,34 +299,34 @@
       {
         "example": "責",
         "reading": "セキ",
-        "meaning": "responsibility, duty, obligation"
+        "meaning": "responsibility, duty, obligation |(vi) trách nhiệm, bổn phận, nghĩa vụ"
       },
       {
         "example": "責任",
         "reading": "セキニン",
-        "meaning": "duty, responsibility (incl. supervision of staff), liability, onus"
+        "meaning": "duty, responsibility (incl. supervision of staff), liability, onus |(vi) bổn phận, trách nhiệm (kể cả giám sát nhân viên), nghĩa vụ pháp lý"
       },
       {
         "example": "問責",
         "reading": "モンセキ",
-        "meaning": "blame, censure, reproof, reprimand, rebuke"
+        "meaning": "blame, censure, reproof, reprimand, rebuke |(vi) quở trách, khiển trách, chỉ trích"
       },
       {
         "example": "引責",
         "reading": "インセキ",
-        "meaning": "taking responsibility"
+        "meaning": "taking responsibility |(vi) nhận trách nhiệm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "責める",
         "reading": "せめる",
-        "meaning": "to condemn, to blame, to criticize, to criticise, to reproach, to accuse, to urge, to press, to pester, to torture, to torment, to persecute, to break in (a horse)"
+        "meaning": "to condemn, to blame, to criticize, to criticise, to reproach, to accuse, to urge, to press, to pester, to torture, to torment, to persecute, to break in (a horse) |(vi) chỉ trích, trách móc, phê phán, khiển trách, buộc tội, thúc ép, tra tấn, hành hạ, ngược đãi, huấn luyện (ngựa)"
       }
     ],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò)"
     },
     "parts": [
       "ハ",

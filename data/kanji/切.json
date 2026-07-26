@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ki, kiru, kiri, kireru",
-    "meaning": "cut",
+    "meaning": "cut |(vi) cắt",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "切断する（せつだんする）",
         "meaning": {
-          "english": "cut"
+          "english": "cut |(vi) cắt đứt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-ki(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "親切な（しんせつな）",
         "meaning": {
-          "english": "kind"
+          "english": "kind |(vi) tử tế, tốt bụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-ki(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "大切な（たいせつな）",
         "meaning": {
-          "english": "important"
+          "english": "important |(vi) quan trọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-ki(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "切腹（せっぷく）",
         "meaning": {
-          "english": "seppuku, harakiri"
+          "english": "seppuku, harakiri |(vi) mổ bụng tự sát (seppuku, harakiri)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-ki(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "一切（いっさい）",
         "meaning": {
-          "english": "all"
+          "english": "all |(vi) tất cả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-ki(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "切る（きる）",
         "meaning": {
-          "english": "cut"
+          "english": "cut |(vi) cắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-ki(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "締め切り（しめきり）",
         "meaning": {
-          "english": "deadline"
+          "english": "deadline |(vi) hạn chót"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-ki(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "裏切る（うらぎる）",
         "meaning": {
-          "english": "betray"
+          "english": "betray |(vi) phản bội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-ki(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "時間切れ（じかんぎれ）",
         "meaning": {
-          "english": "run out of time"
+          "english": "run out of time |(vi) hết thời gian"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-ki(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "切符（きっぷ）",
         "meaning": {
-          "english": "ticket"
+          "english": "ticket |(vi) vé"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-ki(ru)_06_j.opus",
@@ -295,7 +295,7 @@
     "kanji": {
       "character": "切",
       "meaning": {
-        "english": "cut"
+        "english": "cut |(vi) cắt"
       },
       "strokes": {
         "count": 4,
@@ -341,7 +341,7 @@
         "romaji": "katana"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, kiếm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/katana0.svg",
@@ -362,7 +362,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "324",
     "strokeCount": 4,
-    "meaning": "cut, cutoff, be sharp",
+    "meaning": "cut, cutoff, be sharp |(vi) cắt, cắt đứt, sắc bén |(hv) Thiết",
     "kunyomi": [
       "き.る",
       "-き.る",
@@ -383,79 +383,79 @@
       {
         "example": "切",
         "reading": "セツ",
-        "meaning": "eager, earnest, ardent, kind, keen, acute, OFF (on switch)"
+        "meaning": "eager, earnest, ardent, kind, keen, acute, OFF (on switch) |(vi) tha thiết, chân thành, khẩn thiết, sắc bén, tắt (công tắc)"
       },
       {
         "example": "切実",
         "reading": "セツジツ",
-        "meaning": "earnest, sincere, acute, keen, fervent, pressing, urgent, serious, severe, pertinent, appropriate"
+        "meaning": "earnest, sincere, acute, keen, fervent, pressing, urgent, serious, severe, pertinent, appropriate |(vi) chân thành, khẩn thiết, cấp bách, nghiêm trọng, thích đáng"
       },
       {
         "example": "懇切",
         "reading": "コンセツ",
-        "meaning": "kind and careful (instruction, explanation, etc.), considerate, helpful, thoughtful, detailed, scrupulous"
+        "meaning": "kind and careful (instruction, explanation, etc.), considerate, helpful, thoughtful, detailed, scrupulous |(vi) tận tình chu đáo (hướng dẫn, giải thích), chu đáo, tỉ mỉ"
       },
       {
         "example": "哀切",
         "reading": "アイセツ",
-        "meaning": "pathetic, plaintive"
+        "meaning": "pathetic, plaintive |(vi) bi ai, thảm thiết"
       },
       {
         "example": "家財一切",
         "reading": "カザイイッサイ",
-        "meaning": "complete set of household goods"
+        "meaning": "complete set of household goods |(vi) toàn bộ đồ đạc trong nhà"
       },
       {
         "example": "費用一切",
         "reading": "ヒヨウイッサイ",
-        "meaning": "all expenses"
+        "meaning": "all expenses |(vi) toàn bộ chi phí"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "切る",
         "reading": "きる",
-        "meaning": "to cut, to cut through, to perform (surgery), to sever (connections, ties), to turn off (e.g. the light), to terminate (e.g. a conversation), to hang up (the phone), to disconnect, to punch (a ticket), to tear off (a stub), to open (something sealed), to start, to set (a limit), to do (something) in less or within a certain time, to issue (cheques, vouchers, etc.), to reduce, to decrease, to discount, to shake off (water, etc.), to let drip-dry, to let drain, to cross, to traverse, to criticize sharply, to act decisively, to do (something noticeable), to go first, to make (certain facial expressions, in kabuki), to turn (vehicle, steering wheel, etc.), to curl (a ball), to bend, to cut, to shuffle (cards), to discard a tile, to dismiss, to sack, to let go, to expel, to excommunicate, to dig (a groove), to cut (a stencil, on a mimeograph), to trump, to cut (the connection between two groups), to start a fire (with wood-wood friction or by striking a metal against stone), to draw (a shape) in the air (with a sword, etc.), to do completely, to finish doing, to be completely ..., to be totally ..., to be terribly ..., to do clearly, to do decisively, to do firmly"
+        "meaning": "to cut, to cut through, to perform (surgery), to sever (connections, ties), to turn off (e.g. the light), to terminate (e.g. a conversation), to hang up (the phone), to disconnect, to punch (a ticket), to tear off (a stub), to open (something sealed), to start, to set (a limit), to do (something) in less or within a certain time, to issue (cheques, vouchers, etc.), to reduce, to decrease, to discount, to shake off (water, etc.), to let drip-dry, to let drain, to cross, to traverse, to criticize sharply, to act decisively, to do (something noticeable), to go first, to make (certain facial expressions, in kabuki), to turn (vehicle, steering wheel, etc.), to curl (a ball), to bend, to cut, to shuffle (cards), to discard a tile, to dismiss, to sack, to let go, to expel, to excommunicate, to dig (a groove), to cut (a stencil, on a mimeograph), to trump, to cut (the connection between two groups), to start a fire (with wood-wood friction or by striking a metal against stone), to draw (a shape) in the air (with a sword, etc.), to do completely, to finish doing, to be completely ..., to be totally ..., to be terribly ..., to do clearly, to do decisively, to do firmly |(vi) cắt, cắt qua, phẫu thuật, cắt đứt (quan hệ), tắt (đèn), kết thúc (cuộc trò chuyện), cúp máy, ngắt kết nối, bấm vé, xé cuống vé, mở (vật đã niêm phong), bắt đầu, đặt (giới hạn), làm trong một khoảng thời gian nhất định, phát hành (séc, phiếu), giảm bớt, chiết khấu, vẩy (nước), để ráo nước, băng qua, phê bình gay gắt, hành động dứt khoát, đi trước, quay (vô lăng), xoáy (bóng), xáo (bài), sa thải, đuổi việc, khai trừ, đào (rãnh), khắc (khuôn in), đánh chắn bài, khởi lửa (bằng ma sát gỗ hoặc đánh đá vào kim loại), vẽ hình trong không khí (bằng kiếm), làm xong hoàn toàn, hoàn toàn là..., rất là..., làm rõ ràng, làm dứt khoát"
       },
       {
         "example": "切り",
         "reading": "きり",
-        "meaning": "end, finish, place to stop, bound, limit, end, delivery date (of a futures contract), finale (of a noh song), end of an act (in jōruri or kabuki), final performance of the day (in vaudeville), trump card, king (court card; in mekuri karuta and unsun karuta), counter for slices (esp. thick slices), counter for cuts (of fish, meat, etc.), only, just, (ever) since, after, continuously, remaining (in a particular state)"
+        "meaning": "end, finish, place to stop, bound, limit, end, delivery date (of a futures contract), finale (of a noh song), end of an act (in jōruri or kabuki), final performance of the day (in vaudeville), trump card, king (court card; in mekuri karuta and unsun karuta), counter for slices (esp. thick slices), counter for cuts (of fish, meat, etc.), only, just, (ever) since, after, continuously, remaining (in a particular state) |(vi) kết thúc, hoàn tất, điểm dừng, giới hạn, ngày giao hàng (hợp đồng tương lai), hồi kết (bài hát noh), kết thúc màn (jōruri, kabuki), buổi diễn cuối trong ngày, quân bài chủ, lượng từ đếm lát (cắt dày), chỉ, kể từ, sau đó, tiếp tục ở một trạng thái nào đó"
       },
       {
         "example": "切り替え",
         "reading": "きりかえ",
-        "meaning": "exchange, conversion, replacement, switching (to), switchover"
+        "meaning": "exchange, conversion, replacement, switching (to), switchover |(vi) trao đổi, chuyển đổi, thay thế, chuyển sang"
       },
       {
         "example": "爪切り",
         "reading": "つめきり",
-        "meaning": "nail clippers"
+        "meaning": "nail clippers |(vi) kìm cắt móng tay"
       },
       {
         "example": "押し切り",
         "reading": "おしきり",
-        "meaning": "straw cutter, short mane, pressing and cutting"
+        "meaning": "straw cutter, short mane, pressing and cutting |(vi) máy cắt rơm, bờm ngắn, ép và cắt"
       },
       {
         "example": "切れる",
         "reading": "きれる",
-        "meaning": "to break, to snap, to be cut, to split, to crack, to be injured, to wear out, to be worn out, to break, to burst, to collapse, to wear off, to stop working, to go dead, to expire (time limit, etc.), to run out, to become due, to run out (of stock, etc.), to be exhausted, to be used up, to be sold out, to be out of, to be broken off (e.g. of a relationship), to break up, to have severed ties, to be cut off, to be disconnected, to cut well, to be sharp, to be sharp-minded, to be keen, to be shrewd, to be quick-witted, to be able, to be short of, to drop under (a certain figure), to beat (e.g. a record time), to dry off, to curve, to veer, to shuffle (cards), to get angry, to snap, to blow one's top, to lose one's temper, to flip, to be able to do completely"
+        "meaning": "to break, to snap, to be cut, to split, to crack, to be injured, to wear out, to be worn out, to break, to burst, to collapse, to wear off, to stop working, to go dead, to expire (time limit, etc.), to run out, to become due, to run out (of stock, etc.), to be exhausted, to be used up, to be sold out, to be out of, to be broken off (e.g. of a relationship), to break up, to have severed ties, to be cut off, to be disconnected, to cut well, to be sharp, to be sharp-minded, to be keen, to be shrewd, to be quick-witted, to be able, to be short of, to drop under (a certain figure), to beat (e.g. a record time), to dry off, to curve, to veer, to shuffle (cards), to get angry, to snap, to blow one's top, to lose one's temper, to flip, to be able to do completely |(vi) bị gãy, bị đứt, bị cắt, bị nứt, bị thương, mòn, hỏng, hết hạn, hết hàng, hết sạch, bị bán hết, đứt quan hệ, cắt đứt, mất kết nối, sắc bén, nhạy bén, tinh khôn, thấp hơn (một mức nào đó), phá kỷ lục, khô ráo, cong lệch, xáo (bài), nổi giận, mất bình tĩnh"
       },
       {
         "example": "切れ",
         "reading": "きれ",
-        "meaning": "piece, slice, strip, scrap, cloth, sharpness, agility, counter for scraps, pieces, etc."
+        "meaning": "piece, slice, strip, scrap, cloth, sharpness, agility, counter for scraps, pieces, etc. |(vi) mảnh, lát, dải, mẩu vụn, vải, độ sắc bén, độ nhanh nhẹn, lượng từ đếm mẩu vụn"
       },
       {
         "example": "切れ味",
         "reading": "きれあじ",
-        "meaning": "sharpness, cutting ability, quickness (of wit), incisiveness, technical proficiency, skill, peppiness (of a ball)"
+        "meaning": "sharpness, cutting ability, quickness (of wit), incisiveness, technical proficiency, skill, peppiness (of a ball) |(vi) độ sắc bén, khả năng cắt, độ nhanh nhạy (trí óc), sự sắc sảo, kỹ năng chuyên môn"
       },
       {
         "example": "布切れ",
         "reading": "ぬのきれ",
-        "meaning": "piece of cloth"
+        "meaning": "piece of cloth |(vi) mảnh vải vụn"
       }
     ],
     "radical": {
@@ -463,7 +463,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "刀",

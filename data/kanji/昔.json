@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 3,
     "kunyomi": "mukashi",
-    "meaning": "former times, antiquity",
+    "meaning": "former times, antiquity |(vi) ngày xưa, thời cổ",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "昔日（せきじつ）",
         "meaning": {
-          "english": "old days"
+          "english": "old days |(vi) ngày trước, thuở xưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mukashi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "今昔物語（こんじゃくものがたり）",
         "meaning": {
-          "english": "Tales of past and present"
+          "english": "Tales of past and present |(vi) Chuyện xưa và nay (tuyển tập truyện cổ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mukashi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "昔（むかし）",
         "meaning": {
-          "english": "olden days, former [n.]"
+          "english": "olden days, former [n.] |(vi) ngày xưa, thuở trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mukashi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "昔話（むかしばなし）",
         "meaning": {
-          "english": "folklore"
+          "english": "folklore |(vi) chuyện cổ tích, truyện dân gian"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mukashi_06_d.opus",
@@ -171,7 +171,7 @@
     "kanji": {
       "character": "昔",
       "meaning": {
-        "english": "former times, antiquity"
+        "english": "former times, antiquity |(vi) ngày xưa, thời cổ"
       },
       "strokes": {
         "count": 8,
@@ -225,7 +225,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi0.svg",
@@ -246,7 +246,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1197",
     "strokeCount": 8,
-    "meaning": "once upon a time, antiquity, old times",
+    "meaning": "once upon a time, antiquity, old times |(vi) ngày xửa ngày xưa, thời cổ, ngày trước |(hv) Tích",
     "kunyomi": [
       "むかし"
     ],
@@ -258,49 +258,49 @@
       {
         "example": "昔時",
         "reading": "セキジ",
-        "meaning": "old times, former times"
+        "meaning": "old times, former times |(vi) ngày xưa, thời trước"
       },
       {
         "example": "昔日",
         "reading": "セキジツ",
-        "meaning": "old days"
+        "meaning": "old days |(vi) ngày trước, thuở xưa"
       },
       {
         "example": "今昔",
         "reading": "コンジャク",
-        "meaning": "past and present"
+        "meaning": "past and present |(vi) xưa và nay"
       },
       {
         "example": "往昔",
         "reading": "オウセキ",
-        "meaning": "ancient times"
+        "meaning": "ancient times |(vi) thời xa xưa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "昔",
         "reading": "むかし",
-        "meaning": "the old days, the past, former times, a long time ago, the past ten years, the past decade"
+        "meaning": "the old days, the past, former times, a long time ago, the past ten years, the past decade |(vi) ngày xưa, quá khứ, thuở trước, thập kỷ đã qua"
       },
       {
         "example": "昔話",
         "reading": "むかしばなし",
-        "meaning": "old tale, folk tale, legend, reminiscence"
+        "meaning": "old tale, folk tale, legend, reminiscence |(vi) chuyện cổ tích, truyện dân gian, hồi ức"
       },
       {
         "example": "一昔",
         "reading": "ひとむかし",
-        "meaning": "an age (ago), a long time (ago), a decade (ago)"
+        "meaning": "an age (ago), a long time (ago), a decade (ago) |(vi) khoảng một thời gian dài trước đây, một thập kỷ trước"
       },
       {
         "example": "遥か昔",
         "reading": "はるかむかし",
-        "meaning": "long ago"
+        "meaning": "long ago |(vi) từ rất lâu về trước"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "一",

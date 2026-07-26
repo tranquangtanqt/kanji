@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "ishi",
-    "meaning": "stone",
+    "meaning": "stone |(vi) đá",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "石像（せきぞう）",
         "meaning": {
-          "english": "stone statue"
+          "english": "stone statue |(vi) tượng đá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "石炭（せきたん）",
         "meaning": {
-          "english": "coal"
+          "english": "coal |(vi) than đá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "石油（せきゆ）",
         "meaning": {
-          "english": "petroleum"
+          "english": "petroleum |(vi) dầu mỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "石鹸（せっけん）",
         "meaning": {
-          "english": "soap"
+          "english": "soap |(vi) xà phòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "宝石（ほうせき）",
         "meaning": {
-          "english": "gem"
+          "english": "gem |(vi) đá quý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "磁石（じしゃく）",
         "meaning": {
-          "english": "magnet"
+          "english": "magnet |(vi) nam châm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "石（こく）",
         "meaning": {
-          "english": "unit of measurement"
+          "english": "unit of measurement |(vi) đơn vị đo lường (koku)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "石（いし）",
         "meaning": {
-          "english": "stone"
+          "english": "stone |(vi) đá, hòn đá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_h.opus",
@@ -245,7 +245,7 @@
     "kanji": {
       "character": "石",
       "meaning": {
-        "english": "stone"
+        "english": "stone |(vi) đá"
       },
       "strokes": {
         "count": 5,
@@ -293,7 +293,7 @@
         "romaji": "ishi"
       },
       "meaning": {
-        "english": "stone"
+        "english": "stone |(vi) Thạch (đá)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ishi0.svg",
@@ -314,7 +314,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "342",
     "strokeCount": 5,
-    "meaning": "stone",
+    "meaning": "stone |(vi) đá, hòn đá |(hv) Thạch",
     "kunyomi": [
       "いし"
     ],
@@ -327,84 +327,84 @@
       {
         "example": "石",
         "reading": "セキ",
-        "meaning": "counter for jewels in a watch, counter for transistors, diodes, etc. in an electronic product"
+        "meaning": "counter for jewels in a watch, counter for transistors, diodes, etc. in an electronic product |(vi) lượng từ đếm số đá quý trong đồng hồ, lượng từ đếm transistor/diode trong thiết bị điện tử"
       },
       {
         "example": "石材",
         "reading": "セキザイ",
-        "meaning": "(building) stone"
+        "meaning": "(building) stone |(vi) đá xây dựng"
       },
       {
         "example": "一石",
         "reading": "イッセキ",
-        "meaning": "one game (of go)"
+        "meaning": "one game (of go) |(vi) một ván cờ vây"
       },
       {
         "example": "投石",
         "reading": "トウセキ",
-        "meaning": "stone throwing"
+        "meaning": "stone throwing |(vi) sự ném đá"
       },
       {
         "example": "石神",
         "reading": "シャクジン",
-        "meaning": "stone which is worshipped, image of a god in stone"
+        "meaning": "stone which is worshipped, image of a god in stone |(vi) đá được thờ cúng, tượng thần bằng đá"
       },
       {
         "example": "石南花",
         "reading": "シャクナゲ",
-        "meaning": "rhododendron"
+        "meaning": "rhododendron |(vi) hoa đỗ quyên"
       },
       {
         "example": "電磁石",
         "reading": "デンジシャク",
-        "meaning": "electromagnet"
+        "meaning": "electromagnet |(vi) nam châm điện"
       },
       {
         "example": "界磁石",
         "reading": "カイジシャク",
-        "meaning": "field magnet"
+        "meaning": "field magnet |(vi) nam châm trường (cực từ)"
       },
       {
         "example": "石",
         "reading": "コク",
-        "meaning": "koku, traditional unit of volume, approx. 180.4 litres, measure of a Japanese-style boat's loading capacity (approx. 278.26 liters)"
+        "meaning": "koku, traditional unit of volume, approx. 180.4 litres, measure of a Japanese-style boat's loading capacity (approx. 278.26 liters) |(vi) koku, đơn vị đo thể tích truyền thống (khoảng 180,4 lít), đơn vị đo tải trọng thuyền kiểu Nhật (khoảng 278,26 lít)"
       },
       {
         "example": "石高",
         "reading": "コクダカ",
-        "meaning": "(crop) yield, stipend (orig. assessed on the basis of a crop), salary"
+        "meaning": "(crop) yield, stipend (orig. assessed on the basis of a crop), salary |(vi) sản lượng thu hoạch, bổng lộc (tính theo sản lượng lúa), lương bổng"
       },
       {
         "example": "一石",
         "reading": "イッコク",
-        "meaning": "one koku (measure)"
+        "meaning": "one koku (measure) |(vi) một koku (đơn vị đo)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "石",
         "reading": "いし",
-        "meaning": "stone, jewel, precious stone, flint (in a lighter), stone, stone (in the bladder, kidney etc.), calculus"
+        "meaning": "stone, jewel, precious stone, flint (in a lighter), stone, stone (in the bladder, kidney etc.), calculus |(vi) đá, ngọc, đá quý, đá lửa (bật lửa), sỏi/đá (trong bàng quang, thận), sạn thận"
       },
       {
         "example": "石垣",
         "reading": "いしがき",
-        "meaning": "stone wall"
+        "meaning": "stone wall |(vi) tường đá"
       },
       {
         "example": "墓石",
         "reading": "ぼせき",
-        "meaning": "tombstone, gravestone"
+        "meaning": "tombstone, gravestone |(vi) bia mộ"
       },
       {
         "example": "敷石",
         "reading": "しきいし",
-        "meaning": "paving stone, pavement"
+        "meaning": "paving stone, pavement |(vi) đá lát đường, vỉa hè lát đá"
       }
     ],
     "radical": {
       "symbol": "石",
-      "meaning": "stone"
+      "meaning": "stone |(vi) Thạch (đá)"
     },
     "parts": [
       "口",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "oku, okuru",
-    "meaning": "send",
+    "meaning": "send |(vi) gửi",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "発送する（はっそうする）",
         "meaning": {
-          "english": "ship [v.t.]"
+          "english": "ship [v.t.] |(vi) gửi hàng, phát chuyển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "返送する（へんそうする）",
         "meaning": {
-          "english": "send back"
+          "english": "send back |(vi) gửi trả lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "郵送する（ゆうそうする）",
         "meaning": {
-          "english": "mail [v.t.]"
+          "english": "mail [v.t.] |(vi) gửi qua bưu điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "放送する（ほうそうする）",
         "meaning": {
-          "english": "broadcast [v.t.]"
+          "english": "broadcast [v.t.] |(vi) phát sóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "送金する（そうきんする）",
         "meaning": {
-          "english": "send money"
+          "english": "send money |(vi) gửi tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "送料（そうりょう）",
         "meaning": {
-          "english": "shipping fee"
+          "english": "shipping fee |(vi) phí vận chuyển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "送別会（そうべつかい）",
         "meaning": {
-          "english": "farewell party"
+          "english": "farewell party |(vi) tiệc chia tay, tiệc tiễn biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "送る（おくる）",
         "meaning": {
-          "english": "send, spend time"
+          "english": "send, spend time |(vi) gửi, trải qua (thời gian)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "送り仮名（おくりがな）",
         "meaning": {
-          "english": "conjugational ending in kana"
+          "english": "conjugational ending in kana |(vi) đuôi biến cách bằng kana (okurigana)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_i.opus",
@@ -269,7 +269,7 @@
     "kanji": {
       "character": "送",
       "meaning": {
-        "english": "send"
+        "english": "send |(vi) gửi"
       },
       "strokes": {
         "count": 9,
@@ -325,7 +325,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đi, chuyển động)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -346,7 +346,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "311",
     "strokeCount": 9,
-    "meaning": "escort, send",
+    "meaning": "escort, send |(vi) hộ tống, đưa tiễn, gửi |(hv) Tống",
     "kunyomi": [
       "おく.る"
     ],
@@ -357,29 +357,29 @@
       {
         "example": "送球",
         "reading": "ソウキュウ",
-        "meaning": "throw, pass (in basketball, etc.), handball"
+        "meaning": "throw, pass (in basketball, etc.), handball |(vi) ném, chuyền (bóng rổ...), bóng ném"
       },
       {
         "example": "送還",
         "reading": "ソウカン",
-        "meaning": "sending home, repatriation, deportation"
+        "meaning": "sending home, repatriation, deportation |(vi) gửi về nước, hồi hương, trục xuất"
       },
       {
         "example": "葬送",
         "reading": "ソウソウ",
-        "meaning": "attending a funeral procession, seeing off the deceased, burial of someone's remains, observing a burial"
+        "meaning": "attending a funeral procession, seeing off the deceased, burial of someone's remains, observing a burial |(vi) dự đám tang, tiễn đưa người đã khuất, an táng"
       },
       {
         "example": "移送",
         "reading": "イソウ",
-        "meaning": "transfer, transport, transportation"
+        "meaning": "transfer, transport, transportation |(vi) chuyển giao, vận chuyển"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "送る",
         "reading": "おくる",
-        "meaning": "to send, to dispatch, to forward, to transmit, to ship, to remit, to see (someone) off, to escort, to accompany, to take, to bid farewell to (the departed), to say goodbye to, to bury, to spend (time), to pass, to lead (a life), to live, to pass (on, along), to advance (a runner), to affix (okurigana)"
+        "meaning": "to send, to dispatch, to forward, to transmit, to ship, to remit, to see (someone) off, to escort, to accompany, to take, to bid farewell to (the departed), to say goodbye to, to bury, to spend (time), to pass, to lead (a life), to live, to pass (on, along), to advance (a runner), to affix (okurigana) |(vi) gửi, phái đi, chuyển tiếp, truyền đi, vận chuyển, gửi tiền, tiễn (ai đó), hộ tống, đi cùng, đưa đi, từ biệt (người đã khuất), nói lời tạm biệt, chôn cất, trải qua (thời gian), sống qua, dẫn dắt (cuộc đời), sống, chuyền tiếp dọc theo, đẩy tiến (người chạy), gắn thêm (okurigana)"
       }
     ],
     "radical": {
@@ -389,7 +389,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, chuyển động)"
     },
     "parts": [
       "一",

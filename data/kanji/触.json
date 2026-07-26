@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "fu, sawa, fureru, sawaru",
-    "meaning": "touch",
+    "meaning": "touch |(vi) chạm, tiếp xúc",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "触覚（しょっかく）",
         "meaning": {
-          "english": "sense of touch"
+          "english": "sense of touch |(vi) xúc giác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-sawa(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "触角（しょっかく）",
         "meaning": {
-          "english": "feeler, antenna"
+          "english": "feeler, antenna |(vi) râu cảm giác, ăng-ten"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-sawa(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "触媒（しょくばい）",
         "meaning": {
-          "english": "catalyst"
+          "english": "catalyst |(vi) chất xúc tác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-sawa(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "感触（かんしょく）",
         "meaning": {
-          "english": "sense of touch, feeling"
+          "english": "sense of touch, feeling |(vi) cảm giác chạm vào, xúc cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-sawa(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "一触即発（いっしょくそくはつ）",
         "meaning": {
-          "english": "extremely delicate situation"
+          "english": "extremely delicate situation |(vi) tình huống cực kỳ nhạy cảm, ngàn cân treo sợi tóc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-sawa(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "接触する（せっしょくする）",
         "meaning": {
-          "english": "touch, make contact"
+          "english": "touch, make contact |(vi) tiếp xúc, va chạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-sawa(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "抵触する（ていしょくする）",
         "meaning": {
-          "english": "conflict, run counter to"
+          "english": "conflict, run counter to |(vi) xung đột, trái ngược"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-sawa(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "触れる（ふれる）",
         "meaning": {
-          "english": "touch, reach, brush"
+          "english": "touch, reach, brush |(vi) chạm vào, đề cập, lướt qua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-sawa(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "触れ合う（ふれあう）",
         "meaning": {
-          "english": "come in contact with, touch"
+          "english": "come in contact with, touch |(vi) tiếp xúc với nhau, chạm vào nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-sawa(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "触る（さわる）",
         "meaning": {
-          "english": "touch"
+          "english": "touch |(vi) chạm, sờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-sawa(ru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "手触り（てざわり）",
         "meaning": {
-          "english": "texture (for hand), feel"
+          "english": "texture (for hand), feel |(vi) cảm giác khi chạm tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-sawa(ru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "肌触り（はだざわり）",
         "meaning": {
-          "english": "texture (for skin)"
+          "english": "texture (for skin) |(vi) cảm giác trên da"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-sawa(ru)_06_l.opus",
@@ -240,7 +240,7 @@
     "kanji": {
       "character": "触",
       "meaning": {
-        "english": "touch"
+        "english": "touch |(vi) chạm, tiếp xúc"
       },
       "strokes": {
         "count": 13,
@@ -304,7 +304,7 @@
         "romaji": "tsunohen"
       },
       "meaning": {
-        "english": "horn, corner"
+        "english": "horn, corner |(vi) Giác (sừng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsunohen0.svg",
@@ -325,7 +325,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "904",
     "strokeCount": 13,
-    "meaning": "contact, touch, feel, hit, proclaim, announce, conflict",
+    "meaning": "contact, touch, feel, hit, proclaim, announce, conflict |(vi) tiếp xúc, chạm, cảm nhận, va chạm, tuyên bố, thông báo, xung đột |(hv) Xúc",
     "kunyomi": [
       "ふ.れる",
       "さわ.る",
@@ -338,49 +338,49 @@
       {
         "example": "触媒",
         "reading": "ショクバイ",
-        "meaning": "catalyst"
+        "meaning": "catalyst |(vi) chất xúc tác"
       },
       {
         "example": "触発",
         "reading": "ショクハツ",
-        "meaning": "detonation by contact, contact detonation, touching off (something), triggering, sparking, provocation, inspiration"
+        "meaning": "detonation by contact, contact detonation, touching off (something), triggering, sparking, provocation, inspiration |(vi) kích nổ do va chạm, châm ngòi, khơi gợi, truyền cảm hứng"
       },
       {
         "example": "鎧袖一触",
         "reading": "ガイシュウイッショク",
-        "meaning": "(beating someone) hands down, with a single blow"
+        "meaning": "(beating someone) hands down, with a single blow |(vi) đánh bại dễ dàng, chỉ một đòn là hạ gục"
       },
       {
         "example": "濃厚接触",
         "reading": "ノウコウセッショク",
-        "meaning": "close contact (with an infected person)"
+        "meaning": "close contact (with an infected person) |(vi) tiếp xúc gần (với người nhiễm bệnh)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "触れる",
         "reading": "ふれる",
-        "meaning": "to touch, to feel, to touch (with), to experience, to come in contact with, to perceive, to touch on (a subject), to allude to, to refer to, to mention, to bring up, to be in conflict with, to violate (law, copyright, etc.), to infringe, to proclaim, to make known, to spread (e.g. a rumour)"
+        "meaning": "to touch, to feel, to touch (with), to experience, to come in contact with, to perceive, to touch on (a subject), to allude to, to refer to, to mention, to bring up, to be in conflict with, to violate (law, copyright, etc.), to infringe, to proclaim, to make known, to spread (e.g. a rumour) |(vi) chạm vào, cảm nhận, tiếp xúc với, trải nghiệm, đề cập đến (một chủ đề), ám chỉ, vi phạm (luật, bản quyền...), tuyên bố, loan truyền (tin đồn...)"
       },
       {
         "example": "触る",
         "reading": "さわる",
-        "meaning": "to touch, to feel, to get involved (with), to approach, to be harmful to, to hinder, to interfere with, to irritate"
+        "meaning": "to touch, to feel, to get involved (with), to approach, to be harmful to, to hinder, to interfere with, to irritate |(vi) chạm vào, sờ, dính líu đến, gây hại, cản trở, làm phiền"
       },
       {
         "example": "触る",
         "reading": "さわる",
-        "meaning": "to touch, to feel, to get involved (with), to approach, to be harmful to, to hinder, to interfere with, to irritate"
+        "meaning": "to touch, to feel, to get involved (with), to approach, to be harmful to, to hinder, to interfere with, to irritate |(vi) chạm vào, sờ, dính líu đến, gây hại, cản trở, làm phiền"
       },
       {
         "example": "触らぬ神に祟りなし",
         "reading": "さわらぬかみにたたりなし",
-        "meaning": "let sleeping dogs lie, wake not a sleeping lion, the spirit you do not approach will not curse you"
+        "meaning": "let sleeping dogs lie, wake not a sleeping lion, the spirit you do not approach will not curse you |(vi) chớ đụng vào chuyện không liên quan, tránh voi chẳng xấu mặt nào"
       }
     ],
     "radical": {
       "symbol": "角",
-      "meaning": "horn"
+      "meaning": "horn |(vi) Giác (sừng)"
     },
     "parts": [
       "虫",

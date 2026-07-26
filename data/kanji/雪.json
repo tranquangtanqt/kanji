@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "yuki",
-    "meaning": "snow",
+    "meaning": "snow |(vi) tuyết",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "積雪（せきせつ）",
         "meaning": {
-          "english": "fallen snow"
+          "english": "fallen snow |(vi) tuyết đã rơi, tuyết đọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-yuki_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "新雪（しんせつ）",
         "meaning": {
-          "english": "new snow"
+          "english": "new snow |(vi) tuyết mới rơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-yuki_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "豪雪地帯（ごうせつちたい）",
         "meaning": {
-          "english": "area of heavy snowfall"
+          "english": "area of heavy snowfall |(vi) vùng tuyết rơi dày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-yuki_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "雪（ゆき）",
         "meaning": {
-          "english": "snow"
+          "english": "snow |(vi) tuyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-yuki_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "大雪（おおゆき）",
         "meaning": {
-          "english": "heavy snow"
+          "english": "heavy snow |(vi) tuyết lớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-yuki_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "初雪（はつゆき）",
         "meaning": {
-          "english": "first snow (of season)"
+          "english": "first snow (of season) |(vi) tuyết đầu mùa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-yuki_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "雪合戦（ゆきがっせん）",
         "meaning": {
-          "english": "snowball fight"
+          "english": "snowball fight |(vi) trận chiến ném tuyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-yuki_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "雪国（ゆきぐに）",
         "meaning": {
-          "english": "snow country"
+          "english": "snow country |(vi) vùng tuyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-yuki_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "雪掻き（ゆきかき）",
         "meaning": {
-          "english": "snow plow"
+          "english": "snow plow |(vi) xẻng xúc tuyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-yuki_06_i.opus",
@@ -253,7 +253,7 @@
     "kanji": {
       "character": "雪",
       "meaning": {
-        "english": "snow"
+        "english": "snow |(vi) tuyết"
       },
       "strokes": {
         "count": 11,
@@ -312,7 +312,7 @@
         "romaji": "amekanmuri"
       },
       "meaning": {
-        "english": "rain"
+        "english": "rain |(vi) Vũ (mưa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/amekanmuri0.svg",
@@ -333,7 +333,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1131",
     "strokeCount": 11,
-    "meaning": "snow",
+    "meaning": "snow |(vi) tuyết |(hv) Tuyết",
     "kunyomi": [
       "ゆき"
     ],
@@ -344,49 +344,49 @@
       {
         "example": "雪辱",
         "reading": "セツジョク",
-        "meaning": "vindication of honour, vindication of honor, making up for loss, revenge"
+        "meaning": "vindication of honour, vindication of honor, making up for loss, revenge |(vi) rửa nhục, lấy lại danh dự, trả thù"
       },
       {
         "example": "雪上",
         "reading": "セツジョウ",
-        "meaning": "on the snow"
+        "meaning": "on the snow |(vi) trên tuyết"
       },
       {
         "example": "積雪",
         "reading": "セキセツ",
-        "meaning": "fallen snow, snow cover"
+        "meaning": "fallen snow, snow cover |(vi) tuyết đã rơi, lớp tuyết phủ"
       },
       {
         "example": "融雪",
         "reading": "ユウセツ",
-        "meaning": "melted snow, melting of snow"
+        "meaning": "melted snow, melting of snow |(vi) tuyết tan, sự tan tuyết"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "雪",
         "reading": "ゆき",
-        "meaning": "snow, snowfall"
+        "meaning": "snow, snowfall |(vi) tuyết, tuyết rơi"
       },
       {
         "example": "雪国",
         "reading": "ゆきぐに",
-        "meaning": "snow country, snowy region"
+        "meaning": "snow country, snowy region |(vi) vùng tuyết, vùng có nhiều tuyết"
       },
       {
         "example": "細雪",
         "reading": "ささめゆき",
-        "meaning": "light snow fall, small snow flakes"
+        "meaning": "light snow fall, small snow flakes |(vi) tuyết rơi nhẹ, bông tuyết nhỏ"
       },
       {
         "example": "粉雪",
         "reading": "こなゆき",
-        "meaning": "powder snow, powdery snow"
+        "meaning": "powder snow, powdery snow |(vi) tuyết bột, tuyết mịn"
       }
     ],
     "radical": {
       "symbol": "雨",
-      "meaning": "rain"
+      "meaning": "rain |(vi) Vũ (mưa)"
     },
     "parts": [
       "ヨ",

@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "ancestor",
+    "meaning": "ancestor |(vi) tổ tiên",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "祖先（そせん）",
         "meaning": {
-          "english": "ancestor"
+          "english": "ancestor |(vi) tổ tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/so(sen)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "祖国（そこく）",
         "meaning": {
-          "english": "fatherland, native country"
+          "english": "fatherland, native country |(vi) tổ quốc, quê hương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/so(sen)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "祖父母（そふぼ）",
         "meaning": {
-          "english": "grandparents"
+          "english": "grandparents |(vi) ông bà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/so(sen)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "元祖（がんそ）",
         "meaning": {
-          "english": "originator, founder, pioneer"
+          "english": "originator, founder, pioneer |(vi) người sáng lập, người khai sinh, người tiên phong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/so(sen)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "教祖（きょうそ）",
         "meaning": {
-          "english": "founder of a religious sect, guru"
+          "english": "founder of a religious sect, guru |(vi) người sáng lập giáo phái, giáo chủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/so(sen)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "先祖（せんぞ）",
         "meaning": {
-          "english": "ancestor"
+          "english": "ancestor |(vi) tổ tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/so(sen)_06_f.opus",
@@ -187,7 +187,7 @@
     "kanji": {
       "character": "祖",
       "meaning": {
-        "english": "ancestor"
+        "english": "ancestor |(vi) tổ tiên"
       },
       "strokes": {
         "count": 9,
@@ -243,7 +243,7 @@
         "romaji": "shimesuhen"
       },
       "meaning": {
-        "english": "altar, festival, religious service"
+        "english": "altar, festival, religious service |(vi) Thị (bàn thờ, tế lễ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shimesuhen0.svg",
@@ -264,7 +264,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1226",
     "strokeCount": 9,
-    "meaning": "ancestor, pioneer, founder",
+    "meaning": "ancestor, pioneer, founder |(vi) tổ tiên, người tiên phong, người sáng lập |(hv) Tổ",
     "kunyomi": [],
     "onyomi": [
       "ソ"
@@ -273,22 +273,22 @@
       {
         "example": "祖",
         "reading": "ソ",
-        "meaning": "ancestor, forefather, progenitor, originator, pioneer, inventor, founder, grandfather"
+        "meaning": "ancestor, forefather, progenitor, originator, pioneer, inventor, founder, grandfather |(vi) tổ tiên, ông cha, người khai sáng, người sáng lập, ông nội"
       },
       {
         "example": "祖国",
         "reading": "ソコク",
-        "meaning": "homeland, motherland, fatherland, native country"
+        "meaning": "homeland, motherland, fatherland, native country |(vi) tổ quốc, quê hương, quê cha đất tổ"
       },
       {
         "example": "元祖",
         "reading": "ガンソ",
-        "meaning": "originator, pioneer, inventor, founder, progenitor, primogenitor, founder of a family line"
+        "meaning": "originator, pioneer, inventor, founder, progenitor, primogenitor, founder of a family line |(vi) người khai sáng, người tiên phong, người sáng lập, tổ dòng họ"
       },
       {
         "example": "教祖",
         "reading": "キョウソ",
-        "meaning": "founder of a religious sect"
+        "meaning": "founder of a religious sect |(vi) người sáng lập giáo phái"
       }
     ],
     "kunyomiExamples": [],
@@ -297,7 +297,7 @@
       "forms": [
         "礻"
       ],
-      "meaning": "sign"
+      "meaning": "sign |(vi) Thị (chỉ ra, cúng tế)"
     },
     "parts": [
       "一",

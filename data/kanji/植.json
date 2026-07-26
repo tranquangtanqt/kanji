@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "u, ueru, uwaru",
-    "meaning": "plant",
+    "meaning": "plant |(vi) trồng, cây trồng",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "植物（しょくぶつ）",
         "meaning": {
-          "english": "plant, vegetation"
+          "english": "plant, vegetation |(vi) thực vật, cây cối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "植物園（しょくぶつえん）",
         "meaning": {
-          "english": "botanical garden"
+          "english": "botanical garden |(vi) vườn thực vật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "植民地（しょくみんち）",
         "meaning": {
-          "english": "colony"
+          "english": "colony |(vi) thuộc địa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "臓器移植（ぞうきいしょく）",
         "meaning": {
-          "english": "organ transplant"
+          "english": "organ transplant |(vi) cấy ghép nội tạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "移植する（いしょくする）",
         "meaning": {
-          "english": "transplant, implant"
+          "english": "transplant, implant |(vi) cấy ghép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "入植する（にゅうしょくする）",
         "meaning": {
-          "english": "settle, immigrate"
+          "english": "settle, immigrate |(vi) định cư, di cư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "植える（うえる）",
         "meaning": {
-          "english": "plant, grow [v.t.]"
+          "english": "plant, grow [v.t.] |(vi) trồng, gieo trồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "植木（うえき）",
         "meaning": {
-          "english": "garden shrubs, potted plant"
+          "english": "garden shrubs, potted plant |(vi) cây cảnh trong vườn, chậu cây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "田植え（たうえ）",
         "meaning": {
-          "english": "rice planting"
+          "english": "rice planting |(vi) cấy lúa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "植わる（うわる）",
         "meaning": {
-          "english": "be planted [v.i.]"
+          "english": "be planted [v.i.] |(vi) được trồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_j.opus",
@@ -233,7 +233,7 @@
     "kanji": {
       "character": "植",
       "meaning": {
-        "english": "plant"
+        "english": "plant |(vi) trồng, cây trồng"
       },
       "strokes": {
         "count": 12,
@@ -295,7 +295,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -316,7 +316,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "699",
     "strokeCount": 12,
-    "meaning": "plant",
+    "meaning": "plant |(vi) trồng |(hv) Thực",
     "kunyomi": [
       "う.える",
       "う.わる"
@@ -328,39 +328,39 @@
       {
         "example": "植物",
         "reading": "ショクブツ",
-        "meaning": "plant, vegetation"
+        "meaning": "plant, vegetation |(vi) thực vật, cây cối"
       },
       {
         "example": "植樹",
         "reading": "ショクジュ",
-        "meaning": "tree-planting"
+        "meaning": "tree-planting |(vi) trồng cây"
       },
       {
         "example": "写植",
         "reading": "シャショク",
-        "meaning": "phototypesetting"
+        "meaning": "phototypesetting |(vi) sắp chữ quang học (phototypesetting)"
       },
       {
         "example": "拓殖",
         "reading": "タクショク",
-        "meaning": "colonization, colonisation, development, settlement, exploitation"
+        "meaning": "colonization, colonisation, development, settlement, exploitation |(vi) khai khẩn thuộc địa, phát triển, định cư, khai thác"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "植える",
         "reading": "うえる",
-        "meaning": "to plant, to grow, to raise, to insert, to transplant, to implant, to set (type), to inoculate (e.g. an infectious agent), to instill (idea, value, etc.), to inculcate"
+        "meaning": "to plant, to grow, to raise, to insert, to transplant, to implant, to set (type), to inoculate (e.g. an infectious agent), to instill (idea, value, etc.), to inculcate |(vi) trồng, gieo, nuôi trồng, cấy vào, cấy ghép, ghép tạng, sắp chữ, tiêm chủng (vd. tác nhân gây bệnh), gieo rắc (ý tưởng, giá trị...), truyền thụ"
       },
       {
         "example": "植わる",
         "reading": "うわる",
-        "meaning": "to be planted"
+        "meaning": "to be planted |(vi) được trồng"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "十",

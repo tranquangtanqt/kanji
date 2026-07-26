@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "era, erabu",
-    "meaning": "choose, elect",
+    "meaning": "choose, elect |(vi) chọn, bầu chọn",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "選択する（せんたくする）",
         "meaning": {
-          "english": "choose"
+          "english": "choose |(vi) lựa chọn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-era(bu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "選考する（せんこうする）",
         "meaning": {
-          "english": "screen, select [v.t.]"
+          "english": "screen, select [v.t.] |(vi) sàng lọc, tuyển chọn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-era(bu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "当選する（とうせんする）",
         "meaning": {
-          "english": "be elected"
+          "english": "be elected |(vi) trúng cử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-era(bu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "抽選する（ちゅうせんする）",
         "meaning": {
-          "english": "draw (of lots)"
+          "english": "draw (of lots) |(vi) rút thăm, bốc thăm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-era(bu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "選挙（せんきょ）",
         "meaning": {
-          "english": "election"
+          "english": "election |(vi) cuộc bầu cử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-era(bu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "選手（せんしゅ）",
         "meaning": {
-          "english": "player"
+          "english": "player |(vi) vận động viên, tuyển thủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-era(bu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "予選（よせん）",
         "meaning": {
-          "english": "preliminaries, try-outs"
+          "english": "preliminaries, try-outs |(vi) vòng loại, thi tuyển sơ bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-era(bu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "選ぶ（えらぶ）",
         "meaning": {
-          "english": "choose"
+          "english": "choose |(vi) chọn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-era(bu)_06_h.opus",
@@ -246,7 +246,7 @@
     "kanji": {
       "character": "選",
       "meaning": {
-        "english": "choose, elect"
+        "english": "choose, elect |(vi) chọn, bầu chọn"
       },
       "strokes": {
         "count": 15,
@@ -314,7 +314,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đi, chuyển động)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -335,7 +335,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "57",
     "strokeCount": 15,
-    "meaning": "elect, select, choose, prefer",
+    "meaning": "elect, select, choose, prefer |(vi) bầu chọn, tuyển chọn, chọn, ưa thích |(hv) Tuyển",
     "kunyomi": [
       "えら.ぶ",
       "え.る",
@@ -348,44 +348,44 @@
       {
         "example": "選",
         "reading": "セン",
-        "meaning": "selection, choice, choosing, picking, election"
+        "meaning": "selection, choice, choosing, picking, election |(vi) sự lựa chọn, sự chọn lựa, bầu cử"
       },
       {
         "example": "選挙",
         "reading": "センキョ",
-        "meaning": "election"
+        "meaning": "election |(vi) cuộc bầu cử"
       },
       {
         "example": "抽選",
         "reading": "チュウセン",
-        "meaning": "lottery, raffle, drawing (of lots)"
+        "meaning": "lottery, raffle, drawing (of lots) |(vi) xổ số, rút thăm trúng thưởng, bốc thăm"
       },
       {
         "example": "公選",
         "reading": "コウセン",
-        "meaning": "public election, election by popular vote"
+        "meaning": "public election, election by popular vote |(vi) bầu cử công khai, bầu cử theo phổ thông đầu phiếu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "選ぶ",
         "reading": "えらぶ",
-        "meaning": "to choose, to select"
+        "meaning": "to choose, to select |(vi) chọn, lựa chọn"
       },
       {
         "example": "選ぶところがない",
         "reading": "えらぶところがない",
-        "meaning": "being the same thing (as), being indistinguishable (from)"
+        "meaning": "being the same thing (as), being indistinguishable (from) |(vi) giống hệt nhau, không thể phân biệt được"
       },
       {
         "example": "選る",
         "reading": "よる",
-        "meaning": "to choose, to select, to pick out"
+        "meaning": "to choose, to select, to pick out |(vi) chọn, lựa chọn, lựa ra"
       },
       {
         "example": "選る",
         "reading": "よる",
-        "meaning": "to choose, to select, to pick out"
+        "meaning": "to choose, to select, to pick out |(vi) chọn, lựa chọn, lựa ra"
       }
     ],
     "radical": {
@@ -395,7 +395,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, chuyển động)"
     },
     "parts": [
       "ハ",

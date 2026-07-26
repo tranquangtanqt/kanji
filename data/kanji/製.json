@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "manufacture, produce, make",
+    "meaning": "manufacture, produce, make |(vi) chế tạo, sản xuất, làm ra",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "製品（せいひん）",
         "meaning": {
-          "english": "manufactured goods"
+          "english": "manufactured goods |(vi) hàng hóa sản xuất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(te)sei_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "製図（せいず）",
         "meaning": {
-          "english": "drafting, drawing"
+          "english": "drafting, drawing |(vi) bản vẽ kỹ thuật, vẽ thiết kế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(te)sei_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "製造業（せいぞうぎょう）",
         "meaning": {
-          "english": "manufacturing industry"
+          "english": "manufacturing industry |(vi) ngành công nghiệp chế tạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(te)sei_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "日本製（にほんせい）",
         "meaning": {
-          "english": "Japan made"
+          "english": "Japan made |(vi) sản xuất tại Nhật Bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(te)sei_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "特製（とくせい）",
         "meaning": {
-          "english": "specially made"
+          "english": "specially made |(vi) hàng đặc chế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(te)sei_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "手製（てせい）",
         "meaning": {
-          "english": "handmade"
+          "english": "handmade |(vi) làm bằng tay, thủ công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(te)sei_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "木製（もくせい）",
         "meaning": {
-          "english": "made of wood"
+          "english": "made of wood |(vi) làm bằng gỗ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(te)sei_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "製作する（せいさくする）",
         "meaning": {
-          "english": "manufacture"
+          "english": "manufacture |(vi) chế tạo, sản xuất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(te)sei_06_h.opus",
@@ -208,7 +208,7 @@
     "kanji": {
       "character": "製",
       "meaning": {
-        "english": "manufacture, produce, make"
+        "english": "manufacture, produce, make |(vi) chế tạo, sản xuất, làm ra"
       },
       "strokes": {
         "count": 14,
@@ -274,7 +274,7 @@
         "romaji": "koromo"
       },
       "meaning": {
-        "english": "clothing"
+        "english": "clothing |(vi) Y (áo, quần)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/koromo0.svg",
@@ -295,7 +295,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "488",
     "strokeCount": 14,
-    "meaning": "made in..., manufacture",
+    "meaning": "made in..., manufacture |(vi) sản xuất tại..., chế tạo |(hv) Chế",
     "kunyomi": [],
     "onyomi": [
       "セイ"
@@ -304,22 +304,22 @@
       {
         "example": "製",
         "reading": "セイ",
-        "meaning": "make, manufacture, -made, made of ..., made in ..."
+        "meaning": "make, manufacture, -made, made of ..., made in ... |(vi) làm, chế tạo, làm bằng..., sản xuất tại..."
       },
       {
         "example": "製鋼",
         "reading": "セイコウ",
-        "meaning": "steel manufacture"
+        "meaning": "steel manufacture |(vi) luyện thép"
       },
       {
         "example": "縫製",
         "reading": "ホウセイ",
-        "meaning": "sewing (by machine)"
+        "meaning": "sewing (by machine) |(vi) may (bằng máy)"
       },
       {
         "example": "既製",
         "reading": "キセイ",
-        "meaning": "ready-made, off the shelf"
+        "meaning": "ready-made, off the shelf |(vi) hàng may sẵn, có sẵn"
       }
     ],
     "kunyomiExamples": [],
@@ -328,7 +328,7 @@
       "forms": [
         "衤"
       ],
-      "meaning": "clothes"
+      "meaning": "clothes |(vi) Y (áo, quần)"
     },
     "parts": [
       "亠",

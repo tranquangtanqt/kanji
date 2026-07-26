@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 5,
     "kunyomi": "ta, tareru, tarasu, tare",
-    "meaning": "hang down, drip",
+    "meaning": "hang down, drip |(vi) rủ xuống, nhỏ giọt",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "垂線（すいせん）",
         "meaning": {
-          "english": "perpendicular line"
+          "english": "perpendicular line |(vi) đường vuông góc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "懸垂（けんすい）",
         "meaning": {
-          "english": "pull-up, chinning exercise"
+          "english": "pull-up, chinning exercise |(vi) hít xà đơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "虫垂炎（ちゅうすいえん）",
         "meaning": {
-          "english": "appendicitis"
+          "english": "appendicitis |(vi) viêm ruột thừa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "垂直な（すいちょくな）",
         "meaning": {
-          "english": "vertical, perpendicular"
+          "english": "vertical, perpendicular |(vi) thẳng đứng, vuông góc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "垂らす（たらす）",
         "meaning": {
-          "english": "hang, dangle, spill [v.t.]"
+          "english": "hang, dangle, spill [v.t.] |(vi) treo, thả rủ, làm đổ (tha động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "垂れる（たれる）",
         "meaning": {
-          "english": "hang, dangle, droop [v.i]"
+          "english": "hang, dangle, droop [v.i] |(vi) rủ xuống, thõng xuống, buông thõng (tự động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "垂れ（たれ）",
         "meaning": {
-          "english": "sauce, gravy, hanging"
+          "english": "sauce, gravy, hanging |(vi) nước sốt, phần rủ xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "雨垂れ（あまだれ）",
         "meaning": {
-          "english": "raindrops"
+          "english": "raindrops |(vi) giọt mưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_h.opus",
@@ -187,7 +187,7 @@
     "kanji": {
       "character": "垂",
       "meaning": {
-        "english": "hang down, drip"
+        "english": "hang down, drip |(vi) rủ xuống, nhỏ giọt"
       },
       "strokes": {
         "count": 8,
@@ -241,7 +241,7 @@
         "romaji": "tsuchi"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
@@ -262,7 +262,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1720",
     "strokeCount": 8,
-    "meaning": "droop, suspend, hang, slouch",
+    "meaning": "droop, suspend, hang, slouch |(vi) rủ xuống, treo lơ lửng, thõng xuống, khòm lưng |(hv) Thùy",
     "kunyomi": [
       "た.れる",
       "た.らす",
@@ -277,64 +277,64 @@
       {
         "example": "垂直",
         "reading": "スイチョク",
-        "meaning": "vertical, perpendicular"
+        "meaning": "vertical, perpendicular |(vi) thẳng đứng, vuông góc"
       },
       {
         "example": "垂纓",
         "reading": "スイエイ",
-        "meaning": "hanging tail (of a traditional Japanese hat), drooping tail"
+        "meaning": "hanging tail (of a traditional Japanese hat), drooping tail |(vi) dải mũ rủ xuống (mũ truyền thống Nhật), đuôi rủ"
       },
       {
         "example": "口蓋垂",
         "reading": "コウガイスイ",
-        "meaning": "uvula"
+        "meaning": "uvula |(vi) lưỡi gà (vòm miệng)"
       },
       {
         "example": "虫垂",
         "reading": "チュウスイ",
-        "meaning": "(vermiform) appendix"
+        "meaning": "(vermiform) appendix |(vi) ruột thừa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "垂れる",
         "reading": "たれる",
-        "meaning": "to hang, to droop, to dangle, to sag, to lower, to pull down, to give (e.g. lesson, instruction, scolding) (to someone of lower status), to confer, to grant, to bestow, to drip, to ooze, to trickle, to drop, to leave behind (at death), to say, to utter, to excrete (urine, feces, etc.), to let out (a fart)"
+        "meaning": "to hang, to droop, to dangle, to sag, to lower, to pull down, to give (e.g. lesson, instruction, scolding) (to someone of lower status), to confer, to grant, to bestow, to drip, to ooze, to trickle, to drop, to leave behind (at death), to say, to utter, to excrete (urine, feces, etc.), to let out (a fart) |(vi) rủ xuống, thõng xuống, treo lủng lẳng, chảy xệ, hạ xuống, kéo xuống, truyền dạy (bài học, chỉ dẫn, quở trách) cho người cấp dưới, ban cho, trao tặng, nhỏ giọt, rỉ ra, chảy nhỏ giọt, rơi, để lại (khi qua đời), nói ra, thốt lên, bài tiết (nước tiểu, phân...), thả (rắm)"
       },
       {
         "example": "垂らす",
         "reading": "たらす",
-        "meaning": "to dribble, to spill, to suspend, to hang down, to slouch, to dangle"
+        "meaning": "to dribble, to spill, to suspend, to hang down, to slouch, to dangle |(vi) nhỏ giọt, làm đổ, treo lơ lửng, rủ xuống, khòm lưng, thả lủng lẳng"
       },
       {
         "example": "垂れ",
         "reading": "たれ",
-        "meaning": "sauce (esp. soy or mirin-based dipping sauce), hanging, something hanging (flap, lappet, etc.), (kendo) loin guard, kanji radical enclosing the top-left corner of a character, woman, -ass, -head"
+        "meaning": "sauce (esp. soy or mirin-based dipping sauce), hanging, something hanging (flap, lappet, etc.), (kendo) loin guard, kanji radical enclosing the top-left corner of a character, woman, -ass, -head |(vi) nước sốt (chấm từ đậu nành hoặc mirin), vật rủ xuống, vật treo lủng lẳng (vạt áo...), giáp che hông (kendo), bộ thủ kanji bao góc trên-trái, phụ nữ, thằng, tên (mang nghĩa xấu)"
       },
       {
         "example": "垂れ幕",
         "reading": "たれまく",
-        "meaning": "hanging banner, hanging screen, curtain"
+        "meaning": "hanging banner, hanging screen, curtain |(vi) băng rôn treo, màn treo, rèm"
       },
       {
         "example": "直垂",
         "reading": "ひたたれ",
-        "meaning": "ancient ceremonial court robe"
+        "meaning": "ancient ceremonial court robe |(vi) áo choàng nghi lễ cổ trong triều đình"
       },
       {
         "example": "垂んとす",
         "reading": "なりなんとす",
-        "meaning": "to close in on (a certain age, etc.), to approach, to get close to"
+        "meaning": "to close in on (a certain age, etc.), to approach, to get close to |(vi) gần đến (một độ tuổi nào đó), tiến gần, sắp đạt tới"
       },
       {
         "example": "垂んとする",
         "reading": "なんなんとする",
-        "meaning": "to close in on (30 years of age, etc.), to approach, to get close to"
+        "meaning": "to close in on (30 years of age, etc.), to approach, to get close to |(vi) gần đến (30 tuổi...), tiến gần, sắp đạt tới"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "ノ",

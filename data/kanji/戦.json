@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "ikusa, tataka, tatakau, tatakawasu",
-    "meaning": "war, fight, battle",
+    "meaning": "war, fight, battle |(vi) chiến tranh, đánh nhau, trận chiến",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "戦争（せんそう）",
         "meaning": {
-          "english": "war"
+          "english": "war |(vi) chiến tranh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikusa_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "戦闘（せんとう）",
         "meaning": {
-          "english": "battle, fight, combat"
+          "english": "battle, fight, combat |(vi) chiến đấu, giao chiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikusa_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "戦場（せんじょう）",
         "meaning": {
-          "english": "battlefield, battleground"
+          "english": "battlefield, battleground |(vi) chiến trường, bãi chiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikusa_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "戦前（せんぜん）",
         "meaning": {
-          "english": "pre-war"
+          "english": "pre-war |(vi) trước chiến tranh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikusa_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "戦後（せんご）",
         "meaning": {
-          "english": "postwar"
+          "english": "postwar |(vi) sau chiến tranh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikusa_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "作戦（さくせん）",
         "meaning": {
-          "english": "tactics, strategy"
+          "english": "tactics, strategy |(vi) chiến thuật, chiến lược"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikusa_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "決勝戦（けっしょうせん）",
         "meaning": {
-          "english": "finals game of a tournament decision of a contest"
+          "english": "finals game of a tournament decision of a contest |(vi) trận chung kết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikusa_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "観戦する（かんせんする）",
         "meaning": {
-          "english": "watch a game"
+          "english": "watch a game |(vi) xem trận đấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikusa_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "敗戦する（はいせんする）",
         "meaning": {
-          "english": "lose, be defeated"
+          "english": "lose, be defeated |(vi) thua trận, thất bại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikusa_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "挑戦する（ちょうせんする）",
         "meaning": {
-          "english": "challenge, defy [v.i.]"
+          "english": "challenge, defy [v.i.] |(vi) thách thức, khiêu chiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikusa_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "戦（いくさ）",
         "meaning": {
-          "english": "war, battle, campaign, fight"
+          "english": "war, battle, campaign, fight |(vi) chiến tranh, trận chiến, cuộc chiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikusa_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "戦う（たたかう）",
         "meaning": {
-          "english": "fight [v.i.]"
+          "english": "fight [v.i.] |(vi) chiến đấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikusa_06_l.opus",
@@ -302,7 +302,7 @@
     "kanji": {
       "character": "戦",
       "meaning": {
-        "english": "war, fight, battle"
+        "english": "war, fight, battle |(vi) chiến tranh, đánh nhau, trận chiến"
       },
       "strokes": {
         "count": 13,
@@ -366,7 +366,7 @@
         "romaji": "hoko"
       },
       "meaning": {
-        "english": "spear, weapon"
+        "english": "spear, weapon |(vi) Qua (cây giáo, vũ khí)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hoko0.svg",
@@ -387,7 +387,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "78",
     "strokeCount": 13,
-    "meaning": "war, battle, match",
+    "meaning": "war, battle, match |(vi) chiến tranh, trận đánh, trận đấu |(hv) Chiến",
     "kunyomi": [
       "いくさ",
       "たたか.う",
@@ -402,69 +402,69 @@
       {
         "example": "戦",
         "reading": "セン",
-        "meaning": "war, battle, match, game, competition"
+        "meaning": "war, battle, match, game, competition |(vi) chiến tranh, trận đấu, cuộc thi đấu"
       },
       {
         "example": "戦域",
         "reading": "センイキ",
-        "meaning": "war area, battlefield, theater, theatre"
+        "meaning": "war area, battlefield, theater, theatre |(vi) vùng chiến sự, chiến trường"
       },
       {
         "example": "開戦",
         "reading": "カイセン",
-        "meaning": "outbreak of war, starting a war"
+        "meaning": "outbreak of war, starting a war |(vi) khai chiến, bắt đầu chiến tranh"
       },
       {
         "example": "回戦",
         "reading": "カイセン",
-        "meaning": "event with ... rounds, innings, legs, etc., nth-round match (in a knockout tournament)"
+        "meaning": "event with ... rounds, innings, legs, etc., nth-round match (in a knockout tournament) |(vi) trận đấu vòng thứ..., trận đấu loại trực tiếp"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "戦",
         "reading": "いくさ",
-        "meaning": "war, battle, campaign, fight, troops, forces"
+        "meaning": "war, battle, campaign, fight, troops, forces |(vi) chiến tranh, trận chiến, chiến dịch, quân đội"
       },
       {
         "example": "戦乙女",
         "reading": "いくさおとめ",
-        "meaning": "Valkyrie"
+        "meaning": "Valkyrie |(vi) nữ thần chiến tranh (Valkyrie)"
       },
       {
         "example": "負け戦",
         "reading": "まけいくさ",
-        "meaning": "losing a battle, lost battle, battle one cannot win, battle one is doomed to lose"
+        "meaning": "losing a battle, lost battle, battle one cannot win, battle one is doomed to lose |(vi) trận thua, trận đánh không thể thắng"
       },
       {
         "example": "野合戦",
         "reading": "のがっせん",
-        "meaning": "battle in the open, battle on an open field"
+        "meaning": "battle in the open, battle on an open field |(vi) trận đánh ngoài đồng trống"
       },
       {
         "example": "戦う",
         "reading": "たたかう",
-        "meaning": "to make war (on), to wage war (against), to go to war (with), to fight (with), to do battle (against), to compete (against), to struggle (against adversities, etc.), to fight, to contend, to resist"
+        "meaning": "to make war (on), to wage war (against), to go to war (with), to fight (with), to do battle (against), to compete (against), to struggle (against adversities, etc.), to fight, to contend, to resist |(vi) chiến đấu, giao chiến, đấu tranh, chống chọi"
       },
       {
         "example": "戦く",
         "reading": "おののく",
-        "meaning": "to shake (from fear, cold, excitement, etc.), to shudder, to tremble"
+        "meaning": "to shake (from fear, cold, excitement, etc.), to shudder, to tremble |(vi) run rẩy, run sợ (vì lạnh, sợ hãi...)"
       },
       {
         "example": "戦ぐ",
         "reading": "そよぐ",
-        "meaning": "to rustle, to sway, to stir, to flutter"
+        "meaning": "to rustle, to sway, to stir, to flutter |(vi) xào xạc, lay động, rung rinh"
       },
       {
         "example": "戦慄く",
         "reading": "わななく",
-        "meaning": "to tremble, to shiver, to shake"
+        "meaning": "to tremble, to shiver, to shake |(vi) run rẩy, rung động"
       }
     ],
     "radical": {
       "symbol": "戈",
-      "meaning": "spear, halberd"
+      "meaning": "spear, halberd |(vi) Qua (cây giáo, kích)"
     },
     "parts": [
       "十",

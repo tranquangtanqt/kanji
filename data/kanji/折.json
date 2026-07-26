@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "o, oru, ori, oreru",
-    "meaning": "break off, fold, bend",
+    "meaning": "break off, fold, bend |(vi) bẻ gãy, gấp, uốn cong",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "和洋折衷（わようせっちゅう）",
         "meaning": {
-          "english": "blend of Japanese and Western"
+          "english": "blend of Japanese and Western |(vi) sự pha trộn Nhật - Tây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "紆余曲折（うよきょくせつ）",
         "meaning": {
-          "english": "twists and turns, ups and downs"
+          "english": "twists and turns, ups and downs |(vi) khúc khuỷu, thăng trầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "右折する（うせつする）",
         "meaning": {
-          "english": "turn right"
+          "english": "turn right |(vi) rẽ phải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "左折する（させつする）",
         "meaning": {
-          "english": "turn left"
+          "english": "turn left |(vi) rẽ trái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "屈折する（くっせつする）",
         "meaning": {
-          "english": "bend, refract, distort"
+          "english": "bend, refract, distort |(vi) uốn cong, khúc xạ, bóp méo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "骨折する（こっせつする）",
         "meaning": {
-          "english": "break a bone"
+          "english": "break a bone |(vi) gãy xương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "折る（おる）",
         "meaning": {
-          "english": "break, fold [v.t.]"
+          "english": "break, fold [v.t.] |(vi) bẻ gãy, gấp lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "折り紙（おりがみ）",
         "meaning": {
-          "english": "origami"
+          "english": "origami |(vi) gấp giấy origami"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "折れる（おれる）",
         "meaning": {
-          "english": "break, be folded, give in [v.i.]"
+          "english": "break, be folded, give in [v.i.] |(vi) gãy, bị gấp, nhượng bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "折（おり）",
         "meaning": {
-          "english": "an occasion, a chance"
+          "english": "an occasion, a chance |(vi) dịp, cơ hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_j.opus",
@@ -255,7 +255,7 @@
     "kanji": {
       "character": "折",
       "meaning": {
-        "english": "break off, fold, bend"
+        "english": "break off, fold, bend |(vi) bẻ gãy, gấp, uốn cong"
       },
       "strokes": {
         "count": 7,
@@ -307,7 +307,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -328,7 +328,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "962",
     "strokeCount": 7,
-    "meaning": "fold, break, fracture, bend, yield, submit",
+    "meaning": "fold, break, fracture, bend, yield, submit |(vi) gấp, bẻ gãy, gãy vỡ, uốn cong, nhượng bộ, khuất phục |(hv) Chiết",
     "kunyomi": [
       "お.る",
       "おり",
@@ -344,69 +344,69 @@
       {
         "example": "曲折",
         "reading": "キョクセツ",
-        "meaning": "bending, winding, meandering, zigzagging, ups and downs, twists and turns, complications, difficulties, vicissitudes"
+        "meaning": "bending, winding, meandering, zigzagging, ups and downs, twists and turns, complications, difficulties, vicissitudes |(vi) quanh co, khúc khuỷu, thăng trầm, gian nan"
       },
       {
         "example": "屈折",
         "reading": "クッセツ",
-        "meaning": "bending, curving, twisting, turning, winding, warping (of feelings, logic, etc.), distortion, twisting, refraction, inflection"
+        "meaning": "bending, curving, twisting, turning, winding, warping (of feelings, logic, etc.), distortion, twisting, refraction, inflection |(vi) uốn cong, khúc xạ, bóp méo (cảm xúc, logic...)"
       },
       {
         "example": "折伏",
         "reading": "シャクブク",
-        "meaning": "preaching down, breaking down someone's false beliefs through confrontation (in order to convert them to the right faith)"
+        "meaning": "preaching down, breaking down someone's false beliefs through confrontation (in order to convert them to the right faith) |(vi) bẻ gãy niềm tin sai lầm để cải đạo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "折る",
         "reading": "おる",
-        "meaning": "to break, to fracture, to break off, to snap off, to pick (e.g. flowers), to fold, to bend, to make (origami), to interrupt, to end"
+        "meaning": "to break, to fracture, to break off, to snap off, to pick (e.g. flowers), to fold, to bend, to make (origami), to interrupt, to end |(vi) bẻ gãy, ngắt, hái (hoa), gấp, uốn cong, gấp origami, ngắt quãng, kết thúc"
       },
       {
         "example": "折",
         "reading": "おり",
-        "meaning": "opportunity, chance, occasion, time, folding, fold, pleat, crease, small food box (wooden or cardboard), folding in ... (two, three, etc.), counter for folded items, counter for items (esp. food) packed in an oribako"
+        "meaning": "opportunity, chance, occasion, time, folding, fold, pleat, crease, small food box (wooden or cardboard), folding in ... (two, three, etc.), counter for folded items, counter for items (esp. food) packed in an oribako |(vi) cơ hội, dịp, nếp gấp, hộp cơm nhỏ, lượng gấp (hai, ba...)"
       },
       {
         "example": "折り合い",
         "reading": "おりあい",
-        "meaning": "agreement (e.g. business, dispute), understanding, compromise, settlement, relationship, relation, (good, bad, etc.) terms"
+        "meaning": "agreement (e.g. business, dispute), understanding, compromise, settlement, relationship, relation, (good, bad, etc.) terms |(vi) sự thỏa thuận, thấu hiểu, thỏa hiệp, quan hệ (tốt/xấu)"
       },
       {
         "example": "折々",
         "reading": "おりおり",
-        "meaning": "occasionally, now and then, from time to time"
+        "meaning": "occasionally, now and then, from time to time |(vi) thỉnh thoảng, đôi khi"
       },
       {
         "example": "指折り",
         "reading": "ゆびおり",
-        "meaning": "leading, prominent, eminent, foremost, distinguished, counting on one's fingers"
+        "meaning": "leading, prominent, eminent, foremost, distinguished, counting on one's fingers |(vi) nổi bật, xuất sắc, hàng đầu, đếm trên đầu ngón tay"
       },
       {
         "example": "折",
         "reading": "おり",
-        "meaning": "opportunity, chance, occasion, time, folding, fold, pleat, crease, small food box (wooden or cardboard), folding in ... (two, three, etc.), counter for folded items, counter for items (esp. food) packed in an oribako"
+        "meaning": "opportunity, chance, occasion, time, folding, fold, pleat, crease, small food box (wooden or cardboard), folding in ... (two, three, etc.), counter for folded items, counter for items (esp. food) packed in an oribako |(vi) cơ hội, dịp, nếp gấp, hộp cơm nhỏ, lượng gấp (hai, ba...)"
       },
       {
         "example": "折り合い",
         "reading": "おりあい",
-        "meaning": "agreement (e.g. business, dispute), understanding, compromise, settlement, relationship, relation, (good, bad, etc.) terms"
+        "meaning": "agreement (e.g. business, dispute), understanding, compromise, settlement, relationship, relation, (good, bad, etc.) terms |(vi) sự thỏa thuận, thấu hiểu, thỏa hiệp, quan hệ (tốt/xấu)"
       },
       {
         "example": "折々",
         "reading": "おりおり",
-        "meaning": "occasionally, now and then, from time to time"
+        "meaning": "occasionally, now and then, from time to time |(vi) thỉnh thoảng, đôi khi"
       },
       {
         "example": "指折り",
         "reading": "ゆびおり",
-        "meaning": "leading, prominent, eminent, foremost, distinguished, counting on one's fingers"
+        "meaning": "leading, prominent, eminent, foremost, distinguished, counting on one's fingers |(vi) nổi bật, xuất sắc, hàng đầu, đếm trên đầu ngón tay"
       },
       {
         "example": "折れる",
         "reading": "おれる",
-        "meaning": "to break, to be broken, to snap, to fracture, to be folded, to give in, to back down, to yield, to submit, to turn (a corner)"
+        "meaning": "to break, to be broken, to snap, to fracture, to be folded, to give in, to back down, to yield, to submit, to turn (a corner) |(vi) gãy, bị bẻ gãy, gãy vỡ, bị gấp, nhượng bộ, khuất phục, rẽ (góc)"
       }
     ],
     "radical": {
@@ -414,7 +414,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "扎",

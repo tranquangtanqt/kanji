@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "futa",
-    "meaning": "set of two, pair, both",
+    "meaning": "set of two, pair, both |(vi) cặp đôi, đôi, cả hai",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "双方（そうほう）",
         "meaning": {
-          "english": "both parties, bilateral"
+          "english": "both parties, bilateral |(vi) cả hai bên, song phương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futa(go)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "双肩（そうけん）",
         "meaning": {
-          "english": "shoulders"
+          "english": "shoulders |(vi) đôi vai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futa(go)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "双眼鏡（そうがんきょう）",
         "meaning": {
-          "english": "binoculars, field glasses"
+          "english": "binoculars, field glasses |(vi) ống nhòm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futa(go)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "双生児（そうせいじ）",
         "meaning": {
-          "english": "twins"
+          "english": "twins |(vi) trẻ sinh đôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futa(go)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "双子（ふたご）",
         "meaning": {
-          "english": "twins, a twin"
+          "english": "twins, a twin |(vi) sinh đôi, cặp song sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futa(go)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "双葉（ふたば）",
         "meaning": {
-          "english": "seed leaf, cotyledon"
+          "english": "seed leaf, cotyledon |(vi) lá mầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futa(go)_06_f.opus",
@@ -158,7 +158,7 @@
     "kanji": {
       "character": "双",
       "meaning": {
-        "english": "set of two, pair, both"
+        "english": "set of two, pair, both |(vi) cặp đôi, đôi, cả hai"
       },
       "strokes": {
         "count": 4,
@@ -204,7 +204,7 @@
         "romaji": "mata"
       },
       "meaning": {
-        "english": "again, right hand"
+        "english": "again, right hand |(vi) Hựu (lại, thêm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mata0.svg",
@@ -225,7 +225,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1029",
     "strokeCount": 4,
-    "meaning": "pair, set, comparison, counter for pairs",
+    "meaning": "pair, set, comparison, counter for pairs |(vi) cặp, bộ đôi, so sánh, lượng từ đếm cặp |(hv) Song",
     "kunyomi": [
       "ふた",
       "たぐい",
@@ -239,49 +239,49 @@
       {
         "example": "双",
         "reading": "ソウ",
-        "meaning": "pair"
+        "meaning": "pair |(vi) cặp, đôi"
       },
       {
         "example": "双子",
         "reading": "フタゴ",
-        "meaning": "twins, twin"
+        "meaning": "twins, twin |(vi) sinh đôi"
       },
       {
         "example": "一双",
         "reading": "イッソウ",
-        "meaning": "pair (esp. of folding screens)"
+        "meaning": "pair (esp. of folding screens) |(vi) một cặp (bình phong)"
       },
       {
         "example": "八双",
         "reading": "ハッソウ",
-        "meaning": "style of sword fighting"
+        "meaning": "style of sword fighting |(vi) thế kiếm Bát Song (kiếm thuật)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "二つ",
         "reading": "ふたつ",
-        "meaning": "two"
+        "meaning": "two |(vi) hai"
       },
       {
         "example": "双子",
         "reading": "ふたご",
-        "meaning": "twins, twin"
+        "meaning": "twins, twin |(vi) sinh đôi"
       },
       {
         "example": "並ぶ",
         "reading": "ならぶ",
-        "meaning": "to line up, to stand in a line, to rival, to match, to equal"
+        "meaning": "to line up, to stand in a line, to rival, to match, to equal |(vi) xếp hàng, sánh ngang, ngang bằng"
       },
       {
         "example": "二つ",
         "reading": "ふたつ",
-        "meaning": "two"
+        "meaning": "two |(vi) hai"
       }
     ],
     "radical": {
       "symbol": "又",
-      "meaning": "right hand"
+      "meaning": "right hand |(vi) Hựu (lại, thêm)"
     },
     "parts": [
       "丶",

@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "hari",
-    "meaning": "needle",
+    "meaning": "needle |(vi) cây kim",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "針葉樹林（しんようじゅりん）",
         "meaning": {
-          "english": "conifer, needle-leaved tree"
+          "english": "conifer, needle-leaved tree |(vi) cây lá kim, rừng lá kim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "秒針（びょうしん）",
         "meaning": {
-          "english": "second hand"
+          "english": "second hand |(vi) kim giây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "長針（ちょうしん）",
         "meaning": {
-          "english": "long hand"
+          "english": "long hand |(vi) kim phút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "短針（たんしん）",
         "meaning": {
-          "english": "hour hand"
+          "english": "hour hand |(vi) kim giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "指針（ししん）",
         "meaning": {
-          "english": "pointer, guiding principle"
+          "english": "pointer, guiding principle |(vi) kim chỉ, phương châm chỉ đạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "方針（ほうしん）",
         "meaning": {
-          "english": "objective, plan, policy"
+          "english": "objective, plan, policy |(vi) mục tiêu, kế hoạch, phương châm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "検針（けんしん）",
         "meaning": {
-          "english": "inspection of a meter"
+          "english": "inspection of a meter |(vi) kiểm tra đồng hồ đo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "羅針盤（らしんばん）",
         "meaning": {
-          "english": "(mariner's) compass"
+          "english": "(mariner's) compass |(vi) la bàn (hàng hải)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "避雷針（ひらいしん）",
         "meaning": {
-          "english": "lightning rod"
+          "english": "lightning rod |(vi) cột thu lôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "針（はり）",
         "meaning": {
-          "english": "needle, fish hook, pointer, hand"
+          "english": "needle, fish hook, pointer, hand |(vi) cây kim, lưỡi câu, kim chỉ, kim đồng hồ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "針金（はりがね）",
         "meaning": {
-          "english": "wire"
+          "english": "wire |(vi) dây thép, dây kẽm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_k.opus",
@@ -220,7 +220,7 @@
     "kanji": {
       "character": "針",
       "meaning": {
-        "english": "needle"
+        "english": "needle |(vi) cây kim"
       },
       "strokes": {
         "count": 10,
@@ -278,7 +278,7 @@
         "romaji": "kanehen"
       },
       "meaning": {
-        "english": "metal, gold, mineral"
+        "english": "metal, gold, mineral |(vi) Kim (vàng, kim loại, khoáng chất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kanehen0.svg",
@@ -299,7 +299,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "505",
     "strokeCount": 10,
-    "meaning": "needle, pin, staple, stinger",
+    "meaning": "needle, pin, staple, stinger |(vi) cây kim, ghim, kim bấm, ngòi chích |(hv) Châm",
     "kunyomi": [
       "はり"
     ],
@@ -310,44 +310,44 @@
       {
         "example": "鍼灸",
         "reading": "シンキュウ",
-        "meaning": "acupuncture and moxibustion"
+        "meaning": "acupuncture and moxibustion |(vi) châm cứu (kim châm và ngải cứu)"
       },
       {
         "example": "針葉樹",
         "reading": "シンヨウジュ",
-        "meaning": "conifer, needle-leaved tree"
+        "meaning": "conifer, needle-leaved tree |(vi) cây lá kim, cây có lá hình kim"
       },
       {
         "example": "指針",
         "reading": "シシン",
-        "meaning": "needle (compass, gauge, etc.), hand (clock), indicator, pointer, index, guiding principle, guideline, guide"
+        "meaning": "needle (compass, gauge, etc.), hand (clock), indicator, pointer, index, guiding principle, guideline, guide |(vi) kim chỉ (la bàn, đồng hồ đo, v.v.), kim đồng hồ, kim chỉ báo, chỉ số, phương châm chỉ đạo, hướng dẫn"
       },
       {
         "example": "検針",
         "reading": "ケンシン",
-        "meaning": "inspection of a meter, reading a meter, needle detection (in garments, etc.), needle inspection"
+        "meaning": "inspection of a meter, reading a meter, needle detection (in garments, etc.), needle inspection |(vi) kiểm tra đồng hồ đo, đọc số đồng hồ đo, dò kim (trong quần áo, v.v.), kiểm tra kim loại"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "針",
         "reading": "はり",
-        "meaning": "needle, pin, hook, stinger, thorn, hand (e.g. clock, etc.), pointer, staple (for a stapler), needlework, sewing, malice, counter for stitches"
+        "meaning": "needle, pin, hook, stinger, thorn, hand (e.g. clock, etc.), pointer, staple (for a stapler), needlework, sewing, malice, counter for stitches |(vi) cây kim, ghim, móc câu, ngòi chích, gai nhọn, kim đồng hồ, kim chỉ, kim bấm (dập ghim), việc khâu vá, may vá, ác ý, lượng từ đếm mũi khâu"
       },
       {
         "example": "針金",
         "reading": "はりがね",
-        "meaning": "wire"
+        "meaning": "wire |(vi) dây thép, dây kẽm"
       },
       {
         "example": "縫い針",
         "reading": "ぬいばり",
-        "meaning": "sewing needle"
+        "meaning": "sewing needle |(vi) kim khâu"
       },
       {
         "example": "無外傷性針",
         "reading": "むがいしょうせいはり",
-        "meaning": "atraumatic needle"
+        "meaning": "atraumatic needle |(vi) kim không gây tổn thương (kim y tế đầu tù)"
       }
     ],
     "radical": {
@@ -355,7 +355,7 @@
       "forms": [
         "釒"
       ],
-      "meaning": "metal, gold"
+      "meaning": "metal, gold |(vi) Kim (vàng, kim loại)"
     },
     "parts": [
       "十",

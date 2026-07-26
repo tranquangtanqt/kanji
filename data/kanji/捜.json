@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "saga, sagasu",
-    "meaning": "look for, search, seek",
+    "meaning": "look for, search, seek |(vi) tìm kiếm, lục soát",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "家宅捜査（かたくそうさ）",
         "meaning": {
-          "english": "household search"
+          "english": "household search |(vi) khám xét nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-saga(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "捜査する（そうさする）",
         "meaning": {
-          "english": "investigate (a criminal case)"
+          "english": "investigate (a criminal case) |(vi) điều tra (một vụ án)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-saga(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "捜索する（そうさくする）",
         "meaning": {
-          "english": "search (for a criminal), hunt"
+          "english": "search (for a criminal), hunt |(vi) truy tìm (tội phạm), truy lùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-saga(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "捜す（さがす）",
         "meaning": {
-          "english": "search, seek, look for"
+          "english": "search, seek, look for |(vi) tìm kiếm, tìm, lục tìm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-saga(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "捜し物（さがしもの）",
         "meaning": {
-          "english": "object being sought"
+          "english": "object being sought |(vi) vật đang tìm kiếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-saga(su)_06_e.opus",
@@ -152,7 +152,7 @@
     "kanji": {
       "character": "捜",
       "meaning": {
-        "english": "look for, search, seek"
+        "english": "look for, search, seek |(vi) tìm kiếm, lục soát"
       },
       "strokes": {
         "count": 10,
@@ -210,7 +210,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -231,7 +231,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "592",
     "strokeCount": 10,
-    "meaning": "search, look for, locate",
+    "meaning": "search, look for, locate |(vi) tìm kiếm, tìm, xác định vị trí |(hv) Sưu",
     "kunyomi": [
       "さが.す"
     ],
@@ -244,29 +244,29 @@
       {
         "example": "捜索",
         "reading": "ソウサク",
-        "meaning": "search (esp. for someone or something missing), manhunt, legally authorized search of a person, building, etc."
+        "meaning": "search (esp. for someone or something missing), manhunt, legally authorized search of a person, building, etc. |(vi) tìm kiếm (nhất là người hoặc vật mất tích), truy lùng, khám xét hợp pháp (người, tòa nhà...)"
       },
       {
         "example": "捜査",
         "reading": "ソウサ",
-        "meaning": "search (esp. in criminal investigations), investigation, inquiry, enquiry"
+        "meaning": "search (esp. in criminal investigations), investigation, inquiry, enquiry |(vi) điều tra (nhất là án hình sự), tra xét"
       },
       {
         "example": "特捜",
         "reading": "トクソウ",
-        "meaning": "special investigation"
+        "meaning": "special investigation |(vi) điều tra đặc biệt"
       },
       {
         "example": "博捜",
         "reading": "ハクソウ",
-        "meaning": "searching far and wide"
+        "meaning": "searching far and wide |(vi) tìm kiếm rộng khắp"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "探す",
         "reading": "さがす",
-        "meaning": "to search for, to look for, to hunt for, to seek, to search (a house, pocket, etc.), to search through, to rummage in (e.g. a drawer), to fish around"
+        "meaning": "to search for, to look for, to hunt for, to seek, to search (a house, pocket, etc.), to search through, to rummage in (e.g. a drawer), to fish around |(vi) tìm kiếm, tìm, lục tìm, tìm khắp (nhà, túi...), lục soát, lục lọi (ngăn kéo...)"
       }
     ],
     "radical": {
@@ -274,7 +274,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "又",

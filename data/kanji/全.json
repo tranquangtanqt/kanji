@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 2,
     "kunyomi": "matta, mattaku, sube, subete",
-    "meaning": "whole",
+    "meaning": "whole |(vi) toàn bộ, toàn thể",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "全然（ぜんぜん）",
         "meaning": {
-          "english": "not at all"
+          "english": "not at all |(vi) hoàn toàn không, chẳng chút nào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "全部（ぜんぶ）",
         "meaning": {
-          "english": "all"
+          "english": "all |(vi) tất cả, toàn bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "全体（ぜんたい）",
         "meaning": {
-          "english": "whole"
+          "english": "whole |(vi) toàn thể, tổng thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "全員（ぜんいん）",
         "meaning": {
-          "english": "all members"
+          "english": "all members |(vi) toàn thể thành viên, tất cả mọi người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "全力（ぜんりょく）",
         "meaning": {
-          "english": "all one's power"
+          "english": "all one's power |(vi) toàn lực, hết sức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "全世界（ぜんせかい）",
         "meaning": {
-          "english": "the whole world"
+          "english": "the whole world |(vi) toàn thế giới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "完全な（かんぜんな）",
         "meaning": {
-          "english": "perfect"
+          "english": "perfect |(vi) hoàn hảo, hoàn toàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "安全な（あんぜんな）",
         "meaning": {
-          "english": "safe"
+          "english": "safe |(vi) an toàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "全く（まったく）",
         "meaning": {
-          "english": "really"
+          "english": "really |(vi) hoàn toàn, thực sự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "*全うする（まっとうする）",
         "meaning": {
-          "english": "fulfill"
+          "english": "fulfill |(vi) hoàn thành, làm tròn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "全て（すべて）",
         "meaning": {
-          "english": "all"
+          "english": "all |(vi) tất cả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_k.opus",
@@ -303,7 +303,7 @@
     "kanji": {
       "character": "全",
       "meaning": {
-        "english": "whole"
+        "english": "whole |(vi) toàn bộ, toàn thể"
       },
       "strokes": {
         "count": 6,
@@ -353,7 +353,7 @@
         "romaji": "hitoyane"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoyane0.svg",
@@ -374,7 +374,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "75",
     "strokeCount": 6,
-    "meaning": "whole, entire, all, complete, fulfill",
+    "meaning": "whole, entire, all, complete, fulfill |(vi) toàn bộ, toàn thể, tất cả, hoàn chỉnh, hoàn thành |(hv) Toàn",
     "kunyomi": [
       "まった.く",
       "すべ.て"
@@ -386,49 +386,49 @@
       {
         "example": "全",
         "reading": "ゼン",
-        "meaning": "all, whole, entire, complete, total, pan-, complete (set), in total"
+        "meaning": "all, whole, entire, complete, total, pan-, complete (set), in total |(vi) toàn bộ, toàn thể, hoàn toàn, tổng cộng"
       },
       {
         "example": "全域",
         "reading": "ゼンイキ",
-        "meaning": "the whole area, the entire region, all parts (of), the whole field (of study), every field, the whole gamut"
+        "meaning": "the whole area, the entire region, all parts (of), the whole field (of study), every field, the whole gamut |(vi) toàn khu vực, toàn bộ lĩnh vực"
       },
       {
         "example": "腎不全",
         "reading": "ジンフゼン",
-        "meaning": "kidney failure, renal failure"
+        "meaning": "kidney failure, renal failure |(vi) suy thận"
       },
       {
         "example": "大全",
         "reading": "タイゼン",
-        "meaning": "complete collection, large collection, complete works"
+        "meaning": "complete collection, large collection, complete works |(vi) toàn tập, bộ sưu tập đầy đủ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "全く",
         "reading": "まったく",
-        "meaning": "really, truly, entirely, completely, wholly, perfectly, indeed, good grief"
+        "meaning": "really, truly, entirely, completely, wholly, perfectly, indeed, good grief |(vi) hoàn toàn, thực sự, quả thật"
       },
       {
         "example": "全くする",
         "reading": "まったくする",
-        "meaning": "to accomplish, to fulfill, to carry out"
+        "meaning": "to accomplish, to fulfill, to carry out |(vi) hoàn thành, làm tròn"
       },
       {
         "example": "全て",
         "reading": "すべて",
-        "meaning": "everything, all, the whole, entirely, completely, wholly, all"
+        "meaning": "everything, all, the whole, entirely, completely, wholly, all |(vi) tất cả, toàn bộ, hoàn toàn"
       },
       {
         "example": "すべて選択",
         "reading": "すべてせんたく",
-        "meaning": "select all"
+        "meaning": "select all |(vi) chọn tất cả"
       }
     ],
     "radical": {
       "symbol": "入",
-      "meaning": "enter"
+      "meaning": "enter |(vi) Nhập (vào)"
     },
     "parts": [
       "ハ",

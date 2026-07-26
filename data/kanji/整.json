@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "totono, totonoeru, totonou",
-    "meaning": "put in order, organize, prepared",
+    "meaning": "put in order, organize, prepared |(vi) sắp xếp, tổ chức, chuẩn bị",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "整数（せいすう）",
         "meaning": {
-          "english": "integer"
+          "english": "integer |(vi) số nguyên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "整地（せいち）",
         "meaning": {
-          "english": "soil preparation"
+          "english": "soil preparation |(vi) san đất, cải tạo đất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "整形外科（せいけいげか）",
         "meaning": {
-          "english": "orthopedics, plastic surgery"
+          "english": "orthopedics, plastic surgery |(vi) chỉnh hình, phẫu thuật thẩm mỹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "均整（きんせい）",
         "meaning": {
-          "english": "symmetry, balance"
+          "english": "symmetry, balance |(vi) cân đối, đối xứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "整然と（せいぜんと）",
         "meaning": {
-          "english": "in an orderly manner"
+          "english": "in an orderly manner |(vi) một cách trật tự, ngăn nắp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "整理する（せいりする）",
         "meaning": {
-          "english": "sort, arrange, adjust"
+          "english": "sort, arrange, adjust |(vi) sắp xếp, chỉnh lý, điều chỉnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "整備する（せいびする）",
         "meaning": {
-          "english": "keep in good condition/repair"
+          "english": "keep in good condition/repair |(vi) bảo dưỡng, giữ tình trạng tốt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "調整する（ちょうせいする）",
         "meaning": {
-          "english": "adjust, fine tune"
+          "english": "adjust, fine tune |(vi) điều chỉnh, tinh chỉnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "整える（ととのえる）",
         "meaning": {
-          "english": "put in order, arrange [v.t.]"
+          "english": "put in order, arrange [v.t.] |(vi) sắp xếp, chỉnh đốn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "整う（ととのう）",
         "meaning": {
-          "english": "be prepared, be in order [v.i.]"
+          "english": "be prepared, be in order [v.i.] |(vi) được chuẩn bị sẵn sàng, ổn thỏa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_j.opus",
@@ -234,7 +234,7 @@
     "kanji": {
       "character": "整",
       "meaning": {
-        "english": "put in order, organize, prepared"
+        "english": "put in order, organize, prepared |(vi) sắp xếp, tổ chức, chuẩn bị"
       },
       "strokes": {
         "count": 16,
@@ -304,7 +304,7 @@
         "romaji": "bokuzukuri"
       },
       "meaning": {
-        "english": "activity, to strike, hit"
+        "english": "activity, to strike, hit |(vi) Phộc (đánh nhẹ, gõ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/bokuzukuri0.svg",
@@ -325,7 +325,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "478",
     "strokeCount": 16,
-    "meaning": "organize, arranging, tune, tone, meter, key (music)",
+    "meaning": "organize, arranging, tune, tone, meter, key (music) |(vi) sắp xếp, tổ chức, điều chỉnh, âm điệu, nhịp điệu, cung bậc (âm nhạc) |(hv) Chỉnh",
     "kunyomi": [
       "ととの.える",
       "ととの.う"
@@ -337,34 +337,34 @@
       {
         "example": "整合",
         "reading": "セイゴウ",
-        "meaning": "adjustment, coordination, integration, conformity"
+        "meaning": "adjustment, coordination, integration, conformity |(vi) sự điều chỉnh, phối hợp, tích hợp, phù hợp"
       },
       {
         "example": "整形外科",
         "reading": "セイケイゲカ",
-        "meaning": "orthopedic surgery, orthopaedic surgery, orthopedics, orthopaedics, plastic surgery, cosmetic surgery"
+        "meaning": "orthopedic surgery, orthopaedic surgery, orthopedics, orthopaedics, plastic surgery, cosmetic surgery |(vi) phẫu thuật chỉnh hình, phẫu thuật thẩm mỹ"
       },
       {
         "example": "年末調整",
         "reading": "ネンマツチョウセイ",
-        "meaning": "year-end tax adjustment"
+        "meaning": "year-end tax adjustment |(vi) điều chỉnh thuế cuối năm"
       },
       {
         "example": "修整",
         "reading": "シュウセイ",
-        "meaning": "adjustment, retouching (in photography)"
+        "meaning": "adjustment, retouching (in photography) |(vi) điều chỉnh, chỉnh sửa (ảnh)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "整える",
         "reading": "ととのえる",
-        "meaning": "to put in order, to arrange, to tidy up, to fix, to straighten, to get ready, to prepare, to arrange, to supply, to assemble, to buy, to adjust, to regulate (e.g. rhythm, tune, one's breathing), to work out (e.g. business deal), to arrange (e.g. marriage), to settle"
+        "meaning": "to put in order, to arrange, to tidy up, to fix, to straighten, to get ready, to prepare, to arrange, to supply, to assemble, to buy, to adjust, to regulate (e.g. rhythm, tune, one's breathing), to work out (e.g. business deal), to arrange (e.g. marriage), to settle |(vi) sắp xếp, chỉnh đốn, dọn dẹp, sửa lại, chuẩn bị, điều chỉnh (nhịp điệu, hơi thở), thu xếp (giao dịch, hôn nhân), giải quyết"
       },
       {
         "example": "整う",
         "reading": "ととのう",
-        "meaning": "to be ready, to be prepared, to be arranged, to be in order, to be put in order, to be well-ordered, to be well-proportioned, to be harmonious, to be adjusted, to be regulated, to be refined (e.g. of a face), to be settled (e.g. treaty, contract), to be completed"
+        "meaning": "to be ready, to be prepared, to be arranged, to be in order, to be put in order, to be well-ordered, to be well-proportioned, to be harmonious, to be adjusted, to be regulated, to be refined (e.g. of a face), to be settled (e.g. treaty, contract), to be completed |(vi) sẵn sàng, được chuẩn bị, có trật tự, cân đối, hài hòa, được điều chỉnh, hoàn thành"
       }
     ],
     "radical": {
@@ -372,7 +372,7 @@
       "forms": [
         "攵"
       ],
-      "meaning": "rap"
+      "meaning": "rap |(vi) Phộc (đánh nhẹ, gõ)"
     },
     "parts": [
       "一",

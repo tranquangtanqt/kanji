@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "ao, aoi",
-    "meaning": "blue",
+    "meaning": "blue |(vi) màu xanh",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "青春（せいしゅん）",
         "meaning": {
-          "english": "springtime of life"
+          "english": "springtime of life |(vi) tuổi thanh xuân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ao_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "青年（せいねん）",
         "meaning": {
-          "english": "youth"
+          "english": "youth |(vi) thanh niên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ao_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "緑青（ろくしょう）",
         "meaning": {
-          "english": "copper rust"
+          "english": "copper rust |(vi) gỉ đồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ao_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "青い（あおい）",
         "meaning": {
-          "english": "blue, pale"
+          "english": "blue, pale |(vi) xanh, nhợt nhạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ao_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "青空（あおぞら）",
         "meaning": {
-          "english": "blue sky"
+          "english": "blue sky |(vi) bầu trời xanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ao_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "青白い（あおじろい）",
         "meaning": {
-          "english": "pale"
+          "english": "pale |(vi) xanh xao, nhợt nhạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ao_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "青信号（あおしんごう）",
         "meaning": {
-          "english": "green light"
+          "english": "green light |(vi) đèn xanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ao_06_g.opus",
@@ -237,7 +237,7 @@
     "kanji": {
       "character": "青",
       "meaning": {
-        "english": "blue"
+        "english": "blue |(vi) màu xanh"
       },
       "strokes": {
         "count": 8,
@@ -291,7 +291,7 @@
         "romaji": "ao"
       },
       "meaning": {
-        "english": "blue, green"
+        "english": "blue, green |(vi) Thanh (màu xanh, màu lục)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ao0.svg",
@@ -312,7 +312,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "589",
     "strokeCount": 8,
-    "meaning": "blue, green",
+    "meaning": "blue, green |(vi) màu xanh, tuổi trẻ |(hv) Thanh",
     "kunyomi": [
       "あお",
       "あお-",
@@ -326,74 +326,74 @@
       {
         "example": "青果",
         "reading": "セイカ",
-        "meaning": "fruits and vegetables, produce"
+        "meaning": "fruits and vegetables, produce |(vi) rau quả, nông sản"
       },
       {
         "example": "青雲",
         "reading": "セイウン",
-        "meaning": "blue sky, erudition, detachment from the world, high rank"
+        "meaning": "blue sky, erudition, detachment from the world, high rank |(vi) bầu trời xanh, học vấn uyên thâm, thoát tục, địa vị cao"
       },
       {
         "example": "回青",
         "reading": "カイセイ",
-        "meaning": "Mohammedan blue (pigment used in porcelain painting)"
+        "meaning": "Mohammedan blue (pigment used in porcelain painting) |(vi) xanh Hồi giáo (sắc tố dùng vẽ trên sứ)"
       },
       {
         "example": "黛青",
         "reading": "タイセイ",
-        "meaning": "blackish blue"
+        "meaning": "blackish blue |(vi) xanh đen"
       },
       {
         "example": "青面金剛",
         "reading": "ショウメンコンゴウ",
-        "meaning": "Shōmen Kongō, Blue-Faced Vajra, blue-skinned deity depicted with two, four or six arms; originally associated with esoteric Buddhism, thought to bring sickness; revered as part of kōshin-machi beliefs during the Edo period"
+        "meaning": "Shōmen Kongō, Blue-Faced Vajra, blue-skinned deity depicted with two, four or six arms; originally associated with esoteric Buddhism, thought to bring sickness; revered as part of kōshin-machi beliefs during the Edo period |(vi) Shōmen Kongō, thần Kim Cang mặt xanh, vị thần da xanh có hai, bốn hoặc sáu tay; vốn gắn với Mật tông, được cho là mang bệnh tật; được tôn sùng trong tín ngưỡng kōshin-machi thời Edo"
       },
       {
         "example": "青龍",
         "reading": "セイリョウ",
-        "meaning": "blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"
+        "meaning": "blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens) |(vi) Thanh Long (linh vật cát tường trong thần thoại Trung Hoa, vị thần cai quản trời đông)"
       },
       {
         "example": "緑青",
         "reading": "ロクショウ",
-        "meaning": "verdigris, green rust, copper rust"
+        "meaning": "verdigris, green rust, copper rust |(vi) gỉ đồng, gỉ xanh"
       },
       {
         "example": "花緑青",
         "reading": "ハナロクショウ",
-        "meaning": "Paris green, emerald green"
+        "meaning": "Paris green, emerald green |(vi) xanh lục Paris, xanh ngọc lục bảo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "青",
         "reading": "あお",
-        "meaning": "blue, azure, green, green light (traffic), black (horse coat color), blue 5-point card, immature, unripe, young"
+        "meaning": "blue, azure, green, green light (traffic), black (horse coat color), blue 5-point card, immature, unripe, young |(vi) xanh, xanh lam, xanh lục, đèn xanh (giao thông), màu đen (lông ngựa), quân bài xanh 5 điểm, non nớt, chưa chín, trẻ tuổi"
       },
       {
         "example": "青梅",
         "reading": "あおうめ",
-        "meaning": "unripe plum"
+        "meaning": "unripe plum |(vi) mơ xanh chưa chín"
       },
       {
         "example": "プロシア青",
         "reading": "プロシアあお",
-        "meaning": "Prussian blue"
+        "meaning": "Prussian blue |(vi) xanh Phổ (Prussian blue)"
       },
       {
         "example": "深青",
         "reading": "ふかあお",
-        "meaning": "dark blue, deep blue, navy blue"
+        "meaning": "dark blue, deep blue, navy blue |(vi) xanh đậm, xanh thẫm, xanh navy"
       },
       {
         "example": "青い",
         "reading": "あおい",
-        "meaning": "blue, azure, green, pale (facial color), gray, grey, unripe, inexperienced"
+        "meaning": "blue, azure, green, pale (facial color), gray, grey, unripe, inexperienced |(vi) xanh, xanh lam, xanh lục, nhợt nhạt (sắc mặt), xám, chưa chín, non kinh nghiệm"
       },
       {
         "example": "青色",
         "reading": "あおいろ",
-        "meaning": "blue"
+        "meaning": "blue |(vi) màu xanh"
       }
     ],
     "radical": {
@@ -401,7 +401,7 @@
       "forms": [
         "靑"
       ],
-      "meaning": "blue"
+      "meaning": "blue |(vi) Thanh (màu xanh)"
     },
     "parts": [
       "二",

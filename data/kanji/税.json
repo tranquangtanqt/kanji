@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "tax",
+    "meaning": "tax |(vi) thuế",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "税金（ぜいきん）",
         "meaning": {
-          "english": "tax, duty"
+          "english": "tax, duty |(vi) tiền thuế, thuế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zei(kin)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "税関（ぜいかん）",
         "meaning": {
-          "english": "customs house"
+          "english": "customs house |(vi) hải quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zei(kin)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "税理士（ぜいりし）",
         "meaning": {
-          "english": "tax counsellor"
+          "english": "tax counsellor |(vi) chuyên viên tư vấn thuế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zei(kin)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "関税（かんぜい）",
         "meaning": {
-          "english": "customs, duty, tariff"
+          "english": "customs, duty, tariff |(vi) thuế quan, thuế nhập khẩu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zei(kin)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "所得税（しょとくぜい）",
         "meaning": {
-          "english": "income tax"
+          "english": "income tax |(vi) thuế thu nhập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zei(kin)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "間接税（かんせつぜい）",
         "meaning": {
-          "english": "indirect tax"
+          "english": "indirect tax |(vi) thuế gián thu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zei(kin)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "納税する（のうぜいする）",
         "meaning": {
-          "english": "pay taxes"
+          "english": "pay taxes |(vi) nộp thuế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zei(kin)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "課税する（かぜいする）",
         "meaning": {
-          "english": "tax [v.t.]"
+          "english": "tax [v.t.] |(vi) đánh thuế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zei(kin)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "脱税する（だつぜいする）",
         "meaning": {
-          "english": "evade tax"
+          "english": "evade tax |(vi) trốn thuế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zei(kin)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "増税する（ぞうぜいする）",
         "meaning": {
-          "english": "increase tax"
+          "english": "increase tax |(vi) tăng thuế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zei(kin)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "減税する（げんぜいする）",
         "meaning": {
-          "english": "decrease tax"
+          "english": "decrease tax |(vi) giảm thuế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zei(kin)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "免税する（めんぜいする）",
         "meaning": {
-          "english": "exempt from taxation [v.t.]"
+          "english": "exempt from taxation [v.t.] |(vi) miễn thuế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zei(kin)_06_l.opus",
@@ -251,7 +251,7 @@
     "kanji": {
       "character": "税",
       "meaning": {
-        "english": "tax"
+        "english": "tax |(vi) thuế"
       },
       "strokes": {
         "count": 12,
@@ -313,7 +313,7 @@
         "romaji": "nogihen"
       },
       "meaning": {
-        "english": "grain"
+        "english": "grain |(vi) Hòa (lúa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nogihen0.svg",
@@ -334,7 +334,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "289",
     "strokeCount": 12,
-    "meaning": "tax, duty",
+    "meaning": "tax, duty |(vi) thuế, thuế quan |(hv) Thuế",
     "kunyomi": [],
     "onyomi": [
       "ゼイ"
@@ -343,28 +343,28 @@
       {
         "example": "税",
         "reading": "ゼイ",
-        "meaning": "tax"
+        "meaning": "tax |(vi) thuế"
       },
       {
         "example": "税関",
         "reading": "ゼイカン",
-        "meaning": "customs, customs house"
+        "meaning": "customs, customs house |(vi) hải quan, trạm hải quan"
       },
       {
         "example": "地方税",
         "reading": "チホウゼイ",
-        "meaning": "local tax, council tax"
+        "meaning": "local tax, council tax |(vi) thuế địa phương"
       },
       {
         "example": "納税",
         "reading": "ノウゼイ",
-        "meaning": "payment of taxes"
+        "meaning": "payment of taxes |(vi) sự nộp thuế"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "禾",
-      "meaning": "grain"
+      "meaning": "grain |(vi) Hòa (lúa)"
     },
     "parts": [
       "儿",

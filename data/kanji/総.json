@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "total, general, overall",
+    "meaning": "total, general, overall |(vi) tổng, chung, toàn bộ",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "総長（そうちょう）",
         "meaning": {
-          "english": "(college) president"
+          "english": "(college) president |(vi) hiệu trưởng (đại học), tổng trưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(gousuru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "総額（そうがく）",
         "meaning": {
-          "english": "sum total"
+          "english": "sum total |(vi) tổng số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(gousuru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "総論（そうろん）",
         "meaning": {
-          "english": "general remarks"
+          "english": "general remarks |(vi) tổng luận, nhận xét chung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(gousuru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "総会（そうかい）",
         "meaning": {
-          "english": "general meeting"
+          "english": "general meeting |(vi) đại hội, hội nghị toàn thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(gousuru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "総選挙（そうせんきょ）",
         "meaning": {
-          "english": "general election"
+          "english": "general election |(vi) tổng tuyển cử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(gousuru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "総理大臣（そうりだいじん）",
         "meaning": {
-          "english": "Prime Minister"
+          "english": "Prime Minister |(vi) thủ tướng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(gousuru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "総括する（そうかつする）",
         "meaning": {
-          "english": "recap, summarize"
+          "english": "recap, summarize |(vi) tổng kết, khái quát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(gousuru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "総合する（そうごうする）",
         "meaning": {
-          "english": "put together, integrate"
+          "english": "put together, integrate |(vi) tổng hợp, tích hợp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(gousuru)_06_h.opus",
@@ -210,7 +210,7 @@
     "kanji": {
       "character": "総",
       "meaning": {
-        "english": "total, general, overall"
+        "english": "total, general, overall |(vi) tổng, chung, toàn bộ"
       },
       "strokes": {
         "count": 14,
@@ -276,7 +276,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -297,7 +297,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "129",
     "strokeCount": 14,
-    "meaning": "general, whole, all, full, total",
+    "meaning": "general, whole, all, full, total |(vi) chung, toàn bộ, tất cả, đầy đủ, tổng |(hv) Tổng",
     "kunyomi": [
       "す.べて",
       "すべ.て",
@@ -310,54 +310,54 @@
       {
         "example": "総",
         "reading": "ソウ",
-        "meaning": "whole, total, gross, entire, overall, general (election, manager, etc.)"
+        "meaning": "whole, total, gross, entire, overall, general (election, manager, etc.) |(vi) toàn bộ, tổng, tất cả, chung (bầu cử, giám đốc,...)"
       },
       {
         "example": "総当たり",
         "reading": "ソウアタリ",
-        "meaning": "round robin, having no losing tickets (of a lottery), brute force (in cryptography), using all combinations"
+        "meaning": "round robin, having no losing tickets (of a lottery), brute force (in cryptography), using all combinations |(vi) đấu vòng tròn, xổ số không có vé trượt, brute force (trong mật mã), thử mọi tổ hợp"
       },
       {
         "example": "海総",
         "reading": "カイソウ",
-        "meaning": "imperial navy order"
+        "meaning": "imperial navy order |(vi) mệnh lệnh hải quân đế quốc"
       },
       {
         "example": "全総",
         "reading": "ゼンソウ",
-        "meaning": "Comprehensive National Development Plan (1962-)"
+        "meaning": "Comprehensive National Development Plan (1962-) |(vi) Kế hoạch phát triển toàn diện quốc gia (từ 1962)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "全て",
         "reading": "すべて",
-        "meaning": "everything, all, the whole, entirely, completely, wholly, all"
+        "meaning": "everything, all, the whole, entirely, completely, wholly, all |(vi) tất cả, toàn bộ, hoàn toàn"
       },
       {
         "example": "すべての道はローマに通ず",
         "reading": "すべてのみちはローマにつうず",
-        "meaning": "all roads lead to Rome"
+        "meaning": "all roads lead to Rome |(vi) con đường nào cũng dẫn đến La Mã"
       },
       {
         "example": "全て",
         "reading": "すべて",
-        "meaning": "everything, all, the whole, entirely, completely, wholly, all"
+        "meaning": "everything, all, the whole, entirely, completely, wholly, all |(vi) tất cả, toàn bộ, hoàn toàn"
       },
       {
         "example": "すべての道はローマに通ず",
         "reading": "すべてのみちはローマにつうず",
-        "meaning": "all roads lead to Rome"
+        "meaning": "all roads lead to Rome |(vi) con đường nào cũng dẫn đến La Mã"
       },
       {
         "example": "房",
         "reading": "ふさ",
-        "meaning": "tuft (of hair, threads, etc.), fringe, tassel, bunch (of grapes, bananas, etc.), cluster (of flowers), segment (of a tangerine, etc.), section"
+        "meaning": "tuft (of hair, threads, etc.), fringe, tassel, bunch (of grapes, bananas, etc.), cluster (of flowers), segment (of a tangerine, etc.), section |(vi) chùm (tóc, sợi), tua rua, chùm (nho, chuối), cụm (hoa), múi (quýt,...)"
       },
       {
         "example": "総国",
         "reading": "ふさのくに",
-        "meaning": "Fusa (former province located in present-day Chiba and Ibaraki prefectures)"
+        "meaning": "Fusa (former province located in present-day Chiba and Ibaraki prefectures) |(vi) Fusa (tên tỉnh cũ, nay thuộc Chiba và Ibaraki)"
       }
     ],
     "radical": {
@@ -365,7 +365,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi)"
     },
     "parts": [
       "ハ",

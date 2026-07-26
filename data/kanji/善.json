@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 2,
     "kunyomi": "yo, yoi",
-    "meaning": "good",
+    "meaning": "good |(vi) tốt, thiện lành",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "善意（ぜんい）",
         "meaning": {
-          "english": "good faith, good will"
+          "english": "good faith, good will |(vi) thiện chí, thiện ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zen-yo(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "善人（ぜんにん）",
         "meaning": {
-          "english": "good people"
+          "english": "good people |(vi) người tốt, người lương thiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zen-yo(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "善行（ぜんこう）",
         "meaning": {
-          "english": "good deed"
+          "english": "good deed |(vi) việc thiện, hành động tốt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zen-yo(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "善悪（ぜんあく）",
         "meaning": {
-          "english": "good and evil"
+          "english": "good and evil |(vi) thiện ác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zen-yo(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "最善（さいぜん）",
         "meaning": {
-          "english": "the very best"
+          "english": "the very best |(vi) tốt nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zen-yo(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "親善試合（しんぜんじあい）",
         "meaning": {
-          "english": "friendly match"
+          "english": "friendly match |(vi) trận đấu giao hữu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zen-yo(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "善良な（ぜんりょうな）",
         "meaning": {
-          "english": "virtuous, good"
+          "english": "virtuous, good |(vi) hiền lành, lương thiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zen-yo(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "偽善的な（ぎぜんてきな）",
         "meaning": {
-          "english": "hypocritical"
+          "english": "hypocritical |(vi) đạo đức giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zen-yo(i)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "改善する（かいぜんする）",
         "meaning": {
-          "english": "better, improve"
+          "english": "better, improve |(vi) cải thiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zen-yo(i)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "善い（よい）",
         "meaning": {
-          "english": "good, nice, pleasant"
+          "english": "good, nice, pleasant |(vi) tốt, hay, dễ chịu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zen-yo(i)_06_j.opus",
@@ -217,7 +217,7 @@
     "kanji": {
       "character": "善",
       "meaning": {
-        "english": "good"
+        "english": "good |(vi) tốt, thiện lành"
       },
       "strokes": {
         "count": 12,
@@ -279,7 +279,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng, lỗ mở)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -300,7 +300,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "765",
     "strokeCount": 12,
-    "meaning": "virtuous, good, goodness",
+    "meaning": "virtuous, good, goodness |(vi) đức hạnh, tốt, thiện lành |(hv) Thiện",
     "kunyomi": [
       "よ.い",
       "い.い",
@@ -314,59 +314,59 @@
       {
         "example": "善",
         "reading": "ゼン",
-        "meaning": "good, goodness, right, virtue"
+        "meaning": "good, goodness, right, virtue |(vi) tốt, điều thiện, đức hạnh"
       },
       {
         "example": "善意",
         "reading": "ゼンイ",
-        "meaning": "virtuous mind, good intentions, good will, positive mindset, bona fides, good faith"
+        "meaning": "virtuous mind, good intentions, good will, positive mindset, bona fides, good faith |(vi) thiện ý, thiện chí, ý tốt"
       },
       {
         "example": "親善",
         "reading": "シンゼン",
-        "meaning": "friendship, goodwill, friendly relations, amity"
+        "meaning": "friendship, goodwill, friendly relations, amity |(vi) hữu nghị, thân thiện"
       },
       {
         "example": "独善",
         "reading": "ドクゼン",
-        "meaning": "self-righteousness, self-justified"
+        "meaning": "self-righteousness, self-justified |(vi) tự cho mình là đúng, độc thiện"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "良い",
         "reading": "よい",
-        "meaning": "good, excellent, fine, nice, pleasant, agreeable, sufficient, enough, ready, prepared, profitable (deal, business offer, etc.), beneficial, OK, all right, fine, no problem, easy to ..."
+        "meaning": "good, excellent, fine, nice, pleasant, agreeable, sufficient, enough, ready, prepared, profitable (deal, business offer, etc.), beneficial, OK, all right, fine, no problem, easy to ... |(vi) tốt, tuyệt vời, ổn, đủ, có lợi"
       },
       {
         "example": "善い行い",
         "reading": "よいおこない",
-        "meaning": "good deed"
+        "meaning": "good deed |(vi) việc làm tốt, hành động thiện"
       },
       {
         "example": "いい事",
         "reading": "いいこと",
-        "meaning": "good thing, nice thing, good excuse, good grounds, good opportunity, interjection used to impress an idea or to urge a response"
+        "meaning": "good thing, nice thing, good excuse, good grounds, good opportunity, interjection used to impress an idea or to urge a response |(vi) điều tốt, cơ hội tốt"
       },
       {
         "example": "いい人",
         "reading": "いいひと",
-        "meaning": "good-natured person, good person, (one's) lover, boyfriend, girlfriend"
+        "meaning": "good-natured person, good person, (one's) lover, boyfriend, girlfriend |(vi) người tốt, người yêu"
       },
       {
         "example": "良く",
         "reading": "よく",
-        "meaning": "nicely, properly, well, skillfully, skilfully, frequently, often, I'm glad that you ..., thank you for ..., (you have) quite the nerve to, I don't know how you can ..."
+        "meaning": "nicely, properly, well, skillfully, skilfully, frequently, often, I'm glad that you ..., thank you for ..., (you have) quite the nerve to, I don't know how you can ... |(vi) khéo léo, thường xuyên, cảm ơn vì..."
       },
       {
         "example": "善くも",
         "reading": "よくも",
-        "meaning": "how dare ..., how could ..., surprisingly, unexpectedly"
+        "meaning": "how dare ..., how could ..., surprisingly, unexpectedly |(vi) sao dám, thật bất ngờ"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "口",

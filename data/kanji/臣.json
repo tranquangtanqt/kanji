@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "retainer",
+    "meaning": "retainer |(vi) bề tôi, quan lại",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "臣下（しんか）",
         "meaning": {
-          "english": "retainer"
+          "english": "retainer |(vi) bề tôi, cận thần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)shin(gura)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "家臣（かしん）",
         "meaning": {
-          "english": "vassal, retainer"
+          "english": "vassal, retainer |(vi) gia thần, bề tôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)shin(gura)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "重臣（じゅうしん）",
         "meaning": {
-          "english": "chief vassal, senior statesman"
+          "english": "chief vassal, senior statesman |(vi) trọng thần, đại thần cấp cao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)shin(gura)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "忠臣（ちゅうしん）",
         "meaning": {
-          "english": "loyal retainer, loyal subject"
+          "english": "loyal retainer, loyal subject |(vi) trung thần, bề tôi trung thành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)shin(gura)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "大臣（だいじん）",
         "meaning": {
-          "english": "cabinet minister"
+          "english": "cabinet minister |(vi) bộ trưởng, đại thần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)shin(gura)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "総理大臣（そうりだいじん）",
         "meaning": {
-          "english": "Prime Minister"
+          "english": "Prime Minister |(vi) thủ tướng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)shin(gura)_06_f.opus",
@@ -164,7 +164,7 @@
     "kanji": {
       "character": "臣",
       "meaning": {
-        "english": "retainer"
+        "english": "retainer |(vi) bề tôi, quan lại"
       },
       "strokes": {
         "count": 7,
@@ -216,7 +216,7 @@
         "romaji": "shin"
       },
       "meaning": {
-        "english": "retainer, minister"
+        "english": "retainer, minister |(vi) Thần (bề tôi, quan lại)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shin0.svg",
@@ -237,7 +237,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1249",
     "strokeCount": 7,
-    "meaning": "retainer, subject",
+    "meaning": "retainer, subject |(vi) bề tôi, thần dân |(hv) Thần",
     "kunyomi": [],
     "onyomi": [
       "シン",
@@ -247,38 +247,38 @@
       {
         "example": "臣",
         "reading": "オミ",
-        "meaning": "retainer, attendant, Omi (hereditary title; orig. one of the two highest such titles, later demoted to sixth highest of eight), I, me"
+        "meaning": "retainer, attendant, Omi (hereditary title; orig. one of the two highest such titles, later demoted to sixth highest of eight), I, me |(vi) bề tôi, tùy tùng, omi (tước hiệu thế tập; vốn là một trong hai tước cao nhất, sau hạ xuống hàng thứ sáu trong tám bậc), tôi (đại từ xưng hô khiêm nhường)"
       },
       {
         "example": "臣下",
         "reading": "シンカ",
-        "meaning": "retainer, subject, vassal, servant"
+        "meaning": "retainer, subject, vassal, servant |(vi) bề tôi, thần dân, gia thần, người phục vụ"
       },
       {
         "example": "忠臣",
         "reading": "チュウシン",
-        "meaning": "loyal retainer, loyal subject"
+        "meaning": "loyal retainer, loyal subject |(vi) trung thần, bề tôi trung thành"
       },
       {
         "example": "重臣",
         "reading": "ジュウシン",
-        "meaning": "chief vassal, senior statesman"
+        "meaning": "chief vassal, senior statesman |(vi) trọng thần, đại thần cấp cao"
       },
       {
         "example": "国務大臣",
         "reading": "コクムダイジン",
-        "meaning": "minister of state, cabinet minister (in Japan)"
+        "meaning": "minister of state, cabinet minister (in Japan) |(vi) bộ trưởng, thành viên nội các (ở Nhật)"
       },
       {
         "example": "内大臣",
         "reading": "ナイダイジン",
-        "meaning": "Lord Keeper of the Privy Seal (1885-1945), Minister of the Interior (669-1868)"
+        "meaning": "Lord Keeper of the Privy Seal (1885-1945), Minister of the Interior (669-1868) |(vi) Chưởng ấn đại thần (1885-1945), Bộ trưởng Nội vụ (669-1868)"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "臣",
-      "meaning": "minster, official"
+      "meaning": "minster, official |(vi) Thần (bề tôi, quan lại)"
     },
     "parts": [
       "匚",

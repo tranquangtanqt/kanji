@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "asa, asai",
-    "meaning": "shallow",
+    "meaning": "shallow |(vi) nông, cạn",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "浅海（せんかい）",
         "meaning": {
-          "english": "shallow sea"
+          "english": "shallow sea |(vi) biển nông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/asa(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "浅学（せんがく）",
         "meaning": {
-          "english": "superficial knowledge"
+          "english": "superficial knowledge |(vi) kiến thức nông cạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/asa(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "浅薄な（せんぱくな）",
         "meaning": {
-          "english": "shallow, superficial"
+          "english": "shallow, superficial |(vi) nông cạn, hời hợt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/asa(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "浅い（あさい）",
         "meaning": {
-          "english": "shallow, superficial"
+          "english": "shallow, superficial |(vi) nông, hời hợt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/asa(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "浅瀬（あさせ）",
         "meaning": {
-          "english": "shoal, shallows, sand bar, ford"
+          "english": "shoal, shallows, sand bar, ford |(vi) bãi cạn, bãi nông, doi cát, chỗ lội qua sông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/asa(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "浅黒い（あさぐろい）",
         "meaning": {
-          "english": "darkish, swarthy"
+          "english": "darkish, swarthy |(vi) sạm đen, ngăm đen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/asa(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "浅はかな（あさはかな）",
         "meaning": {
-          "english": "frivolous, thoughtless"
+          "english": "frivolous, thoughtless |(vi) nông nổi, thiếu suy nghĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/asa(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "遠浅（とおあさ）",
         "meaning": {
-          "english": "wide shallow beach"
+          "english": "wide shallow beach |(vi) bãi biển nông trải rộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/asa(i)_06_h.opus",
@@ -200,7 +200,7 @@
     "kanji": {
       "character": "浅",
       "meaning": {
-        "english": "shallow"
+        "english": "shallow |(vi) nông, cạn"
       },
       "strokes": {
         "count": 9,
@@ -256,7 +256,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -277,7 +277,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1253",
     "strokeCount": 9,
-    "meaning": "shallow, superficial, frivolous, wretched, shameful",
+    "meaning": "shallow, superficial, frivolous, wretched, shameful |(vi) nông, cạn, hời hợt, nông nổi, đáng hổ thẹn |(hv) Thiển",
     "kunyomi": [
       "あさ.い"
     ],
@@ -288,29 +288,29 @@
       {
         "example": "浅見",
         "reading": "センケン",
-        "meaning": "shallow view, superficial idea, (one's) view, (one's) humble opinion"
+        "meaning": "shallow view, superficial idea, (one's) view, (one's) humble opinion |(vi) cái nhìn nông cạn, ý kiến hời hợt, quan điểm (của mình), thiển ý"
       },
       {
         "example": "浅海",
         "reading": "センカイ",
-        "meaning": "shallow sea"
+        "meaning": "shallow sea |(vi) biển nông"
       },
       {
         "example": "深浅",
         "reading": "シンセン",
-        "meaning": "depth, shade (of color, colour)"
+        "meaning": "depth, shade (of color, colour) |(vi) độ sâu, sắc độ (của màu)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "浅い",
         "reading": "あさい",
-        "meaning": "shallow, superficial, slight (wound), light (sleep), pale (colour), inadequate (knowledge), short (time), early, young"
+        "meaning": "shallow, superficial, slight (wound), light (sleep), pale (colour), inadequate (knowledge), short (time), early, young |(vi) nông, cạn, hời hợt, nhẹ (vết thương), nông (giấc ngủ), nhạt (màu), thiếu (kiến thức), ngắn (thời gian), sớm, còn trẻ"
       },
       {
         "example": "浅煎り",
         "reading": "あさいり",
-        "meaning": "light roast (coffee)"
+        "meaning": "light roast (coffee) |(vi) rang nhạt (cà phê)"
       }
     ],
     "radical": {
@@ -319,7 +319,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "二",

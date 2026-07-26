@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "hito",
-    "meaning": "human being, person",
+    "meaning": "human being, person |(vi) con người, người",
     "kstroke": 2,
     "examples": [
       {
         "japanese": "人類学（じんるいがく）",
         "meaning": {
-          "english": "anthropology"
+          "english": "anthropology |(vi) nhân chủng học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-hito_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "人生（じんせい）",
         "meaning": {
-          "english": "(human) life"
+          "english": "(human) life |(vi) cuộc đời, cuộc sống con người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-hito_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "人口（じんこう）",
         "meaning": {
-          "english": "population"
+          "english": "population |(vi) dân số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-hito_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "日本人（にほんじん）",
         "meaning": {
-          "english": "Japanese person"
+          "english": "Japanese person |(vi) người Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-hito_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "御主人（ごしゅじん）",
         "meaning": {
-          "english": "someone's husband"
+          "english": "someone's husband |(vi) chồng (của người khác), ông chủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-hito_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "人間（にんげん）",
         "meaning": {
-          "english": "human"
+          "english": "human |(vi) con người, loài người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-hito_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "人数（にんずう）",
         "meaning": {
-          "english": "a head count"
+          "english": "a head count |(vi) số người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-hito_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "人（ひと）",
         "meaning": {
-          "english": "person"
+          "english": "person |(vi) người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-hito_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "人柄（ひとがら）",
         "meaning": {
-          "english": "personality"
+          "english": "personality |(vi) tính cách, nhân cách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-hito_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "*一人（ひとり）",
         "meaning": {
-          "english": "one person"
+          "english": "one person |(vi) một người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-hito_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "*二人（ふたり）",
         "meaning": {
-          "english": "two people"
+          "english": "two people |(vi) hai người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-hito_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "*素人（しろうと）",
         "meaning": {
-          "english": "amateur"
+          "english": "amateur |(vi) người nghiệp dư, tay ngang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-hito_06_l.opus",
@@ -336,7 +336,7 @@
     "kanji": {
       "character": "人",
       "meaning": {
-        "english": "human being, person"
+        "english": "human being, person |(vi) con người, người"
       },
       "strokes": {
         "count": 2,
@@ -378,7 +378,7 @@
         "romaji": "hito"
       },
       "meaning": {
-        "english": "person"
+        "english": "person |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hito0.svg",
@@ -399,7 +399,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "5",
     "strokeCount": 2,
-    "meaning": "person",
+    "meaning": "person |(vi) người |(hv) Nhân",
     "kunyomi": [
       "ひと",
       "-り",
@@ -413,64 +413,64 @@
       {
         "example": "人",
         "reading": "ジン",
-        "meaning": "-ian (e.g. Italian), -ite (e.g. Tokyoite), -er (e.g. performer, etc.), person working with ..., man, person, people"
+        "meaning": "-ian (e.g. Italian), -ite (e.g. Tokyoite), -er (e.g. performer, etc.), person working with ..., man, person, people |(vi) người, kẻ, dân, hậu tố chỉ nghề nghiệp/xuất xứ (như -ian, -er)"
       },
       {
         "example": "人為",
         "reading": "ジンイ",
-        "meaning": "human work, human agency, art, artificiality"
+        "meaning": "human work, human agency, art, artificiality |(vi) nhân vi, nhân tạo, do con người tạo ra"
       },
       {
         "example": "米人",
         "reading": "ベイジン",
-        "meaning": "American person"
+        "meaning": "American person |(vi) người Mỹ"
       },
       {
         "example": "俳人",
         "reading": "ハイジン",
-        "meaning": "haiku poet"
+        "meaning": "haiku poet |(vi) nhà thơ haiku"
       },
       {
         "example": "人",
         "reading": "ニン",
-        "meaning": "counter for people"
+        "meaning": "counter for people |(vi) lượng từ đếm người"
       },
       {
         "example": "人気",
         "reading": "ニンキ",
-        "meaning": "popularity, public favor, condition (e.g. market), tone, character, nature"
+        "meaning": "popularity, public favor, condition (e.g. market), tone, character, nature |(vi) sự nổi tiếng, được ưa chuộng, không khí (thị trường), tính chất"
       },
       {
         "example": "同人",
         "reading": "ドウジン",
-        "meaning": "same person, said person, the person in question, coterie, clique, fraternity, kindred spirits, comrade, colleague, dōjin, doujin, Japanese fans or hobbyists who produce their own magazines, manga, software, etc."
+        "meaning": "same person, said person, the person in question, coterie, clique, fraternity, kindred spirits, comrade, colleague, dōjin, doujin, Japanese fans or hobbyists who produce their own magazines, manga, software, etc. |(vi) cùng người đó, người trong nhóm, hội cùng sở thích, đồng nhân, doujin (ấn phẩm tự xuất bản)"
       },
       {
         "example": "代人",
         "reading": "ダイニン",
-        "meaning": "substitute, deputy, proxy, representative, agent"
+        "meaning": "substitute, deputy, proxy, representative, agent |(vi) người thay thế, người đại diện, người được ủy quyền"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "人",
         "reading": "ひと",
-        "meaning": "person, someone, somebody, human beings, mankind, man, people, humans, human (Homo sapiens), (other) people, others, character, personality, nature, capable person, competent person, suitable person, right person, adult, grown-up, I, me, one"
+        "meaning": "person, someone, somebody, human beings, mankind, man, people, humans, human (Homo sapiens), (other) people, others, character, personality, nature, capable person, competent person, suitable person, right person, adult, grown-up, I, me, one |(vi) người, ai đó, con người, nhân loại, người khác, tính cách, người có năng lực, người lớn, tôi"
       },
       {
         "example": "人一倍",
         "reading": "ひといちばい",
-        "meaning": "(much) more than others, exceedingly, extremely, unusually"
+        "meaning": "(much) more than others, exceedingly, extremely, unusually |(vi) hơn người, vượt trội, cực kỳ"
       },
       {
         "example": "貴人",
         "reading": "きじん",
-        "meaning": "aristocrat, nobleman, dignitary, person of high rank"
+        "meaning": "aristocrat, nobleman, dignitary, person of high rank |(vi) quý tộc, người có địa vị cao"
       },
       {
         "example": "いい人",
         "reading": "いいひと",
-        "meaning": "good-natured person, good person, (one's) lover, boyfriend, girlfriend"
+        "meaning": "good-natured person, good person, (one's) lover, boyfriend, girlfriend |(vi) người tốt bụng, người yêu"
       }
     ],
     "radical": {
@@ -478,7 +478,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "人"

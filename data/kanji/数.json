@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kazu, kazo, kazoeru",
-    "meaning": "number, count",
+    "meaning": "number, count |(vi) số, đếm",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "数学（すうがく）",
         "meaning": {
-          "english": "mathematics"
+          "english": "mathematics |(vi) toán học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kazo(eru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "数字（すうじ）",
         "meaning": {
-          "english": "numeral, number, figures"
+          "english": "numeral, number, figures |(vi) chữ số, con số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kazo(eru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "算数（さんすう）",
         "meaning": {
-          "english": "arithmetic"
+          "english": "arithmetic |(vi) số học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kazo(eru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "多数（たすう）",
         "meaning": {
-          "english": "great number, majority"
+          "english": "great number, majority |(vi) số lượng lớn, đa số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kazo(eru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "少数（しょうすう）",
         "meaning": {
-          "english": "few, minority"
+          "english": "few, minority |(vi) ít, thiểu số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kazo(eru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "総数（そうすう）",
         "meaning": {
-          "english": "total (number)"
+          "english": "total (number) |(vi) tổng số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kazo(eru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "奇数（きすう）",
         "meaning": {
-          "english": "odd number"
+          "english": "odd number |(vi) số lẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kazo(eru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "偶数（ぐうすう）",
         "meaning": {
-          "english": "even number"
+          "english": "even number |(vi) số chẵn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kazo(eru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "人数（にんずう）",
         "meaning": {
-          "english": "head count"
+          "english": "head count |(vi) số người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kazo(eru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "数寄屋（すきや）",
         "meaning": {
-          "english": "tea-ceremony arbor"
+          "english": "tea-ceremony arbor |(vi) trà thất kiểu tao nhã"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kazo(eru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "数（かず）",
         "meaning": {
-          "english": "number"
+          "english": "number |(vi) con số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kazo(eru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "数える（かぞえる）",
         "meaning": {
-          "english": "count [v.t.]"
+          "english": "count [v.t.] |(vi) đếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kazo(eru)_06_l.opus",
@@ -297,7 +297,7 @@
     "kanji": {
       "character": "数",
       "meaning": {
-        "english": "number, count"
+        "english": "number, count |(vi) số, đếm"
       },
       "strokes": {
         "count": 13,
@@ -361,7 +361,7 @@
         "romaji": "bokuzukuri"
       },
       "meaning": {
-        "english": "activity, to strike, hit"
+        "english": "activity, to strike, hit |(vi) Phộc (đánh nhẹ, gõ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/bokuzukuri0.svg",
@@ -382,7 +382,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "148",
     "strokeCount": 13,
-    "meaning": "number, strength, fate, law, figures",
+    "meaning": "number, strength, fate, law, figures |(vi) số, sức mạnh, vận mệnh, quy luật, con số |(hv) Số",
     "kunyomi": [
       "かず",
       "かぞ.える",
@@ -401,69 +401,69 @@
       {
         "example": "数",
         "reading": "スウ",
-        "meaning": "several, a few, a number of, number, quantity, amount, counting, calculation, figures, numbers, number, numeral, figure, number, destiny, fate, outcome, course of events, trend"
+        "meaning": "several, a few, a number of, number, quantity, amount, counting, calculation, figures, numbers, number, numeral, figure, number, destiny, fate, outcome, course of events, trend |(vi) vài, một số, một số lượng, số, số lượng, khối lượng, đếm, tính toán, chữ số, các con số, con số, chữ số, số, vận mệnh, số phận, kết quả, chiều hướng sự việc, xu hướng"
       },
       {
         "example": "数億年",
         "reading": "スウオクネン",
-        "meaning": "several hundred million years"
+        "meaning": "several hundred million years |(vi) vài trăm triệu năm"
       },
       {
         "example": "複数",
         "reading": "フクスウ",
-        "meaning": "plural, multiple, plural (number)"
+        "meaning": "plural, multiple, plural (number) |(vi) số nhiều, đa số, số nhiều (ngữ pháp)"
       },
       {
         "example": "枚数",
         "reading": "マイスウ",
-        "meaning": "the number of flat things, win-loss difference which influences the ranking of wrestlers"
+        "meaning": "the number of flat things, win-loss difference which influences the ranking of wrestlers |(vi) số lượng vật phẳng, chênh lệch thắng thua ảnh hưởng đến thứ hạng đô vật sumo"
       },
       {
         "example": "数",
         "reading": "スウ",
-        "meaning": "several, a few, a number of, number, quantity, amount, counting, calculation, figures, numbers, number, numeral, figure, number, destiny, fate, outcome, course of events, trend"
+        "meaning": "several, a few, a number of, number, quantity, amount, counting, calculation, figures, numbers, number, numeral, figure, number, destiny, fate, outcome, course of events, trend |(vi) vài, một số, một số lượng, số, số lượng, khối lượng, đếm, tính toán, chữ số, các con số, con số, chữ số, số, vận mệnh, số phận, kết quả, chiều hướng sự việc, xu hướng"
       },
       {
         "example": "数億年",
         "reading": "スウオクネン",
-        "meaning": "several hundred million years"
+        "meaning": "several hundred million years |(vi) vài trăm triệu năm"
       },
       {
         "example": "数牌",
         "reading": "シューパイ",
-        "meaning": "suited tiles"
+        "meaning": "suited tiles |(vi) quân bài số (trong mạt chược)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "数",
         "reading": "かず",
-        "meaning": "number, amount"
+        "meaning": "number, amount |(vi) số, số lượng"
       },
       {
         "example": "数多く",
         "reading": "かずおおく",
-        "meaning": "in great numbers"
+        "meaning": "in great numbers |(vi) với số lượng lớn, rất nhiều"
       },
       {
         "example": "手数",
         "reading": "てすう",
-        "meaning": "trouble, bother, number of moves (in go, shogi, etc.), number of punches"
+        "meaning": "trouble, bother, number of moves (in go, shogi, etc.), number of punches |(vi) rắc rối, phiền toái, số nước đi (trong cờ vây, shogi...), số cú đấm"
       },
       {
         "example": "口数",
         "reading": "くちかず",
-        "meaning": "number of words a person speaks, number of dependents, number of mouths to feed, number of shares, items, applications, etc."
+        "meaning": "number of words a person speaks, number of dependents, number of mouths to feed, number of shares, items, applications, etc. |(vi) số lời một người nói, số người phụ thuộc, số miệng ăn phải nuôi, số cổ phần, số món hàng, số đơn đăng ký..."
       },
       {
         "example": "数える",
         "reading": "かぞえる",
-        "meaning": "to count, to enumerate"
+        "meaning": "to count, to enumerate |(vi) đếm, liệt kê"
       },
       {
         "example": "屡々",
         "reading": "しばしば",
-        "meaning": "often, again and again, frequently, repeatedly"
+        "meaning": "often, again and again, frequently, repeatedly |(vi) thường xuyên, lặp đi lặp lại, hay, nhiều lần"
       }
     ],
     "radical": {
@@ -471,7 +471,7 @@
       "forms": [
         "攵"
       ],
-      "meaning": "rap"
+      "meaning": "rap |(vi) Phộc (đánh nhẹ, gõ)"
     },
     "parts": [
       "乞",

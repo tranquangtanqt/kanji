@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "register",
+    "meaning": "register |(vi) hộ tịch, đăng ký",
     "kstroke": 20,
     "examples": [
       {
         "japanese": "国籍（こくせき）",
         "meaning": {
-          "english": "nationality"
+          "english": "nationality |(vi) quốc tịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koku)seki_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "戸籍（こせき）",
         "meaning": {
-          "english": "census, family register"
+          "english": "census, family register |(vi) sổ hộ khẩu, hộ tịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koku)seki_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "本籍（ほんせき）",
         "meaning": {
-          "english": "legal residence"
+          "english": "legal residence |(vi) nơi đăng ký hộ khẩu chính thức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koku)seki_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "書籍（しょせき）",
         "meaning": {
-          "english": "book, publication"
+          "english": "book, publication |(vi) sách, ấn phẩm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koku)seki_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "在籍する（ざいせきする）",
         "meaning": {
-          "english": "be on (school) register"
+          "english": "be on (school) register |(vi) có tên trong danh sách (trường học)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koku)seki_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "移籍する（いせきする）",
         "meaning": {
-          "english": "transfer (official registration)"
+          "english": "transfer (official registration) |(vi) chuyển hộ tịch/đăng ký chính thức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koku)seki_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "入籍する（にゅうせきする）",
         "meaning": {
-          "english": "enter name in family register"
+          "english": "enter name in family register |(vi) nhập tên vào sổ hộ khẩu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koku)seki_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "除籍する（じょせきする）",
         "meaning": {
-          "english": "remove from the register"
+          "english": "remove from the register |(vi) xóa tên khỏi sổ đăng ký"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koku)seki_06_h.opus",
@@ -191,7 +191,7 @@
     "kanji": {
       "character": "籍",
       "meaning": {
-        "english": "register"
+        "english": "register |(vi) hộ tịch, đăng ký"
       },
       "strokes": {
         "count": 20,
@@ -269,7 +269,7 @@
         "romaji": "takekanmuri"
       },
       "meaning": {
-        "english": "bamboo"
+        "english": "bamboo |(vi) Trúc (tre)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takekanmuri0.svg",
@@ -290,7 +290,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "907",
     "strokeCount": 20,
-    "meaning": "enroll, domiciliary register, membership",
+    "meaning": "enroll, domiciliary register, membership |(vi) ghi danh, sổ hộ khẩu, tư cách thành viên |(hv) Tịch",
     "kunyomi": [],
     "onyomi": [
       "セキ"
@@ -299,22 +299,22 @@
       {
         "example": "籍",
         "reading": "セキ",
-        "meaning": "one's family register, one's domicile, nationality, membership (club, party, etc.)"
+        "meaning": "one's family register, one's domicile, nationality, membership (club, party, etc.) |(vi) sổ hộ khẩu của mình, nơi cư trú chính thức, quốc tịch, tư cách thành viên (câu lạc bộ, đảng...)"
       },
       {
         "example": "籍船",
         "reading": "セキセン",
-        "meaning": "ship registry"
+        "meaning": "ship registry |(vi) đăng ký tàu thuyền"
       },
       {
         "example": "党籍",
         "reading": "トウセキ",
-        "meaning": "party membership, party register"
+        "meaning": "party membership, party register |(vi) tư cách đảng viên, sổ đăng ký đảng"
       },
       {
         "example": "移籍",
         "reading": "イセキ",
-        "meaning": "transfer (of one's name into another family register), transfer (to another team, company, etc.)"
+        "meaning": "transfer (of one's name into another family register), transfer (to another team, company, etc.) |(vi) chuyển tên sang hộ tịch khác, chuyển đội/công ty khác"
       }
     ],
     "kunyomiExamples": [],
@@ -323,7 +323,7 @@
       "forms": [
         "⺮"
       ],
-      "meaning": "bamboo"
+      "meaning": "bamboo |(vi) Trúc (tre)"
     },
     "parts": [
       "ノ",

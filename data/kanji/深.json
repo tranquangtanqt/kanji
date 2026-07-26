@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "fuka, fukai, fukamaru, fukameru",
-    "meaning": "deep",
+    "meaning": "deep |(vi) sâu",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "深夜（しんや）",
         "meaning": {
-          "english": "late at night"
+          "english": "late at night |(vi) khuya, đêm khuya"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuka(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "深海（しんかい）",
         "meaning": {
-          "english": "deep-sea"
+          "english": "deep-sea |(vi) biển sâu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuka(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "深部（しんぶ）",
         "meaning": {
-          "english": "the depths"
+          "english": "the depths |(vi) phần sâu, chiều sâu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuka(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "深刻な（しんこくな）",
         "meaning": {
-          "english": "serious"
+          "english": "serious |(vi) nghiêm trọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuka(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "深い（ふかい）",
         "meaning": {
-          "english": "deep, profound"
+          "english": "deep, profound |(vi) sâu, sâu sắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuka(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "深める（ふかめる）",
         "meaning": {
-          "english": "deepen [v.t.]"
+          "english": "deepen [v.t.] |(vi) làm sâu thêm [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuka(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "深まる（ふかまる）",
         "meaning": {
-          "english": "be deepened [v.i.]"
+          "english": "be deepened [v.i.] |(vi) được đào sâu thêm [nội động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuka(i)_06_g.opus",
@@ -212,7 +212,7 @@
     "kanji": {
       "character": "深",
       "meaning": {
-        "english": "deep"
+        "english": "deep |(vi) sâu"
       },
       "strokes": {
         "count": 11,
@@ -272,7 +272,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -293,7 +293,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "484",
     "strokeCount": 11,
-    "meaning": "deep, heighten, intensify, strengthen",
+    "meaning": "deep, heighten, intensify, strengthen |(vi) sâu, tăng cao, tăng cường, làm mạnh thêm |(hv) Thâm",
     "kunyomi": [
       "ふか.い",
       "-ぶか.い",
@@ -308,44 +308,44 @@
       {
         "example": "深刻",
         "reading": "シンコク",
-        "meaning": "serious, severe, grave, acute"
+        "meaning": "serious, severe, grave, acute |(vi) nghiêm trọng, trầm trọng, nặng nề, cấp tính"
       },
       {
         "example": "深海",
         "reading": "シンカイ",
-        "meaning": "deep sea, depths of the sea, ocean depths"
+        "meaning": "deep sea, depths of the sea, ocean depths |(vi) biển sâu, vùng sâu của biển, đáy đại dương"
       },
       {
         "example": "以深",
         "reading": "イシン",
-        "meaning": "... or deeper, ... and below"
+        "meaning": "... or deeper, ... and below |(vi) ... trở lên, ... trở xuống (mức sâu hơn)"
       },
       {
         "example": "海深",
         "reading": "カイシン",
-        "meaning": "depth of the sea"
+        "meaning": "depth of the sea |(vi) độ sâu của biển"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "深い",
         "reading": "ふかい",
-        "meaning": "deep, profound, dense, thick, close (relationship), intense, strong, late"
+        "meaning": "deep, profound, dense, thick, close (relationship), intense, strong, late |(vi) sâu, sâu sắc, dày đặc, thân thiết (mối quan hệ), mãnh liệt, mạnh, khuya"
       },
       {
         "example": "深入り",
         "reading": "ふかいり",
-        "meaning": "getting deeply involved, going deeply into, going too far (into something)"
+        "meaning": "getting deeply involved, going deeply into, going too far (into something) |(vi) dấn sâu vào, đi sâu vào, đi quá xa (vào việc gì)"
       },
       {
         "example": "深まる",
         "reading": "ふかまる",
-        "meaning": "to deepen, to heighten, to intensify"
+        "meaning": "to deepen, to heighten, to intensify |(vi) trở nên sâu hơn, tăng cao, tăng cường"
       },
       {
         "example": "深める",
         "reading": "ふかめる",
-        "meaning": "to deepen, to heighten, to intensify"
+        "meaning": "to deepen, to heighten, to intensify |(vi) làm sâu thêm, làm tăng cao, làm tăng cường"
       }
     ],
     "radical": {
@@ -354,7 +354,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "儿",

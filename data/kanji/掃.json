@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ha, haku",
-    "meaning": "sweep",
+    "meaning": "sweep |(vi) quét",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "掃除機（そうじき）",
         "meaning": {
-          "english": "vacuum cleaner"
+          "english": "vacuum cleaner |(vi) máy hút bụi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "掃除婦（そうじふ）",
         "meaning": {
-          "english": "cleaning lady"
+          "english": "cleaning lady |(vi) người dọn dẹp vệ sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "掃除する（そうじする）",
         "meaning": {
-          "english": "clean [v.t.]"
+          "english": "clean [v.t.] |(vi) dọn dẹp, lau dọn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "清掃する（せいそうする）",
         "meaning": {
-          "english": "clean [v.t.]"
+          "english": "clean [v.t.] |(vi) dọn dẹp, lau dọn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "一掃する（いっそうする）",
         "meaning": {
-          "english": "make a clean sweep"
+          "english": "make a clean sweep |(vi) quét sạch, dọn sạch hoàn toàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "掃く（はく）",
         "meaning": {
-          "english": "sweep, brush"
+          "english": "sweep, brush |(vi) quét, chổi quét"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_f.opus",
@@ -161,7 +161,7 @@
     "kanji": {
       "character": "掃",
       "meaning": {
-        "english": "sweep"
+        "english": "sweep |(vi) quét"
       },
       "strokes": {
         "count": 11,
@@ -221,7 +221,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -242,7 +242,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1255",
     "strokeCount": 11,
-    "meaning": "sweep, brush",
+    "meaning": "sweep, brush |(vi) quét, chổi quét |(hv) Tảo",
     "kunyomi": [
       "は.く"
     ],
@@ -254,29 +254,29 @@
       {
         "example": "掃除",
         "reading": "ソウジ",
-        "meaning": "cleaning, sweeping, dusting, scrubbing"
+        "meaning": "cleaning, sweeping, dusting, scrubbing |(vi) dọn dẹp, quét dọn, lau chùi, cọ rửa"
       },
       {
         "example": "掃海",
         "reading": "ソウカイ",
-        "meaning": "sweeping the sea for mines, dragging for mines"
+        "meaning": "sweeping the sea for mines, dragging for mines |(vi) quét mìn trên biển, rà phá thủy lôi"
       },
       {
         "example": "洒掃",
         "reading": "サイソウ",
-        "meaning": "scrubbing (with water), cleaning"
+        "meaning": "scrubbing (with water), cleaning |(vi) cọ rửa (bằng nước), dọn dẹp"
       },
       {
         "example": "特殊清掃",
         "reading": "トクシュセイソウ",
-        "meaning": "special cleaning and disinfection (esp. after an accident or death), biohazard cleanup, crime scene cleanup"
+        "meaning": "special cleaning and disinfection (esp. after an accident or death), biohazard cleanup, crime scene cleanup |(vi) khử trùng và dọn dẹp đặc biệt (sau tai nạn hay cái chết), dọn dẹp hiện trường nguy hại sinh học, dọn hiện trường án mạng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "掃く",
         "reading": "はく",
-        "meaning": "to sweep, to brush, to clean, to gather silkworms"
+        "meaning": "to sweep, to brush, to clean, to gather silkworms |(vi) quét, dùng chổi, dọn dẹp, gom tằm"
       }
     ],
     "radical": {
@@ -284,7 +284,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "ヨ",

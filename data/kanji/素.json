@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "element, plain",
+    "meaning": "element, plain |(vi) chất, cơ bản, mộc mạc",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "要素（ようそ）",
         "meaning": {
-          "english": "element"
+          "english": "element |(vi) yếu tố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "酸素（さんそ）",
         "meaning": {
-          "english": "oxygen"
+          "english": "oxygen |(vi) oxy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "素材（そざい）",
         "meaning": {
-          "english": "raw materials"
+          "english": "raw materials |(vi) nguyên liệu thô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "素朴な（そぼくな）",
         "meaning": {
-          "english": "simple, artless"
+          "english": "simple, artless |(vi) đơn giản, mộc mạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "簡素な（かんそな）",
         "meaning": {
-          "english": "simple, plain"
+          "english": "simple, plain |(vi) đơn giản, giản dị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "質素な（しっそな）",
         "meaning": {
-          "english": "frugal"
+          "english": "frugal |(vi) tiết kiệm, giản dị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "素晴らしい（すばらしい）",
         "meaning": {
-          "english": "wonderful, splendid"
+          "english": "wonderful, splendid |(vi) tuyệt vời, xuất sắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "素足（すあし）",
         "meaning": {
-          "english": "bare feet"
+          "english": "bare feet |(vi) chân trần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "素敵な（すてきな）",
         "meaning": {
-          "english": "lovely, beautiful"
+          "english": "lovely, beautiful |(vi) đáng yêu, xinh đẹp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "素直な（すなおな）",
         "meaning": {
-          "english": "obedient, docile"
+          "english": "obedient, docile |(vi) ngoan ngoãn, dễ bảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "*素人（しろうと）",
         "meaning": {
-          "english": "amateur, novice"
+          "english": "amateur, novice |(vi) người nghiệp dư, người mới vào nghề"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_k.opus",
@@ -255,7 +255,7 @@
     "kanji": {
       "character": "素",
       "meaning": {
-        "english": "element, plain"
+        "english": "element, plain |(vi) chất, cơ bản, mộc mạc"
       },
       "strokes": {
         "count": 10,
@@ -313,7 +313,7 @@
         "romaji": "ito"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ito0.svg",
@@ -334,7 +334,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "660",
     "strokeCount": 10,
-    "meaning": "elementary, principle, naked, uncovered",
+    "meaning": "elementary, principle, naked, uncovered |(vi) cơ bản, nguyên lý, trần trụi, không che đậy |(hv) Tố",
     "kunyomi": [
       "もと"
     ],
@@ -346,64 +346,64 @@
       {
         "example": "素",
         "reading": "ソ",
-        "meaning": "white silk, prime, principle"
+        "meaning": "white silk, prime, principle |(vi) lụa trắng, nguyên bản, nguyên lý"
       },
       {
         "example": "素案",
         "reading": "ソアン",
-        "meaning": "rough plan, draft"
+        "meaning": "rough plan, draft |(vi) bản phác thảo, dự thảo sơ bộ"
       },
       {
         "example": "栄養素",
         "reading": "エイヨウソ",
-        "meaning": "nutrient"
+        "meaning": "nutrient |(vi) chất dinh dưỡng"
       },
       {
         "example": "酵素",
         "reading": "コウソ",
-        "meaning": "enzyme"
+        "meaning": "enzyme |(vi) enzyme, men"
       },
       {
         "example": "素",
         "reading": "ス",
-        "meaning": "one's nature, one's feelings, oneself, plain, unadorned, undecorated, unadulterated, au naturel, mere, poor, exceedingly"
+        "meaning": "one's nature, one's feelings, oneself, plain, unadorned, undecorated, unadulterated, au naturel, mere, poor, exceedingly |(vi) bản chất của mình, cảm xúc thật, chính mình, mộc mạc, không trang trí, nguyên chất, đơn thuần, kém, cực kỳ"
       },
       {
         "example": "素顔",
         "reading": "スガオ",
-        "meaning": "face with no make-up, unpainted face, true face (of a country, celebrity, etc.), real face, true picture, real nature, sober face, sobriety"
+        "meaning": "face with no make-up, unpainted face, true face (of a country, celebrity, etc.), real face, true picture, real nature, sober face, sobriety |(vi) gương mặt không trang điểm, mặt mộc, chân tướng thật (của đất nước, người nổi tiếng...), bản chất thật, vẻ nghiêm túc"
       },
       {
         "example": "空素",
         "reading": "カラス",
-        "meaning": "dealt hand containing only 1-point cards (scoring combination)"
+        "meaning": "dealt hand containing only 1-point cards (scoring combination) |(vi) bài chỉ toàn lá bài 1 điểm (tổ hợp tính điểm)"
       },
       {
         "example": "鉤素",
         "reading": "ハリス",
-        "meaning": "snell (fishing), leader, trace, cast"
+        "meaning": "snell (fishing), leader, trace, cast |(vi) dây tóm câu (câu cá), dây nối lưỡi câu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "元",
         "reading": "もと",
-        "meaning": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry)"
+        "meaning": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry) |(vi) nguồn gốc, khởi nguyên, nền tảng, gốc rễ, nguyên nhân, nguyên liệu, thành phần, nước dùng (canh), vốn, giá gốc, gốc (cây), phần cầm (bút, đũa...), ba câu đầu bài waka"
       },
       {
         "example": "元より",
         "reading": "もとより",
-        "meaning": "from the beginning, from the first, all along, originally, of course, not to mention ..., not only ... but also ..., to say nothing of ..."
+        "meaning": "from the beginning, from the first, all along, originally, of course, not to mention ..., not only ... but also ..., to say nothing of ... |(vi) ngay từ đầu, vốn dĩ, từ trước đến nay, tất nhiên, chưa kể đến..."
       },
       {
         "example": "味の素",
         "reading": "あじのもと",
-        "meaning": "Ajinomoto, brand name of monosodium glutamate (MSG)"
+        "meaning": "Ajinomoto, brand name of monosodium glutamate (MSG) |(vi) Ajinomoto, thương hiệu bột ngọt (mì chính)"
       },
       {
         "example": "味の素",
         "reading": "あじのもと",
-        "meaning": "Ajinomoto Co. Inc."
+        "meaning": "Ajinomoto Co. Inc. |(vi) Công ty Ajinomoto"
       }
     ],
     "radical": {
@@ -411,7 +411,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi)"
     },
     "parts": [
       "二",

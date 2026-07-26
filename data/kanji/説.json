@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "to, toku",
-    "meaning": "explain, theory, opinion",
+    "meaning": "explain, theory, opinion |(vi) giải thích, lý thuyết, ý kiến",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "説明する（せつめいする）",
         "meaning": {
-          "english": "explain"
+          "english": "explain |(vi) giải thích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-to(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "説得する（せっとくする）",
         "meaning": {
-          "english": "persuade"
+          "english": "persuade |(vi) thuyết phục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-to(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "説教する（せっきょうする）",
         "meaning": {
-          "english": "preach, sermon"
+          "english": "preach, sermon |(vi) thuyết giáo, giảng đạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-to(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "解説する（かいせつする）",
         "meaning": {
-          "english": "give commentary"
+          "english": "give commentary |(vi) bình luận, chú giải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-to(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "演説する（えんぜつする）",
         "meaning": {
-          "english": "give a speech"
+          "english": "give a speech |(vi) diễn thuyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-to(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "小説（しょうせつ）",
         "meaning": {
-          "english": "novel [n.]"
+          "english": "novel [n.] |(vi) tiểu thuyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-to(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "小説家（しょうせつか）",
         "meaning": {
-          "english": "novelist"
+          "english": "novelist |(vi) nhà văn, tiểu thuyết gia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-to(ku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "仮説（かせつ）",
         "meaning": {
-          "english": "hypothesis"
+          "english": "hypothesis |(vi) giả thuyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-to(ku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "社説（しゃせつ）",
         "meaning": {
-          "english": "editorial"
+          "english": "editorial |(vi) bài xã luận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-to(ku)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "遊説する（ゆうぜいする）",
         "meaning": {
-          "english": "campaign (for an election)"
+          "english": "campaign (for an election) |(vi) vận động tranh cử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-to(ku)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "説く（とく）",
         "meaning": {
-          "english": "preach, persuade"
+          "english": "preach, persuade |(vi) thuyết giảng, thuyết phục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-to(ku)_06_k.opus",
@@ -313,7 +313,7 @@
     "kanji": {
       "character": "説",
       "meaning": {
-        "english": "explain, theory, opinion"
+        "english": "explain, theory, opinion |(vi) giải thích, lý thuyết, ý kiến"
       },
       "strokes": {
         "count": 14,
@@ -379,7 +379,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -400,7 +400,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "326",
     "strokeCount": 14,
-    "meaning": "opinion, theory, explanation, rumor",
+    "meaning": "opinion, theory, explanation, rumor |(vi) ý kiến, học thuyết, giải thích, tin đồn |(hv) Thuyết",
     "kunyomi": [
       "と.く"
     ],
@@ -412,39 +412,39 @@
       {
         "example": "説",
         "reading": "セツ",
-        "meaning": "theory, doctrine, opinion, view, rumour, rumor, gossip, hearsay"
+        "meaning": "theory, doctrine, opinion, view, rumour, rumor, gossip, hearsay |(vi) học thuyết, giáo lý, ý kiến, quan điểm, tin đồn, lời đồn"
       },
       {
         "example": "説明",
         "reading": "セツメイ",
-        "meaning": "explanation, exposition, description, account, caption, legend"
+        "meaning": "explanation, exposition, description, account, caption, legend |(vi) sự giải thích, phần trình bày, mô tả, thuyết minh, chú thích"
       },
       {
         "example": "論説",
         "reading": "ロンセツ",
-        "meaning": "article, discourse, dissertation, (written) argument, commentary, editorial, leading article, leader"
+        "meaning": "article, discourse, dissertation, (written) argument, commentary, editorial, leading article, leader |(vi) bài luận, bài diễn thuyết, luận văn, lập luận (bằng văn bản), bình luận, xã luận"
       },
       {
         "example": "定説",
         "reading": "テイセツ",
-        "meaning": "established theory, accepted opinion, accepted explanation"
+        "meaning": "established theory, accepted opinion, accepted explanation |(vi) học thuyết đã được công nhận, ý kiến được chấp nhận, cách giải thích được thừa nhận"
       },
       {
         "example": "遊説",
         "reading": "ユウゼイ",
-        "meaning": "election tour, election campaign, stumping"
+        "meaning": "election tour, election campaign, stumping |(vi) chuyến vận động tranh cử, chiến dịch tranh cử, đi diễn thuyết tranh cử"
       },
       {
         "example": "全国遊説",
         "reading": "ゼンコクユウゼイ",
-        "meaning": "nationwide election campaign"
+        "meaning": "nationwide election campaign |(vi) chiến dịch vận động tranh cử toàn quốc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "説く",
         "reading": "とく",
-        "meaning": "to explain, to preach, to advocate, to persuade, to prevail upon, to reason with, to urge (someone to do)"
+        "meaning": "to explain, to preach, to advocate, to persuade, to prevail upon, to reason with, to urge (someone to do) |(vi) giải thích, thuyết giảng, chủ trương, thuyết phục, khuyên nhủ, lý giải, thúc giục (ai làm gì)"
       }
     ],
     "radical": {
@@ -452,7 +452,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "儿",

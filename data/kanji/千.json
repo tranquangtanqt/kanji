@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "chi",
-    "meaning": "thousand",
+    "meaning": "thousand |(vi) nghìn, ngàn",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "千（せん）",
         "meaning": {
-          "english": "1000"
+          "english": "1000 |(vi) 1000"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-chi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "三千（さんぜん）",
         "meaning": {
-          "english": "3000"
+          "english": "3000 |(vi) 3000"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-chi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "八千（はっせん）",
         "meaning": {
-          "english": "8000"
+          "english": "8000 |(vi) 8000"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-chi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "千切れる（ちぎれる）",
         "meaning": {
-          "english": "be torn off"
+          "english": "be torn off |(vi) bị xé rách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-chi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "千鳥（ちどり）",
         "meaning": {
-          "english": "plover"
+          "english": "plover |(vi) chim choi choi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-chi_06_e.opus",
@@ -206,7 +206,7 @@
     "kanji": {
       "character": "千",
       "meaning": {
-        "english": "thousand"
+        "english": "thousand |(vi) nghìn, ngàn"
       },
       "strokes": {
         "count": 3,
@@ -250,7 +250,7 @@
         "romaji": "juu"
       },
       "meaning": {
-        "english": "ten"
+        "english": "ten |(vi) Thập (mười)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/juu0.svg",
@@ -271,7 +271,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "195",
     "strokeCount": 3,
-    "meaning": "thousand",
+    "meaning": "thousand |(vi) nghìn, ngàn |(hv) Thiên",
     "kunyomi": [
       "ち"
     ],
@@ -282,49 +282,49 @@
       {
         "example": "千",
         "reading": "セン",
-        "meaning": "thousand, 1,000"
+        "meaning": "thousand, 1,000 |(vi) nghìn, 1.000"
       },
       {
         "example": "千九百年代",
         "reading": "センキュウヒャクネンダイ",
-        "meaning": "the 1900s"
+        "meaning": "the 1900s |(vi) những năm 1900"
       },
       {
         "example": "一騎当千",
         "reading": "イッキトウセン",
-        "meaning": "being a match for a thousand, being a mighty warrior (combatant, player)"
+        "meaning": "being a match for a thousand, being a mighty warrior (combatant, player) |(vi) một địch nghìn, chiến binh dũng mãnh"
       },
       {
         "example": "一人当千",
         "reading": "イチニントウセン",
-        "meaning": "being a match for a thousand"
+        "meaning": "being a match for a thousand |(vi) một người địch nổi nghìn người"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "千",
         "reading": "せん",
-        "meaning": "thousand, 1,000"
+        "meaning": "thousand, 1,000 |(vi) nghìn, 1.000"
       },
       {
         "example": "千島",
         "reading": "ちしま",
-        "meaning": "Kurile Islands"
+        "meaning": "Kurile Islands |(vi) quần đảo Kuril"
       },
       {
         "example": "百千",
         "reading": "ひゃくせん",
-        "meaning": "a large number, all sorts, hundreds and thousands"
+        "meaning": "a large number, all sorts, hundreds and thousands |(vi) số lượng rất lớn, đủ loại, hàng trăm hàng nghìn"
       },
       {
         "example": "８０００",
         "reading": "はっせん",
-        "meaning": "8000, eight thousand, many"
+        "meaning": "8000, eight thousand, many |(vi) 8000, tám nghìn, nhiều"
       }
     ],
     "radical": {
       "symbol": "十",
-      "meaning": "ten, complete"
+      "meaning": "ten, complete |(vi) Thập (mười, đầy đủ)"
     },
     "parts": [
       "ノ",

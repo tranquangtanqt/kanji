@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "yo",
-    "meaning": "world, era",
+    "meaning": "world, era |(vi) thế giới, thời đại",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "世紀（せいき）",
         "meaning": {
-          "english": "century"
+          "english": "century |(vi) thế kỷ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "三世（さんせい）",
         "meaning": {
-          "english": "3rd generation"
+          "english": "3rd generation |(vi) đời thứ 3"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "中世（ちゅうせい）",
         "meaning": {
-          "english": "Middle Ages"
+          "english": "Middle Ages |(vi) thời trung cổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "世界（せかい）",
         "meaning": {
-          "english": "world"
+          "english": "world |(vi) thế giới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "世間（せけん）",
         "meaning": {
-          "english": "world, society"
+          "english": "world, society |(vi) thế gian, xã hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "世代（せだい）",
         "meaning": {
-          "english": "generation"
+          "english": "generation |(vi) thế hệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "世話（せわ）",
         "meaning": {
-          "english": "assistance"
+          "english": "assistance |(vi) chăm sóc, giúp đỡ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "出世する（しゅっせする）",
         "meaning": {
-          "english": "get promoted"
+          "english": "get promoted |(vi) thăng tiến, thành đạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "世の中（よのなか）",
         "meaning": {
-          "english": "world, society"
+          "english": "world, society |(vi) cuộc đời, thế gian"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "あの世（あのよ）",
         "meaning": {
-          "english": "world of the dead"
+          "english": "world of the dead |(vi) thế giới bên kia, cõi âm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_j.opus",
@@ -281,7 +281,7 @@
     "kanji": {
       "character": "世",
       "meaning": {
-        "english": "world, era"
+        "english": "world, era |(vi) thế giới, thời đại"
       },
       "strokes": {
         "count": 5,
@@ -329,7 +329,7 @@
         "romaji": "ichi"
       },
       "meaning": {
-        "english": "one, horizontal stroke"
+        "english": "one, horizontal stroke |(vi) Nhất (một, nét ngang)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ichi0.svg",
@@ -350,7 +350,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "135",
     "strokeCount": 5,
-    "meaning": "generation, world, society, public",
+    "meaning": "generation, world, society, public |(vi) thế hệ, thế giới, xã hội, công chúng |(hv) Thế",
     "kunyomi": [
       "よ"
     ],
@@ -363,69 +363,69 @@
       {
         "example": "世",
         "reading": "セイ",
-        "meaning": "counter for generations, epoch"
+        "meaning": "counter for generations, epoch |(vi) lượng từ đếm thế hệ, thời đại"
       },
       {
         "example": "世紀",
         "reading": "セイキ",
-        "meaning": "century, era, of the century (e.g. fight of the century)"
+        "meaning": "century, era, of the century (e.g. fight of the century) |(vi) thế kỷ, thời đại, của thế kỷ (vd: trận đấu thế kỷ)"
       },
       {
         "example": "近世",
         "reading": "キンセイ",
-        "meaning": "recent past, recent times, early modern period (Azuchi-Momoyama to Edo in Japan)"
+        "meaning": "recent past, recent times, early modern period (Azuchi-Momoyama to Edo in Japan) |(vi) thời cận đại, thời kỳ gần đây (từ Azuchi-Momoyama đến Edo)"
       },
       {
         "example": "創世",
         "reading": "ソウセイ",
-        "meaning": "creation of the world"
+        "meaning": "creation of the world |(vi) sự tạo dựng thế giới, khai thiên lập địa"
       },
       {
         "example": "世",
         "reading": "セイ",
-        "meaning": "counter for generations, epoch"
+        "meaning": "counter for generations, epoch |(vi) lượng từ đếm thế hệ, thời đại"
       },
       {
         "example": "世紀",
         "reading": "セイキ",
-        "meaning": "century, era, of the century (e.g. fight of the century)"
+        "meaning": "century, era, of the century (e.g. fight of the century) |(vi) thế kỷ, thời đại, của thế kỷ (vd: trận đấu thế kỷ)"
       },
       {
         "example": "夜店",
         "reading": "ヨミセ",
-        "meaning": "night stall, night shop, night fair"
+        "meaning": "night stall, night shop, night fair |(vi) quầy hàng đêm, chợ đêm"
       },
       {
         "example": "救世",
         "reading": "キュウセイ",
-        "meaning": "salvation"
+        "meaning": "salvation |(vi) cứu thế, cứu rỗi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "世",
         "reading": "よ",
-        "meaning": "world, society, public, life, lifetime, age, era, period, epoch, generation, reign, rule, the times, world (of existence)"
+        "meaning": "world, society, public, life, lifetime, age, era, period, epoch, generation, reign, rule, the times, world (of existence) |(vi) thế gian, xã hội, công chúng, cuộc đời, thời đại, thời kỳ, thế hệ, triều đại, cõi đời"
       },
       {
         "example": "世の中",
         "reading": "よのなか",
-        "meaning": "society, the world, the times"
+        "meaning": "society, the world, the times |(vi) xã hội, thế gian, thời cuộc"
       },
       {
         "example": "千代",
         "reading": "ちよ",
-        "meaning": "thousand years, very long period, forever"
+        "meaning": "thousand years, very long period, forever |(vi) ngàn năm, thời gian rất dài, mãi mãi"
       },
       {
         "example": "君が代",
         "reading": "きみがよ",
-        "meaning": "Imperial reign, Kimigayo (Japanese national anthem)"
+        "meaning": "Imperial reign, Kimigayo (Japanese national anthem) |(vi) triều đại thiên hoàng, Kimigayo (quốc ca Nhật Bản)"
       }
     ],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": "one |(vi) Nhất (một)"
     },
     "parts": [
       "一",

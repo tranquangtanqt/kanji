@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 2,
     "kunyomi": "saki",
-    "meaning": "ahead",
+    "meaning": "ahead |(vi) trước, phía trước",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "先生（せんせい）",
         "meaning": {
-          "english": "teacher, master, doctor"
+          "english": "teacher, master, doctor |(vi) giáo viên, thầy, bác sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "先週（せんしゅう）",
         "meaning": {
-          "english": "last week"
+          "english": "last week |(vi) tuần trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "先月（せんげつ）",
         "meaning": {
-          "english": "last month"
+          "english": "last month |(vi) tháng trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "先学期（せんがっき）",
         "meaning": {
-          "english": "last semester"
+          "english": "last semester |(vi) học kỳ trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "先輩（せんぱい）",
         "meaning": {
-          "english": "senior (at work or school)"
+          "english": "senior (at work or school) |(vi) tiền bối (ở nơi làm việc hoặc trường học)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "先（さき）",
         "meaning": {
-          "english": "point, end, front, lead, former"
+          "english": "point, end, front, lead, former |(vi) đầu mút, đằng trước, dẫn đầu, trước đây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "店先（みせさき）",
         "meaning": {
-          "english": "store front"
+          "english": "store front |(vi) mặt tiền cửa hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "*先ず（まず）",
         "meaning": {
-          "english": "first (of all)"
+          "english": "first (of all) |(vi) trước tiên, đầu tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_h.opus",
@@ -249,7 +249,7 @@
     "kanji": {
       "character": "先",
       "meaning": {
-        "english": "ahead"
+        "english": "ahead |(vi) trước, phía trước"
       },
       "strokes": {
         "count": 6,
@@ -299,7 +299,7 @@
         "romaji": "hitoashi"
       },
       "meaning": {
-        "english": "human legs"
+        "english": "human legs |(vi) Nhân/Nhi (chân người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoashi0.svg",
@@ -320,7 +320,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "173",
     "strokeCount": 6,
-    "meaning": "before, ahead, previous, future, precedence",
+    "meaning": "before, ahead, previous, future, precedence |(vi) trước, phía trước, trước đây, tương lai, ưu tiên |(hv) Tiên",
     "kunyomi": [
       "さき",
       "ま.ず"
@@ -332,59 +332,59 @@
       {
         "example": "先",
         "reading": "セン",
-        "meaning": "former, previous, old, first move (in go, shogi, etc.), opening move"
+        "meaning": "former, previous, old, first move (in go, shogi, etc.), opening move |(vi) trước đây, trước, cũ, nước đi đầu tiên (trong cờ vây, shogi...), nước khai cuộc"
       },
       {
         "example": "先駆",
         "reading": "センク",
-        "meaning": "forerunner, precursor, pioneer, leader, outrider, outriding"
+        "meaning": "forerunner, precursor, pioneer, leader, outrider, outriding |(vi) người tiên phong, người đi trước, người dẫn đầu, kỵ sĩ hộ tống"
       },
       {
         "example": "機先",
         "reading": "キセン",
-        "meaning": "forestall"
+        "meaning": "forestall |(vi) đi trước, ra tay trước, phủ đầu"
       },
       {
         "example": "互先",
         "reading": "タガイセン",
-        "meaning": "even game (esp. in go)"
+        "meaning": "even game (esp. in go) |(vi) ván cờ ngang sức (đặc biệt trong cờ vây)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "先",
         "reading": "さき",
-        "meaning": "point, tip, end, nozzle, head (of a line), front, first, before, ahead (of), (the way) ahead, beyond, future, previous, prior, former, recent, last, destination, address, place where you do something, rest (e.g. of a story), continuation, remaining part, the other party"
+        "meaning": "point, tip, end, nozzle, head (of a line), front, first, before, ahead (of), (the way) ahead, beyond, future, previous, prior, former, recent, last, destination, address, place where you do something, rest (e.g. of a story), continuation, remaining part, the other party |(vi) đầu mút, đầu nhọn, mũi, phía trước, trước tiên, phía trước (không gian/thời gian), tương lai, trước đây, gần đây, cuối cùng, điểm đến, địa chỉ, nơi làm việc gì đó, phần còn lại (của câu chuyện), đối phương"
       },
       {
         "example": "先行き",
         "reading": "さきゆき",
-        "meaning": "the future, future prospects"
+        "meaning": "the future, future prospects |(vi) tương lai, triển vọng tương lai"
       },
       {
         "example": "口先",
         "reading": "くちさき",
-        "meaning": "lip service, mere words, professions, lips, mouth, snout, proboscis"
+        "meaning": "lip service, mere words, professions, lips, mouth, snout, proboscis |(vi) lời nói suông, đầu môi chót lưỡi, môi, miệng, mõm"
       },
       {
         "example": "矛先",
         "reading": "ほこさき",
-        "meaning": "point of a spear, spearhead, focus (of one's attack, criticism, etc.), aim, target, brunt, force (of an argument), edge"
+        "meaning": "point of a spear, spearhead, focus (of one's attack, criticism, etc.), aim, target, brunt, force (of an argument), edge |(vi) đầu mũi giáo, mũi nhọn, tiêu điểm (của công kích, chỉ trích), mục tiêu, sức mạnh (của lập luận)"
       },
       {
         "example": "先ず",
         "reading": "まず",
-        "meaning": "first (of all), firstly, to begin with, before anything else, probably, most likely, almost certainly, virtually, more or less (satisfactory), on the whole, reasonably, anyway, at any rate, for now (at least), for the time being"
+        "meaning": "first (of all), firstly, to begin with, before anything else, probably, most likely, almost certainly, virtually, more or less (satisfactory), on the whole, reasonably, anyway, at any rate, for now (at least), for the time being |(vi) trước tiên, trước hết, trước khi làm gì khác, có lẽ, gần như chắc chắn, tạm thời, tạm được, dù sao đi nữa, hiện tại thì"
       },
       {
         "example": "先ず隗より始めよ",
         "reading": "まずかいよりはじめよ",
-        "meaning": "start with the first step, when embarking on a great project, start with immediate steps, he who first suggests it should be the first to do it"
+        "meaning": "start with the first step, when embarking on a great project, start with immediate steps, he who first suggests it should be the first to do it |(vi) bắt đầu từ bước đầu tiên, khi khởi động một dự án lớn hãy bắt đầu từ việc gần nhất, ai đề xuất trước nên là người làm trước"
       }
     ],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": "legs |(vi) Nhi (chân, chân người)"
     },
     "parts": [
       "ノ",

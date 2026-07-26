@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 50,
     "kunyomi": "mou, mousu, moushi",
-    "meaning": "report, speak humbly",
+    "meaning": "report, speak humbly |(vi) báo cáo, nói khiêm nhường",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "申告する（しんこくする）",
         "meaning": {
-          "english": "file report (about oneself)"
+          "english": "file report (about oneself) |(vi) khai báo (về bản thân)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mou(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "申請する（しんせいする）",
         "meaning": {
-          "english": "write an application or petition"
+          "english": "write an application or petition |(vi) viết đơn xin, viết kiến nghị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mou(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "申す（もうす）",
         "meaning": {
-          "english": "say [hum.]"
+          "english": "say [hum.] |(vi) nói [khiêm nhường]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mou(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "申し訳ない（もうしわけない）",
         "meaning": {
-          "english": "inexcusable"
+          "english": "inexcusable |(vi) không thể tha thứ, xin lỗi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mou(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "申し分ない（もうしぶんない）",
         "meaning": {
-          "english": "perfect, beyond criticism"
+          "english": "perfect, beyond criticism |(vi) hoàn hảo, không chê vào đâu được"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mou(su)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "申し込む（もうしこむ）",
         "meaning": {
-          "english": "apply for"
+          "english": "apply for |(vi) xin, đăng ký, đề nghị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mou(su)_06_f.opus",
@@ -205,7 +205,7 @@
     "kanji": {
       "character": "申",
       "meaning": {
-        "english": "report, speak humbly"
+        "english": "report, speak humbly |(vi) báo cáo, nói khiêm nhường"
       },
       "strokes": {
         "count": 5,
@@ -253,7 +253,7 @@
         "romaji": "ta"
       },
       "meaning": {
-        "english": "rice paddy"
+        "english": "rice paddy |(vi) Điền (ruộng lúa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ta0.svg",
@@ -274,7 +274,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "492",
     "strokeCount": 5,
-    "meaning": "have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac",
+    "meaning": "have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac |(vi) vinh dự được, chi Thân (con khỉ), 3-5 giờ chiều, chi thứ chín trong 12 con giáp |(hv) Thân",
     "kunyomi": [
       "もう.す",
       "もう.し-",
@@ -287,59 +287,59 @@
       {
         "example": "申請",
         "reading": "シンセイ",
-        "meaning": "application, request, petition"
+        "meaning": "application, request, petition |(vi) đơn xin, yêu cầu, kiến nghị"
       },
       {
         "example": "申告",
         "reading": "シンコク",
-        "meaning": "report, return (e.g. tax), statement, declaration, notification, filing"
+        "meaning": "report, return (e.g. tax), statement, declaration, notification, filing |(vi) báo cáo, khai (thuế), bản khai, tờ khai, thông báo, nộp đơn"
       },
       {
         "example": "上申",
         "reading": "ジョウシン",
-        "meaning": "report to a superior"
+        "meaning": "report to a superior |(vi) báo cáo lên cấp trên"
       },
       {
         "example": "具申",
         "reading": "グシン",
-        "meaning": "offering a full report to a superior"
+        "meaning": "offering a full report to a superior |(vi) trình báo cáo đầy đủ lên cấp trên"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "申す",
         "reading": "もうす",
-        "meaning": "to say, to be called, to do"
+        "meaning": "to say, to be called, to do |(vi) nói, được gọi là, làm (khiêm nhường)"
       },
       {
         "example": "申すまでもなく",
         "reading": "もうすまでもなく",
-        "meaning": "needless to say, obviously, of course"
+        "meaning": "needless to say, obviously, of course |(vi) không cần phải nói, rõ ràng, dĩ nhiên"
       },
       {
         "example": "申",
         "reading": "さる",
-        "meaning": "the Monkey (ninth sign of the Chinese zodiac), hour of the Monkey (around 4pm, 3-5pm, or 4-6pm), west-southwest, 7th month of the lunar calendar"
+        "meaning": "the Monkey (ninth sign of the Chinese zodiac), hour of the Monkey (around 4pm, 3-5pm, or 4-6pm), west-southwest, 7th month of the lunar calendar |(vi) chi Thân (con khỉ, chi thứ chín), giờ Thân (khoảng 3-5 giờ chiều), hướng tây-tây nam, tháng 7 âm lịch"
       },
       {
         "example": "猿楽",
         "reading": "さるがく",
-        "meaning": "sarugaku (form of theatre popular in Japan during the 11th to 14th centuries), noh, fooling around"
+        "meaning": "sarugaku (form of theatre popular in Japan during the 11th to 14th centuries), noh, fooling around |(vi) sarugaku (loại hình sân khấu phổ biến ở Nhật thế kỷ 11-14), nô, đùa giỡn"
       },
       {
         "example": "庚申",
         "reading": "かのえさる",
-        "meaning": "Metal Monkey (57th term of the sexagenary cycle, e.g. 1920, 1980, 2040), Shōmen Kongō (deity), kōshin-machi (religious wake)"
+        "meaning": "Metal Monkey (57th term of the sexagenary cycle, e.g. 1920, 1980, 2040), Shōmen Kongō (deity), kōshin-machi (religious wake) |(vi) Canh Thân (can chi thứ 57, ví dụ 1920, 1980, 2040), thần Shōmen Kongō, đêm thức canh kōshin"
       },
       {
         "example": "甲申",
         "reading": "きのえさる",
-        "meaning": "Wood Monkey (21st term of the sexagenary cycle, e.g. 1944, 2004, 2064)"
+        "meaning": "Wood Monkey (21st term of the sexagenary cycle, e.g. 1944, 2004, 2064) |(vi) Giáp Thân (can chi thứ 21, ví dụ 1944, 2004, 2064)"
       }
     ],
     "radical": {
       "symbol": "田",
-      "meaning": "field"
+      "meaning": "field |(vi) Điền (ruộng)"
     },
     "parts": [
       "日",

@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "kawa",
-    "meaning": "river",
+    "meaning": "river |(vi) sông",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "河川（かせん）",
         "meaning": {
-          "english": "rivers"
+          "english": "rivers |(vi) sông ngòi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "川（かわ）",
         "meaning": {
-          "english": "river"
+          "english": "river |(vi) sông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "川上（かわかみ）",
         "meaning": {
-          "english": "upper reaches of a river"
+          "english": "upper reaches of a river |(vi) thượng nguồn con sông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "川下（かわしも）",
         "meaning": {
-          "english": "downstream"
+          "english": "downstream |(vi) hạ lưu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "江戸川（えどがわ）",
         "meaning": {
-          "english": "Edo River"
+          "english": "Edo River |(vi) sông Edo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "小川（おがわ）",
         "meaning": {
-          "english": "small stream, brook"
+          "english": "small stream, brook |(vi) suối nhỏ, con lạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_f.opus",
@@ -218,7 +218,7 @@
     "kanji": {
       "character": "川",
       "meaning": {
-        "english": "river"
+        "english": "river |(vi) sông"
       },
       "strokes": {
         "count": 3,
@@ -262,7 +262,7 @@
         "romaji": "sanbongawa"
       },
       "meaning": {
-        "english": "river"
+        "english": "river |(vi) Xuyên (sông)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanbongawa0.svg",
@@ -283,7 +283,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "181",
     "strokeCount": 3,
-    "meaning": "stream, river, river or three-stroke river radical (no. 47)",
+    "meaning": "stream, river, river or three-stroke river radical (no. 47) |(vi) dòng suối, sông, bộ xuyên ba nét (số 47) |(hv) Xuyên",
     "kunyomi": [
       "かわ"
     ],
@@ -294,44 +294,44 @@
       {
         "example": "川柳",
         "reading": "センリュウ",
-        "meaning": "senryū, comic haiku, humorous seventeen-mora poem"
+        "meaning": "senryū, comic haiku, humorous seventeen-mora poem |(vi) senryū, thơ haiku hài hước, thơ mười bảy âm tiết mang tính châm biếm"
       },
       {
         "example": "川きゅう",
         "reading": "センキュウ",
-        "meaning": "cnidium rhizome (Cnidium officinale)"
+        "meaning": "cnidium rhizome (Cnidium officinale) |(vi) thân rễ xuyên khung (dùng làm thuốc)"
       },
       {
         "example": "山川",
         "reading": "サンセン",
-        "meaning": "mountains and rivers"
+        "meaning": "mountains and rivers |(vi) núi sông, sơn xuyên"
       },
       {
         "example": "四川",
         "reading": "シセン",
-        "meaning": "Sichuan (China), Szechuan, Szechwan"
+        "meaning": "Sichuan (China), Szechuan, Szechwan |(vi) Tứ Xuyên (Trung Quốc)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "川",
         "reading": "かわ",
-        "meaning": "river, stream, River, the ... river"
+        "meaning": "river, stream, River, the ... river |(vi) sông, dòng suối, con sông..."
       },
       {
         "example": "川上",
         "reading": "かわかみ",
-        "meaning": "upper reaches of a river, upstream"
+        "meaning": "upper reaches of a river, upstream |(vi) thượng nguồn con sông, ngược dòng"
       },
       {
         "example": "堀川",
         "reading": "ほりかわ",
-        "meaning": "canal"
+        "meaning": "canal |(vi) kênh đào"
       },
       {
         "example": "山川",
         "reading": "さんせん",
-        "meaning": "mountains and rivers"
+        "meaning": "mountains and rivers |(vi) núi sông, sơn xuyên"
       }
     ],
     "radical": {
@@ -340,7 +340,7 @@
         "川",
         "巜"
       ],
-      "meaning": "river"
+      "meaning": "river |(vi) Xuyên (sông)"
     },
     "parts": [
       "川"

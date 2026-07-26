@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "haya, hayai, hayamaru, hayameru, hayaku",
-    "meaning": "early, quick",
+    "meaning": "early, quick |(vi) sớm, nhanh",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "早朝（そうちょう）",
         "meaning": {
-          "english": "early morning"
+          "english": "early morning |(vi) sáng sớm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "早急な（そうきゅうな）",
         "meaning": {
-          "english": "urgent"
+          "english": "urgent |(vi) khẩn cấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "早い（はやい）",
         "meaning": {
-          "english": "early"
+          "english": "early |(vi) sớm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "早起きする（はやおきする）",
         "meaning": {
-          "english": "wake up early"
+          "english": "wake up early |(vi) dậy sớm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "早まる（はやまる）",
         "meaning": {
-          "english": "be rash [v.i.]"
+          "english": "be rash [v.i.] |(vi) hấp tấp, vội vàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "早める（はやめる）",
         "meaning": {
-          "english": "hasten [v.t.]"
+          "english": "hasten [v.t.] |(vi) đẩy nhanh, rút ngắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "*早速（さっそく）",
         "meaning": {
-          "english": "immediately"
+          "english": "immediately |(vi) ngay lập tức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_g.opus",
@@ -244,7 +244,7 @@
     "kanji": {
       "character": "早",
       "meaning": {
-        "english": "early, quick"
+        "english": "early, quick |(vi) sớm, nhanh"
       },
       "strokes": {
         "count": 6,
@@ -294,7 +294,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi0.svg",
@@ -315,7 +315,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "402",
     "strokeCount": 6,
-    "meaning": "early, fast",
+    "meaning": "early, fast |(vi) sớm, nhanh |(hv) Tảo",
     "kunyomi": [
       "はや.い",
       "はや",
@@ -332,79 +332,79 @@
       {
         "example": "早急",
         "reading": "ソウキュウ",
-        "meaning": "immediate, prompt, quick, rapid, urgent, pressing"
+        "meaning": "immediate, prompt, quick, rapid, urgent, pressing |(vi) ngay lập tức, khẩn trương, nhanh chóng, gấp gáp, cấp bách"
       },
       {
         "example": "早期",
         "reading": "ソウキ",
-        "meaning": "early stage"
+        "meaning": "early stage |(vi) giai đoạn sớm"
       },
       {
         "example": "時期早々",
         "reading": "ジキソウソウ",
-        "meaning": "premature"
+        "meaning": "premature |(vi) còn quá sớm, chưa đến lúc"
       },
       {
         "example": "尚早",
         "reading": "ショウソウ",
-        "meaning": "prematurity"
+        "meaning": "prematurity |(vi) quá sớm, non nớt"
       },
       {
         "example": "早急",
         "reading": "ソウキュウ",
-        "meaning": "immediate, prompt, quick, rapid, urgent, pressing"
+        "meaning": "immediate, prompt, quick, rapid, urgent, pressing |(vi) ngay lập tức, khẩn trương, nhanh chóng, gấp gáp, cấp bách"
       },
       {
         "example": "早速",
         "reading": "サッソク",
-        "meaning": "at once, immediately, without delay, promptly"
+        "meaning": "at once, immediately, without delay, promptly |(vi) ngay lập tức, không chậm trễ, nhanh chóng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "早い",
         "reading": "はやい",
-        "meaning": "fast, quick, rapid, swift, speedy, brisk, prompt, early, soon, earlier than usual, premature, too soon, too early, easy, simple, quick, fast, as soon as ..., the moment ..., the instant ..."
+        "meaning": "fast, quick, rapid, swift, speedy, brisk, prompt, early, soon, earlier than usual, premature, too soon, too early, easy, simple, quick, fast, as soon as ..., the moment ..., the instant ... |(vi) nhanh, mau, gấp, sớm, sớm hơn thường lệ, quá sớm, non nớt, dễ dàng, ngay khi..."
       },
       {
         "example": "早いこと",
         "reading": "はやいこと",
-        "meaning": "quickly"
+        "meaning": "quickly |(vi) nhanh chóng"
       },
       {
         "example": "早",
         "reading": "はや",
-        "meaning": "already, now, by this time, quick, early, fast, rapid"
+        "meaning": "already, now, by this time, quick, early, fast, rapid |(vi) đã, giờ đây, đến lúc này, nhanh, sớm"
       },
       {
         "example": "甲矢",
         "reading": "はや",
-        "meaning": "arrow with feathers that curve to the left (the first of two arrows to be fired)"
+        "meaning": "arrow with feathers that curve to the left (the first of two arrows to be fired) |(vi) mũi tên lông vũ cong về bên trái (mũi tên đầu tiên trong hai mũi bắn)"
       },
       {
         "example": "千早",
         "reading": "ちはや",
-        "meaning": "thin, white ceremonial haori worn by miko"
+        "meaning": "thin, white ceremonial haori worn by miko |(vi) áo haori nghi lễ mỏng, màu trắng do miko (nữ vu) mặc"
       },
       {
         "example": "早々",
         "reading": "はやはや",
-        "meaning": "quickly"
+        "meaning": "quickly |(vi) nhanh chóng"
       },
       {
         "example": "早まる",
         "reading": "はやまる",
-        "meaning": "to be brought forward (e.g. by three hours), to be moved up, to be advanced, to be hasty, to be rash, to quicken, to speed up, to gather speed"
+        "meaning": "to be brought forward (e.g. by three hours), to be moved up, to be advanced, to be hasty, to be rash, to quicken, to speed up, to gather speed |(vi) được đẩy sớm lên (ví dụ 3 tiếng), được dời sớm, hấp tấp, vội vàng, nhanh lên, tăng tốc"
       },
       {
         "example": "早める",
         "reading": "はやめる",
-        "meaning": "to bring forward (e.g. by 3 hours), to advance, to hasten (e.g. one's death), to expedite, to precipitate, to quicken (e.g. one's step), to speed up, to accelerate"
+        "meaning": "to bring forward (e.g. by 3 hours), to advance, to hasten (e.g. one's death), to expedite, to precipitate, to quicken (e.g. one's step), to speed up, to accelerate |(vi) đẩy sớm lên (ví dụ 3 tiếng), tiến lên, đẩy nhanh (ví dụ cái chết), thúc đẩy, làm nhanh (bước chân), tăng tốc"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "十",

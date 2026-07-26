@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "izumi",
-    "meaning": "spring, fountain",
+    "meaning": "spring, fountain |(vi) suối, nguồn",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "温泉（おんせん）",
         "meaning": {
-          "english": "onsen, hot spring, spa"
+          "english": "onsen, hot spring, spa |(vi) onsen, suối nước nóng, khu tắm nước khoáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/izumi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "冷泉（れいせん）",
         "meaning": {
-          "english": "cold mineral spring"
+          "english": "cold mineral spring |(vi) suối khoáng lạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/izumi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "鉱泉（こうせん）",
         "meaning": {
-          "english": "mineral spring"
+          "english": "mineral spring |(vi) suối khoáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/izumi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "源泉（げんせん）",
         "meaning": {
-          "english": "source"
+          "english": "source |(vi) nguồn gốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/izumi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "泉（いずみ）",
         "meaning": {
-          "english": "spring, fountain"
+          "english": "spring, fountain |(vi) suối, mạch nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/izumi_06_e.opus",
@@ -153,7 +153,7 @@
     "kanji": {
       "character": "泉",
       "meaning": {
-        "english": "spring, fountain"
+        "english": "spring, fountain |(vi) suối, nguồn"
       },
       "strokes": {
         "count": 9,
@@ -209,7 +209,7 @@
         "romaji": "mizu"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mizu0.svg",
@@ -230,7 +230,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1086",
     "strokeCount": 9,
-    "meaning": "spring, fountain",
+    "meaning": "spring, fountain |(vi) suối, mạch nước, nguồn |(hv) Tuyền",
     "kunyomi": [
       "いずみ"
     ],
@@ -241,44 +241,44 @@
       {
         "example": "泉水",
         "reading": "センスイ",
-        "meaning": "garden pond, miniature lake, fountain"
+        "meaning": "garden pond, miniature lake, fountain |(vi) ao vườn, hồ nhỏ nhân tạo, đài phun nước"
       },
       {
         "example": "泉塩",
         "reading": "センエン",
-        "meaning": "salt (from a mineral spring)"
+        "meaning": "salt (from a mineral spring) |(vi) muối (từ suối khoáng)"
       },
       {
         "example": "源泉",
         "reading": "ゲンセン",
-        "meaning": "source (of a spring, etc.), source (of payment, energy, knowledge, etc.), origin, wellspring"
+        "meaning": "source (of a spring, etc.), source (of payment, energy, knowledge, etc.), origin, wellspring |(vi) nguồn (của suối...), nguồn (chi trả, năng lượng, kiến thức...), cội nguồn, mạch nguồn"
       },
       {
         "example": "天然温泉",
         "reading": "テンネンオンセン",
-        "meaning": "natural hot spring"
+        "meaning": "natural hot spring |(vi) suối nước nóng tự nhiên"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "泉",
         "reading": "いずみ",
-        "meaning": "spring, fountain"
+        "meaning": "spring, fountain |(vi) suối, mạch nước"
       },
       {
         "example": "泉熱",
         "reading": "いずみねつ",
-        "meaning": "Izumi fever (resembles scarlet fever)"
+        "meaning": "Izumi fever (resembles scarlet fever) |(vi) bệnh sốt Izumi (giống bệnh sốt tinh hồng nhiệt)"
       },
       {
         "example": "知識の泉",
         "reading": "ちしきのいずみ",
-        "meaning": "source of knowledge"
+        "meaning": "source of knowledge |(vi) nguồn tri thức"
       },
       {
         "example": "ことばの泉",
         "reading": "ことばのいずみ",
-        "meaning": "Kotoba no Izumi (Japanese dictionary; publ. 1898)"
+        "meaning": "Kotoba no Izumi (Japanese dictionary; publ. 1898) |(vi) Kotoba no Izumi (từ điển tiếng Nhật, xuất bản năm 1898)"
       }
     ],
     "radical": {
@@ -287,7 +287,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "水",

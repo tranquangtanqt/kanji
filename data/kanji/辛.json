@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "kara, karai, karasa",
-    "meaning": "pungent, hard, spicy",
+    "meaning": "pungent, hard, spicy |(vi) cay, khắc nghiệt, gian khổ",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "辛苦（しんく）",
         "meaning": {
-          "english": "hardship, toil, trouble"
+          "english": "hardship, toil, trouble |(vi) gian khổ, khó nhọc, vất vả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "辛酸（しんさん）",
         "meaning": {
-          "english": "hardships, privation"
+          "english": "hardships, privation |(vi) gian truân, khổ cực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "辛辣な（しんらつな）",
         "meaning": {
-          "english": "bitter, sharp, acrimonious"
+          "english": "bitter, sharp, acrimonious |(vi) cay nghiệt, gay gắt, chua chát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "辛抱する（しんぼうする）",
         "meaning": {
-          "english": "endure, persevere"
+          "english": "endure, persevere |(vi) chịu đựng, kiên nhẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "香辛料（こうしんりょう）",
         "meaning": {
-          "english": "spices"
+          "english": "spices |(vi) gia vị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "辛い（からい）",
         "meaning": {
-          "english": "hot, salty, tough, adverse, harsh"
+          "english": "hot, salty, tough, adverse, harsh |(vi) cay, mặn, khắc nghiệt, gay gắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "塩辛い（しおからい）",
         "meaning": {
-          "english": "salty"
+          "english": "salty |(vi) mặn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "辛子（からし）",
         "meaning": {
-          "english": "mustard"
+          "english": "mustard |(vi) mù tạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "唐辛子（とうがらし）",
         "meaning": {
-          "english": "red pepper, cayenne"
+          "english": "red pepper, cayenne |(vi) ớt đỏ, ớt cayenne"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "世知辛い（せちがらい）",
         "meaning": {
-          "english": "hard , tough"
+          "english": "hard , tough |(vi) khắc nghiệt, khó khăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_j.opus",
@@ -223,7 +223,7 @@
     "kanji": {
       "character": "辛",
       "meaning": {
-        "english": "pungent, hard, spicy"
+        "english": "pungent, hard, spicy |(vi) cay, khắc nghiệt, gian khổ"
       },
       "strokes": {
         "count": 7,
@@ -275,7 +275,7 @@
         "romaji": "karai"
       },
       "meaning": {
-        "english": "bitter"
+        "english": "bitter |(vi) Tân (cay, đắng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/karai0.svg",
@@ -296,7 +296,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1607",
     "strokeCount": 7,
-    "meaning": "spicy, bitter, hot, acrid",
+    "meaning": "spicy, bitter, hot, acrid |(vi) cay, đắng, gay gắt, gian khổ |(hv) Tân",
     "kunyomi": [
       "から.い",
       "つら.い",
@@ -310,59 +310,59 @@
       {
         "example": "辛",
         "reading": "カノト",
-        "meaning": "8th in rank, eighth sign of the Chinese calendar"
+        "meaning": "8th in rank, eighth sign of the Chinese calendar |(vi) vị trí thứ 8, can thứ tám trong thiên can (Tân)"
       },
       {
         "example": "辛抱",
         "reading": "シンボウ",
-        "meaning": "patience, endurance, perseverance"
+        "meaning": "patience, endurance, perseverance |(vi) kiên nhẫn, chịu đựng, nhẫn nại"
       },
       {
         "example": "細辛",
         "reading": "サイシン",
-        "meaning": "Siebold's wild ginger (esp. its dried root or rhizome, used as an antitussive and analgesic in traditional Chinese medicine)"
+        "meaning": "Siebold's wild ginger (esp. its dried root or rhizome, used as an antitussive and analgesic in traditional Chinese medicine) |(vi) tế tân (rễ khô của cây tế tân Siebold, dùng làm thuốc giảm ho và giảm đau trong y học cổ truyền)"
       },
       {
         "example": "【ウスバサイシン】",
         "reading": "Siebold&#39;s wild ginger (Asarum sieboldii)",
-        "meaning": ""
+        "meaning": " |(vi) tế tân lá mỏng (Asarum sieboldii)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "辛い",
         "reading": "からい",
-        "meaning": "spicy, hot, salty, harsh (criticism), severe (punishment), strict, painful, bitter, difficult, tough"
+        "meaning": "spicy, hot, salty, harsh (criticism), severe (punishment), strict, painful, bitter, difficult, tough |(vi) cay, mặn, gay gắt (chỉ trích), nghiêm khắc (hình phạt), khắt khe, đau đớn, cay đắng, khó khăn, gian nan"
       },
       {
         "example": "辛い味",
         "reading": "からいあじ",
-        "meaning": "pungent taste"
+        "meaning": "pungent taste |(vi) vị cay"
       },
       {
         "example": "辛い",
         "reading": "つらい",
-        "meaning": "painful, bitter, heart-breaking, difficult (emotionally), tough, difficult, hard (usu. of situations), cruel, harsh, cold"
+        "meaning": "painful, bitter, heart-breaking, difficult (emotionally), tough, difficult, hard (usu. of situations), cruel, harsh, cold |(vi) đau đớn, cay đắng, đau lòng, khó khăn (về tình cảm), khắc nghiệt, gian nan, tàn nhẫn, lạnh lùng"
       },
       {
         "example": "辛い目に会う",
         "reading": "つらいめにあう",
-        "meaning": "to have a hard time of it"
+        "meaning": "to have a hard time of it |(vi) trải qua thời gian khó khăn"
       },
       {
         "example": "辛",
         "reading": "かのと",
-        "meaning": "8th in rank, eighth sign of the Chinese calendar"
+        "meaning": "8th in rank, eighth sign of the Chinese calendar |(vi) vị trí thứ 8, can thứ tám trong thiên can (Tân)"
       },
       {
         "example": "辛卯",
         "reading": "かのとう",
-        "meaning": "Metal Rabbit (28th term of the sexagenary cycle, e.g. 1951, 2011, 2071)"
+        "meaning": "Metal Rabbit (28th term of the sexagenary cycle, e.g. 1951, 2011, 2071) |(vi) Tân Mão (can chi thứ 28 trong lục thập hoa giáp, ví dụ năm 1951, 2011, 2071)"
       }
     ],
     "radical": {
       "symbol": "辛",
-      "meaning": "bitter"
+      "meaning": "bitter |(vi) Tân (cay, đắng)"
     },
     "parts": [
       "十",

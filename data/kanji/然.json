@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 3,
     "kunyomi": "n/a",
-    "meaning": "modifier forming suffix, as",
+    "meaning": "modifier forming suffix, as |(vi) hậu tố tạo tính từ, như là",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "全然（ぜんぜん）",
         "meaning": {
-          "english": "not at all"
+          "english": "not at all |(vi) hoàn toàn không"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)zen_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "偶然（ぐうぜん）",
         "meaning": {
-          "english": "by chance"
+          "english": "by chance |(vi) tình cờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)zen_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "突然（とつぜん）",
         "meaning": {
-          "english": "suddenly"
+          "english": "suddenly |(vi) đột nhiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)zen_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "当然（とうぜん）",
         "meaning": {
-          "english": "as a matter of course"
+          "english": "as a matter of course |(vi) đương nhiên, tất nhiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)zen_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "自然（しぜん）",
         "meaning": {
-          "english": "nature"
+          "english": "nature |(vi) tự nhiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)zen_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "平然と（へいぜんと）",
         "meaning": {
-          "english": "calmly"
+          "english": "calmly |(vi) một cách bình thản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)zen_06_f.opus",
@@ -246,7 +246,7 @@
     "kanji": {
       "character": "然",
       "meaning": {
-        "english": "modifier forming suffix, as"
+        "english": "modifier forming suffix, as |(vi) hậu tố tạo tính từ, như là"
       },
       "strokes": {
         "count": 12,
@@ -308,7 +308,7 @@
         "romaji": "rekka"
       },
       "meaning": {
-        "english": "fire"
+        "english": "fire |(vi) Hỏa (lửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rekka0.svg",
@@ -329,7 +329,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "401",
     "strokeCount": 12,
-    "meaning": "sort of thing, so, if so, in that case, well",
+    "meaning": "sort of thing, so, if so, in that case, well |(vi) như vậy, thế thì, nếu vậy, trong trường hợp đó |(hv) Nhiên",
     "kunyomi": [
       "しか",
       "しか.り",
@@ -344,74 +344,74 @@
       {
         "example": "然",
         "reading": "ゼン",
-        "meaning": "-like"
+        "meaning": "-like |(vi) giống như, có tính chất..."
       },
       {
         "example": "然諾",
         "reading": "ゼンダク",
-        "meaning": "consent, saying yes"
+        "meaning": "consent, saying yes |(vi) đồng ý, nhận lời"
       },
       {
         "example": "必然",
         "reading": "ヒツゼン",
-        "meaning": "inevitable, necessary, certain, sure, inevitability, necessity"
+        "meaning": "inevitable, necessary, certain, sure, inevitability, necessity |(vi) tất yếu, tất nhiên, chắc chắn, tính tất yếu"
       },
       {
         "example": "漠然",
         "reading": "バクゼン",
-        "meaning": "vague, obscure, indistinct, hazy, ambiguous"
+        "meaning": "vague, obscure, indistinct, hazy, ambiguous |(vi) mơ hồ, không rõ ràng, mù mờ"
       },
       {
         "example": "寂然",
         "reading": "セキゼン",
-        "meaning": "lonely, desolate, forlornness, desolation"
+        "meaning": "lonely, desolate, forlornness, desolation |(vi) cô đơn, hiu quạnh, sự tịch mịch"
       },
       {
         "example": "自然",
         "reading": "ジネン",
-        "meaning": "occurring naturally (without human influence)"
+        "meaning": "occurring naturally (without human influence) |(vi) xảy ra một cách tự nhiên (không do con người tác động)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "然",
         "reading": "しか",
-        "meaning": "like that, as such, yeah, uh-huh"
+        "meaning": "like that, as such, yeah, uh-huh |(vi) như vậy, như thế, ừ, phải vậy"
       },
       {
         "example": "然し",
         "reading": "しかし",
-        "meaning": "however, but"
+        "meaning": "however, but |(vi) tuy nhiên, nhưng"
       },
       {
         "example": "然り",
         "reading": "しかり",
-        "meaning": "yes, yea, aye, affirmative, to be so"
+        "meaning": "yes, yea, aye, affirmative, to be so |(vi) vâng, phải, đúng vậy, là như thế"
       },
       {
         "example": "然し",
         "reading": "しかし",
-        "meaning": "however, but"
+        "meaning": "however, but |(vi) tuy nhiên, nhưng"
       },
       {
         "example": "而して",
         "reading": "そして",
-        "meaning": "and, and then, thus, and now, and finally"
+        "meaning": "and, and then, thus, and now, and finally |(vi) và, rồi thì, như vậy, và giờ đây, và cuối cùng"
       },
       {
         "example": "然",
         "reading": "さ",
-        "meaning": "so, like that, in that way"
+        "meaning": "so, like that, in that way |(vi) như vậy, như thế, theo cách đó"
       },
       {
         "example": "然らば",
         "reading": "さらば",
-        "meaning": "farewell, goodbye, adieu, if so, in that case, then, and (then)"
+        "meaning": "farewell, goodbye, adieu, if so, in that case, then, and (then) |(vi) tạm biệt, vĩnh biệt, nếu vậy, trong trường hợp đó, vậy thì, và (rồi)"
       },
       {
         "example": "然然",
         "reading": "ささ",
-        "meaning": "such and such"
+        "meaning": "such and such |(vi) như thế này thế kia"
       }
     ],
     "radical": {
@@ -419,7 +419,7 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": "fire |(vi) Hỏa (lửa)"
     },
     "parts": [
       "夕",

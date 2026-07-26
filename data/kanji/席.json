@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "seat",
+    "meaning": "seat |(vi) chỗ ngồi",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "出席する（しゅっせきする）",
         "meaning": {
-          "english": "attend [v.i.]"
+          "english": "attend [v.i.] |(vi) tham dự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(za)seki_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "欠席する（けっせきする）",
         "meaning": {
-          "english": "be absent"
+          "english": "be absent |(vi) vắng mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(za)seki_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "座席（ざせき）",
         "meaning": {
-          "english": "seat"
+          "english": "seat |(vi) chỗ ngồi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(za)seki_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "議席（ぎせき）",
         "meaning": {
-          "english": "parliamentary seat"
+          "english": "parliamentary seat |(vi) ghế nghị viện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(za)seki_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "指定席（していせき）",
         "meaning": {
-          "english": "reserved seat"
+          "english": "reserved seat |(vi) ghế đã đặt trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(za)seki_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "自由席（じゆうせき）",
         "meaning": {
-          "english": "unreserved seat"
+          "english": "unreserved seat |(vi) ghế không đặt trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(za)seki_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "即席ラーメン（そくせきラーメン）",
         "meaning": {
-          "english": "instant noodles"
+          "english": "instant noodles |(vi) mì ăn liền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(za)seki_06_g.opus",
@@ -205,7 +205,7 @@
     "kanji": {
       "character": "席",
       "meaning": {
-        "english": "seat"
+        "english": "seat |(vi) chỗ ngồi"
       },
       "strokes": {
         "count": 10,
@@ -263,7 +263,7 @@
         "romaji": "haba"
       },
       "meaning": {
-        "english": "cloth"
+        "english": "cloth |(vi) Cân (khăn, vải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/haba0.svg",
@@ -284,7 +284,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "370",
     "strokeCount": 10,
-    "meaning": "seat, mat, occasion, place",
+    "meaning": "seat, mat, occasion, place |(vi) chỗ ngồi, chiếu, dịp, nơi chốn |(hv) Tịch",
     "kunyomi": [
       "むしろ"
     ],
@@ -295,39 +295,39 @@
       {
         "example": "席",
         "reading": "セキ",
-        "meaning": "seat, location (of a gathering, etc.), place, position, post"
+        "meaning": "seat, location (of a gathering, etc.), place, position, post |(vi) chỗ ngồi, địa điểm (buổi họp...), vị trí, chức vụ"
       },
       {
         "example": "席上",
         "reading": "セキジョウ",
-        "meaning": "at the meeting, on the occasion"
+        "meaning": "at the meeting, on the occasion |(vi) tại cuộc họp, trong dịp đó"
       },
       {
         "example": "寄席",
         "reading": "ヨセ",
-        "meaning": "entertainment hall (for rakugo, manzai, magic, music, etc.), vaudeville theater (theatre), music hall"
+        "meaning": "entertainment hall (for rakugo, manzai, magic, music, etc.), vaudeville theater (theatre), music hall |(vi) quán biểu diễn (rakugo, manzai, ảo thuật, âm nhạc...), nhà hát tạp kỹ"
       },
       {
         "example": "次席",
         "reading": "ジセキ",
-        "meaning": "associate, junior, assistant, next in rank, runner-up"
+        "meaning": "associate, junior, assistant, next in rank, runner-up |(vi) trợ lý, cấp dưới, người kế tiếp, á quân"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "筵",
         "reading": "むしろ",
-        "meaning": "woven mat (esp. one made of straw), seat"
+        "meaning": "woven mat (esp. one made of straw), seat |(vi) chiếu dệt (đặc biệt bằng rơm), chỗ ngồi"
       },
       {
         "example": "竹席",
         "reading": "たかむしろ",
-        "meaning": "bamboo mat"
+        "meaning": "bamboo mat |(vi) chiếu tre"
       }
     ],
     "radical": {
       "symbol": "巾",
-      "meaning": "turban, scarf"
+      "meaning": "turban, scarf |(vi) Cân (khăn, vải)"
     },
     "parts": [
       "一",

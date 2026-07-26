@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 5,
     "kunyomi": "fushi",
-    "meaning": "joint, season of the year, section, melody",
+    "meaning": "joint, season of the year, section, melody |(vi) khớp, đốt, mùa trong năm, đoạn, giai điệu",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "節句（せっく）",
         "meaning": {
-          "english": "seasonal festival"
+          "english": "seasonal festival |(vi) lễ hội theo mùa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "節電（せつでん）",
         "meaning": {
-          "english": "conservation of electricity"
+          "english": "conservation of electricity |(vi) tiết kiệm điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "節度（せつど）",
         "meaning": {
-          "english": "moderation"
+          "english": "moderation |(vi) chừng mực, tiết độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "関節（かんせつ）",
         "meaning": {
-          "english": "joints"
+          "english": "joints |(vi) khớp xương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "季節（きせつ）",
         "meaning": {
-          "english": "season"
+          "english": "season |(vi) mùa, mùa vụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "礼節（れいせつ）",
         "meaning": {
-          "english": "decorum, propriety, politeness"
+          "english": "decorum, propriety, politeness |(vi) lễ nghi, phép tắc, lịch sự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "章節（しょうせつ）",
         "meaning": {
-          "english": "chapters and sections"
+          "english": "chapters and sections |(vi) chương và mục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "使節（しせつ）",
         "meaning": {
-          "english": "envoy, embassy, delegate"
+          "english": "envoy, embassy, delegate |(vi) sứ giả, sứ đoàn, đại diện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "調節する（ちょうせつする）",
         "meaning": {
-          "english": "regulate, adjust, control"
+          "english": "regulate, adjust, control |(vi) điều chỉnh, điều tiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "節約する（せつやくする）",
         "meaning": {
-          "english": "conserve, economize"
+          "english": "conserve, economize |(vi) tiết kiệm, tằn tiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "お節料理（おせちりょうり）",
         "meaning": {
-          "english": "New Year's dish"
+          "english": "New Year's dish |(vi) món ăn năm mới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "節（ふし）",
         "meaning": {
-          "english": "node, section, occasion, time"
+          "english": "node, section, occasion, time |(vi) đốt, khớp, giai đoạn, dịp, thời điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_l.opus",
@@ -281,7 +281,7 @@
     "kanji": {
       "character": "節",
       "meaning": {
-        "english": "joint, season of the year, section, melody"
+        "english": "joint, season of the year, section, melody |(vi) khớp, đốt, mùa trong năm, đoạn, giai điệu"
       },
       "strokes": {
         "count": 13,
@@ -345,7 +345,7 @@
         "romaji": "takekanmuri"
       },
       "meaning": {
-        "english": "bamboo"
+        "english": "bamboo |(vi) Trúc (tre)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takekanmuri0.svg",
@@ -366,7 +366,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "934",
     "strokeCount": 13,
-    "meaning": "node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody",
+    "meaning": "node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody |(vi) đốt, mùa, kỳ, dịp, câu thơ, mệnh đề, khổ thơ, tiết tháo, khớp, đốt ngón tay, mấu, nút, giai điệu, khúc nhạc |(hv) Tiết",
     "kunyomi": [
       "ふし",
       "-ぶし",
@@ -380,59 +380,59 @@
       {
         "example": "節",
         "reading": "セツ",
-        "meaning": "occasion, time, section (of a literary work or piece of music), passage, paragraph, verse, stanza, clause, season, term, one's principles, integrity, node (of a plant stem), (taxonomical) section, knot (nautical mile per hour)"
+        "meaning": "occasion, time, section (of a literary work or piece of music), passage, paragraph, verse, stanza, clause, season, term, one's principles, integrity, node (of a plant stem), (taxonomical) section, knot (nautical mile per hour) |(vi) dịp, thời điểm, đoạn (văn học hoặc bản nhạc), đoạn văn, khổ thơ, câu, mệnh đề, mùa, kỳ hạn, tiết tháo của bản thân, đốt (thân cây), mục (phân loại), knot (hải lý/giờ)"
       },
       {
         "example": "節減",
         "reading": "セツゲン",
-        "meaning": "retrenchment, curtailment, economy"
+        "meaning": "retrenchment, curtailment, economy |(vi) sự cắt giảm, tiết giảm, tiết kiệm"
       },
       {
         "example": "結節",
         "reading": "ケッセツ",
-        "meaning": "knot, nodule, tubercule, node"
+        "meaning": "knot, nodule, tubercule, node |(vi) nốt sần, u nhỏ, khối u, đốt"
       },
       {
         "example": "国慶節",
         "reading": "コッケイセツ",
-        "meaning": "anniversary of founding (of PRC), national celebration time"
+        "meaning": "anniversary of founding (of PRC), national celebration time |(vi) ngày quốc khánh (Trung Quốc), dịp lễ mừng quốc gia"
       },
       {
         "example": "節",
         "reading": "セチ",
-        "meaning": "season, time of the year, seasonal festival, seasonal banquet, seasonal feast"
+        "meaning": "season, time of the year, seasonal festival, seasonal banquet, seasonal feast |(vi) mùa, thời điểm trong năm, lễ hội theo mùa, tiệc theo mùa"
       },
       {
         "example": "節分",
         "reading": "セツブン",
-        "meaning": "setsubun, last day of winter in the traditional Japanese calendar (usu. February 3 or 4), day of the bean scattering ceremony, last day of any season (according to the traditional Japanese calendar)"
+        "meaning": "setsubun, last day of winter in the traditional Japanese calendar (usu. February 3 or 4), day of the bean scattering ceremony, last day of any season (according to the traditional Japanese calendar) |(vi) setsubun, ngày cuối đông theo lịch truyền thống Nhật (thường 3 hoặc 4 tháng 2), ngày lễ rắc đậu, ngày cuối mỗi mùa theo lịch truyền thống Nhật"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "節",
         "reading": "ふし",
-        "meaning": "joint, knuckle, tune, melody, node (of a plant stem), joint, knot (in wood), knob, (notable) point, part, node"
+        "meaning": "joint, knuckle, tune, melody, node (of a plant stem), joint, knot (in wood), knob, (notable) point, part, node |(vi) khớp, đốt ngón tay, giai điệu, khúc nhạc, đốt (thân cây), mắt gỗ, mấu, điểm (đáng chú ý), phần, nút"
       },
       {
         "example": "節目",
         "reading": "ふしめ",
-        "meaning": "turning point, critical juncture, knot (in a tree, etc.)"
+        "meaning": "turning point, critical juncture, knot (in a tree, etc.) |(vi) bước ngoặt, thời điểm then chốt, mắt gỗ (trên cây)"
       },
       {
         "example": "一節",
         "reading": "ひとふし",
-        "meaning": "one joint, one section, one tune, one piece, one measure, one piece (of dried bonito)"
+        "meaning": "one joint, one section, one tune, one piece, one measure, one piece (of dried bonito) |(vi) một khớp, một đoạn, một khúc nhạc, một mảnh, một miếng (cá bào khô)"
       },
       {
         "example": "七節",
         "reading": "ななふし",
-        "meaning": "walking stick (any insect of order Phasmatodea), walkingstick, stick insect, leaf insect"
+        "meaning": "walking stick (any insect of order Phasmatodea), walkingstick, stick insect, leaf insect |(vi) bọ que (côn trùng thuộc bộ Phasmatodea), côn trùng que, côn trùng lá"
       },
       {
         "example": "節",
         "reading": "ノット",
-        "meaning": "knot (nautical mile per hour)"
+        "meaning": "knot (nautical mile per hour) |(vi) knot (hải lý trên giờ)"
       }
     ],
     "radical": {
@@ -440,7 +440,7 @@
       "forms": [
         "⺮"
       ],
-      "meaning": "bamboo"
+      "meaning": "bamboo |(vi) Trúc (tre)"
     },
     "parts": [
       "乞",

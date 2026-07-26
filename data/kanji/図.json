@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "haka, hakaru",
-    "meaning": "drawing",
+    "meaning": "drawing |(vi) bản vẽ",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "地図（ちず）",
         "meaning": {
-          "english": "map"
+          "english": "map |(vi) bản đồ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zu-haka(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "図面（ずめん）",
         "meaning": {
-          "english": "plan"
+          "english": "plan |(vi) bản vẽ, sơ đồ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zu-haka(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "設計図（せっけいず）",
         "meaning": {
-          "english": "blueprint"
+          "english": "blueprint |(vi) bản thiết kế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zu-haka(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "意図する（いとする）",
         "meaning": {
-          "english": "intend"
+          "english": "intend |(vi) có ý định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zu-haka(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "図書室（としょしつ）",
         "meaning": {
-          "english": "library room"
+          "english": "library room |(vi) phòng đọc sách, thư viện nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zu-haka(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "図書館（としょかん）",
         "meaning": {
-          "english": "library"
+          "english": "library |(vi) thư viện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zu-haka(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "図る（はかる）",
         "meaning": {
-          "english": "plot, attempt"
+          "english": "plot, attempt |(vi) mưu tính, mưu toan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zu-haka(ru)_06_g.opus",
@@ -248,7 +248,7 @@
     "kanji": {
       "character": "図",
       "meaning": {
-        "english": "drawing"
+        "english": "drawing |(vi) bản vẽ"
       },
       "strokes": {
         "count": 7,
@@ -300,7 +300,7 @@
         "romaji": "kunigamae"
       },
       "meaning": {
-        "english": "border, territorial boundaries"
+        "english": "border, territorial boundaries |(vi) Vi (ranh giới, khung bao quanh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kunigamae0.svg",
@@ -321,7 +321,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "539",
     "strokeCount": 7,
-    "meaning": "map, drawing, plan, extraordinary, audacious",
+    "meaning": "map, drawing, plan, extraordinary, audacious |(vi) bản đồ, bản vẽ, kế hoạch, khác thường, táo bạo |(hv) Đồ",
     "kunyomi": [
       "え",
       "はか.る"
@@ -334,54 +334,54 @@
       {
         "example": "図",
         "reading": "ズ",
-        "meaning": "drawing, picture, diagram, figure, illustration, chart, graph, map, sight, scene"
+        "meaning": "drawing, picture, diagram, figure, illustration, chart, graph, map, sight, scene |(vi) bản vẽ, hình vẽ, sơ đồ, hình, minh họa, biểu đồ, đồ thị, bản đồ, cảnh tượng"
       },
       {
         "example": "図鑑",
         "reading": "ズカン",
-        "meaning": "pictorial book, picture book, illustrated reference book, identification manual, field guide"
+        "meaning": "pictorial book, picture book, illustrated reference book, identification manual, field guide |(vi) sách tranh ảnh, sách minh họa tham khảo, sổ tay nhận dạng, cẩm nang thực địa"
       },
       {
         "example": "一途",
         "reading": "イチズ",
-        "meaning": "single-minded, intent, determined, wholehearted, earnest, devoted (to)"
+        "meaning": "single-minded, intent, determined, wholehearted, earnest, devoted (to) |(vi) một lòng một dạ, quyết tâm, chuyên tâm, tận tụy"
       },
       {
         "example": "構図",
         "reading": "コウズ",
-        "meaning": "composition (of painting), structural outline, compositional arrangement"
+        "meaning": "composition (of painting), structural outline, compositional arrangement |(vi) bố cục (tranh vẽ), khung kết cấu, cách sắp xếp bố cục"
       },
       {
         "example": "図書館",
         "reading": "トショカン",
-        "meaning": "library"
+        "meaning": "library |(vi) thư viện"
       },
       {
         "example": "図書",
         "reading": "トショ",
-        "meaning": "books"
+        "meaning": "books |(vi) sách vở"
       },
       {
         "example": "異図",
         "reading": "イト",
-        "meaning": "treasonable intent"
+        "meaning": "treasonable intent |(vi) ý đồ phản nghịch"
       },
       {
         "example": "隠された意図",
         "reading": "カクサレタイト",
-        "meaning": "hidden agenda"
+        "meaning": "hidden agenda |(vi) ý đồ giấu kín"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "図る",
         "reading": "はかる",
-        "meaning": "to plan, to attempt, to devise, to plot, to conspire, to scheme, to aim for, to strive for, to work towards, to seek, to deceive, to trick, to take in"
+        "meaning": "to plan, to attempt, to devise, to plot, to conspire, to scheme, to aim for, to strive for, to work towards, to seek, to deceive, to trick, to take in |(vi) lập kế hoạch, mưu tính, âm mưu, toan tính, nhắm tới, phấn đấu, tìm cách, lừa gạt, lừa dối"
       }
     ],
     "radical": {
       "symbol": "囗",
-      "meaning": "enclosure"
+      "meaning": "enclosure |(vi) Vi (vây quanh, khung bao)"
     },
     "parts": [
       "囗",

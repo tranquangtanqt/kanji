@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ara, atara, atarashii, arata, nii",
-    "meaning": "new",
+    "meaning": "new |(vi) mới",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "新聞（しんぶん）",
         "meaning": {
-          "english": "newspaper"
+          "english": "newspaper |(vi) báo, tờ báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atara(shii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "新年（しんねん）",
         "meaning": {
-          "english": "New Year"
+          "english": "New Year |(vi) năm mới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atara(shii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "新製品（しんせいひん）",
         "meaning": {
-          "english": "new product"
+          "english": "new product |(vi) sản phẩm mới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atara(shii)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "新幹線（しんかんせん）",
         "meaning": {
-          "english": "Shinkansen"
+          "english": "Shinkansen |(vi) tàu Shinkansen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atara(shii)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "最新式（さいしんしき）",
         "meaning": {
-          "english": "latest style"
+          "english": "latest style |(vi) kiểu mới nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atara(shii)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "新鮮な（しんせんな）",
         "meaning": {
-          "english": "fresh"
+          "english": "fresh |(vi) tươi mới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atara(shii)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "革新的な（かくしんてきな）",
         "meaning": {
-          "english": "liberal"
+          "english": "liberal |(vi) cấp tiến, cải cách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atara(shii)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "更新する（こうしんする）",
         "meaning": {
-          "english": "update, renew"
+          "english": "update, renew |(vi) cập nhật, làm mới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atara(shii)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "新しい（あたらしい）",
         "meaning": {
-          "english": "new"
+          "english": "new |(vi) mới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atara(shii)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "新たな（あらたな）",
         "meaning": {
-          "english": "new"
+          "english": "new |(vi) mới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atara(shii)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "新妻（にいづま）",
         "meaning": {
-          "english": "newly-wed wife"
+          "english": "newly-wed wife |(vi) vợ mới cưới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atara(shii)_06_k.opus",
@@ -294,7 +294,7 @@
     "kanji": {
       "character": "新",
       "meaning": {
-        "english": "new"
+        "english": "new |(vi) mới"
       },
       "strokes": {
         "count": 13,
@@ -357,7 +357,7 @@
         "romaji": "onozukuri"
       },
       "meaning": {
-        "english": "axe"
+        "english": "axe |(vi) Cân (cái rìu)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/onozukuri0.svg",
@@ -378,7 +378,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "51",
     "strokeCount": 13,
-    "meaning": "new",
+    "meaning": "new |(vi) mới |(hv) Tân",
     "kunyomi": [
       "あたら.しい",
       "あら.た",
@@ -392,49 +392,49 @@
       {
         "example": "新",
         "reading": "シン",
-        "meaning": "new, neo-, newness, novelty, Gregorian calendar, Xin dynasty (of China; 9-23 CE), Hsin dynasty"
+        "meaning": "new, neo-, newness, novelty, Gregorian calendar, Xin dynasty (of China; 9-23 CE), Hsin dynasty |(vi) mới, tân-, sự mới mẻ, sự tân kỳ, lịch Gregory, nhà Tân (Trung Quốc; 9-23 CN)"
       },
       {
         "example": "新鋭",
         "reading": "シンエイ",
-        "meaning": "young and energetic, up-and-coming, new and excellent, newly produced, up-and-comer"
+        "meaning": "young and energetic, up-and-coming, new and excellent, newly produced, up-and-comer |(vi) trẻ trung và năng động, đang lên, mới mẻ và xuất sắc, mới ra đời, người mới nổi"
       },
       {
         "example": "維新",
         "reading": "イシン",
-        "meaning": "reformation, revolution, renewal, Meiji Restoration, Nippon Ishin no Kai, Japan Innovation Party"
+        "meaning": "reformation, revolution, renewal, Meiji Restoration, Nippon Ishin no Kai, Japan Innovation Party |(vi) cải cách, cách mạng, đổi mới, Minh Trị Duy Tân, đảng Duy Tân Nhật Bản"
       },
       {
         "example": "改新",
         "reading": "カイシン",
-        "meaning": "reformation"
+        "meaning": "reformation |(vi) cải cách, cải tân"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "新しい",
         "reading": "あたらしい",
-        "meaning": "new, novel, fresh, recent, latest, up-to-date, modern"
+        "meaning": "new, novel, fresh, recent, latest, up-to-date, modern |(vi) mới, tân tiến, tươi mới, gần đây, mới nhất, cập nhật, hiện đại"
       },
       {
         "example": "新しい女",
         "reading": "あたらしいおんな",
-        "meaning": "liberated woman"
+        "meaning": "liberated woman |(vi) phụ nữ giải phóng, phụ nữ tân tiến"
       },
       {
         "example": "新た",
         "reading": "あらた",
-        "meaning": "new, fresh, novel"
+        "meaning": "new, fresh, novel |(vi) mới, tươi mới, mới mẻ"
       },
       {
         "example": "新田",
         "reading": "しんでん",
-        "meaning": "new rice field, newly developed rice field, wasteland or marshland newly reclaimed as a rice field (Edo period)"
+        "meaning": "new rice field, newly developed rice field, wasteland or marshland newly reclaimed as a rice field (Edo period) |(vi) ruộng lúa mới, ruộng lúa mới khai khẩn, đất hoang hoặc đầm lầy mới cải tạo thành ruộng lúa (thời Edo)"
       }
     ],
     "radical": {
       "symbol": "斤",
-      "meaning": "axe"
+      "meaning": "axe |(vi) Cân (cái rìu)"
     },
     "parts": [
       "亠",
