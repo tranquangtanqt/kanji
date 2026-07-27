@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "sunawa, sunawachi",
-    "meaning": "immediate, namely, conform",
+    "meaning": "immediate, namely, conform |(vi) ngay lập tức, tức là, phù hợp",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "即刻（そっこく）",
         "meaning": {
-          "english": "instantly"
+          "english": "instantly |(vi) ngay lập tức, tức khắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(bai)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "即興（そっきょう）",
         "meaning": {
-          "english": "improvised, impromptu"
+          "english": "improvised, impromptu |(vi) ứng biến, ngẫu hứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(bai)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "即効性（そっこうせい）",
         "meaning": {
-          "english": "immediate effect"
+          "english": "immediate effect |(vi) hiệu quả tức thì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(bai)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "即座に（そくざに）",
         "meaning": {
-          "english": "right away"
+          "english": "right away |(vi) ngay lập tức, tại chỗ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(bai)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "即死する（そくしする）",
         "meaning": {
-          "english": "die instantly"
+          "english": "die instantly |(vi) chết ngay lập tức, tử vong tại chỗ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(bai)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "即答する（そくとうする）",
         "meaning": {
-          "english": "reply immediately"
+          "english": "reply immediately |(vi) trả lời ngay lập tức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(bai)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "即する（そくする）",
         "meaning": {
-          "english": "conform to"
+          "english": "conform to |(vi) phù hợp với, tuân theo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(bai)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "即ち（すなわち）",
         "meaning": {
-          "english": "namely"
+          "english": "namely |(vi) tức là"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(bai)_06_h.opus",
@@ -193,7 +193,7 @@
     "kanji": {
       "character": "即",
       "meaning": {
-        "english": "immediate, namely, conform"
+        "english": "immediate, namely, conform |(vi) ngay lập tức, tức là, phù hợp"
       },
       "strokes": {
         "count": 7,
@@ -245,7 +245,7 @@
         "romaji": "fushizukuri"
       },
       "meaning": {
-        "english": "stamp, seal"
+        "english": "stamp, seal |(vi) Tiết (quỳ gối, ấn tín)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/fushizukuri0.svg",
@@ -266,7 +266,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1167",
     "strokeCount": 7,
-    "meaning": "instant, namely, as is, conform, agree, adapt",
+    "meaning": "instant, namely, as is, conform, agree, adapt |(vi) tức thì, tức là, giữ nguyên như vậy, phù hợp, đồng ý, thích ứng |(hv) Tức",
     "kunyomi": [
       "つ.く",
       "つ.ける",
@@ -279,44 +279,44 @@
       {
         "example": "即",
         "reading": "ソク",
-        "meaning": "instantly, immediately, at once, equals, means, is, oneness (of two opposing things), inseparability"
+        "meaning": "instantly, immediately, at once, equals, means, is, oneness (of two opposing things), inseparability |(vi) ngay lập tức, tức thì, ngay tức khắc, bằng, có nghĩa là, chính là, sự hợp nhất (của hai điều đối lập), tính không thể tách rời"
       },
       {
         "example": "即位",
         "reading": "ソクイ",
-        "meaning": "accession to the throne, enthronement"
+        "meaning": "accession to the throne, enthronement |(vi) lên ngôi, đăng quang"
       },
       {
         "example": "相即",
         "reading": "ソウソク",
-        "meaning": "coming together and dissolving into oneness, being closely related, being inseparable"
+        "meaning": "coming together and dissolving into oneness, being closely related, being inseparable |(vi) hòa quyện làm một, gắn bó mật thiết, không thể tách rời"
       },
       {
         "example": "即即",
         "reading": "ソクソク",
-        "meaning": "immediate sex (without taking a shower first)"
+        "meaning": "immediate sex (without taking a shower first) |(vi) quan hệ tình dục ngay lập tức (không tắm rửa trước)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "就く",
         "reading": "つく",
-        "meaning": "to take (seat, position, course, office, etc.), to assume, to be hired, to be employed, to ascend (the throne), to accede, to start (on a journey), to commence, to depart, to study (under teacher), to be an apprentice"
+        "meaning": "to take (seat, position, course, office, etc.), to assume, to be hired, to be employed, to ascend (the throne), to accede, to start (on a journey), to commence, to depart, to study (under teacher), to be an apprentice |(vi) nhận (chỗ ngồi, vị trí, khóa học, chức vụ...), đảm nhận, được tuyển dụng, lên ngôi, kế vị, bắt đầu (chuyến đi), khởi hành, theo học (dưới một người thầy), làm học trò"
       },
       {
         "example": "就ける",
         "reading": "つける",
-        "meaning": "to install (a king, emperor, etc.), to appoint (to a post), to promote, to assign (to study under)"
+        "meaning": "to install (a king, emperor, etc.), to appoint (to a post), to promote, to assign (to study under) |(vi) phong (vua, hoàng đế...), bổ nhiệm (vào một chức vụ), thăng chức, cho theo học (dưới ai đó)"
       },
       {
         "example": "即ち",
         "reading": "すなわち",
-        "meaning": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then"
+        "meaning": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then |(vi) tức là, nghĩa là, tức, chính xác là, chỉ là, không hơn không kém, (và) rồi"
       }
     ],
     "radical": {
       "symbol": "卩",
-      "meaning": "kneel"
+      "meaning": "kneel |(vi) Tiết (quỳ gối)"
     },
     "parts": [
       "卩",

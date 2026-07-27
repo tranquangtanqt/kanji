@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 3,
     "kunyomi": "n/a",
-    "meaning": "ordinal number prefix, degree",
+    "meaning": "ordinal number prefix, degree |(vi) tiền tố số thứ tự, mức độ",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "第一（だいいち）",
         "meaning": {
-          "english": "first"
+          "english": "first |(vi) thứ nhất, đầu tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai(ichi)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "第六感（だいろっかん）",
         "meaning": {
-          "english": "sixth sense"
+          "english": "sixth sense |(vi) giác quan thứ sáu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai(ichi)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "第三者（だいさんしゃ）",
         "meaning": {
-          "english": "third person"
+          "english": "third person |(vi) người thứ ba"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai(ichi)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "次第に（しだいに）",
         "meaning": {
-          "english": "gradually"
+          "english": "gradually |(vi) dần dần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai(ichi)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "落第する（らくだいする）",
         "meaning": {
-          "english": "fail, flunk"
+          "english": "fail, flunk |(vi) trượt, rớt (kỳ thi)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai(ichi)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "及第点（きゅうだいてん）",
         "meaning": {
-          "english": "the cutoff point (for exams)"
+          "english": "the cutoff point (for exams) |(vi) điểm đậu (kỳ thi)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai(ichi)_06_f.opus",
@@ -231,7 +231,7 @@
     "kanji": {
       "character": "第",
       "meaning": {
-        "english": "ordinal number prefix, degree"
+        "english": "ordinal number prefix, degree |(vi) tiền tố số thứ tự, mức độ"
       },
       "strokes": {
         "count": 11,
@@ -291,7 +291,7 @@
         "romaji": "takekanmuri"
       },
       "meaning": {
-        "english": "bamboo"
+        "english": "bamboo |(vi) tre, trúc"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takekanmuri0.svg",
@@ -312,7 +312,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "160",
     "strokeCount": 11,
-    "meaning": "No., residence",
+    "meaning": "No., residence |(vi) số thứ tự, dinh thự |(hv) Đệ",
     "kunyomi": [],
     "onyomi": [
       "ダイ",
@@ -322,27 +322,27 @@
       {
         "example": "第",
         "reading": "ダイ",
-        "meaning": "prefix for forming ordinal numbers"
+        "meaning": "prefix for forming ordinal numbers |(vi) tiền tố tạo số thứ tự"
       },
       {
         "example": "第一義",
         "reading": "ダイイチギ",
-        "meaning": "primary significance, primary importance, first principle, absolute truth, ultimate truth"
+        "meaning": "primary significance, primary importance, first principle, absolute truth, ultimate truth |(vi) ý nghĩa hàng đầu, tầm quan trọng số một, nguyên lý đầu tiên, chân lý tuyệt đối, chân lý tối thượng"
       },
       {
         "example": "式次第",
         "reading": "シキシダイ",
-        "meaning": "program of a ceremony (programme)"
+        "meaning": "program of a ceremony (programme) |(vi) chương trình buổi lễ"
       },
       {
         "example": "登第",
         "reading": "トウダイ",
-        "meaning": "passing the examination"
+        "meaning": "passing the examination |(vi) đỗ đạt, thi đậu"
       },
       {
         "example": "邸宅",
         "reading": "テイタク",
-        "meaning": "(large) house, residence, mansion"
+        "meaning": "(large) house, residence, mansion |(vi) dinh thự, biệt thự lớn"
       }
     ],
     "kunyomiExamples": [],
@@ -351,7 +351,7 @@
       "forms": [
         "⺮"
       ],
-      "meaning": "bamboo"
+      "meaning": "bamboo |(vi) Trúc (tre)"
     },
     "parts": [
       "乞",

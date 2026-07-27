@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "stand, counter for machinery",
+    "meaning": "stand, counter for machinery |(vi) cái bệ, lượng từ đếm máy móc",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "台（だい）",
         "meaning": {
-          "english": "stand, rack"
+          "english": "stand, rack |(vi) cái bệ, giá đỡ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai(za)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "台座（だいざ）",
         "meaning": {
-          "english": "pedestal"
+          "english": "pedestal |(vi) bệ đỡ, đế tượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai(za)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "台所（だいどころ）",
         "meaning": {
-          "english": "kitchen"
+          "english": "kitchen |(vi) nhà bếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai(za)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "台地（だいち）",
         "meaning": {
-          "english": "plateau"
+          "english": "plateau |(vi) cao nguyên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai(za)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "一台（いちだい）",
         "meaning": {
-          "english": "one (machine)"
+          "english": "one (machine) |(vi) một (chiếc máy)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai(za)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "気象台（きしょうだい）",
         "meaning": {
-          "english": "meteorological observatory"
+          "english": "meteorological observatory |(vi) đài khí tượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai(za)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "台湾（たいわん）",
         "meaning": {
-          "english": "Taiwan"
+          "english": "Taiwan |(vi) Đài Loan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai(za)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "台風（たいふう）",
         "meaning": {
-          "english": "typhoon"
+          "english": "typhoon |(vi) bão, cuồng phong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai(za)_06_h.opus",
@@ -246,7 +246,7 @@
     "kanji": {
       "character": "台",
       "meaning": {
-        "english": "stand, counter for machinery"
+        "english": "stand, counter for machinery |(vi) cái bệ, lượng từ đếm máy móc"
       },
       "strokes": {
         "count": 5,
@@ -294,7 +294,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng, lỗ mở)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -315,7 +315,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "262",
     "strokeCount": 5,
-    "meaning": "pedestal, a stand, counter for machines and vehicles",
+    "meaning": "pedestal, a stand, counter for machines and vehicles |(vi) bệ đỡ, giá đỡ, lượng từ đếm máy móc và xe cộ |(hv) Đài",
     "kunyomi": [
       "うてな",
       "われ",
@@ -329,59 +329,59 @@
       {
         "example": "台",
         "reading": "ダイ",
-        "meaning": "stand, rest, base, pedestal, platform, table, holder, support, rack, setting (of a gem), mounting, stock (in grafting), counter for machines and vehicles, level (e.g. price level), mark, range, decade (of one's life), tall building (with a fine view), (observation) platform, plateau, heights"
+        "meaning": "stand, rest, base, pedestal, platform, table, holder, support, rack, setting (of a gem), mounting, stock (in grafting), counter for machines and vehicles, level (e.g. price level), mark, range, decade (of one's life), tall building (with a fine view), (observation) platform, plateau, heights |(vi) giá đỡ, chỗ nghỉ, nền, bệ đỡ, bệ, bàn, giá, chân đế, giá đặt đá quý, khung gắn, gốc ghép, lượng từ đếm máy móc và xe cộ, mức (giá), ngưỡng, khoảng, thập niên của đời người, tòa nhà cao có tầm nhìn đẹp, đài quan sát, cao nguyên, vùng cao"
       },
       {
         "example": "台車",
         "reading": "ダイシャ",
-        "meaning": "platform truck, hand truck, trolley, dolly, cart, truck, bogie"
+        "meaning": "platform truck, hand truck, trolley, dolly, cart, truck, bogie |(vi) xe đẩy có bệ, xe kéo tay, xe đẩy hàng, xe kéo"
       },
       {
         "example": "管区気象台",
         "reading": "カンクキショウダイ",
-        "meaning": "district meteorological observatory"
+        "meaning": "district meteorological observatory |(vi) đài khí tượng khu vực"
       },
       {
         "example": "気象台",
         "reading": "キショウダイ",
-        "meaning": "meteorological observatory"
+        "meaning": "meteorological observatory |(vi) đài khí tượng"
       },
       {
         "example": "台",
         "reading": "タイ",
-        "meaning": "Taiwan"
+        "meaning": "Taiwan |(vi) Đài Loan"
       },
       {
         "example": "台頭",
         "reading": "タイトウ",
-        "meaning": "rise (e.g. of a movement), emergence, rearing one's head, gaining prominence, coming to the fore, gaining power, gathering strength"
+        "meaning": "rise (e.g. of a movement), emergence, rearing one's head, gaining prominence, coming to the fore, gaining power, gathering strength |(vi) sự trỗi dậy (ví dụ của một phong trào), sự xuất hiện, sự ngóc đầu dậy, sự nổi bật, sự vươn lên, sự nắm quyền, sự tích lũy sức mạnh"
       },
       {
         "example": "屋台",
         "reading": "ヤタイ",
-        "meaning": "cart (esp. a food cart), stall, stand, festival float, portable shrine dedicated to a god and shaped like a house, dancing platform, stage prop fashioned after a large building, framework (of a building), foundation, house (esp. a small and miserable one)"
+        "meaning": "cart (esp. a food cart), stall, stand, festival float, portable shrine dedicated to a god and shaped like a house, dancing platform, stage prop fashioned after a large building, framework (of a building), foundation, house (esp. a small and miserable one) |(vi) xe hàng rong (đặc biệt xe bán đồ ăn), quầy hàng, gian hàng, kiệu rước hội, kiệu thần hình nhà, sân khấu nhảy múa, đạo cụ sân khấu mô phỏng tòa nhà lớn, khung của tòa nhà, nền móng, căn nhà nhỏ và tồi tàn"
       },
       {
         "example": "最後の舞台",
         "reading": "サイゴノブタイ",
-        "meaning": "final performance, swan song, last act"
+        "meaning": "final performance, swan song, last act |(vi) buổi biểu diễn cuối cùng, màn trình diễn giã từ, màn cuối"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "台",
         "reading": "うてな",
-        "meaning": "tower, stand, pedestal, calyx"
+        "meaning": "tower, stand, pedestal, calyx |(vi) tháp, bệ, bệ đỡ, đài hoa"
       },
       {
         "example": "弾正台",
         "reading": "だんじょうだい",
-        "meaning": "Imperial Prosecuting and Investigating Office (1869-1871), Imperial Prosecuting and Investigating Office (under the ritsuryō system)"
+        "meaning": "Imperial Prosecuting and Investigating Office (1869-1871), Imperial Prosecuting and Investigating Office (under the ritsuryō system) |(vi) Viện Đàn Chính (cơ quan giám sát và điều tra hoàng gia, 1869-1871, theo hệ thống luật lệnh ritsuryō)"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "厶",

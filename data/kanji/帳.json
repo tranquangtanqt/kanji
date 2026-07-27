@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "notebook",
+    "meaning": "notebook |(vi) sổ tay",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "帳簿（ちょうぼ）",
         "meaning": {
-          "english": "account book, register"
+          "english": "account book, register |(vi) sổ sách, sổ đăng ký"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nikki)chou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "帳尻（ちょうじり）",
         "meaning": {
-          "english": "balance of accounts"
+          "english": "balance of accounts |(vi) số dư tài khoản, kết toán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nikki)chou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "帳消し（ちょうけし）",
         "meaning": {
-          "english": "offset, writing off"
+          "english": "offset, writing off |(vi) xóa nợ, hủy bỏ, cấn trừ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nikki)chou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "手帳（てちょう）",
         "meaning": {
-          "english": "notebook"
+          "english": "notebook |(vi) sổ tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nikki)chou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "通帳（つうちょう）",
         "meaning": {
-          "english": "passbook"
+          "english": "passbook |(vi) sổ ngân hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nikki)chou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "電話帳（でんわちょう）",
         "meaning": {
-          "english": "telephone book"
+          "english": "telephone book |(vi) danh bạ điện thoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nikki)chou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "日記帳（にっきちょう）",
         "meaning": {
-          "english": "diary"
+          "english": "diary |(vi) sổ nhật ký"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nikki)chou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "几帳面な（きちょうめんな）",
         "meaning": {
-          "english": "methodical, precise, steady"
+          "english": "methodical, precise, steady |(vi) tỉ mỉ, ngăn nắp, cẩn thận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nikki)chou_06_h.opus",
@@ -191,7 +191,7 @@
     "kanji": {
       "character": "帳",
       "meaning": {
-        "english": "notebook"
+        "english": "notebook |(vi) sổ tay"
       },
       "strokes": {
         "count": 11,
@@ -251,7 +251,7 @@
         "romaji": "habahen"
       },
       "meaning": {
-        "english": "cloth"
+        "english": "cloth |(vi) Cân (vải, khăn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/habahen0.svg",
@@ -272,7 +272,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1459",
     "strokeCount": 11,
-    "meaning": "notebook, account book, album, curtain, veil, net, tent",
+    "meaning": "notebook, account book, album, curtain, veil, net, tent |(vi) sổ tay, sổ sách, tập album, rèm, màn, lưới, lều |(hv) Trướng",
     "kunyomi": [
       "とばり"
     ],
@@ -283,39 +283,39 @@
       {
         "example": "帳",
         "reading": "チョウ",
-        "meaning": "book, register"
+        "meaning": "book, register |(vi) sổ, sổ đăng ký"
       },
       {
         "example": "帳消し",
         "reading": "チョウケシ",
-        "meaning": "writing off (a debt), cancellation, balancing the books, cancelling out (gains or losses), making even, making up (for), offsetting, undoing, wiping out"
+        "meaning": "writing off (a debt), cancellation, balancing the books, cancelling out (gains or losses), making even, making up (for), offsetting, undoing, wiping out |(vi) xóa nợ, hủy bỏ, cân đối sổ sách, bù trừ (lãi lỗ), làm cho ngang bằng, bù đắp, cấn trừ, xóa sạch"
       },
       {
         "example": "記帳",
         "reading": "キチョウ",
-        "meaning": "registry, entry, book-keeping, signature"
+        "meaning": "registry, entry, book-keeping, signature |(vi) ghi sổ, vào sổ, kế toán sổ sách, ký tên"
       },
       {
         "example": "台帳",
         "reading": "ダイチョウ",
-        "meaning": "account book, ledger, register"
+        "meaning": "account book, ledger, register |(vi) sổ cái, sổ kế toán, sổ đăng ký"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "帳",
         "reading": "とばり",
-        "meaning": "curtain, hanging, bunting"
+        "meaning": "curtain, hanging, bunting |(vi) màn, rèm, trướng"
       },
       {
         "example": "夜の帳",
         "reading": "よるのとばり",
-        "meaning": "veil of darkness, curtain of night"
+        "meaning": "veil of darkness, curtain of night |(vi) màn đêm, bức màn của bóng tối"
       }
     ],
     "radical": {
       "symbol": "巾",
-      "meaning": "turban, scarf"
+      "meaning": "turban, scarf |(vi) Cân (khăn, vải)"
     },
     "parts": [
       "巾",

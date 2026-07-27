@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "nu, nugu, nugeru",
-    "meaning": "remove, escape from, undress, drop out",
+    "meaning": "remove, escape from, undress, drop out |(vi) cởi bỏ, thoát khỏi, cởi (quần áo), rớt ra",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "脱衣所（だついじょ）",
         "meaning": {
-          "english": "dressing room"
+          "english": "dressing room |(vi) phòng thay đồ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(geru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "脱線する（だっせんする）",
         "meaning": {
-          "english": "digress, derail [v.i.]"
+          "english": "digress, derail [v.i.] |(vi) trật bánh, lạc đề"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(geru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "脱落する（だつらくする）",
         "meaning": {
-          "english": "be omitted, drop out [v.i.]"
+          "english": "be omitted, drop out [v.i.] |(vi) bị bỏ sót, rớt lại, tụt lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(geru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "脱税する（だつぜいする）",
         "meaning": {
-          "english": "evade taxes"
+          "english": "evade taxes |(vi) trốn thuế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(geru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "脱出する（だっしゅつする）",
         "meaning": {
-          "english": "escape [v.i.]"
+          "english": "escape [v.i.] |(vi) thoát ra, trốn thoát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(geru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "脱色する（だっしょくする）",
         "meaning": {
-          "english": "bleach, decolorize"
+          "english": "bleach, decolorize |(vi) tẩy màu, khử màu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(geru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "脱獄する（だつごくする）",
         "meaning": {
-          "english": "escape prison"
+          "english": "escape prison |(vi) vượt ngục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(geru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "脱帽する（だつぼうする）",
         "meaning": {
-          "english": "take one's hat off, bow to"
+          "english": "take one's hat off, bow to |(vi) ngả mũ, bái phục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(geru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "離脱する（りだつする）",
         "meaning": {
-          "english": "withdraw, break away"
+          "english": "withdraw, break away |(vi) rút lui, tách khỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(geru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "脱ぐ（ぬぐ）",
         "meaning": {
-          "english": "take off (clothes, shoes) [v.t.]"
+          "english": "take off (clothes, shoes) [v.t.] |(vi) cởi (quần áo, giày)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(geru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "脱げる（ぬげる）",
         "meaning": {
-          "english": "come off (clothes, shoes) [v.i.]"
+          "english": "come off (clothes, shoes) [v.i.] |(vi) tuột ra, rơi ra (quần áo, giày)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(geru)_06_k.opus",
@@ -238,7 +238,7 @@
     "kanji": {
       "character": "脱",
       "meaning": {
-        "english": "remove, escape from, undress, drop out"
+        "english": "remove, escape from, undress, drop out |(vi) cởi bỏ, thoát khỏi, cởi (quần áo), rớt ra"
       },
       "strokes": {
         "count": 11,
@@ -298,7 +298,7 @@
         "romaji": "nikuzuki"
       },
       "meaning": {
-        "english": "meat, flesh"
+        "english": "meat, flesh |(vi) Nhục (thịt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nikuzuki0.svg",
@@ -319,7 +319,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "782",
     "strokeCount": 11,
-    "meaning": "undress, removing, escape from, get rid of, be left out, take off",
+    "meaning": "undress, removing, escape from, get rid of, be left out, take off |(vi) cởi bỏ, loại bỏ, thoát khỏi, trừ khử, bị bỏ sót, cởi ra |(hv) Thoát",
     "kunyomi": [
       "ぬ.ぐ",
       "ぬ.げる"
@@ -331,34 +331,34 @@
       {
         "example": "脱",
         "reading": "ダツ",
-        "meaning": "de- (indicating reversal, removal, etc.), post-"
+        "meaning": "de- (indicating reversal, removal, etc.), post- |(vi) tiền tố chỉ sự loại bỏ, đảo ngược; hậu-"
       },
       {
         "example": "脱税",
         "reading": "ダツゼイ",
-        "meaning": "tax evasion"
+        "meaning": "tax evasion |(vi) trốn thuế"
       },
       {
         "example": "逸脱",
         "reading": "イツダツ",
-        "meaning": "deviation, departure, (accidental) omission"
+        "meaning": "deviation, departure, (accidental) omission |(vi) sự lệch lạc, đi chệch, sai lệch, bỏ sót ngoài ý muốn"
       },
       {
         "example": "解脱",
         "reading": "ゲダツ",
-        "meaning": "liberation from earthly desires and the woes of man, deliverance of one's soul, moksha, mukti, vimukti"
+        "meaning": "liberation from earthly desires and the woes of man, deliverance of one's soul, moksha, mukti, vimukti |(vi) giải thoát khỏi dục vọng trần gian, giải thoát linh hồn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "脱ぐ",
         "reading": "ぬぐ",
-        "meaning": "to take off (clothes, shoes, etc.), to undress"
+        "meaning": "to take off (clothes, shoes, etc.), to undress |(vi) cởi (quần áo, giày), cởi bỏ"
       },
       {
         "example": "脱げる",
         "reading": "ぬげる",
-        "meaning": "to come off, to slip down, to slip off"
+        "meaning": "to come off, to slip down, to slip off |(vi) tuột ra, rơi ra, trượt xuống"
       }
     ],
     "radical": {
@@ -366,7 +366,7 @@
       "forms": [
         "⺼"
       ],
-      "meaning": "meat"
+      "meaning": "meat |(vi) Nhục (thịt)"
     },
     "parts": [
       "儿",

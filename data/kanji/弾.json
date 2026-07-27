@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "hi, hiku, hiki, hazu, hazumu, tama",
-    "meaning": "bullet, spring back, bounce, play",
+    "meaning": "bullet, spring back, bounce, play |(vi) viên đạn, bật lại, nảy, chơi (đàn)",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "弾丸（だんがん）",
         "meaning": {
-          "english": "bullet, shot, shell"
+          "english": "bullet, shot, shell |(vi) viên đạn, đạn pháo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "弾薬（だんやく）",
         "meaning": {
-          "english": "ammunition"
+          "english": "ammunition |(vi) đạn dược"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "爆弾（ばくだん）",
         "meaning": {
-          "english": "bomb [n.]"
+          "english": "bomb [n.] |(vi) bom"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "銃弾（じゅうだん）",
         "meaning": {
-          "english": "bullet"
+          "english": "bullet |(vi) đạn súng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "連弾（れんだん）",
         "meaning": {
-          "english": "four handed performance (piano)"
+          "english": "four handed performance (piano) |(vi) hòa tấu piano bốn tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "弾力性（だんりょくせい）",
         "meaning": {
-          "english": "elasticity, resilience, flexibility"
+          "english": "elasticity, resilience, flexibility |(vi) độ đàn hồi, tính linh hoạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "弾圧する（だんあつする）",
         "meaning": {
-          "english": "oppress, suppress"
+          "english": "oppress, suppress |(vi) đàn áp, trấn áp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "弾く（ひく）",
         "meaning": {
-          "english": "snap"
+          "english": "snap |(vi) gảy (đàn), bật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "弾む（はずむ）",
         "meaning": {
-          "english": "spring, bounce, become lively"
+          "english": "spring, bounce, become lively |(vi) nảy, bật lên, trở nên sôi nổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "弾（たま）",
         "meaning": {
-          "english": "bullet, shot, shell"
+          "english": "bullet, shot, shell |(vi) viên đạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_j.opus",
@@ -241,7 +241,7 @@
     "kanji": {
       "character": "弾",
       "meaning": {
-        "english": "bullet, spring back, bounce, play"
+        "english": "bullet, spring back, bounce, play |(vi) viên đạn, bật lại, nảy, chơi (đàn)"
       },
       "strokes": {
         "count": 12,
@@ -303,7 +303,7 @@
         "romaji": "yumihen"
       },
       "meaning": {
-        "english": "bow（in archery）"
+        "english": "bow（in archery） |(vi) Cung (cây cung, trong bắn cung)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yumihen0.svg",
@@ -324,7 +324,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "853",
     "strokeCount": 12,
-    "meaning": "bullet, twang, flip, snap",
+    "meaning": "bullet, twang, flip, snap |(vi) viên đạn, gảy đàn, búng, bật |(hv) Đạn",
     "kunyomi": [
       "ひ.く",
       "-ひ.き",
@@ -343,74 +343,74 @@
       {
         "example": "弾",
         "reading": "ダン",
-        "meaning": "counter for parts, stages, installments, etc. (of a story, series, project, campaign, etc.), counter for bullets"
+        "meaning": "counter for parts, stages, installments, etc. (of a story, series, project, campaign, etc.), counter for bullets |(vi) lượng từ đếm phần, giai đoạn, kỳ (của một câu chuyện, loạt bài, dự án, chiến dịch v.v.), lượng từ đếm viên đạn"
       },
       {
         "example": "弾圧",
         "reading": "ダンアツ",
-        "meaning": "oppression, suppression, pressure"
+        "meaning": "oppression, suppression, pressure |(vi) sự đàn áp, trấn áp, áp bức"
       },
       {
         "example": "防弾",
         "reading": "ボウダン",
-        "meaning": "bulletproof, bombproof"
+        "meaning": "bulletproof, bombproof |(vi) chống đạn, chống bom"
       },
       {
         "example": "砲弾",
         "reading": "ホウダン",
-        "meaning": "shell, cannonball"
+        "meaning": "shell, cannonball |(vi) đạn pháo, đạn đại bác"
       },
       {
         "example": "弾棋",
         "reading": "ダンギ",
-        "meaning": "ancient Chinese board game similar to go"
+        "meaning": "ancient Chinese board game similar to go |(vi) một trò chơi cờ cổ của Trung Quốc tương tự cờ vây"
       },
       {
         "example": "弾指",
         "reading": "ダンシ",
-        "meaning": "snapping the fingers (esp. by striking the side of the middle finger with the thumb; to indicate consent, joy, a warning, etc.), moment, instant, criticism, shunning, rejection"
+        "meaning": "snapping the fingers (esp. by striking the side of the middle finger with the thumb; to indicate consent, joy, a warning, etc.), moment, instant, criticism, shunning, rejection |(vi) búng ngón tay (đặc biệt gõ ngón giữa bằng ngón cái để biểu thị đồng ý, vui mừng, cảnh báo v.v.), khoảnh khắc, sự chỉ trích, xa lánh, khước từ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "弾く",
         "reading": "ひく",
-        "meaning": "to play (a stringed or keyboard instrument)"
+        "meaning": "to play (a stringed or keyboard instrument) |(vi) chơi (đàn dây hoặc đàn phím)"
       },
       {
         "example": "弾む",
         "reading": "はずむ",
-        "meaning": "to spring, to bound, to bounce, to be stimulated, to be encouraged, to get lively, to pay handsomely, to splurge, to part eagerly with (money, etc.), to breathe hard, to pant, to be out of breath"
+        "meaning": "to spring, to bound, to bounce, to be stimulated, to be encouraged, to get lively, to pay handsomely, to splurge, to part eagerly with (money, etc.), to breathe hard, to pant, to be out of breath |(vi) nảy lên, bật lên, được kích thích, được khích lệ, trở nên sôi nổi, chi tiêu hào phóng, tiêu xài mạnh tay, sẵn lòng bỏ tiền, thở gấp, thở hổn hển, hụt hơi"
       },
       {
         "example": "玉",
         "reading": "たま",
-        "meaning": "ball, sphere, globe, orb, bead (of sweat, dew, etc.), drop, droplet, ball (in sports), pitch (e.g. in baseball), pile (of noodles, etc.), bullet, bulb (i.e. a light bulb), lens (of glasses, etc.), bead (of an abacus), ball (i.e. a testicle), gem, jewel (esp. spherical; sometimes used figuratively), pearl, female entertainer (e.g. a geisha), person (when commenting on their nature), character, item, funds or person used as part of a plot, egg, okonomiyaki, coin, precious, beautiful, excellent"
+        "meaning": "ball, sphere, globe, orb, bead (of sweat, dew, etc.), drop, droplet, ball (in sports), pitch (e.g. in baseball), pile (of noodles, etc.), bullet, bulb (i.e. a light bulb), lens (of glasses, etc.), bead (of an abacus), ball (i.e. a testicle), gem, jewel (esp. spherical; sometimes used figuratively), pearl, female entertainer (e.g. a geisha), person (when commenting on their nature), character, item, funds or person used as part of a plot, egg, okonomiyaki, coin, precious, beautiful, excellent |(vi) viên bi, hình cầu, quả cầu, hạt (mồ hôi, sương), giọt, quả bóng (thể thao), cú ném (bóng chày), tô (mì v.v.), viên đạn, bóng đèn, tròng kính, hạt (bàn tính), hòn dái, ngọc, đá quý (thường hình cầu, đôi khi dùng nghĩa bóng), ngọc trai, kỹ nữ/geisha, con người (khi nhận xét về tính cách), nhân vật, đồ vật, tiền hoặc người dùng trong âm mưu, trứng, bánh okonomiyaki, đồng xu, quý giá, xinh đẹp, xuất sắc"
       },
       {
         "example": "弾傷",
         "reading": "たまきず",
-        "meaning": "bullet wound, gunshot wound"
+        "meaning": "bullet wound, gunshot wound |(vi) vết thương do đạn bắn"
       },
       {
         "example": "弾く",
         "reading": "はじく",
-        "meaning": "to flip, to snap, to flick, to repel, to use (an abacus), to calculate, to strum, to pluck the strings (of a guitar, etc.)"
+        "meaning": "to flip, to snap, to flick, to repel, to use (an abacus), to calculate, to strum, to pluck the strings (of a guitar, etc.) |(vi) búng, bật, gảy, đẩy lùi/chống thấm, dùng bàn tính, tính toán, khảy đàn (guitar v.v.)"
       },
       {
         "example": "弾ける",
         "reading": "はじける",
-        "meaning": "to burst open, to split open, to pop, to be bursting with (e.g. youth, laughter, flavor), to bounce, to bound"
+        "meaning": "to burst open, to split open, to pop, to be bursting with (e.g. youth, laughter, flavor), to bounce, to bound |(vi) bung ra, nứt vỡ, nổ bốp, tràn đầy (tuổi trẻ, tiếng cười, hương vị), nảy lên, bật lên"
       },
       {
         "example": "弾正台",
         "reading": "だんじょうだい",
-        "meaning": "Imperial Prosecuting and Investigating Office (1869-1871), Imperial Prosecuting and Investigating Office (under the ritsuryō system)"
+        "meaning": "Imperial Prosecuting and Investigating Office (1869-1871), Imperial Prosecuting and Investigating Office (under the ritsuryō system) |(vi) Đàn Chính Đài (cơ quan giám sát và điều tra của triều đình, 1869-1871; dưới chế độ luật lệnh ritsuryō)"
       }
     ],
     "radical": {
       "symbol": "弓",
-      "meaning": "bow"
+      "meaning": "bow |(vi) Cung (cây cung)"
     },
     "parts": [
       "十",

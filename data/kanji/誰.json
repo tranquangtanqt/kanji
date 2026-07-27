@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "dare",
-    "meaning": "who, someone",
+    "meaning": "who, someone |(vi) ai, người nào đó",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "誰何（すいか）",
         "meaning": {
-          "english": "asking a person's identity"
+          "english": "asking a person's identity |(vi) hỏi danh tính, tra hỏi ai đó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dare_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "誰（だれ）",
         "meaning": {
-          "english": "who"
+          "english": "who |(vi) ai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dare_06_b.opus",
@@ -143,7 +143,7 @@
     "kanji": {
       "character": "誰",
       "meaning": {
-        "english": "who, someone"
+        "english": "who, someone |(vi) ai, người nào đó"
       },
       "strokes": {
         "count": 15,
@@ -211,7 +211,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -231,7 +231,7 @@
     "taughtIn": "junior high",
     "newspaperFrequencyRank": "1933",
     "strokeCount": 15,
-    "meaning": "who, someone, somebody",
+    "meaning": "who, someone, somebody |(vi) ai, người nào đó |(hv) Thùy",
     "kunyomi": [
       "だれ",
       "たれ",
@@ -244,49 +244,49 @@
       {
         "example": "誰何",
         "reading": "スイカ",
-        "meaning": "challenging (an unknown person), asking a person's identity"
+        "meaning": "challenging (an unknown person), asking a person's identity |(vi) hỏi danh tính, chất vấn người lạ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "誰",
         "reading": "だれ",
-        "meaning": "who"
+        "meaning": "who |(vi) ai"
       },
       {
         "example": "誰か",
         "reading": "だれか",
-        "meaning": "someone, somebody"
+        "meaning": "someone, somebody |(vi) ai đó, người nào đó"
       },
       {
         "example": "どこの誰",
         "reading": "どこのだれ",
-        "meaning": "who the heck, just who"
+        "meaning": "who the heck, just who |(vi) rốt cuộc là ai, ai đó ở đâu"
       },
       {
         "example": "誰々",
         "reading": "だれだれ",
-        "meaning": "so-and-so, who?, which people?"
+        "meaning": "so-and-so, who?, which people? |(vi) người này người kia, những ai"
       },
       {
         "example": "誰彼",
         "reading": "だれかれ",
-        "meaning": "this or that person, anybody, many people"
+        "meaning": "this or that person, anybody, many people |(vi) người này người nọ, bất kỳ ai, nhiều người"
       },
       {
         "example": "誰しも",
         "reading": "だれしも",
-        "meaning": "everyone, anyone, no one"
+        "meaning": "everyone, anyone, no one |(vi) ai cũng, mọi người, bất kỳ ai"
       },
       {
         "example": "誰が",
         "reading": "たが",
-        "meaning": "whose, who (is, does, etc.)"
+        "meaning": "whose, who (is, does, etc.) |(vi) của ai, ai (là, làm...)"
       },
       {
         "example": "誰が為に",
         "reading": "たがために",
-        "meaning": "for whom"
+        "meaning": "for whom |(vi) vì ai, cho ai"
       }
     ],
     "radical": {
@@ -294,7 +294,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "言",

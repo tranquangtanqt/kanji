@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 6,
     "kunyomi": "atata, atatakai, atatamaru, atatameru",
-    "meaning": "warm",
+    "meaning": "warm |(vi) ấm áp",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "暖流（だんりゅう）",
         "meaning": {
-          "english": "warm current"
+          "english": "warm current |(vi) hải lưu nóng, dòng nước ấm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dan-atata(maru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "暖冬（だんとう）",
         "meaning": {
-          "english": "mild winter"
+          "english": "mild winter |(vi) mùa đông ấm áp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dan-atata(maru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "暖房（だんぼう）",
         "meaning": {
-          "english": "heating system"
+          "english": "heating system |(vi) hệ thống sưởi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dan-atata(maru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "暖炉（だんろ）",
         "meaning": {
-          "english": "fireplace, hearth"
+          "english": "fireplace, hearth |(vi) lò sưởi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dan-atata(maru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "暖気（だんき）",
         "meaning": {
-          "english": "warmth"
+          "english": "warmth |(vi) hơi ấm, không khí ấm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dan-atata(maru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "寒暖計（かんだんけい）",
         "meaning": {
-          "english": "thermometer"
+          "english": "thermometer |(vi) nhiệt kế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dan-atata(maru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "温暖な（おんだんな）",
         "meaning": {
-          "english": "warm [adj.]"
+          "english": "warm [adj.] |(vi) ấm áp, ôn hòa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dan-atata(maru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "暖かい（あたたかい）",
         "meaning": {
-          "english": "warm [adj.]"
+          "english": "warm [adj.] |(vi) ấm áp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dan-atata(maru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "暖める（あたためる）",
         "meaning": {
-          "english": "warm, heat [v.t.]"
+          "english": "warm, heat [v.t.] |(vi) làm ấm, sưởi ấm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dan-atata(maru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "暖まる（あたたまる）",
         "meaning": {
-          "english": "get warm, warm oneself [v.i.]"
+          "english": "get warm, warm oneself [v.i.] |(vi) trở nên ấm, tự sưởi ấm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dan-atata(maru)_06_j.opus",
@@ -252,7 +252,7 @@
     "kanji": {
       "character": "暖",
       "meaning": {
-        "english": "warm"
+        "english": "warm |(vi) ấm áp"
       },
       "strokes": {
         "count": 13,
@@ -316,7 +316,7 @@
         "romaji": "hihen"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày, thời gian)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hihen0.svg",
@@ -337,7 +337,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1371",
     "strokeCount": 13,
-    "meaning": "warmth",
+    "meaning": "warmth |(vi) sự ấm áp |(hv) Noãn",
     "kunyomi": [
       "あたた.か",
       "あたた.かい",
@@ -352,69 +352,69 @@
       {
         "example": "暖",
         "reading": "ダン",
-        "meaning": "warming, warmth"
+        "meaning": "warming, warmth |(vi) sự làm ấm, hơi ấm"
       },
       {
         "example": "暖冬",
         "reading": "ダントウ",
-        "meaning": "mild winter, warm winter"
+        "meaning": "mild winter, warm winter |(vi) mùa đông ấm áp"
       },
       {
         "example": "寒暖",
         "reading": "カンダン",
-        "meaning": "cold and heat, (degree of) temperature"
+        "meaning": "cold and heat, (degree of) temperature |(vi) nóng lạnh, mức nhiệt độ"
       },
       {
         "example": "床暖",
         "reading": "ユカダン",
-        "meaning": "underfloor heating"
+        "meaning": "underfloor heating |(vi) hệ thống sưởi sàn"
       },
       {
         "example": "呑気",
         "reading": "ノンキ",
-        "meaning": "easy, easygoing, carefree, happy-go-lucky, optimistic, leisurely, careless, thoughtless"
+        "meaning": "easy, easygoing, carefree, happy-go-lucky, optimistic, leisurely, careless, thoughtless |(vi) vô tư, dễ chịu, lạc quan, hời hợt, thảnh thơi"
       },
       {
         "example": "暖簾",
         "reading": "ノレン",
-        "meaning": "(short) curtain hung at shop entrance, split curtain used to divide spaces in a house, reputation (of a store), good name, credit, goodwill"
+        "meaning": "(short) curtain hung at shop entrance, split curtain used to divide spaces in a house, reputation (of a store), good name, credit, goodwill |(vi) tấm rèm treo trước cửa hàng, rèm ngăn không gian trong nhà, danh tiếng (của cửa hàng), uy tín"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "暖か",
         "reading": "あたたか",
-        "meaning": "warm, mild, genial"
+        "meaning": "warm, mild, genial |(vi) ấm áp, dịu dàng, ôn hòa"
       },
       {
         "example": "暖かい",
         "reading": "あたたかい",
-        "meaning": "warm, mild, (pleasantly) hot, considerate, kind, genial, warm (of a colour), mellow, having enough money"
+        "meaning": "warm, mild, (pleasantly) hot, considerate, kind, genial, warm (of a colour), mellow, having enough money |(vi) ấm áp, dịu, dễ chịu, ân cần, tử tế, ấm (màu sắc), dư dả tiền bạc"
       },
       {
         "example": "暖かい",
         "reading": "あたたかい",
-        "meaning": "warm, mild, (pleasantly) hot, considerate, kind, genial, warm (of a colour), mellow, having enough money"
+        "meaning": "warm, mild, (pleasantly) hot, considerate, kind, genial, warm (of a colour), mellow, having enough money |(vi) ấm áp, dịu, dễ chịu, ân cần, tử tế, ấm (màu sắc), dư dả tiền bạc"
       },
       {
         "example": "暖かい色",
         "reading": "あたたかいいろ",
-        "meaning": "warm color, warm colour"
+        "meaning": "warm color, warm colour |(vi) màu ấm"
       },
       {
         "example": "温まる",
         "reading": "あたたまる",
-        "meaning": "to warm oneself, to sun oneself, to warm up, to get warm"
+        "meaning": "to warm oneself, to sun oneself, to warm up, to get warm |(vi) sưởi ấm bản thân, phơi nắng, ấm lên"
       },
       {
         "example": "温める",
         "reading": "あたためる",
-        "meaning": "to warm (up), to heat (up), to sit on (an idea, plan, etc.), to keep to oneself, to nurse, to mull over, to renew (an old friendship), to take for oneself"
+        "meaning": "to warm (up), to heat (up), to sit on (an idea, plan, etc.), to keep to oneself, to nurse, to mull over, to renew (an old friendship), to take for oneself |(vi) làm ấm, hâm nóng, ấp ủ (ý tưởng), giữ kín, nối lại (tình bạn cũ)"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "ノ",

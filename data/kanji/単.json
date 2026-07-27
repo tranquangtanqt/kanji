@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "single",
+    "meaning": "single |(vi) đơn, đơn lẻ",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "簡単な（かんたんな）",
         "meaning": {
-          "english": "simple"
+          "english": "simple |(vi) đơn giản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "単純な（たんじゅんな）",
         "meaning": {
-          "english": "simple"
+          "english": "simple |(vi) đơn giản, đơn thuần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "単語（たんご）",
         "meaning": {
-          "english": "word"
+          "english": "word |(vi) từ vựng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "単独（たんどく）",
         "meaning": {
-          "english": "solo"
+          "english": "solo |(vi) đơn độc, một mình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "単位（たんい）",
         "meaning": {
-          "english": "unit"
+          "english": "unit |(vi) đơn vị, tín chỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "単に（たんに）",
         "meaning": {
-          "english": "merely"
+          "english": "merely |(vi) chỉ đơn thuần, chỉ là"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(i)_06_f.opus",
@@ -211,7 +211,7 @@
     "kanji": {
       "character": "単",
       "meaning": {
-        "english": "single"
+        "english": "single |(vi) đơn, đơn lẻ"
       },
       "strokes": {
         "count": 9,
@@ -267,7 +267,7 @@
         "romaji": "tsu"
       },
       "meaning": {
-        "english": "Katakana Tsu"
+        "english": "Katakana Tsu |(vi) Tiểu (nhỏ, hình katakana tsu)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsu0.svg",
@@ -288,7 +288,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "586",
     "strokeCount": 9,
-    "meaning": "simple, one, single, merely",
+    "meaning": "simple, one, single, merely |(vi) đơn giản, một, đơn lẻ, chỉ là |(hv) Đơn",
     "kunyomi": [
       "ひとえ"
     ],
@@ -299,44 +299,44 @@
       {
         "example": "単",
         "reading": "タン",
-        "meaning": "single, simple, singles (tennis, badminton, etc.), win bet (bet which predicts the winner of a race)"
+        "meaning": "single, simple, singles (tennis, badminton, etc.), win bet (bet which predicts the winner of a race) |(vi) đơn, đơn giản, đánh đơn (tennis, cầu lông...), cược thắng (dự đoán người thắng cuộc đua)"
       },
       {
         "example": "単位",
         "reading": "タンイ",
-        "meaning": "unit, denomination, credit (in school), in units of (e.g. \"in thousands\"), in amounts of"
+        "meaning": "unit, denomination, credit (in school), in units of (e.g. \"in thousands\"), in amounts of |(vi) đơn vị, mệnh giá, tín chỉ (ở trường), theo đơn vị (ví dụ \"tính bằng nghìn\"), theo số lượng"
       },
       {
         "example": "菜単",
         "reading": "サイタン",
-        "meaning": "menu (at a Chinese restaurant)"
+        "meaning": "menu (at a Chinese restaurant) |(vi) thực đơn (ở nhà hàng Trung Hoa)"
       },
       {
         "example": "指定単",
         "reading": "シテイタン",
-        "meaning": "designated money trust"
+        "meaning": "designated money trust |(vi) quỹ tín thác tiền tệ chỉ định"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "一重",
         "reading": "ひとえ",
-        "meaning": "one layer, single layer, monopetalous, unlined kimono, single-edged eyelid, eyelid with an epicanthic fold, upper eyelid with no fold"
+        "meaning": "one layer, single layer, monopetalous, unlined kimono, single-edged eyelid, eyelid with an epicanthic fold, upper eyelid with no fold |(vi) một lớp, đơn lớp, hoa cánh đơn, kimono không lót, mí mắt một mí, mí mắt có nếp gấp epicanthic, mí mắt trên không có nếp"
       },
       {
         "example": "単衣",
         "reading": "たんい",
-        "meaning": "unlined kimono, one kimono, a single kimono"
+        "meaning": "unlined kimono, one kimono, a single kimono |(vi) kimono không lót, một chiếc kimono, kimono đơn"
       },
       {
         "example": "十二単",
         "reading": "じゅうにひとえ",
-        "meaning": "twelve-layered ceremonial kimono (worn by a court lady), ajuga (Ajuga nipponensis), bugle"
+        "meaning": "twelve-layered ceremonial kimono (worn by a court lady), ajuga (Ajuga nipponensis), bugle |(vi) kimono nghi lễ mười hai lớp (do mệnh phụ trong triều mặc), cây bugle (Ajuga nipponensis)"
       }
     ],
     "radical": {
       "symbol": "十",
-      "meaning": "ten, complete"
+      "meaning": "ten, complete |(vi) Thập (mười, trọn vẹn)"
     },
     "parts": [
       "十",

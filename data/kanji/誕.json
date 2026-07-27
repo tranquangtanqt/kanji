@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "be born, birth",
+    "meaning": "be born, birth |(vi) sinh ra, ra đời",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "誕生日（たんじょうび）",
         "meaning": {
-          "english": "birthday"
+          "english": "birthday |(vi) sinh nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(joubi)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "生誕（せいたん）",
         "meaning": {
-          "english": "birth, nativity"
+          "english": "birth, nativity |(vi) sự ra đời, sự chào đời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(joubi)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "降誕（こうたん）",
         "meaning": {
-          "english": "birth, nativity"
+          "english": "birth, nativity |(vi) giáng sinh, ra đời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(joubi)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "誕生する（たんじょうする）",
         "meaning": {
-          "english": "be born"
+          "english": "be born |(vi) được sinh ra, ra đời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(joubi)_06_d.opus",
@@ -161,7 +161,7 @@
     "kanji": {
       "character": "誕",
       "meaning": {
-        "english": "be born, birth"
+        "english": "be born, birth |(vi) sinh ra, ra đời"
       },
       "strokes": {
         "count": 15,
@@ -229,7 +229,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -250,7 +250,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1024",
     "strokeCount": 15,
-    "meaning": "nativity, be born, declension, lie, be arbitrary",
+    "meaning": "nativity, be born, declension, lie, be arbitrary |(vi) sự ra đời, sinh ra, khoác lác, nói dối, tùy tiện |(hv) Đản",
     "kunyomi": [],
     "onyomi": [
       "タン"
@@ -259,22 +259,22 @@
       {
         "example": "誕生",
         "reading": "タンジョウ",
-        "meaning": "birth, creation, formation"
+        "meaning": "birth, creation, formation |(vi) sự ra đời, sự sinh ra"
       },
       {
         "example": "誕生日",
         "reading": "タンジョウビ",
-        "meaning": "birthday"
+        "meaning": "birthday |(vi) sinh nhật"
       },
       {
         "example": "生誕",
         "reading": "セイタン",
-        "meaning": "birth (esp. of a famous person), nativity"
+        "meaning": "birth (esp. of a famous person), nativity |(vi) sự ra đời (của người nổi tiếng), sự chào đời"
       },
       {
         "example": "再誕",
         "reading": "サイタン",
-        "meaning": "resurrection (of a company or school, etc.)"
+        "meaning": "resurrection (of a company or school, etc.) |(vi) sự tái sinh, phục hồi (công ty, trường học, v.v.)"
       }
     ],
     "kunyomiExamples": [],
@@ -283,7 +283,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "ノ",

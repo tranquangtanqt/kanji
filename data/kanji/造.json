@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 6,
     "kunyomi": "tsuku, tsukuru, tukuri",
-    "meaning": "make, produce, build",
+    "meaning": "make, produce, build |(vi) làm, sản xuất, xây dựng",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "造花（ぞうか）",
         "meaning": {
-          "english": "artificial flowers"
+          "english": "artificial flowers |(vi) hoa giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-tsuku(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "造船（ぞうせん）",
         "meaning": {
-          "english": "shipbuilding"
+          "english": "shipbuilding |(vi) đóng tàu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-tsuku(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "構造（こうぞう）",
         "meaning": {
-          "english": "structure, construction"
+          "english": "structure, construction |(vi) cấu trúc, kết cấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-tsuku(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "木造（もくぞう）",
         "meaning": {
-          "english": "wooden, made of wood"
+          "english": "wooden, made of wood |(vi) bằng gỗ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-tsuku(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "人造湖（じんぞうこ）",
         "meaning": {
-          "english": "artificial lake"
+          "english": "artificial lake |(vi) hồ nhân tạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-tsuku(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "創造する（そうぞうする）",
         "meaning": {
-          "english": "create"
+          "english": "create |(vi) sáng tạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-tsuku(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "改造する（かいぞうする）",
         "meaning": {
-          "english": "remodel"
+          "english": "remodel |(vi) cải tạo, cải tổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-tsuku(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "製造する（せいぞうする）",
         "meaning": {
-          "english": "manufacture, produce"
+          "english": "manufacture, produce |(vi) sản xuất, chế tạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-tsuku(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "造る（つくる）",
         "meaning": {
-          "english": "make, create, manufacture"
+          "english": "make, create, manufacture |(vi) làm, tạo ra, chế tạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-tsuku(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "酒造り（さけづくり）",
         "meaning": {
-          "english": "sake brewing"
+          "english": "sake brewing |(vi) nấu rượu sake"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-tsuku(ru)_06_j.opus",
@@ -232,7 +232,7 @@
     "kanji": {
       "character": "造",
       "meaning": {
-        "english": "make, produce, build"
+        "english": "make, produce, build |(vi) làm, sản xuất, xây dựng"
       },
       "strokes": {
         "count": 10,
@@ -290,7 +290,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) đường, đi bộ, tiến lên"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -311,7 +311,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "429",
     "strokeCount": 10,
-    "meaning": "create, make, structure, physique",
+    "meaning": "create, make, structure, physique |(vi) sáng tạo, làm, cấu trúc, vóc dáng |(hv) Tạo",
     "kunyomi": [
       "つく.る",
       "つく.り",
@@ -324,44 +324,44 @@
       {
         "example": "造語",
         "reading": "ゾウゴ",
-        "meaning": "coinage, invention of a new word, coined word"
+        "meaning": "coinage, invention of a new word, coined word |(vi) từ mới được tạo ra, tân từ"
       },
       {
         "example": "造形",
         "reading": "ゾウケイ",
-        "meaning": "molding, moulding, shaping, forming, modelling (i.e. plastic arts), modeling"
+        "meaning": "molding, moulding, shaping, forming, modelling (i.e. plastic arts), modeling |(vi) tạo hình, nặn khuôn, tạo dáng (nghệ thuật tạo hình)"
       },
       {
         "example": "変造",
         "reading": "ヘンゾウ",
-        "meaning": "alteration, defacement, debasement, falsification, forgery"
+        "meaning": "alteration, defacement, debasement, falsification, forgery |(vi) sửa đổi trái phép, làm giả, xuyên tạc"
       },
       {
         "example": "捏造",
         "reading": "ネツゾウ",
-        "meaning": "fabrication, forgery, falsehood, hoax"
+        "meaning": "fabrication, forgery, falsehood, hoax |(vi) bịa đặt, ngụy tạo, dối trá"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "作る",
         "reading": "つくる",
-        "meaning": "to make, to produce, to manufacture, to build, to construct, to prepare (food), to brew (alcohol), to raise, to grow, to cultivate, to train, to till, to draw up (a document), to make out, to prepare, to write, to create (an artistic work, etc.), to compose, to coin (a phrase), to organize, to organise, to establish, to found, to have (a child), to make up (one's face, etc.), to fabricate (an excuse, etc.), to give a (false) appearance, to feign (a smile, etc.), to put on a show of emotion, to form (a line, etc.), to set (a record), to commit (a sin, etc.)"
+        "meaning": "to make, to produce, to manufacture, to build, to construct, to prepare (food), to brew (alcohol), to raise, to grow, to cultivate, to train, to till, to draw up (a document), to make out, to prepare, to write, to create (an artistic work, etc.), to compose, to coin (a phrase), to organize, to organise, to establish, to found, to have (a child), to make up (one's face, etc.), to fabricate (an excuse, etc.), to give a (false) appearance, to feign (a smile, etc.), to put on a show of emotion, to form (a line, etc.), to set (a record), to commit (a sin, etc.) |(vi) làm, sản xuất, chế tạo, xây dựng, chuẩn bị (thức ăn), nấu (rượu), nuôi, trồng, canh tác, huấn luyện, cày cấy, soạn thảo (văn bản), chuẩn bị, sáng tác (tác phẩm nghệ thuật...), đặt ra (câu), thành lập, sáng lập, có (con), trang điểm (mặt...), bịa ra (lý do...), tạo vẻ giả tạo, giả vờ cười, thể hiện cảm xúc, xếp thành (hàng...), lập (kỷ lục), phạm (tội...)"
       },
       {
         "example": "作り",
         "reading": "つくり",
-        "meaning": "making, producing, manufacturing, building, construction, make, structure, appearance (attire, make-up, etc.), build, physique, sashimi, forced (smile, etc.)"
+        "meaning": "making, producing, manufacturing, building, construction, make, structure, appearance (attire, make-up, etc.), build, physique, sashimi, forced (smile, etc.) |(vi) việc làm, sản xuất, chế tạo, xây dựng, cách làm, cấu trúc, vẻ ngoài (trang phục, trang điểm...), vóc dáng, thể chất, sashimi, (nụ cười) gượng gạo"
       },
       {
         "example": "作り上げる",
         "reading": "つくりあげる",
-        "meaning": "to build up, to complete, to construct, to create, to put together, to make up, to fabricate, to invent, to cook up"
+        "meaning": "to build up, to complete, to construct, to create, to put together, to make up, to fabricate, to invent, to cook up |(vi) xây dựng nên, hoàn thành, xây dựng, tạo ra, ghép lại, dựng lên, bịa đặt, phát minh, ngụy tạo"
       },
       {
         "example": "塚造",
         "reading": "つかつくり",
-        "meaning": "megapode (any bird of family Megapodiidae, incl. brush turkeys and mallee fowl), mound builder"
+        "meaning": "megapode (any bird of family Megapodiidae, incl. brush turkeys and mallee fowl), mound builder |(vi) gà tạo gò (họ chim Megapodiidae, gồm gà bụi và gà mallee)"
       }
     ],
     "radical": {
@@ -371,7 +371,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, chợt đi chợt dừng)"
     },
     "parts": [
       "ノ",

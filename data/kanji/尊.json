@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 6,
     "kunyomi": "tattoi, tattobu, toutoi, toutobu, tatto, touto",
-    "meaning": "honor, respect, valuable, noble",
+    "meaning": "honor, respect, valuable, noble |(vi) tôn kính, tôn trọng, quý giá, cao quý",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "尊敬する（そんけいする）",
         "meaning": {
-          "english": "respect (person)"
+          "english": "respect (person) |(vi) tôn kính (người)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son-touto(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "尊重する（そんちょうする）",
         "meaning": {
-          "english": "respect (idea, right)"
+          "english": "respect (idea, right) |(vi) tôn trọng (ý kiến, quyền lợi)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son-touto(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "尊敬語（そんけいご）",
         "meaning": {
-          "english": "honorific word"
+          "english": "honorific word |(vi) kính ngữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son-touto(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "尊大な（そんだいな）",
         "meaning": {
-          "english": "condescending, arrogant"
+          "english": "condescending, arrogant |(vi) kiêu ngạo, ngạo mạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son-touto(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "自尊心（じそんしん）",
         "meaning": {
-          "english": "self-esteem"
+          "english": "self-esteem |(vi) lòng tự trọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son-touto(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "尊い（とうとい/たっとい）",
         "meaning": {
-          "english": "precious, valuable"
+          "english": "precious, valuable |(vi) quý giá, cao quý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son-touto(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "尊ぶ（とうとぶ/たっとぶ）",
         "meaning": {
-          "english": "value highly"
+          "english": "value highly |(vi) coi trọng, tôn sùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son-touto(i)_06_g.opus",
@@ -202,7 +202,7 @@
     "kanji": {
       "character": "尊",
       "meaning": {
-        "english": "honor, respect, valuable, noble"
+        "english": "honor, respect, valuable, noble |(vi) tôn kính, tôn trọng, quý giá, cao quý"
       },
       "strokes": {
         "count": 12,
@@ -264,7 +264,7 @@
         "romaji": "sun"
       },
       "meaning": {
-        "english": "inch, (2.25 cm)"
+        "english": "inch, (2.25 cm) |(vi) Thốn (đơn vị đo, 2.25cm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sun0.svg",
@@ -285,7 +285,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1181",
     "strokeCount": 12,
-    "meaning": "revered, valuable, precious, noble, exalted",
+    "meaning": "revered, valuable, precious, noble, exalted |(vi) được tôn kính, quý giá, cao quý, tôn quý, cao cả |(hv) Tôn",
     "kunyomi": [
       "たっと.い",
       "とうと.い",
@@ -299,59 +299,59 @@
       {
         "example": "尊",
         "reading": "ソン",
-        "meaning": "zun (ancient Chinese wine vessel, usu. made of bronze), honorific prefix referring to the listener, counter for buddhas"
+        "meaning": "zun (ancient Chinese wine vessel, usu. made of bronze), honorific prefix referring to the listener, counter for buddhas |(vi) chén rượu cổ Trung Hoa (zun, thường bằng đồng), tiền tố kính ngữ chỉ người nghe, lượng từ đếm tượng Phật"
       },
       {
         "example": "尊敬",
         "reading": "ソンケイ",
-        "meaning": "respect, esteem, reverence, honour, honor"
+        "meaning": "respect, esteem, reverence, honour, honor |(vi) sự tôn kính, sự kính trọng, lòng tôn sùng, sự kính nể"
       },
       {
         "example": "自尊",
         "reading": "ジソン",
-        "meaning": "self-respect, esteem, self-importance, pride"
+        "meaning": "self-respect, esteem, self-importance, pride |(vi) lòng tự trọng, sự tự tôn, tính tự cao, niềm kiêu hãnh"
       },
       {
         "example": "至尊",
         "reading": "シソン",
-        "meaning": "extreme reverence, deeply revered person, the Emperor"
+        "meaning": "extreme reverence, deeply revered person, the Emperor |(vi) sự tôn kính tột bậc, người được tôn sùng sâu sắc, Thiên hoàng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "尊い",
         "reading": "とうとい",
-        "meaning": "precious, valuable, priceless, noble, exalted, sacred"
+        "meaning": "precious, valuable, priceless, noble, exalted, sacred |(vi) quý giá, cao quý, vô giá, tôn quý, cao cả, thiêng liêng"
       },
       {
         "example": "尊い油",
         "reading": "たっといあぶら",
-        "meaning": "anointing oil"
+        "meaning": "anointing oil |(vi) dầu xức thánh"
       },
       {
         "example": "尊い",
         "reading": "とうとい",
-        "meaning": "precious, valuable, priceless, noble, exalted, sacred"
+        "meaning": "precious, valuable, priceless, noble, exalted, sacred |(vi) quý giá, cao quý, vô giá, tôn quý, cao cả, thiêng liêng"
       },
       {
         "example": "尊い油",
         "reading": "たっといあぶら",
-        "meaning": "anointing oil"
+        "meaning": "anointing oil |(vi) dầu xức thánh"
       },
       {
         "example": "尊ぶ",
         "reading": "とうとぶ",
-        "meaning": "to value, to prize, to esteem, to respect, to honour, to honor, to revere, to look up to"
+        "meaning": "to value, to prize, to esteem, to respect, to honour, to honor, to revere, to look up to |(vi) coi trọng, trân quý, kính trọng, tôn kính, tôn sùng, ngưỡng mộ"
       },
       {
         "example": "尊ぶ",
         "reading": "とうとぶ",
-        "meaning": "to value, to prize, to esteem, to respect, to honour, to honor, to revere, to look up to"
+        "meaning": "to value, to prize, to esteem, to respect, to honour, to honor, to revere, to look up to |(vi) coi trọng, trân quý, kính trọng, tôn kính, tôn sùng, ngưỡng mộ"
       }
     ],
     "radical": {
       "symbol": "寸",
-      "meaning": "thumb, inch"
+      "meaning": "thumb, inch |(vi) Thốn (đơn vị đo, 2.25cm)"
     },
     "parts": [
       "寸",

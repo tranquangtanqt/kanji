@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 6,
     "kunyomi": "arawasu, ichijirushii, arawa, ichijiru",
-    "meaning": "write, publish, author, remarkable, conspicuous",
+    "meaning": "write, publish, author, remarkable, conspicuous |(vi) viết, xuất bản, tác giả, đáng chú ý, nổi bật",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "著者（ちょしゃ）",
         "meaning": {
-          "english": "author"
+          "english": "author |(vi) tác giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ichijiru(shii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "著作（ちょさく）",
         "meaning": {
-          "english": "book"
+          "english": "book |(vi) tác phẩm, trước tác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ichijiru(shii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "著作権（ちょさくけん）",
         "meaning": {
-          "english": "copyright"
+          "english": "copyright |(vi) bản quyền tác giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ichijiru(shii)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "共著（きょうちょ）",
         "meaning": {
-          "english": "co-authorship"
+          "english": "co-authorship |(vi) đồng tác giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ichijiru(shii)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "名著（めいちょ）",
         "meaning": {
-          "english": "famous book"
+          "english": "famous book |(vi) danh tác, tác phẩm nổi tiếng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ichijiru(shii)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "顕著な（けんちょな）",
         "meaning": {
-          "english": "remarkable"
+          "english": "remarkable |(vi) rõ rệt, nổi bật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ichijiru(shii)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "著名な（ちょめいな）",
         "meaning": {
-          "english": "well-known, celebrated"
+          "english": "well-known, celebrated |(vi) nổi tiếng, trứ danh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ichijiru(shii)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "書き著す（かきあらわす）",
         "meaning": {
-          "english": "publish (a book)"
+          "english": "publish (a book) |(vi) viết và xuất bản (sách)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ichijiru(shii)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "著しい（いちじるしい）",
         "meaning": {
-          "english": "considerable"
+          "english": "considerable |(vi) đáng kể, rõ rệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ichijiru(shii)_06_i.opus",
@@ -228,7 +228,7 @@
     "kanji": {
       "character": "著",
       "meaning": {
-        "english": "write, publish, author, remarkable, conspicuous"
+        "english": "write, publish, author, remarkable, conspicuous |(vi) viết, xuất bản, tác giả, đáng chú ý, nổi bật"
       },
       "strokes": {
         "count": 11,
@@ -288,7 +288,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -309,7 +309,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "849",
     "strokeCount": 11,
-    "meaning": "renowned, publish, write, remarkable, phenomenal, put on, don, wear, arrival, finish (race), counter for suits of clothing, literary work",
+    "meaning": "renowned, publish, write, remarkable, phenomenal, put on, don, wear, arrival, finish (race), counter for suits of clothing, literary work |(vi) nổi tiếng, xuất bản, viết, đáng chú ý, phi thường, mặc vào, đến nơi, về đích, lượng từ đếm bộ quần áo, tác phẩm văn học |(hv) Trứ",
     "kunyomi": [
       "あらわ.す",
       "いちじる.しい"
@@ -322,44 +322,44 @@
       {
         "example": "著",
         "reading": "チョ",
-        "meaning": "(written) work, book, (written) by, clearness, obviousness, conspicuousness"
+        "meaning": "(written) work, book, (written) by, clearness, obviousness, conspicuousness |(vi) tác phẩm, sách, do (ai) viết, sự rõ ràng, nổi bật"
       },
       {
         "example": "著作",
         "reading": "チョサク",
-        "meaning": "writing (a book), book, (literary) work, writings"
+        "meaning": "writing (a book), book, (literary) work, writings |(vi) trước tác, sách, tác phẩm"
       },
       {
         "example": "近著",
         "reading": "キンチョ",
-        "meaning": "recent work"
+        "meaning": "recent work |(vi) tác phẩm gần đây"
       },
       {
         "example": "共著",
         "reading": "キョウチョ",
-        "meaning": "joint authorship, co-authorship, collaboration, joint work"
+        "meaning": "joint authorship, co-authorship, collaboration, joint work |(vi) đồng tác giả, hợp soạn"
       },
       {
         "example": "着手",
         "reading": "チャクシュ",
-        "meaning": "starting work (on), setting to work (on), setting about (doing), beginning, commencing, embarking on, commencing (a crime)"
+        "meaning": "starting work (on), setting to work (on), setting about (doing), beginning, commencing, embarking on, commencing (a crime) |(vi) bắt tay vào việc, khởi công, bắt đầu (kể cả phạm tội)"
       },
       {
         "example": "着する",
         "reading": "チャクスル",
-        "meaning": "to arrive, to reach, to adhere, to insist on, to put on, to wear"
+        "meaning": "to arrive, to reach, to adhere, to insist on, to put on, to wear |(vi) đến nơi, bám vào, khăng khăng đòi, mặc vào"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "著す",
         "reading": "あらわす",
-        "meaning": "to write, to publish"
+        "meaning": "to write, to publish |(vi) viết, xuất bản"
       },
       {
         "example": "著しい",
         "reading": "いちじるしい",
-        "meaning": "striking, remarkable, considerable"
+        "meaning": "striking, remarkable, considerable |(vi) nổi bật, đáng chú ý, đáng kể"
       }
     ],
     "radical": {
@@ -367,7 +367,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "日",

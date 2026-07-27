@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "taba, tabaneru",
-    "meaning": "tie up, bundle",
+    "meaning": "tie up, bundle |(vi) buộc, bó",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "約束する（やくそくする）",
         "meaning": {
-          "english": "promise [v.t.]"
+          "english": "promise [v.t.] |(vi) hứa, hẹn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taba(neru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "結束する（けっそくする）",
         "meaning": {
-          "english": "band together, unite"
+          "english": "band together, unite |(vi) đoàn kết, liên kết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taba(neru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "束縛する（そくばくする）",
         "meaning": {
-          "english": "restrain, bind, shackle"
+          "english": "restrain, bind, shackle |(vi) trói buộc, ràng buộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taba(neru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "束ねる（たばねる）",
         "meaning": {
-          "english": "bundle [v.t.]"
+          "english": "bundle [v.t.] |(vi) bó lại, buộc thành bó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taba(neru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "花束（はなたば）",
         "meaning": {
-          "english": "bouquet"
+          "english": "bouquet |(vi) bó hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taba(neru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "札束（さつたば）",
         "meaning": {
-          "english": "roll of banknotes"
+          "english": "roll of banknotes |(vi) xấp tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taba(neru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "*束の間（つかのま）",
         "meaning": {
-          "english": "brief moment"
+          "english": "brief moment |(vi) khoảnh khắc ngắn ngủi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taba(neru)_06_g.opus",
@@ -219,7 +219,7 @@
     "kanji": {
       "character": "束",
       "meaning": {
-        "english": "tie up, bundle"
+        "english": "tie up, bundle |(vi) buộc, bó"
       },
       "strokes": {
         "count": 7,
@@ -271,7 +271,7 @@
         "romaji": "ki"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) cây, gỗ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ki0.svg",
@@ -292,7 +292,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "918",
     "strokeCount": 7,
-    "meaning": "bundle, sheaf, ream, tie in bundles, govern, manage, control",
+    "meaning": "bundle, sheaf, ream, tie in bundles, govern, manage, control |(vi) bó, chùm, ram (giấy), buộc thành bó, cai quản, quản lý, kiểm soát |(hv) Thúc",
     "kunyomi": [
       "たば",
       "たば.ねる",
@@ -306,79 +306,79 @@
       {
         "example": "束",
         "reading": "ソク",
-        "meaning": "lattice, counter for large bundles (e.g. 10 sheafs of rice, 200 sheets of calligraphy paper, 20 whistling arrows, 100 fish), handbreadth (unit for measuring the length of arrows)"
+        "meaning": "lattice, counter for large bundles (e.g. 10 sheafs of rice, 200 sheets of calligraphy paper, 20 whistling arrows, 100 fish), handbreadth (unit for measuring the length of arrows) |(vi) lưới, đơn vị đếm bó lớn (lúa, giấy thư pháp, tên, cá...), đơn vị đo chiều dài mũi tên (gang tay)"
       },
       {
         "example": "束縛",
         "reading": "ソクバク",
-        "meaning": "restraint, restriction, fetters, yoke, shackles, binding, confinement with rope"
+        "meaning": "restraint, restriction, fetters, yoke, shackles, binding, confinement with rope |(vi) kiềm chế, hạn chế, xiềng xích, gông cùm, trói buộc"
       },
       {
         "example": "結束",
         "reading": "ケッソク",
-        "meaning": "union, unity, solidarity, bundling, binding, tying, putting on (clothes, armour, etc.)"
+        "meaning": "union, unity, solidarity, bundling, binding, tying, putting on (clothes, armour, etc.) |(vi) đoàn kết, thống nhất, liên kết, buộc lại, mặc (áo giáp...)"
       },
       {
         "example": "口約束",
         "reading": "クチヤクソク",
-        "meaning": "verbal promise, one's word"
+        "meaning": "verbal promise, one's word |(vi) lời hứa miệng, lời hứa danh dự"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "束",
         "reading": "たば",
-        "meaning": "bundle, bunch, sheaf"
+        "meaning": "bundle, bunch, sheaf |(vi) bó, chùm"
       },
       {
         "example": "束ねる",
         "reading": "たばねる",
-        "meaning": "to tie up in a bundle (e.g. straw, hair, bills, letters), to bundle, to sheathe, to govern, to manage, to control, to administer, to fold (one's arms), to put together (one's hands)"
+        "meaning": "to tie up in a bundle (e.g. straw, hair, bills, letters), to bundle, to sheathe, to govern, to manage, to control, to administer, to fold (one's arms), to put together (one's hands) |(vi) buộc thành bó (rơm, tóc, tiền, thư...), bó lại, bao bọc, cai quản, quản lý, kiểm soát, điều hành, khoanh tay, chắp tay"
       },
       {
         "example": "鍵束",
         "reading": "かぎたば",
-        "meaning": "bunch of keys"
+        "meaning": "bunch of keys |(vi) chùm chìa khóa"
       },
       {
         "example": "麦束",
         "reading": "むぎたば",
-        "meaning": "wheat sheaf, stacked wheat"
+        "meaning": "wheat sheaf, stacked wheat |(vi) bó lúa mì"
       },
       {
         "example": "束ねる",
         "reading": "たばねる",
-        "meaning": "to tie up in a bundle (e.g. straw, hair, bills, letters), to bundle, to sheathe, to govern, to manage, to control, to administer, to fold (one's arms), to put together (one's hands)"
+        "meaning": "to tie up in a bundle (e.g. straw, hair, bills, letters), to bundle, to sheathe, to govern, to manage, to control, to administer, to fold (one's arms), to put together (one's hands) |(vi) buộc thành bó (rơm, tóc, tiền, thư...), bó lại, bao bọc, cai quản, quản lý, kiểm soát, điều hành, khoanh tay, chắp tay"
       },
       {
         "example": "束",
         "reading": "つか",
-        "meaning": "strut, short vertical post, thickness (of a book minus the cover, a sheaf of paper, etc.), handbreadth, bundle"
+        "meaning": "strut, short vertical post, thickness (of a book minus the cover, a sheaf of paper, etc.), handbreadth, bundle |(vi) cột chống ngắn, độ dày (sách, xấp giấy...), gang tay, bó"
       },
       {
         "example": "束ねる",
         "reading": "たばねる",
-        "meaning": "to tie up in a bundle (e.g. straw, hair, bills, letters), to bundle, to sheathe, to govern, to manage, to control, to administer, to fold (one's arms), to put together (one's hands)"
+        "meaning": "to tie up in a bundle (e.g. straw, hair, bills, letters), to bundle, to sheathe, to govern, to manage, to control, to administer, to fold (one's arms), to put together (one's hands) |(vi) buộc thành bó (rơm, tóc, tiền, thư...), bó lại, bao bọc, cai quản, quản lý, kiểm soát, điều hành, khoanh tay, chắp tay"
       },
       {
         "example": "不束",
         "reading": "ふつつか",
-        "meaning": "inexperienced, incompetent, inept, incapable, careless"
+        "meaning": "inexperienced, incompetent, inept, incapable, careless |(vi) thiếu kinh nghiệm, vụng về, bất tài, bất cẩn"
       },
       {
         "example": "矢束",
         "reading": "やつか",
-        "meaning": "arrow length, bundle of arrows"
+        "meaning": "arrow length, bundle of arrows |(vi) độ dài mũi tên, bó tên"
       },
       {
         "example": "束ねる",
         "reading": "たばねる",
-        "meaning": "to tie up in a bundle (e.g. straw, hair, bills, letters), to bundle, to sheathe, to govern, to manage, to control, to administer, to fold (one's arms), to put together (one's hands)"
+        "meaning": "to tie up in a bundle (e.g. straw, hair, bills, letters), to bundle, to sheathe, to govern, to manage, to control, to administer, to fold (one's arms), to put together (one's hands) |(vi) buộc thành bó (rơm, tóc, tiền, thư...), bó lại, bao bọc, cai quản, quản lý, kiểm soát, điều hành, khoanh tay, chắp tay"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây)"
     },
     "parts": [
       "ハ",

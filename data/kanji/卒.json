@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "graduate",
+    "meaning": "graduate |(vi) tốt nghiệp",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "卒業する（そつぎょうする）",
         "meaning": {
-          "english": "graduate"
+          "english": "graduate |(vi) tốt nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "卒論（そつろん）",
         "meaning": {
-          "english": "graduation (senior) thesis"
+          "english": "graduation (senior) thesis |(vi) luận văn tốt nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "中卒（ちゅうそつ）",
         "meaning": {
-          "english": "junior high school graduate"
+          "english": "junior high school graduate |(vi) tốt nghiệp trung học cơ sở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "高卒（こうそつ）",
         "meaning": {
-          "english": "high school graduate"
+          "english": "high school graduate |(vi) tốt nghiệp trung học phổ thông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "大卒（だいそつ）",
         "meaning": {
-          "english": "university graduate"
+          "english": "university graduate |(vi) tốt nghiệp đại học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "脳卒中（のうそっちゅう）",
         "meaning": {
-          "english": "stroke"
+          "english": "stroke |(vi) đột quỵ, tai biến mạch máu não"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_f.opus",
@@ -208,7 +208,7 @@
     "kanji": {
       "character": "卒",
       "meaning": {
-        "english": "graduate"
+        "english": "graduate |(vi) tốt nghiệp"
       },
       "strokes": {
         "count": 8,
@@ -262,7 +262,7 @@
         "romaji": "juu"
       },
       "meaning": {
-        "english": "ten"
+        "english": "ten |(vi) Thập (số mười, hoàn tất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/juu0.svg",
@@ -283,7 +283,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "772",
     "strokeCount": 8,
-    "meaning": "graduate, soldier, private, die",
+    "meaning": "graduate, soldier, private, die |(vi) tốt nghiệp, binh lính, binh nhì, chết |(hv) Tốt",
     "kunyomi": [
       "そっ.する",
       "お.える",
@@ -299,44 +299,44 @@
       {
         "example": "卒",
         "reading": "ソツ",
-        "meaning": "low-ranking soldier, graduation, moving on (from), outgrowing (something), low-ranking samurai (1870-1872), death (of a noble, etc.)"
+        "meaning": "low-ranking soldier, graduation, moving on (from), outgrowing (something), low-ranking samurai (1870-1872), death (of a noble, etc.) |(vi) binh lính cấp thấp, sự tốt nghiệp, chuyển tiếp (từ), vượt qua (điều gì đó), samurai cấp thấp (1870-1872), cái chết (của quý tộc...)"
       },
       {
         "example": "卒業",
         "reading": "ソツギョウ",
-        "meaning": "graduation, completion (of a course), moving on (from), outgrowing (something), leaving (a group, company, etc.), quitting"
+        "meaning": "graduation, completion (of a course), moving on (from), outgrowing (something), leaving (a group, company, etc.), quitting |(vi) sự tốt nghiệp, sự hoàn thành (khóa học), chuyển tiếp (từ), vượt qua (điều gì đó), rời khỏi (một nhóm, công ty...), từ bỏ"
       },
       {
         "example": "中卒",
         "reading": "チュウソツ",
-        "meaning": "having graduated from junior high school (as one's highest completed level of education), having completed no schooling beyond junior high school, middle school graduate"
+        "meaning": "having graduated from junior high school (as one's highest completed level of education), having completed no schooling beyond junior high school, middle school graduate |(vi) đã tốt nghiệp trung học cơ sở (là trình độ học vấn cao nhất), không học lên cao hơn trung học cơ sở, người tốt nghiệp trung học cơ sở"
       },
       {
         "example": "大卒",
         "reading": "ダイソツ",
-        "meaning": "university graduate, having graduated from university"
+        "meaning": "university graduate, having graduated from university |(vi) người tốt nghiệp đại học, đã tốt nghiệp đại học"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "卒する",
         "reading": "そっする",
-        "meaning": "to die, to pass away"
+        "meaning": "to die, to pass away |(vi) qua đời, từ trần"
       },
       {
         "example": "終える",
         "reading": "おえる",
-        "meaning": "to finish, to graduate"
+        "meaning": "to finish, to graduate |(vi) kết thúc, tốt nghiệp"
       },
       {
         "example": "終わる",
         "reading": "おわる",
-        "meaning": "to end, to come to an end, to finish, to close, to be over, to finish, to complete, to conclude, to finish doing, to be past its (one's) prime, to be awful, to be terrible, to suck, to be hopeless"
+        "meaning": "to end, to come to an end, to finish, to close, to be over, to finish, to complete, to conclude, to finish doing, to be past its (one's) prime, to be awful, to be terrible, to suck, to be hopeless |(vi) kết thúc, đi đến hồi kết, hoàn tất, khép lại, chấm dứt, hoàn thành, làm xong, đã qua thời hoàng kim, tệ hại, kinh khủng, tồi tệ, vô vọng"
       }
     ],
     "radical": {
       "symbol": "十",
-      "meaning": "ten, complete"
+      "meaning": "ten, complete |(vi) Thập (số mười, hoàn tất)"
     },
     "parts": [
       "亠",

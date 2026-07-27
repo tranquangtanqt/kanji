@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "lay up, storage, store",
+    "meaning": "lay up, storage, store |(vi) tích trữ, lưu trữ, cất giữ",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "貯水池（ちょすいち）",
         "meaning": {
-          "english": "reservoir"
+          "english": "reservoir |(vi) hồ chứa nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cho(kin)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "預貯金（よちょきん）",
         "meaning": {
-          "english": "deposits and savings"
+          "english": "deposits and savings |(vi) tiền gửi tiết kiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cho(kin)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "貯金する（ちょきんする）",
         "meaning": {
-          "english": "save money, deposit money"
+          "english": "save money, deposit money |(vi) tiết kiệm tiền, gửi tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cho(kin)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "貯蓄する（ちょちくする）",
         "meaning": {
-          "english": "save (up money)"
+          "english": "save (up money) |(vi) tích lũy, tiết kiệm (tiền)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cho(kin)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "貯蔵する（ちょぞうする）",
         "meaning": {
-          "english": "store, preserve"
+          "english": "store, preserve |(vi) lưu trữ, bảo quản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cho(kin)_06_e.opus",
@@ -162,7 +162,7 @@
     "kanji": {
       "character": "貯",
       "meaning": {
-        "english": "lay up, storage, store"
+        "english": "lay up, storage, store |(vi) tích trữ, lưu trữ, cất giữ"
       },
       "strokes": {
         "count": 12,
@@ -224,7 +224,7 @@
         "romaji": "kaihen"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (vỏ sò, của cải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kaihen0.svg",
@@ -245,7 +245,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1100",
     "strokeCount": 12,
-    "meaning": "savings, store, lay in, keep, wear mustache",
+    "meaning": "savings, store, lay in, keep, wear mustache |(vi) tiết kiệm, tích trữ, cất giữ, để râu |(hv) Trữ",
     "kunyomi": [
       "た.める",
       "たくわ.える"
@@ -257,34 +257,34 @@
       {
         "example": "貯水",
         "reading": "チョスイ",
-        "meaning": "storage of water"
+        "meaning": "storage of water |(vi) trữ nước, chứa nước"
       },
       {
         "example": "貯金",
         "reading": "チョキン",
-        "meaning": "putting money aside, savings, deposit (e.g. in a bank), accumulated surplus of wins, wins in the bank"
+        "meaning": "putting money aside, savings, deposit (e.g. in a bank), accumulated surplus of wins, wins in the bank |(vi) tiết kiệm tiền, tiền gửi tiết kiệm, số dư tích lũy"
       },
       {
         "example": "郵貯",
         "reading": "ユウチョ",
-        "meaning": "postal (post-office) savings (deposit)"
+        "meaning": "postal (post-office) savings (deposit) |(vi) tiết kiệm bưu điện"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "貯める",
         "reading": "ためる",
-        "meaning": "to save up (money)"
+        "meaning": "to save up (money) |(vi) để dành, tiết kiệm (tiền)"
       },
       {
         "example": "蓄える",
         "reading": "たくわえる",
-        "meaning": "to store, to save up, to stock up on, to lay in stock, to set aside, to accumulate (e.g. knowledge), to build up (e.g. experience), to develop (e.g. one's skills), to grow (a beard, moustache, etc.), to wear"
+        "meaning": "to store, to save up, to stock up on, to lay in stock, to set aside, to accumulate (e.g. knowledge), to build up (e.g. experience), to develop (e.g. one's skills), to grow (a beard, moustache, etc.), to wear |(vi) tích trữ, để dành, tích lũy (kiến thức), tích lũy (kinh nghiệm), nuôi (râu)"
       }
     ],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò, của cải)"
     },
     "parts": [
       "ハ",

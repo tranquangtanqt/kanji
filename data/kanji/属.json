@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "belong to",
+    "meaning": "belong to |(vi) thuộc về",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "属性（ぞくせい）",
         "meaning": {
-          "english": "attribute [n.]"
+          "english": "attribute [n.] |(vi) thuộc tính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sho)zoku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "金属（きんぞく）",
         "meaning": {
-          "english": "metal"
+          "english": "metal |(vi) kim loại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sho)zoku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "専属（せんぞく）",
         "meaning": {
-          "english": "exclusive, specialized [n.]"
+          "english": "exclusive, specialized [n.] |(vi) chuyên thuộc, độc quyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sho)zoku_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "猫属（ねこぞく）",
         "meaning": {
-          "english": "the cat genus"
+          "english": "the cat genus |(vi) chi mèo (phân loại sinh học)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sho)zoku_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "属する（ぞくする）",
         "meaning": {
-          "english": "belong to, be affiliated with"
+          "english": "belong to, be affiliated with |(vi) thuộc về, trực thuộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sho)zoku_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "配属する（はいぞくする）",
         "meaning": {
-          "english": "assign"
+          "english": "assign |(vi) phân công, bổ nhiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sho)zoku_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "従属する（じゅうぞくする）",
         "meaning": {
-          "english": "be subordinated to"
+          "english": "be subordinated to |(vi) phụ thuộc, lệ thuộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sho)zoku_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "付属する（ふぞくする）",
         "meaning": {
-          "english": "be attached, be associated"
+          "english": "be attached, be associated |(vi) trực thuộc, gắn liền với"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sho)zoku_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "所属する（しょぞくする）",
         "meaning": {
-          "english": "belong to, be affiliated with"
+          "english": "belong to, be affiliated with |(vi) thuộc về, trực thuộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sho)zoku_06_i.opus",
@@ -198,7 +198,7 @@
     "kanji": {
       "character": "属",
       "meaning": {
-        "english": "belong to"
+        "english": "belong to |(vi) thuộc về"
       },
       "strokes": {
         "count": 12,
@@ -260,7 +260,7 @@
         "romaji": "shikabane"
       },
       "meaning": {
-        "english": "corpse, awning"
+        "english": "corpse, awning |(vi) Thi (xác chết, mái che)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shikabane0.svg",
@@ -281,7 +281,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "912",
     "strokeCount": 12,
-    "meaning": "belong, genus, subordinate official, affiliated",
+    "meaning": "belong, genus, subordinate official, affiliated |(vi) thuộc về, chi (sinh học), quan chức cấp dưới, trực thuộc |(hv) Thuộc",
     "kunyomi": [
       "さかん",
       "つく",
@@ -295,44 +295,44 @@
       {
         "example": "属",
         "reading": "ゾク",
-        "meaning": "genus, generic"
+        "meaning": "genus, generic |(vi) chi (sinh học), thuộc chi"
       },
       {
         "example": "属する",
         "reading": "ゾクスル",
-        "meaning": "to belong to, to come under, to be affiliated with, to be subject to"
+        "meaning": "to belong to, to come under, to be affiliated with, to be subject to |(vi) thuộc về, nằm trong, trực thuộc, chịu sự quản lý của"
       },
       {
         "example": "非鉄金属",
         "reading": "ヒテツキンゾク",
-        "meaning": "non-ferrous metal"
+        "meaning": "non-ferrous metal |(vi) kim loại màu (phi sắt)"
       },
       {
         "example": "貴金属",
         "reading": "キキンゾク",
-        "meaning": "precious metal"
+        "meaning": "precious metal |(vi) kim loại quý"
       },
       {
         "example": "嘱託",
         "reading": "ショクタク",
-        "meaning": "commission, entrusting with (work), part-time employee, temporary work"
+        "meaning": "commission, entrusting with (work), part-time employee, temporary work |(vi) sự ủy thác, việc giao phó (công việc), nhân viên bán thời gian, công việc tạm thời"
       },
       {
         "example": "嘱望",
         "reading": "ショクボウ",
-        "meaning": "having great hopes for (someone's future), expecting much of, pinning one's hopes on"
+        "meaning": "having great hopes for (someone's future), expecting much of, pinning one's hopes on |(vi) đặt nhiều kỳ vọng vào (tương lai của ai đó), trông đợi nhiều, đặt hy vọng vào"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "雅楽属",
         "reading": "うたのさかん",
-        "meaning": "alternate assistant court musician (ritsuryō system)"
+        "meaning": "alternate assistant court musician (ritsuryō system) |(vi) nhạc công cung đình phụ tá (hệ thống ritsuryō)"
       }
     ],
     "radical": {
       "symbol": "尸",
-      "meaning": "corpse"
+      "meaning": "corpse |(vi) Thi (xác chết)"
     },
     "parts": [
       "ノ",

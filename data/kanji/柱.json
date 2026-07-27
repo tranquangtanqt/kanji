@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "hashira",
-    "meaning": "pillar, pole",
+    "meaning": "pillar, pole |(vi) cột, trụ",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "石柱（せきちゅう）",
         "meaning": {
-          "english": "stone pillar"
+          "english": "stone pillar |(vi) cột đá, trụ đá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hashira_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "円柱（えんちゅう）",
         "meaning": {
-          "english": "column, shaft, cylinder"
+          "english": "column, shaft, cylinder |(vi) hình trụ, cột tròn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hashira_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "電柱（でんちゅう）",
         "meaning": {
-          "english": "telephone pole, light-pole"
+          "english": "telephone pole, light-pole |(vi) cột điện, cột đèn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hashira_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "柱（はしら）",
         "meaning": {
-          "english": "pillar, post"
+          "english": "pillar, post |(vi) cột, trụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hashira_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "柱時計（はしらどけい）",
         "meaning": {
-          "english": "wall clock"
+          "english": "wall clock |(vi) đồng hồ treo tường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hashira_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "大黒柱（だいこくばしら）",
         "meaning": {
-          "english": "central pillar, breadwinner"
+          "english": "central pillar, breadwinner |(vi) cột trụ chính, trụ cột gia đình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hashira_06_f.opus",
@@ -159,7 +159,7 @@
     "kanji": {
       "character": "柱",
       "meaning": {
-        "english": "pillar, pole"
+        "english": "pillar, pole |(vi) cột, trụ"
       },
       "strokes": {
         "count": 9,
@@ -215,7 +215,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -236,7 +236,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1119",
     "strokeCount": 9,
-    "meaning": "pillar, post, cylinder, support",
+    "meaning": "pillar, post, cylinder, support |(vi) cột, trụ, hình trụ, chỗ dựa |(hv) Trụ",
     "kunyomi": [
       "はしら"
     ],
@@ -247,49 +247,49 @@
       {
         "example": "柱",
         "reading": "チュウ",
-        "meaning": "bridge (of a koto, etc.), cylinder, prism"
+        "meaning": "bridge (of a koto, etc.), cylinder, prism |(vi) cầu đàn (đàn koto...), hình trụ, hình lăng trụ"
       },
       {
         "example": "柱穴",
         "reading": "チュウケツ",
-        "meaning": "posthole (archaeology)"
+        "meaning": "posthole (archaeology) |(vi) hố cột (khảo cổ học)"
       },
       {
         "example": "支柱",
         "reading": "シチュウ",
-        "meaning": "prop, stay, support, brace, fulcrum"
+        "meaning": "prop, stay, support, brace, fulcrum |(vi) cột chống, trụ đỡ, điểm tựa"
       },
       {
         "example": "氷柱",
         "reading": "ツララ",
-        "meaning": "icicle, ice pillar (for cooling a room), ice"
+        "meaning": "icicle, ice pillar (for cooling a room), ice |(vi) cột băng, trụ băng (để làm mát phòng)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "柱",
         "reading": "はしら",
-        "meaning": "pillar, post, support, prop, mainstay, counter for buddhas, gods, nobles, etc."
+        "meaning": "pillar, post, support, prop, mainstay, counter for buddhas, gods, nobles, etc. |(vi) cột, trụ, chỗ dựa, trụ cột, lượng từ đếm Phật, thần, quý tộc..."
       },
       {
         "example": "柱穴",
         "reading": "ちゅうけつ",
-        "meaning": "posthole (archaeology)"
+        "meaning": "posthole (archaeology) |(vi) hố cột (khảo cổ học)"
       },
       {
         "example": "杖柱",
         "reading": "つえはしら",
-        "meaning": "person upon whom one relies"
+        "meaning": "person upon whom one relies |(vi) người mà ta nương tựa vào"
       },
       {
         "example": "心の柱",
         "reading": "しんのはしら",
-        "meaning": "central pillar of a pagoda"
+        "meaning": "central pillar of a pagoda |(vi) trụ cột trung tâm của bảo tháp"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây)"
     },
     "parts": [
       "丶",

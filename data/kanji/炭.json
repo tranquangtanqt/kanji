@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "sumi",
-    "meaning": "coal, charcoal",
+    "meaning": "coal, charcoal |(vi) than, than củi",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "炭坑（たんこう）",
         "meaning": {
-          "english": "coal mine, coal pit"
+          "english": "coal mine, coal pit |(vi) mỏ than, hầm than"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-sumi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "炭素（たんそ）",
         "meaning": {
-          "english": "carbon"
+          "english": "carbon |(vi) cacbon"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-sumi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "炭酸（たんさん）",
         "meaning": {
-          "english": "carbonic acid"
+          "english": "carbonic acid |(vi) axit cacbonic"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-sumi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "炭水化物（たんすいかぶつ）",
         "meaning": {
-          "english": "carbohydrate"
+          "english": "carbohydrate |(vi) cacbohydrat"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-sumi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "石炭（せきたん）",
         "meaning": {
-          "english": "coal"
+          "english": "coal |(vi) than đá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-sumi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "木炭（もくたん）",
         "meaning": {
-          "english": "charcoal"
+          "english": "charcoal |(vi) than củi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-sumi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "炭化する（たんかする）",
         "meaning": {
-          "english": "carbonize"
+          "english": "carbonize |(vi) than hóa, cacbon hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-sumi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "炭（すみ）",
         "meaning": {
-          "english": "charcoal"
+          "english": "charcoal |(vi) than củi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-sumi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "炭火（すみび）",
         "meaning": {
-          "english": "charcoal fire"
+          "english": "charcoal fire |(vi) lửa than"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-sumi_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "炭焼き（すみやき）",
         "meaning": {
-          "english": "charcoal maker, charcoal-grilled"
+          "english": "charcoal maker, charcoal-grilled |(vi) người đốt than, nướng bằng than"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-sumi_06_j.opus",
@@ -204,7 +204,7 @@
     "kanji": {
       "character": "炭",
       "meaning": {
-        "english": "coal, charcoal"
+        "english": "coal, charcoal |(vi) than, than củi"
       },
       "strokes": {
         "count": 9,
@@ -260,7 +260,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "fire"
+        "english": "fire |(vi) Hỏa (lửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi-fire0.svg",
@@ -281,7 +281,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1307",
     "strokeCount": 9,
-    "meaning": "charcoal, coal",
+    "meaning": "charcoal, coal |(vi) than củi, than đá |(hv) Thán",
     "kunyomi": [
       "すみ"
     ],
@@ -292,44 +292,44 @@
       {
         "example": "炭素",
         "reading": "タンソ",
-        "meaning": "carbon (C)"
+        "meaning": "carbon (C) |(vi) cacbon (C)"
       },
       {
         "example": "炭鉱",
         "reading": "タンコウ",
-        "meaning": "coal mine, (coal) pit, colliery, coal-mine shaft"
+        "meaning": "coal mine, (coal) pit, colliery, coal-mine shaft |(vi) mỏ than, hầm than, giếng mỏ than"
       },
       {
         "example": "木炭",
         "reading": "モクタン",
-        "meaning": "charcoal"
+        "meaning": "charcoal |(vi) than củi"
       },
       {
         "example": "活性炭",
         "reading": "カッセイタン",
-        "meaning": "activated carbon, activated charcoal"
+        "meaning": "activated carbon, activated charcoal |(vi) than hoạt tính"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "炭",
         "reading": "すみ",
-        "meaning": "charcoal, charred remains"
+        "meaning": "charcoal, charred remains |(vi) than củi, tàn than"
       },
       {
         "example": "炭火",
         "reading": "すみび",
-        "meaning": "charcoal fire"
+        "meaning": "charcoal fire |(vi) lửa than"
       },
       {
         "example": "正炭",
         "reading": "しょうすみ",
-        "meaning": "first adding of charcoal to the fire (tea ceremony)"
+        "meaning": "first adding of charcoal to the fire (tea ceremony) |(vi) lần châm than đầu tiên (trong trà đạo)"
       },
       {
         "example": "竹炭",
         "reading": "たけすみ",
-        "meaning": "bamboo charcoal"
+        "meaning": "bamboo charcoal |(vi) than tre"
       }
     ],
     "radical": {
@@ -337,7 +337,7 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": "fire |(vi) Hỏa (lửa)"
     },
     "parts": [
       "厂",

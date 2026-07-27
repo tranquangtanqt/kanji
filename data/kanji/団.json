@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "body, group",
+    "meaning": "body, group |(vi) thân thể, đoàn thể, nhóm",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "団結する（だんけつする）",
         "meaning": {
-          "english": "unite [v.i.]"
+          "english": "unite [v.i.] |(vi) đoàn kết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shuu)dan_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "団体（だんたい）",
         "meaning": {
-          "english": "group, organization"
+          "english": "group, organization |(vi) đoàn thể, tổ chức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shuu)dan_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "集団（しゅうだん）",
         "meaning": {
-          "english": "group, mass"
+          "english": "group, mass |(vi) tập đoàn, đám đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shuu)dan_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "劇団（げきだん）",
         "meaning": {
-          "english": "drama troupe"
+          "english": "drama troupe |(vi) đoàn kịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shuu)dan_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "財団（ざいだん）",
         "meaning": {
-          "english": "foundation (for charity)"
+          "english": "foundation (for charity) |(vi) quỹ, tổ chức từ thiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shuu)dan_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "軍団（ぐんだん）",
         "meaning": {
-          "english": "army corps"
+          "english": "army corps |(vi) quân đoàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shuu)dan_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "布団（ふとん）",
         "meaning": {
-          "english": "futon"
+          "english": "futon |(vi) chăn đệm, futon"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shuu)dan_06_g.opus",
@@ -189,7 +189,7 @@
     "kanji": {
       "character": "団",
       "meaning": {
-        "english": "body, group"
+        "english": "body, group |(vi) thân thể, đoàn thể, nhóm"
       },
       "strokes": {
         "count": 6,
@@ -239,7 +239,7 @@
         "romaji": "kunigamae"
       },
       "meaning": {
-        "english": "border, territorial boundaries"
+        "english": "border, territorial boundaries |(vi) Vi (vây quanh, ranh giới lãnh thổ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kunigamae0.svg",
@@ -260,7 +260,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "213",
     "strokeCount": 6,
-    "meaning": "group, association",
+    "meaning": "group, association |(vi) nhóm, đoàn thể, hiệp hội |(hv) Đoàn",
     "kunyomi": [
       "かたまり",
       "まる.い"
@@ -273,38 +273,38 @@
       {
         "example": "団",
         "reading": "ダン",
-        "meaning": "group, body, party, company, troupe, gang, corps, ring"
+        "meaning": "group, body, party, company, troupe, gang, corps, ring |(vi) nhóm, đoàn thể, tổ chức, công ty, đoàn kịch, băng nhóm, quân đoàn, tập đoàn"
       },
       {
         "example": "団員",
         "reading": "ダンイン",
-        "meaning": "group member"
+        "meaning": "group member |(vi) thành viên đoàn thể"
       },
       {
         "example": "退団",
         "reading": "タイダン",
-        "meaning": "leaving (a group, team, etc.)"
+        "meaning": "leaving (a group, team, etc.) |(vi) rời khỏi đoàn thể, xuất đoàn"
       },
       {
         "example": "営団",
         "reading": "エイダン",
-        "meaning": "corporation, foundation"
+        "meaning": "corporation, foundation |(vi) tập đoàn, công đoàn kinh doanh"
       },
       {
         "example": "敷き布団",
         "reading": "シキブトン",
-        "meaning": "futon (laid on the floor), (Japanese) mattress, underquilt, sleeping mat"
+        "meaning": "futon (laid on the floor), (Japanese) mattress, underquilt, sleeping mat |(vi) đệm trải sàn, futon lót"
       },
       {
         "example": "水団",
         "reading": "スイトン",
-        "meaning": "flour dumplings in soup"
+        "meaning": "flour dumplings in soup |(vi) bánh bột luộc trong canh (suiton)"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "囗",
-      "meaning": "enclosure"
+      "meaning": "enclosure |(vi) Vi (vây quanh, bao bọc)"
     },
     "parts": [
       "囗",

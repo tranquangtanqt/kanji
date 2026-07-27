@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "kizu, kizuku",
-    "meaning": "construct, build",
+    "meaning": "construct, build |(vi) xây dựng, kiến tạo",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "建築（けんちく）",
         "meaning": {
-          "english": "construction, architecture"
+          "english": "construction, architecture |(vi) xây dựng, kiến trúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kizu(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "建築家（けんちくか）",
         "meaning": {
-          "english": "architect"
+          "english": "architect |(vi) kiến trúc sư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kizu(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "築城する（ちくじょうする）",
         "meaning": {
-          "english": "fortify, construct a castle"
+          "english": "fortify, construct a castle |(vi) xây thành, xây pháo đài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kizu(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "新築する（しんちくする）",
         "meaning": {
-          "english": "build, construct"
+          "english": "build, construct |(vi) xây mới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kizu(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "増築する（ぞうちくする）",
         "meaning": {
-          "english": "build an addition"
+          "english": "build an addition |(vi) xây thêm, mở rộng công trình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kizu(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "改築する（かいちくする）",
         "meaning": {
-          "english": "rebuild, reconstruct"
+          "english": "rebuild, reconstruct |(vi) xây lại, cải tạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kizu(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "構築する（こうちくする）",
         "meaning": {
-          "english": "build, construct"
+          "english": "build, construct |(vi) xây dựng, kiến tạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kizu(ku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "築く（きずく）",
         "meaning": {
-          "english": "build, construct"
+          "english": "build, construct |(vi) xây dựng, xây đắp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kizu(ku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "*築山（つきやま）",
         "meaning": {
-          "english": "artificial hill (in a garden)"
+          "english": "artificial hill (in a garden) |(vi) đồi nhân tạo (trong vườn)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kizu(ku)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "*築地（つきじ）",
         "meaning": {
-          "english": "Tsukiji (place name)"
+          "english": "Tsukiji (place name) |(vi) Tsukiji (địa danh)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kizu(ku)_06_j.opus",
@@ -238,7 +238,7 @@
     "kanji": {
       "character": "築",
       "meaning": {
-        "english": "construct, build"
+        "english": "construct, build |(vi) xây dựng, kiến tạo"
       },
       "strokes": {
         "count": 16,
@@ -308,7 +308,7 @@
         "romaji": "takekanmuri"
       },
       "meaning": {
-        "english": "bamboo"
+        "english": "bamboo |(vi) Trúc (tre)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takekanmuri0.svg",
@@ -329,7 +329,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "821",
     "strokeCount": 16,
-    "meaning": "fabricate, build, construct",
+    "meaning": "fabricate, build, construct |(vi) chế tạo, xây dựng, kiến thiết |(hv) Trúc",
     "kunyomi": [
       "きず.く"
     ],
@@ -340,29 +340,29 @@
       {
         "example": "築",
         "reading": "チク",
-        "meaning": "... years since construction, ... years old (of a building), built in ..."
+        "meaning": "... years since construction, ... years old (of a building), built in ... |(vi) ... năm kể từ khi xây dựng, ... năm tuổi (của một công trình), được xây vào năm..."
       },
       {
         "example": "築城",
         "reading": "チクジョウ",
-        "meaning": "castle construction, building a castle, fortification"
+        "meaning": "castle construction, building a castle, fortification |(vi) xây thành, xây dựng lâu đài, công sự phòng thủ"
       },
       {
         "example": "本建築",
         "reading": "ホンケンチク",
-        "meaning": "permanent construction"
+        "meaning": "permanent construction |(vi) công trình xây dựng kiên cố, vĩnh cửu"
       },
       {
         "example": "移築",
         "reading": "イチク",
-        "meaning": "dismantling a (historic) building and reconstructing it elsewhere"
+        "meaning": "dismantling a (historic) building and reconstructing it elsewhere |(vi) tháo dỡ công trình (lịch sử) và xây dựng lại ở nơi khác"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "築く",
         "reading": "きずく",
-        "meaning": "to build, to construct, to erect, to build up (a reputation, position, fortune, etc.), to establish (a relationship, household, tradition, etc.), to lay (a foundation)"
+        "meaning": "to build, to construct, to erect, to build up (a reputation, position, fortune, etc.), to establish (a relationship, household, tradition, etc.), to lay (a foundation) |(vi) xây dựng, xây đắp, dựng lên, gây dựng (danh tiếng, địa vị, sự nghiệp...), thiết lập (quan hệ, gia đình, truyền thống...), đặt (nền móng)"
       }
     ],
     "radical": {
@@ -370,7 +370,7 @@
       "forms": [
         "⺮"
       ],
-      "meaning": "bamboo"
+      "meaning": "bamboo |(vi) Trúc (tre)"
     },
     "parts": [
       "丶",

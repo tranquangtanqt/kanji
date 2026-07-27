@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 6,
     "kunyomi": "ma, fu, masu, mashi, fueru, fuyasu",
-    "meaning": "increase",
+    "meaning": "increase |(vi) tăng, tăng lên",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "増加する（ぞうかする）",
         "meaning": {
-          "english": "increase in number [v.i.]"
+          "english": "increase in number [v.i.] |(vi) tăng lên về số lượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-fu(eru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "増大する（ぞうだいする）",
         "meaning": {
-          "english": "increase in size [v.i.]"
+          "english": "increase in size [v.i.] |(vi) tăng lên về quy mô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-fu(eru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "増減する（ぞうげんする）",
         "meaning": {
-          "english": "increase and decrease [v.i.]"
+          "english": "increase and decrease [v.i.] |(vi) tăng giảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-fu(eru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "増税する（ぞうぜいする）",
         "meaning": {
-          "english": "raise taxes"
+          "english": "raise taxes |(vi) tăng thuế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-fu(eru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "急増する（きゅうぞうする）",
         "meaning": {
-          "english": "increase rapidly"
+          "english": "increase rapidly |(vi) tăng nhanh chóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-fu(eru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "倍増する（ばいぞうする）",
         "meaning": {
-          "english": "double [v.i., v.t.]"
+          "english": "double [v.i., v.t.] |(vi) tăng gấp đôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-fu(eru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "増す（ます）",
         "meaning": {
-          "english": "increase [v.i., v.t.]"
+          "english": "increase [v.i., v.t.] |(vi) tăng lên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-fu(eru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "増える（ふえる）",
         "meaning": {
-          "english": "increase [v.i.]"
+          "english": "increase [v.i.] |(vi) tăng lên (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-fu(eru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "増やす（ふやす）",
         "meaning": {
-          "english": "increase [v.t.]"
+          "english": "increase [v.t.] |(vi) làm tăng lên (ngoại động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-fu(eru)_06_i.opus",
@@ -249,7 +249,7 @@
     "kanji": {
       "character": "増",
       "meaning": {
-        "english": "increase"
+        "english": "increase |(vi) tăng, tăng lên"
       },
       "strokes": {
         "count": 14,
@@ -315,7 +315,7 @@
         "romaji": "tsuchihen"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
@@ -336,7 +336,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "231",
     "strokeCount": 14,
-    "meaning": "increase, add, augment, gain, promote",
+    "meaning": "increase, add, augment, gain, promote |(vi) tăng lên, thêm vào, gia tăng, thu được, thăng tiến |(hv) Tăng",
     "kunyomi": [
       "ま.す",
       "ま.し",
@@ -350,59 +350,59 @@
       {
         "example": "増",
         "reading": "ゾウ",
-        "meaning": "increase"
+        "meaning": "increase |(vi) sự tăng lên"
       },
       {
         "example": "増員",
         "reading": "ゾウイン",
-        "meaning": "increasing the number of staff, hiring more people"
+        "meaning": "increasing the number of staff, hiring more people |(vi) tăng số lượng nhân viên, tuyển thêm người"
       },
       {
         "example": "激増",
         "reading": "ゲキゾウ",
-        "meaning": "sharp increase, sudden rise"
+        "meaning": "sharp increase, sudden rise |(vi) tăng mạnh, tăng đột biến"
       },
       {
         "example": "累増",
         "reading": "ルイゾウ",
-        "meaning": "successive or progressive increases, cumulative increase"
+        "meaning": "successive or progressive increases, cumulative increase |(vi) tăng liên tục, tăng lũy tiến"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "増す",
         "reading": "ます",
-        "meaning": "to increase, to grow"
+        "meaning": "to increase, to grow |(vi) tăng lên, lớn lên"
       },
       {
         "example": "益々",
         "reading": "ますます",
-        "meaning": "increasingly, more and more, decreasingly (when declining), less and less"
+        "meaning": "increasingly, more and more, decreasingly (when declining), less and less |(vi) ngày càng nhiều, càng ngày càng, ngày càng ít khi giảm, càng ngày càng ít"
       },
       {
         "example": "増し",
         "reading": "まし",
-        "meaning": "better, preferable, less objectionable, least-worst, more, increase, extra, increase, growth"
+        "meaning": "better, preferable, less objectionable, least-worst, more, increase, extra, increase, growth |(vi) tốt hơn, ưng ý hơn, ít đáng phản đối hơn, đỡ tệ nhất, nhiều hơn, tăng thêm, phần thêm, sự gia tăng, sự phát triển"
       },
       {
         "example": "況して",
         "reading": "まして",
-        "meaning": "still more, to say nothing of, not to mention, still less"
+        "meaning": "still more, to say nothing of, not to mention, still less |(vi) hơn nữa, chưa nói đến, đừng nói tới, càng không"
       },
       {
         "example": "増える",
         "reading": "ふえる",
-        "meaning": "to increase, to multiply"
+        "meaning": "to increase, to multiply |(vi) tăng lên, nhân lên"
       },
       {
         "example": "増やす",
         "reading": "ふやす",
-        "meaning": "to increase, to add to, to augment"
+        "meaning": "to increase, to add to, to augment |(vi) tăng lên, thêm vào, gia tăng"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "土",

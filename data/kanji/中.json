@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "naka",
-    "meaning": "middle, in",
+    "meaning": "middle, in |(vi) giữa, ở trong",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "中国（ちゅうごく）",
         "meaning": {
-          "english": "China"
+          "english": "China |(vi) Trung Quốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "中年（ちゅうねん）",
         "meaning": {
-          "english": "middle-age"
+          "english": "middle-age |(vi) trung niên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "中学校（ちゅうがっこう）",
         "meaning": {
-          "english": "junior high school"
+          "english": "junior high school |(vi) trường trung học cơ sở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "中華料理（ちゅうかりょうり）",
         "meaning": {
-          "english": "Chinese food"
+          "english": "Chinese food |(vi) món ăn Trung Hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "途中（とちゅう）",
         "meaning": {
-          "english": "on the way"
+          "english": "on the way |(vi) trên đường, giữa chừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "工事中（こうじちゅう）",
         "meaning": {
-          "english": "under construction"
+          "english": "under construction |(vi) đang thi công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "中（なか）",
         "meaning": {
-          "english": "inside"
+          "english": "inside |(vi) bên trong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "中村（なかむら）",
         "meaning": {
-          "english": "Nakamura (surname)"
+          "english": "Nakamura (surname) |(vi) Nakamura (họ người)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "中川（なかがわ）",
         "meaning": {
-          "english": "Nakagawa (surname)"
+          "english": "Nakagawa (surname) |(vi) Nakagawa (họ người)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "田中（たなか）",
         "meaning": {
-          "english": "Tanaka (surname)"
+          "english": "Tanaka (surname) |(vi) Tanaka (họ người)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "*体中（からだじゅう）",
         "meaning": {
-          "english": "throughout the body"
+          "english": "throughout the body |(vi) khắp cơ thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "*今年中 に（ことしじゅうに）",
         "meaning": {
-          "english": "within this year"
+          "english": "within this year |(vi) trong năm nay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_l.opus",
@@ -336,7 +336,7 @@
     "kanji": {
       "character": "中",
       "meaning": {
-        "english": "middle, in"
+        "english": "middle, in |(vi) giữa, ở trong"
       },
       "strokes": {
         "count": 4,
@@ -382,7 +382,7 @@
         "romaji": "tatebou"
       },
       "meaning": {
-        "english": "vertical stroke"
+        "english": "vertical stroke |(vi) Cổn (nét sổ thẳng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tatebou0.svg",
@@ -403,7 +403,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "11",
     "strokeCount": 4,
-    "meaning": "in, inside, middle, mean, center",
+    "meaning": "in, inside, middle, mean, center |(vi) trong, bên trong, giữa, trung bình, trung tâm |(hv) Trung",
     "kunyomi": [
       "なか",
       "うち",
@@ -416,69 +416,69 @@
       {
         "example": "中",
         "reading": "チュウ",
-        "meaning": "medium (size), average (grade, level, etc.), middle, in, within, out of (e.g. ten people), among, during, while, in (the course of), within (a period), throughout, currently (doing), in the process of, in the middle of, under (e.g. construction, investigation), middle way, moderation, second volume (of three), junior high school, middle school, China"
+        "meaning": "medium (size), average (grade, level, etc.), middle, in, within, out of (e.g. ten people), among, during, while, in (the course of), within (a period), throughout, currently (doing), in the process of, in the middle of, under (e.g. construction, investigation), middle way, moderation, second volume (of three), junior high school, middle school, China |(vi) cỡ trung bình, hạng trung bình, giữa, trong, trong vòng, trong số (ví dụ mười người), trong lúc, đang, trong (khoảng thời gian), suốt, hiện đang (làm gì), trong quá trình, đang giữa chừng, dưới (ví dụ đang thi công, đang điều tra), trung dung, tập giữa (trong ba tập), trung học cơ sở, Trung Quốc"
       },
       {
         "example": "中尉",
         "reading": "チュウイ",
-        "meaning": "first lieutenant, lieutenant junior grade"
+        "meaning": "first lieutenant, lieutenant junior grade |(vi) trung úy"
       },
       {
         "example": "宮中",
         "reading": "キュウチュウ",
-        "meaning": "imperial court"
+        "meaning": "imperial court |(vi) triều đình, hoàng cung"
       },
       {
         "example": "訪中",
         "reading": "ホウチュウ",
-        "meaning": "visit to China"
+        "meaning": "visit to China |(vi) thăm Trung Quốc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "中",
         "reading": "なか",
-        "meaning": "inside, interior, among, within, middle, center, centre, during, while, middle, midst, amid, interval, gap, mean, average, second (of three, e.g. sons, volumes), middle, medium grade, medium quality, red-light district"
+        "meaning": "inside, interior, among, within, middle, center, centre, during, while, middle, midst, amid, interval, gap, mean, average, second (of three, e.g. sons, volumes), middle, medium grade, medium quality, red-light district |(vi) bên trong, nội bộ, giữa, trong, trung tâm, trong khi, giữa chừng, khoảng cách, trung bình, con thứ hai (trong ba, ví dụ con trai, tập sách), hạng trung, chất lượng trung bình, khu đèn đỏ"
       },
       {
         "example": "中島",
         "reading": "なかじま",
-        "meaning": "island in a pond or river"
+        "meaning": "island in a pond or river |(vi) đảo giữa ao hoặc sông"
       },
       {
         "example": "野中",
         "reading": "のなか",
-        "meaning": "in the middle of a field"
+        "meaning": "in the middle of a field |(vi) giữa cánh đồng"
       },
       {
         "example": "そんな中",
         "reading": "そんななか",
-        "meaning": "wherein, therein, thereinto"
+        "meaning": "wherein, therein, thereinto |(vi) trong đó, ở giữa hoàn cảnh đó"
       },
       {
         "example": "内",
         "reading": "うち",
-        "meaning": "inside, within, while (e.g. one is young), during, within (e.g. a day), in the course of, among, amongst, (out) of, between, in (secret, chaos, poverty, etc.), amidst, with (e.g. success), within oneself, one's feelings, inner thoughts, we, our company, our organization, one's home, one's family, my spouse, my husband, my wife, signed on behalf of (husband's name) by his wife, I, me, imperial palace grounds, emperor"
+        "meaning": "inside, within, while (e.g. one is young), during, within (e.g. a day), in the course of, among, amongst, (out) of, between, in (secret, chaos, poverty, etc.), amidst, with (e.g. success), within oneself, one's feelings, inner thoughts, we, our company, our organization, one's home, one's family, my spouse, my husband, my wife, signed on behalf of (husband's name) by his wife, I, me, imperial palace grounds, emperor |(vi) bên trong, trong khi (còn trẻ), trong lúc, trong vòng (một ngày), trong quá trình, giữa, trong số, trong khoảng giữa, trong (bí mật, hỗn loạn, nghèo khó...), giữa, với (thành công), trong lòng mình, cảm xúc, suy nghĩ nội tâm, chúng tôi, công ty chúng tôi, tổ chức chúng tôi, nhà mình, gia đình mình, chồng tôi, vợ tôi, ký thay (tên chồng) bởi vợ, tôi, khuôn viên hoàng cung, hoàng đế"
       },
       {
         "example": "碁打ち鳥飼い馬鹿の中",
         "reading": "ごうちとりかいばかのうち",
-        "meaning": "go players and bird keepers are idiots (both activities demand a lot of time)"
+        "meaning": "go players and bird keepers are idiots (both activities demand a lot of time) |(vi) người chơi cờ vây và người nuôi chim là kẻ ngốc (cả hai đều tốn rất nhiều thời gian)"
       },
       {
         "example": "此の内",
         "reading": "このうち",
-        "meaning": "meanwhile, the other day, recently"
+        "meaning": "meanwhile, the other day, recently |(vi) trong lúc đó, hôm nọ, gần đây"
       },
       {
         "example": "当たる",
         "reading": "あたる",
-        "meaning": "to be hit, to strike, to touch, to be in contact, to be affixed, to be equivalent to, to be applicable, to apply to, to be right on the money (of a prediction, criticism, etc.), to be selected (in a lottery, etc.), to win, to be successful, to go well, to be a hit, to face, to confront, to lie (in the direction of), to undertake, to be assigned, to be stricken (by food poisoning, heat, etc.), to be afflicted, to be called on (e.g. by a teacher), to treat (esp. harshly), to lash out at, to be unnecessary, to be hitting well, to be on a hitting streak, to feel a bite (in fishing), (of fruit, etc.) to be bruised, to spoil, to feel (something) out, to probe into, to check (i.e. by comparison), to shave, to be a relative of a person, to be a ... in relation to ..., to stand in a relationship"
+        "meaning": "to be hit, to strike, to touch, to be in contact, to be affixed, to be equivalent to, to be applicable, to apply to, to be right on the money (of a prediction, criticism, etc.), to be selected (in a lottery, etc.), to win, to be successful, to go well, to be a hit, to face, to confront, to lie (in the direction of), to undertake, to be assigned, to be stricken (by food poisoning, heat, etc.), to be afflicted, to be called on (e.g. by a teacher), to treat (esp. harshly), to lash out at, to be unnecessary, to be hitting well, to be on a hitting streak, to feel a bite (in fishing), (of fruit, etc.) to be bruised, to spoil, to feel (something) out, to probe into, to check (i.e. by comparison), to shave, to be a relative of a person, to be a ... in relation to ..., to stand in a relationship |(vi) trúng, đánh trúng, chạm vào, tiếp xúc, được gắn vào, tương đương với, có thể áp dụng, áp dụng cho, đúng như dự đoán (dự báo, phê bình...), được chọn (trong xổ số...), thắng, thành công, suôn sẻ, gây tiếng vang, đối mặt, đối diện, nằm theo hướng (nào đó), đảm nhận, được phân công, bị trúng (ngộ độc thực phẩm, say nắng...), bị ảnh hưởng, bị gọi đến (ví dụ bởi giáo viên), đối xử (đặc biệt là khắc nghiệt), mắng nhiếc, không cần thiết, đang đánh tốt, đang trong chuỗi phong độ tốt, cảm nhận cá cắn câu (khi câu cá), (trái cây...) bị bầm, hỏng, dò xét, thăm dò, kiểm tra (bằng cách so sánh), cạo, là người thân của ai đó, là... trong quan hệ với..., có quan hệ họ hàng"
       }
     ],
     "radical": {
       "symbol": "丨",
-      "meaning": "line"
+      "meaning": "line |(vi) Cổn (nét sổ thẳng)"
     },
     "parts": [
       "口",

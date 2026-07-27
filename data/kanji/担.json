@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "katsu, katsugu, nina, ninau",
-    "meaning": "bear on shoulder, undertake",
+    "meaning": "bear on shoulder, undertake |(vi) gánh trên vai, đảm nhận",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "担保（たんぽ）",
         "meaning": {
-          "english": "security deposit"
+          "english": "security deposit |(vi) tiền đặt cọc, vật thế chấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-nina(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "担当する（たんとうする）",
         "meaning": {
-          "english": "be in charge"
+          "english": "be in charge |(vi) phụ trách, đảm nhiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-nina(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "担任する（たんにんする）",
         "meaning": {
-          "english": "be in charge (class)"
+          "english": "be in charge (class) |(vi) làm chủ nhiệm, phụ trách (lớp)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-nina(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "負担する（ふたんする）",
         "meaning": {
-          "english": "bear a burden"
+          "english": "bear a burden |(vi) gánh vác, chịu gánh nặng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-nina(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "分担する（ぶんたんする）",
         "meaning": {
-          "english": "apportion [v.t.]"
+          "english": "apportion [v.t.] |(vi) chia sẻ, phân chia (trách nhiệm)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-nina(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "担ぐ（かつぐ）",
         "meaning": {
-          "english": "carry on one's shoulder"
+          "english": "carry on one's shoulder |(vi) vác trên vai, gánh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-nina(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "担う（になう）",
         "meaning": {
-          "english": "bear to one's shoulder"
+          "english": "bear to one's shoulder |(vi) gánh vác, đảm nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-nina(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "担い手（にないて）",
         "meaning": {
-          "english": "person in charge"
+          "english": "person in charge |(vi) người đảm nhận, người gánh vác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-nina(u)_06_h.opus",
@@ -213,7 +213,7 @@
     "kanji": {
       "character": "担",
       "meaning": {
-        "english": "bear on shoulder, undertake"
+        "english": "bear on shoulder, undertake |(vi) gánh trên vai, đảm nhận"
       },
       "strokes": {
         "count": 8,
@@ -267,7 +267,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (bàn tay, bộ tay đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -288,7 +288,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "422",
     "strokeCount": 8,
-    "meaning": "shouldering, carry, raise, bear",
+    "meaning": "shouldering, carry, raise, bear |(vi) gánh vác, mang, nâng, chịu đựng |(hv) Đảm",
     "kunyomi": [
       "かつ.ぐ",
       "にな.う"
@@ -300,34 +300,34 @@
       {
         "example": "担当者",
         "reading": "タントウシャ",
-        "meaning": "person in charge (of an area of work, etc.), person responsible, contact (person)"
+        "meaning": "person in charge (of an area of work, etc.), person responsible, contact (person) |(vi) người phụ trách, người chịu trách nhiệm"
       },
       {
         "example": "担当",
         "reading": "タントウ",
-        "meaning": "being in charge (of an area of responsibility), being responsible (for a work role, etc.)"
+        "meaning": "being in charge (of an area of responsibility), being responsible (for a work role, etc.) |(vi) sự phụ trách, đảm nhiệm"
       },
       {
         "example": "同担",
         "reading": "ドウタン",
-        "meaning": "someone who supports the same member (of an idol group, etc.) as oneself"
+        "meaning": "someone who supports the same member (of an idol group, etc.) as oneself |(vi) người cùng hâm mộ một thành viên (trong nhóm idol)"
       },
       {
         "example": "自担",
         "reading": "ジタン",
-        "meaning": "one's favourite member of an idol group"
+        "meaning": "one's favourite member of an idol group |(vi) thành viên yêu thích của bản thân (trong nhóm idol)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "担ぐ",
         "reading": "かつぐ",
-        "meaning": "to shoulder, to carry on one's shoulder, to nominate for a position, to choose as a representative, to take (someone) for a ride, to deceive, to take in, to be caught up in superstition"
+        "meaning": "to shoulder, to carry on one's shoulder, to nominate for a position, to choose as a representative, to take (someone) for a ride, to deceive, to take in, to be caught up in superstition |(vi) vác lên vai, đề cử, chọn làm đại diện, lừa gạt, bị mê tín"
       },
       {
         "example": "担う",
         "reading": "になう",
-        "meaning": "to carry on one's shoulder, to shoulder, to bear, to bear (a burden, responsibility, etc.), to take upon oneself"
+        "meaning": "to carry on one's shoulder, to shoulder, to bear, to bear (a burden, responsibility, etc.), to take upon oneself |(vi) gánh vác, đảm nhận (trách nhiệm)"
       }
     ],
     "radical": {
@@ -335,7 +335,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (bàn tay)"
     },
     "parts": [
       "一",

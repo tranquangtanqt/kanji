@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "family,tribe",
+    "meaning": "family,tribe |(vi) gia đình, bộ tộc",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "家族（かぞく）",
         "meaning": {
-          "english": "family"
+          "english": "family |(vi) gia đình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ka)zoku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "民族（みんぞく）",
         "meaning": {
-          "english": "race, nation"
+          "english": "race, nation |(vi) dân tộc, chủng tộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ka)zoku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "水族館（すいぞくかん）",
         "meaning": {
-          "english": "aquarium"
+          "english": "aquarium |(vi) thủy cung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ka)zoku_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "遺族（いぞく）",
         "meaning": {
-          "english": "bereaved family"
+          "english": "bereaved family |(vi) gia đình người đã khuất, thân nhân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ka)zoku_06_d.opus",
@@ -205,7 +205,7 @@
     "kanji": {
       "character": "族",
       "meaning": {
-        "english": "family,tribe"
+        "english": "family,tribe |(vi) gia đình, bộ tộc"
       },
       "strokes": {
         "count": 11,
@@ -265,7 +265,7 @@
         "romaji": "houhen"
       },
       "meaning": {
-        "english": "direction, flag"
+        "english": "direction, flag |(vi) phương hướng, lá cờ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/houhen0.svg",
@@ -286,7 +286,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "393",
     "strokeCount": 11,
-    "meaning": "tribe, family",
+    "meaning": "tribe, family |(vi) bộ tộc, gia đình |(hv) Tộc",
     "kunyomi": [],
     "onyomi": [
       "ゾク"
@@ -295,28 +295,28 @@
       {
         "example": "族",
         "reading": "ゾク",
-        "meaning": "tribe, clan, band, family, (taxonomical) tribe, group (of the periodic table)"
+        "meaning": "tribe, clan, band, family, (taxonomical) tribe, group (of the periodic table) |(vi) bộ tộc, thị tộc, băng nhóm, gia đình, tông (phân loại sinh học), nhóm (bảng tuần hoàn)"
       },
       {
         "example": "族長",
         "reading": "ゾクチョウ",
-        "meaning": "patriarch, head of a family"
+        "meaning": "patriarch, head of a family |(vi) tộc trưởng, người đứng đầu gia tộc"
       },
       {
         "example": "皇族",
         "reading": "コウゾク",
-        "meaning": "imperial family, royalty"
+        "meaning": "imperial family, royalty |(vi) hoàng tộc, hoàng gia"
       },
       {
         "example": "王族",
         "reading": "オウゾク",
-        "meaning": "royalty, royal family"
+        "meaning": "royalty, royal family |(vi) hoàng tộc, vương tộc"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "方",
-      "meaning": "square"
+      "meaning": "square |(vi) Phương (vuông, hướng)"
     },
     "parts": [
       "乞",

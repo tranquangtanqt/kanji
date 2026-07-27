@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 50,
     "kunyomi": "ki, tsu, kiru, kiseru, tsuku",
-    "meaning": "put on, arrive, stick",
+    "meaning": "put on, arrive, stick |(vi) mặc vào, đến nơi, dính",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "到着する（とうちゃくする）",
         "meaning": {
-          "english": "arrive"
+          "english": "arrive |(vi) đến nơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chaku-ki(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "着席する（ちゃくせきする）",
         "meaning": {
-          "english": "be seated"
+          "english": "be seated |(vi) ngồi vào chỗ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chaku-ki(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "着実な（ちゃくじつな）",
         "meaning": {
-          "english": "steady"
+          "english": "steady |(vi) vững chắc, chắc chắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chaku-ki(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "着る（きる）",
         "meaning": {
-          "english": "wear [v.i.]"
+          "english": "wear [v.i.] |(vi) mặc (v.i.)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chaku-ki(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "着せる（きせる）",
         "meaning": {
-          "english": "dress someone [v.t.]"
+          "english": "dress someone [v.t.] |(vi) mặc cho ai đó (v.t.)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chaku-ki(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "着物（きもの）",
         "meaning": {
-          "english": "kimono"
+          "english": "kimono |(vi) kimono"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chaku-ki(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "着替える（きがえる）",
         "meaning": {
-          "english": "change one's clothes"
+          "english": "change one's clothes |(vi) thay quần áo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chaku-ki(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "上着（うわぎ）",
         "meaning": {
-          "english": "jacket"
+          "english": "jacket |(vi) áo khoác ngoài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chaku-ki(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "水着（みずぎ）",
         "meaning": {
-          "english": "bathing suit"
+          "english": "bathing suit |(vi) đồ bơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chaku-ki(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "着く（つく）",
         "meaning": {
-          "english": "arrive"
+          "english": "arrive |(vi) đến nơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chaku-ki(ru)_06_j.opus",
@@ -297,7 +297,7 @@
     "kanji": {
       "character": "着",
       "meaning": {
-        "english": "put on, arrive, stick"
+        "english": "put on, arrive, stick |(vi) mặc vào, đến nơi, dính"
       },
       "strokes": {
         "count": 12,
@@ -359,7 +359,7 @@
         "romaji": "me"
       },
       "meaning": {
-        "english": "eye"
+        "english": "eye |(vi) Mục (mắt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/me0.svg",
@@ -380,7 +380,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "376",
     "strokeCount": 12,
-    "meaning": "don, arrive, wear, counter for suits of clothing",
+    "meaning": "don, arrive, wear, counter for suits of clothing |(vi) mặc vào, đến nơi, mặc, lượng từ đếm bộ quần áo |(hv) Trước",
     "kunyomi": [
       "き.る",
       "き.せる",
@@ -395,69 +395,69 @@
       {
         "example": "着",
         "reading": "チャク",
-        "meaning": "arrival, arriving at ..., counter for items or suits of clothing, nth place (in a race), counter for moves"
+        "meaning": "arrival, arriving at ..., counter for items or suits of clothing, nth place (in a race), counter for moves |(vi) sự đến, đến tại..., lượng từ đếm bộ quần áo, thứ hạng (trong cuộc đua), lượng từ đếm nước đi"
       },
       {
         "example": "着衣",
         "reading": "チャクイ",
-        "meaning": "clothes (that one is wearing), wearing clothes"
+        "meaning": "clothes (that one is wearing), wearing clothes |(vi) quần áo đang mặc, việc mặc quần áo"
       },
       {
         "example": "決着",
         "reading": "ケッチャク",
-        "meaning": "conclusion, decision, end, settlement"
+        "meaning": "conclusion, decision, end, settlement |(vi) kết luận, quyết định, kết thúc, giải quyết xong"
       },
       {
         "example": "装着",
         "reading": "ソウチャク",
-        "meaning": "equipping, installing, fitting, mounting, putting on"
+        "meaning": "equipping, installing, fitting, mounting, putting on |(vi) trang bị, lắp đặt, gắn vào, mang vào"
       },
       {
         "example": "着す",
         "reading": "ジャクス",
-        "meaning": "to insist on, to cling to, to adhere to"
+        "meaning": "to insist on, to cling to, to adhere to |(vi) khăng khăng giữ, bám víu, cố chấp theo"
       },
       {
         "example": "愛着",
         "reading": "アイジャク",
-        "meaning": "attachment, love, affection, fondness, addiction, craving"
+        "meaning": "attachment, love, affection, fondness, addiction, craving |(vi) sự gắn bó, tình yêu, tình cảm, sự yêu thích, nghiện, khao khát"
       },
       {
         "example": "頓着",
         "reading": "トンチャク",
-        "meaning": "being concerned about or mindful of"
+        "meaning": "being concerned about or mindful of |(vi) sự quan tâm, để tâm đến"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "着る",
         "reading": "きる",
-        "meaning": "to wear (from the shoulders down), to put on, to take (the blame, responsibility), to bear"
+        "meaning": "to wear (from the shoulders down), to put on, to take (the blame, responsibility), to bear |(vi) mặc (từ vai trở xuống), khoác lên, nhận lấy (trách nhiệm, lỗi lầm), gánh chịu"
       },
       {
         "example": "着類",
         "reading": "きるい",
-        "meaning": "clothing"
+        "meaning": "clothing |(vi) quần áo"
       },
       {
         "example": "着せる",
         "reading": "きせる",
-        "meaning": "to put clothes on (someone), to dress, to clothe, to cover, to coat, to plate, to gild, to veneer, to pin (e.g. a crime on someone), to lay (blame), to charge (with an offence), to give (a bad name), to remind someone of (their indebtedness)"
+        "meaning": "to put clothes on (someone), to dress, to clothe, to cover, to coat, to plate, to gild, to veneer, to pin (e.g. a crime on someone), to lay (blame), to charge (with an offence), to give (a bad name), to remind someone of (their indebtedness) |(vi) mặc quần áo cho (ai đó), khoác cho, phủ lên, tráng, mạ, dán veneer, đổ tội (cho ai), quy trách nhiệm, buộc tội, gán cho (tiếng xấu), nhắc nhở ai về ơn nghĩa"
       },
       {
         "example": "着く",
         "reading": "つく",
-        "meaning": "to arrive at, to reach, to sit on, to sit at (e.g. the table)"
+        "meaning": "to arrive at, to reach, to sit on, to sit at (e.g. the table) |(vi) đến nơi, tới nơi, ngồi vào, ngồi tại (vd bàn ăn)"
       },
       {
         "example": "付ける",
         "reading": "つける",
-        "meaning": "to attach, to join, to connect, to add, to append, to affix, to stick, to glue, to fasten, to sew on, to apply (ointment), to put against, to furnish (a house with), to wear, to put on, to keep a diary, to make an entry, to appraise, to set (a price), to allot, to budget, to assign, to bring alongside, to place (under guard or doctor), to follow (someone), to shadow, to tail, to stalk, to load, to give (courage to), to keep (an eye on), to establish (relations or understanding), to turn on (a light), to produce flowers (of a plant), to produce fruit, to do intensely, to do fiercely, to do strongly, to be used to (doing), to be accustomed to"
+        "meaning": "to attach, to join, to connect, to add, to append, to affix, to stick, to glue, to fasten, to sew on, to apply (ointment), to put against, to furnish (a house with), to wear, to put on, to keep a diary, to make an entry, to appraise, to set (a price), to allot, to budget, to assign, to bring alongside, to place (under guard or doctor), to follow (someone), to shadow, to tail, to stalk, to load, to give (courage to), to keep (an eye on), to establish (relations or understanding), to turn on (a light), to produce flowers (of a plant), to produce fruit, to do intensely, to do fiercely, to do strongly, to be used to (doing), to be accustomed to |(vi) gắn vào, nối, kết nối, thêm vào, đính kèm, dán, dính, buộc chặt, khâu vào, bôi (thuốc mỡ), áp vào, trang bị (cho nhà), mặc, khoác, ghi nhật ký, ghi chép, định giá, ấn định (giá), phân bổ, dự trù, đặt bên cạnh, giao (cho người canh gác hay bác sĩ), bám theo (ai đó), theo dõi, chở, truyền (can đảm cho), để mắt tới, thiết lập (quan hệ), bật (đèn), ra hoa, kết trái, làm mạnh mẽ, quen với (việc gì)"
       }
     ],
     "radical": {
       "symbol": "目",
-      "meaning": "eye"
+      "meaning": "eye |(vi) Mục (mắt)"
     },
     "parts": [
       "ノ",

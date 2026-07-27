@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "tsuzu, tsuzuku, tsuzukeru, tsuzuki",
-    "meaning": "continue",
+    "meaning": "continue |(vi) tiếp tục",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "継続する（けいぞくする）",
         "meaning": {
-          "english": "continue"
+          "english": "continue |(vi) tiếp tục, kéo dài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuzu(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "連続する（れんぞくする）",
         "meaning": {
-          "english": "occur in succession"
+          "english": "occur in succession |(vi) liên tục xảy ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuzu(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "接続する（せつぞくする）",
         "meaning": {
-          "english": "connect"
+          "english": "connect |(vi) kết nối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuzu(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "続出する（ぞくしゅつする）",
         "meaning": {
-          "english": "appear one after another"
+          "english": "appear one after another |(vi) xuất hiện liên tiếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuzu(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "続く（つづく）",
         "meaning": {
-          "english": "continue [v.i.]"
+          "english": "continue [v.i.] |(vi) tiếp diễn, kéo dài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuzu(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "続ける（つづける）",
         "meaning": {
-          "english": "continue [v.t.]"
+          "english": "continue [v.t.] |(vi) tiếp tục (làm gì)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuzu(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "手続き（てつづき）",
         "meaning": {
-          "english": "formalities, procedure"
+          "english": "formalities, procedure |(vi) thủ tục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuzu(ku)_06_g.opus",
@@ -260,7 +260,7 @@
     "kanji": {
       "character": "続",
       "meaning": {
-        "english": "continue"
+        "english": "continue |(vi) tiếp tục"
       },
       "strokes": {
         "count": 13,
@@ -324,7 +324,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) sợi chỉ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -345,7 +345,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "141",
     "strokeCount": 13,
-    "meaning": "continue, series, sequel",
+    "meaning": "continue, series, sequel |(vi) tiếp tục, chuỗi, phần tiếp theo |(hv) Tục",
     "kunyomi": [
       "つづ.く",
       "つづ.ける",
@@ -361,44 +361,44 @@
       {
         "example": "続",
         "reading": "ゾク",
-        "meaning": "sequel, second series"
+        "meaning": "sequel, second series |(vi) phần tiếp theo, tập sau"
       },
       {
         "example": "続出",
         "reading": "ゾクシュツ",
-        "meaning": "appearing one after another, cropping up one after another, occurring in succession"
+        "meaning": "appearing one after another, cropping up one after another, occurring in succession |(vi) xuất hiện liên tiếp, xảy ra liên tục"
       },
       {
         "example": "断続",
         "reading": "ダンゾク",
-        "meaning": "intermittence, being intermittent, occurring intermittently"
+        "meaning": "intermittence, being intermittent, occurring intermittently |(vi) gián đoạn, ngắt quãng, xảy ra không liên tục"
       },
       {
         "example": "持続",
         "reading": "ジゾク",
-        "meaning": "continuation, persisting, lasting, sustaining, enduring"
+        "meaning": "continuation, persisting, lasting, sustaining, enduring |(vi) duy trì, kéo dài, bền vững"
       },
       {
         "example": "続",
         "reading": "ゾク",
-        "meaning": "sequel, second series"
+        "meaning": "sequel, second series |(vi) phần tiếp theo, tập sau"
       },
       {
         "example": "続日本紀",
         "reading": "ショクニホンギ",
-        "meaning": "Shoku Nihongi (second of the six classical Japanese history texts)"
+        "meaning": "Shoku Nihongi (second of the six classical Japanese history texts) |(vi) Tục Nhật Bản kỷ (bộ sử thứ hai trong sáu bộ chính sử Nhật Bản cổ điển)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "続く",
         "reading": "つづく",
-        "meaning": "to continue, to last, to go on, to continue (without a break), to be unbroken, to occur again and again, to lead to, to connect to, to adjoin, to come after, to follow, to succeed, to rank next to, to hold out, to keep, to last"
+        "meaning": "to continue, to last, to go on, to continue (without a break), to be unbroken, to occur again and again, to lead to, to connect to, to adjoin, to come after, to follow, to succeed, to rank next to, to hold out, to keep, to last |(vi) tiếp tục, kéo dài, tiếp diễn (không ngắt quãng), liên tục, xảy ra lặp đi lặp lại, dẫn đến, kết nối với, tiếp giáp, theo sau, kế tiếp, xếp hạng ngay sau, cầm cự, duy trì"
       },
       {
         "example": "続ける",
         "reading": "つづける",
-        "meaning": "to continue, to keep up, to keep on"
+        "meaning": "to continue, to keep up, to keep on |(vi) tiếp tục, duy trì"
       }
     ],
     "radical": {
@@ -406,7 +406,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi)"
     },
     "parts": [
       "儿",

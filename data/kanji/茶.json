@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "tea",
+    "meaning": "tea |(vi) trà, chè",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "紅茶（こうちゃ）",
         "meaning": {
-          "english": "black tea"
+          "english": "black tea |(vi) hồng trà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cha_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "緑茶（りょくちゃ）",
         "meaning": {
-          "english": "green tea"
+          "english": "green tea |(vi) trà xanh, lục trà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cha_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "茶色（ちゃいろ）",
         "meaning": {
-          "english": "brown"
+          "english": "brown |(vi) màu nâu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cha_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "お茶（おちゃ）",
         "meaning": {
-          "english": "tea"
+          "english": "tea |(vi) trà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cha_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "茶の湯（ちゃのゆ）",
         "meaning": {
-          "english": "tea ceremony"
+          "english": "tea ceremony |(vi) trà đạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cha_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "喫茶店（きっさてん）",
         "meaning": {
-          "english": "coffee shop"
+          "english": "coffee shop |(vi) quán cà phê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cha_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "茶道（さどう）",
         "meaning": {
-          "english": "Way of Tea"
+          "english": "Way of Tea |(vi) trà đạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cha_06_g.opus",
@@ -229,7 +229,7 @@
     "kanji": {
       "character": "茶",
       "meaning": {
-        "english": "tea"
+        "english": "tea |(vi) trà, chè"
       },
       "strokes": {
         "count": 9,
@@ -285,7 +285,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -306,7 +306,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1116",
     "strokeCount": 9,
-    "meaning": "tea",
+    "meaning": "tea |(vi) trà, chè |(hv) Trà",
     "kunyomi": [],
     "onyomi": [
       "チャ",
@@ -316,42 +316,42 @@
       {
         "example": "茶",
         "reading": "チャ",
-        "meaning": "tea, tea plant (Camellia sinensis), tea preparation, making tea, brown, mockery"
+        "meaning": "tea, tea plant (Camellia sinensis), tea preparation, making tea, brown, mockery |(vi) trà, cây trà, pha trà, màu nâu, sự chế giễu"
       },
       {
         "example": "茶色",
         "reading": "チャイロ",
-        "meaning": "brown, light brown, tawny"
+        "meaning": "brown, light brown, tawny |(vi) màu nâu, nâu nhạt"
       },
       {
         "example": "煎茶",
         "reading": "センチャ",
-        "meaning": "green tea, green leaf tea, non-powdered tea (as opposed to matcha), medium-grade green tea"
+        "meaning": "green tea, green leaf tea, non-powdered tea (as opposed to matcha), medium-grade green tea |(vi) trà xanh (sencha), trà lá không nghiền, trà xanh loại trung bình"
       },
       {
         "example": "抹茶",
         "reading": "マッチャ",
-        "meaning": "matcha, powdered green tea"
+        "meaning": "matcha, powdered green tea |(vi) trà bột matcha"
       },
       {
         "example": "茶道",
         "reading": "サドウ",
-        "meaning": "tea ceremony, Way of Tea, sadō"
+        "meaning": "tea ceremony, Way of Tea, sadō |(vi) trà đạo"
       },
       {
         "example": "茶店",
         "reading": "サテン",
-        "meaning": "tea house"
+        "meaning": "tea house |(vi) quán trà"
       },
       {
         "example": "喫茶",
         "reading": "キッサ",
-        "meaning": "tea drinking, teahouse, tearoom, coffee lounge, coffee shop, (rather formal) cafe"
+        "meaning": "tea drinking, teahouse, tearoom, coffee lounge, coffee shop, (rather formal) cafe |(vi) uống trà, quán trà, quán cà phê"
       },
       {
         "example": "歌声喫茶",
         "reading": "ウタゴエキッサ",
-        "meaning": "utagoe coffeehouse, sing-along tearoom, coffee shop in which customers can sing in chorus accompanied by a band"
+        "meaning": "utagoe coffeehouse, sing-along tearoom, coffee shop in which customers can sing in chorus accompanied by a band |(vi) quán cà phê hát tập thể (có ban nhạc đệm)"
       }
     ],
     "kunyomiExamples": [],
@@ -360,7 +360,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "个",

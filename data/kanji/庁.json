@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "government agency",
+    "meaning": "government agency |(vi) cơ quan chính phủ",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "庁舎（ちょうしゃ）",
         "meaning": {
-          "english": "government office building"
+          "english": "government office building |(vi) tòa nhà cơ quan chính phủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(keishi)chou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "官庁（かんちょう）",
         "meaning": {
-          "english": "government office"
+          "english": "government office |(vi) cơ quan chính phủ, công sở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(keishi)chou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "都庁（とちょう）",
         "meaning": {
-          "english": "Tokyo Metropolitan area office"
+          "english": "Tokyo Metropolitan area office |(vi) trụ sở chính quyền đô Tokyo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(keishi)chou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "県庁（けんちょう）",
         "meaning": {
-          "english": "prefectural office"
+          "english": "prefectural office |(vi) trụ sở tỉnh (huyện)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(keishi)chou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "警視庁（けいしちょう）",
         "meaning": {
-          "english": "police headquarters"
+          "english": "police headquarters |(vi) sở cảnh sát (Tokyo)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(keishi)chou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "環境庁（かんきょうちょう）",
         "meaning": {
-          "english": "the Department of Environment"
+          "english": "the Department of Environment |(vi) Cục Môi trường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(keishi)chou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "気象庁（きしょうちょう）",
         "meaning": {
-          "english": "the Department of Meteorology"
+          "english": "the Department of Meteorology |(vi) Cục Khí tượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(keishi)chou_06_g.opus",
@@ -177,7 +177,7 @@
     "kanji": {
       "character": "庁",
       "meaning": {
-        "english": "government agency"
+        "english": "government agency |(vi) cơ quan chính phủ"
       },
       "strokes": {
         "count": 5,
@@ -225,7 +225,7 @@
         "romaji": "madare"
       },
       "meaning": {
-        "english": "slanting roof"
+        "english": "slanting roof |(vi) Nghiễm (mái nhà dốc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/madare0.svg",
@@ -246,7 +246,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "793",
     "strokeCount": 5,
-    "meaning": "government office",
+    "meaning": "government office |(vi) cơ quan chính phủ, công sở |(hv) Sảnh",
     "kunyomi": [
       "やくしょ"
     ],
@@ -258,28 +258,28 @@
       {
         "example": "庁",
         "reading": "チョウ",
-        "meaning": "government office, agency, board"
+        "meaning": "government office, agency, board |(vi) cơ quan chính phủ, cục, ủy ban"
       },
       {
         "example": "庁舎",
         "reading": "チョウシャ",
-        "meaning": "government office building"
+        "meaning": "government office building |(vi) tòa nhà cơ quan chính phủ"
       },
       {
         "example": "国税庁",
         "reading": "コクゼイチョウ",
-        "meaning": "National Tax Agency (Japan), national taxation agency (e.g. IRS)"
+        "meaning": "National Tax Agency (Japan), national taxation agency (e.g. IRS) |(vi) Cục Thuế Quốc gia (Nhật Bản), cơ quan thuế quốc gia"
       },
       {
         "example": "政庁",
         "reading": "セイチョウ",
-        "meaning": "government office"
+        "meaning": "government office |(vi) cơ quan hành chính, phủ (chính quyền)"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "广",
-      "meaning": "house on cliff"
+      "meaning": "house on cliff |(vi) Nghiễm (mái nhà dốc, chái nhà)"
     },
     "parts": [
       "一",

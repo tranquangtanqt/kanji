@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 2,
     "kunyomi": "sagu, saga, saguru, sagasu",
-    "meaning": "probe, search",
+    "meaning": "probe, search |(vi) thăm dò, tìm kiếm",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "探究する（たんきゅうする）",
         "meaning": {
-          "english": "research"
+          "english": "research |(vi) nghiên cứu, tìm hiểu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-saga(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "探検する（たんけんする）",
         "meaning": {
-          "english": "explore"
+          "english": "explore |(vi) thám hiểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-saga(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "探る（さぐる）",
         "meaning": {
-          "english": "search"
+          "english": "search |(vi) dò tìm, thăm dò"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-saga(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "探す（さがす）",
         "meaning": {
-          "english": "look for"
+          "english": "look for |(vi) tìm kiếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-saga(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "職探し（しょくさがし）",
         "meaning": {
-          "english": "job hunting"
+          "english": "job hunting |(vi) tìm việc làm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-saga(su)_06_e.opus",
@@ -177,7 +177,7 @@
     "kanji": {
       "character": "探",
       "meaning": {
-        "english": "probe, search"
+        "english": "probe, search |(vi) thăm dò, tìm kiếm"
       },
       "strokes": {
         "count": 11,
@@ -237,7 +237,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (bàn tay, bộ tay đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -258,7 +258,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "930",
     "strokeCount": 11,
-    "meaning": "grope, search, look for",
+    "meaning": "grope, search, look for |(vi) sờ soạng, dò tìm, tìm kiếm |(hv) Thám",
     "kunyomi": [
       "さぐ.る",
       "さが.す"
@@ -270,34 +270,34 @@
       {
         "example": "探検",
         "reading": "タンケン",
-        "meaning": "exploration, expedition"
+        "meaning": "exploration, expedition |(vi) sự thám hiểm, cuộc thám hiểm"
       },
       {
         "example": "探求",
         "reading": "タンキュウ",
-        "meaning": "search, quest, pursuit"
+        "meaning": "search, quest, pursuit |(vi) sự tìm kiếm, truy tìm"
       },
       {
         "example": "内探",
         "reading": "ナイタン",
-        "meaning": "private inquiry, private enquiry, secret investigation"
+        "meaning": "private inquiry, private enquiry, secret investigation |(vi) điều tra bí mật, dò xét ngầm"
       },
       {
         "example": "独探",
         "reading": "ドクタン",
-        "meaning": "German spy"
+        "meaning": "German spy |(vi) gián điệp Đức"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "探る",
         "reading": "さぐる",
-        "meaning": "to feel around for, to fumble for, to grope for, to search for, to look for, to investigate, to probe into, to spy on, to sound out, to explore (parts unknown), to enjoy (natural beauty)"
+        "meaning": "to feel around for, to fumble for, to grope for, to search for, to look for, to investigate, to probe into, to spy on, to sound out, to explore (parts unknown), to enjoy (natural beauty) |(vi) sờ soạng, dò tìm, điều tra, thăm dò, do thám, khám phá (nơi chưa biết), thưởng ngoạn (cảnh đẹp)"
       },
       {
         "example": "探す",
         "reading": "さがす",
-        "meaning": "to search for, to look for, to hunt for, to seek, to search (a house, pocket, etc.), to search through, to rummage in (e.g. a drawer), to fish around"
+        "meaning": "to search for, to look for, to hunt for, to seek, to search (a house, pocket, etc.), to search through, to rummage in (e.g. a drawer), to fish around |(vi) tìm kiếm, lùng tìm, lục soát, moi tìm"
       }
     ],
     "radical": {
@@ -305,7 +305,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (bàn tay)"
     },
     "parts": [
       "儿",

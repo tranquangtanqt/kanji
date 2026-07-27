@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "tachi",
-    "meaning": "attain, suffix for plural",
+    "meaning": "attain, suffix for plural |(vi) đạt được, hậu tố chỉ số nhiều",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "到達する（とうたつする）",
         "meaning": {
-          "english": "reach, arrive"
+          "english": "reach, arrive |(vi) đến nơi, đạt tới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tatsu-tachi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "発達する（はったつする）",
         "meaning": {
-          "english": "develop"
+          "english": "develop |(vi) phát triển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tatsu-tachi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "調達する（ちょうたつする）",
         "meaning": {
-          "english": "supply"
+          "english": "supply |(vi) cung ứng, thu xếp (nguồn hàng, vốn)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tatsu-tachi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "配達する（はいたつする）",
         "meaning": {
-          "english": "deliver"
+          "english": "deliver |(vi) giao hàng, phân phát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tatsu-tachi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "速達（そくたつ）",
         "meaning": {
-          "english": "express delivery"
+          "english": "express delivery |(vi) chuyển phát nhanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tatsu-tachi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "達する（たっする）",
         "meaning": {
-          "english": "reach"
+          "english": "reach |(vi) đạt đến, đạt tới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tatsu-tachi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "私達（わたしたち）",
         "meaning": {
-          "english": "we"
+          "english": "we |(vi) chúng tôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tatsu-tachi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "子供達（こどもたち）",
         "meaning": {
-          "english": "children"
+          "english": "children |(vi) trẻ em, các em nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tatsu-tachi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "友達（ともだち）",
         "meaning": {
-          "english": "friends"
+          "english": "friends |(vi) bạn bè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tatsu-tachi_06_i.opus",
@@ -270,7 +270,7 @@
     "kanji": {
       "character": "達",
       "meaning": {
-        "english": "attain, suffix for plural"
+        "english": "attain, suffix for plural |(vi) đạt được, hậu tố chỉ số nhiều"
       },
       "strokes": {
         "count": 12,
@@ -332,7 +332,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đường đi, bước đi, tiến tới)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -353,7 +353,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "500",
     "strokeCount": 12,
-    "meaning": "accomplished, reach, arrive, attain",
+    "meaning": "accomplished, reach, arrive, attain |(vi) hoàn thành, đến nơi, đạt tới, đạt được |(hv) Đạt",
     "kunyomi": [
       "-たち"
     ],
@@ -365,42 +365,42 @@
       {
         "example": "達人",
         "reading": "タツジン",
-        "meaning": "master, expert"
+        "meaning": "master, expert |(vi) bậc thầy, chuyên gia, cao thủ"
       },
       {
         "example": "達意",
         "reading": "タツイ",
-        "meaning": "lucidity, intelligibility, perspicuity"
+        "meaning": "lucidity, intelligibility, perspicuity |(vi) sự rõ ràng, dễ hiểu, minh bạch (ý tứ)"
       },
       {
         "example": "通達",
         "reading": "ツウタツ",
-        "meaning": "notification, official notice, directive (e.g. from higher to lower levels of the administration), being well versed (in), being proficient (in)"
+        "meaning": "notification, official notice, directive (e.g. from higher to lower levels of the administration), being well versed (in), being proficient (in) |(vi) thông báo, chỉ thị (hành chính), thông thạo, tinh thông"
       },
       {
         "example": "御用達",
         "reading": "ゴヨウタシ",
-        "meaning": "purveyor (to the Imperial Household, etc.), company (or restaurant, place, etc.) that caters to or is popular with a specific clientele"
+        "meaning": "purveyor (to the Imperial Household, etc.), company (or restaurant, place, etc.) that caters to or is popular with a specific clientele |(vi) nhà cung cấp (cho hoàng gia), cửa hàng quen thuộc/nổi tiếng phục vụ khách quen"
       },
       {
         "example": "達",
         "reading": "ダチ",
-        "meaning": "friend"
+        "meaning": "friend |(vi) bạn bè"
       },
       {
         "example": "達頼喇嘛",
         "reading": "ダライラマ",
-        "meaning": "Dalai Lama"
+        "meaning": "Dalai Lama |(vi) Đạt Lai Lạt Ma"
       },
       {
         "example": "重炭酸曹達",
         "reading": "ジュウタンサンソウダ",
-        "meaning": "sodium bicarbonate, baking soda"
+        "meaning": "sodium bicarbonate, baking soda |(vi) natri bicacbonat, muối nở"
       },
       {
         "example": "重炭酸ソーダ",
         "reading": "ジュウタンサンソーダ",
-        "meaning": "baking soda, sodium bicarbonate"
+        "meaning": "baking soda, sodium bicarbonate |(vi) muối nở, natri bicacbonat"
       }
     ],
     "kunyomiExamples": [],
@@ -411,7 +411,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, chợt đi chợt dừng)"
     },
     "parts": [
       "土",

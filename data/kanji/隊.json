@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "party, squad, unit",
+    "meaning": "party, squad, unit |(vi) nhóm, đội, đơn vị",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "隊（たい）",
         "meaning": {
-          "english": "party, company, body, corps"
+          "english": "party, company, body, corps |(vi) đội, đoàn, binh đoàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gun)tai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "隊員（たいいん）",
         "meaning": {
-          "english": "group members"
+          "english": "group members |(vi) thành viên đội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gun)tai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "隊長（たいちょう）",
         "meaning": {
-          "english": "commanding officer"
+          "english": "commanding officer |(vi) đội trưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gun)tai_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "楽隊（がくたい）",
         "meaning": {
-          "english": "band, orchestra"
+          "english": "band, orchestra |(vi) ban nhạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gun)tai_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "軍隊（ぐんたい）",
         "meaning": {
-          "english": "army, troops"
+          "english": "army, troops |(vi) quân đội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gun)tai_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "兵隊（へいたい）",
         "meaning": {
-          "english": "soldier, sailor"
+          "english": "soldier, sailor |(vi) binh lính, thủy thủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gun)tai_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "自衛隊（じえいたい）",
         "meaning": {
-          "english": "self-defense force"
+          "english": "self-defense force |(vi) lực lượng phòng vệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gun)tai_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "デモ隊（デモたい）",
         "meaning": {
-          "english": "group of demonstrators"
+          "english": "group of demonstrators |(vi) đoàn người biểu tình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gun)tai_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "捜査隊（そうさたい）",
         "meaning": {
-          "english": "investigative team"
+          "english": "investigative team |(vi) đội điều tra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gun)tai_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "警官隊（けいかんたい）",
         "meaning": {
-          "english": "police force"
+          "english": "police force |(vi) lực lượng cảnh sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gun)tai_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "探検隊（たんけんたい）",
         "meaning": {
-          "english": "exploration party"
+          "english": "exploration party |(vi) đoàn thám hiểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gun)tai_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "入隊する（にゅうたいする）",
         "meaning": {
-          "english": "enlist [v.i.]"
+          "english": "enlist [v.i.] |(vi) nhập ngũ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gun)tai_06_l.opus",
@@ -234,7 +234,7 @@
     "kanji": {
       "character": "隊",
       "meaning": {
-        "english": "party, squad, unit"
+        "english": "party, squad, unit |(vi) nhóm, đội, đơn vị"
       },
       "strokes": {
         "count": 12,
@@ -296,7 +296,7 @@
         "romaji": "kozatohen"
       },
       "meaning": {
-        "english": "hill, mound"
+        "english": "hill, mound |(vi) đồi, gò đất"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kozatohen0.svg",
@@ -317,7 +317,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "605",
     "strokeCount": 12,
-    "meaning": "regiment, party, company, squad",
+    "meaning": "regiment, party, company, squad |(vi) trung đoàn, nhóm, đoàn, đội |(hv) Đội",
     "kunyomi": [],
     "onyomi": [
       "タイ"
@@ -326,22 +326,22 @@
       {
         "example": "隊",
         "reading": "タイ",
-        "meaning": "party, group, crew, team, body, company (of troops), corps, unit, squad"
+        "meaning": "party, group, crew, team, body, company (of troops), corps, unit, squad |(vi) nhóm, đoàn, kíp, đội, binh đoàn, đơn vị"
       },
       {
         "example": "隊員",
         "reading": "タイイン",
-        "meaning": "troops, group members, team members"
+        "meaning": "troops, group members, team members |(vi) quân lính, thành viên nhóm, thành viên đội"
       },
       {
         "example": "陸上自衛隊",
         "reading": "リクジョウジエイタイ",
-        "meaning": "Japan Ground Self-Defense Force, JGSDF"
+        "meaning": "Japan Ground Self-Defense Force, JGSDF |(vi) Lực lượng Phòng vệ Mặt đất Nhật Bản"
       },
       {
         "example": "航空自衛隊",
         "reading": "コウクウジエイタイ",
-        "meaning": "Japan Air Self-Defense Force, JASDF"
+        "meaning": "Japan Air Self-Defense Force, JASDF |(vi) Lực lượng Phòng vệ Trên không Nhật Bản"
       }
     ],
     "kunyomiExamples": [],
@@ -350,7 +350,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "mound, dam (阝 left)"
+      "meaning": "mound, dam (阝 left) |(vi) Phụ (gò đất, đê)"
     },
     "parts": [
       "并",

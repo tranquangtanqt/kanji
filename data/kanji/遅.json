@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "oku, oso, okureru, okurasu, osoi, osoku",
-    "meaning": "slow, late",
+    "meaning": "slow, late |(vi) chậm, trễ",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "遅刻する（ちこくする）",
         "meaning": {
-          "english": "come late"
+          "english": "come late |(vi) đến muộn, đi trễ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oso(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "遅れる（おくれる）",
         "meaning": {
-          "english": "be late [v.i.]"
+          "english": "be late [v.i.] |(vi) bị trễ, bị muộn, chậm trễ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oso(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "遅らす（おくらす）",
         "meaning": {
-          "english": "delay [v.t.]"
+          "english": "delay [v.t.] |(vi) làm chậm lại, trì hoãn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oso(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "遅い（おそい）",
         "meaning": {
-          "english": "late, slow"
+          "english": "late, slow |(vi) chậm, muộn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oso(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "夜遅く（よるおそく）",
         "meaning": {
-          "english": "late at night"
+          "english": "late at night |(vi) khuya, đêm muộn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oso(i)_06_e.opus",
@@ -233,7 +233,7 @@
     "kanji": {
       "character": "遅",
       "meaning": {
-        "english": "slow, late"
+        "english": "slow, late |(vi) chậm, trễ"
       },
       "strokes": {
         "count": 12,
@@ -295,7 +295,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đường đi, bước đi, tiến tới)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -316,7 +316,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "833",
     "strokeCount": 12,
-    "meaning": "slow, late, back, later",
+    "meaning": "slow, late, back, later |(vi) chậm, trễ, muộn, về sau |(hv) Trì",
     "kunyomi": [
       "おく.れる",
       "おく.らす",
@@ -329,39 +329,39 @@
       {
         "example": "遅々",
         "reading": "チチ",
-        "meaning": "slow, lagging, tardy"
+        "meaning": "slow, lagging, tardy |(vi) chậm chạp, ì ạch, trì trệ"
       },
       {
         "example": "遅延",
         "reading": "チエン",
-        "meaning": "delay, latency"
+        "meaning": "delay, latency |(vi) trì hoãn, chậm trễ, độ trễ"
       },
       {
         "example": "棲遅",
         "reading": "セイチ",
-        "meaning": "living in tranquility, retiring to the countryside, retirement house"
+        "meaning": "living in tranquility, retiring to the countryside, retirement house |(vi) sống ẩn dật an nhàn, lui về thôn quê, nhà dưỡng già"
       },
       {
         "example": "巧遅",
         "reading": "コウチ",
-        "meaning": "elaborate but slow execution, polished but slow work"
+        "meaning": "elaborate but slow execution, polished but slow work |(vi) khéo léo nhưng chậm, tinh xảo mà chậm trễ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "遅れる",
         "reading": "おくれる",
-        "meaning": "to be late, to be delayed, to fall behind schedule, to be overdue, to fall behind (in a race, one's studies, etc.), to lag behind, to be behind (the times), to be bereaved of, to be preceded by (someone) in death, to be slow (of a clock or watch)"
+        "meaning": "to be late, to be delayed, to fall behind schedule, to be overdue, to fall behind (in a race, one's studies, etc.), to lag behind, to be behind (the times), to be bereaved of, to be preceded by (someone) in death, to be slow (of a clock or watch) |(vi) bị trễ, bị chậm, tụt hậu, lỡ hẹn, chậm hơn (đồng hồ), mất người thân trước (qua đời sau)"
       },
       {
         "example": "遅らす",
         "reading": "おくらす",
-        "meaning": "to delay, to postpone, to slow down, to retard"
+        "meaning": "to delay, to postpone, to slow down, to retard |(vi) trì hoãn, hoãn lại, làm chậm lại"
       },
       {
         "example": "遅い",
         "reading": "おそい",
-        "meaning": "slow, late, too late"
+        "meaning": "slow, late, too late |(vi) chậm, muộn, quá trễ"
       }
     ],
     "radical": {
@@ -371,7 +371,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, chợt đi chợt dừng)"
     },
     "parts": [
       "尸",

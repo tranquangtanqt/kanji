@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "talk, conversation",
+    "meaning": "talk, conversation |(vi) nói chuyện, trò chuyện",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "面談（めんだん）",
         "meaning": {
-          "english": "interview"
+          "english": "interview |(vi) phỏng vấn, gặp mặt trao đổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dan(wa)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "座談会（ざだんかい）",
         "meaning": {
-          "english": "round-table discussion"
+          "english": "round-table discussion |(vi) buổi tọa đàm, hội thảo bàn tròn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dan(wa)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "冗談（じょうだん）",
         "meaning": {
-          "english": "joke"
+          "english": "joke |(vi) lời nói đùa, chuyện đùa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dan(wa)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "怪談（かいだん）",
         "meaning": {
-          "english": "ghost story"
+          "english": "ghost story |(vi) chuyện ma"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dan(wa)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "相談する（そうだんする）",
         "meaning": {
-          "english": "consult"
+          "english": "consult |(vi) bàn bạc, tham khảo ý kiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dan(wa)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "対談する（たいだんする）",
         "meaning": {
-          "english": "interview, converse"
+          "english": "interview, converse |(vi) đối thoại, trò chuyện trực tiếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dan(wa)_06_f.opus",
@@ -219,7 +219,7 @@
     "kanji": {
       "character": "談",
       "meaning": {
-        "english": "talk, conversation"
+        "english": "talk, conversation |(vi) nói chuyện, trò chuyện"
       },
       "strokes": {
         "count": 15,
@@ -287,7 +287,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -308,7 +308,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "272",
     "strokeCount": 15,
-    "meaning": "discuss, talk",
+    "meaning": "discuss, talk |(vi) bàn luận, nói chuyện |(hv) Đàm",
     "kunyomi": [],
     "onyomi": [
       "ダン"
@@ -317,22 +317,22 @@
       {
         "example": "談",
         "reading": "ダン",
-        "meaning": "talk, story, conversation"
+        "meaning": "talk, story, conversation |(vi) câu chuyện, cuộc trò chuyện"
       },
       {
         "example": "談合",
         "reading": "ダンゴウ",
-        "meaning": "bid rigging, collusion (on contract bidding), (illegal) price-fixing agreement, consultation, discussion, conference"
+        "meaning": "bid rigging, collusion (on contract bidding), (illegal) price-fixing agreement, consultation, discussion, conference |(vi) thông đồng đấu thầu, bàn bạc, thỏa thuận ngầm"
       },
       {
         "example": "示談",
         "reading": "ジダン",
-        "meaning": "settlement out of court, private settlement"
+        "meaning": "settlement out of court, private settlement |(vi) dàn xếp ngoài tòa, thỏa thuận riêng"
       },
       {
         "example": "講談",
         "reading": "コウダン",
-        "meaning": "storytelling (of war chronicles, revenge tales, etc.) with highly dramatic delivery, story"
+        "meaning": "storytelling (of war chronicles, revenge tales, etc.) with highly dramatic delivery, story |(vi) kể chuyện lịch sử (kể chuyện diễn cảm truyền thống Nhật Bản)"
       }
     ],
     "kunyomiExamples": [],
@@ -341,7 +341,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "火",

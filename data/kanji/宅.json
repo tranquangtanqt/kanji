@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "house, residence",
+    "meaning": "house, residence |(vi) nhà, nơi ở",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "帰宅する（きたくする）",
         "meaning": {
-          "english": "return home"
+          "english": "return home |(vi) về nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(o)taku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "お宅（おたく）",
         "meaning": {
-          "english": "house [hon.]"
+          "english": "house [hon.] |(vi) nhà (kính ngữ), nhà anh chị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(o)taku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "自宅（じたく）",
         "meaning": {
-          "english": "one's home"
+          "english": "one's home |(vi) nhà riêng, nhà mình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(o)taku_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "社宅（しゃたく）",
         "meaning": {
-          "english": "company owned house"
+          "english": "company owned house |(vi) nhà ở do công ty cấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(o)taku_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "住宅地（じゅうたくち）",
         "meaning": {
-          "english": "residential district"
+          "english": "residential district |(vi) khu dân cư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(o)taku_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "宅急便（たっきゅうびん）",
         "meaning": {
-          "english": "express home delivery"
+          "english": "express home delivery |(vi) chuyển phát nhanh tận nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(o)taku_06_f.opus",
@@ -200,7 +200,7 @@
     "kanji": {
       "character": "宅",
       "meaning": {
-        "english": "house, residence"
+        "english": "house, residence |(vi) nhà, nơi ở"
       },
       "strokes": {
         "count": 6,
@@ -250,7 +250,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -271,7 +271,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "357",
     "strokeCount": 6,
-    "meaning": "home, house, residence, our house, my husband",
+    "meaning": "home, house, residence, our house, my husband |(vi) nhà, nơi ở, nhà tôi, chồng tôi |(hv) Trạch",
     "kunyomi": [],
     "onyomi": [
       "タク"
@@ -280,28 +280,28 @@
       {
         "example": "宅",
         "reading": "タク",
-        "meaning": "house, home, one's house, one's home, one's husband"
+        "meaning": "house, home, one's house, one's home, one's husband |(vi) nhà, nhà mình, nhà của ai đó, chồng của ai đó"
       },
       {
         "example": "宅地",
         "reading": "タクチ",
-        "meaning": "building lot, residential land"
+        "meaning": "building lot, residential land |(vi) đất xây nhà, đất ở"
       },
       {
         "example": "社宅",
         "reading": "シャタク",
-        "meaning": "company housing, housing provided by one's company"
+        "meaning": "company housing, housing provided by one's company |(vi) nhà ở công ty, nhà do công ty cấp"
       },
       {
         "example": "家宅",
         "reading": "カタク",
-        "meaning": "domicile, premises"
+        "meaning": "domicile, premises |(vi) nơi cư trú, nhà ở"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà)"
     },
     "parts": [
       "ノ",

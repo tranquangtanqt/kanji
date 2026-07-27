@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "futo, futoru, futoi, futotta, futosa",
-    "meaning": "great, thick",
+    "meaning": "great, thick |(vi) to lớn, dày, mập",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "太陽（たいよう）",
         "meaning": {
-          "english": "sun"
+          "english": "sun |(vi) mặt trời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futo(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "太鼓（たいこ）",
         "meaning": {
-          "english": "drum"
+          "english": "drum |(vi) trống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futo(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "太平洋（たいへいよう）",
         "meaning": {
-          "english": "Pacific Ocean"
+          "english": "Pacific Ocean |(vi) Thái Bình Dương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futo(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "太古（たいこ）",
         "meaning": {
-          "english": "ancient times"
+          "english": "ancient times |(vi) thời cổ đại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futo(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "丸太（まるた）",
         "meaning": {
-          "english": "log"
+          "english": "log |(vi) khúc gỗ tròn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futo(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "太る（ふとる）",
         "meaning": {
-          "english": "become fat"
+          "english": "become fat |(vi) béo lên, mập ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futo(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "太い（ふとい）",
         "meaning": {
-          "english": "fat, thick"
+          "english": "fat, thick |(vi) béo, to, dày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futo(i)_06_g.opus",
@@ -251,7 +251,7 @@
     "kanji": {
       "character": "太",
       "meaning": {
-        "english": "great, thick"
+        "english": "great, thick |(vi) to lớn, dày, mập"
       },
       "strokes": {
         "count": 4,
@@ -297,7 +297,7 @@
         "romaji": "dai"
       },
       "meaning": {
-        "english": "large, big"
+        "english": "large, big |(vi) Đại (to, lớn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/dai0.svg",
@@ -318,7 +318,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "552",
     "strokeCount": 4,
-    "meaning": "plump, thick, big around",
+    "meaning": "plump, thick, big around |(vi) mập mạp, dày, to bề ngang |(hv) Thái",
     "kunyomi": [
       "ふと.い",
       "ふと.る"
@@ -331,64 +331,64 @@
       {
         "example": "大山",
         "reading": "タイザン",
-        "meaning": "great mountain, large mountain"
+        "meaning": "great mountain, large mountain |(vi) núi lớn, ngọn núi to"
       },
       {
         "example": "太鼓",
         "reading": "タイコ",
-        "meaning": "drum"
+        "meaning": "drum |(vi) trống"
       },
       {
         "example": "太太",
         "reading": "タイタイ",
-        "meaning": "wife"
+        "meaning": "wife |(vi) vợ"
       },
       {
         "example": "馬太",
         "reading": "マタイ",
-        "meaning": "Matthew (the Apostle)"
+        "meaning": "Matthew (the Apostle) |(vi) Thánh Matthew (Tông đồ)"
       },
       {
         "example": "大山",
         "reading": "タイザン",
-        "meaning": "great mountain, large mountain"
+        "meaning": "great mountain, large mountain |(vi) núi lớn, ngọn núi to"
       },
       {
         "example": "太鼓",
         "reading": "タイコ",
-        "meaning": "drum"
+        "meaning": "drum |(vi) trống"
       },
       {
         "example": "羽太",
         "reading": "ハタ",
-        "meaning": "sea basses, groupers"
+        "meaning": "sea basses, groupers |(vi) cá mú, cá song"
       },
       {
         "example": "赤羽太",
         "reading": "アカハタ",
-        "meaning": "blacktip grouper (species of fish, Epinephelus fasciatus)"
+        "meaning": "blacktip grouper (species of fish, Epinephelus fasciatus) |(vi) cá mú chấm đen (loài cá Epinephelus fasciatus)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "太い",
         "reading": "ふとい",
-        "meaning": "fat, thick, deep (of a voice), thick, sonorous, daring, shameless, brazen, audacious"
+        "meaning": "fat, thick, deep (of a voice), thick, sonorous, daring, shameless, brazen, audacious |(vi) béo, dày, trầm (giọng nói), to, vang, liều lĩnh, trơ trẽn, trâng tráo, táo tợn"
       },
       {
         "example": "太藺",
         "reading": "ふとい",
-        "meaning": "softstem bulrush (Scirpus tabernaemontani)"
+        "meaning": "softstem bulrush (Scirpus tabernaemontani) |(vi) cỏ năn (Scirpus tabernaemontani)"
       },
       {
         "example": "太る",
         "reading": "ふとる",
-        "meaning": "to put on weight, to gain weight, to grow fat, to get stout"
+        "meaning": "to put on weight, to gain weight, to grow fat, to get stout |(vi) tăng cân, béo lên, mập ra, phát tướng"
       }
     ],
     "radical": {
       "symbol": "大",
-      "meaning": "big, very"
+      "meaning": "big, very |(vi) Đại (to, lớn)"
     },
     "parts": [
       "丶",

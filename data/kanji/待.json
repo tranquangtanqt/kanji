@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "matsu, mataseru",
-    "meaning": "wait",
+    "meaning": "wait |(vi) chờ, đợi",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "待機する（たいきする）",
         "meaning": {
-          "english": "stand by"
+          "english": "stand by |(vi) chờ sẵn, túc trực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(tsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "期待する（きたいする）",
         "meaning": {
-          "english": "hope"
+          "english": "hope |(vi) kỳ vọng, mong đợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(tsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "招待する（しょうたいする）",
         "meaning": {
-          "english": "invite"
+          "english": "invite |(vi) mời, chiêu đãi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(tsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "待つ（まつ）",
         "meaning": {
-          "english": "wait"
+          "english": "wait |(vi) chờ, đợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(tsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "待たせる（またせる）",
         "meaning": {
-          "english": "keep (a person) waiting"
+          "english": "keep (a person) waiting |(vi) để ai đó phải chờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(tsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "待ち合わせる（まちあわせる）",
         "meaning": {
-          "english": "rendezvous"
+          "english": "rendezvous |(vi) hẹn gặp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(tsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "待合室（まちあいしつ）",
         "meaning": {
-          "english": "waiting room"
+          "english": "waiting room |(vi) phòng chờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(tsu)_06_g.opus",
@@ -249,7 +249,7 @@
     "kanji": {
       "character": "待",
       "meaning": {
-        "english": "wait"
+        "english": "wait |(vi) chờ, đợi"
       },
       "strokes": {
         "count": 9,
@@ -305,7 +305,7 @@
         "romaji": "gyouninben"
       },
       "meaning": {
-        "english": "step, stride, street, to go"
+        "english": "step, stride, street, to go |(vi) bước đi, đường phố, đi"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
@@ -326,7 +326,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "391",
     "strokeCount": 9,
-    "meaning": "wait, depend on",
+    "meaning": "wait, depend on |(vi) chờ, đợi, dựa vào |(hv) Đãi",
     "kunyomi": [
       "ま.つ",
       "-ま.ち"
@@ -338,39 +338,39 @@
       {
         "example": "待遇",
         "reading": "タイグウ",
-        "meaning": "treatment, reception, service, working conditions, salary, pay, remuneration"
+        "meaning": "treatment, reception, service, working conditions, salary, pay, remuneration |(vi) đãi ngộ, tiếp đãi, điều kiện làm việc, lương bổng"
       },
       {
         "example": "待機",
         "reading": "タイキ",
-        "meaning": "standing by, awaiting an opportunity, being on alert, quarantine"
+        "meaning": "standing by, awaiting an opportunity, being on alert, quarantine |(vi) chờ sẵn, chờ thời cơ, cảnh giác, cách ly"
       },
       {
         "example": "歓待",
         "reading": "カンタイ",
-        "meaning": "warm welcome, friendly reception, hospitality, entertainment"
+        "meaning": "warm welcome, friendly reception, hospitality, entertainment |(vi) tiếp đón nồng hậu, hiếu khách, chiêu đãi"
       },
       {
         "example": "優待",
         "reading": "ユウタイ",
-        "meaning": "preferential treatment, hospitality, warm reception, cordial welcome"
+        "meaning": "preferential treatment, hospitality, warm reception, cordial welcome |(vi) đãi ngộ đặc biệt, ưu đãi, tiếp đón nồng hậu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "待つ",
         "reading": "まつ",
-        "meaning": "to wait, to await, to look forward to, to anticipate, to depend on, to need"
+        "meaning": "to wait, to await, to look forward to, to anticipate, to depend on, to need |(vi) chờ, đợi, mong chờ, trông đợi, dựa vào, cần đến"
       },
       {
         "example": "待つ身は長い",
         "reading": "まつみはながい",
-        "meaning": "a watched pot never boils"
+        "meaning": "a watched pot never boils |(vi) chờ đợi khiến thời gian như dài hơn (tục ngữ)"
       }
     ],
     "radical": {
       "symbol": "彳",
-      "meaning": "step"
+      "meaning": "step |(vi) Xích (bước chân nhỏ, đi)"
     },
     "parts": [
       "土",

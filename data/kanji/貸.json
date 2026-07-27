@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "ka, kasu, kashi",
-    "meaning": "lend",
+    "meaning": "lend |(vi) cho vay, cho mượn",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "賃貸（ちんたい）",
         "meaning": {
-          "english": "lease"
+          "english": "lease |(vi) cho thuê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "貸与する（たいよする）",
         "meaning": {
-          "english": "loan, lend"
+          "english": "loan, lend |(vi) cho vay, cho mượn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "貸す（かす）",
         "meaning": {
-          "english": "lend"
+          "english": "lend |(vi) cho mượn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "貸家（かしや）",
         "meaning": {
-          "english": "house for rent"
+          "english": "house for rent |(vi) nhà cho thuê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "貸し出す（かしだす）",
         "meaning": {
-          "english": "lend"
+          "english": "lend |(vi) cho mượn ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "貸し切り（かしきり）",
         "meaning": {
-          "english": "reservation"
+          "english": "reservation |(vi) thuê bao trọn gói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_f.opus",
@@ -212,7 +212,7 @@
     "kanji": {
       "character": "貸",
       "meaning": {
-        "english": "lend"
+        "english": "lend |(vi) cho vay, cho mượn"
       },
       "strokes": {
         "count": 12,
@@ -274,7 +274,7 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) vỏ sò, tài sản, của cải"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -295,7 +295,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "995",
     "strokeCount": 12,
-    "meaning": "lend",
+    "meaning": "lend |(vi) cho vay, cho mượn |(hv) Thải",
     "kunyomi": [
       "か.す",
       "か.し-",
@@ -308,34 +308,34 @@
       {
         "example": "貸与",
         "reading": "タイヨ",
-        "meaning": "loan, lending"
+        "meaning": "loan, lending |(vi) cho vay, cho mượn"
       },
       {
         "example": "貸借",
         "reading": "タイシャク",
-        "meaning": "loan, debit and credit, lending and borrowing"
+        "meaning": "loan, debit and credit, lending and borrowing |(vi) vay mượn, nợ và có, cho vay và đi vay"
       },
       {
         "example": "転貸",
         "reading": "テンタイ",
-        "meaning": "sublease, sublet"
+        "meaning": "sublease, sublet |(vi) cho thuê lại"
       },
       {
         "example": "借貸",
         "reading": "シャクタイ",
-        "meaning": "loan, lending and borrowing"
+        "meaning": "loan, lending and borrowing |(vi) vay mượn, cho vay và đi vay"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "貸す",
         "reading": "かす",
-        "meaning": "to lend, to loan, to rent out, to hire out, to hand (over), to give"
+        "meaning": "to lend, to loan, to rent out, to hire out, to hand (over), to give |(vi) cho mượn, cho vay, cho thuê, giao (cho), đưa cho"
       }
     ],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò)"
     },
     "parts": [
       "ハ",

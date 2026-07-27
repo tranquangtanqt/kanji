@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "fukuro",
-    "meaning": "bag, sack",
+    "meaning": "bag, sack |(vi) túi, bao",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "郵袋（ゆうたい）",
         "meaning": {
-          "english": "mailbag"
+          "english": "mailbag |(vi) túi đựng thư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fukuro_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "袋（ふくろ）",
         "meaning": {
-          "english": "bag, sack"
+          "english": "bag, sack |(vi) túi, bao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fukuro_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "袋小路（ふくろこうじ）",
         "meaning": {
-          "english": "blind alley, cul-de-sac"
+          "english": "blind alley, cul-de-sac |(vi) ngõ cụt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fukuro_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "お袋（おふくろ）",
         "meaning": {
-          "english": "one's mother"
+          "english": "one's mother |(vi) mẹ (cách gọi thân mật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fukuro_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "胃袋（いぶくろ）",
         "meaning": {
-          "english": "stomach"
+          "english": "stomach |(vi) dạ dày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fukuro_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "紙袋（かみぶくろ）",
         "meaning": {
-          "english": "paper bag"
+          "english": "paper bag |(vi) túi giấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fukuro_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "手袋（てぶくろ）",
         "meaning": {
-          "english": "glove"
+          "english": "glove |(vi) găng tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fukuro_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "浮き袋（うきぶくろ）",
         "meaning": {
-          "english": "swimming ring, swimming float"
+          "english": "swimming ring, swimming float |(vi) phao bơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fukuro_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "ビニール袋（ビニールぶくろ）",
         "meaning": {
-          "english": "plastic bag"
+          "english": "plastic bag |(vi) túi ni lông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fukuro_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "*足袋（たび）",
         "meaning": {
-          "english": "tabi"
+          "english": "tabi |(vi) tất tabi (Nhật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fukuro_06_j.opus",
@@ -215,7 +215,7 @@
     "kanji": {
       "character": "袋",
       "meaning": {
-        "english": "bag, sack"
+        "english": "bag, sack |(vi) túi, bao"
       },
       "strokes": {
         "count": 11,
@@ -275,7 +275,7 @@
         "romaji": "koromo"
       },
       "meaning": {
-        "english": "clothing"
+        "english": "clothing |(vi) quần áo"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/koromo0.svg",
@@ -296,7 +296,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1125",
     "strokeCount": 11,
-    "meaning": "sack, bag, pouch",
+    "meaning": "sack, bag, pouch |(vi) bao, túi, túi nhỏ |(hv) Đại",
     "kunyomi": [
       "ふくろ"
     ],
@@ -308,39 +308,39 @@
       {
         "example": "袋",
         "reading": "タイ",
-        "meaning": "counter for things inside a bag"
+        "meaning": "counter for things inside a bag |(vi) trợ từ đếm đồ vật trong túi"
       },
       {
         "example": "袋果",
         "reading": "タイカ",
-        "meaning": "follicle"
+        "meaning": "follicle |(vi) quả đại (loại quả thực vật)"
       },
       {
         "example": "頸袋",
         "reading": "ケイタイ",
-        "meaning": "dewlap"
+        "meaning": "dewlap |(vi) yếm cổ (ở một số động vật)"
       },
       {
         "example": "製袋",
         "reading": "セイタイ",
-        "meaning": "bag manufacturing"
+        "meaning": "bag manufacturing |(vi) sản xuất túi, bao"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "袋",
         "reading": "ふくろ",
-        "meaning": "bag, sack, pouch, skin of an orange (and other like fruits), dead end, plot of land surrounded by water"
+        "meaning": "bag, sack, pouch, skin of an orange (and other like fruits), dead end, plot of land surrounded by water |(vi) túi, bao, túi nhỏ, vỏ múi cam (và các loại quả tương tự), ngõ cụt, mảnh đất bao quanh bởi nước"
       },
       {
         "example": "袋小路",
         "reading": "ふくろこうじ",
-        "meaning": "blind alley, cul-de-sac, dead end street, deadlock, impasse, dead end"
+        "meaning": "blind alley, cul-de-sac, dead end street, deadlock, impasse, dead end |(vi) ngõ cụt, đường cụt, bế tắc, ngõ hẻm không lối ra"
       },
       {
         "example": "空気袋",
         "reading": "くうきぶくろ",
-        "meaning": "air sac, bladder, air bag, windbag"
+        "meaning": "air sac, bladder, air bag, windbag |(vi) túi khí, bong bóng khí, túi hơi"
       }
     ],
     "radical": {
@@ -348,7 +348,7 @@
       "forms": [
         "衤"
       ],
-      "meaning": "clothes"
+      "meaning": "clothes |(vi) Y (quần áo)"
     },
     "parts": [
       "亠",

@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "image",
+    "meaning": "image |(vi) hình ảnh, bức tượng",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "想像する（そうぞうする）",
         "meaning": {
-          "english": "imagine"
+          "english": "imagine |(vi) tưởng tượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "現像する（げんぞうする）",
         "meaning": {
-          "english": "develop (film)"
+          "english": "develop (film) |(vi) tráng phim, rửa ảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "映像（えいぞう）",
         "meaning": {
-          "english": "image [n.]"
+          "english": "image [n.] |(vi) hình ảnh, video"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "画像（がぞう）",
         "meaning": {
-          "english": "image, picture [n.]"
+          "english": "image, picture [n.] |(vi) hình ảnh, bức ảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "実像（じつぞう）",
         "meaning": {
-          "english": "one's real life"
+          "english": "one's real life |(vi) bản chất thật, con người thật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "仏像（ぶつぞう）",
         "meaning": {
-          "english": "Buddhist statue"
+          "english": "Buddhist statue |(vi) tượng Phật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "肖像（しょうぞう）",
         "meaning": {
-          "english": "portrait"
+          "english": "portrait |(vi) chân dung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "銅像（どうぞう）",
         "meaning": {
-          "english": "bronze statue"
+          "english": "bronze statue |(vi) tượng đồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "自画像（じがぞう）",
         "meaning": {
-          "english": "self portrait"
+          "english": "self portrait |(vi) chân dung tự họa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_i.opus",
@@ -224,7 +224,7 @@
     "kanji": {
       "character": "像",
       "meaning": {
-        "english": "image"
+        "english": "image |(vi) hình ảnh, bức tượng"
       },
       "strokes": {
         "count": 14,
@@ -290,7 +290,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -311,7 +311,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "856",
     "strokeCount": 14,
-    "meaning": "statue, picture, image, figure, portrait",
+    "meaning": "statue, picture, image, figure, portrait |(vi) bức tượng, bức tranh, hình ảnh, hình dáng, chân dung |(hv) Tượng",
     "kunyomi": [],
     "onyomi": [
       "ゾウ"
@@ -320,22 +320,22 @@
       {
         "example": "像",
         "reading": "ゾウ",
-        "meaning": "image, figure, statue, picture, portrait, figure, form, shape, appearance, image"
+        "meaning": "image, figure, statue, picture, portrait, figure, form, shape, appearance, image |(vi) hình ảnh, hình dáng, bức tượng, bức tranh, chân dung, hình thể, hình dạng, dáng vẻ, ấn tượng"
       },
       {
         "example": "像主",
         "reading": "ゾウシュ",
-        "meaning": "subject (of a portrait or bust), a person posing for a portrait or bust, (historically) patron, someone who commissions a Buddhist temple or work of art"
+        "meaning": "subject (of a portrait or bust), a person posing for a portrait or bust, (historically) patron, someone who commissions a Buddhist temple or work of art |(vi) người làm mẫu (cho chân dung hoặc tượng bán thân), người đặt làm chân dung hoặc tượng, (theo lịch sử) người bảo trợ, người đặt xây chùa hoặc tác phẩm nghệ thuật"
       },
       {
         "example": "実像",
         "reading": "ジツゾウ",
-        "meaning": "real image, real form, real-life image, true picture, actual conditions, actual circumstances"
+        "meaning": "real image, real form, real-life image, true picture, actual conditions, actual circumstances |(vi) hình ảnh thật, hình dạng thật, hình ảnh đời thực, bức tranh chân thực, tình trạng thực tế, hoàn cảnh thực tế"
       },
       {
         "example": "将来像",
         "reading": "ショウライゾウ",
-        "meaning": "vision of the future"
+        "meaning": "vision of the future |(vi) hình dung về tương lai"
       }
     ],
     "kunyomiExamples": [],
@@ -344,7 +344,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người, con người)"
     },
     "parts": [
       "一",

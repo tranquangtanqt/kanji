@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "oppose, opposite, against",
+    "meaning": "oppose, opposite, against |(vi) đối lập, đối diện, chống lại",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "反対する（はんたいする）",
         "meaning": {
-          "english": "disagree, object"
+          "english": "disagree, object |(vi) phản đối, không đồng ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)tai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "対抗する（たいこうする）",
         "meaning": {
-          "english": "oppose, cope"
+          "english": "oppose, cope |(vi) đối kháng, đối phó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)tai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "対応する（たいおうする）",
         "meaning": {
-          "english": "deal with"
+          "english": "deal with |(vi) ứng phó, xử lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)tai_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "対立する（たいりつする）",
         "meaning": {
-          "english": "confront"
+          "english": "confront |(vi) đối lập, đối đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)tai_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "対象（たいしょう）",
         "meaning": {
-          "english": "target [n.], object [n.]"
+          "english": "target [n.], object [n.] |(vi) đối tượng, mục tiêu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)tai_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "対日（たいにち）",
         "meaning": {
-          "english": "with respect to Japan"
+          "english": "with respect to Japan |(vi) đối với Nhật Bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)tai_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "絶対（ぜったい）",
         "meaning": {
-          "english": "absolute"
+          "english": "absolute |(vi) tuyệt đối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)tai_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "対等な（たいとうな）",
         "meaning": {
-          "english": "equivalent"
+          "english": "equivalent |(vi) ngang hàng, bình đẳng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)tai_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "対（つい）",
         "meaning": {
-          "english": "pair, couple"
+          "english": "pair, couple |(vi) cặp, đôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)tai_06_i.opus",
@@ -256,7 +256,7 @@
     "kanji": {
       "character": "対",
       "meaning": {
-        "english": "oppose, opposite, against"
+        "english": "oppose, opposite, against |(vi) đối lập, đối diện, chống lại"
       },
       "strokes": {
         "count": 7,
@@ -308,7 +308,7 @@
         "romaji": "sunzukuri"
       },
       "meaning": {
-        "english": "inch, (2.25 cm)"
+        "english": "inch, (2.25 cm) |(vi) Thốn (đơn vị đo, 2.25cm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sunzukuri0.svg",
@@ -329,7 +329,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "34",
     "strokeCount": 7,
-    "meaning": "vis-a-vis, opposite, even, equal, versus, anti-, compare",
+    "meaning": "vis-a-vis, opposite, even, equal, versus, anti-, compare |(vi) đối diện, đối lập, ngang bằng, bình đẳng, so với, phản-, so sánh |(hv) Đối",
     "kunyomi": [
       "あいて",
       "こた.える",
@@ -346,59 +346,59 @@
       {
         "example": "対",
         "reading": "タイ",
-        "meaning": "versus, against, vs., v., to (e.g. score of 4 to 2, ratio of 3 to 1, vote of 320 to 180), toward ..., to ..., with ..., against ..., anti-, equal footing, equal terms, opposite"
+        "meaning": "versus, against, vs., v., to (e.g. score of 4 to 2, ratio of 3 to 1, vote of 320 to 180), toward ..., to ..., with ..., against ..., anti-, equal footing, equal terms, opposite |(vi) so với, đối lại, tỷ số (ví dụ 4 so với 2, tỷ lệ 3 so với 1, phiếu 320 so với 180), hướng về, đến, cùng với, chống lại, phản-, ngang hàng, ngang sức, đối diện"
       },
       {
         "example": "対案",
         "reading": "タイアン",
-        "meaning": "counter-proposal, counter-suggestion"
+        "meaning": "counter-proposal, counter-suggestion |(vi) đề xuất phản biện, phương án thay thế"
       },
       {
         "example": "国対",
         "reading": "コクタイ",
-        "meaning": "Committee of the National Diet"
+        "meaning": "Committee of the National Diet |(vi) Ủy ban Đối sách Nghị viện (Quốc hội)"
       },
       {
         "example": "相対",
         "reading": "ソウタイ",
-        "meaning": "relativity, relative, facing (e.g. a problem), confronting"
+        "meaning": "relativity, relative, facing (e.g. a problem), confronting |(vi) tính tương đối, tương đối, đối mặt (với vấn đề), đối đầu"
       },
       {
         "example": "対",
         "reading": "ツイ",
-        "meaning": "pair, couple, set, antithesis, counter for items that come in pairs, counter for sets (of clothes, small furniture, utensils, etc.)"
+        "meaning": "pair, couple, set, antithesis, counter for items that come in pairs, counter for sets (of clothes, small furniture, utensils, etc.) |(vi) cặp, đôi, bộ, phản đề, lượng từ đếm vật thành cặp, lượng từ đếm bộ (quần áo, đồ nội thất nhỏ, dụng cụ...)"
       },
       {
         "example": "対句",
         "reading": "ツイク",
-        "meaning": "couplet, antithesis"
+        "meaning": "couplet, antithesis |(vi) câu đối, phản đề"
       },
       {
         "example": "一対",
         "reading": "イッツイ",
-        "meaning": "pair, couple"
+        "meaning": "pair, couple |(vi) một cặp, một đôi"
       },
       {
         "example": "双対",
         "reading": "ソウツイ",
-        "meaning": "duality"
+        "meaning": "duality |(vi) tính đối ngẫu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "対手",
         "reading": "たいしゅ",
-        "meaning": "opponent (in combat)"
+        "meaning": "opponent (in combat) |(vi) đối thủ (trong giao chiến)"
       },
       {
         "example": "向かう",
         "reading": "むかう",
-        "meaning": "to face, to go towards, to head towards"
+        "meaning": "to face, to go towards, to head towards |(vi) đối diện, hướng về, hướng tới"
       }
     ],
     "radical": {
       "symbol": "寸",
-      "meaning": "thumb, inch"
+      "meaning": "thumb, inch |(vi) Thốn (đơn vị đo, 2.25cm)"
     },
     "parts": [
       "寸",

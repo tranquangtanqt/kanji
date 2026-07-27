@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "mushi",
-    "meaning": "insect, bug",
+    "meaning": "insect, bug |(vi) côn trùng, sâu bọ",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "虫害（ちゅうがい）",
         "meaning": {
-          "english": "insect damage"
+          "english": "insect damage |(vi) sâu hại, thiệt hại do côn trùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mushi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "昆虫（こんちゅう）",
         "meaning": {
-          "english": "insect, bug"
+          "english": "insect, bug |(vi) côn trùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mushi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "防虫（ぼうちゅう）",
         "meaning": {
-          "english": "pesticide"
+          "english": "pesticide |(vi) chống côn trùng, phòng sâu bọ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mushi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "害虫（がいちゅう）",
         "meaning": {
-          "english": "harmful insect, noxious insect"
+          "english": "harmful insect, noxious insect |(vi) sâu hại, côn trùng gây hại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mushi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "殺虫剤（さっちゅうざい）",
         "meaning": {
-          "english": "insecticide, pesticide"
+          "english": "insecticide, pesticide |(vi) thuốc trừ sâu, thuốc diệt côn trùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mushi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "寄生虫（きせいちゅう）",
         "meaning": {
-          "english": "parasite"
+          "english": "parasite |(vi) ký sinh trùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mushi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "虫（むし）",
         "meaning": {
-          "english": "insect"
+          "english": "insect |(vi) côn trùng, sâu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mushi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "虫歯（むしば）",
         "meaning": {
-          "english": "(tooth) cavity"
+          "english": "(tooth) cavity |(vi) sâu răng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mushi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "毛虫（けむし）",
         "meaning": {
-          "english": "caterpillar"
+          "english": "caterpillar |(vi) sâu róm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mushi_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "水虫（みずむし）",
         "meaning": {
-          "english": "athlete's foot"
+          "english": "athlete's foot |(vi) nấm da chân (nước ăn chân)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mushi_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "弱虫（よわむし）",
         "meaning": {
-          "english": "coward, weakling"
+          "english": "coward, weakling |(vi) kẻ nhát gan, đồ hèn nhát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mushi_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "泣き虫（なきむし）",
         "meaning": {
-          "english": "crybaby, blubberer"
+          "english": "crybaby, blubberer |(vi) đứa hay khóc nhè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mushi_06_l.opus",
@@ -261,7 +261,7 @@
     "kanji": {
       "character": "虫",
       "meaning": {
-        "english": "insect, bug"
+        "english": "insect, bug |(vi) côn trùng, sâu bọ"
       },
       "strokes": {
         "count": 6,
@@ -311,7 +311,7 @@
         "romaji": "mushi"
       },
       "meaning": {
-        "english": "worm, insect, bug"
+        "english": "worm, insect, bug |(vi) Trùng (côn trùng, sâu bọ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mushi0.svg",
@@ -332,7 +332,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1351",
     "strokeCount": 6,
-    "meaning": "insect, bug, temper",
+    "meaning": "insect, bug, temper |(vi) côn trùng, sâu bọ, tính khí (nóng nảy) |(hv) Trùng",
     "kunyomi": [
       "むし"
     ],
@@ -344,59 +344,59 @@
       {
         "example": "虫垂炎",
         "reading": "チュウスイエン",
-        "meaning": "appendicitis"
+        "meaning": "appendicitis |(vi) viêm ruột thừa"
       },
       {
         "example": "虫えい",
         "reading": "チュウエイ",
-        "meaning": "gall (abnormal plant growth formed by insects)"
+        "meaning": "gall (abnormal plant growth formed by insects) |(vi) u sưng thực vật do côn trùng gây ra (mật)"
       },
       {
         "example": "幼虫",
         "reading": "ヨウチュウ",
-        "meaning": "larva, grub, maggot"
+        "meaning": "larva, grub, maggot |(vi) ấu trùng, giòi"
       },
       {
         "example": "寄生虫",
         "reading": "キセイチュウ",
-        "meaning": "parasite"
+        "meaning": "parasite |(vi) ký sinh trùng"
       },
       {
         "example": "虫部",
         "reading": "キブ",
-        "meaning": "insect radical, worm radical"
+        "meaning": "insect radical, worm radical |(vi) bộ côn trùng (bộ trùng)"
       },
       {
         "example": "蟻巻",
         "reading": "アリマキ",
-        "meaning": "aphid, plant louse, plant lice"
+        "meaning": "aphid, plant louse, plant lice |(vi) rệp vừng, rận cây"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "虫",
         "reading": "むし",
-        "meaning": "insect, bug, cricket, moth, worm, roundworm, thing inside one's body believed to influence one's thoughts and feelings, (one's) unconscious, nervousness, fretfulness, person devoted to one thing, single-minded person, valve core, mushi (type of game played with a stripped deck)"
+        "meaning": "insect, bug, cricket, moth, worm, roundworm, thing inside one's body believed to influence one's thoughts and feelings, (one's) unconscious, nervousness, fretfulness, person devoted to one thing, single-minded person, valve core, mushi (type of game played with a stripped deck) |(vi) côn trùng, sâu bọ, dế, bướm đêm, giun, sán, thứ được cho là chi phối cảm xúc suy nghĩ con người, tiềm thức, sự bồn chồn cáu kỉnh, người chuyên tâm một việc, lõi van, mushi (trò chơi bài lá)"
       },
       {
         "example": "虫歯",
         "reading": "むしば",
-        "meaning": "tooth decay, cavity, decayed tooth, dental caries"
+        "meaning": "tooth decay, cavity, decayed tooth, dental caries |(vi) sâu răng"
       },
       {
         "example": "苦虫",
         "reading": "にがむし",
-        "meaning": "bitter-tasting bug"
+        "meaning": "bitter-tasting bug |(vi) con bọ vị đắng (ví mặt nhăn nhó khó chịu)"
       },
       {
         "example": "馬追虫",
         "reading": "うまおいむし",
-        "meaning": "Hexacentrus japonicus (species of katydid), Hexacentrus unicolor (species of katydid)"
+        "meaning": "Hexacentrus japonicus (species of katydid), Hexacentrus unicolor (species of katydid) |(vi) một loài dế mèn/châu chấu (Hexacentrus)"
       }
     ],
     "radical": {
       "symbol": "虫",
-      "meaning": "insect"
+      "meaning": "insect |(vi) Trùng (côn trùng, sâu bọ)"
     },
     "parts": [
       "虫"

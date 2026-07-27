@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "shi, shiru, shirasu, shiraseru",
-    "meaning": "know",
+    "meaning": "know |(vi) biết",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "承知する（しょうちする）",
         "meaning": {
-          "english": "consent"
+          "english": "consent |(vi) đồng ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "通知する（つうちする）",
         "meaning": {
-          "english": "notify by letter"
+          "english": "notify by letter |(vi) thông báo bằng thư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "知識（ちしき）",
         "meaning": {
-          "english": "knowledge"
+          "english": "knowledge |(vi) kiến thức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "知恵（ちえ）",
         "meaning": {
-          "english": "wisdom"
+          "english": "wisdom |(vi) trí tuệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "知性（ちせい）",
         "meaning": {
-          "english": "intelligence"
+          "english": "intelligence |(vi) trí thông minh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "知的な（ちてきな）",
         "meaning": {
-          "english": "intellectual"
+          "english": "intellectual |(vi) thuộc về trí tuệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "知人（ちじん）",
         "meaning": {
-          "english": "acquaintance"
+          "english": "acquaintance |(vi) người quen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "知る（しる）",
         "meaning": {
-          "english": "know"
+          "english": "know |(vi) biết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "知らせる（しらせる）",
         "meaning": {
-          "english": "notify"
+          "english": "notify |(vi) thông báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "知り合い（しりあい）",
         "meaning": {
-          "english": "acquaintance"
+          "english": "acquaintance |(vi) người quen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_j.opus",
@@ -283,7 +283,7 @@
     "kanji": {
       "character": "知",
       "meaning": {
-        "english": "know"
+        "english": "know |(vi) biết"
       },
       "strokes": {
         "count": 8,
@@ -337,7 +337,7 @@
         "romaji": "yahen"
       },
       "meaning": {
-        "english": "arrow"
+        "english": "arrow |(vi) Thỉ (mũi tên)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yahen0.svg",
@@ -358,7 +358,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "205",
     "strokeCount": 8,
-    "meaning": "know, wisdom",
+    "meaning": "know, wisdom |(vi) biết, trí tuệ |(hv) Tri",
     "kunyomi": [
       "し.る",
       "し.らせる"
@@ -370,49 +370,49 @@
       {
         "example": "知",
         "reading": "チ",
-        "meaning": "wisdom, jnana (higher knowledge)"
+        "meaning": "wisdom, jnana (higher knowledge) |(vi) trí tuệ, trí (hiểu biết cao hơn - Phật giáo)"
       },
       {
         "example": "知恵",
         "reading": "チエ",
-        "meaning": "wisdom, wit, sagacity, sense, intelligence, prajna (insight leading to enlightenment)"
+        "meaning": "wisdom, wit, sagacity, sense, intelligence, prajna (insight leading to enlightenment) |(vi) trí tuệ, sự khôn ngoan, minh mẫn, ý thức, trí thông minh, bát nhã (tuệ giác dẫn đến giác ngộ)"
       },
       {
         "example": "認知",
         "reading": "ニンチ",
-        "meaning": "acknowledgement, acknowledgment, recognition, cognition"
+        "meaning": "acknowledgement, acknowledgment, recognition, cognition |(vi) sự công nhận, thừa nhận, nhận thức"
       },
       {
         "example": "熟知",
         "reading": "ジュクチ",
-        "meaning": "being familiar with, having a thorough knowledge of, being well-informed about"
+        "meaning": "being familiar with, having a thorough knowledge of, being well-informed about |(vi) quen thuộc với, am hiểu tường tận, nắm rõ về"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "知る",
         "reading": "しる",
-        "meaning": "to know, to be aware (of), to be conscious (of), to learn (of), to find out, to discover, to sense, to feel, to notice, to realize, to understand, to comprehend, to grasp, to appreciate, to remember, to be familiar with, to be acquainted with, to experience, to go through, to know (e.g. hardship), to get acquainted with (a person), to get to know, to have to do with, to be concerned with, to be one's concern, to be one's responsibility"
+        "meaning": "to know, to be aware (of), to be conscious (of), to learn (of), to find out, to discover, to sense, to feel, to notice, to realize, to understand, to comprehend, to grasp, to appreciate, to remember, to be familiar with, to be acquainted with, to experience, to go through, to know (e.g. hardship), to get acquainted with (a person), to get to know, to have to do with, to be concerned with, to be one's concern, to be one's responsibility |(vi) biết, nhận thức được, ý thức được, học được, phát hiện ra, khám phá, cảm nhận, cảm thấy, nhận thấy, nhận ra, hiểu, thấu hiểu, nắm bắt, trân trọng, ghi nhớ, quen thuộc với, quen biết với, trải nghiệm, trải qua, biết đến (vd gian khổ), làm quen với (ai đó), có liên quan đến, chịu trách nhiệm về"
       },
       {
         "example": "知るか",
         "reading": "しるか",
-        "meaning": "I don't care, how should I know?, who cares?"
+        "meaning": "I don't care, how should I know?, who cares? |(vi) tôi không quan tâm, sao tôi biết được?, ai mà biết được?"
       },
       {
         "example": "吾唯足知",
         "reading": "われただたるをしる",
-        "meaning": "I am content with what I am (have), rich is the person who is content with what he is"
+        "meaning": "I am content with what I am (have), rich is the person who is content with what he is |(vi) ta chỉ biết đủ là giàu, người biết đủ mới là người giàu có"
       },
       {
         "example": "知らせる",
         "reading": "しらせる",
-        "meaning": "to notify, to advise, to inform"
+        "meaning": "to notify, to advise, to inform |(vi) thông báo, báo cho biết, cho hay"
       }
     ],
     "radical": {
       "symbol": "矢",
-      "meaning": "arrow"
+      "meaning": "arrow |(vi) Thỉ (mũi tên)"
     },
     "parts": [
       "乞",

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 50,
     "kunyomi": "o, obiru, obi",
-    "meaning": "belt, wear, zone",
+    "meaning": "belt, wear, zone |(vi) đai, mang/đeo, vùng",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "地帯（ちたい）",
         "meaning": {
-          "english": "area, zone"
+          "english": "area, zone |(vi) khu vực, vùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/obi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "一帯（いったい）",
         "meaning": {
-          "english": "region, zone, whole place"
+          "english": "region, zone, whole place |(vi) vùng, khu vực, cả một dải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/obi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "包帯（ほうたい）",
         "meaning": {
-          "english": "bandage, dressing"
+          "english": "bandage, dressing |(vi) băng gạc, băng bó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/obi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "所帯（しょたい）",
         "meaning": {
-          "english": "household, housekeeping"
+          "english": "household, housekeeping |(vi) hộ gia đình, việc nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/obi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "時間帯（じかんたい）",
         "meaning": {
-          "english": "time zone, time slot"
+          "english": "time zone, time slot |(vi) khung giờ, múi giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/obi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "連帯感（れんたいかん）",
         "meaning": {
-          "english": "feeling of solidarity"
+          "english": "feeling of solidarity |(vi) cảm giác đoàn kết, liên đới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/obi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "熱帯雨林（ねったいうりん）",
         "meaning": {
-          "english": "tropical rainforest"
+          "english": "tropical rainforest |(vi) rừng mưa nhiệt đới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/obi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "携帯電話（けいたいでんわ）",
         "meaning": {
-          "english": "cell phone"
+          "english": "cell phone |(vi) điện thoại di động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/obi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "携帯する（けいたいする）",
         "meaning": {
-          "english": "carry, bring"
+          "english": "carry, bring |(vi) mang theo, cầm theo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/obi_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "帯びる（おびる）",
         "meaning": {
-          "english": "wear, carry, have"
+          "english": "wear, carry, have |(vi) mang, đeo, có (tính chất)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/obi_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "帯（おび）",
         "meaning": {
-          "english": "obi, kimono belt"
+          "english": "obi, kimono belt |(vi) đai obi (thắt lưng kimono)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/obi_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "帯状（おびじょう）",
         "meaning": {
-          "english": "belt-shaped"
+          "english": "belt-shaped |(vi) dạng dải, hình đai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/obi_06_l.opus",
@@ -243,7 +243,7 @@
     "kanji": {
       "character": "帯",
       "meaning": {
-        "english": "belt, wear, zone"
+        "english": "belt, wear, zone |(vi) đai, mang/đeo, vùng"
       },
       "strokes": {
         "count": 10,
@@ -301,7 +301,7 @@
         "romaji": "haba"
       },
       "meaning": {
-        "english": "cloth"
+        "english": "cloth |(vi) Cân (vải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/haba0.svg",
@@ -322,7 +322,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "746",
     "strokeCount": 10,
-    "meaning": "sash, belt, obi, zone, region",
+    "meaning": "sash, belt, obi, zone, region |(vi) đai, dây lưng, đai obi, vùng, khu vực |(hv) Đới",
     "kunyomi": [
       "お.びる",
       "おび"
@@ -334,54 +334,54 @@
       {
         "example": "帯",
         "reading": "タイ",
-        "meaning": "band (e.g. conduction, valence), belt (e.g. Van-Allen, asteroid, etc.)"
+        "meaning": "band (e.g. conduction, valence), belt (e.g. Van-Allen, asteroid, etc.) |(vi) dải (dẫn, hóa trị), vành đai (Van-Allen, tiểu hành tinh...)"
       },
       {
         "example": "帯状疱疹",
         "reading": "タイジョウホウシン",
-        "meaning": "shingles, herpes zoster"
+        "meaning": "shingles, herpes zoster |(vi) bệnh zona thần kinh"
       },
       {
         "example": "付帯",
         "reading": "フタイ",
-        "meaning": "incidental, ancillary, accessory, secondary, collateral"
+        "meaning": "incidental, ancillary, accessory, secondary, collateral |(vi) kèm theo, phụ thuộc, thứ yếu"
       },
       {
         "example": "亜熱帯",
         "reading": "アネッタイ",
-        "meaning": "subtropics"
+        "meaning": "subtropics |(vi) cận nhiệt đới"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "帯びる",
         "reading": "おびる",
-        "meaning": "to wear (a sword, decoration, etc.), to carry, to bear, to be entrusted with (a mission), to be charged with, to take on, to have (a quality, property, etc.), to have a trace of, to be tinged with"
+        "meaning": "to wear (a sword, decoration, etc.), to carry, to bear, to be entrusted with (a mission), to be charged with, to take on, to have (a quality, property, etc.), to have a trace of, to be tinged with |(vi) mang, đeo, gánh vác (nhiệm vụ), mang tính chất, pha chút"
       },
       {
         "example": "帯",
         "reading": "おび",
-        "meaning": "obi (kimono sash), obi (strip of paper looped around a book, CD, etc. containing information about the product), band, belt, strip, cingulum, radio or television program broadcast in the same time slot on all or most days"
+        "meaning": "obi (kimono sash), obi (strip of paper looped around a book, CD, etc. containing information about the product), band, belt, strip, cingulum, radio or television program broadcast in the same time slot on all or most days |(vi) đai obi (thắt lưng kimono), dải giấy quảng cáo quanh sách/đĩa, dải, băng, chương trình phát cùng khung giờ hàng ngày"
       },
       {
         "example": "帯びる",
         "reading": "おびる",
-        "meaning": "to wear (a sword, decoration, etc.), to carry, to bear, to be entrusted with (a mission), to be charged with, to take on, to have (a quality, property, etc.), to have a trace of, to be tinged with"
+        "meaning": "to wear (a sword, decoration, etc.), to carry, to bear, to be entrusted with (a mission), to be charged with, to take on, to have (a quality, property, etc.), to have a trace of, to be tinged with |(vi) mang, đeo, gánh vác (nhiệm vụ), mang tính chất, pha chút"
       },
       {
         "example": "単帯",
         "reading": "ひとえおび",
-        "meaning": "unlined sash"
+        "meaning": "unlined sash |(vi) đai đơn, thắt lưng không lót"
       },
       {
         "example": "赤帯",
         "reading": "あかおび",
-        "meaning": "red sash, red belt"
+        "meaning": "red sash, red belt |(vi) đai đỏ, thắt lưng đỏ"
       }
     ],
     "radical": {
       "symbol": "巾",
-      "meaning": "turban, scarf"
+      "meaning": "turban, scarf |(vi) Cân (khăn, vải)"
     },
     "parts": [
       "一",

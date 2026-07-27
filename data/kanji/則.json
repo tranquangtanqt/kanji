@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "rule, law",
+    "meaning": "rule, law |(vi) quy tắc, luật lệ",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "規則（きそく）",
         "meaning": {
-          "english": "regulation"
+          "english": "regulation |(vi) quy định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "法則（ほうそく）",
         "meaning": {
-          "english": "law, principle (e.g. in physics)"
+          "english": "law, principle (e.g. in physics) |(vi) định luật, nguyên lý (ví dụ trong vật lý)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "原則（げんそく）",
         "meaning": {
-          "english": "principle"
+          "english": "principle |(vi) nguyên tắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "罰則（ばっそく）",
         "meaning": {
-          "english": "penal regulations"
+          "english": "penal regulations |(vi) quy định hình phạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "会則（かいそく）",
         "meaning": {
-          "english": "society or club regulations"
+          "english": "society or club regulations |(vi) điều lệ hội hoặc câu lạc bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "不規則な（ふきそくな）",
         "meaning": {
-          "english": "irregular"
+          "english": "irregular |(vi) bất thường, không đều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "反則する（はんそくする）",
         "meaning": {
-          "english": "violate"
+          "english": "violate |(vi) vi phạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_g.opus",
@@ -193,7 +193,7 @@
     "kanji": {
       "character": "則",
       "meaning": {
-        "english": "rule, law"
+        "english": "rule, law |(vi) quy tắc, luật lệ"
       },
       "strokes": {
         "count": 9,
@@ -249,7 +249,7 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, kiếm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -270,7 +270,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "753",
     "strokeCount": 9,
-    "meaning": "rule, law, follow, based on, model after",
+    "meaning": "rule, law, follow, based on, model after |(vi) quy tắc, luật lệ, tuân theo, dựa trên, phỏng theo |(hv) Tắc",
     "kunyomi": [
       "のっと.る",
       "のり",
@@ -283,39 +283,39 @@
       {
         "example": "則",
         "reading": "ソク",
-        "meaning": "counter for rules, rule, regulation"
+        "meaning": "counter for rules, rule, regulation |(vi) lượng từ đếm điều luật, quy tắc, quy định"
       },
       {
         "example": "即する",
         "reading": "ソクスル",
-        "meaning": "to conform to, to agree with, to be adapted to, to be based on"
+        "meaning": "to conform to, to agree with, to be adapted to, to be based on |(vi) phù hợp với, đồng ý với, thích ứng với, dựa trên"
       },
       {
         "example": "反則",
         "reading": "ハンソク",
-        "meaning": "foul, breaking the rules, violation (of the law, regulations, etc.), infringement, breach, infraction"
+        "meaning": "foul, breaking the rules, violation (of the law, regulations, etc.), infringement, breach, infraction |(vi) lỗi, vi phạm quy tắc, vi phạm (luật, quy định...), xâm phạm, hành vi trái phép"
       },
       {
         "example": "正則",
         "reading": "セイソク",
-        "meaning": "correct, proper, formal, regular, systematic, normal, invertible (matrix), holomorphic"
+        "meaning": "correct, proper, formal, regular, systematic, normal, invertible (matrix), holomorphic |(vi) đúng đắn, thích hợp, chính thức, đều đặn, có hệ thống, bình thường, khả nghịch (ma trận), chỉnh hình"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "則る",
         "reading": "のっとる",
-        "meaning": "to follow (a rule, precedent, style, etc.), to conform to, to be in accordance with"
+        "meaning": "to follow (a rule, precedent, style, etc.), to conform to, to be in accordance with |(vi) tuân theo (quy tắc, tiền lệ, phong cách...), phù hợp với, đúng theo"
       },
       {
         "example": "法",
         "reading": "のり",
-        "meaning": "rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope"
+        "meaning": "rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope |(vi) quy tắc, luật lệ, quy định, khuôn mẫu, kiểu mẫu, giáo lý của Phật, giáo pháp Phật giáo, số đo ngang, kích thước ngang, độ dốc bên, độ nghiêng"
       },
       {
         "example": "即ち",
         "reading": "すなわち",
-        "meaning": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then"
+        "meaning": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then |(vi) tức là, nghĩa là, tức, chính xác là, chỉ là, không hơn không kém, (và) rồi"
       }
     ],
     "radical": {
@@ -323,7 +323,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "ハ",

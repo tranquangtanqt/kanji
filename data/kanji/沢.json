@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "sawa",
-    "meaning": "marsh",
+    "meaning": "marsh |(vi) đầm lầy",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "沢山（たくさん）",
         "meaning": {
-          "english": "many, a lot, much"
+          "english": "many, a lot, much |(vi) nhiều, rất nhiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taku-sawa_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "贅沢な（ぜいたくな）",
         "meaning": {
-          "english": "luxurious"
+          "english": "luxurious |(vi) xa xỉ, xa hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taku-sawa_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "沢（さわ）",
         "meaning": {
-          "english": "swamp"
+          "english": "swamp |(vi) đầm lầy, khe suối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taku-sawa_06_c.opus",
@@ -143,7 +143,7 @@
     "kanji": {
       "character": "沢",
       "meaning": {
-        "english": "marsh"
+        "english": "marsh |(vi) đầm lầy"
       },
       "strokes": {
         "count": 7,
@@ -195,7 +195,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) nước"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -216,7 +216,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "296",
     "strokeCount": 7,
-    "meaning": "swamp, marsh, brilliance, grace",
+    "meaning": "swamp, marsh, brilliance, grace |(vi) đầm lầy, ao tù, sự rực rỡ, ân huệ |(hv) Trạch",
     "kunyomi": [
       "さわ",
       "うるお.い",
@@ -230,34 +230,34 @@
       {
         "example": "沢",
         "reading": "タク",
-        "meaning": "blessing, grace, favour, favor, benefit"
+        "meaning": "blessing, grace, favour, favor, benefit |(vi) ân huệ, ơn huệ, phúc lành, lợi ích"
       },
       {
         "example": "沢山",
         "reading": "タクサン",
-        "meaning": "a lot, lots, plenty, many, a large number, much, a great deal, a good deal, enough, sufficient, enough, too many, too much"
+        "meaning": "a lot, lots, plenty, many, a large number, much, a great deal, a good deal, enough, sufficient, enough, too many, too much |(vi) nhiều, rất nhiều, đầy đủ, quá nhiều"
       },
       {
         "example": "沼沢",
         "reading": "ショウタク",
-        "meaning": "marsh, swamp, bog"
+        "meaning": "marsh, swamp, bog |(vi) đầm lầy"
       },
       {
         "example": "恵沢",
         "reading": "ケイタク",
-        "meaning": "blessing, pity, favor, favour, benefit"
+        "meaning": "blessing, pity, favor, favour, benefit |(vi) ân huệ, phúc lành, lợi ích"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "沢",
         "reading": "さわ",
-        "meaning": "mountain stream, valley, dale, wetlands, swamp, marsh"
+        "meaning": "mountain stream, valley, dale, wetlands, swamp, marsh |(vi) khe suối trên núi, thung lũng, đất ngập nước, đầm lầy"
       },
       {
         "example": "沢地",
         "reading": "さわち",
-        "meaning": "marshy land"
+        "meaning": "marshy land |(vi) đất đầm lầy"
       }
     ],
     "radical": {
@@ -266,7 +266,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "丶",

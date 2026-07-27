@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ha, haji, hajirau, hajirai, hajiru, hazukashii",
-    "meaning": "shame, disgrace, shy",
+    "meaning": "shame, disgrace, shy |(vi) xấu hổ, nhục nhã, ngại ngùng",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "恥辱（ちじょく）",
         "meaning": {
-          "english": "disgrace, shame"
+          "english": "disgrace, shame |(vi) sỉ nhục, nhục nhã"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(zukashii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "羞恥心（しゅうちしん）",
         "meaning": {
-          "english": "shyness"
+          "english": "shyness |(vi) tính hay thẹn, sự xấu hổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(zukashii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "厚顔無恥な（こうがんむちな）",
         "meaning": {
-          "english": "brazen and unscrupulous"
+          "english": "brazen and unscrupulous |(vi) trơ tráo, không biết xấu hổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(zukashii)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "恥（はじ）",
         "meaning": {
-          "english": "shame, embarrassment"
+          "english": "shame, embarrassment |(vi) sự xấu hổ, sự nhục nhã"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(zukashii)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "恥ずかしい（はずかしい）",
         "meaning": {
-          "english": "shy, be embarrassed"
+          "english": "shy, be embarrassed |(vi) xấu hổ, ngượng ngùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(zukashii)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "恥じる（はじる）",
         "meaning": {
-          "english": "feel ashamed"
+          "english": "feel ashamed |(vi) cảm thấy xấu hổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(zukashii)_06_f.opus",
@@ -200,7 +200,7 @@
     "kanji": {
       "character": "恥",
       "meaning": {
-        "english": "shame, disgrace, shy"
+        "english": "shame, disgrace, shy |(vi) xấu hổ, nhục nhã, ngại ngùng"
       },
       "strokes": {
         "count": 10,
@@ -258,7 +258,7 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (trái tim, tâm trí, tinh thần)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -279,7 +279,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1575",
     "strokeCount": 10,
-    "meaning": "shame, dishonor",
+    "meaning": "shame, dishonor |(vi) xấu hổ, nhục nhã |(hv) Sỉ",
     "kunyomi": [
       "は.じる",
       "はじ",
@@ -293,59 +293,59 @@
       {
         "example": "恥辱",
         "reading": "チジョク",
-        "meaning": "disgrace, shame, insult"
+        "meaning": "disgrace, shame, insult |(vi) sỉ nhục, nhục nhã, lăng mạ"
       },
       {
         "example": "恥丘",
         "reading": "チキュウ",
-        "meaning": "mons pubis, mons veneris"
+        "meaning": "mons pubis, mons veneris |(vi) gò mu, xương mu"
       },
       {
         "example": "無恥",
         "reading": "ムチ",
-        "meaning": "shameless"
+        "meaning": "shameless |(vi) vô sỉ, không biết xấu hổ"
       },
       {
         "example": "羞恥",
         "reading": "シュウチ",
-        "meaning": "shyness, bashfulness, shame"
+        "meaning": "shyness, bashfulness, shame |(vi) sự thẹn thùng, xấu hổ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "恥じる",
         "reading": "はじる",
-        "meaning": "to feel ashamed"
+        "meaning": "to feel ashamed |(vi) cảm thấy xấu hổ"
       },
       {
         "example": "恥",
         "reading": "はじ",
-        "meaning": "shame, embarrassment, disgrace"
+        "meaning": "shame, embarrassment, disgrace |(vi) sự xấu hổ, sự nhục nhã"
       },
       {
         "example": "恥さらし",
         "reading": "はじさらし",
-        "meaning": "disgrace, shame"
+        "meaning": "disgrace, shame |(vi) kẻ làm nhục, sự bêu xấu"
       },
       {
         "example": "大恥",
         "reading": "おおはじ",
-        "meaning": "great shame, great disgrace, harsh humiliation, deep embarrassment, unbearable loss of face"
+        "meaning": "great shame, great disgrace, harsh humiliation, deep embarrassment, unbearable loss of face |(vi) sự nhục nhã lớn, mất mặt nặng nề"
       },
       {
         "example": "死に恥",
         "reading": "しにはじ",
-        "meaning": "dishonor that persists after death, shame at the moment of one's death"
+        "meaning": "dishonor that persists after death, shame at the moment of one's death |(vi) nỗi nhục để lại sau khi chết"
       },
       {
         "example": "恥じらう",
         "reading": "はじらう",
-        "meaning": "to feel shy, to be bashful, to blush"
+        "meaning": "to feel shy, to be bashful, to blush |(vi) e thẹn, ngượng ngùng, đỏ mặt"
       },
       {
         "example": "恥ずかしい",
         "reading": "はずかしい",
-        "meaning": "embarrassing, embarrassed, ashamed, humiliated, shy, disgraceful, shameful"
+        "meaning": "embarrassing, embarrassed, ashamed, humiliated, shy, disgraceful, shameful |(vi) xấu hổ, ngượng ngùng, nhục nhã, đáng xấu hổ"
       }
     ],
     "radical": {
@@ -354,7 +354,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim, tâm trí)"
     },
     "parts": [
       "心",

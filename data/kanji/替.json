@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ka, kawaru, kaeru",
-    "meaning": "replace",
+    "meaning": "replace |(vi) thay thế",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "代替物（だいたいぶつ）",
         "meaning": {
-          "english": "substitute [n.]"
+          "english": "substitute [n.] |(vi) vật thay thế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryou)gae_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "交替する（こうたいする）",
         "meaning": {
-          "english": "alternate, take turns"
+          "english": "alternate, take turns |(vi) luân phiên, thay ca"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryou)gae_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "替える（かえる）",
         "meaning": {
-          "english": "exchange, replace [v.t.]"
+          "english": "exchange, replace [v.t.] |(vi) đổi, thay thế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryou)gae_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "替え玉（かえだま）",
         "meaning": {
-          "english": "substitute, double [n.]"
+          "english": "substitute, double [n.] |(vi) người thế thân, sợi mì thêm (ẩm thực)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryou)gae_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "両替（りょうがえ）",
         "meaning": {
-          "english": "change, money exchange"
+          "english": "change, money exchange |(vi) đổi tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryou)gae_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "着替える（きがえる）",
         "meaning": {
-          "english": "change one's clothes"
+          "english": "change one's clothes |(vi) thay quần áo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryou)gae_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "取り替える（とりかえる）",
         "meaning": {
-          "english": "exchange, replace"
+          "english": "exchange, replace |(vi) trao đổi, thay thế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryou)gae_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "替わる（かわる）",
         "meaning": {
-          "english": "be replaced [v.i.]"
+          "english": "be replaced [v.i.] |(vi) được thay thế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryou)gae_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "*為替（かわせ）",
         "meaning": {
-          "english": "money order"
+          "english": "money order |(vi) hối phiếu, chuyển khoản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ryou)gae_06_i.opus",
@@ -216,7 +216,7 @@
     "kanji": {
       "character": "替",
       "meaning": {
-        "english": "replace"
+        "english": "replace |(vi) thay thế"
       },
       "strokes": {
         "count": 12,
@@ -278,7 +278,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) mặt trời, ngày, thời gian"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi0.svg",
@@ -299,7 +299,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "979",
     "strokeCount": 12,
-    "meaning": "exchange, spare, substitute, per-",
+    "meaning": "exchange, spare, substitute, per- |(vi) trao đổi, dự phòng, thay thế |(hv) Thế",
     "kunyomi": [
       "か.える",
       "か.え-",
@@ -312,29 +312,29 @@
       {
         "example": "移替",
         "reading": "イタイ",
-        "meaning": "changing (person in charge, etc.), shifting"
+        "meaning": "changing (person in charge, etc.), shifting |(vi) thay đổi (người phụ trách...), dịch chuyển"
       },
       {
         "example": "衰替",
         "reading": "スイタイ",
-        "meaning": "weakening, declining"
+        "meaning": "weakening, declining |(vi) suy yếu, suy tàn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "替える",
         "reading": "かえる",
-        "meaning": "to replace, to convert, to change, to exchange, to interchange, to renew, to substitute (person, staff member, player, etc.)"
+        "meaning": "to replace, to convert, to change, to exchange, to interchange, to renew, to substitute (person, staff member, player, etc.) |(vi) thay thế, chuyển đổi, thay đổi, trao đổi, làm mới, thay (người, nhân viên, cầu thủ...)"
       },
       {
         "example": "替わる",
         "reading": "かわる",
-        "meaning": "to succeed, to relieve, to replace, to take the place of, to substitute for, to take over for, to represent, to hand over (telephone), to be exchanged, to change (places with), to switch"
+        "meaning": "to succeed, to relieve, to replace, to take the place of, to substitute for, to take over for, to represent, to hand over (telephone), to be exchanged, to change (places with), to switch |(vi) kế nhiệm, thay ca, thay thế, đảm nhận thay, đại diện, chuyển giao (điện thoại), được trao đổi, đổi (chỗ), chuyển đổi"
       }
     ],
     "radical": {
       "symbol": "曰",
-      "meaning": "say"
+      "meaning": "say |(vi) Viết (nói, rằng)"
     },
     "parts": [
       "二",

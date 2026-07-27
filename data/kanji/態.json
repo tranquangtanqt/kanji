@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "state, condition",
+    "meaning": "state, condition |(vi) trạng thái, tình trạng",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "態度（たいど）",
         "meaning": {
-          "english": "attitude, behavior, manner"
+          "english": "attitude, behavior, manner |(vi) thái độ, hành vi, cách cư xử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(do)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "態勢（たいせい）",
         "meaning": {
-          "english": "conditions, preparations"
+          "english": "conditions, preparations |(vi) tình thế, tư thế sẵn sàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(do)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "状態（じょうたい）",
         "meaning": {
-          "english": "condition, state"
+          "english": "condition, state |(vi) trạng thái, tình trạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(do)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "実態（じったい）",
         "meaning": {
-          "english": "true condition"
+          "english": "true condition |(vi) tình hình thực tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(do)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "重態（じゅうたい）",
         "meaning": {
-          "english": "serious condition"
+          "english": "serious condition |(vi) tình trạng nguy kịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(do)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "事態（じたい）",
         "meaning": {
-          "english": "state of affairs"
+          "english": "state of affairs |(vi) tình hình, sự việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(do)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "生態系（せいたいけい）",
         "meaning": {
-          "english": "ecosystem"
+          "english": "ecosystem |(vi) hệ sinh thái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(do)_06_g.opus",
@@ -208,7 +208,7 @@
     "kanji": {
       "character": "態",
       "meaning": {
-        "english": "state, condition"
+        "english": "state, condition |(vi) trạng thái, tình trạng"
       },
       "strokes": {
         "count": 14,
@@ -274,7 +274,7 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) trái tim, tâm trí, tinh thần"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -295,7 +295,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "353",
     "strokeCount": 14,
-    "meaning": "attitude, condition, figure, appearance, voice (of verbs)",
+    "meaning": "attitude, condition, figure, appearance, voice (of verbs) |(vi) thái độ, tình trạng, hình dáng, dạng (thể của động từ) |(hv) Thái",
     "kunyomi": [
       "わざ.と"
     ],
@@ -306,34 +306,34 @@
       {
         "example": "態",
         "reading": "タイ",
-        "meaning": "condition, figure, appearance, voice"
+        "meaning": "condition, figure, appearance, voice |(vi) tình trạng, hình dáng, thể (của động từ)"
       },
       {
         "example": "態勢",
         "reading": "タイセイ",
-        "meaning": "attitude, posture, preparedness, readiness"
+        "meaning": "attitude, posture, preparedness, readiness |(vi) tư thế, thái độ sẵn sàng, chuẩn bị"
       },
       {
         "example": "旧態",
         "reading": "キュウタイ",
-        "meaning": "old state of affairs"
+        "meaning": "old state of affairs |(vi) tình trạng cũ, nếp cũ"
       },
       {
         "example": "動態",
         "reading": "ドウタイ",
-        "meaning": "movement, dynamic state"
+        "meaning": "movement, dynamic state |(vi) trạng thái động, sự biến động"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "態と",
         "reading": "わざと",
-        "meaning": "on purpose, deliberately, intentionally"
+        "meaning": "on purpose, deliberately, intentionally |(vi) cố ý, có chủ đích"
       },
       {
         "example": "態とらしい",
         "reading": "わざとらしい",
-        "meaning": "unnatural, affected, studied, forced"
+        "meaning": "unnatural, affected, studied, forced |(vi) gượng gạo, giả tạo, không tự nhiên"
       }
     ],
     "radical": {
@@ -342,7 +342,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim, tấm lòng)"
     },
     "parts": [
       "匕",

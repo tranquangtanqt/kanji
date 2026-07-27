@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "otoko",
-    "meaning": "man",
+    "meaning": "man |(vi) đàn ông, con trai",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "男子学生（だんしがくせい）",
         "meaning": {
-          "english": "male student"
+          "english": "male student |(vi) học sinh nam"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otoko_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "男性（だんせい）",
         "meaning": {
-          "english": "male"
+          "english": "male |(vi) nam giới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otoko_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "長男（ちょうなん）",
         "meaning": {
-          "english": "eldest son"
+          "english": "eldest son |(vi) con trai cả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otoko_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "男（おとこ）",
         "meaning": {
-          "english": "man"
+          "english": "man |(vi) đàn ông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otoko_06_d.opus",
@@ -206,7 +206,7 @@
     "kanji": {
       "character": "男",
       "meaning": {
-        "english": "man"
+        "english": "man |(vi) đàn ông, con trai"
       },
       "strokes": {
         "count": 7,
@@ -258,7 +258,7 @@
         "romaji": "ta"
       },
       "meaning": {
-        "english": "rice paddy"
+        "english": "rice paddy |(vi) Điền (ruộng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ta0.svg",
@@ -279,7 +279,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "240",
     "strokeCount": 7,
-    "meaning": "male",
+    "meaning": "male |(vi) nam, con trai, đàn ông |(hv) Nam",
     "kunyomi": [
       "おとこ",
       "お"
@@ -292,89 +292,89 @@
       {
         "example": "男",
         "reading": "ダン",
-        "meaning": "masculine noun, son, baron, man, male"
+        "meaning": "masculine noun, son, baron, man, male |(vi) danh từ chỉ giống đực, con trai, tước nam, đàn ông, nam giới"
       },
       {
         "example": "男子",
         "reading": "ダンシ",
-        "meaning": "boy, man, male"
+        "meaning": "boy, man, male |(vi) con trai, đàn ông, nam giới"
       },
       {
         "example": "既男",
         "reading": "キダン",
-        "meaning": "married man"
+        "meaning": "married man |(vi) người đàn ông đã kết hôn"
       },
       {
         "example": "公侯伯子男",
         "reading": "コウコウハクシダン",
-        "meaning": "duke, marquis, count, viscount and baron (five ranks of nobility in Japan; 1869-1947)"
+        "meaning": "duke, marquis, count, viscount and baron (five ranks of nobility in Japan; 1869-1947) |(vi) công, hầu, bá, tử, nam (năm tước vị quý tộc Nhật Bản; 1869-1947)"
       },
       {
         "example": "男",
         "reading": "ナン",
-        "meaning": "son"
+        "meaning": "son |(vi) con trai"
       },
       {
         "example": "男女",
         "reading": "ダンジョ",
-        "meaning": "men and women, man and woman, both sexes, both genders"
+        "meaning": "men and women, man and woman, both sexes, both genders |(vi) nam và nữ, cả hai giới"
       },
       {
         "example": "一男",
         "reading": "イチナン",
-        "meaning": "boy, eldest son"
+        "meaning": "boy, eldest son |(vi) con trai, con trai cả"
       },
       {
         "example": "次男",
         "reading": "ジナン",
-        "meaning": "second son"
+        "meaning": "second son |(vi) con trai thứ hai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "男",
         "reading": "おとこ",
-        "meaning": "man, male, fellow, guy, chap, bloke, male lover, boyfriend, man, manliness, manly honor, manly honour, manly reputation"
+        "meaning": "man, male, fellow, guy, chap, bloke, male lover, boyfriend, man, manliness, manly honor, manly honour, manly reputation |(vi) đàn ông, nam giới, gã, anh chàng, người tình nam, bạn trai, nam tính, danh dự nam nhi"
       },
       {
         "example": "男の子",
         "reading": "おとこのこ",
-        "meaning": "boy, son, baby boy, young man"
+        "meaning": "boy, son, baby boy, young man |(vi) bé trai, con trai, thiếu niên"
       },
       {
         "example": "年男",
         "reading": "としおとこ",
-        "meaning": "man born in a year with the same Chinese zodiac sign as the current year"
+        "meaning": "man born in a year with the same Chinese zodiac sign as the current year |(vi) người đàn ông sinh năm trùng con giáp với năm hiện tại"
       },
       {
         "example": "山男",
         "reading": "やまおとこ",
-        "meaning": "giant, woodsman, alpinist"
+        "meaning": "giant, woodsman, alpinist |(vi) người khổng lồ, tiều phu, người leo núi"
       },
       {
         "example": "雄",
         "reading": "お",
-        "meaning": "male, manly, brave, heroic, larger (of the two), greater, man, husband"
+        "meaning": "male, manly, brave, heroic, larger (of the two), greater, man, husband |(vi) nam tính, dũng mãnh, anh hùng, lớn hơn (trong hai), to hơn, đàn ông, chồng"
       },
       {
         "example": "男",
         "reading": "おとこ",
-        "meaning": "man, male, fellow, guy, chap, bloke, male lover, boyfriend, man, manliness, manly honor, manly honour, manly reputation"
+        "meaning": "man, male, fellow, guy, chap, bloke, male lover, boyfriend, man, manliness, manly honor, manly honour, manly reputation |(vi) đàn ông, nam giới, gã, anh chàng, người tình nam, bạn trai, nam tính, danh dự nam nhi"
       },
       {
         "example": "愛上男",
         "reading": "あいうえお",
-        "meaning": "skilled male lover"
+        "meaning": "skilled male lover |(vi) người tình nam khéo léo"
       },
       {
         "example": "毒男",
         "reading": "どくお",
-        "meaning": "lonely heart, male virgin, loser, geek"
+        "meaning": "lonely heart, male virgin, loser, geek |(vi) người cô đơn, trai tân, kẻ thất bại, geek"
       }
     ],
     "radical": {
       "symbol": "田",
-      "meaning": "field"
+      "meaning": "field |(vi) Điền (ruộng)"
     },
     "parts": [
       "力",

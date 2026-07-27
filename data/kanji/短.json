@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 50,
     "kunyomi": "mijika, mijikai",
-    "meaning": "short",
+    "meaning": "short |(vi) ngắn",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "短歌（たんか）",
         "meaning": {
-          "english": "Japanese poetic form"
+          "english": "Japanese poetic form |(vi) thể thơ tanka Nhật Bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mijika(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "短気な（たんきな）",
         "meaning": {
-          "english": "quick tempered"
+          "english": "quick tempered |(vi) nóng tính, dễ cáu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mijika(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "短期間（たんきかん）",
         "meaning": {
-          "english": "short term"
+          "english": "short term |(vi) ngắn hạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mijika(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "短所（たんしょ）",
         "meaning": {
-          "english": "weak point"
+          "english": "weak point |(vi) điểm yếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mijika(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "短い（みじかい）",
         "meaning": {
-          "english": "short"
+          "english": "short |(vi) ngắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mijika(i)_06_e.opus",
@@ -210,7 +210,7 @@
     "kanji": {
       "character": "短",
       "meaning": {
-        "english": "short"
+        "english": "short |(vi) ngắn"
       },
       "strokes": {
         "count": 12,
@@ -272,7 +272,7 @@
         "romaji": "yahen"
       },
       "meaning": {
-        "english": "arrow"
+        "english": "arrow |(vi) Thỉ (mũi tên)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yahen0.svg",
@@ -293,7 +293,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "689",
     "strokeCount": 12,
-    "meaning": "short, brevity, fault, defect, weak point",
+    "meaning": "short, brevity, fault, defect, weak point |(vi) ngắn, sự ngắn gọn, khuyết điểm, nhược điểm |(hv) Đoản",
     "kunyomi": [
       "みじか.い"
     ],
@@ -304,34 +304,34 @@
       {
         "example": "短",
         "reading": "タン",
-        "meaning": "fault, defect, weak point, minor, 5-point card, short"
+        "meaning": "fault, defect, weak point, minor, 5-point card, short |(vi) khuyết điểm, nhược điểm, điểm yếu, nhỏ, lá bài 5 điểm, ngắn"
       },
       {
         "example": "短歌",
         "reading": "タンカ",
-        "meaning": "tanka, 31-mora Japanese poem"
+        "meaning": "tanka, 31-mora Japanese poem |(vi) tanka, thơ Nhật 31 âm tiết"
       },
       {
         "example": "長短",
         "reading": "チョウタン",
-        "meaning": "(relative) length, advantages and disadvantages, pluses and minuses, strong and weak points, merits and demerits"
+        "meaning": "(relative) length, advantages and disadvantages, pluses and minuses, strong and weak points, merits and demerits |(vi) độ dài (tương đối), ưu và nhược điểm, mặt lợi và hại, điểm mạnh và yếu"
       },
       {
         "example": "車高短",
         "reading": "シャコウタン",
-        "meaning": "lowered car, car with lowered suspension"
+        "meaning": "lowered car, car with lowered suspension |(vi) xe hạ gầm, xe có hệ thống treo thấp"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "短い",
         "reading": "みじかい",
-        "meaning": "short, brief"
+        "meaning": "short, brief |(vi) ngắn, ngắn gọn"
       }
     ],
     "radical": {
       "symbol": "矢",
-      "meaning": "arrow"
+      "meaning": "arrow |(vi) Thỉ (mũi tên)"
     },
     "parts": [
       "乞",

@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "karada",
-    "meaning": "body, form",
+    "meaning": "body, form |(vi) cơ thể, hình dạng",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "体重（たいじゅう）",
         "meaning": {
-          "english": "body weight"
+          "english": "body weight |(vi) cân nặng cơ thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "体力（たいりょく）",
         "meaning": {
-          "english": "physical strength"
+          "english": "physical strength |(vi) thể lực, sức khỏe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "大体（だいたい）",
         "meaning": {
-          "english": "in general, mostly"
+          "english": "in general, mostly |(vi) nói chung, đại khái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "全体（ぜんたい）",
         "meaning": {
-          "english": "entirety, whole"
+          "english": "entirety, whole |(vi) toàn thể, toàn bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "団体（だんたい）",
         "meaning": {
-          "english": "group, team, organization"
+          "english": "group, team, organization |(vi) đoàn thể, tổ chức, nhóm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "具体的な（ぐたいてきな）",
         "meaning": {
-          "english": "concrete"
+          "english": "concrete |(vi) cụ thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "体験する（たいけんする）",
         "meaning": {
-          "english": "experience"
+          "english": "experience |(vi) trải nghiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "体（からだ）",
         "meaning": {
-          "english": "body"
+          "english": "body |(vi) cơ thể, thân thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "体中（からだじゅう）",
         "meaning": {
-          "english": "throughout the body"
+          "english": "throughout the body |(vi) khắp cơ thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_i.opus",
@@ -252,7 +252,7 @@
     "kanji": {
       "character": "体",
       "meaning": {
-        "english": "body, form"
+        "english": "body, form |(vi) cơ thể, hình dạng"
       },
       "strokes": {
         "count": 7,
@@ -304,7 +304,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -325,7 +325,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "88",
     "strokeCount": 7,
-    "meaning": "body, substance, object, reality, counter for images",
+    "meaning": "body, substance, object, reality, counter for images |(vi) cơ thể, thực thể, đối tượng, thực tại, lượng từ đếm tượng hình |(hv) Thể",
     "kunyomi": [
       "からだ",
       "かたち"
@@ -338,69 +338,69 @@
       {
         "example": "体",
         "reading": "タイ",
-        "meaning": "body, physique, posture, shape, form, style, substance, identity, reality, field, counter for humanoid forms (e.g. dolls, statues, corpses, etc.), typeface, type"
+        "meaning": "body, physique, posture, shape, form, style, substance, identity, reality, field, counter for humanoid forms (e.g. dolls, statues, corpses, etc.), typeface, type |(vi) cơ thể, vóc dáng, tư thế, hình dạng, hình thức, phong cách, thực chất, bản sắc, thực tế, lĩnh vực, lượng từ đếm hình người (búp bê, tượng, xác chết...), kiểu chữ, loại"
       },
       {
         "example": "体育",
         "reading": "タイイク",
-        "meaning": "physical education, PE, gym (class)"
+        "meaning": "physical education, PE, gym (class) |(vi) giáo dục thể chất, thể dục, giờ thể dục"
       },
       {
         "example": "生体",
         "reading": "セイタイ",
-        "meaning": "organism, living body"
+        "meaning": "organism, living body |(vi) cơ thể sống, sinh vật sống"
       },
       {
         "example": "解体",
         "reading": "カイタイ",
-        "meaning": "demolition, taking down, dismantling, disassembly, taking apart, dissolution (of an organization, company, etc.), breaking up, dissection (of a body), dismemberment"
+        "meaning": "demolition, taking down, dismantling, disassembly, taking apart, dissolution (of an organization, company, etc.), breaking up, dissection (of a body), dismemberment |(vi) tháo dỡ, phá dỡ, tháo rời, giải thể (tổ chức, công ty...), mổ xẻ thi thể, phanh thây"
       },
       {
         "example": "体",
         "reading": "テイ",
-        "meaning": "appearance, air, condition, state, form"
+        "meaning": "appearance, air, condition, state, form |(vi) vẻ ngoài, dáng vẻ, tình trạng, trạng thái, hình thức"
       },
       {
         "example": "体裁",
         "reading": "テイサイ",
-        "meaning": "(outward) appearance, (proper) format (e.g. of an essay), form, style, appearances, decency, show, display, lip-service, insincere words, glib talk"
+        "meaning": "(outward) appearance, (proper) format (e.g. of an essay), form, style, appearances, decency, show, display, lip-service, insincere words, glib talk |(vi) vẻ bề ngoài, hình thức đúng chuẩn (của bài luận...), phong cách, thể diện, sự phô trương, lời nói sáo rỗng, lời nói khéo"
       },
       {
         "example": "身体",
         "reading": "シンタイ",
-        "meaning": "body, physical system, (the) person"
+        "meaning": "body, physical system, (the) person |(vi) cơ thể, thể chất, con người"
       },
       {
         "example": "風体",
         "reading": "フウテイ",
-        "meaning": "appearance, look, dress"
+        "meaning": "appearance, look, dress |(vi) diện mạo, dáng vẻ, trang phục"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "体",
         "reading": "からだ",
-        "meaning": "body, torso, trunk, build, physique, frame, figure, health, constitution"
+        "meaning": "body, torso, trunk, build, physique, frame, figure, health, constitution |(vi) cơ thể, thân mình, thân thể, vóc dáng, thể hình, sức khỏe, thể chất"
       },
       {
         "example": "体つき",
         "reading": "からだつき",
-        "meaning": "body build, figure"
+        "meaning": "body build, figure |(vi) vóc dáng, thân hình"
       },
       {
         "example": "お体",
         "reading": "おからだ",
-        "meaning": "body"
+        "meaning": "body |(vi) cơ thể (cách nói kính trọng)"
       },
       {
         "example": "御体",
         "reading": "おんからだ",
-        "meaning": "body of Christ (Eucharist)"
+        "meaning": "body of Christ (Eucharist) |(vi) mình thánh Chúa (Bí tích Thánh Thể)"
       },
       {
         "example": "形体",
         "reading": "なりかたち",
-        "meaning": "one's appearance"
+        "meaning": "one's appearance |(vi) diện mạo của một người"
       }
     ],
     "radical": {
@@ -408,7 +408,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người, con người)"
     },
     "parts": [
       "一",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "haya, sumi, hayai, hayameru, sumiyaka",
-    "meaning": "quick, fast, prompt",
+    "meaning": "quick, fast, prompt |(vi) nhanh, mau lẹ, kịp thời",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "速度（そくど）",
         "meaning": {
-          "english": "speed, velocity, rate"
+          "english": "speed, velocity, rate |(vi) tốc độ, vận tốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haya(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "速達（そくたつ）",
         "meaning": {
-          "english": "express, special delivery"
+          "english": "express, special delivery |(vi) chuyển phát nhanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haya(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "速報（そくほう）",
         "meaning": {
-          "english": "news flash"
+          "english": "news flash |(vi) tin nhanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haya(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "速球（そっきゅう）",
         "meaning": {
-          "english": "fastball"
+          "english": "fastball |(vi) bóng nhanh (bóng chày)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haya(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "早速（さっそく）",
         "meaning": {
-          "english": "immediately, promptly"
+          "english": "immediately, promptly |(vi) ngay lập tức, kịp thời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haya(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "快速（かいそく）",
         "meaning": {
-          "english": "high speed, express"
+          "english": "high speed, express |(vi) tốc hành, tốc độ cao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haya(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "時速（じそく）",
         "meaning": {
-          "english": "speed (mph)"
+          "english": "speed (mph) |(vi) tốc độ theo giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haya(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "迅速な（じんそくな）",
         "meaning": {
-          "english": "quick, fast, rapid, swift, prompt"
+          "english": "quick, fast, rapid, swift, prompt |(vi) nhanh chóng, mau lẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haya(i)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "急速な（きゅうそくな）",
         "meaning": {
-          "english": "rapid"
+          "english": "rapid |(vi) nhanh chóng, cấp tốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haya(i)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "速い（はやい）",
         "meaning": {
-          "english": "quick, fast, swift"
+          "english": "quick, fast, swift |(vi) nhanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haya(i)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "速める（はやめる）",
         "meaning": {
-          "english": "hasten, quicken, accelerate"
+          "english": "hasten, quicken, accelerate |(vi) làm nhanh lên, đẩy nhanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haya(i)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "速やかな（すみやかな）",
         "meaning": {
-          "english": "speedy"
+          "english": "speedy |(vi) nhanh chóng, mau lẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haya(i)_06_l.opus",
@@ -290,7 +290,7 @@
     "kanji": {
       "character": "速",
       "meaning": {
-        "english": "quick, fast, prompt"
+        "english": "quick, fast, prompt |(vi) nhanh, mau lẹ, kịp thời"
       },
       "strokes": {
         "count": 10,
@@ -348,7 +348,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) đường, đi bộ, tiến lên"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -369,7 +369,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "576",
     "strokeCount": 10,
-    "meaning": "quick, fast",
+    "meaning": "quick, fast |(vi) nhanh, mau lẹ |(hv) Tốc",
     "kunyomi": [
       "はや.い",
       "はや-",
@@ -383,39 +383,39 @@
       {
         "example": "速",
         "reading": "ソク",
-        "meaning": "gear, speed (e.g. 4-speed transmission)"
+        "meaning": "gear, speed (e.g. 4-speed transmission) |(vi) số (hộp số), tốc độ (ví dụ hộp số 4 cấp)"
       },
       {
         "example": "速度",
         "reading": "ソクド",
-        "meaning": "speed, velocity, pace, rate, velocity"
+        "meaning": "speed, velocity, pace, rate, velocity |(vi) tốc độ, vận tốc, nhịp độ"
       },
       {
         "example": "失速",
         "reading": "シッソク",
-        "meaning": "stall, downturn, slowdown, slump, weakening, decline"
+        "meaning": "stall, downturn, slowdown, slump, weakening, decline |(vi) chết máy, giảm tốc, suy thoái, chững lại"
       },
       {
         "example": "快速",
         "reading": "カイソク",
-        "meaning": "high speed, rapidity, rapid-service train (not as fast as express), rapid train"
+        "meaning": "high speed, rapidity, rapid-service train (not as fast as express), rapid train |(vi) tốc độ cao, nhanh chóng, tàu tốc hành (chậm hơn tàu nhanh)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "早い",
         "reading": "はやい",
-        "meaning": "fast, quick, rapid, swift, speedy, brisk, prompt, early, soon, earlier than usual, premature, too soon, too early, easy, simple, quick, fast, as soon as ..., the moment ..., the instant ..."
+        "meaning": "fast, quick, rapid, swift, speedy, brisk, prompt, early, soon, earlier than usual, premature, too soon, too early, easy, simple, quick, fast, as soon as ..., the moment ..., the instant ... |(vi) nhanh, mau lẹ, kịp thời, sớm, sớm hơn bình thường, quá sớm, đơn giản, dễ dàng, ngay khi..."
       },
       {
         "example": "早める",
         "reading": "はやめる",
-        "meaning": "to bring forward (e.g. by 3 hours), to advance, to hasten (e.g. one's death), to expedite, to precipitate, to quicken (e.g. one's step), to speed up, to accelerate"
+        "meaning": "to bring forward (e.g. by 3 hours), to advance, to hasten (e.g. one's death), to expedite, to precipitate, to quicken (e.g. one's step), to speed up, to accelerate |(vi) đẩy sớm lên (ví dụ 3 tiếng), tiến lên, đẩy nhanh (cái chết), thúc đẩy, đẩy nhanh (bước chân), tăng tốc"
       },
       {
         "example": "速やか",
         "reading": "すみやか",
-        "meaning": "quick, speedy, prompt, rapid, swift"
+        "meaning": "quick, speedy, prompt, rapid, swift |(vi) nhanh chóng, mau lẹ, kịp thời"
       }
     ],
     "radical": {
@@ -425,7 +425,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, chợt đi chợt dừng)"
     },
     "parts": [
       "ハ",

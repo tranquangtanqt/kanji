@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "oo, ooi, ooku",
-    "meaning": "many",
+    "meaning": "many |(vi) nhiều",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "多分（たぶん）",
         "meaning": {
-          "english": "perhaps"
+          "english": "perhaps |(vi) có lẽ, có thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "多量（たりょう）",
         "meaning": {
-          "english": "large quantity"
+          "english": "large quantity |(vi) số lượng lớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "多少（たしょう）",
         "meaning": {
-          "english": "more or less"
+          "english": "more or less |(vi) ít nhiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "多目的（たもくてき）",
         "meaning": {
-          "english": "multipurpose"
+          "english": "multipurpose |(vi) đa mục đích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "多い（おおい）",
         "meaning": {
-          "english": "many"
+          "english": "many |(vi) nhiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "多めに（おおめに）",
         "meaning": {
-          "english": "generously"
+          "english": "generously |(vi) nhiều hơn một chút, rộng rãi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_f.opus",
@@ -222,7 +222,7 @@
     "kanji": {
       "character": "多",
       "meaning": {
-        "english": "many"
+        "english": "many |(vi) nhiều"
       },
       "strokes": {
         "count": 6,
@@ -272,7 +272,7 @@
         "romaji": "yuube"
       },
       "meaning": {
-        "english": "evening"
+        "english": "evening |(vi) Tịch (buổi tối)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yuube0.svg",
@@ -293,7 +293,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "139",
     "strokeCount": 6,
-    "meaning": "many, frequent, much",
+    "meaning": "many, frequent, much |(vi) nhiều, thường xuyên, đa |(hv) Đa",
     "kunyomi": [
       "おお.い",
       "まさ.に",
@@ -306,39 +306,39 @@
       {
         "example": "多",
         "reading": "タ",
-        "meaning": "multi-"
+        "meaning": "multi- |(vi) đa-"
       },
       {
         "example": "多角",
         "reading": "タカク",
-        "meaning": "many-sided, versatile, polygonal, diversified"
+        "meaning": "many-sided, versatile, polygonal, diversified |(vi) đa diện, đa năng, đa giác, đa dạng"
       },
       {
         "example": "過多",
         "reading": "カタ",
-        "meaning": "excess, surplus, superabundance"
+        "meaning": "excess, surplus, superabundance |(vi) quá nhiều, dư thừa, thừa mứa"
       },
       {
         "example": "最多",
         "reading": "サイタ",
-        "meaning": "most (numerous), largest (number of)"
+        "meaning": "most (numerous), largest (number of) |(vi) nhiều nhất, số lượng lớn nhất"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "多い",
         "reading": "おおい",
-        "meaning": "many, numerous, a lot, large amount of, large quantity of, a lot, much, frequent, common"
+        "meaning": "many, numerous, a lot, large amount of, large quantity of, a lot, much, frequent, common |(vi) nhiều, đông, rất nhiều, số lượng lớn, khối lượng lớn, thường xuyên, phổ biến"
       },
       {
         "example": "大いに",
         "reading": "おおいに",
-        "meaning": "very, very much, greatly, considerably, highly, exceedingly, a great deal, a lot, to one's heart's content"
+        "meaning": "very, very much, greatly, considerably, highly, exceedingly, a great deal, a lot, to one's heart's content |(vi) rất, rất nhiều, cực kỳ, đáng kể, cao, vô cùng, thỏa thích, thỏa sức"
       }
     ],
     "radical": {
       "symbol": "夕",
-      "meaning": "evening, sunset"
+      "meaning": "evening, sunset |(vi) Tịch (buổi tối, hoàng hôn)"
     },
     "parts": [
       "夕"

@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "soko, sokoneru, sokonau",
-    "meaning": "loss, damage, harm",
+    "meaning": "loss, damage, harm |(vi) mất mát, thiệt hại, tổn thương",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "損（そん）",
         "meaning": {
-          "english": "loss"
+          "english": "loss |(vi) thiệt hại, tổn thất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(gai)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "損失（そんしつ）",
         "meaning": {
-          "english": "loss"
+          "english": "loss |(vi) tổn thất, thiệt hại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(gai)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "損得（そんとく）",
         "meaning": {
-          "english": "loss and gain"
+          "english": "loss and gain |(vi) được mất, lời lỗ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(gai)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "損害（そんがい）",
         "meaning": {
-          "english": "damage, injury, loss"
+          "english": "damage, injury, loss |(vi) thiệt hại, tổn thất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(gai)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "損傷（そんしょう）",
         "meaning": {
-          "english": "damage, injury"
+          "english": "damage, injury |(vi) hư hại, tổn thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(gai)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "大損（おおぞん）",
         "meaning": {
-          "english": "heavy loss"
+          "english": "heavy loss |(vi) thiệt hại nặng nề"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(gai)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "損害賠償（そんがいばいしょう）",
         "meaning": {
-          "english": "restitution, compensation"
+          "english": "restitution, compensation |(vi) bồi thường thiệt hại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(gai)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "破損する（はそんする）",
         "meaning": {
-          "english": "damage, be damaged"
+          "english": "damage, be damaged |(vi) hư hỏng, bị hỏng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(gai)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "損ねる（そこねる）",
         "meaning": {
-          "english": "harm, hurt, injure [v.t.]"
+          "english": "harm, hurt, injure [v.t.] |(vi) làm tổn hại, làm hỏng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(gai)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "損なう（そこなう）",
         "meaning": {
-          "english": "harm, damage [v.t.]"
+          "english": "harm, damage [v.t.] |(vi) làm tổn hại, gây hại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(gai)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "見損なう（みそこなう）",
         "meaning": {
-          "english": "misjudge, miss, fail to see"
+          "english": "misjudge, miss, fail to see |(vi) đánh giá sai, bỏ lỡ, nhìn nhầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(gai)_06_k.opus",
@@ -227,7 +227,7 @@
     "kanji": {
       "character": "損",
       "meaning": {
-        "english": "loss, damage, harm"
+        "english": "loss, damage, harm |(vi) mất mát, thiệt hại, tổn thương"
       },
       "strokes": {
         "count": 13,
@@ -291,7 +291,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) tay"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -312,7 +312,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "807",
     "strokeCount": 13,
-    "meaning": "damage, loss, disadvantage, hurt, injure",
+    "meaning": "damage, loss, disadvantage, hurt, injure |(vi) thiệt hại, tổn thất, bất lợi, gây tổn thương |(hv) Tổn",
     "kunyomi": [
       "そこ.なう",
       "そこな.う",
@@ -327,39 +327,39 @@
       {
         "example": "損",
         "reading": "ソン",
-        "meaning": "loss, damage, harm, unprofitable, disadvantage, handicap, drawback, unfavorable"
+        "meaning": "loss, damage, harm, unprofitable, disadvantage, handicap, drawback, unfavorable |(vi) thiệt hại, tổn thất, không có lợi, bất lợi, trở ngại"
       },
       {
         "example": "損益",
         "reading": "ソンエキ",
-        "meaning": "profit and loss, advantage and disadvantage"
+        "meaning": "profit and loss, advantage and disadvantage |(vi) lời lỗ, được mất"
       },
       {
         "example": "毀損",
         "reading": "キソン",
-        "meaning": "damage, injury, defamation, harm"
+        "meaning": "damage, injury, defamation, harm |(vi) hư hại, phỉ báng, tổn hại"
       },
       {
         "example": "海損",
         "reading": "カイソン",
-        "meaning": "sea damage, average loss"
+        "meaning": "sea damage, average loss |(vi) tổn thất hàng hải"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "損なう",
         "reading": "そこなう",
-        "meaning": "to harm, to hurt, to injure, to damage, to spoil, to mar, to ruin, to fail to do, to do amiss, to miss one's opportunity to do, to almost do, to come close to doing"
+        "meaning": "to harm, to hurt, to injure, to damage, to spoil, to mar, to ruin, to fail to do, to do amiss, to miss one's opportunity to do, to almost do, to come close to doing |(vi) làm hại, làm tổn thương, gây hư hỏng, làm hỏng, không làm được, làm sai, lỡ cơ hội, suýt làm, gần như làm"
       },
       {
         "example": "損なう",
         "reading": "そこなう",
-        "meaning": "to harm, to hurt, to injure, to damage, to spoil, to mar, to ruin, to fail to do, to do amiss, to miss one's opportunity to do, to almost do, to come close to doing"
+        "meaning": "to harm, to hurt, to injure, to damage, to spoil, to mar, to ruin, to fail to do, to do amiss, to miss one's opportunity to do, to almost do, to come close to doing |(vi) làm hại, làm tổn thương, gây hư hỏng, làm hỏng, không làm được, làm sai, lỡ cơ hội, suýt làm, gần như làm"
       },
       {
         "example": "損ねる",
         "reading": "そこねる",
-        "meaning": "to harm, to hurt, to injure, to wreck, to miss one's chance to (do something), to fail to (do what one ought to have done)"
+        "meaning": "to harm, to hurt, to injure, to wreck, to miss one's chance to (do something), to fail to (do what one ought to have done) |(vi) làm hại, làm tổn thương, phá hỏng, lỡ cơ hội (làm việc gì), không làm được điều đáng lẽ phải làm"
       }
     ],
     "radical": {
@@ -367,7 +367,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "ハ",

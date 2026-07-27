@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "space, midair",
+    "meaning": "space, midair |(vi) không gian, giữa không trung",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "宙返り（ちゅうがえり）",
         "meaning": {
-          "english": "somersault, loop"
+          "english": "somersault, loop |(vi) lộn nhào, vòng lộn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu(gaeri)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "宙づり（ちゅうづり）",
         "meaning": {
-          "english": "hanging, suspended [n.]"
+          "english": "hanging, suspended [n.] |(vi) treo lơ lửng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu(gaeri)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "宇宙（うちゅう）",
         "meaning": {
-          "english": "universe, cosmos, space"
+          "english": "universe, cosmos, space |(vi) vũ trụ, không gian"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu(gaeri)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "宇宙飛行士（うちゅうひこうし）",
         "meaning": {
-          "english": "astronaut"
+          "english": "astronaut |(vi) phi hành gia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu(gaeri)_06_d.opus",
@@ -133,7 +133,7 @@
     "kanji": {
       "character": "宙",
       "meaning": {
-        "english": "space, midair"
+        "english": "space, midair |(vi) không gian, giữa không trung"
       },
       "strokes": {
         "count": 8,
@@ -187,7 +187,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà, mái che)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -208,7 +208,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1005",
     "strokeCount": 8,
-    "meaning": "mid-air, air, space, sky, memorization, interval of time",
+    "meaning": "mid-air, air, space, sky, memorization, interval of time |(vi) giữa không trung, không khí, không gian, bầu trời, học thuộc lòng, khoảng thời gian |(hv) Trụ",
     "kunyomi": [],
     "onyomi": [
       "チュウ"
@@ -217,28 +217,28 @@
       {
         "example": "宙",
         "reading": "チュウ",
-        "meaning": "space, air, midair, (from) memory, (by) heart"
+        "meaning": "space, air, midair, (from) memory, (by) heart |(vi) không gian, không khí, giữa không trung, (theo) trí nhớ, thuộc lòng"
       },
       {
         "example": "宙返り",
         "reading": "チュウガエリ",
-        "meaning": "somersault, looping-the-loop"
+        "meaning": "somersault, looping-the-loop |(vi) lộn nhào, bay vòng lộn"
       },
       {
         "example": "小宇宙",
         "reading": "ショウウチュウ",
-        "meaning": "microcosmos, microcosm"
+        "meaning": "microcosmos, microcosm |(vi) tiểu vũ trụ"
       },
       {
         "example": "大宇宙",
         "reading": "ダイウチュウ",
-        "meaning": "macrocosmos, macrocosm, the universe, the cosmos"
+        "meaning": "macrocosmos, macrocosm, the universe, the cosmos |(vi) đại vũ trụ, toàn thể vũ trụ"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà, mái che)"
     },
     "parts": [
       "宀",

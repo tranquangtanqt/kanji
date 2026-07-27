@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "oku, okuru",
-    "meaning": "present a gift, give, bestow",
+    "meaning": "present a gift, give, bestow |(vi) tặng quà, cho, ban tặng",
     "kstroke": 18,
     "examples": [
       {
         "japanese": "贈与（ぞうよ）",
         "meaning": {
-          "english": "presentation, donation"
+          "english": "presentation, donation |(vi) tặng, hiến tặng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oku(rimono)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "贈賄（ぞうわい）",
         "meaning": {
-          "english": "bribery"
+          "english": "bribery |(vi) hối lộ (đưa hối lộ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oku(rimono)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "贈答品（ぞうとうひん）",
         "meaning": {
-          "english": "gift, present"
+          "english": "gift, present |(vi) quà tặng qua lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oku(rimono)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "贈呈する（ぞうていする）",
         "meaning": {
-          "english": "give, present"
+          "english": "give, present |(vi) tặng, trao tặng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oku(rimono)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "寄贈する（きそう/きぞうする）",
         "meaning": {
-          "english": "donate, present"
+          "english": "donate, present |(vi) quyên tặng, hiến tặng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oku(rimono)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "贈る（おくる）",
         "meaning": {
-          "english": "send, give to, award to"
+          "english": "send, give to, award to |(vi) tặng, gửi, trao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oku(rimono)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "贈り物（おくりもの）",
         "meaning": {
-          "english": "present, gift"
+          "english": "present, gift |(vi) món quà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oku(rimono)_06_g.opus",
@@ -209,7 +209,7 @@
     "kanji": {
       "character": "贈",
       "meaning": {
-        "english": "present a gift, give, bestow"
+        "english": "present a gift, give, bestow |(vi) tặng quà, cho, ban tặng"
       },
       "strokes": {
         "count": 18,
@@ -283,7 +283,7 @@
         "romaji": "kaihen"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) vỏ sò, tài sản, của cải"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kaihen0.svg",
@@ -304,7 +304,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1001",
     "strokeCount": 18,
-    "meaning": "presents, send, give to, award to, confer on, presenting something",
+    "meaning": "presents, send, give to, award to, confer on, presenting something |(vi) quà tặng, gửi, cho, trao tặng, ban tặng, biếu tặng thứ gì đó |(hv) Tặng",
     "kunyomi": [
       "おく.る"
     ],
@@ -316,34 +316,34 @@
       {
         "example": "贈答",
         "reading": "ゾウトウ",
-        "meaning": "exchange of presents"
+        "meaning": "exchange of presents |(vi) trao đổi quà tặng"
       },
       {
         "example": "贈呈",
         "reading": "ゾウテイ",
-        "meaning": "presentation (of a gift, prize, etc.)"
+        "meaning": "presentation (of a gift, prize, etc.) |(vi) trao tặng (quà, giải thưởng...)"
       },
       {
         "example": "遺贈",
         "reading": "イゾウ",
-        "meaning": "bequest, legacy"
+        "meaning": "bequest, legacy |(vi) di tặng, tài sản để lại theo di chúc"
       },
       {
         "example": "恵贈",
         "reading": "ケイゾウ",
-        "meaning": "presenting (a gift, etc.), giving, bestowing"
+        "meaning": "presenting (a gift, etc.), giving, bestowing |(vi) tặng biếu, ban cho"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "贈る",
         "reading": "おくる",
-        "meaning": "to give (as a gift), to present, to confer, to bestow, to award"
+        "meaning": "to give (as a gift), to present, to confer, to bestow, to award |(vi) tặng, biếu, trao, ban tặng, trao giải"
       }
     ],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò)"
     },
     "parts": [
       "ハ",

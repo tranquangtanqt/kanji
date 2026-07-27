@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "rinse",
+    "meaning": "rinse |(vi) giặt, xả",
     "kstroke": 17,
     "examples": [
       {
         "japanese": "洗濯機（せんたくき）",
         "meaning": {
-          "english": "washing machine"
+          "english": "washing machine |(vi) máy giặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sen)taku(ki)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "洗濯物（せんたくもの）",
         "meaning": {
-          "english": "clothes to be washed"
+          "english": "clothes to be washed |(vi) quần áo cần giặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sen)taku(ki)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "洗濯する（せんたくする）",
         "meaning": {
-          "english": "do laundry"
+          "english": "do laundry |(vi) giặt giũ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sen)taku(ki)_06_c.opus",
@@ -137,7 +137,7 @@
     "kanji": {
       "character": "濯",
       "meaning": {
-        "english": "rinse"
+        "english": "rinse |(vi) giặt, xả"
       },
       "strokes": {
         "count": 17,
@@ -209,7 +209,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) nước"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -230,7 +230,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1698",
     "strokeCount": 17,
-    "meaning": "laundry, wash, pour on, rinse",
+    "meaning": "laundry, wash, pour on, rinse |(vi) giặt giũ, rửa, dội nước, xả nước |(hv) Trạc",
     "kunyomi": [
       "すす.ぐ",
       "ゆす.ぐ"
@@ -242,24 +242,24 @@
       {
         "example": "乾燥洗濯",
         "reading": "カンソウセンタク",
-        "meaning": "dry cleaning"
+        "meaning": "dry cleaning |(vi) giặt khô"
       },
       {
         "example": "鬼のいぬまに洗濯",
         "reading": "オニノイヌマニセンタク",
-        "meaning": "playing while the cat is away, taking a break while the boss is out, doing what one wants when one is (finally) alone, relaxing while the demon is out"
+        "meaning": "playing while the cat is away, taking a break while the boss is out, doing what one wants when one is (finally) alone, relaxing while the demon is out |(vi) mèo vắng nhà thì chuột nhảy múa, tranh thủ lúc sếp đi vắng để nghỉ ngơi, thoải mái làm điều mình thích khi được ở một mình"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "濯ぐ",
         "reading": "すすぐ",
-        "meaning": "to rinse, to wash out, to have one's revenge, to wipe out a disgrace"
+        "meaning": "to rinse, to wash out, to have one's revenge, to wipe out a disgrace |(vi) xả, giặt sạch, trả thù, rửa nhục"
       },
       {
         "example": "濯ぐ",
         "reading": "すすぐ",
-        "meaning": "to rinse, to wash out, to have one's revenge, to wipe out a disgrace"
+        "meaning": "to rinse, to wash out, to have one's revenge, to wipe out a disgrace |(vi) xả, giặt sạch, trả thù, rửa nhục"
       }
     ],
     "radical": {
@@ -268,7 +268,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "ヨ",

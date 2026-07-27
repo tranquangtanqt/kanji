@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "oo, ookii",
-    "meaning": "big",
+    "meaning": "big |(vi) to, lớn",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "大学（だいがく）",
         "meaning": {
-          "english": "university"
+          "english": "university |(vi) đại học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oo(kii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "大学院（だいがくいん）",
         "meaning": {
-          "english": "graduate school"
+          "english": "graduate school |(vi) cao học, sau đại học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oo(kii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "大体（だいたい）",
         "meaning": {
-          "english": "in general, mostly"
+          "english": "in general, mostly |(vi) nói chung, đại khái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oo(kii)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "お大事に（おだいじに）",
         "meaning": {
-          "english": "take care (to a sick person)"
+          "english": "take care (to a sick person) |(vi) mong bạn mau khỏe (nói với người ốm)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oo(kii)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "大丈夫（だいじょうぶ）",
         "meaning": {
-          "english": "safe, all right"
+          "english": "safe, all right |(vi) ổn, không sao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oo(kii)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "大分（だいぶ）",
         "meaning": {
-          "english": "considerably"
+          "english": "considerably |(vi) khá nhiều, đáng kể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oo(kii)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "大変な（たいへんな）",
         "meaning": {
-          "english": "terrible, very"
+          "english": "terrible, very |(vi) khủng khiếp, rất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oo(kii)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "大した（たいした）",
         "meaning": {
-          "english": "significant"
+          "english": "significant |(vi) đáng kể, ghê gớm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oo(kii)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "大きい（おおきい）",
         "meaning": {
-          "english": "big"
+          "english": "big |(vi) to, lớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oo(kii)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "大阪（おおさか）",
         "meaning": {
-          "english": "Osaka"
+          "english": "Osaka |(vi) Osaka"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oo(kii)_06_j.opus",
@@ -288,7 +288,7 @@
     "kanji": {
       "character": "大",
       "meaning": {
-        "english": "big"
+        "english": "big |(vi) to, lớn"
       },
       "strokes": {
         "count": 3,
@@ -332,7 +332,7 @@
         "romaji": "dai"
       },
       "meaning": {
-        "english": "large, big"
+        "english": "large, big |(vi) Đại (to, lớn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/dai0.svg",
@@ -353,7 +353,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "7",
     "strokeCount": 3,
-    "meaning": "large, big",
+    "meaning": "large, big |(vi) to, lớn |(hv) Đại",
     "kunyomi": [
       "おお-",
       "おお.きい",
@@ -367,49 +367,49 @@
       {
         "example": "大",
         "reading": "ダイ",
-        "meaning": "large, big, great, huge, vast, major, important, serious, severe, great, prominent, eminent, distinguished, -sized, as big as, the size of, university, large (e.g. serving size), large option, long month (i.e. having 31 days)"
+        "meaning": "large, big, great, huge, vast, major, important, serious, severe, great, prominent, eminent, distinguished, -sized, as big as, the size of, university, large (e.g. serving size), large option, long month (i.e. having 31 days) |(vi) to, lớn, vĩ đại, khổng lồ, bao la, chính, quan trọng, nghiêm trọng, nặng nề, lớn lao, nổi bật, ưu tú, xuất chúng, cỡ, to bằng, kích cỡ của, đại học, cỡ lớn (khẩu phần), lựa chọn cỡ lớn, tháng đủ (31 ngày)"
       },
       {
         "example": "大尉",
         "reading": "タイイ",
-        "meaning": "captain (Army, US Marine Corps, USAF), lieutenant (Navy), flight lieutenant (RAF, RAAF, RNZAF, etc.)"
+        "meaning": "captain (Army, US Marine Corps, USAF), lieutenant (Navy), flight lieutenant (RAF, RAAF, RNZAF, etc.) |(vi) đại úy (Lục quân, Thủy quân lục chiến Mỹ, Không quân Mỹ), trung úy hải quân, đại úy phi công (RAF, RAAF, RNZAF...)"
       },
       {
         "example": "国大",
         "reading": "コクダイ",
-        "meaning": "national university"
+        "meaning": "national university |(vi) đại học quốc gia"
       },
       {
         "example": "電通大",
         "reading": "デンツウダイ",
-        "meaning": "University of Electro-Communications"
+        "meaning": "University of Electro-Communications |(vi) Đại học Điện thông tin (University of Electro-Communications)"
       },
       {
         "example": "大",
         "reading": "タイ",
-        "meaning": "nth year in the Taishō era (1912.7.30-1926.12.25)"
+        "meaning": "nth year in the Taishō era (1912.7.30-1926.12.25) |(vi) năm thứ n thời Đại Chính (1912.7.30-1926.12.25)"
       },
       {
         "example": "大尉",
         "reading": "タイイ",
-        "meaning": "captain (Army, US Marine Corps, USAF), lieutenant (Navy), flight lieutenant (RAF, RAAF, RNZAF, etc.)"
+        "meaning": "captain (Army, US Marine Corps, USAF), lieutenant (Navy), flight lieutenant (RAF, RAAF, RNZAF, etc.) |(vi) đại úy (Lục quân, Thủy quân lục chiến Mỹ, Không quân Mỹ), trung úy hải quân, đại úy phi công (RAF, RAAF, RNZAF...)"
       },
       {
         "example": "御大",
         "reading": "オンタイ",
-        "meaning": "boss, governor, headman"
+        "meaning": "boss, governor, headman |(vi) sếp, thủ lĩnh, người đứng đầu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "大きい",
         "reading": "おおきい",
-        "meaning": "big, large, great, loud, extensive, spacious, important, decisive, valuable, older, grown up"
+        "meaning": "big, large, great, loud, extensive, spacious, important, decisive, valuable, older, grown up |(vi) to, lớn, vĩ đại, ồn ào, rộng lớn, thoáng đãng, quan trọng, mang tính quyết định, quý giá, lớn tuổi hơn, trưởng thành"
       }
     ],
     "radical": {
       "symbol": "大",
-      "meaning": "big, very"
+      "meaning": "big, very |(vi) Đại (to, lớn)"
     },
     "parts": [
       "大"

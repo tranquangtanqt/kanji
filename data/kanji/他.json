@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "other",
+    "meaning": "other |(vi) khác",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "他人（たにん）",
         "meaning": {
-          "english": "stranger [n.]"
+          "english": "stranger [n.] |(vi) người khác, người lạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta-hoka_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "排他的な（はいたてきな）",
         "meaning": {
-          "english": "exclusive"
+          "english": "exclusive |(vi) có tính loại trừ, bài trừ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta-hoka_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "その他（そのた）",
         "meaning": {
-          "english": "etc."
+          "english": "etc. |(vi) những cái khác, vân vân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta-hoka_06_c.opus",
@@ -150,7 +150,7 @@
     "kanji": {
       "character": "他",
       "meaning": {
-        "english": "other"
+        "english": "other |(vi) khác"
       },
       "strokes": {
         "count": 5,
@@ -198,7 +198,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -219,7 +219,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "543",
     "strokeCount": 5,
-    "meaning": "other, another, the others",
+    "meaning": "other, another, the others |(vi) khác, người khác, những người khác |(hv) Tha",
     "kunyomi": [
       "ほか"
     ],
@@ -230,44 +230,44 @@
       {
         "example": "他",
         "reading": "タ",
-        "meaning": "other (esp. people and abstract matters)"
+        "meaning": "other (esp. people and abstract matters) |(vi) khác (đặc biệt là người và sự vật trừu tượng)"
       },
       {
         "example": "他国",
         "reading": "タコク",
-        "meaning": "foreign country, another country, another province, strange land, alien land"
+        "meaning": "foreign country, another country, another province, strange land, alien land |(vi) nước ngoài, nước khác, tỉnh khác, xứ lạ"
       },
       {
         "example": "自他",
         "reading": "ジタ",
-        "meaning": "oneself and others, subject and object, transitivity, transitive verbs and intransitive verbs, first person and third person, self-salvation and salvation by faith"
+        "meaning": "oneself and others, subject and object, transitivity, transitive verbs and intransitive verbs, first person and third person, self-salvation and salvation by faith |(vi) bản thân và người khác, chủ thể và khách thể, tính chuyển tiếp, động từ tha động và tự động, ngôi thứ nhất và ngôi thứ ba, tự cứu độ và cứu độ nhờ đức tin"
       },
       {
         "example": "排他",
         "reading": "ハイタ",
-        "meaning": "exclusion"
+        "meaning": "exclusion |(vi) sự loại trừ, bài trừ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "他",
         "reading": "ほか",
-        "meaning": "another place, some other place, somewhere else, outside, another (person or thing), other, different, something else, someone else, the rest, et al., beyond (one's expectations, imagination, etc.), outside, except, but, other than, apart from, besides, in addition to, as well as, on top of"
+        "meaning": "another place, some other place, somewhere else, outside, another (person or thing), other, different, something else, someone else, the rest, et al., beyond (one's expectations, imagination, etc.), outside, except, but, other than, apart from, besides, in addition to, as well as, on top of |(vi) nơi khác, chỗ khác, bên ngoài, người hay vật khác, khác, khác biệt, cái khác, người khác, phần còn lại, những người khác, ngoài dự đoán, bên ngoài, trừ, nhưng, khác với, ngoài ra, thêm vào đó, cũng như"
       },
       {
         "example": "他に",
         "reading": "ほかに",
-        "meaning": "else, in addition, besides"
+        "meaning": "else, in addition, besides |(vi) ngoài ra, thêm nữa, bên cạnh đó"
       },
       {
         "example": "思いのほか",
         "reading": "おもいのほか",
-        "meaning": "unexpectedly, surprisingly"
+        "meaning": "unexpectedly, surprisingly |(vi) ngoài dự đoán, đáng ngạc nhiên"
       },
       {
         "example": "殊の外",
         "reading": "ことのほか",
-        "meaning": "exceedingly, extremely, exceptionally, unusually, unexpectedly"
+        "meaning": "exceedingly, extremely, exceptionally, unusually, unexpectedly |(vi) vô cùng, cực kỳ, đặc biệt, khác thường, bất ngờ"
       }
     ],
     "radical": {
@@ -275,7 +275,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người, con người)"
     },
     "parts": [
       "也",

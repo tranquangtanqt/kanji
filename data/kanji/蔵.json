@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 6,
     "kunyomi": "kura",
-    "meaning": "store, warehouse",
+    "meaning": "store, warehouse |(vi) kho, nhà kho",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "蔵書（ぞうしょ）",
         "meaning": {
-          "english": "book collection"
+          "english": "book collection |(vi) bộ sưu tập sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-kura_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "蔵相（ぞうしょう）",
         "meaning": {
-          "english": "Minister of Finance"
+          "english": "Minister of Finance |(vi) Bộ trưởng Tài chính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-kura_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "所蔵（しょぞう）",
         "meaning": {
-          "english": "(in one's) possession"
+          "english": "(in one's) possession |(vi) sở hữu, cất giữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-kura_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "冷蔵庫（れいぞうこ）",
         "meaning": {
-          "english": "refrigerator"
+          "english": "refrigerator |(vi) tủ lạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-kura_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "秘蔵する（ひぞうする）",
         "meaning": {
-          "english": "treasure [v.t.]"
+          "english": "treasure [v.t.] |(vi) cất giữ như báu vật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-kura_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "貯蔵する（ちょぞうする）",
         "meaning": {
-          "english": "store, preserve"
+          "english": "store, preserve |(vi) lưu trữ, bảo quản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-kura_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "蔵（くら）",
         "meaning": {
-          "english": "warehouse"
+          "english": "warehouse |(vi) nhà kho"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-kura_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "大蔵省（おおくらしょう）",
         "meaning": {
-          "english": "Ministry of Finance"
+          "english": "Ministry of Finance |(vi) Bộ Tài chính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-kura_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "米蔵（こめぐら）",
         "meaning": {
-          "english": "rice granary"
+          "english": "rice granary |(vi) kho gạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou-kura_06_i.opus",
@@ -209,7 +209,7 @@
     "kanji": {
       "character": "蔵",
       "meaning": {
-        "english": "store, warehouse"
+        "english": "store, warehouse |(vi) kho, nhà kho"
       },
       "strokes": {
         "count": 15,
@@ -277,7 +277,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) cỏ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -298,7 +298,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "468",
     "strokeCount": 15,
-    "meaning": "storehouse, hide, own, have, possess",
+    "meaning": "storehouse, hide, own, have, possess |(vi) kho chứa, giấu, sở hữu, có, chiếm hữu |(hv) Tàng",
     "kunyomi": [
       "くら",
       "おさ.める",
@@ -312,49 +312,49 @@
       {
         "example": "蔵",
         "reading": "ゾウ",
-        "meaning": "possession, ownership, Tibet, Tibetan people"
+        "meaning": "possession, ownership, Tibet, Tibetan people |(vi) sở hữu, quyền sở hữu, Tây Tạng, người Tây Tạng"
       },
       {
         "example": "蔵書",
         "reading": "ゾウショ",
-        "meaning": "collection of books, (personal) library"
+        "meaning": "collection of books, (personal) library |(vi) bộ sưu tập sách, thư viện cá nhân"
       },
       {
         "example": "地蔵",
         "reading": "ジゾウ",
-        "meaning": "Kshitigarbha (bodhisattva who looks over children, travellers and the underworld), Ksitigarbha, Jizō"
+        "meaning": "Kshitigarbha (bodhisattva who looks over children, travellers and the underworld), Ksitigarbha, Jizō |(vi) Địa Tạng Bồ Tát (vị bồ tát bảo hộ trẻ em, người lữ hành và cõi âm)"
       },
       {
         "example": "内蔵",
         "reading": "ナイゾウ",
-        "meaning": "internal (e.g. disk), built-in, equipped (with)"
+        "meaning": "internal (e.g. disk), built-in, equipped (with) |(vi) bên trong (ổ đĩa...), tích hợp sẵn, được trang bị"
       },
       {
         "example": "秘蔵",
         "reading": "ヒゾウ",
-        "meaning": "treasuring, cherishing, prizing, holding dear"
+        "meaning": "treasuring, cherishing, prizing, holding dear |(vi) trân quý, nâng niu, quý trọng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蔵",
         "reading": "くら",
-        "meaning": "warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator"
+        "meaning": "warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator |(vi) nhà kho, kho chứa, hầm chứa, kho đạn, kho thóc, nhà kho lưu trữ, kho báu, thang máy"
       },
       {
         "example": "蔵元",
         "reading": "くらもと",
-        "meaning": "brewery (sake, soy), brewer, warehouse overseer"
+        "meaning": "brewery (sake, soy), brewer, warehouse overseer |(vi) xưởng ủ rượu (sake, tương), người ủ rượu, người quản lý kho"
       },
       {
         "example": "大蔵",
         "reading": "おおくら",
-        "meaning": "Ministry of Finance"
+        "meaning": "Ministry of Finance |(vi) Bộ Tài chính"
       },
       {
         "example": "お蔵",
         "reading": "おくら",
-        "meaning": "shelving (a play, movie, etc.), closing down, cancelling, canceling, rice storehouse (of the Edo shogunate)"
+        "meaning": "shelving (a play, movie, etc.), closing down, cancelling, canceling, rice storehouse (of the Edo shogunate) |(vi) gác lại, hoãn vô thời hạn (vở kịch, phim...), đóng cửa, hủy bỏ, kho gạo (thời Mạc phủ Edo)"
       }
     ],
     "radical": {
@@ -362,7 +362,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "ノ",

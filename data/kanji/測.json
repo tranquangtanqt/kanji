@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "haka, hakaru",
-    "meaning": "measure, conjecture",
+    "meaning": "measure, conjecture |(vi) đo lường, phỏng đoán",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "測候所（そっこうじょ）",
         "meaning": {
-          "english": "weather measurement station"
+          "english": "weather measurement station |(vi) trạm quan trắc khí tượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haka(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "憶測（おくそく）",
         "meaning": {
-          "english": "guess, speculation, supposition"
+          "english": "guess, speculation, supposition |(vi) phỏng đoán, suy đoán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haka(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "不測（ふそく）",
         "meaning": {
-          "english": "unexpected [n.]"
+          "english": "unexpected [n.] |(vi) bất ngờ, không lường trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haka(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "測量する（そくりょうする）",
         "meaning": {
-          "english": "measure (mass)  [v.t.]"
+          "english": "measure (mass)  [v.t.] |(vi) đo đạc, khảo sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haka(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "測定する（そくていする）",
         "meaning": {
-          "english": "measure [v.t.]"
+          "english": "measure [v.t.] |(vi) đo lường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haka(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "観測する（かんそくする）",
         "meaning": {
-          "english": "observe"
+          "english": "observe |(vi) quan trắc, quan sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haka(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "推測する（すいそくする）",
         "meaning": {
-          "english": "guess, conjecture"
+          "english": "guess, conjecture |(vi) suy đoán, ước đoán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haka(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "予測する（よそくする）",
         "meaning": {
-          "english": "predict, estimate"
+          "english": "predict, estimate |(vi) dự đoán, ước tính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haka(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "目測する（もくそくする）",
         "meaning": {
-          "english": "measure by eye"
+          "english": "measure by eye |(vi) ước lượng bằng mắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haka(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "測る（はかる）",
         "meaning": {
-          "english": "measure (mass) [v.t.]"
+          "english": "measure (mass) [v.t.] |(vi) đo lường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-haka(ru)_06_j.opus",
@@ -227,7 +227,7 @@
     "kanji": {
       "character": "測",
       "meaning": {
-        "english": "measure, conjecture"
+        "english": "measure, conjecture |(vi) đo lường, phỏng đoán"
       },
       "strokes": {
         "count": 12,
@@ -289,7 +289,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) nước"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -310,7 +310,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "761",
     "strokeCount": 12,
-    "meaning": "fathom, plan, scheme, measure",
+    "meaning": "fathom, plan, scheme, measure |(vi) đo, ước tính, lập kế hoạch, đo lường |(hv) Trắc",
     "kunyomi": [
       "はか.る"
     ],
@@ -321,29 +321,29 @@
       {
         "example": "測量",
         "reading": "ソクリョウ",
-        "meaning": "measurement, surveying"
+        "meaning": "measurement, surveying |(vi) đo đạc, khảo sát"
       },
       {
         "example": "測定",
         "reading": "ソクテイ",
-        "meaning": "measurement"
+        "meaning": "measurement |(vi) đo lường"
       },
       {
         "example": "計測",
         "reading": "ケイソク",
-        "meaning": "measuring, measurement"
+        "meaning": "measuring, measurement |(vi) đo lường, đo đạc"
       },
       {
         "example": "憶測",
         "reading": "オクソク",
-        "meaning": "guess, speculation, supposition"
+        "meaning": "guess, speculation, supposition |(vi) phỏng đoán, suy đoán"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "計る",
         "reading": "はかる",
-        "meaning": "to measure, to weigh, to survey, to time (sound, gauge, estimate), to conjecture, to infer, to surmise"
+        "meaning": "to measure, to weigh, to survey, to time (sound, gauge, estimate), to conjecture, to infer, to surmise |(vi) đo, cân, khảo sát, tính thời gian (âm thanh, đồng hồ, ước tính), suy đoán, suy luận, phỏng đoán"
       }
     ],
     "radical": {
@@ -352,7 +352,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "ハ",

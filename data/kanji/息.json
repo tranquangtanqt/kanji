@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "iki",
-    "meaning": "breath",
+    "meaning": "breath |(vi) hơi thở",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "子息（しそく）",
         "meaning": {
-          "english": "son"
+          "english": "son |(vi) con trai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-iki_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "消息（しょうそく）",
         "meaning": {
-          "english": "news, information"
+          "english": "news, information |(vi) tin tức, thông tin"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-iki_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "利息（りそく）",
         "meaning": {
-          "english": "interest (bank)"
+          "english": "interest (bank) |(vi) tiền lãi (ngân hàng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-iki_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "喘息（ぜんそく）",
         "meaning": {
-          "english": "asthma"
+          "english": "asthma |(vi) bệnh hen suyễn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-iki_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "休息する（きゅうそくする）",
         "meaning": {
-          "english": "take a rest"
+          "english": "take a rest |(vi) nghỉ ngơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-iki_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "窒息する（ちっそくする）",
         "meaning": {
-          "english": "suffocate [v.i.]"
+          "english": "suffocate [v.i.] |(vi) ngạt thở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-iki_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "息（いき）",
         "meaning": {
-          "english": "breath"
+          "english": "breath |(vi) hơi thở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-iki_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "ため息（ためいき）",
         "meaning": {
-          "english": "sigh"
+          "english": "sigh |(vi) tiếng thở dài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-iki_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "*息子（むすこ）",
         "meaning": {
-          "english": "son"
+          "english": "son |(vi) con trai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-iki_06_i.opus",
@@ -231,7 +231,7 @@
     "kanji": {
       "character": "息",
       "meaning": {
-        "english": "breath"
+        "english": "breath |(vi) hơi thở"
       },
       "strokes": {
         "count": 10,
@@ -289,7 +289,7 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) trái tim, tâm trí, tinh thần"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -310,7 +310,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "882",
     "strokeCount": 10,
-    "meaning": "breath, respiration, son, interest (on money), rest, coming to an end",
+    "meaning": "breath, respiration, son, interest (on money), rest, coming to an end |(vi) hơi thở, hô hấp, con trai, tiền lãi, nghỉ ngơi, chấm dứt |(hv) Tức",
     "kunyomi": [
       "いき"
     ],
@@ -321,44 +321,44 @@
       {
         "example": "息",
         "reading": "ソク",
-        "meaning": "son"
+        "meaning": "son |(vi) con trai"
       },
       {
         "example": "息",
         "reading": "ソク",
-        "meaning": "son"
+        "meaning": "son |(vi) con trai"
       },
       {
         "example": "鼻息",
         "reading": "ハナイキ",
-        "meaning": "nasal breathing, breathing through one's nose, person's pleasure, excitement"
+        "meaning": "nasal breathing, breathing through one's nose, person's pleasure, excitement |(vi) thở bằng mũi, hơi thở qua mũi, sự hào hứng, phấn khích"
       },
       {
         "example": "終息",
         "reading": "シュウソク",
-        "meaning": "cessation, (coming to an) end"
+        "meaning": "cessation, (coming to an) end |(vi) chấm dứt, kết thúc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "息",
         "reading": "いき",
-        "meaning": "breath, breathing, concord, harmony, rapport, steam (coming off hot food, tea, etc.), (water) vapor, vapour"
+        "meaning": "breath, breathing, concord, harmony, rapport, steam (coming off hot food, tea, etc.), (water) vapor, vapour |(vi) hơi thở, sự thở, sự hòa hợp, hơi nước bốc lên"
       },
       {
         "example": "息切れ",
         "reading": "いきぎれ",
-        "meaning": "shortness of breath, panting, puffing, running out of steam (of the economy, a project, etc.), losing momentum, loss of efficiency"
+        "meaning": "shortness of breath, panting, puffing, running out of steam (of the economy, a project, etc.), losing momentum, loss of efficiency |(vi) hụt hơi, thở gấp, hết hơi, đuối sức (kinh tế, dự án...)"
       },
       {
         "example": "鼻息",
         "reading": "はないき",
-        "meaning": "nasal breathing, breathing through one's nose, person's pleasure, excitement"
+        "meaning": "nasal breathing, breathing through one's nose, person's pleasure, excitement |(vi) thở bằng mũi, hơi thở qua mũi, sự hào hứng, phấn khích"
       },
       {
         "example": "寝息",
         "reading": "ねいき",
-        "meaning": "breathing of a sleeping person"
+        "meaning": "breathing of a sleeping person |(vi) hơi thở của người đang ngủ"
       }
     ],
     "radical": {
@@ -367,7 +367,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim, tấm lòng)"
     },
     "parts": [
       "心",

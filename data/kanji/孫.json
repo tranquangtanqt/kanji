@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "mago",
-    "meaning": "grandchild",
+    "meaning": "grandchild |(vi) cháu (nội, ngoại)",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "子孫（しそん）",
         "meaning": {
-          "english": "descendants, posterity"
+          "english": "descendants, posterity |(vi) con cháu, hậu duệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mago_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "皇孫（こうそん）",
         "meaning": {
-          "english": "imperial grandchild"
+          "english": "imperial grandchild |(vi) cháu của hoàng đế, hoàng tôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mago_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "孫（まご）",
         "meaning": {
-          "english": "grandchild"
+          "english": "grandchild |(vi) cháu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mago_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "孫娘（まごむすめ）",
         "meaning": {
-          "english": "granddaughter"
+          "english": "granddaughter |(vi) cháu gái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mago_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "孫弟子（まごでし）",
         "meaning": {
-          "english": "disciples of one's disciples"
+          "english": "disciples of one's disciples |(vi) học trò của học trò mình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mago_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "曾孫（ひまご）",
         "meaning": {
-          "english": "great-grandchild"
+          "english": "great-grandchild |(vi) chắt (cháu của con)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mago_06_f.opus",
@@ -168,7 +168,7 @@
     "kanji": {
       "character": "孫",
       "meaning": {
-        "english": "grandchild"
+        "english": "grandchild |(vi) cháu (nội, ngoại)"
       },
       "strokes": {
         "count": 10,
@@ -226,7 +226,7 @@
         "romaji": "kohen"
       },
       "meaning": {
-        "english": "child, son"
+        "english": "child, son |(vi) Tử (con, hạt giống)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kohen0.svg",
@@ -247,7 +247,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1388",
     "strokeCount": 10,
-    "meaning": "grandchild, descendants",
+    "meaning": "grandchild, descendants |(vi) cháu, con cháu, hậu duệ |(hv) Tôn",
     "kunyomi": [
       "まご"
     ],
@@ -258,49 +258,49 @@
       {
         "example": "孫",
         "reading": "ソン",
-        "meaning": "descendant (usu. of a certain generation), lineage, pedigree, grandchild"
+        "meaning": "descendant (usu. of a certain generation), lineage, pedigree, grandchild |(vi) hậu duệ (thường thuộc một thế hệ nhất định), dòng dõi, huyết thống, cháu"
       },
       {
         "example": "孫悟空",
         "reading": "ソンゴクウ",
-        "meaning": "Sun Wukong (character in the classic Chinese novel Journey to the West), Monkey King, Son Goku (Dragon Ball)"
+        "meaning": "Sun Wukong (character in the classic Chinese novel Journey to the West), Monkey King, Son Goku (Dragon Ball) |(vi) Tôn Ngộ Không (nhân vật trong Tây Du Ký), Mỹ Hầu Vương, Son Goku (Dragon Ball)"
       },
       {
         "example": "愛孫",
         "reading": "アイソン",
-        "meaning": "one's beloved grandchild"
+        "meaning": "one's beloved grandchild |(vi) cháu yêu quý của mình"
       },
       {
         "example": "外孫",
         "reading": "ガイソン",
-        "meaning": "grandchild from a daughter married into another family"
+        "meaning": "grandchild from a daughter married into another family |(vi) cháu ngoại (con của con gái đã lấy chồng)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "孫",
         "reading": "まご",
-        "meaning": "grandchild"
+        "meaning": "grandchild |(vi) cháu"
       },
       {
         "example": "孫子",
         "reading": "まごこ",
-        "meaning": "children and grandchildren, posterity, descendants"
+        "meaning": "children and grandchildren, posterity, descendants |(vi) con cháu, hậu duệ, dòng dõi"
       },
       {
         "example": "初孫",
         "reading": "ういまご",
-        "meaning": "first grandchild"
+        "meaning": "first grandchild |(vi) cháu đầu lòng"
       },
       {
         "example": "内孫",
         "reading": "ないそん",
-        "meaning": "child of one's heir"
+        "meaning": "child of one's heir |(vi) cháu nội (con của người thừa kế)"
       }
     ],
     "radical": {
       "symbol": "子",
-      "meaning": "child, seed"
+      "meaning": "child, seed |(vi) Tử (con, hạt giống)"
     },
     "parts": [
       "ノ",

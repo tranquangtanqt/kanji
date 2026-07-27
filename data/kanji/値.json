@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "ne, atai",
-    "meaning": "value, price",
+    "meaning": "value, price |(vi) giá trị, giá cả",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "価値（かち）",
         "meaning": {
-          "english": "value"
+          "english": "value |(vi) giá trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "数値（すうち）",
         "meaning": {
-          "english": "numerical value"
+          "english": "numerical value |(vi) giá trị số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "平均値（へいきんち）",
         "meaning": {
-          "english": "mean value"
+          "english": "mean value |(vi) giá trị trung bình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atai_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "値段（ねだん）",
         "meaning": {
-          "english": "price"
+          "english": "price |(vi) giá cả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atai_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "値上げ（ねあげ）",
         "meaning": {
-          "english": "mark-up"
+          "english": "mark-up |(vi) tăng giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atai_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "値切る（ねぎる）",
         "meaning": {
-          "english": "knock down a price"
+          "english": "knock down a price |(vi) mặc cả, trả giá xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atai_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "値引きする（ねびきする）",
         "meaning": {
-          "english": "discount [v.t.]"
+          "english": "discount [v.t.] |(vi) giảm giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atai_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "値する（あたいする）",
         "meaning": {
-          "english": "be worth it, be deserving"
+          "english": "be worth it, be deserving |(vi) xứng đáng, đáng giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atai_06_h.opus",
@@ -215,7 +215,7 @@
     "kanji": {
       "character": "値",
       "meaning": {
-        "english": "value, price"
+        "english": "value, price |(vi) giá trị, giá cả"
       },
       "strokes": {
         "count": 10,
@@ -273,7 +273,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người, bộ đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -294,7 +294,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "518",
     "strokeCount": 10,
-    "meaning": "price, cost, value",
+    "meaning": "price, cost, value |(vi) giá cả, chi phí, giá trị |(hv) Trị",
     "kunyomi": [
       "ね",
       "あたい"
@@ -306,59 +306,59 @@
       {
         "example": "値",
         "reading": "チ",
-        "meaning": "level, value"
+        "meaning": "level, value |(vi) mức, giá trị"
       },
       {
         "example": "値域",
         "reading": "チイキ",
-        "meaning": "range (of a function)"
+        "meaning": "range (of a function) |(vi) miền giá trị (của hàm số)"
       },
       {
         "example": "経験値",
         "reading": "ケイケンチ",
-        "meaning": "amount of experience, experience level, experience point, exp, XP"
+        "meaning": "amount of experience, experience level, experience point, exp, XP |(vi) lượng kinh nghiệm, cấp độ kinh nghiệm, điểm kinh nghiệm, exp, XP"
       },
       {
         "example": "閾値",
         "reading": "イキチ",
-        "meaning": "threshold (amount, dose, etc.)"
+        "meaning": "threshold (amount, dose, etc.) |(vi) ngưỡng (liều lượng...)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "値",
         "reading": "ね",
-        "meaning": "price, cost, value, worth, merit"
+        "meaning": "price, cost, value, worth, merit |(vi) giá cả, chi phí, giá trị, đáng giá, giá trị đích thực"
       },
       {
         "example": "値上がり",
         "reading": "ねあがり",
-        "meaning": "price increase, rise in price"
+        "meaning": "price increase, rise in price |(vi) giá tăng, sự tăng giá"
       },
       {
         "example": "安値",
         "reading": "やすね",
-        "meaning": "low price"
+        "meaning": "low price |(vi) giá thấp"
       },
       {
         "example": "底値",
         "reading": "そこね",
-        "meaning": "bottom price"
+        "meaning": "bottom price |(vi) giá đáy"
       },
       {
         "example": "値",
         "reading": "あたい",
-        "meaning": "price, cost, value, worth, merit, value"
+        "meaning": "price, cost, value, worth, merit, value |(vi) giá cả, chi phí, giá trị, đáng giá, giá trị đích thực"
       },
       {
         "example": "値する",
         "reading": "あたいする",
-        "meaning": "to be worth, to be worthy of, to deserve, to merit"
+        "meaning": "to be worth, to be worthy of, to deserve, to merit |(vi) đáng giá, xứng đáng với, đáng được"
       },
       {
         "example": "最初の値",
         "reading": "さいしょのあたい",
-        "meaning": "initial value"
+        "meaning": "initial value |(vi) giá trị ban đầu"
       }
     ],
     "radical": {
@@ -366,7 +366,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "一",

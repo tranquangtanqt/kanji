@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "ashi, ta, taru, tariru, tasu",
-    "meaning": "foot, suffice, add",
+    "meaning": "foot, suffice, add |(vi) chân, đủ, thêm vào",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "足跡（そくせき）",
         "meaning": {
-          "english": "footprints"
+          "english": "footprints |(vi) dấu chân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-ashi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "遠足（えんそく）",
         "meaning": {
-          "english": "field trip"
+          "english": "field trip |(vi) chuyến dã ngoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-ashi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "自給自足（じきゅうじそく）",
         "meaning": {
-          "english": "self-sufficiency"
+          "english": "self-sufficiency |(vi) tự cung tự cấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-ashi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "満足する（まんぞくする）",
         "meaning": {
-          "english": "be satisfied"
+          "english": "be satisfied |(vi) hài lòng, thỏa mãn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-ashi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "発足する（ほっそくする）",
         "meaning": {
-          "english": "start (e.g. organization)"
+          "english": "start (e.g. organization) |(vi) khởi động, thành lập (tổ chức)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-ashi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "足（あし）",
         "meaning": {
-          "english": "leg"
+          "english": "leg |(vi) chân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-ashi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "足りる（たりる）",
         "meaning": {
-          "english": "be enough [v.i.]"
+          "english": "be enough [v.i.] |(vi) đủ, vừa đủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-ashi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "足す（たす）",
         "meaning": {
-          "english": "add [v.t.]"
+          "english": "add [v.t.] |(vi) thêm vào, cộng thêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku-ashi_06_h.opus",
@@ -247,7 +247,7 @@
     "kanji": {
       "character": "足",
       "meaning": {
-        "english": "foot, suffice, add"
+        "english": "foot, suffice, add |(vi) chân, đủ, thêm vào"
       },
       "strokes": {
         "count": 7,
@@ -299,7 +299,7 @@
         "romaji": "ashi"
       },
       "meaning": {
-        "english": "foot, leg"
+        "english": "foot, leg |(vi) chân, cẳng chân"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ashi0.svg",
@@ -320,7 +320,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "343",
     "strokeCount": 7,
-    "meaning": "leg, foot, be sufficient, counter for pairs of footwear",
+    "meaning": "leg, foot, be sufficient, counter for pairs of footwear |(vi) chân, cẳng chân, đủ, trợ từ đếm đôi giày dép |(hv) Túc",
     "kunyomi": [
       "あし",
       "た.りる",
@@ -334,64 +334,64 @@
       {
         "example": "足",
         "reading": "ソク",
-        "meaning": "counter for pairs of socks, shoes, etc."
+        "meaning": "counter for pairs of socks, shoes, etc. |(vi) trợ từ đếm đôi tất, giày..."
       },
       {
         "example": "足跡",
         "reading": "アシアト",
-        "meaning": "footprints, record of page visitors (e.g. in social networking sites)"
+        "meaning": "footprints, record of page visitors (e.g. in social networking sites) |(vi) dấu chân, lượt truy cập trang (mạng xã hội)"
       },
       {
         "example": "俊足",
         "reading": "シュンソク",
-        "meaning": "swiftness of foot, fast runner, swift horse, fleet steed, person of great talent, gifted person"
+        "meaning": "swiftness of foot, fast runner, swift horse, fleet steed, person of great talent, gifted person |(vi) chân nhanh, người chạy nhanh, ngựa hay, người tài giỏi"
       },
       {
         "example": "土足",
         "reading": "ドソク",
-        "meaning": "shod feet, wearing shoes, muddy feet, dirty feet"
+        "meaning": "shod feet, wearing shoes, muddy feet, dirty feet |(vi) chân đi giày, chân lấm bùn, chân bẩn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "足",
         "reading": "あし",
-        "meaning": "foot, paw, arm (of an octopus, squid, etc.), leg, gait, pace, lower radical of a kanji, means of transportation, (one's) ride, money, coin"
+        "meaning": "foot, paw, arm (of an octopus, squid, etc.), leg, gait, pace, lower radical of a kanji, means of transportation, (one's) ride, money, coin |(vi) bàn chân, chân (động vật), xúc tu (bạch tuộc, mực...), dáng đi, bộ thủ dưới của chữ Hán, phương tiện di chuyển, tiền, đồng xu"
       },
       {
         "example": "足跡",
         "reading": "あしあと",
-        "meaning": "footprints, record of page visitors (e.g. in social networking sites)"
+        "meaning": "footprints, record of page visitors (e.g. in social networking sites) |(vi) dấu chân, lượt truy cập trang (mạng xã hội)"
       },
       {
         "example": "出足",
         "reading": "であし",
-        "meaning": "turnout (of people), start (of a race, campaign, business, etc.), beginning, initial charge, dash"
+        "meaning": "turnout (of people), start (of a race, campaign, business, etc.), beginning, initial charge, dash |(vi) lượng người đến, khởi đầu (cuộc đua, chiến dịch, kinh doanh...), bước khởi đầu, đợt xông lên"
       },
       {
         "example": "客足",
         "reading": "きゃくあし",
-        "meaning": "customer traffic, customers, custom"
+        "meaning": "customer traffic, customers, custom |(vi) lượng khách, khách hàng"
       },
       {
         "example": "足りる",
         "reading": "たりる",
-        "meaning": "to be sufficient, to be enough, to be worth doing, to be worthy of, to deserve, to do (the job), to serve, to answer"
+        "meaning": "to be sufficient, to be enough, to be worth doing, to be worthy of, to deserve, to do (the job), to serve, to answer |(vi) đủ, vừa đủ, đáng làm, xứng đáng, đủ tư cách, đảm nhiệm (công việc), đáp ứng"
       },
       {
         "example": "足る",
         "reading": "たる",
-        "meaning": "to be sufficient, to be enough, to be worth doing, to be worthy of, to deserve, to do (the job), to serve, to answer"
+        "meaning": "to be sufficient, to be enough, to be worth doing, to be worthy of, to deserve, to do (the job), to serve, to answer |(vi) đủ, vừa đủ, đáng làm, xứng đáng, đủ tư cách, đảm nhiệm (công việc), đáp ứng"
       },
       {
         "example": "足るを知る",
         "reading": "たるをしる",
-        "meaning": "to know one has enough, to be satisfied with one's lot in life"
+        "meaning": "to know one has enough, to be satisfied with one's lot in life |(vi) biết đủ, bằng lòng với cuộc sống hiện tại"
       },
       {
         "example": "足す",
         "reading": "たす",
-        "meaning": "to add (numbers), to add (something), to top up (with something), to take care of (e.g. one's business)"
+        "meaning": "to add (numbers), to add (something), to top up (with something), to take care of (e.g. one's business) |(vi) cộng (số), thêm vào, bổ sung thêm, giải quyết (công việc)"
       }
     ],
     "radical": {
@@ -399,7 +399,7 @@
       "forms": [
         "⻊"
       ],
-      "meaning": "foot"
+      "meaning": "foot |(vi) Túc (chân)"
     },
     "parts": [
       "口",

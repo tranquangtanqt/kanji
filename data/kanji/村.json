@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "mura",
-    "meaning": "village",
+    "meaning": "village |(vi) làng, thôn",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "農村（のうそん）",
         "meaning": {
-          "english": "farm village"
+          "english": "farm village |(vi) làng nông nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son-mura_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "漁村（ぎょそん）",
         "meaning": {
-          "english": "fishing village"
+          "english": "fishing village |(vi) làng chài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son-mura_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "村落（そんらく）",
         "meaning": {
-          "english": "village"
+          "english": "village |(vi) thôn làng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son-mura_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "村（むら）",
         "meaning": {
-          "english": "village"
+          "english": "village |(vi) làng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son-mura_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "村人（むらびと）",
         "meaning": {
-          "english": "villager"
+          "english": "villager |(vi) dân làng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son-mura_06_e.opus",
@@ -210,7 +210,7 @@
     "kanji": {
       "character": "村",
       "meaning": {
-        "english": "village"
+        "english": "village |(vi) làng, thôn"
       },
       "strokes": {
         "count": 7,
@@ -262,7 +262,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) cây, gỗ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -283,7 +283,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "253",
     "strokeCount": 7,
-    "meaning": "village, town",
+    "meaning": "village, town |(vi) làng, thị trấn nhỏ |(hv) Thôn",
     "kunyomi": [
       "むら"
     ],
@@ -294,49 +294,49 @@
       {
         "example": "村",
         "reading": "ムラ",
-        "meaning": "village"
+        "meaning": "village |(vi) làng"
       },
       {
         "example": "村議会",
         "reading": "ソンギカイ",
-        "meaning": "village assembly"
+        "meaning": "village assembly |(vi) hội đồng làng"
       },
       {
         "example": "町村",
         "reading": "チョウソン",
-        "meaning": "towns and villages"
+        "meaning": "towns and villages |(vi) thị trấn và làng xã"
       },
       {
         "example": "農村",
         "reading": "ノウソン",
-        "meaning": "agricultural community, farm village, rural"
+        "meaning": "agricultural community, farm village, rural |(vi) cộng đồng nông nghiệp, làng quê, vùng nông thôn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "村",
         "reading": "むら",
-        "meaning": "village"
+        "meaning": "village |(vi) làng"
       },
       {
         "example": "村長",
         "reading": "そんちょう",
-        "meaning": "village headman, village mayor"
+        "meaning": "village headman, village mayor |(vi) trưởng làng, xã trưởng"
       },
       {
         "example": "選手村",
         "reading": "せんしゅむら",
-        "meaning": "Olympic village, athlete's village"
+        "meaning": "Olympic village, athlete's village |(vi) làng vận động viên (Olympic)"
       },
       {
         "example": "隣村",
         "reading": "りんそん",
-        "meaning": "neighboring village, neighbouring village"
+        "meaning": "neighboring village, neighbouring village |(vi) làng lân cận"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây)"
     },
     "parts": [
       "寸",

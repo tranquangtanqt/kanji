@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "livestock, animal raising",
+    "meaning": "livestock, animal raising |(vi) gia súc, chăn nuôi",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "畜舎（ちくしゃ）",
         "meaning": {
-          "english": "cattle shed, barn"
+          "english": "cattle shed, barn |(vi) chuồng gia súc, chuồng trại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(boku)chiku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "畜生（ちくしょう）",
         "meaning": {
-          "english": "beast, brute, Damn!"
+          "english": "beast, brute, Damn! |(vi) súc vật, đồ súc sinh, Chết tiệt!"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(boku)chiku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "畜産業（ちくさんぎょう）",
         "meaning": {
-          "english": "stock raising, stockbreeding"
+          "english": "stock raising, stockbreeding |(vi) ngành chăn nuôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(boku)chiku_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "家畜（かちく）",
         "meaning": {
-          "english": "livestock, cattle"
+          "english": "livestock, cattle |(vi) gia súc, vật nuôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(boku)chiku_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "牧畜（ぼくちく）",
         "meaning": {
-          "english": "stock-farming"
+          "english": "stock-farming |(vi) chăn nuôi gia súc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(boku)chiku_06_e.opus",
@@ -148,7 +148,7 @@
     "kanji": {
       "character": "畜",
       "meaning": {
-        "english": "livestock, animal raising"
+        "english": "livestock, animal raising |(vi) gia súc, chăn nuôi"
       },
       "strokes": {
         "count": 10,
@@ -206,7 +206,7 @@
         "romaji": "ta"
       },
       "meaning": {
-        "english": "rice paddy"
+        "english": "rice paddy |(vi) Điền (ruộng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ta0.svg",
@@ -227,7 +227,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1824",
     "strokeCount": 10,
-    "meaning": "livestock, domestic fowl and animals",
+    "meaning": "livestock, domestic fowl and animals |(vi) gia súc, gia cầm và vật nuôi |(hv) Súc",
     "kunyomi": [],
     "onyomi": [
       "チク"
@@ -236,28 +236,28 @@
       {
         "example": "畜産",
         "reading": "チクサン",
-        "meaning": "animal husbandry, livestock industry"
+        "meaning": "animal husbandry, livestock industry |(vi) ngành chăn nuôi"
       },
       {
         "example": "畜生",
         "reading": "チクショウ",
-        "meaning": "damn it, damn, son of a bitch, for Christ's sake, beast, animal, person reborn into the animal realm, brute, bastard"
+        "meaning": "damn it, damn, son of a bitch, for Christ's sake, beast, animal, person reborn into the animal realm, brute, bastard |(vi) chết tiệt, đồ súc sinh, đồ khốn, súc vật, kẻ tái sinh vào cõi súc sinh"
       },
       {
         "example": "牧畜",
         "reading": "ボクチク",
-        "meaning": "stock-farming, livestock farming, cattle breeding"
+        "meaning": "stock-farming, livestock farming, cattle breeding |(vi) chăn nuôi gia súc"
       },
       {
         "example": "人畜",
         "reading": "ジンチク",
-        "meaning": "men and animals"
+        "meaning": "men and animals |(vi) người và gia súc"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "田",
-      "meaning": "field"
+      "meaning": "field |(vi) Điền (ruộng)"
     },
     "parts": [
       "亠",

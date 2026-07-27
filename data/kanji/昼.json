@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "hiru",
-    "meaning": "daytime",
+    "meaning": "daytime |(vi) ban ngày",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "昼食（ちゅうしょく）",
         "meaning": {
-          "english": "lunch"
+          "english": "lunch |(vi) bữa trưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiru_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "昼（ひる）",
         "meaning": {
-          "english": "noon"
+          "english": "noon |(vi) buổi trưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiru_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "真昼（まひる）",
         "meaning": {
-          "english": "midday"
+          "english": "midday |(vi) giữa trưa, chính ngọ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiru_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "昼間（ひるま）",
         "meaning": {
-          "english": "daytime"
+          "english": "daytime |(vi) ban ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiru_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "昼過ぎ（ひるすぎ）",
         "meaning": {
-          "english": "afternoon"
+          "english": "afternoon |(vi) quá trưa, buổi chiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiru_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "昼休み（ひるやすみ）",
         "meaning": {
-          "english": "lunch break"
+          "english": "lunch break |(vi) giờ nghỉ trưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiru_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "昼寝（ひるね）",
         "meaning": {
-          "english": "nap"
+          "english": "nap |(vi) ngủ trưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiru_06_g.opus",
@@ -235,7 +235,7 @@
     "kanji": {
       "character": "昼",
       "meaning": {
-        "english": "daytime"
+        "english": "daytime |(vi) ban ngày"
       },
       "strokes": {
         "count": 9,
@@ -291,7 +291,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày, thời gian)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi0.svg",
@@ -312,7 +312,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1115",
     "strokeCount": 9,
-    "meaning": "daytime, noon",
+    "meaning": "daytime, noon |(vi) ban ngày, buổi trưa |(hv) Trú",
     "kunyomi": [
       "ひる"
     ],
@@ -323,49 +323,49 @@
       {
         "example": "昼食",
         "reading": "チュウショク",
-        "meaning": "lunch, midday meal"
+        "meaning": "lunch, midday meal |(vi) bữa trưa, bữa ăn giữa ngày"
       },
       {
         "example": "昼間",
         "reading": "ヒルマ",
-        "meaning": "daytime, during the day, time from sunrise until sunset, diurnal period"
+        "meaning": "daytime, during the day, time from sunrise until sunset, diurnal period |(vi) ban ngày, khoảng thời gian từ lúc mặt trời mọc tới lặn"
       },
       {
         "example": "炎昼",
         "reading": "エンチュウ",
-        "meaning": "hot summer early afternoon"
+        "meaning": "hot summer early afternoon |(vi) trưa hè nóng bức"
       },
       {
         "example": "春昼",
         "reading": "シュンチュウ",
-        "meaning": "spring day (which seems long and quiet)"
+        "meaning": "spring day (which seems long and quiet) |(vi) ngày xuân dài và yên tĩnh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "昼",
         "reading": "ひる",
-        "meaning": "noon, midday, daytime, lunch"
+        "meaning": "noon, midday, daytime, lunch |(vi) buổi trưa, giữa trưa, ban ngày, bữa trưa"
       },
       {
         "example": "昼過ぎ",
         "reading": "ひるすぎ",
-        "meaning": "just past noon, afternoon"
+        "meaning": "just past noon, afternoon |(vi) vừa quá trưa, buổi chiều"
       },
       {
         "example": "小昼",
         "reading": "こひる",
-        "meaning": "just before noon, late-morning snack"
+        "meaning": "just before noon, late-morning snack |(vi) gần trưa, bữa ăn nhẹ cuối buổi sáng"
       },
       {
         "example": "夜昼",
         "reading": "よるひる",
-        "meaning": "day and night"
+        "meaning": "day and night |(vi) ngày và đêm"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "一",

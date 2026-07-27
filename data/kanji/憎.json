@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "niku, nikumu, nikui, nikurashii, nikushimi",
-    "meaning": "hate, hatred, hateful",
+    "meaning": "hate, hatred, hateful |(vi) ghét, căm ghét, đáng ghét",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "憎悪（ぞうお）",
         "meaning": {
-          "english": "hatred"
+          "english": "hatred |(vi) căm ghét, thù hận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "愛憎（あいぞう）",
         "meaning": {
-          "english": "likes and dislikes"
+          "english": "likes and dislikes |(vi) yêu ghét"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "憎む（にくむ）",
         "meaning": {
-          "english": "hate, detest"
+          "english": "hate, detest |(vi) ghét, căm ghét"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "憎しみ（にくしみ）",
         "meaning": {
-          "english": "hatred"
+          "english": "hatred |(vi) sự căm ghét"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "憎い（にくい）",
         "meaning": {
-          "english": "hateful, abominable"
+          "english": "hateful, abominable |(vi) đáng ghét, khả ố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku(mu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "憎らしい（にくらしい）",
         "meaning": {
-          "english": "odious, hateful"
+          "english": "odious, hateful |(vi) đáng ghét, khó ưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku(mu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "小憎らしい（こにくらしい）",
         "meaning": {
-          "english": "irritating, maddening"
+          "english": "irritating, maddening |(vi) hơi đáng ghét, khó chịu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku(mu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "憎まれっ子（にくまれっこ）",
         "meaning": {
-          "english": "bad boy"
+          "english": "bad boy |(vi) đứa trẻ hư, bị ghét"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku(mu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "憎まれ口（にくまれぐち）",
         "meaning": {
-          "english": "abusive language"
+          "english": "abusive language |(vi) lời nói khó nghe, lời cay nghiệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku(mu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "生憎（あいにく）",
         "meaning": {
-          "english": "unfortunately; Sorry, but ..."
+          "english": "unfortunately; Sorry, but ... |(vi) thật không may, tiếc là"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku(mu)_06_j.opus",
@@ -222,7 +222,7 @@
     "kanji": {
       "character": "憎",
       "meaning": {
-        "english": "hate, hatred, hateful"
+        "english": "hate, hatred, hateful |(vi) ghét, căm ghét, đáng ghét"
       },
       "strokes": {
         "count": 14,
@@ -288,7 +288,7 @@
         "romaji": "risshinben"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) trái tim, tâm trí, tinh thần"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/risshinben0.svg",
@@ -309,7 +309,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1808",
     "strokeCount": 14,
-    "meaning": "hate, detest",
+    "meaning": "hate, detest |(vi) ghét, căm ghét |(hv) Tăng",
     "kunyomi": [
       "にく.む",
       "にく.い",
@@ -323,39 +323,39 @@
       {
         "example": "憎悪",
         "reading": "ゾウオ",
-        "meaning": "hatred, abhorrence, loathing, detestation"
+        "meaning": "hatred, abhorrence, loathing, detestation |(vi) căm ghét, ghê tởm, thù hận"
       },
       {
         "example": "憎悪犯罪",
         "reading": "ゾウオハンザイ",
-        "meaning": "hate crime"
+        "meaning": "hate crime |(vi) tội phạm thù hận"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "憎む",
         "reading": "にくむ",
-        "meaning": "to hate, to detest"
+        "meaning": "to hate, to detest |(vi) ghét, căm ghét"
       },
       {
         "example": "憎い",
         "reading": "にくい",
-        "meaning": "hateful, detestable, abominable, vexing, provoking, amazing, fantastic, admirable, lovely, wonderful"
+        "meaning": "hateful, detestable, abominable, vexing, provoking, amazing, fantastic, admirable, lovely, wonderful |(vi) đáng ghét, khả ố, đáng giận, (mỉa) tài tình, đáng khâm phục"
       },
       {
         "example": "憎らしい",
         "reading": "にくらしい",
-        "meaning": "odious, hateful, detestable, horrible, (speaking ironically) darling"
+        "meaning": "odious, hateful, detestable, horrible, (speaking ironically) darling |(vi) đáng ghét, khó ưa, (nói mỉa) đáng yêu"
       },
       {
         "example": "憎しみ",
         "reading": "にくしみ",
-        "meaning": "hatred"
+        "meaning": "hatred |(vi) sự căm ghét"
       },
       {
         "example": "憎しみ合う",
         "reading": "にくしみあう",
-        "meaning": "to hate each other, to hate mutually"
+        "meaning": "to hate each other, to hate mutually |(vi) ghét nhau, căm ghét lẫn nhau"
       }
     ],
     "radical": {
@@ -364,7 +364,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim, tấm lòng)"
     },
     "parts": [
       "并",

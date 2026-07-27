@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "internal organ",
+    "meaning": "internal organ |(vi) nội tạng",
     "kstroke": 19,
     "examples": [
       {
         "japanese": "臓器（ぞうき）",
         "meaning": {
-          "english": "viscera, internal organs"
+          "english": "viscera, internal organs |(vi) nội tạng, các cơ quan bên trong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou(motsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "臓物（ぞうもつ）",
         "meaning": {
-          "english": "entrails, giblets"
+          "english": "entrails, giblets |(vi) lòng, nội tạng (động vật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou(motsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "内臓（ないぞう）",
         "meaning": {
-          "english": "internal organs, intestines"
+          "english": "internal organs, intestines |(vi) nội tạng, ruột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou(motsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "心臓（しんぞう）",
         "meaning": {
-          "english": "heart"
+          "english": "heart |(vi) tim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou(motsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "肝臓（かんぞう）",
         "meaning": {
-          "english": "liver"
+          "english": "liver |(vi) gan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou(motsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "腎臓（じんぞう）",
         "meaning": {
-          "english": "kidney"
+          "english": "kidney |(vi) thận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou(motsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "五臓六腑（ごぞうろっぷ）",
         "meaning": {
-          "english": "the internal organs"
+          "english": "the internal organs |(vi) ngũ tạng lục phủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zou(motsu)_06_g.opus",
@@ -188,7 +188,7 @@
     "kanji": {
       "character": "臓",
       "meaning": {
-        "english": "internal organ"
+        "english": "internal organ |(vi) nội tạng"
       },
       "strokes": {
         "count": 19,
@@ -264,7 +264,7 @@
         "romaji": "nikuzuki"
       },
       "meaning": {
-        "english": "meat, flesh"
+        "english": "meat, flesh |(vi) thịt, xác thịt"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nikuzuki0.svg",
@@ -285,7 +285,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "991",
     "strokeCount": 19,
-    "meaning": "entrails, viscera, bowels",
+    "meaning": "entrails, viscera, bowels |(vi) lòng ruột, nội tạng, ruột |(hv) Tạng",
     "kunyomi": [
       "はらわた"
     ],
@@ -296,22 +296,22 @@
       {
         "example": "臓",
         "reading": "ゾウ",
-        "meaning": "viscera, bowels"
+        "meaning": "viscera, bowels |(vi) nội tạng, ruột"
       },
       {
         "example": "臓器",
         "reading": "ゾウキ",
-        "meaning": "internal organs, viscera"
+        "meaning": "internal organs, viscera |(vi) nội tạng, các cơ quan bên trong"
       },
       {
         "example": "膵臓",
         "reading": "スイゾウ",
-        "meaning": "pancreas"
+        "meaning": "pancreas |(vi) tụy"
       },
       {
         "example": "肝膵臓",
         "reading": "カンスイゾウ",
-        "meaning": "hepatopancreas"
+        "meaning": "hepatopancreas |(vi) gan tụy"
       }
     ],
     "kunyomiExamples": [],
@@ -320,7 +320,7 @@
       "forms": [
         "⺼"
       ],
-      "meaning": "meat"
+      "meaning": "meat |(vi) Nhục (thịt)"
     },
     "parts": [
       "ノ",

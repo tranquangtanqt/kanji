@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "hashi, ha, hata",
-    "meaning": "end, edge, side",
+    "meaning": "end, edge, side |(vi) đầu, cạnh, mép, bên",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "端子（たんし）",
         "meaning": {
-          "english": "terminal"
+          "english": "terminal |(vi) đầu nối, cực (điện)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-hashi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "端的な（たんてきな）",
         "meaning": {
-          "english": "frank"
+          "english": "frank |(vi) thẳng thắn, trực tiếp, rõ ràng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-hashi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "先端（せんたん）",
         "meaning": {
-          "english": "pointed end"
+          "english": "pointed end |(vi) đầu nhọn, mũi nhọn, tiên tiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-hashi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "発端（ほったん）",
         "meaning": {
-          "english": "the beginning"
+          "english": "the beginning |(vi) khởi đầu, mở đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-hashi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "末端（まったん）",
         "meaning": {
-          "english": "tip, extremity"
+          "english": "tip, extremity |(vi) đầu mút, đầu cuối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-hashi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "途端に（とたんに）",
         "meaning": {
-          "english": "just as, just when"
+          "english": "just as, just when |(vi) ngay khi, vừa lúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-hashi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "極端な（きょくたんな）",
         "meaning": {
-          "english": "extreme"
+          "english": "extreme |(vi) cực đoan, quá mức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-hashi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "端（はし）",
         "meaning": {
-          "english": "edge"
+          "english": "edge |(vi) cạnh, mép, đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-hashi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "両端（りょうはし）",
         "meaning": {
-          "english": "both ends"
+          "english": "both ends |(vi) cả hai đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-hashi_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "右端（みぎはし）",
         "meaning": {
-          "english": "right end"
+          "english": "right end |(vi) đầu bên phải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-hashi_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "端数（はすう）",
         "meaning": {
-          "english": "fraction"
+          "english": "fraction |(vi) số lẻ, phần dư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-hashi_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "道端（みちばた）",
         "meaning": {
-          "english": "roadside"
+          "english": "roadside |(vi) bên đường, ven đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan-hashi_06_l.opus",
@@ -251,7 +251,7 @@
     "kanji": {
       "character": "端",
       "meaning": {
-        "english": "end, edge, side"
+        "english": "end, edge, side |(vi) đầu, cạnh, mép, bên"
       },
       "strokes": {
         "count": 14,
@@ -317,7 +317,7 @@
         "romaji": "tatsuhen"
       },
       "meaning": {
-        "english": "to stand"
+        "english": "to stand |(vi) Lập (đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tatsuhen0.svg",
@@ -338,7 +338,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "960",
     "strokeCount": 14,
-    "meaning": "edge, origin, end, point, border, verge, cape",
+    "meaning": "edge, origin, end, point, border, verge, cape |(vi) cạnh, khởi đầu, đầu mút, điểm, biên giới, ranh giới, mũi đất |(hv) Đoan",
     "kunyomi": [
       "はし",
       "は",
@@ -353,99 +353,99 @@
       {
         "example": "端",
         "reading": "タン",
-        "meaning": "origin, beginning, variable measure of fabric (28.8 cm in width), for kimonos: at least 10 m in length, for haori: at least 7.27 m in length, for other clothes: at least 6.06 m in length, tip, extremity"
+        "meaning": "origin, beginning, variable measure of fabric (28.8 cm in width), for kimonos: at least 10 m in length, for haori: at least 7.27 m in length, for other clothes: at least 6.06 m in length, tip, extremity |(vi) khởi nguyên, khởi đầu, đơn vị đo vải (rộng 28.8cm; kimono ít nhất 10m; haori ít nhất 7.27m; quần áo khác ít nhất 6.06m), đầu mút, đầu cuối"
       },
       {
         "example": "端緒",
         "reading": "タンショ",
-        "meaning": "start, beginning, first step, clue"
+        "meaning": "start, beginning, first step, clue |(vi) khởi đầu, bước đầu tiên, đầu mối, manh mối"
       },
       {
         "example": "末端",
         "reading": "マッタン",
-        "meaning": "end, tip, extremities, terminal"
+        "meaning": "end, tip, extremities, terminal |(vi) đầu mút, đầu cuối, đầu nối"
       },
       {
         "example": "北端",
         "reading": "ホクタン",
-        "meaning": "northern extremity"
+        "meaning": "northern extremity |(vi) cực bắc, đầu phía bắc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "端",
         "reading": "はし",
-        "meaning": "end (e.g. of street), tip, point, edge, margin, beginning, start, first, odds and ends, scrap, odd bit, least"
+        "meaning": "end (e.g. of street), tip, point, edge, margin, beginning, start, first, odds and ends, scrap, odd bit, least |(vi) đầu (ví dụ: đầu phố), mũi, điểm, cạnh, lề, khởi đầu, bắt đầu, đầu tiên, mẩu vụn, vụn vặt, tối thiểu"
       },
       {
         "example": "端",
         "reading": "はした",
-        "meaning": "fraction, odd sum, odd money, small change, low class female servant"
+        "meaning": "fraction, odd sum, odd money, small change, low class female servant |(vi) số lẻ, số dư, tiền lẻ, tiền thừa, nữ hầu hạng thấp"
       },
       {
         "example": "木の端",
         "reading": "きのはし",
-        "meaning": "fragment of wood"
+        "meaning": "fragment of wood |(vi) mẩu gỗ vụn"
       },
       {
         "example": "道の端",
         "reading": "みちのはし",
-        "meaning": "edge of a street"
+        "meaning": "edge of a street |(vi) lề đường, ven đường"
       },
       {
         "example": "端",
         "reading": "はし",
-        "meaning": "end (e.g. of street), tip, point, edge, margin, beginning, start, first, odds and ends, scrap, odd bit, least"
+        "meaning": "end (e.g. of street), tip, point, edge, margin, beginning, start, first, odds and ends, scrap, odd bit, least |(vi) đầu (ví dụ: đầu phố), mũi, điểm, cạnh, lề, khởi đầu, bắt đầu, đầu tiên, mẩu vụn, vụn vặt, tối thiểu"
       },
       {
         "example": "端",
         "reading": "はした",
-        "meaning": "fraction, odd sum, odd money, small change, low class female servant"
+        "meaning": "fraction, odd sum, odd money, small change, low class female servant |(vi) số lẻ, số dư, tiền lẻ, tiền thừa, nữ hầu hạng thấp"
       },
       {
         "example": "切羽",
         "reading": "きりは",
-        "meaning": "face, working face"
+        "meaning": "face, working face |(vi) mặt tầng, gương lò (khai thác mỏ)"
       },
       {
         "example": "継端",
         "reading": "つぎは",
-        "meaning": "opportunity to continue a conversation"
+        "meaning": "opportunity to continue a conversation |(vi) cơ hội tiếp tục câu chuyện"
       },
       {
         "example": "側",
         "reading": "そば",
-        "meaning": "near, close, beside, vicinity, proximity, besides, while, third person"
+        "meaning": "near, close, beside, vicinity, proximity, besides, while, third person |(vi) gần, kề, bên cạnh, lân cận, ngoài ra, trong khi, người thứ ba"
       },
       {
         "example": "端から",
         "reading": "はたから",
-        "meaning": "from outside, from the side"
+        "meaning": "from outside, from the side |(vi) từ bên ngoài, từ phía bên cạnh"
       },
       {
         "example": "端",
         "reading": "はし",
-        "meaning": "end (e.g. of street), tip, point, edge, margin, beginning, start, first, odds and ends, scrap, odd bit, least"
+        "meaning": "end (e.g. of street), tip, point, edge, margin, beginning, start, first, odds and ends, scrap, odd bit, least |(vi) đầu (ví dụ: đầu phố), mũi, điểm, cạnh, lề, khởi đầu, bắt đầu, đầu tiên, mẩu vụn, vụn vặt, tối thiểu"
       },
       {
         "example": "鼻先",
         "reading": "はなさき",
-        "meaning": "tip of nose, before one's eyes, under one's nose, in front of, tip (of something)"
+        "meaning": "tip of nose, before one's eyes, under one's nose, in front of, tip (of something) |(vi) đầu mũi, trước mắt, ngay trước mặt, phía trước, đầu mút (của cái gì đó)"
       },
       {
         "example": "出鼻",
         "reading": "でばな",
-        "meaning": "projecting part (of a headland, etc.), moment of departure, (on the) point of going out, outset, start, beginning"
+        "meaning": "projecting part (of a headland, etc.), moment of departure, (on the) point of going out, outset, start, beginning |(vi) phần nhô ra (của mũi đất, v.v.), thời điểm khởi hành, lúc sắp ra đi, khởi đầu, bắt đầu"
       },
       {
         "example": "上がり端",
         "reading": "あがりはな",
-        "meaning": "entrance (i.e. of a Japanese house), start of a rise (e.g. in prices)"
+        "meaning": "entrance (i.e. of a Japanese house), start of a rise (e.g. in prices) |(vi) lối vào (nhà kiểu Nhật), thời điểm bắt đầu tăng (ví dụ: giá cả)"
       }
     ],
     "radical": {
       "symbol": "立",
-      "meaning": "stand, erect"
+      "meaning": "stand, erect |(vi) Lập (đứng)"
     },
     "parts": [
       "山",
