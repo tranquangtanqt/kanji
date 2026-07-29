@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ko, koeru, kosu",
-    "meaning": "surpass, exceed",
+    "meaning": "surpass, exceed |(vi) vượt qua, vượt trội",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "超人（ちょうじん）",
         "meaning": {
-          "english": "superman"
+          "english": "superman |(vi) siêu nhân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-ko(eru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "超特急（ちょうとっきゅう）",
         "meaning": {
-          "english": "super express"
+          "english": "super express |(vi) tàu siêu tốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-ko(eru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "超音波（ちょうおんぱ）",
         "meaning": {
-          "english": "ultrasonic waves"
+          "english": "ultrasonic waves |(vi) sóng siêu âm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-ko(eru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "超自然的な（ちょうしぜんてきな）",
         "meaning": {
-          "english": "supernatural"
+          "english": "supernatural |(vi) siêu nhiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-ko(eru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "超然たる（ちょうぜんたる）",
         "meaning": {
-          "english": "transcendental"
+          "english": "transcendental |(vi) siêu việt, thoát tục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-ko(eru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "超過する（ちょうかする）",
         "meaning": {
-          "english": "exceed, be more than"
+          "english": "exceed, be more than |(vi) vượt quá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-ko(eru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "超越する（ちょうえつする）",
         "meaning": {
-          "english": "transcend, rise above"
+          "english": "transcend, rise above |(vi) vượt lên trên, siêu việt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-ko(eru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "超す（こす）",
         "meaning": {
-          "english": "cross, pass [v.i.]"
+          "english": "cross, pass [v.i.] |(vi) vượt qua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-ko(eru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "超える（こえる）",
         "meaning": {
-          "english": "exceed, cross over [v.i.]"
+          "english": "exceed, cross over [v.i.] |(vi) vượt qua, vượt mức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-ko(eru)_06_i.opus",
@@ -219,7 +219,7 @@
     "kanji": {
       "character": "超",
       "meaning": {
-        "english": "surpass, exceed"
+        "english": "surpass, exceed |(vi) vượt qua, vượt trội"
       },
       "strokes": {
         "count": 12,
@@ -281,7 +281,7 @@
         "romaji": "sounyou"
       },
       "meaning": {
-        "english": "to run"
+        "english": "to run |(vi) Tẩu (chạy)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sounyou0.svg",
@@ -302,7 +302,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "597",
     "strokeCount": 12,
-    "meaning": "transcend, super-, ultra-",
+    "meaning": "transcend, super-, ultra- |(vi) siêu việt, siêu-, cực- |(hv) Siêu",
     "kunyomi": [
       "こ.える",
       "こ.す"
@@ -314,34 +314,34 @@
       {
         "example": "超",
         "reading": "チョウ",
-        "meaning": "super-, ultra-, hyper-, extreme, extremely, really, totally, absolutely, over, more than"
+        "meaning": "super-, ultra-, hyper-, extreme, extremely, really, totally, absolutely, over, more than |(vi) siêu-, cực-, cực độ, cực kỳ, thật sự, hoàn toàn, tuyệt đối, vượt quá, hơn"
       },
       {
         "example": "超音波",
         "reading": "チョウオンパ",
-        "meaning": "ultrasonic waves, ultrasound"
+        "meaning": "ultrasonic waves, ultrasound |(vi) sóng siêu âm"
       },
       {
         "example": "出超",
         "reading": "シュッチョウ",
-        "meaning": "excess of exports, favorable balance of trade, favourable balance of trade"
+        "meaning": "excess of exports, favorable balance of trade, favourable balance of trade |(vi) xuất siêu, cán cân thương mại thuận lợi"
       },
       {
         "example": "入超",
         "reading": "ニュウチョウ",
-        "meaning": "excess of imports"
+        "meaning": "excess of imports |(vi) nhập siêu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "越える",
         "reading": "こえる",
-        "meaning": "to cross over, to cross, to pass through, to pass over (out of), to go beyond, to go past, to exceed, to surpass, to be more (than)"
+        "meaning": "to cross over, to cross, to pass through, to pass over (out of), to go beyond, to go past, to exceed, to surpass, to be more (than) |(vi) vượt qua, băng qua, đi qua, vượt ra ngoài, vượt mức, hơn"
       },
       {
         "example": "越す",
         "reading": "こす",
-        "meaning": "to cross over (e.g. mountain), to go across, to get over (e.g. hardship), to pass time (e.g. a winter), to surpass, to be better than, to exceed, to move house, to go, to come"
+        "meaning": "to cross over (e.g. mountain), to go across, to get over (e.g. hardship), to pass time (e.g. a winter), to surpass, to be better than, to exceed, to move house, to go, to come |(vi) vượt qua (núi), băng qua, vượt qua (khó khăn), trải qua (mùa đông), vượt trội, tốt hơn, vượt mức, chuyển nhà, đi, đến"
       }
     ],
     "radical": {
@@ -349,7 +349,7 @@
       "forms": [
         "赱"
       ],
-      "meaning": "run"
+      "meaning": "run |(vi) Tẩu (chạy)"
     },
     "parts": [
       "刀",

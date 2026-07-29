@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "todo, todoku, todokeru",
-    "meaning": "deliver, reach, report,notify",
+    "meaning": "deliver, reach, report,notify |(vi) chuyển đến, đạt tới, báo cáo, thông báo",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "届く（とどく）",
         "meaning": {
-          "english": "reach, arrive [v.i.]"
+          "english": "reach, arrive [v.i.] |(vi) đến nơi, tới, chuyển đến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/todo(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "届ける（とどける）",
         "meaning": {
-          "english": "deliver, file notice [v.t.]"
+          "english": "deliver, file notice [v.t.] |(vi) chuyển giao, nộp đơn, báo cáo, thông báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/todo(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "届け先（とどけさき）",
         "meaning": {
-          "english": "receiver's address"
+          "english": "receiver's address |(vi) địa chỉ người nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/todo(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "出生届け（しゅっせいとどけ）",
         "meaning": {
-          "english": "birth registration"
+          "english": "birth registration |(vi) giấy khai sinh, đăng ký khai sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/todo(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "欠席届け（けっせきとどけ）",
         "meaning": {
-          "english": "report of a school absence"
+          "english": "report of a school absence |(vi) đơn xin nghỉ học, giấy báo vắng mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/todo(ku)_06_e.opus",
@@ -192,7 +192,7 @@
     "kanji": {
       "character": "届",
       "meaning": {
-        "english": "deliver, reach, report,notify"
+        "english": "deliver, reach, report,notify |(vi) chuyển đến, đạt tới, báo cáo, thông báo"
       },
       "strokes": {
         "count": 8,
@@ -246,7 +246,7 @@
         "romaji": "shikabane"
       },
       "meaning": {
-        "english": "corpse, awning"
+        "english": "corpse, awning |(vi) Thi (xác chết, mái che)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shikabane0.svg",
@@ -267,7 +267,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "939",
     "strokeCount": 8,
-    "meaning": "deliver, reach, arrive, report, notify, forward",
+    "meaning": "deliver, reach, arrive, report, notify, forward |(vi) chuyển đến, đạt tới, báo cáo, thông báo, chuyển tiếp |(hv) Giới",
     "kunyomi": [
       "とど.ける",
       "-とど.け",
@@ -281,17 +281,17 @@
       {
         "example": "届ける",
         "reading": "とどける",
-        "meaning": "to deliver, to forward, to send, to report, to notify, to file notice (to the authorities), to give notice, to register"
+        "meaning": "to deliver, to forward, to send, to report, to notify, to file notice (to the authorities), to give notice, to register |(vi) chuyển giao, chuyển tiếp, gửi, báo cáo, thông báo, nộp đơn (cho cơ quan chức năng), đăng ký"
       },
       {
         "example": "届く",
         "reading": "とどく",
-        "meaning": "to reach, to touch, to get to, to carry (of sound), to be delivered, to arrive, to be attentive, to be scrupulous, to be thorough, to be realized (of a desire), to be fulfilled, to get through (to someone), to be appreciated, to make an impression"
+        "meaning": "to reach, to touch, to get to, to carry (of sound), to be delivered, to arrive, to be attentive, to be scrupulous, to be thorough, to be realized (of a desire), to be fulfilled, to get through (to someone), to be appreciated, to make an impression |(vi) đến nơi, chạm tới, vươn tới, truyền đi (âm thanh), được giao tới, chu đáo, tỉ mỉ, được thực hiện đầy đủ (ước muốn), được đáp ứng, truyền đạt tới (ai đó), được đánh giá cao, gây ấn tượng"
       }
     ],
     "radical": {
       "symbol": "尸",
-      "meaning": "corpse"
+      "meaning": "corpse |(vi) Thi (xác chết, mái che)"
     },
     "parts": [
       "尸",

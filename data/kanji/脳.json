@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "brain",
+    "meaning": "brain |(vi) não",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "脳（のう）",
         "meaning": {
-          "english": "brain"
+          "english": "brain |(vi) não"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zu)nou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "脳髄（のうずい）",
         "meaning": {
-          "english": "brain"
+          "english": "brain |(vi) não bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zu)nou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "脳炎（のうえん）",
         "meaning": {
-          "english": "brain inflammation"
+          "english": "brain inflammation |(vi) viêm não"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zu)nou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "脳死（のうし）",
         "meaning": {
-          "english": "brain death"
+          "english": "brain death |(vi) chết não"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zu)nou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "脳裏（のうり）",
         "meaning": {
-          "english": "one's mind"
+          "english": "one's mind |(vi) tâm trí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zu)nou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "脳細胞（のうさいぼう）",
         "meaning": {
-          "english": "brain cell"
+          "english": "brain cell |(vi) tế bào não"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zu)nou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "脳卒中（のうそっちゅう）",
         "meaning": {
-          "english": "stroke, cerebral hemorrhage"
+          "english": "stroke, cerebral hemorrhage |(vi) đột quỵ, xuất huyết não"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zu)nou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "大脳（だいのう）",
         "meaning": {
-          "english": "cerebrum"
+          "english": "cerebrum |(vi) đại não"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zu)nou_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "小脳（しょうのう）",
         "meaning": {
-          "english": "cerebellum"
+          "english": "cerebellum |(vi) tiểu não"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zu)nou_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "頭脳（ずのう）",
         "meaning": {
-          "english": "head, brains, intellect"
+          "english": "head, brains, intellect |(vi) đầu óc, trí tuệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zu)nou_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "首脳（しゅのう）",
         "meaning": {
-          "english": "head, brains"
+          "english": "head, brains |(vi) người đứng đầu, bộ óc lãnh đạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zu)nou_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "洗脳する（せんのうする）",
         "meaning": {
-          "english": "brainwash"
+          "english": "brainwash |(vi) tẩy não"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zu)nou_06_l.opus",
@@ -229,7 +229,7 @@
     "kanji": {
       "character": "脳",
       "meaning": {
-        "english": "brain"
+        "english": "brain |(vi) não"
       },
       "strokes": {
         "count": 11,
@@ -289,7 +289,7 @@
         "romaji": "nikuzuki"
       },
       "meaning": {
-        "english": "meat, flesh"
+        "english": "meat, flesh |(vi) Nhục (thịt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nikuzuki0.svg",
@@ -310,7 +310,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "459",
     "strokeCount": 11,
-    "meaning": "brain, memory",
+    "meaning": "brain, memory |(vi) não, trí nhớ |(hv) Não",
     "kunyomi": [
       "のうずる"
     ],
@@ -322,22 +322,22 @@
       {
         "example": "脳",
         "reading": "ノウ",
-        "meaning": "brain, brains, mind"
+        "meaning": "brain, brains, mind |(vi) não, đầu óc, tâm trí"
       },
       {
         "example": "脳死",
         "reading": "ノウシ",
-        "meaning": "brain death"
+        "meaning": "brain death |(vi) chết não"
       },
       {
         "example": "苦悩",
         "reading": "クノウ",
-        "meaning": "(mental) agony, anguish, suffering, distress"
+        "meaning": "(mental) agony, anguish, suffering, distress |(vi) đau khổ (tinh thần), phiền muộn, khổ sở"
       },
       {
         "example": "大脳",
         "reading": "ダイノウ",
-        "meaning": "cerebrum"
+        "meaning": "cerebrum |(vi) đại não"
       }
     ],
     "kunyomiExamples": [],
@@ -346,7 +346,7 @@
       "forms": [
         "⺼"
       ],
-      "meaning": "meat"
+      "meaning": "meat |(vi) Nhục (thịt)"
     },
     "parts": [
       "凵",

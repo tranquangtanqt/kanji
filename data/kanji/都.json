@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "miyako",
-    "meaning": "capital (city), metropolis",
+    "meaning": "capital (city), metropolis |(vi) kinh đô, thủ đô, đô thị",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "都市（とし）",
         "meaning": {
-          "english": "city"
+          "english": "city |(vi) đô thị, thành phố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to-miyako_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "都会（とかい）",
         "meaning": {
-          "english": "city"
+          "english": "city |(vi) thành thị, đô thị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to-miyako_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "都心（としん）",
         "meaning": {
-          "english": "heart (of city)"
+          "english": "heart (of city) |(vi) trung tâm thành phố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to-miyako_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "都営（とえい）",
         "meaning": {
-          "english": "municipally owned"
+          "english": "municipally owned |(vi) do thành phố (đô) quản lý, kinh doanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to-miyako_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "都立（とりつ）",
         "meaning": {
-          "english": "municipal"
+          "english": "municipal |(vi) thuộc đô lập (do chính quyền đô quản lý)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to-miyako_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "都庁（とちょう）",
         "meaning": {
-          "english": "Tokyo Government Office"
+          "english": "Tokyo Government Office |(vi) Tòa đô sảnh Tokyo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to-miyako_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "東京都（とうきょうと）",
         "meaning": {
-          "english": "Tokyo Metropolitan area"
+          "english": "Tokyo Metropolitan area |(vi) Tokyo Đô (vùng đô thị Tokyo)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to-miyako_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "京都（きょうと）",
         "meaning": {
-          "english": "Kyoto"
+          "english": "Kyoto |(vi) Kyoto"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to-miyako_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "首都（しゅと）",
         "meaning": {
-          "english": "capital city"
+          "english": "capital city |(vi) thủ đô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to-miyako_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "都合（つごう）",
         "meaning": {
-          "english": "circumstances, convenience"
+          "english": "circumstances, convenience |(vi) hoàn cảnh, sự tiện lợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to-miyako_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "都度（つど）",
         "meaning": {
-          "english": "each (every) time"
+          "english": "each (every) time |(vi) mỗi lần, mỗi khi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to-miyako_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "都（みやこ）",
         "meaning": {
-          "english": "metropolis, city, capital"
+          "english": "metropolis, city, capital |(vi) kinh đô, đô thị, thủ đô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to-miyako_06_l.opus",
@@ -308,7 +308,7 @@
     "kanji": {
       "character": "都",
       "meaning": {
-        "english": "capital (city), metropolis"
+        "english": "capital (city), metropolis |(vi) kinh đô, thủ đô, đô thị"
       },
       "strokes": {
         "count": 11,
@@ -368,7 +368,7 @@
         "romaji": "oozato"
       },
       "meaning": {
-        "english": "village, country, city"
+        "english": "village, country, city |(vi) Ấp (làng, đất nước, thành thị)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/oozato0.svg",
@@ -389,7 +389,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "123",
     "strokeCount": 11,
-    "meaning": "metropolis, capital, all, everything",
+    "meaning": "metropolis, capital, all, everything |(vi) đô thị, thủ đô, tất cả, toàn bộ |(hv) Đô",
     "kunyomi": [
       "みやこ"
     ],
@@ -401,54 +401,54 @@
       {
         "example": "都",
         "reading": "ト",
-        "meaning": "Metropolis (of Tokyo), (Tokyo) Metropolitan District, metropolitan prefecture, counter for cities and towns, capital"
+        "meaning": "Metropolis (of Tokyo), (Tokyo) Metropolitan District, metropolitan prefecture, counter for cities and towns, capital |(vi) Đô (Tokyo), khu vực đô thị Tokyo, đô (đơn vị hành chính cấp tỉnh), lượng từ đếm thành phố/thị trấn, kinh đô"
       },
       {
         "example": "都営",
         "reading": "トエイ",
-        "meaning": "(under) metropolitan government management"
+        "meaning": "(under) metropolitan government management |(vi) do chính quyền đô (Tokyo) quản lý"
       },
       {
         "example": "遷都",
         "reading": "セント",
-        "meaning": "relocation of the capital, transfer of the capital"
+        "meaning": "relocation of the capital, transfer of the capital |(vi) dời đô, chuyển kinh đô"
       },
       {
         "example": "東都",
         "reading": "トウト",
-        "meaning": "the Eastern Capital (now Tokyo), Yedo, Edo"
+        "meaning": "the Eastern Capital (now Tokyo), Yedo, Edo |(vi) Đông Đô (nay là Tokyo), Edo"
       },
       {
         "example": "都度",
         "reading": "ツド",
-        "meaning": "each (every) time, whenever"
+        "meaning": "each (every) time, whenever |(vi) mỗi lần, bất cứ khi nào"
       },
       {
         "example": "都合",
         "reading": "ツゴウ",
-        "meaning": "circumstances, condition, convenience, arranging, managing, lending money, raising money, in all, in total, all told"
+        "meaning": "circumstances, condition, convenience, arranging, managing, lending money, raising money, in all, in total, all told |(vi) hoàn cảnh, điều kiện, sự tiện lợi, sắp xếp, thu xếp, cho vay tiền, huy động tiền, tổng cộng, tất cả"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "都",
         "reading": "みやこ",
-        "meaning": "capital (esp. Kyoto, Japan's former capital), seat of government, capital (of music, fashion, etc.), city (e.g. of light), location of the Imperial Palace"
+        "meaning": "capital (esp. Kyoto, Japan's former capital), seat of government, capital (of music, fashion, etc.), city (e.g. of light), location of the Imperial Palace |(vi) kinh đô (đặc biệt là Kyoto, cố đô Nhật Bản), nơi đặt chính quyền, kinh đô (của âm nhạc, thời trang...), thành phố (vd: thành phố ánh sáng), nơi có Hoàng cung"
       },
       {
         "example": "都入り",
         "reading": "みやこいり",
-        "meaning": "arriving in the capital"
+        "meaning": "arriving in the capital |(vi) đến kinh đô, tiến vào kinh đô"
       },
       {
         "example": "京の都",
         "reading": "きょうのみやこ",
-        "meaning": "Kyoto"
+        "meaning": "Kyoto |(vi) kinh đô Kyoto"
       },
       {
         "example": "花の都",
         "reading": "はなのみやこ",
-        "meaning": "City of Flowers (nickname for various cities, esp. Paris and Florence)"
+        "meaning": "City of Flowers (nickname for various cities, esp. Paris and Florence) |(vi) thành phố hoa lệ (biệt danh của nhiều thành phố, đặc biệt Paris và Florence)"
       }
     ],
     "radical": {
@@ -456,7 +456,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "town (阝 right)"
+      "meaning": "town (阝 right) |(vi) Ấp (thôn ấp, thành thị - bộ 阝 bên phải)"
     },
     "parts": [
       "日",

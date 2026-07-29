@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ko, kooru, kogo, kogoeru",
-    "meaning": "freeze",
+    "meaning": "freeze |(vi) đông lạnh, đóng băng",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "凍傷（とうしょう）",
         "meaning": {
-          "english": "frostbite"
+          "english": "frostbite |(vi) tê cóng, bỏng lạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kogo(eru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "冷凍庫（れいとうこ）",
         "meaning": {
-          "english": "freezer"
+          "english": "freezer |(vi) tủ đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kogo(eru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "凍結する（とうけつする）",
         "meaning": {
-          "english": "freeze"
+          "english": "freeze |(vi) đông lạnh, đóng băng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kogo(eru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "凍死する（とうしする）",
         "meaning": {
-          "english": "freeze to death"
+          "english": "freeze to death |(vi) chết cóng, chết vì lạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kogo(eru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "解凍する（かいとうする）",
         "meaning": {
-          "english": "thaw"
+          "english": "thaw |(vi) rã đông, giải đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kogo(eru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "凍る（こおる）",
         "meaning": {
-          "english": "freeze [v.i.]"
+          "english": "freeze [v.i.] |(vi) đóng băng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kogo(eru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "凍える（こごえる）",
         "meaning": {
-          "english": "be numb with cold [v.i.]"
+          "english": "be numb with cold [v.i.] |(vi) tê cóng vì lạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kogo(eru)_06_g.opus",
@@ -200,7 +200,7 @@
     "kanji": {
       "character": "凍",
       "meaning": {
-        "english": "freeze"
+        "english": "freeze |(vi) đông lạnh, đóng băng"
       },
       "strokes": {
         "count": 10,
@@ -258,7 +258,7 @@
         "romaji": "nisui"
       },
       "meaning": {
-        "english": "ice"
+        "english": "ice |(vi) Băng (bộ hai chấm thủy, liên quan đến băng giá)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nisui0.svg",
@@ -279,7 +279,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1284",
     "strokeCount": 10,
-    "meaning": "frozen, congeal, refrigerate",
+    "meaning": "frozen, congeal, refrigerate |(vi) đông cứng, đóng băng, ướp lạnh |(hv) Đông",
     "kunyomi": [
       "こお.る",
       "こご.える",
@@ -294,49 +294,49 @@
       {
         "example": "凍結",
         "reading": "トウケツ",
-        "meaning": "freezing (e.g. water), freezing (prices, wages, assets, etc.), moratorium, suspension (e.g. investment)"
+        "meaning": "freezing (e.g. water), freezing (prices, wages, assets, etc.), moratorium, suspension (e.g. investment) |(vi) đóng băng (nước), đóng băng (giá cả, lương, tài sản), tạm hoãn, đình chỉ (đầu tư)"
       },
       {
         "example": "凍死",
         "reading": "トウシ",
-        "meaning": "death from cold, freezing to death"
+        "meaning": "death from cold, freezing to death |(vi) chết vì lạnh, chết cóng"
       },
       {
         "example": "解凍",
         "reading": "カイトウ",
-        "meaning": "thawing, defrosting, decompression (of data), extraction, unpacking, unzipping"
+        "meaning": "thawing, defrosting, decompression (of data), extraction, unpacking, unzipping |(vi) rã đông, giải nén (dữ liệu), giải mã, giải nén tệp"
       },
       {
         "example": "自動解凍",
         "reading": "ジドウカイトウ",
-        "meaning": "self-extracting (file)"
+        "meaning": "self-extracting (file) |(vi) (tệp) tự giải nén"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "凍る",
         "reading": "こおる",
-        "meaning": "to freeze, to become frozen, to freeze over"
+        "meaning": "to freeze, to become frozen, to freeze over |(vi) đông lại, đóng băng, bị đóng băng"
       },
       {
         "example": "凍える",
         "reading": "こごえる",
-        "meaning": "to freeze (of one's body), to be frozen, to become numb (with cold), to be chilled"
+        "meaning": "to freeze (of one's body), to be frozen, to become numb (with cold), to be chilled |(vi) cóng lạnh (cơ thể), tê cứng vì lạnh, run vì rét"
       },
       {
         "example": "凍てる",
         "reading": "いてる",
-        "meaning": "to freeze, to freeze over"
+        "meaning": "to freeze, to freeze over |(vi) đông lại, đóng băng"
       },
       {
         "example": "凍みる",
         "reading": "しみる",
-        "meaning": "to freeze, to be frozen over, to congeal"
+        "meaning": "to freeze, to be frozen over, to congeal |(vi) đông lại, đóng băng, ngưng kết"
       }
     ],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": "ice |(vi) Băng (bộ băng)"
     },
     "parts": [
       "一",

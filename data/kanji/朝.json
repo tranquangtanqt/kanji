@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "asa",
-    "meaning": "morning, dynasty",
+    "meaning": "morning, dynasty |(vi) buổi sáng, triều đại",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "朝食（ちょうしょく）",
         "meaning": {
-          "english": "breakfast"
+          "english": "breakfast |(vi) bữa sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-asa_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "朝刊（ちょうかん）",
         "meaning": {
-          "english": "morning newspaper"
+          "english": "morning newspaper |(vi) báo buổi sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-asa_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "平安朝（へいあんちょう）",
         "meaning": {
-          "english": "Heian period"
+          "english": "Heian period |(vi) thời kỳ Heian"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-asa_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "朝（あさ）",
         "meaning": {
-          "english": "morning"
+          "english": "morning |(vi) buổi sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-asa_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "毎朝（まいあさ）",
         "meaning": {
-          "english": "every morning"
+          "english": "every morning |(vi) mỗi sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-asa_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "朝日（あさひ）",
         "meaning": {
-          "english": "morning sun"
+          "english": "morning sun |(vi) ánh nắng ban mai, mặt trời buổi sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-asa_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "朝御飯（あさごはん）",
         "meaning": {
-          "english": "breakfast"
+          "english": "breakfast |(vi) bữa sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-asa_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "*今朝（けさ）",
         "meaning": {
-          "english": "this morning"
+          "english": "this morning |(vi) sáng nay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-asa_06_h.opus",
@@ -251,7 +251,7 @@
     "kanji": {
       "character": "朝",
       "meaning": {
-        "english": "morning, dynasty"
+        "english": "morning, dynasty |(vi) buổi sáng, triều đại"
       },
       "strokes": {
         "count": 12,
@@ -313,7 +313,7 @@
         "romaji": "tsuki"
       },
       "meaning": {
-        "english": "moon, month, period"
+        "english": "moon, month, period |(vi) Nguyệt (mặt trăng, tháng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuki0.svg",
@@ -334,7 +334,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "248",
     "strokeCount": 12,
-    "meaning": "morning, dynasty, regime, epoch, period, (North) Korea",
+    "meaning": "morning, dynasty, regime, epoch, period, (North) Korea |(vi) buổi sáng, triều đại, chế độ, kỷ nguyên, thời kỳ, (Bắc) Triều Tiên |(hv) Triều",
     "kunyomi": [
       "あさ"
     ],
@@ -345,49 +345,49 @@
       {
         "example": "朝",
         "reading": "チョウ",
-        "meaning": "dynasty, reign, period, epoch, age, court, North Korea"
+        "meaning": "dynasty, reign, period, epoch, age, court, North Korea |(vi) triều đại, triều vua, thời kỳ, kỷ nguyên, thời đại, triều đình, Bắc Triều Tiên"
       },
       {
         "example": "朝刊",
         "reading": "チョウカン",
-        "meaning": "morning edition (of a daily newspaper), morning paper"
+        "meaning": "morning edition (of a daily newspaper), morning paper |(vi) báo buổi sáng, ấn bản sáng"
       },
       {
         "example": "本朝",
         "reading": "ホンチョウ",
-        "meaning": "this land, our country, Imperial Court of Japan"
+        "meaning": "this land, our country, Imperial Court of Japan |(vi) đất nước này, nước ta, triều đình Nhật Bản"
       },
       {
         "example": "王朝",
         "reading": "オウチョウ",
-        "meaning": "dynasty"
+        "meaning": "dynasty |(vi) vương triều"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "朝",
         "reading": "あさ",
-        "meaning": "morning, breakfast"
+        "meaning": "morning, breakfast |(vi) buổi sáng, bữa sáng"
       },
       {
         "example": "朝方",
         "reading": "あさがた",
-        "meaning": "early morning, early hours, early in the morning"
+        "meaning": "early morning, early hours, early in the morning |(vi) sáng sớm, những giờ đầu buổi sáng"
       },
       {
         "example": "後の朝",
         "reading": "のちのあした",
-        "meaning": "the morning after (having slept together)"
+        "meaning": "the morning after (having slept together) |(vi) buổi sáng hôm sau (sau khi ngủ cùng nhau)"
       },
       {
         "example": "霜朝",
         "reading": "しもあさ",
-        "meaning": "frosty morning"
+        "meaning": "frosty morning |(vi) buổi sáng có sương giá"
       }
     ],
     "radical": {
       "symbol": "月",
-      "meaning": "moon, month"
+      "meaning": "moon, month |(vi) Nguyệt (mặt trăng, tháng)"
     },
     "parts": [
       "十",

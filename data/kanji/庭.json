@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "niwa",
-    "meaning": "court, garden",
+    "meaning": "court, garden |(vi) sân, vườn",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "校庭（こうてい）",
         "meaning": {
-          "english": "campus play ground"
+          "english": "campus play ground |(vi) sân trường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niwa_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "石庭（せきてい）",
         "meaning": {
-          "english": "rock garden"
+          "english": "rock garden |(vi) vườn đá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niwa_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "家庭（かてい）",
         "meaning": {
-          "english": "family, household"
+          "english": "family, household |(vi) gia đình, hộ gia đình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niwa_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "庭園（ていえん）",
         "meaning": {
-          "english": "garden, park"
+          "english": "garden, park |(vi) vườn, công viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niwa_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "庭（にわ）",
         "meaning": {
-          "english": "garden"
+          "english": "garden |(vi) vườn, sân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niwa_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "中庭（なかにわ）",
         "meaning": {
-          "english": "courtyard"
+          "english": "courtyard |(vi) sân trong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niwa_06_f.opus",
@@ -210,7 +210,7 @@
     "kanji": {
       "character": "庭",
       "meaning": {
-        "english": "court, garden"
+        "english": "court, garden |(vi) sân, vườn"
       },
       "strokes": {
         "count": 10,
@@ -268,7 +268,7 @@
         "romaji": "madare"
       },
       "meaning": {
-        "english": "slanting roof"
+        "english": "slanting roof |(vi) Nghiễm (mái nhà dốc, mái hiên)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/madare0.svg",
@@ -289,7 +289,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "816",
     "strokeCount": 10,
-    "meaning": "courtyard, garden, yard",
+    "meaning": "courtyard, garden, yard |(vi) sân, vườn, khoảnh sân |(hv) Đình",
     "kunyomi": [
       "にわ"
     ],
@@ -300,49 +300,49 @@
       {
         "example": "庭園",
         "reading": "テイエン",
-        "meaning": "garden, park"
+        "meaning": "garden, park |(vi) vườn, công viên"
       },
       {
         "example": "庭球",
         "reading": "テイキュウ",
-        "meaning": "tennis"
+        "meaning": "tennis |(vi) quần vợt"
       },
       {
         "example": "前庭",
         "reading": "ゼンテイ",
-        "meaning": "front garden, front yard, vestibule (of the ear)"
+        "meaning": "front garden, front yard, vestibule (of the ear) |(vi) sân trước, vườn trước, tiền đình (tai)"
       },
       {
         "example": "営庭",
         "reading": "エイテイ",
-        "meaning": "open space within a barracks compound"
+        "meaning": "open space within a barracks compound |(vi) sân trống trong doanh trại"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "庭",
         "reading": "にわ",
-        "meaning": "garden, yard, courtyard, field (of action), area"
+        "meaning": "garden, yard, courtyard, field (of action), area |(vi) vườn, sân, khoảnh sân, lĩnh vực (hoạt động), khu vực"
       },
       {
         "example": "庭木",
         "reading": "にわき",
-        "meaning": "garden tree"
+        "meaning": "garden tree |(vi) cây trong vườn"
       },
       {
         "example": "前庭",
         "reading": "ぜんてい",
-        "meaning": "front garden, front yard, vestibule (of the ear)"
+        "meaning": "front garden, front yard, vestibule (of the ear) |(vi) sân trước, vườn trước, tiền đình (tai)"
       },
       {
         "example": "奥庭",
         "reading": "おくにわ",
-        "meaning": "inner garden, back yard"
+        "meaning": "inner garden, back yard |(vi) vườn trong, sân sau"
       }
     ],
     "radical": {
       "symbol": "广",
-      "meaning": "house on cliff"
+      "meaning": "house on cliff |(vi) Nghiễm (mái nhà dốc, mái hiên)"
     },
     "parts": [
       "广",

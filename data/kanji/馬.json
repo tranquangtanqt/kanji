@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "uma, ma",
-    "meaning": "horse",
+    "meaning": "horse |(vi) ngựa",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "馬車（ばしゃ）",
         "meaning": {
-          "english": "horse-drawn vehicle"
+          "english": "horse-drawn vehicle |(vi) xe ngựa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "馬力（ばりき）",
         "meaning": {
-          "english": "horse-power, h.p."
+          "english": "horse-power, h.p. |(vi) mã lực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "乗馬（じょうば）",
         "meaning": {
-          "english": "horseback riding"
+          "english": "horseback riding |(vi) cưỡi ngựa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "競馬（けいば）",
         "meaning": {
-          "english": "horse racing"
+          "english": "horse racing |(vi) đua ngựa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "馬鹿な（ばかな）",
         "meaning": {
-          "english": "stupid, silly"
+          "english": "stupid, silly |(vi) ngu ngốc, ngớ ngẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "竹馬の友（ちくばのとも）",
         "meaning": {
-          "english": "childhood friend"
+          "english": "childhood friend |(vi) bạn thời thơ ấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "出馬する（しゅつばする）",
         "meaning": {
-          "english": "stand as a candidate"
+          "english": "stand as a candidate |(vi) ra ứng cử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "落馬する（らくばする）",
         "meaning": {
-          "english": "fall from a horse"
+          "english": "fall from a horse |(vi) ngã ngựa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "馬（うま）",
         "meaning": {
-          "english": "horse"
+          "english": "horse |(vi) ngựa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "絵馬（えま）",
         "meaning": {
-          "english": "votive picture"
+          "english": "votive picture |(vi) tấm gỗ cầu nguyện (ema)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_j.opus",
@@ -233,7 +233,7 @@
     "kanji": {
       "character": "馬",
       "meaning": {
-        "english": "horse"
+        "english": "horse |(vi) ngựa"
       },
       "strokes": {
         "count": 10,
@@ -291,7 +291,7 @@
         "romaji": "uma"
       },
       "meaning": {
-        "english": "horse"
+        "english": "horse |(vi) Mã (con ngựa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/uma0.svg",
@@ -312,7 +312,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "639",
     "strokeCount": 10,
-    "meaning": "horse",
+    "meaning": "horse |(vi) ngựa |(hv) Mã",
     "kunyomi": [
       "うま",
       "うま-",
@@ -325,69 +325,69 @@
       {
         "example": "馬車",
         "reading": "バシャ",
-        "meaning": "coach (horse-drawn), carriage, wagon, cart"
+        "meaning": "coach (horse-drawn), carriage, wagon, cart |(vi) xe ngựa, xe song mã, toa xe"
       },
       {
         "example": "馬券",
         "reading": "バケン",
-        "meaning": "betting ticket, betting slip"
+        "meaning": "betting ticket, betting slip |(vi) vé cá cược đua ngựa"
       },
       {
         "example": "白馬",
         "reading": "ハクバ",
-        "meaning": "white horse, unrefined sake"
+        "meaning": "white horse, unrefined sake |(vi) ngựa trắng, rượu sake chưa lọc"
       },
       {
         "example": "騎馬",
         "reading": "キバ",
-        "meaning": "horse riding, horseback riding, horseback rider"
+        "meaning": "horse riding, horseback riding, horseback rider |(vi) cưỡi ngựa, kỵ sĩ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "馬",
         "reading": "うま",
-        "meaning": "horse, horse racing, promoted bishop, knight (court card in mekuri karuta and unsun karuta)"
+        "meaning": "horse, horse racing, promoted bishop, knight (court card in mekuri karuta and unsun karuta) |(vi) ngựa, đua ngựa, tượng đã phong cấp (cờ tướng), quân bài hình hiệp sĩ (trong mekuri karuta, unsun karuta)"
       },
       {
         "example": "馬車",
         "reading": "ばしゃ",
-        "meaning": "coach (horse-drawn), carriage, wagon, cart"
+        "meaning": "coach (horse-drawn), carriage, wagon, cart |(vi) xe ngựa, xe song mã, toa xe"
       },
       {
         "example": "白馬",
         "reading": "はくば",
-        "meaning": "white horse, unrefined sake"
+        "meaning": "white horse, unrefined sake |(vi) ngựa trắng, rượu sake chưa lọc"
       },
       {
         "example": "竹馬",
         "reading": "たけうま",
-        "meaning": "stilts (for walking), hobby horse"
+        "meaning": "stilts (for walking), hobby horse |(vi) cà kheo (để đi), ngựa gỗ đồ chơi"
       },
       {
         "example": "馬克",
         "reading": "マルク",
-        "meaning": "mark (former currency of Germany)"
+        "meaning": "mark (former currency of Germany) |(vi) đồng mark (tiền tệ cũ của Đức)"
       },
       {
         "example": "馬尼剌",
         "reading": "マニラ",
-        "meaning": "Manila (Philippines)"
+        "meaning": "Manila (Philippines) |(vi) Manila (Philippines)"
       },
       {
         "example": "白馬",
         "reading": "はくば",
-        "meaning": "white horse, unrefined sake"
+        "meaning": "white horse, unrefined sake |(vi) ngựa trắng, rượu sake chưa lọc"
       },
       {
         "example": "竹馬",
         "reading": "たけうま",
-        "meaning": "stilts (for walking), hobby horse"
+        "meaning": "stilts (for walking), hobby horse |(vi) cà kheo (để đi), ngựa gỗ đồ chơi"
       }
     ],
     "radical": {
       "symbol": "馬",
-      "meaning": "horse"
+      "meaning": "horse |(vi) Mã (con ngựa)"
     },
     "parts": [
       "杰",

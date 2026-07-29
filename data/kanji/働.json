@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "hatara, hataraku, hataraki",
-    "meaning": "work",
+    "meaning": "work |(vi) làm việc, lao động",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "労働（ろうどう）",
         "meaning": {
-          "english": "labor"
+          "english": "labor |(vi) lao động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatara(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "稼働する（かどうする）",
         "meaning": {
-          "english": "operate (e.g. machine)"
+          "english": "operate (e.g. machine) |(vi) vận hành, hoạt động (máy móc)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatara(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "働く（はたらく）",
         "meaning": {
-          "english": "work [v.i.]"
+          "english": "work [v.i.] |(vi) làm việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatara(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "下働き（したばたらき）",
         "meaning": {
-          "english": "assistant job"
+          "english": "assistant job |(vi) công việc phụ giúp, việc vặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatara(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "共働き（ともばたらき）",
         "meaning": {
-          "english": "dual income"
+          "english": "dual income |(vi) cả hai vợ chồng cùng đi làm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatara(ku)_06_e.opus",
@@ -226,7 +226,7 @@
     "kanji": {
       "character": "働",
       "meaning": {
-        "english": "work"
+        "english": "work |(vi) làm việc, lao động"
       },
       "strokes": {
         "count": 13,
@@ -290,7 +290,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người, bộ nhân đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -311,7 +311,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "417",
     "strokeCount": 13,
-    "meaning": "work, (kokuji)",
+    "meaning": "work, (kokuji) |(vi) làm việc, lao động (chữ do Nhật tạo) |(hv) Động",
     "kunyomi": [
       "はたら.く"
     ],
@@ -322,19 +322,19 @@
       {
         "example": "実働",
         "reading": "ジツドウ",
-        "meaning": "actual work"
+        "meaning": "actual work |(vi) làm việc thực tế, giờ làm thực"
       },
       {
         "example": "就働",
         "reading": "シュウドウ",
-        "meaning": "being employed, working"
+        "meaning": "being employed, working |(vi) được tuyển dụng, đang làm việc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "働く",
         "reading": "はたらく",
-        "meaning": "to work, to labor, to labour, to function, to operate, to be effective, to work (i.e. ... works), to come into play, to commit (e.g. a crime), to perpetrate, to do, to act, to practise, to practice, to be conjugated"
+        "meaning": "to work, to labor, to labour, to function, to operate, to be effective, to work (i.e. ... works), to come into play, to commit (e.g. a crime), to perpetrate, to do, to act, to practise, to practice, to be conjugated |(vi) làm việc, lao động, vận hành, có hiệu lực, phát huy tác dụng, gây ra (tội), thực hiện, hành động, được chia động từ"
       }
     ],
     "radical": {
@@ -342,7 +342,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "ノ",

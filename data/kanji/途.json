@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "way, road",
+    "meaning": "way, road |(vi) đường, con đường",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "途中（とちゅう）",
         "meaning": {
-          "english": "on the way, en route, midway"
+          "english": "on the way, en route, midway |(vi) giữa đường, trên đường đi, nửa chừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(chuu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "前途（ぜんと）",
         "meaning": {
-          "english": "future prospects, outlook"
+          "english": "future prospects, outlook |(vi) tiền đồ, triển vọng tương lai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(chuu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "用途（ようと）",
         "meaning": {
-          "english": "use, usefulness"
+          "english": "use, usefulness |(vi) công dụng, mục đích sử dụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(chuu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "帰途（きと）",
         "meaning": {
-          "english": "on the way back, returning"
+          "english": "on the way back, returning |(vi) đường về, trên đường trở về"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(chuu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "発展途上（はってんとじょう）",
         "meaning": {
-          "english": "developing (country)"
+          "english": "developing (country) |(vi) đang phát triển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(chuu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "途絶える（とだえる）",
         "meaning": {
-          "english": "stop, cease, come to an end"
+          "english": "stop, cease, come to an end |(vi) dừng lại, gián đoạn, chấm dứt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(chuu)_06_f.opus",
@@ -178,7 +178,7 @@
     "kanji": {
       "character": "途",
       "meaning": {
-        "english": "way, road"
+        "english": "way, road |(vi) đường, con đường"
       },
       "strokes": {
         "count": 10,
@@ -236,7 +236,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đi, bước đi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -257,7 +257,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "717",
     "strokeCount": 10,
-    "meaning": "route, way, road",
+    "meaning": "route, way, road |(vi) lộ trình, con đường, đường đi |(hv) Đồ",
     "kunyomi": [
       "みち"
     ],
@@ -268,34 +268,34 @@
       {
         "example": "途",
         "reading": "ト",
-        "meaning": "way, route"
+        "meaning": "way, route |(vi) đường, lộ trình"
       },
       {
         "example": "途上",
         "reading": "トジョウ",
-        "meaning": "on the way, en route, in the process of (development, construction, etc.), in the middle of"
+        "meaning": "on the way, en route, in the process of (development, construction, etc.), in the middle of |(vi) trên đường, đang trong quá trình (phát triển, xây dựng...), giữa chừng"
       },
       {
         "example": "使途",
         "reading": "シト",
-        "meaning": "purpose for which money is spent, the way money is spent, how goods are used"
+        "meaning": "purpose for which money is spent, the way money is spent, how goods are used |(vi) mục đích chi tiêu, cách dùng tiền"
       },
       {
         "example": "目処",
         "reading": "メド",
-        "meaning": "aim, goal, prospect, outlook"
+        "meaning": "aim, goal, prospect, outlook |(vi) mục tiêu, triển vọng, dự kiến"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "道",
         "reading": "みち",
-        "meaning": "road, path, street, lane, passage, route, way, distance, journey, road (e.g. to victory), course, way (of living, proper conduct, etc.), moral principles, teachings (esp. Confucian or Buddhist), dogma, field (e.g. of medicine), subject, speciality, means, way, method"
+        "meaning": "road, path, street, lane, passage, route, way, distance, journey, road (e.g. to victory), course, way (of living, proper conduct, etc.), moral principles, teachings (esp. Confucian or Buddhist), dogma, field (e.g. of medicine), subject, speciality, means, way, method |(vi) đường, lối đi, con đường, hành trình, đạo lý, giáo lý (Nho giáo hay Phật giáo), lĩnh vực (y học...), chuyên môn, phương pháp, cách thức"
       },
       {
         "example": "冥き途",
         "reading": "くらきみち",
-        "meaning": "Hades, underworld, realm of the dead, other world"
+        "meaning": "Hades, underworld, realm of the dead, other world |(vi) âm phủ, cõi âm, thế giới bên kia"
       }
     ],
     "radical": {
@@ -305,7 +305,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, bước đi)"
     },
     "parts": [
       "ハ",

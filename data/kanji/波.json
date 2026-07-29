@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "nami",
-    "meaning": "wave",
+    "meaning": "wave |(vi) sóng",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "波紋（はもん）",
         "meaning": {
-          "english": "ripple [n.]"
+          "english": "ripple [n.] |(vi) gợn sóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "波長（はちょう）",
         "meaning": {
-          "english": "wavelength"
+          "english": "wavelength |(vi) bước sóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "波止場（はとば）",
         "meaning": {
-          "english": "wharf, jetty"
+          "english": "wharf, jetty |(vi) bến tàu, cầu tàu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "電磁波（でんじは）",
         "meaning": {
-          "english": "electromagnetic waves"
+          "english": "electromagnetic waves |(vi) sóng điện từ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "電波（でんぱ）",
         "meaning": {
-          "english": "radio wave"
+          "english": "radio wave |(vi) sóng vô tuyến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "音波（おんぱ）",
         "meaning": {
-          "english": "sound wave"
+          "english": "sound wave |(vi) sóng âm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "寒波（かんぱ）",
         "meaning": {
-          "english": "a cold snap"
+          "english": "a cold snap |(vi) đợt lạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "波（なみ）",
         "meaning": {
-          "english": "wave [n.]"
+          "english": "wave [n.] |(vi) sóng (danh từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "波乗り（なみのり）",
         "meaning": {
-          "english": "surfing"
+          "english": "surfing |(vi) lướt sóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "津波（つなみ）",
         "meaning": {
-          "english": "tsunami, tidal wave"
+          "english": "tsunami, tidal wave |(vi) sóng thần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "人波（ひとなみ）",
         "meaning": {
-          "english": "surging crowd, stampede"
+          "english": "surging crowd, stampede |(vi) dòng người cuồn cuộn, chen lấn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "波打つ（なみうつ）",
         "meaning": {
-          "english": "dash against, undulate, heave"
+          "english": "dash against, undulate, heave |(vi) va đập, nhấp nhô, dập dềnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_l.opus",
@@ -228,7 +228,7 @@
     "kanji": {
       "character": "波",
       "meaning": {
-        "english": "wave"
+        "english": "wave |(vi) sóng"
       },
       "strokes": {
         "count": 8,
@@ -282,7 +282,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -303,7 +303,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "740",
     "strokeCount": 8,
-    "meaning": "waves, billows, Poland",
+    "meaning": "waves, billows, Poland |(vi) sóng, làn sóng, Ba Lan |(hv) Ba",
     "kunyomi": [
       "なみ"
     ],
@@ -314,44 +314,44 @@
       {
         "example": "波",
         "reading": "ハ",
-        "meaning": "counter for waves (of a repeated occurrence)"
+        "meaning": "counter for waves (of a repeated occurrence) |(vi) trợ từ đếm số lần (của một sự việc lặp lại)"
       },
       {
         "example": "波及",
         "reading": "ハキュウ",
-        "meaning": "spread, extension, influence, aftereffect, ripple"
+        "meaning": "spread, extension, influence, aftereffect, ripple |(vi) lan rộng, mở rộng, ảnh hưởng, hậu quả kéo theo, gợn sóng lan tỏa"
       },
       {
         "example": "低周波",
         "reading": "テイシュウハ",
-        "meaning": "low frequency"
+        "meaning": "low frequency |(vi) tần số thấp"
       },
       {
         "example": "横波",
         "reading": "ヨコナミ",
-        "meaning": "transverse wave, beam sea"
+        "meaning": "transverse wave, beam sea |(vi) sóng ngang, sóng đánh mạn tàu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "波",
         "reading": "なみ",
-        "meaning": "wave, ups and downs"
+        "meaning": "wave, ups and downs |(vi) sóng, thăng trầm"
       },
       {
         "example": "波間",
         "reading": "なみま",
-        "meaning": "interval between the waves, gap between waves"
+        "meaning": "interval between the waves, gap between waves |(vi) khoảng giữa các đợt sóng"
       },
       {
         "example": "高波",
         "reading": "たかなみ",
-        "meaning": "high waves, heavy seas"
+        "meaning": "high waves, heavy seas |(vi) sóng lớn, biển động mạnh"
       },
       {
         "example": "横波",
         "reading": "よこなみ",
-        "meaning": "transverse wave, beam sea"
+        "meaning": "transverse wave, beam sea |(vi) sóng ngang, sóng đánh mạn tàu"
       }
     ],
     "radical": {
@@ -360,7 +360,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "又",

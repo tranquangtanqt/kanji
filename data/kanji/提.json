@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "sageru, sa",
-    "meaning": "present, submit",
+    "meaning": "present, submit |(vi) trình bày, đệ trình",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "前提（ぜんてい）",
         "meaning": {
-          "english": "premise"
+          "english": "premise |(vi) tiền đề"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei-sa(geru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "提案する（ていあんする）",
         "meaning": {
-          "english": "propose"
+          "english": "propose |(vi) đề xuất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei-sa(geru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "提示する（ていじする）",
         "meaning": {
-          "english": "exhibit, suggest"
+          "english": "exhibit, suggest |(vi) trưng bày, đề xuất, gợi ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei-sa(geru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "提出する（ていしゅつする）",
         "meaning": {
-          "english": "submit"
+          "english": "submit |(vi) đệ trình, nộp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei-sa(geru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "提供する（ていきょうする）",
         "meaning": {
-          "english": "offer [v.t.]"
+          "english": "offer [v.t.] |(vi) cung cấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei-sa(geru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "提議する（ていぎする）",
         "meaning": {
-          "english": "propose a topic"
+          "english": "propose a topic |(vi) đề nghị, nêu vấn đề"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei-sa(geru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "提携する（ていけいする）",
         "meaning": {
-          "english": "cooperate, align with"
+          "english": "cooperate, align with |(vi) hợp tác, liên kết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei-sa(geru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "提げる（さげる）",
         "meaning": {
-          "english": "hold in one's hand"
+          "english": "hold in one's hand |(vi) xách, cầm trên tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei-sa(geru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "*提灯（ちょうちん）",
         "meaning": {
-          "english": "lantern"
+          "english": "lantern |(vi) đèn lồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei-sa(geru)_06_i.opus",
@@ -216,7 +216,7 @@
     "kanji": {
       "character": "提",
       "meaning": {
-        "english": "present, submit"
+        "english": "present, submit |(vi) trình bày, đệ trình"
       },
       "strokes": {
         "count": 12,
@@ -278,7 +278,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -299,7 +299,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "254",
     "strokeCount": 12,
-    "meaning": "propose, take along, carry in hand",
+    "meaning": "propose, take along, carry in hand |(vi) đề xuất, mang theo, xách trên tay |(hv) Đề",
     "kunyomi": [
       "さ.げる"
     ],
@@ -312,59 +312,59 @@
       {
         "example": "提起",
         "reading": "テイキ",
-        "meaning": "raising (a question), posing (a problem), bringing up (an issue), presenting, instituting (a lawsuit), lodging, filing (a claim), submitting (a case), lifting up"
+        "meaning": "raising (a question), posing (a problem), bringing up (an issue), presenting, instituting (a lawsuit), lodging, filing (a claim), submitting (a case), lifting up |(vi) nêu ra (câu hỏi), đặt ra (vấn đề), đưa ra (vấn đề), trình bày, khởi kiện, nộp đơn (khiếu nại), đệ trình (vụ án), nâng lên"
       },
       {
         "example": "提案",
         "reading": "テイアン",
-        "meaning": "proposal, proposition, suggestion"
+        "meaning": "proposal, proposition, suggestion |(vi) đề xuất, đề nghị, gợi ý"
       },
       {
         "example": "大前提",
         "reading": "ダイゼンテイ",
-        "meaning": "important condition, basic premise, basic assumption, something that should be obvious to all, something that should not have to be argued, something that goes without mentioning, major premise (in a syllogism)"
+        "meaning": "important condition, basic premise, basic assumption, something that should be obvious to all, something that should not have to be argued, something that goes without mentioning, major premise (in a syllogism) |(vi) tiền đề quan trọng, giả định cơ bản, điều hiển nhiên, tiền đề lớn (trong tam đoạn luận)"
       },
       {
         "example": "上提",
         "reading": "ジョウテイ",
-        "meaning": "introducing (a bill), presentation, departure on a journey"
+        "meaning": "introducing (a bill), presentation, departure on a journey |(vi) đệ trình (dự luật), trình bày, khởi hành"
       },
       {
         "example": "提灯",
         "reading": "チョウチン",
-        "meaning": "paper lantern, Chinese lantern, Japanese lantern, snot bubble"
+        "meaning": "paper lantern, Chinese lantern, Japanese lantern, snot bubble |(vi) đèn lồng giấy, đèn lồng Trung Hoa, đèn lồng Nhật Bản, bong bóng nước mũi"
       },
       {
         "example": "提灯鮟鱇",
         "reading": "チョウチンアンコウ",
-        "meaning": "football fish (any fish of family Himantolophidae, esp. the Atlantic footballfish, Himantolophus groenlandicus)"
+        "meaning": "football fish (any fish of family Himantolophidae, esp. the Atlantic footballfish, Himantolophus groenlandicus) |(vi) cá cầu gai (họ cá anglerfish, đặc biệt loài Himantolophus groenlandicus)"
       },
       {
         "example": "提宇子",
         "reading": "ダイウス",
-        "meaning": "God"
+        "meaning": "God |(vi) Thượng đế, Chúa Trời"
       },
       {
         "example": "提婆",
         "reading": "ダイバ",
-        "meaning": "deva (being with god-like characteristics)"
+        "meaning": "deva (being with god-like characteristics) |(vi) chư thiên (sinh vật có đặc tính giống thần)"
       },
       {
         "example": "菩提",
         "reading": "ボダイ",
-        "meaning": "bodhi, enlightenment, happiness in the next world"
+        "meaning": "bodhi, enlightenment, happiness in the next world |(vi) bồ đề, giác ngộ, hạnh phúc ở kiếp sau"
       },
       {
         "example": "閻浮提",
         "reading": "エンブダイ",
-        "meaning": "Jambudvipa, continent of the terrestrial world"
+        "meaning": "Jambudvipa, continent of the terrestrial world |(vi) Diêm Phù Đề, châu lục của thế giới trần tục"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "提げる",
         "reading": "さげる",
-        "meaning": "to take along, to hold in the hand, to hang (e.g. from the shoulder or waist)"
+        "meaning": "to take along, to hold in the hand, to hang (e.g. from the shoulder or waist) |(vi) mang theo, cầm trên tay, đeo (trên vai hoặc thắt lưng)"
       }
     ],
     "radical": {
@@ -372,7 +372,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "扎",

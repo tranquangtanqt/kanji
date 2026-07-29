@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "wage, charges, fare, fee",
+    "meaning": "wage, charges, fare, fee |(vi) tiền công, phí, cước, lệ phí",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "賃金（ちんぎん）",
         "meaning": {
-          "english": "wages"
+          "english": "wages |(vi) tiền lương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)chin_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "賃上げ（ちんあげ）",
         "meaning": {
-          "english": "wage increase"
+          "english": "wage increase |(vi) tăng lương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)chin_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "家賃（やちん）",
         "meaning": {
-          "english": "rent"
+          "english": "rent |(vi) tiền thuê nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)chin_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "運賃（うんちん）",
         "meaning": {
-          "english": "freight rates, fare"
+          "english": "freight rates, fare |(vi) cước phí vận chuyển, giá vé"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)chin_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "工賃（こうちん）",
         "meaning": {
-          "english": "wages, pay"
+          "english": "wages, pay |(vi) tiền công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)chin_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "手間賃（てまちん）",
         "meaning": {
-          "english": "wages for labor, pay"
+          "english": "wages for labor, pay |(vi) tiền công lao động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)chin_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "電車賃（でんしゃちん）",
         "meaning": {
-          "english": "train fare"
+          "english": "train fare |(vi) vé tàu điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)chin_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "借り賃（かりちん）",
         "meaning": {
-          "english": "rent fare"
+          "english": "rent fare |(vi) tiền thuê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ya)chin_06_h.opus",
@@ -204,7 +204,7 @@
     "kanji": {
       "character": "賃",
       "meaning": {
-        "english": "wage, charges, fare, fee"
+        "english": "wage, charges, fare, fee |(vi) tiền công, phí, cước, lệ phí"
       },
       "strokes": {
         "count": 13,
@@ -268,7 +268,7 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (vỏ sò, tài sản)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -289,7 +289,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "961",
     "strokeCount": 13,
-    "meaning": "fare, fee, hire, rent, wages, charge",
+    "meaning": "fare, fee, hire, rent, wages, charge |(vi) cước phí, lệ phí, tiền thuê, tiền công, phí tổn |(hv) Nhẫm",
     "kunyomi": [],
     "onyomi": [
       "チン"
@@ -298,28 +298,28 @@
       {
         "example": "賃",
         "reading": "チン",
-        "meaning": "hire (charge), rent, charge, fare, fee, freight, wages, payment"
+        "meaning": "hire (charge), rent, charge, fare, fee, freight, wages, payment |(vi) phí thuê, tiền thuê, phí, cước, lệ phí, cước vận chuyển, tiền công, khoản thanh toán"
       },
       {
         "example": "賃上げ",
         "reading": "チンアゲ",
-        "meaning": "wage increase, pay rise"
+        "meaning": "wage increase, pay rise |(vi) tăng lương"
       },
       {
         "example": "労賃",
         "reading": "ロウチン",
-        "meaning": "wages"
+        "meaning": "wages |(vi) tiền công lao động"
       },
       {
         "example": "工賃",
         "reading": "コウチン",
-        "meaning": "labor cost, charge, wages, pay"
+        "meaning": "labor cost, charge, wages, pay |(vi) chi phí nhân công, phí, tiền công, tiền lương"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò)"
     },
     "parts": [
       "ハ",

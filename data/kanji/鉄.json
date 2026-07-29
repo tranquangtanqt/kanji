@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "iron",
+    "meaning": "iron |(vi) sắt",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "鉄（てつ）",
         "meaning": {
-          "english": "iron"
+          "english": "iron |(vi) sắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tetsu(dou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "鉄道（てつどう）",
         "meaning": {
-          "english": "railroad"
+          "english": "railroad |(vi) đường sắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tetsu(dou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "鉄骨（てっこつ）",
         "meaning": {
-          "english": "steel frame"
+          "english": "steel frame |(vi) khung thép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tetsu(dou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "鉄砲（てっぽう）",
         "meaning": {
-          "english": "gun"
+          "english": "gun |(vi) súng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tetsu(dou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "鉄鋼（てっこう）",
         "meaning": {
-          "english": "iron and steel"
+          "english": "iron and steel |(vi) sắt thép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tetsu(dou)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "製鉄（せいてつ）",
         "meaning": {
-          "english": "steelmaking"
+          "english": "steelmaking |(vi) luyện thép, luyện gang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tetsu(dou)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "私鉄（してつ）",
         "meaning": {
-          "english": "private railway"
+          "english": "private railway |(vi) đường sắt tư nhân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tetsu(dou)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "地下鉄（ちかてつ）",
         "meaning": {
-          "english": "underground train, subway"
+          "english": "underground train, subway |(vi) tàu điện ngầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tetsu(dou)_06_h.opus",
@@ -223,7 +223,7 @@
     "kanji": {
       "character": "鉄",
       "meaning": {
-        "english": "iron"
+        "english": "iron |(vi) sắt"
       },
       "strokes": {
         "count": 13,
@@ -287,7 +287,7 @@
         "romaji": "kanehen"
       },
       "meaning": {
-        "english": "metal, gold, mineral"
+        "english": "metal, gold, mineral |(vi) Kim (vàng, kim loại)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kanehen0.svg",
@@ -308,7 +308,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "672",
     "strokeCount": 13,
-    "meaning": "iron",
+    "meaning": "iron |(vi) sắt |(hv) Thiết",
     "kunyomi": [
       "くろがね"
     ],
@@ -319,29 +319,29 @@
       {
         "example": "鉄",
         "reading": "テツ",
-        "meaning": "iron (Fe), steel, iron (will, discipline, lady, etc.), railway, railway enthusiast"
+        "meaning": "iron (Fe), steel, iron (will, discipline, lady, etc.), railway, railway enthusiast |(vi) sắt (Fe), thép, sắt đá (ý chí, kỷ luật, người phụ nữ mạnh mẽ...), đường sắt, người đam mê đường sắt"
       },
       {
         "example": "鉄製",
         "reading": "テッセイ",
-        "meaning": "made of iron"
+        "meaning": "made of iron |(vi) làm bằng sắt"
       },
       {
         "example": "国鉄",
         "reading": "コクテツ",
-        "meaning": "national railway, Japan National Railways (1949-1987)"
+        "meaning": "national railway, Japan National Railways (1949-1987) |(vi) đường sắt quốc gia, Đường sắt Quốc gia Nhật Bản (1949-1987)"
       },
       {
         "example": "新日本製鐵",
         "reading": "シンニッポンセイテツ",
-        "meaning": "Nippon Steel Corporation"
+        "meaning": "Nippon Steel Corporation |(vi) Công ty Thép Nippon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "黒金",
         "reading": "くろがね",
-        "meaning": "iron"
+        "meaning": "iron |(vi) sắt"
       }
     ],
     "radical": {
@@ -349,7 +349,7 @@
       "forms": [
         "釒"
       ],
-      "meaning": "metal, gold"
+      "meaning": "metal, gold |(vi) Kim (vàng, kim loại)"
     },
     "parts": [
       "ノ",

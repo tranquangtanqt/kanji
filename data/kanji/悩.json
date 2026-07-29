@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "naya, nayamu, nayami, nayamasu",
-    "meaning": "suffer, be troubled, afflict",
+    "meaning": "suffer, be troubled, afflict |(vi) đau khổ, phiền muộn, dày vò",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "煩悩（ぼんのう）",
         "meaning": {
-          "english": "earthly desires, carnal desires"
+          "english": "earthly desires, carnal desires |(vi) phiền não, dục vọng trần tục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "苦悩する（くのうする）",
         "meaning": {
-          "english": "suffer, be anguished"
+          "english": "suffer, be anguished |(vi) khổ sở, đau khổ, khổ não"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "悩ます（なやます）",
         "meaning": {
-          "english": "afflict, torment, harass [v.t.]"
+          "english": "afflict, torment, harass [v.t.] |(vi) làm khổ, dày vò, quấy rầy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "悩む（なやむ）",
         "meaning": {
-          "english": "be worried, be troubled [v.i.]"
+          "english": "be worried, be troubled [v.i.] |(vi) lo lắng, phiền muộn, bối rối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "悩み（なやみ）",
         "meaning": {
-          "english": "trouble, worry [n.]"
+          "english": "trouble, worry [n.] |(vi) nỗi phiền muộn, nỗi lo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "悩ましい（なやましい）",
         "meaning": {
-          "english": "seductive"
+          "english": "seductive |(vi) quyến rũ, gợi cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_f.opus",
@@ -190,7 +190,7 @@
     "kanji": {
       "character": "悩",
       "meaning": {
-        "english": "suffer, be troubled, afflict"
+        "english": "suffer, be troubled, afflict |(vi) đau khổ, phiền muộn, dày vò"
       },
       "strokes": {
         "count": 10,
@@ -248,7 +248,7 @@
         "romaji": "risshinben"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (trái tim, tâm trí, tinh thần)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/risshinben0.svg",
@@ -269,7 +269,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1084",
     "strokeCount": 10,
-    "meaning": "trouble, worry, in pain, distress, illness",
+    "meaning": "trouble, worry, in pain, distress, illness |(vi) phiền muộn, lo lắng, đau đớn, khổ sở, bệnh tật |(hv) Não",
     "kunyomi": [
       "なや.む",
       "なや.ます",
@@ -283,49 +283,49 @@
       {
         "example": "悩殺",
         "reading": "ノウサツ",
-        "meaning": "fascinate, bewitch, enchant"
+        "meaning": "fascinate, bewitch, enchant |(vi) làm say đắm, mê hoặc, quyến rũ"
       },
       {
         "example": "悩乱",
         "reading": "ノウラン",
-        "meaning": "worry, anguish"
+        "meaning": "worry, anguish |(vi) hoang mang, rối loạn vì lo âu"
       },
       {
         "example": "苦悩",
         "reading": "クノウ",
-        "meaning": "(mental) agony, anguish, suffering, distress"
+        "meaning": "(mental) agony, anguish, suffering, distress |(vi) khổ não, đau khổ tinh thần, thống khổ"
       },
       {
         "example": "懊悩",
         "reading": "オウノウ",
-        "meaning": "anguish, trouble, agony"
+        "meaning": "anguish, trouble, agony |(vi) áo não, phiền muộn, đau khổ dằn vặt"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "悩む",
         "reading": "なやむ",
-        "meaning": "to be worried, to be troubled"
+        "meaning": "to be worried, to be troubled |(vi) lo lắng, phiền muộn"
       },
       {
         "example": "悩ます",
         "reading": "なやます",
-        "meaning": "to afflict, to torment, to harass, to molest"
+        "meaning": "to afflict, to torment, to harass, to molest |(vi) làm khổ, dày vò, quấy rối"
       },
       {
         "example": "悩ましい",
         "reading": "なやましい",
-        "meaning": "seductive, carnal, enchanting, troubling, difficult, thorny, hard, anxious, uneasy"
+        "meaning": "seductive, carnal, enchanting, troubling, difficult, thorny, hard, anxious, uneasy |(vi) quyến rũ, gợi cảm, nan giải, khó xử, bồn chồn lo âu"
       },
       {
         "example": "悩み",
         "reading": "なやみ",
-        "meaning": "trouble, troubles, worry, distress, sorrows, anguish, agony, problem"
+        "meaning": "trouble, troubles, worry, distress, sorrows, anguish, agony, problem |(vi) nỗi phiền muộn, nỗi lo, ưu phiền, vấn đề khó giải quyết"
       },
       {
         "example": "悩み事",
         "reading": "なやみごと",
-        "meaning": "matter causing distress, something causing worry"
+        "meaning": "matter causing distress, something causing worry |(vi) chuyện phiền muộn, điều đáng lo"
       }
     ],
     "radical": {
@@ -334,7 +334,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim, tấm lòng)"
     },
     "parts": [
       "凵",

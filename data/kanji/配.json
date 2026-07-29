@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "kuba, kubaru",
-    "meaning": "distribute",
+    "meaning": "distribute |(vi) phân phát, phân phối",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "配達する（はいたつする）",
         "meaning": {
-          "english": "deliver"
+          "english": "deliver |(vi) giao hàng, chuyển phát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuba(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "配慮する（はいりょする）",
         "meaning": {
-          "english": "consider, be considerate"
+          "english": "consider, be considerate |(vi) quan tâm, chu đáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuba(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "心配する（しんぱいする）",
         "meaning": {
-          "english": "worry"
+          "english": "worry |(vi) lo lắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuba(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "支配する（しはいする）",
         "meaning": {
-          "english": "rule [v.t.]"
+          "english": "rule [v.t.] |(vi) cai trị, chi phối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuba(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "配当金（はいとうきん）",
         "meaning": {
-          "english": "share (money)"
+          "english": "share (money) |(vi) cổ tức, tiền chia lãi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuba(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "配偶者（はいぐうしゃ）",
         "meaning": {
-          "english": "spouse"
+          "english": "spouse |(vi) vợ/chồng, phối ngẫu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuba(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "気配（けはい）",
         "meaning": {
-          "english": "indication"
+          "english": "indication |(vi) dấu hiệu, linh cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuba(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "配る（くばる）",
         "meaning": {
-          "english": "distribute"
+          "english": "distribute |(vi) phân phát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuba(ru)_06_h.opus",
@@ -250,7 +250,7 @@
     "kanji": {
       "character": "配",
       "meaning": {
-        "english": "distribute"
+        "english": "distribute |(vi) phân phát, phân phối"
       },
       "strokes": {
         "count": 10,
@@ -308,7 +308,7 @@
         "romaji": "torihen"
       },
       "meaning": {
-        "english": "sake jar, bird"
+        "english": "sake jar, bird |(vi) Dậu (vò rượu, chi Dậu)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/torihen0.svg",
@@ -329,7 +329,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "359",
     "strokeCount": 10,
-    "meaning": "distribute, spouse, exile, rationing",
+    "meaning": "distribute, spouse, exile, rationing |(vi) phân phát, vợ/chồng, lưu đày, khẩu phần |(hv) Phối",
     "kunyomi": [
       "くば.る"
     ],
@@ -340,34 +340,34 @@
       {
         "example": "配給",
         "reading": "ハイキュウ",
-        "meaning": "distribution (e.g. films, rice), rationing (e.g. food, gasoline), food ration"
+        "meaning": "distribution (e.g. films, rice), rationing (e.g. food, gasoline), food ration |(vi) phân phối (phim, gạo...), khẩu phần (thực phẩm, xăng...), phần lương thực được cấp"
       },
       {
         "example": "配管",
         "reading": "ハイカン",
-        "meaning": "plumbing, piping"
+        "meaning": "plumbing, piping |(vi) hệ thống ống nước, đường ống"
       },
       {
         "example": "無配",
         "reading": "ムハイ",
-        "meaning": "without dividend"
+        "meaning": "without dividend |(vi) không chia cổ tức"
       },
       {
         "example": "宅配",
         "reading": "タクハイ",
-        "meaning": "home delivery"
+        "meaning": "home delivery |(vi) giao hàng tận nhà"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "配る",
         "reading": "くばる",
-        "meaning": "to distribute, to hand out, to deliver, to deal out, to serve out, to allot, to allocate, to place (staff, soldiers, etc.), to station"
+        "meaning": "to distribute, to hand out, to deliver, to deal out, to serve out, to allot, to allocate, to place (staff, soldiers, etc.), to station |(vi) phân phát, phát ra, giao, chia phần, cấp phát, phân bổ, bố trí (nhân viên, binh lính...), đóng quân"
       }
     ],
     "radical": {
       "symbol": "酉",
-      "meaning": "wine, alcohol"
+      "meaning": "wine, alcohol |(vi) Dậu (rượu, chi Dậu)"
     },
     "parts": [
       "已",

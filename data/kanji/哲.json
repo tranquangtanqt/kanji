@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "sagacious, philosophy",
+    "meaning": "sagacious, philosophy |(vi) sáng suốt, triết học",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "哲学（てつがく）",
         "meaning": {
-          "english": "philosophy"
+          "english": "philosophy |(vi) triết học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tetsu(gaku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "哲理（てつり）",
         "meaning": {
-          "english": "philosophic principles"
+          "english": "philosophic principles |(vi) triết lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tetsu(gaku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "哲学者（てつがくしゃ）",
         "meaning": {
-          "english": "philosopher"
+          "english": "philosopher |(vi) nhà triết học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tetsu(gaku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "哲学的な（てつがくてきな）",
         "meaning": {
-          "english": "philosophical"
+          "english": "philosophical |(vi) mang tính triết học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tetsu(gaku)_06_d.opus",
@@ -141,7 +141,7 @@
     "kanji": {
       "character": "哲",
       "meaning": {
-        "english": "sagacious, philosophy"
+        "english": "sagacious, philosophy |(vi) sáng suốt, triết học"
       },
       "strokes": {
         "count": 10,
@@ -199,7 +199,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -220,7 +220,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1093",
     "strokeCount": 10,
-    "meaning": "philosophy, clear",
+    "meaning": "philosophy, clear |(vi) triết học, sáng suốt |(hv) Triết",
     "kunyomi": [
       "さとい",
       "あきらか"
@@ -232,28 +232,28 @@
       {
         "example": "哲",
         "reading": "テツ",
-        "meaning": "sage, wise man, philosopher, disciple, sagacity, wisdom, intelligence"
+        "meaning": "sage, wise man, philosopher, disciple, sagacity, wisdom, intelligence |(vi) bậc hiền triết, người khôn ngoan, nhà triết học, môn đệ, sự sáng suốt, trí tuệ"
       },
       {
         "example": "哲学",
         "reading": "テツガク",
-        "meaning": "philosophy"
+        "meaning": "philosophy |(vi) triết học"
       },
       {
         "example": "変哲",
         "reading": "ヘンテツ",
-        "meaning": "something unusual, something odd, something out of the ordinary"
+        "meaning": "something unusual, something odd, something out of the ordinary |(vi) điều khác thường, điều kỳ lạ, điều bất thường"
       },
       {
         "example": "西哲",
         "reading": "セイテツ",
-        "meaning": "distinguished Western philosopher, great Western thinker, Western philosophy"
+        "meaning": "distinguished Western philosopher, great Western thinker, Western philosophy |(vi) triết gia phương Tây lỗi lạc, nhà tư tưởng lớn phương Tây, triết học phương Tây"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "口",

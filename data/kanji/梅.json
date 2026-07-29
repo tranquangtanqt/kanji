@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "ume",
-    "meaning": "Japanese apricot, plum",
+    "meaning": "Japanese apricot, plum |(vi) mơ Nhật, mận (cây mai)",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "梅林（ばいりん）",
         "meaning": {
-          "english": "Japanese apricot/plum grove"
+          "english": "Japanese apricot/plum grove |(vi) rừng mơ, rừng mận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ume(boshi)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "梅毒（ばいどく）",
         "meaning": {
-          "english": "syphilis"
+          "english": "syphilis |(vi) bệnh giang mai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ume(boshi)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "梅雨前線（ばいうぜんせん）",
         "meaning": {
-          "english": "seasonal rain front"
+          "english": "seasonal rain front |(vi) dải mưa theo mùa (đầu mùa mưa)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ume(boshi)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "紅梅（こうばい）",
         "meaning": {
-          "english": "red-blossomed plum tree"
+          "english": "red-blossomed plum tree |(vi) cây mai đỏ, hồng mai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ume(boshi)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "白梅（はくばい）",
         "meaning": {
-          "english": "white-blossomed plum tree"
+          "english": "white-blossomed plum tree |(vi) cây mai trắng, bạch mai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ume(boshi)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "塩梅（あんばい）",
         "meaning": {
-          "english": "seasoning, condition, state"
+          "english": "seasoning, condition, state |(vi) gia vị, tình trạng, mức độ vừa phải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ume(boshi)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "梅（うめ）",
         "meaning": {
-          "english": "Japanese apricot/plum"
+          "english": "Japanese apricot/plum |(vi) quả mơ, mận (ume)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ume(boshi)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "梅干し（うめぼし）",
         "meaning": {
-          "english": "dried Japanese apricot/plum"
+          "english": "dried Japanese apricot/plum |(vi) mơ muối phơi khô (umeboshi)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ume(boshi)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "梅酒（うめしゅ）",
         "meaning": {
-          "english": "Japanese apricot/plum wine"
+          "english": "Japanese apricot/plum wine |(vi) rượu mơ (umeshu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ume(boshi)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "*梅雨（つゆ）",
         "meaning": {
-          "english": "rainy season"
+          "english": "rainy season |(vi) mùa mưa (mùa mai)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ume(boshi)_06_j.opus",
@@ -210,7 +210,7 @@
     "kanji": {
       "character": "梅",
       "meaning": {
-        "english": "Japanese apricot, plum"
+        "english": "Japanese apricot, plum |(vi) mơ Nhật, mận (cây mai)"
       },
       "strokes": {
         "count": 10,
@@ -268,7 +268,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -289,7 +289,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1232",
     "strokeCount": 10,
-    "meaning": "plum",
+    "meaning": "plum |(vi) mơ, mận |(hv) Mai",
     "kunyomi": [
       "うめ"
     ],
@@ -300,49 +300,49 @@
       {
         "example": "梅雨",
         "reading": "ツユ",
-        "meaning": "(East Asian) rainy season (in Japan, usu. from early June to mid-July), rain during the rainy season"
+        "meaning": "(East Asian) rainy season (in Japan, usu. from early June to mid-July), rain during the rainy season |(vi) mùa mưa Đông Á (thường từ đầu tháng 6 đến giữa tháng 7 ở Nhật), mưa trong mùa mưa"
       },
       {
         "example": "梅雨前線",
         "reading": "バイウゼンセン",
-        "meaning": "seasonal rain front"
+        "meaning": "seasonal rain front |(vi) dải front mưa theo mùa"
       },
       {
         "example": "松竹梅",
         "reading": "ショウチクバイ",
-        "meaning": "pine, bamboo and plum (an auspicious grouping), high, middle and low (ranking), top, middle and bottom, upper, medium, lower, first, second and third (class)"
+        "meaning": "pine, bamboo and plum (an auspicious grouping), high, middle and low (ranking), top, middle and bottom, upper, medium, lower, first, second and third (class) |(vi) tùng, trúc, mai (bộ ba biểu tượng may mắn), hạng cao, trung, thấp, thượng, trung, hạ, hạng nhất, nhì, ba"
       },
       {
         "example": "紅梅",
         "reading": "コウバイ",
-        "meaning": "red-blossomed plum tree, red Japanese apricot"
+        "meaning": "red-blossomed plum tree, red Japanese apricot |(vi) cây mai đỏ, hồng mai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "梅",
         "reading": "うめ",
-        "meaning": "Japanese apricot (Prunus mume), Japanese plum, ume, Chinese plum, lowest (of a three-tier ranking system)"
+        "meaning": "Japanese apricot (Prunus mume), Japanese plum, ume, Chinese plum, lowest (of a three-tier ranking system) |(vi) mơ Nhật (Prunus mume), mận Nhật, ume, mận Trung Hoa, hạng thấp nhất (trong ba hạng)"
       },
       {
         "example": "梅干し",
         "reading": "うめぼし",
-        "meaning": "umeboshi, pickled dried ume, pickled dried plum"
+        "meaning": "umeboshi, pickled dried ume, pickled dried plum |(vi) umeboshi, mơ muối phơi khô, mận muối phơi khô"
       },
       {
         "example": "青梅",
         "reading": "あおうめ",
-        "meaning": "unripe plum"
+        "meaning": "unripe plum |(vi) mơ xanh, mơ chưa chín"
       },
       {
         "example": "紅梅",
         "reading": "こうばい",
-        "meaning": "red-blossomed plum tree, red Japanese apricot"
+        "meaning": "red-blossomed plum tree, red Japanese apricot |(vi) cây mai đỏ, hồng mai"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "乞",

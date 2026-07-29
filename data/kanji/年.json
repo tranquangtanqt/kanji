@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 2,
     "kunyomi": "toshi",
-    "meaning": "year",
+    "meaning": "year |(vi) năm",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "一年生（いちねんせい）",
         "meaning": {
-          "english": "first-year student"
+          "english": "first-year student |(vi) học sinh năm nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nen-toshi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "去年（きょねん）",
         "meaning": {
-          "english": "last year"
+          "english": "last year |(vi) năm ngoái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nen-toshi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "来年（らいねん）",
         "meaning": {
-          "english": "next year"
+          "english": "next year |(vi) năm sau, sang năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nen-toshi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "中年（ちゅうねん）",
         "meaning": {
-          "english": "middle age"
+          "english": "middle age |(vi) trung niên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nen-toshi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "万年筆（まんねんひつ）",
         "meaning": {
-          "english": "fountain pen"
+          "english": "fountain pen |(vi) bút máy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nen-toshi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "お年寄り（おとしより）",
         "meaning": {
-          "english": "elderly person"
+          "english": "elderly person |(vi) người cao tuổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nen-toshi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "今年（ことし）",
         "meaning": {
-          "english": "this year"
+          "english": "this year |(vi) năm nay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nen-toshi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "年上（としうえ）",
         "meaning": {
-          "english": "older"
+          "english": "older |(vi) lớn tuổi hơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nen-toshi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "半年（はんとし）",
         "meaning": {
-          "english": "half a year"
+          "english": "half a year |(vi) nửa năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nen-toshi_06_i.opus",
@@ -259,7 +259,7 @@
     "kanji": {
       "character": "年",
       "meaning": {
-        "english": "year"
+        "english": "year |(vi) năm"
       },
       "strokes": {
         "count": 6,
@@ -309,7 +309,7 @@
         "romaji": "kan"
       },
       "meaning": {
-        "english": "to dry, shield"
+        "english": "to dry, shield |(vi) Can (làm khô, cái mộc/khiên che)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kan0.svg",
@@ -330,7 +330,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "6",
     "strokeCount": 6,
-    "meaning": "year, counter for years",
+    "meaning": "year, counter for years |(vi) năm, lượng từ đếm năm |(hv) Niên",
     "kunyomi": [
       "とし"
     ],
@@ -341,49 +341,49 @@
       {
         "example": "年",
         "reading": "ネン",
-        "meaning": "year, counter for years (e.g. of an era), grades (e.g. school), period of an apprentice's contract (usu. ten years)"
+        "meaning": "year, counter for years (e.g. of an era), grades (e.g. school), period of an apprentice's contract (usu. ten years) |(vi) năm, lượng từ đếm năm (niên hiệu), lớp/khối (trường học), thời hạn học nghề (thường mười năm)"
       },
       {
         "example": "年会",
         "reading": "ネンカイ",
-        "meaning": "conference, annual convention"
+        "meaning": "conference, annual convention |(vi) hội nghị thường niên, đại hội hàng năm"
       },
       {
         "example": "往年",
         "reading": "オウネン",
-        "meaning": "years gone by, earlier years, former years, the past"
+        "meaning": "years gone by, earlier years, former years, the past |(vi) những năm đã qua, ngày xưa, dĩ vãng"
       },
       {
         "example": "平年",
         "reading": "ヘイネン",
-        "meaning": "non-leap year, average year (for rainfall, temperature, etc.), normal year"
+        "meaning": "non-leap year, average year (for rainfall, temperature, etc.), normal year |(vi) năm thường (không nhuận), năm trung bình"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "年",
         "reading": "とし",
-        "meaning": "year, age, years, past one's prime, old age"
+        "meaning": "year, age, years, past one's prime, old age |(vi) năm, tuổi, tuổi tác, đã qua thời trẻ, tuổi già"
       },
       {
         "example": "年明け",
         "reading": "としあけ",
-        "meaning": "beginning of the year, early in the New Year"
+        "meaning": "beginning of the year, early in the New Year |(vi) đầu năm mới, những ngày đầu năm"
       },
       {
         "example": "いい年",
         "reading": "いいとし",
-        "meaning": "mature age, advanced age, maturity, age when one is old enough to know better"
+        "meaning": "mature age, advanced age, maturity, age when one is old enough to know better |(vi) tuổi trưởng thành, tuổi đã lớn, tuổi biết điều"
       },
       {
         "example": "御年",
         "reading": "おんとし",
-        "meaning": "age (esp. advanced)"
+        "meaning": "age (esp. advanced) |(vi) tuổi tác (kính ngữ, thường chỉ tuổi cao)"
       }
     ],
     "radical": {
       "symbol": "干",
-      "meaning": "pestle"
+      "meaning": "pestle |(vi) Can (cái chày, dùi)"
     },
     "parts": [
       "ノ",

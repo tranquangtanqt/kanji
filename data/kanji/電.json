@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "electricity",
+    "meaning": "electricity |(vi) điện, điện lực",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "電話する（でんわする）",
         "meaning": {
-          "english": "make a telephone call"
+          "english": "make a telephone call |(vi) gọi điện thoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "発電する（はつでんする）",
         "meaning": {
-          "english": "generate power"
+          "english": "generate power |(vi) phát điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "電話（でんわ）",
         "meaning": {
-          "english": "telephone"
+          "english": "telephone |(vi) điện thoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "電話番号（でんわばんごう）",
         "meaning": {
-          "english": "phone number"
+          "english": "phone number |(vi) số điện thoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "電気（でんき）",
         "meaning": {
-          "english": "electricity"
+          "english": "electricity |(vi) điện, điện năng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "電気屋（でんきや）",
         "meaning": {
-          "english": "electric appliance store"
+          "english": "electric appliance store |(vi) cửa hàng điện máy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "電車（でんしゃ）",
         "meaning": {
-          "english": "train"
+          "english": "train |(vi) tàu điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "電子レンジ（でんしレンジ）",
         "meaning": {
-          "english": "microwave oven"
+          "english": "microwave oven |(vi) lò vi sóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "終電（しゅうでん）",
         "meaning": {
-          "english": "last train"
+          "english": "last train |(vi) chuyến tàu điện cuối cùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "停電（ていでん）",
         "meaning": {
-          "english": "loss of electricity, blackout"
+          "english": "loss of electricity, blackout |(vi) mất điện, cúp điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_j.opus",
@@ -274,7 +274,7 @@
     "kanji": {
       "character": "電",
       "meaning": {
-        "english": "electricity"
+        "english": "electricity |(vi) điện, điện lực"
       },
       "strokes": {
         "count": 13,
@@ -338,7 +338,7 @@
         "romaji": "amekanmuri"
       },
       "meaning": {
-        "english": "rain"
+        "english": "rain |(vi) Vũ (mưa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/amekanmuri0.svg",
@@ -359,7 +359,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "268",
     "strokeCount": 13,
-    "meaning": "electricity",
+    "meaning": "electricity |(vi) điện, điện lực |(hv) Điện",
     "kunyomi": [],
     "onyomi": [
       "デン"
@@ -368,28 +368,28 @@
       {
         "example": "電化",
         "reading": "デンカ",
-        "meaning": "electrification"
+        "meaning": "electrification |(vi) điện khí hóa"
       },
       {
         "example": "電圧",
         "reading": "デンアツ",
-        "meaning": "voltage"
+        "meaning": "voltage |(vi) điện áp"
       },
       {
         "example": "送電",
         "reading": "ソウデン",
-        "meaning": "transmission of electricity, electricity supply, power supply"
+        "meaning": "transmission of electricity, electricity supply, power supply |(vi) truyền tải điện, cung cấp điện"
       },
       {
         "example": "配電",
         "reading": "ハイデン",
-        "meaning": "distribution of electricity"
+        "meaning": "distribution of electricity |(vi) phân phối điện"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "雨",
-      "meaning": "rain"
+      "meaning": "rain |(vi) Vũ (mưa)"
     },
     "parts": [
       "乙",

@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "michibi, michibiku, michibiki",
-    "meaning": "guide, lead",
+    "meaning": "guide, lead |(vi) dẫn dắt, chỉ đạo",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "主導権（しゅどうけん）",
         "meaning": {
-          "english": "hegemony, leadership, initiative"
+          "english": "hegemony, leadership, initiative |(vi) quyền chủ đạo, quyền lãnh đạo, thế chủ động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/michibi(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "盲導犬（もうどうけん）",
         "meaning": {
-          "english": "seeing eye dog"
+          "english": "seeing eye dog |(vi) chó dẫn đường (cho người mù)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/michibi(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "半導体（はんどうたい）",
         "meaning": {
-          "english": "semiconductor"
+          "english": "semiconductor |(vi) chất bán dẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/michibi(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "導入する（どうにゅうする）",
         "meaning": {
-          "english": "introduce, bring in"
+          "english": "introduce, bring in |(vi) đưa vào, du nhập, giới thiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/michibi(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "指導する（しどうする）",
         "meaning": {
-          "english": "lead, guide, coach"
+          "english": "lead, guide, coach |(vi) chỉ đạo, hướng dẫn, huấn luyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/michibi(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "誘導する（ゆうどうする）",
         "meaning": {
-          "english": "guide, lead, conduct"
+          "english": "guide, lead, conduct |(vi) dẫn dắt, hướng dẫn, dụ dẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/michibi(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "導く（みちびく）",
         "meaning": {
-          "english": "lead, guide, show the way"
+          "english": "lead, guide, show the way |(vi) dẫn dắt, hướng dẫn, chỉ đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/michibi(ku)_06_g.opus",
@@ -197,7 +197,7 @@
     "kanji": {
       "character": "導",
       "meaning": {
-        "english": "guide, lead"
+        "english": "guide, lead |(vi) dẫn dắt, chỉ đạo"
       },
       "strokes": {
         "count": 15,
@@ -265,7 +265,7 @@
         "romaji": "sun"
       },
       "meaning": {
-        "english": "inch, (2.25 cm)"
+        "english": "inch, (2.25 cm) |(vi) Thốn (đơn vị đo tấc, khoảng 2.25 cm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sun0.svg",
@@ -286,7 +286,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "354",
     "strokeCount": 15,
-    "meaning": "guidance, leading, conduct, usher",
+    "meaning": "guidance, leading, conduct, usher |(vi) hướng dẫn, dẫn dắt, chỉ đạo, dẫn đường |(hv) Đạo",
     "kunyomi": [
       "みちび.く"
     ],
@@ -297,34 +297,34 @@
       {
         "example": "導入",
         "reading": "ドウニュウ",
-        "meaning": "introduction, bringing in, installation, setting up, importation, introduction (to a story, lecture, etc.), introductory part"
+        "meaning": "introduction, bringing in, installation, setting up, importation, introduction (to a story, lecture, etc.), introductory part |(vi) du nhập, đưa vào, lắp đặt, thiết lập, nhập khẩu, phần mở đầu (câu chuyện, bài giảng), phần dẫn nhập"
       },
       {
         "example": "導火線",
         "reading": "ドウカセン",
-        "meaning": "fuse"
+        "meaning": "fuse |(vi) dây cháy chậm, ngòi nổ"
       },
       {
         "example": "超伝導",
         "reading": "チョウデンドウ",
-        "meaning": "superconductivity, super-conductivity"
+        "meaning": "superconductivity, super-conductivity |(vi) siêu dẫn, tính siêu dẫn"
       },
       {
         "example": "主導",
         "reading": "シュドウ",
-        "meaning": "leadership, initiative, spearhead"
+        "meaning": "leadership, initiative, spearhead |(vi) vai trò chủ đạo, thế chủ động, dẫn đầu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "導く",
         "reading": "みちびく",
-        "meaning": "to guide, to lead, to show the way, to conduct, to derive, to deduce"
+        "meaning": "to guide, to lead, to show the way, to conduct, to derive, to deduce |(vi) dẫn dắt, hướng dẫn, chỉ đường, suy ra, suy luận"
       }
     ],
     "radical": {
       "symbol": "寸",
-      "meaning": "thumb, inch"
+      "meaning": "thumb, inch |(vi) Thốn (đơn vị đo tấc)"
     },
     "parts": [
       "寸",

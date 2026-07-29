@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "poison",
+    "meaning": "poison |(vi) chất độc",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "毒（どく）",
         "meaning": {
-          "english": "poison"
+          "english": "poison |(vi) chất độc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)doku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "毒ガス（どくガス）",
         "meaning": {
-          "english": "poison gas"
+          "english": "poison gas |(vi) hơi độc, khí độc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)doku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "毒薬（どくやく）",
         "meaning": {
-          "english": "poison"
+          "english": "poison |(vi) thuốc độc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)doku_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "毒物（どくぶつ）",
         "meaning": {
-          "english": "poison"
+          "english": "poison |(vi) chất độc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)doku_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "中毒（ちゅうどく）",
         "meaning": {
-          "english": "poisoning, addiction"
+          "english": "poisoning, addiction |(vi) ngộ độc, nghiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)doku_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "有毒な（ゆうどくな）",
         "meaning": {
-          "english": "poisonous, toxic"
+          "english": "poisonous, toxic |(vi) có độc, độc hại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)doku_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "気の毒な（きのどくな）",
         "meaning": {
-          "english": "unfortunate, a pity"
+          "english": "unfortunate, a pity |(vi) đáng tiếc, tội nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)doku_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "消毒する（しょうどくする）",
         "meaning": {
-          "english": "disinfect, sterilize"
+          "english": "disinfect, sterilize |(vi) khử trùng, tiệt trùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)doku_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "毒する（どくする）",
         "meaning": {
-          "english": "poison[v.t.]"
+          "english": "poison[v.t.] |(vi) đầu độc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chuu)doku_06_i.opus",
@@ -206,7 +206,7 @@
     "kanji": {
       "character": "毒",
       "meaning": {
-        "english": "poison"
+        "english": "poison |(vi) chất độc"
       },
       "strokes": {
         "count": 8,
@@ -260,7 +260,7 @@
         "romaji": "nakare"
       },
       "meaning": {
-        "english": "not, mother"
+        "english": "not, mother |(vi) Vô (chớ, đừng; mẹ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nakare0.svg",
@@ -281,7 +281,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1419",
     "strokeCount": 8,
-    "meaning": "poison, virus, venom, germ, harm, injury, spite",
+    "meaning": "poison, virus, venom, germ, harm, injury, spite |(vi) chất độc, vi rút, nọc độc, vi trùng, gây hại, thương tổn, ác ý |(hv) Độc",
     "kunyomi": [],
     "onyomi": [
       "ドク"
@@ -290,22 +290,22 @@
       {
         "example": "毒",
         "reading": "ドク",
-        "meaning": "poison, toxicant, harm, evil influence, ill will, spite, malice, abusive language"
+        "meaning": "poison, toxicant, harm, evil influence, ill will, spite, malice, abusive language |(vi) chất độc, gây hại, ảnh hưởng xấu, ác ý, lời lẽ độc địa"
       },
       {
         "example": "毒ガス",
         "reading": "ドクガス",
-        "meaning": "poison gas"
+        "meaning": "poison gas |(vi) hơi độc, khí độc"
       },
       {
         "example": "消毒",
         "reading": "ショウドク",
-        "meaning": "disinfection, sterilization, sterilisation"
+        "meaning": "disinfection, sterilization, sterilisation |(vi) khử trùng, tiệt trùng"
       },
       {
         "example": "防毒",
         "reading": "ボウドク",
-        "meaning": "gasproofing"
+        "meaning": "gasproofing |(vi) chống độc, phòng độc"
       }
     ],
     "kunyomiExamples": [],
@@ -315,7 +315,7 @@
         "母",
         "⺟"
       ],
-      "meaning": "mother, do not"
+      "meaning": "mother, do not |(vi) Vô (chớ, đừng; mẹ)"
     },
     "parts": [
       "二",

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "mato",
-    "meaning": "target, adjectival suffix",
+    "meaning": "target, adjectival suffix |(vi) mục tiêu, hậu tố tính từ",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "日本的な（にほんてきな）",
         "meaning": {
-          "english": "typically Japanese"
+          "english": "typically Japanese |(vi) mang tính Nhật Bản, kiểu Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mato_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "歴史的な（れきしてきな）",
         "meaning": {
-          "english": "historic"
+          "english": "historic |(vi) mang tính lịch sử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mato_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "合理的な（ごうりてきな）",
         "meaning": {
-          "english": "rational"
+          "english": "rational |(vi) hợp lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mato_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "私的な（してきな）",
         "meaning": {
-          "english": "personal"
+          "english": "personal |(vi) cá nhân, riêng tư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mato_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "国際的な（こくさいてきな）",
         "meaning": {
-          "english": "international"
+          "english": "international |(vi) mang tính quốc tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mato_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "的確な（てきかくな）",
         "meaning": {
-          "english": "precise"
+          "english": "precise |(vi) chính xác, đúng đắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mato_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "標的（ひょうてき）",
         "meaning": {
-          "english": "target"
+          "english": "target |(vi) mục tiêu, đích ngắm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mato_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "目的（もくてき）",
         "meaning": {
-          "english": "purpose"
+          "english": "purpose |(vi) mục đích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mato_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "的中する（てきちゅうする）",
         "meaning": {
-          "english": "hit a target, prove correct"
+          "english": "hit a target, prove correct |(vi) trúng đích, chính xác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mato_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "的（まと）",
         "meaning": {
-          "english": "target"
+          "english": "target |(vi) mục tiêu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mato_06_j.opus",
@@ -288,7 +288,7 @@
     "kanji": {
       "character": "的",
       "meaning": {
-        "english": "target, adjectival suffix"
+        "english": "target, adjectival suffix |(vi) mục tiêu, hậu tố tính từ"
       },
       "strokes": {
         "count": 8,
@@ -342,7 +342,7 @@
         "romaji": "hakuhen"
       },
       "meaning": {
-        "english": "white"
+        "english": "white |(vi) Bạch (màu trắng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hakuhen0.svg",
@@ -362,7 +362,7 @@
     "taughtIn": "grade 4",
     "newspaperFrequencyRank": "105",
     "strokeCount": 8,
-    "meaning": "bull's eye, mark, target, object, adjective ending",
+    "meaning": "bull's eye, mark, target, object, adjective ending |(vi) hồng tâm, dấu hiệu, mục tiêu, đối tượng, hậu tố tính từ |(hv) Đích",
     "kunyomi": [
       "まと"
     ],
@@ -373,49 +373,49 @@
       {
         "example": "的",
         "reading": "テキ",
-        "meaning": "-ical, -ive, -al, -ic, -y, -like, -ish, -sort of, -kind of, (something) like, along the lines of, -wise, in terms of, for, from the viewpoint of, from a ... standpoint, as far as ... is concerned, Mr., Ms., Mrs."
+        "meaning": "-ical, -ive, -al, -ic, -y, -like, -ish, -sort of, -kind of, (something) like, along the lines of, -wise, in terms of, for, from the viewpoint of, from a ... standpoint, as far as ... is concerned, Mr., Ms., Mrs. |(vi) hậu tố mang nghĩa: thuộc về, có tính, kiểu, giống như, theo hướng, về mặt, đối với, từ góc độ của, xét về, ông/bà (kính ngữ)"
       },
       {
         "example": "的確",
         "reading": "テキカク",
-        "meaning": "accurate, precise, exact, appropriate, apt, right"
+        "meaning": "accurate, precise, exact, appropriate, apt, right |(vi) chính xác, đúng đắn, thích hợp, phù hợp, đúng"
       },
       {
         "example": "公的",
         "reading": "コウテキ",
-        "meaning": "public, official"
+        "meaning": "public, official |(vi) công khai, chính thức"
       },
       {
         "example": "人為的",
         "reading": "ジンイテキ",
-        "meaning": "artificial, unnatural, human-caused (e.g. mistake, error, disaster), man-made"
+        "meaning": "artificial, unnatural, human-caused (e.g. mistake, error, disaster), man-made |(vi) nhân tạo, không tự nhiên, do con người gây ra (sai sót, lỗi, thảm họa)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "的",
         "reading": "まと",
-        "meaning": "mark, target, object, subject, focus, point (e.g. of argument)"
+        "meaning": "mark, target, object, subject, focus, point (e.g. of argument) |(vi) dấu hiệu, mục tiêu, đối tượng, chủ đề, trọng tâm, điểm mấu chốt (của lập luận)"
       },
       {
         "example": "的外れ",
         "reading": "まとはずれ",
-        "meaning": "off the mark, off base, misdirected, irrelevant"
+        "meaning": "off the mark, off base, misdirected, irrelevant |(vi) lạc đề, sai hướng, không liên quan"
       },
       {
         "example": "憧れの的",
         "reading": "あこがれのまと",
-        "meaning": "object of adoration, longing"
+        "meaning": "object of adoration, longing |(vi) đối tượng ngưỡng mộ, khao khát"
       },
       {
         "example": "小的",
         "reading": "こまと",
-        "meaning": "small mark, small target"
+        "meaning": "small mark, small target |(vi) mục tiêu nhỏ, dấu hiệu nhỏ"
       }
     ],
     "radical": {
       "symbol": "白",
-      "meaning": "white"
+      "meaning": "white |(vi) Bạch (màu trắng)"
     },
     "parts": [
       "丶",

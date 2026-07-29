@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "shima",
-    "meaning": "island",
+    "meaning": "island |(vi) đảo",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "島民（とうみん）",
         "meaning": {
-          "english": "islander"
+          "english": "islander |(vi) cư dân đảo, người trên đảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-shima_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "日本列島（にほんれっとう）",
         "meaning": {
-          "english": "Japanese archipelago"
+          "english": "Japanese archipelago |(vi) quần đảo Nhật Bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-shima_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "半島（はんとう）",
         "meaning": {
-          "english": "peninsula"
+          "english": "peninsula |(vi) bán đảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-shima_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "無人島（むじんとう）",
         "meaning": {
-          "english": "deserted island"
+          "english": "deserted island |(vi) đảo hoang, đảo không người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-shima_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "島（しま）",
         "meaning": {
-          "english": "island"
+          "english": "island |(vi) đảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-shima_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "島国（しまぐに）",
         "meaning": {
-          "english": "island country"
+          "english": "island country |(vi) quốc gia hải đảo, đảo quốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-shima_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "宝島（たからじま）",
         "meaning": {
-          "english": "treasure island"
+          "english": "treasure island |(vi) đảo giấu vàng, đảo châu báu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-shima_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "島々（しまじま）",
         "meaning": {
-          "english": "islands"
+          "english": "islands |(vi) các hòn đảo, quần đảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-shima_06_h.opus",
@@ -247,7 +247,7 @@
     "kanji": {
       "character": "島",
       "meaning": {
-        "english": "island"
+        "english": "island |(vi) đảo"
       },
       "strokes": {
         "count": 10,
@@ -305,7 +305,7 @@
         "romaji": "yama"
       },
       "meaning": {
-        "english": "mountain"
+        "english": "mountain |(vi) Sơn (núi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yama0.svg",
@@ -326,7 +326,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "245",
     "strokeCount": 10,
-    "meaning": "island",
+    "meaning": "island |(vi) đảo |(hv) Đảo",
     "kunyomi": [
       "しま"
     ],
@@ -337,49 +337,49 @@
       {
         "example": "島",
         "reading": "トウ",
-        "meaning": "Island, insula, island, islet"
+        "meaning": "Island, insula, island, islet |(vi) đảo, hòn đảo, đảo nhỏ"
       },
       {
         "example": "島国",
         "reading": "シマグニ",
-        "meaning": "island country"
+        "meaning": "island country |(vi) quốc gia hải đảo, đảo quốc"
       },
       {
         "example": "千島列島",
         "reading": "チシマレットウ",
-        "meaning": "Kurile Islands"
+        "meaning": "Kurile Islands |(vi) quần đảo Kuril"
       },
       {
         "example": "列島",
         "reading": "レットウ",
-        "meaning": "archipelago, chain of islands"
+        "meaning": "archipelago, chain of islands |(vi) quần đảo, chuỗi đảo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "島",
         "reading": "しま",
-        "meaning": "island, one's territory (of a sex worker, organized crime gang, etc.), one's turf"
+        "meaning": "island, one's territory (of a sex worker, organized crime gang, etc.), one's turf |(vi) đảo, địa bàn (của gái mại dâm, băng nhóm tội phạm,...), lãnh địa riêng"
       },
       {
         "example": "島国",
         "reading": "しまぐに",
-        "meaning": "island country"
+        "meaning": "island country |(vi) quốc gia hải đảo, đảo quốc"
       },
       {
         "example": "千島",
         "reading": "ちしま",
-        "meaning": "Kurile Islands"
+        "meaning": "Kurile Islands |(vi) quần đảo Kuril"
       },
       {
         "example": "広島",
         "reading": "ひろしま",
-        "meaning": "Hiroshima (city, prefecture)"
+        "meaning": "Hiroshima (city, prefecture) |(vi) Hiroshima (thành phố, tỉnh)"
       }
     ],
     "radical": {
       "symbol": "山",
-      "meaning": "mountain"
+      "meaning": "mountain |(vi) Sơn (núi)"
     },
     "parts": [
       "山",

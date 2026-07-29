@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "kumo, kumoru, kumori",
-    "meaning": "cloudy",
+    "meaning": "cloudy |(vi) âm u, nhiều mây",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "曇天（どんてん）",
         "meaning": {
-          "english": "cloudy weather"
+          "english": "cloudy weather |(vi) trời nhiều mây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumo(ri)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "曇る（くもる）",
         "meaning": {
-          "english": "become cloudy"
+          "english": "become cloudy |(vi) trời trở nên âm u"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumo(ri)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "曇り（くもり）",
         "meaning": {
-          "english": "cloudy weather"
+          "english": "cloudy weather |(vi) trời nhiều mây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumo(ri)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "曇らす（くもらす）",
         "meaning": {
-          "english": "shadow [v.t.]"
+          "english": "shadow [v.t.] |(vi) làm mờ đi, làm u ám"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kumo(ri)_06_d.opus",
@@ -167,7 +167,7 @@
     "kanji": {
       "character": "曇",
       "meaning": {
-        "english": "cloudy"
+        "english": "cloudy |(vi) âm u, nhiều mây"
       },
       "strokes": {
         "count": 16,
@@ -237,7 +237,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày, thời gian)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi0.svg",
@@ -258,7 +258,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1899",
     "strokeCount": 16,
-    "meaning": "cloudy weather, cloud up",
+    "meaning": "cloudy weather, cloud up |(vi) trời nhiều mây, u ám, kéo mây |(hv) Đàm",
     "kunyomi": [
       "くも.る"
     ],
@@ -269,24 +269,24 @@
       {
         "example": "曇天",
         "reading": "ドンテン",
-        "meaning": "cloudy sky, overcast sky, cloudy weather"
+        "meaning": "cloudy sky, overcast sky, cloudy weather |(vi) trời u ám, bầu trời nhiều mây"
       },
       {
         "example": "晴曇",
         "reading": "セイドン",
-        "meaning": "fine weather and cloudy weather"
+        "meaning": "fine weather and cloudy weather |(vi) trời quang và trời âm u"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "曇る",
         "reading": "くもる",
-        "meaning": "to get cloudy, to cloud over, to become overcast, to cloud up, to fog up, to mist up, to become dim, to be gloomy, to be clouded (expression), to be downcast, to look slightly downward (of a noh mask; indicating sadness, grief, etc.)"
+        "meaning": "to get cloudy, to cloud over, to become overcast, to cloud up, to fog up, to mist up, to become dim, to be gloomy, to be clouded (expression), to be downcast, to look slightly downward (of a noh mask; indicating sadness, grief, etc.) |(vi) trở nên âm u, kéo mây, mờ đi, ảm đạm, u sầu, cúi mặt nhìn xuống (mặt nạ noh, biểu lộ buồn bã)"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "二",

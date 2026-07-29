@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": null,
     "kunyomi": "atsu, atsui",
-    "meaning": "heat, hot, fever",
+    "meaning": "heat, hot, fever |(vi) nhiệt, nóng, sốt",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "熱（ねつ）",
         "meaning": {
-          "english": "fever, temperature"
+          "english": "fever, temperature |(vi) sốt, nhiệt độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/netsu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "高熱（こうねつ）",
         "meaning": {
-          "english": "high fever, high temperature"
+          "english": "high fever, high temperature |(vi) sốt cao, nhiệt độ cao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/netsu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "情熱（じょうねつ）",
         "meaning": {
-          "english": "passion"
+          "english": "passion |(vi) đam mê, nhiệt huyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/netsu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "光熱費（こうねつひ）",
         "meaning": {
-          "english": "lighting and heating expenses"
+          "english": "lighting and heating expenses |(vi) chi phí điện, ga, sưởi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/netsu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "熱湯（ねっとう）",
         "meaning": {
-          "english": "boiling water"
+          "english": "boiling water |(vi) nước sôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/netsu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "熱心な（ねっしんな）",
         "meaning": {
-          "english": "enthusiastic"
+          "english": "enthusiastic |(vi) nhiệt tình, hăng hái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/netsu_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "加熱する（かねつする）",
         "meaning": {
-          "english": "heat [v.t.]"
+          "english": "heat [v.t.] |(vi) làm nóng, gia nhiệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/netsu_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "発熱する（はつねつする）",
         "meaning": {
-          "english": "generate heat"
+          "english": "generate heat |(vi) sinh nhiệt, phát nhiệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/netsu_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "熱中する（ねっちゅうする）",
         "meaning": {
-          "english": "be absorbed, enthusiastic"
+          "english": "be absorbed, enthusiastic |(vi) say mê, mải mê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/netsu_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "熱い（あつい）",
         "meaning": {
-          "english": "hot"
+          "english": "hot |(vi) nóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/netsu_06_j.opus",
@@ -268,7 +268,7 @@
     "kanji": {
       "character": "熱",
       "meaning": {
-        "english": "heat, hot, fever"
+        "english": "heat, hot, fever |(vi) nhiệt, nóng, sốt"
       },
       "strokes": {
         "count": 15,
@@ -336,7 +336,7 @@
         "romaji": "rekka"
       },
       "meaning": {
-        "english": "fire"
+        "english": "fire |(vi) Hỏa (lửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rekka0.svg",
@@ -357,7 +357,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "700",
     "strokeCount": 15,
-    "meaning": "heat, temperature, fever, mania, passion",
+    "meaning": "heat, temperature, fever, mania, passion |(vi) nhiệt, nhiệt độ, sốt, cơn cuồng, đam mê |(hv) Nhiệt",
     "kunyomi": [
       "あつ.い"
     ],
@@ -368,34 +368,34 @@
       {
         "example": "熱",
         "reading": "ネツ",
-        "meaning": "heat, fever, temperature, zeal, passion, enthusiasm, mania, craze, rage"
+        "meaning": "heat, fever, temperature, zeal, passion, enthusiasm, mania, craze, rage |(vi) nhiệt, sốt, nhiệt độ, nhiệt huyết, đam mê, hăng say, cơn cuồng, cơn sốt (theo trào lưu), cơn thịnh nộ"
       },
       {
         "example": "熱意",
         "reading": "ネツイ",
-        "meaning": "zeal, enthusiasm, ardor, ardour"
+        "meaning": "zeal, enthusiasm, ardor, ardour |(vi) nhiệt huyết, hăng say, nhiệt tâm"
       },
       {
         "example": "発熱",
         "reading": "ハツネツ",
-        "meaning": "generation of heat, (attack of) fever, pyrexia"
+        "meaning": "generation of heat, (attack of) fever, pyrexia |(vi) phát sinh nhiệt, (cơn) sốt, sốt"
       },
       {
         "example": "解熱",
         "reading": "ゲネツ",
-        "meaning": "lowering a fever, alleviation of fever"
+        "meaning": "lowering a fever, alleviation of fever |(vi) hạ sốt, giảm sốt"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "熱い",
         "reading": "あつい",
-        "meaning": "hot (to the touch), passionate (feelings, etc.), ardent, hot (e.g. gaze), hot (e.g. temper), zealous, enthusiastic, fired up, intense, severe, extreme, hot (topic), of interest"
+        "meaning": "hot (to the touch), passionate (feelings, etc.), ardent, hot (e.g. gaze), hot (e.g. temper), zealous, enthusiastic, fired up, intense, severe, extreme, hot (topic), of interest |(vi) nóng (khi chạm vào), nồng nhiệt (cảm xúc...), say đắm, nóng (vd. ánh mắt), nóng nảy (tính khí), hăng hái, nhiệt tình, hừng hực, gay gắt, dữ dội, nóng (chủ đề), được quan tâm"
       },
       {
         "example": "熱い暗黒物質",
         "reading": "あついあんこくぶっしつ",
-        "meaning": "hot dark matter"
+        "meaning": "hot dark matter |(vi) vật chất tối nóng"
       }
     ],
     "radical": {
@@ -403,7 +403,7 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": "fire |(vi) Hỏa (lửa)"
     },
     "parts": [
       "丶",

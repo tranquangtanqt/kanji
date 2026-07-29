@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "mise",
-    "meaning": "shop, store",
+    "meaning": "shop, store |(vi) cửa hàng, tiệm",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "商店（しょうてん）",
         "meaning": {
-          "english": "shop [n.]"
+          "english": "shop [n.] |(vi) cửa hàng, tiệm buôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mise_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "書店（しょてん）",
         "meaning": {
-          "english": "bookstore"
+          "english": "bookstore |(vi) hiệu sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mise_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "売店（ばいてん）",
         "meaning": {
-          "english": "stand [n.]"
+          "english": "stand [n.] |(vi) quầy bán hàng, ki-ốt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mise_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "本店（ほんてん）",
         "meaning": {
-          "english": "head office"
+          "english": "head office |(vi) trụ sở chính, cửa hàng chính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mise_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "支店（してん）",
         "meaning": {
-          "english": "branch office"
+          "english": "branch office |(vi) chi nhánh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mise_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "喫茶店（きっさてん）",
         "meaning": {
-          "english": "coffee shop"
+          "english": "coffee shop |(vi) quán cà phê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mise_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "店員（てんいん）",
         "meaning": {
-          "english": "salesperson"
+          "english": "salesperson |(vi) nhân viên bán hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mise_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "店頭（てんとう）",
         "meaning": {
-          "english": "shop front"
+          "english": "shop front |(vi) mặt tiền cửa hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mise_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "店（みせ）",
         "meaning": {
-          "english": "store [n.]"
+          "english": "store [n.] |(vi) cửa hàng, tiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mise_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "店先（みせさき）",
         "meaning": {
-          "english": "store front"
+          "english": "store front |(vi) trước cửa hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mise_06_j.opus",
@@ -272,7 +272,7 @@
     "kanji": {
       "character": "店",
       "meaning": {
-        "english": "shop, store"
+        "english": "shop, store |(vi) cửa hàng, tiệm"
       },
       "strokes": {
         "count": 8,
@@ -326,7 +326,7 @@
         "romaji": "madare"
       },
       "meaning": {
-        "english": "slanting roof"
+        "english": "slanting roof |(vi) Nghiễm (mái nghiêng, nhà mái dốc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/madare0.svg",
@@ -347,7 +347,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "378",
     "strokeCount": 8,
-    "meaning": "store, shop",
+    "meaning": "store, shop |(vi) cửa hàng, tiệm |(hv) Điếm",
     "kunyomi": [
       "みせ",
       "たな"
@@ -359,64 +359,64 @@
       {
         "example": "店",
         "reading": "テン",
-        "meaning": "store, shop, restaurant"
+        "meaning": "store, shop, restaurant |(vi) cửa hàng, tiệm, nhà hàng"
       },
       {
         "example": "店員",
         "reading": "テンイン",
-        "meaning": "employee (of a store), shop assistant, clerk, salesperson"
+        "meaning": "employee (of a store), shop assistant, clerk, salesperson |(vi) nhân viên cửa hàng, người bán hàng, thư ký cửa hàng"
       },
       {
         "example": "酒店",
         "reading": "サカダナ",
-        "meaning": "liquor store, off-licence, bottle shop, hotel (in China)"
+        "meaning": "liquor store, off-licence, bottle shop, hotel (in China) |(vi) cửa hàng rượu, tiệm rượu, khách sạn (ở Trung Quốc)"
       },
       {
         "example": "同店",
         "reading": "ドウテン",
-        "meaning": "the same store, the same shop"
+        "meaning": "the same store, the same shop |(vi) cùng một cửa hàng, cùng một tiệm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "店",
         "reading": "みせ",
-        "meaning": "store, shop, establishment, restaurant"
+        "meaning": "store, shop, establishment, restaurant |(vi) cửa hàng, tiệm, cơ sở kinh doanh, nhà hàng"
       },
       {
         "example": "店先",
         "reading": "みせさき",
-        "meaning": "storefront, shopfront"
+        "meaning": "storefront, shopfront |(vi) trước cửa hàng, mặt tiền tiệm"
       },
       {
         "example": "酒店",
         "reading": "さかだな",
-        "meaning": "liquor store, off-licence, bottle shop, hotel (in China)"
+        "meaning": "liquor store, off-licence, bottle shop, hotel (in China) |(vi) cửa hàng rượu, tiệm rượu, khách sạn (ở Trung Quốc)"
       },
       {
         "example": "茶店",
         "reading": "さてん",
-        "meaning": "tea house"
+        "meaning": "tea house |(vi) quán trà"
       },
       {
         "example": "店",
         "reading": "たな",
-        "meaning": "merchant's home, rented home, store, shop"
+        "meaning": "merchant's home, rented home, store, shop |(vi) nhà buôn, nhà thuê, cửa hàng, tiệm"
       },
       {
         "example": "店子",
         "reading": "たなこ",
-        "meaning": "tenant (esp. in contrast to a landlord), renter"
+        "meaning": "tenant (esp. in contrast to a landlord), renter |(vi) người thuê nhà (so với chủ nhà), người thuê"
       },
       {
         "example": "お店",
         "reading": "おたな",
-        "meaning": "merchant's home (esp. used by apprentices, etc.), (your) rental home"
+        "meaning": "merchant's home (esp. used by apprentices, etc.), (your) rental home |(vi) nhà buôn (cách gọi của học việc...), nhà thuê (của quý vị)"
       }
     ],
     "radical": {
       "symbol": "广",
-      "meaning": "house on cliff"
+      "meaning": "house on cliff |(vi) Nghiễm (nhà mái dốc)"
     },
     "parts": [
       "卜",

@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "otouto",
-    "meaning": "younger brother",
+    "meaning": "younger brother |(vi) em trai",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "師弟（してい）",
         "meaning": {
-          "english": "teacher and student"
+          "english": "teacher and student |(vi) thầy và trò"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otouto_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "義弟（ぎてい）",
         "meaning": {
-          "english": "younger brother-in-law"
+          "english": "younger brother-in-law |(vi) em rể, em vợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otouto_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "兄弟（きょうだい）",
         "meaning": {
-          "english": "siblings"
+          "english": "siblings |(vi) anh em"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otouto_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "弟子（でし）",
         "meaning": {
-          "english": "disciple"
+          "english": "disciple |(vi) đệ tử, học trò"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otouto_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "弟（おとうと）",
         "meaning": {
-          "english": "one's own younger brother"
+          "english": "one's own younger brother |(vi) em trai ruột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otouto_06_e.opus",
@@ -212,7 +212,7 @@
     "kanji": {
       "character": "弟",
       "meaning": {
-        "english": "younger brother"
+        "english": "younger brother |(vi) em trai"
       },
       "strokes": {
         "count": 7,
@@ -264,7 +264,7 @@
         "romaji": "yumi"
       },
       "meaning": {
-        "english": "bow（in archery）"
+        "english": "bow（in archery） |(vi) Cung (cây cung)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yumi0.svg",
@@ -285,7 +285,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1161",
     "strokeCount": 7,
-    "meaning": "younger brother, faithful service to elders",
+    "meaning": "younger brother, faithful service to elders |(vi) em trai, sự phụng sự trung thành với người lớn tuổi |(hv) Đệ",
     "kunyomi": [
       "おとうと"
     ],
@@ -298,59 +298,59 @@
       {
         "example": "弟",
         "reading": "オトウト",
-        "meaning": "younger brother, little brother, kid brother, brother-in-law (spouse's younger brother or younger sister's husband), pupil, apprentice"
+        "meaning": "younger brother, little brother, kid brother, brother-in-law (spouse's younger brother or younger sister's husband), pupil, apprentice |(vi) em trai, em trai út, em rể (em trai của vợ/chồng hoặc chồng của em gái), học trò, đệ tử"
       },
       {
         "example": "弟子",
         "reading": "デシ",
-        "meaning": "pupil, disciple, adherent, follower, apprentice, young person, teacher's student-helper"
+        "meaning": "pupil, disciple, adherent, follower, apprentice, young person, teacher's student-helper |(vi) học trò, đệ tử, tín đồ, người theo, người học việc, người trẻ tuổi, trợ giảng"
       },
       {
         "example": "実弟",
         "reading": "ジッテイ",
-        "meaning": "biological younger brother"
+        "meaning": "biological younger brother |(vi) em trai ruột"
       },
       {
         "example": "子弟",
         "reading": "シテイ",
-        "meaning": "children, sons, children and younger brothers, young people"
+        "meaning": "children, sons, children and younger brothers, young people |(vi) con cái, con trai, con em, thanh thiếu niên"
       },
       {
         "example": "親兄弟",
         "reading": "オヤキョウダイ",
-        "meaning": "parents and siblings, one's relatives"
+        "meaning": "parents and siblings, one's relatives |(vi) cha mẹ và anh em, người thân"
       },
       {
         "example": "姉弟",
         "reading": "シテイ",
-        "meaning": "older sister and younger brother"
+        "meaning": "older sister and younger brother |(vi) chị và em trai"
       },
       {
         "example": "弟子",
         "reading": "デシ",
-        "meaning": "pupil, disciple, adherent, follower, apprentice, young person, teacher's student-helper"
+        "meaning": "pupil, disciple, adherent, follower, apprentice, young person, teacher's student-helper |(vi) học trò, đệ tử, tín đồ, người theo, người học việc, người trẻ tuổi, trợ giảng"
       },
       {
         "example": "弟子入り",
         "reading": "デシイリ",
-        "meaning": "becoming a pupil (of), becoming an apprentice"
+        "meaning": "becoming a pupil (of), becoming an apprentice |(vi) trở thành học trò, bái sư học nghề"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "弟",
         "reading": "おとうと",
-        "meaning": "younger brother, little brother, kid brother, brother-in-law (spouse's younger brother or younger sister's husband), pupil, apprentice"
+        "meaning": "younger brother, little brother, kid brother, brother-in-law (spouse's younger brother or younger sister's husband), pupil, apprentice |(vi) em trai, em trai út, em rể (em trai của vợ/chồng hoặc chồng của em gái), học trò, đệ tử"
       },
       {
         "example": "弟君",
         "reading": "おとうとぎみ",
-        "meaning": "younger brother"
+        "meaning": "younger brother |(vi) em trai (cách gọi kính trọng)"
       }
     ],
     "radical": {
       "symbol": "弓",
-      "meaning": "bow"
+      "meaning": "bow |(vi) Cung (cây cung)"
     },
     "parts": [
       "ノ",

@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "shio",
-    "meaning": "tide",
+    "meaning": "tide |(vi) thủy triều",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "潮流（ちょうりゅう）",
         "meaning": {
-          "english": "tide, tidal current, trend"
+          "english": "tide, tidal current, trend |(vi) hải lưu, dòng thủy triều, xu hướng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-shio_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "干潮（かんちょう）",
         "meaning": {
-          "english": "ebb tide"
+          "english": "ebb tide |(vi) thủy triều xuống, triều rút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-shio_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "満潮（まんちょう）",
         "meaning": {
-          "english": "high tide"
+          "english": "high tide |(vi) thủy triều lên, triều cường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-shio_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "潮（しお）",
         "meaning": {
-          "english": "tide"
+          "english": "tide |(vi) thủy triều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-shio_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "潮時（しおどき）",
         "meaning": {
-          "english": "timing of tides, opportunity"
+          "english": "timing of tides, opportunity |(vi) thời điểm thủy triều, cơ hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-shio_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "潮干狩り（しおひがり）",
         "meaning": {
-          "english": "shell gathering"
+          "english": "shell gathering |(vi) bắt sò (khi triều xuống)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-shio_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "血潮（ちしお）",
         "meaning": {
-          "english": "blood"
+          "english": "blood |(vi) máu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-shio_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "黒潮（くろしお）",
         "meaning": {
-          "english": "the Japan Current"
+          "english": "the Japan Current |(vi) hải lưu Nhật Bản (dòng Kuroshio)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-shio_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "引き潮（ひきしお）",
         "meaning": {
-          "english": "ebb tide"
+          "english": "ebb tide |(vi) thủy triều xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-shio_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "満ち潮（みちしお）",
         "meaning": {
-          "english": "high tide"
+          "english": "high tide |(vi) thủy triều lên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-shio_06_j.opus",
@@ -211,7 +211,7 @@
     "kanji": {
       "character": "潮",
       "meaning": {
-        "english": "tide"
+        "english": "tide |(vi) thủy triều"
       },
       "strokes": {
         "count": 15,
@@ -279,7 +279,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -300,7 +300,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1231",
     "strokeCount": 15,
-    "meaning": "tide, salt water, opportunity",
+    "meaning": "tide, salt water, opportunity |(vi) thủy triều, nước biển, cơ hội |(hv) Triều",
     "kunyomi": [
       "しお",
       "うしお"
@@ -312,59 +312,59 @@
       {
         "example": "潮流",
         "reading": "チョウリュウ",
-        "meaning": "tide, tidal current, tendency, drift, trend"
+        "meaning": "tide, tidal current, tendency, drift, trend |(vi) thủy triều, hải lưu, xu hướng, khuynh hướng"
       },
       {
         "example": "潮位",
         "reading": "チョウイ",
-        "meaning": "tide level"
+        "meaning": "tide level |(vi) mực nước triều"
       },
       {
         "example": "思潮",
         "reading": "シチョウ",
-        "meaning": "trend of thought"
+        "meaning": "trend of thought |(vi) trào lưu tư tưởng"
       },
       {
         "example": "退潮",
         "reading": "タイチョウ",
-        "meaning": "ebb tide, waning fortunes"
+        "meaning": "ebb tide, waning fortunes |(vi) triều rút, vận may suy giảm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "潮",
         "reading": "しお",
-        "meaning": "tide, current, sea water, opportunity, chance"
+        "meaning": "tide, current, sea water, opportunity, chance |(vi) thủy triều, dòng nước, nước biển, cơ hội, dịp may"
       },
       {
         "example": "潮風",
         "reading": "しおかぜ",
-        "meaning": "sea breeze, salty wind, briny air"
+        "meaning": "sea breeze, salty wind, briny air |(vi) gió biển, gió mặn"
       },
       {
         "example": "黒潮",
         "reading": "くろしお",
-        "meaning": "Kuroshio Current, Japan Current"
+        "meaning": "Kuroshio Current, Japan Current |(vi) hải lưu Kuroshio, hải lưu Nhật Bản"
       },
       {
         "example": "赤潮",
         "reading": "あかしお",
-        "meaning": "red tide"
+        "meaning": "red tide |(vi) thủy triều đỏ"
       },
       {
         "example": "潮",
         "reading": "しお",
-        "meaning": "tide, current, sea water, opportunity, chance, thin soup of fish or shellfish boiled in seawater"
+        "meaning": "tide, current, sea water, opportunity, chance, thin soup of fish or shellfish boiled in seawater |(vi) thủy triều, dòng nước, nước biển, cơ hội, dịp may, canh cá hoặc hải sản nấu loãng bằng nước biển"
       },
       {
         "example": "潮汁",
         "reading": "うしおじる",
-        "meaning": "thin soup of fish or shellfish boiled in seawater"
+        "meaning": "thin soup of fish or shellfish boiled in seawater |(vi) canh cá hoặc hải sản nấu bằng nước biển"
       },
       {
         "example": "夕潮",
         "reading": "ゆうしお",
-        "meaning": "evening tide"
+        "meaning": "evening tide |(vi) thủy triều buổi tối"
       }
     ],
     "radical": {
@@ -373,7 +373,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "十",

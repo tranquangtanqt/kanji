@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 50,
     "kunyomi": "mo, moeru, moyasu, mosu",
-    "meaning": "burn",
+    "meaning": "burn |(vi) cháy, đốt",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "燃料（ねんりょう）",
         "meaning": {
-          "english": "fuel"
+          "english": "fuel |(vi) nhiên liệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mo(yasu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "燃費（ねんぴ）",
         "meaning": {
-          "english": "fuel, consumption, gas mileage"
+          "english": "fuel, consumption, gas mileage |(vi) mức tiêu hao nhiên liệu, số km trên lít"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mo(yasu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "可燃性（かねんせい）",
         "meaning": {
-          "english": "combustibility, flammability"
+          "english": "combustibility, flammability |(vi) tính dễ cháy, khả năng bắt lửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mo(yasu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "不燃性（ふねんせい）",
         "meaning": {
-          "english": "non-inflammability"
+          "english": "non-inflammability |(vi) tính không bắt lửa, khó cháy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mo(yasu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "燃焼する（ねんしょうする）",
         "meaning": {
-          "english": "burn, combust"
+          "english": "burn, combust |(vi) cháy, đốt cháy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mo(yasu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "再燃する（さいねんする）",
         "meaning": {
-          "english": "resuscitate, revive, recur"
+          "english": "resuscitate, revive, recur |(vi) hồi sinh, tái phát, bùng lên trở lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mo(yasu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "燃やす（もやす）",
         "meaning": {
-          "english": "burn [v.t.]"
+          "english": "burn [v.t.] |(vi) đốt (tha động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mo(yasu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "燃える（もえる）",
         "meaning": {
-          "english": "burn [v.i.]"
+          "english": "burn [v.i.] |(vi) cháy (tự động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mo(yasu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "燃す（もす）",
         "meaning": {
-          "english": "burn [v.t.]"
+          "english": "burn [v.t.] |(vi) đốt (tha động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mo(yasu)_06_i.opus",
@@ -230,7 +230,7 @@
     "kanji": {
       "character": "燃",
       "meaning": {
-        "english": "burn"
+        "english": "burn |(vi) cháy, đốt"
       },
       "strokes": {
         "count": 16,
@@ -300,7 +300,7 @@
         "romaji": "hihen"
       },
       "meaning": {
-        "english": "fire"
+        "english": "fire |(vi) Hỏa (lửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hihen-fire0.svg",
@@ -321,7 +321,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "948",
     "strokeCount": 16,
-    "meaning": "burn, blaze, glow",
+    "meaning": "burn, blaze, glow |(vi) cháy, bùng cháy, rực sáng |(hv) Nhiên",
     "kunyomi": [
       "も.える",
       "も.やす",
@@ -334,49 +334,49 @@
       {
         "example": "燃費",
         "reading": "ネンピ",
-        "meaning": "fuel consumption, gas mileage"
+        "meaning": "fuel consumption, gas mileage |(vi) mức tiêu hao nhiên liệu, số km trên lít"
       },
       {
         "example": "燃焼",
         "reading": "ネンショウ",
-        "meaning": "burning, combustion, exerting all strength, making an effort"
+        "meaning": "burning, combustion, exerting all strength, making an effort |(vi) sự cháy, sự đốt cháy, dốc hết sức lực, nỗ lực hết mình"
       },
       {
         "example": "不燃",
         "reading": "フネン",
-        "meaning": "incombustibility"
+        "meaning": "incombustibility |(vi) tính không cháy được"
       },
       {
         "example": "可燃",
         "reading": "カネン",
-        "meaning": "inflammable, flammable, combustible, burnable"
+        "meaning": "inflammable, flammable, combustible, burnable |(vi) dễ cháy, có thể cháy, dễ bắt lửa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "燃える",
         "reading": "もえる",
-        "meaning": "to burn, to get fired up"
+        "meaning": "to burn, to get fired up |(vi) cháy, bùng lên (cảm xúc, nhiệt huyết)"
       },
       {
         "example": "燃えるゴミ",
         "reading": "もえるごみ",
-        "meaning": "burnable garbage, burnable waste"
+        "meaning": "burnable garbage, burnable waste |(vi) rác cháy được"
       },
       {
         "example": "燃やす",
         "reading": "もやす",
-        "meaning": "to burn, to burn with (emotion, feeling), to be fired up"
+        "meaning": "to burn, to burn with (emotion, feeling), to be fired up |(vi) đốt cháy, cháy bùng lên với (cảm xúc, tình cảm), hừng hực khí thế"
       },
       {
         "example": "燃やすごみ",
         "reading": "もやすごみ",
-        "meaning": "burnable garbage, burnable waste"
+        "meaning": "burnable garbage, burnable waste |(vi) rác cháy được"
       },
       {
         "example": "燃やす",
         "reading": "もやす",
-        "meaning": "to burn, to burn with (emotion, feeling), to be fired up"
+        "meaning": "to burn, to burn with (emotion, feeling), to be fired up |(vi) đốt cháy, cháy bùng lên với (cảm xúc, tình cảm), hừng hực khí thế"
       }
     ],
     "radical": {
@@ -384,7 +384,7 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": "fire |(vi) Hỏa (lửa)"
     },
     "parts": [
       "夕",

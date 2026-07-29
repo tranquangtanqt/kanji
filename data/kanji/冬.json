@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 3,
     "kunyomi": "fuyu",
-    "meaning": "winter",
+    "meaning": "winter |(vi) mùa đông",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "冬期（とうき）",
         "meaning": {
-          "english": "winter term"
+          "english": "winter term |(vi) kỳ mùa đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuyu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "初冬（しょとう）",
         "meaning": {
-          "english": "early winter"
+          "english": "early winter |(vi) đầu đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuyu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "冬至（とうじ）",
         "meaning": {
-          "english": "winter solstice"
+          "english": "winter solstice |(vi) đông chí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuyu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "冬眠（とうみん）",
         "meaning": {
-          "english": "hibernation"
+          "english": "hibernation |(vi) ngủ đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuyu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "越冬する（えっとうする）",
         "meaning": {
-          "english": "pass the winter"
+          "english": "pass the winter |(vi) trải qua mùa đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuyu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "冬（ふゆ）",
         "meaning": {
-          "english": "winter"
+          "english": "winter |(vi) mùa đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuyu_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "冬学期（ふゆがっき）",
         "meaning": {
-          "english": "winter semester"
+          "english": "winter semester |(vi) học kỳ mùa đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuyu_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "真冬（まふゆ）",
         "meaning": {
-          "english": "midwinter"
+          "english": "midwinter |(vi) giữa mùa đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuyu_06_h.opus",
@@ -236,7 +236,7 @@
     "kanji": {
       "character": "冬",
       "meaning": {
-        "english": "winter"
+        "english": "winter |(vi) mùa đông"
       },
       "strokes": {
         "count": 5,
@@ -284,7 +284,7 @@
         "romaji": "nisui"
       },
       "meaning": {
-        "english": "ice"
+        "english": "ice |(vi) Băng (bộ hai chấm thủy, liên quan đến băng giá)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nisui0.svg",
@@ -305,7 +305,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1090",
     "strokeCount": 5,
-    "meaning": "winter",
+    "meaning": "winter |(vi) mùa đông |(hv) Đông",
     "kunyomi": [
       "ふゆ"
     ],
@@ -316,49 +316,49 @@
       {
         "example": "冬季",
         "reading": "トウキ",
-        "meaning": "winter season, winter"
+        "meaning": "winter season, winter |(vi) mùa đông"
       },
       {
         "example": "冬期",
         "reading": "トウキ",
-        "meaning": "winter, wintertime, winter term"
+        "meaning": "winter, wintertime, winter term |(vi) mùa đông, kỳ đông"
       },
       {
         "example": "越冬",
         "reading": "エットウ",
-        "meaning": "passing the winter, hibernation"
+        "meaning": "passing the winter, hibernation |(vi) trải qua mùa đông, ngủ đông"
       },
       {
         "example": "春夏秋冬",
         "reading": "シュンカシュウトウ",
-        "meaning": "spring, summer, autumn (fall) and winter, the four seasons"
+        "meaning": "spring, summer, autumn (fall) and winter, the four seasons |(vi) xuân hạ thu đông, bốn mùa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "冬",
         "reading": "ふゆ",
-        "meaning": "winter"
+        "meaning": "winter |(vi) mùa đông"
       },
       {
         "example": "冬場",
         "reading": "ふゆば",
-        "meaning": "wintertime, winter season"
+        "meaning": "wintertime, winter season |(vi) mùa đông, thời điểm mùa đông"
       },
       {
         "example": "初冬",
         "reading": "しょとう",
-        "meaning": "early winter, tenth month of the lunar calendar"
+        "meaning": "early winter, tenth month of the lunar calendar |(vi) đầu đông, tháng mười âm lịch"
       },
       {
         "example": "毎冬",
         "reading": "まいふゆ",
-        "meaning": "every winter"
+        "meaning": "every winter |(vi) mỗi mùa đông"
       }
     ],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": "ice |(vi) Băng (bộ băng)"
     },
     "parts": [
       "丶",

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "intestines",
+    "meaning": "intestines |(vi) ruột",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "腸（ちょう）",
         "meaning": {
-          "english": "guts, bowels, intestines"
+          "english": "guts, bowels, intestines |(vi) ruột, lòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mou)chou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "腸炎（ちょうえん）",
         "meaning": {
-          "english": "enteritis"
+          "english": "enteritis |(vi) viêm ruột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mou)chou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "胃腸（いちょう）",
         "meaning": {
-          "english": "stomach, intestines"
+          "english": "stomach, intestines |(vi) dạ dày, ruột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mou)chou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "大腸（だいちょう）",
         "meaning": {
-          "english": "colon"
+          "english": "colon |(vi) đại tràng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mou)chou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "小腸（しょうちょう）",
         "meaning": {
-          "english": "small intestine"
+          "english": "small intestine |(vi) ruột non"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mou)chou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "盲腸（もうちょう）",
         "meaning": {
-          "english": "appendix, caecum"
+          "english": "appendix, caecum |(vi) ruột thừa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mou)chou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "断腸の思い（だんちょうのおもい）",
         "meaning": {
-          "english": "heartrending grief"
+          "english": "heartrending grief |(vi) đau lòng đứt ruột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mou)chou_06_g.opus",
@@ -180,7 +180,7 @@
     "kanji": {
       "character": "腸",
       "meaning": {
-        "english": "intestines"
+        "english": "intestines |(vi) ruột"
       },
       "strokes": {
         "count": 13,
@@ -244,7 +244,7 @@
         "romaji": "nikuzuki"
       },
       "meaning": {
-        "english": "meat, flesh"
+        "english": "meat, flesh |(vi) Nhục (thịt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nikuzuki0.svg",
@@ -265,7 +265,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1807",
     "strokeCount": 13,
-    "meaning": "intestines, guts, bowels, viscera",
+    "meaning": "intestines, guts, bowels, viscera |(vi) ruột, lòng, nội tạng |(hv) Trường",
     "kunyomi": [
       "はらわた",
       "わた"
@@ -277,54 +277,54 @@
       {
         "example": "腸",
         "reading": "チョウ",
-        "meaning": "intestine, bowel"
+        "meaning": "intestine, bowel |(vi) ruột"
       },
       {
         "example": "腸炎",
         "reading": "チョウエン",
-        "meaning": "enteritis"
+        "meaning": "enteritis |(vi) viêm ruột"
       },
       {
         "example": "大腸",
         "reading": "ダイチョウ",
-        "meaning": "large intestine, large bowel, colon"
+        "meaning": "large intestine, large bowel, colon |(vi) ruột già, đại tràng"
       },
       {
         "example": "胃腸",
         "reading": "イチョウ",
-        "meaning": "stomach and intestines, gastrointestinal tract, digestive organs"
+        "meaning": "stomach and intestines, gastrointestinal tract, digestive organs |(vi) dạ dày và ruột, đường tiêu hóa, cơ quan tiêu hóa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "腸",
         "reading": "はらわた",
-        "meaning": "intestines, bowels, entrails, guts, placenta (of a pumpkin, melon, etc.), fibrous pulp, seed cavity, heart, spirit"
+        "meaning": "intestines, bowels, entrails, guts, placenta (of a pumpkin, melon, etc.), fibrous pulp, seed cavity, heart, spirit |(vi) ruột, lòng, nội tạng, ruột quả (bí ngô, dưa), cùi xơ, hốc hạt, tấm lòng, tinh thần"
       },
       {
         "example": "はらわたが煮えくり返る",
         "reading": "はらわたがにえくりかえる",
-        "meaning": "to be furious, to seethe with anger, to have one's blood boiling"
+        "meaning": "to be furious, to seethe with anger, to have one's blood boiling |(vi) giận sôi ruột, sôi máu, tức giận đến run người"
       },
       {
         "example": "腸",
         "reading": "わた",
-        "meaning": "entrails, guts"
+        "meaning": "entrails, guts |(vi) nội tạng, lòng"
       },
       {
         "example": "腸香",
         "reading": "わたか",
-        "meaning": "Ischikauia steenackeri (species of cyprinid fish)"
+        "meaning": "Ischikauia steenackeri (species of cyprinid fish) |(vi) cá chép Ischikauia steenackeri"
       },
       {
         "example": "大腸",
         "reading": "だいちょう",
-        "meaning": "large intestine, large bowel, colon"
+        "meaning": "large intestine, large bowel, colon |(vi) ruột già, đại tràng"
       },
       {
         "example": "背わた",
         "reading": "せわた",
-        "meaning": "vein of a shrimp (prawn), digestive tract of a shrimp, sand vein"
+        "meaning": "vein of a shrimp (prawn), digestive tract of a shrimp, sand vein |(vi) gân tôm, đường tiêu hóa của tôm, chỉ đen lưng tôm"
       }
     ],
     "radical": {
@@ -332,7 +332,7 @@
       "forms": [
         "⺼"
       ],
-      "meaning": "meat"
+      "meaning": "meat |(vi) Nhục (thịt)"
     },
     "parts": [
       "一",

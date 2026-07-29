@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "yo, yomu",
-    "meaning": "read",
+    "meaning": "read |(vi) đọc",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "読者（どくしゃ）",
         "meaning": {
-          "english": "reader"
+          "english": "reader |(vi) độc giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "読書（どくしょ）",
         "meaning": {
-          "english": "reading"
+          "english": "reading |(vi) việc đọc sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "読解力（どっかいりょく）",
         "meaning": {
-          "english": "reading ability"
+          "english": "reading ability |(vi) khả năng đọc hiểu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "読本（とくほん）",
         "meaning": {
-          "english": "a reading primer"
+          "english": "a reading primer |(vi) sách tập đọc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "読点（とうてん）",
         "meaning": {
-          "english": "comma"
+          "english": "comma |(vi) dấu phẩy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "読む（よむ）",
         "meaning": {
-          "english": "read"
+          "english": "read |(vi) đọc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "読売新聞（よみうりしんぶん）",
         "meaning": {
-          "english": "Yomiuri (newspaper)"
+          "english": "Yomiuri (newspaper) |(vi) báo Yomiuri"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "立ち読みする（たちよみする）",
         "meaning": {
-          "english": "browse in a bookstore"
+          "english": "browse in a bookstore |(vi) đứng đọc sách (ở hiệu sách)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "読み方（よみかた）",
         "meaning": {
-          "english": "way of reading"
+          "english": "way of reading |(vi) cách đọc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "読み直す（よみなおす）",
         "meaning": {
-          "english": "read something over again"
+          "english": "read something over again |(vi) đọc lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_j.opus",
@@ -286,7 +286,7 @@
     "kanji": {
       "character": "読",
       "meaning": {
-        "english": "read"
+        "english": "read |(vi) đọc"
       },
       "strokes": {
         "count": 14,
@@ -352,7 +352,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -373,7 +373,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "618",
     "strokeCount": 14,
-    "meaning": "read",
+    "meaning": "read |(vi) đọc |(hv) Độc",
     "kunyomi": [
       "よ.む",
       "-よ.み"
@@ -387,54 +387,54 @@
       {
         "example": "読書",
         "reading": "ドクショ",
-        "meaning": "reading (books)"
+        "meaning": "reading (books) |(vi) việc đọc sách"
       },
       {
         "example": "読者",
         "reading": "ドクシャ",
-        "meaning": "reader"
+        "meaning": "reader |(vi) độc giả"
       },
       {
         "example": "積ん読",
         "reading": "ツンドク",
-        "meaning": "buying books and not reading them, stockpiling books, tsundoku, books bought but not read"
+        "meaning": "buying books and not reading them, stockpiling books, tsundoku, books bought but not read |(vi) mua sách nhưng không đọc, sách chất đống chưa đọc (tsundoku)"
       },
       {
         "example": "必読",
         "reading": "ヒツドク",
-        "meaning": "must-read, required reading"
+        "meaning": "must-read, required reading |(vi) sách bắt buộc phải đọc, tài liệu cần đọc"
       },
       {
         "example": "読書",
         "reading": "ドクショ",
-        "meaning": "reading (books)"
+        "meaning": "reading (books) |(vi) việc đọc sách"
       },
       {
         "example": "読本",
         "reading": "トクホン",
-        "meaning": "reading-book, reader, guidebook, manual, textbook (esp. a pre-war elementary school Japanese language textbook)"
+        "meaning": "reading-book, reader, guidebook, manual, textbook (esp. a pre-war elementary school Japanese language textbook) |(vi) sách tập đọc, sách hướng dẫn, sách giáo khoa (đặc biệt sách tiếng Nhật tiểu học thời trước chiến tranh)"
       },
       {
         "example": "読点",
         "reading": "トウテン",
-        "meaning": "comma"
+        "meaning": "comma |(vi) dấu phẩy"
       },
       {
         "example": "句読",
         "reading": "クトウ",
-        "meaning": "breaks and pauses (in a sentence), punctuation, way of reading (esp. kanbun)"
+        "meaning": "breaks and pauses (in a sentence), punctuation, way of reading (esp. kanbun) |(vi) chỗ ngắt câu, dấu câu, cách ngắt đọc (đặc biệt trong Hán văn)"
       },
       {
         "example": "吏読",
         "reading": "リト",
-        "meaning": "Idu (archaic writing system that uses Chinese characters to represent the Korean language)"
+        "meaning": "Idu (archaic writing system that uses Chinese characters to represent the Korean language) |(vi) chữ Idu (hệ chữ viết cổ dùng Hán tự để ghi tiếng Hàn)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "読む",
         "reading": "よむ",
-        "meaning": "to read, to recite (e.g. a sutra), to chant, to predict, to guess, to forecast, to read (someone's thoughts), to see (e.g. into someone's heart), to divine, to pronounce, to read (e.g. a kanji), to decipher, to read (a meter, graph, music, etc.), to tell (the time), to count, to estimate, to read (a kanji) with its native Japanese reading"
+        "meaning": "to read, to recite (e.g. a sutra), to chant, to predict, to guess, to forecast, to read (someone's thoughts), to see (e.g. into someone's heart), to divine, to pronounce, to read (e.g. a kanji), to decipher, to read (a meter, graph, music, etc.), to tell (the time), to count, to estimate, to read (a kanji) with its native Japanese reading |(vi) đọc, tụng (kinh...), đọc to, đoán, dự đoán, đọc (suy nghĩ người khác), thấu hiểu (lòng người), bói, phát âm, đọc (kanji), giải mã, đọc (đồng hồ, biểu đồ, bản nhạc...), xem (giờ), đếm, ước lượng, đọc (kanji) theo âm thuần Nhật"
       }
     ],
     "radical": {
@@ -442,7 +442,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "儿",

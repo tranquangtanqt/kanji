@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "tower",
+    "meaning": "tower |(vi) tháp",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "塔（とう）",
         "meaning": {
-          "english": "tower"
+          "english": "tower |(vi) tháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kansei)tou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "鉄塔（てっとう）",
         "meaning": {
-          "english": "pylon, steel tower"
+          "english": "pylon, steel tower |(vi) cột thép, tháp thép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kansei)tou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "仏塔（ぶっとう）",
         "meaning": {
-          "english": "pagoda"
+          "english": "pagoda |(vi) tháp Phật, chùa tháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kansei)tou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "卒塔婆（そとうば/*そとば）",
         "meaning": {
-          "english": "wooden grave tablet, stupa"
+          "english": "wooden grave tablet, stupa |(vi) bia mộ gỗ, tháp bà (sotoba)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kansei)tou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "管制塔（かんせいとう）",
         "meaning": {
-          "english": "control tower"
+          "english": "control tower |(vi) đài kiểm soát không lưu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kansei)tou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "テレビ塔（テレビとう）",
         "meaning": {
-          "english": "TV tower"
+          "english": "TV tower |(vi) tháp truyền hình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kansei)tou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "エッフェル塔（エッフェルとう）",
         "meaning": {
-          "english": "Eiffel Tower"
+          "english": "Eiffel Tower |(vi) tháp Eiffel"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kansei)tou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "五重の塔（ごじゅうのとう）",
         "meaning": {
-          "english": "five-storied pagoda"
+          "english": "five-storied pagoda |(vi) tháp năm tầng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kansei)tou_06_h.opus",
@@ -183,7 +183,7 @@
     "kanji": {
       "character": "塔",
       "meaning": {
-        "english": "tower"
+        "english": "tower |(vi) tháp"
       },
       "strokes": {
         "count": 12,
@@ -245,7 +245,7 @@
         "romaji": "tsuchihen"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
@@ -266,7 +266,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1708",
     "strokeCount": 12,
-    "meaning": "pagoda, tower, steeple",
+    "meaning": "pagoda, tower, steeple |(vi) chùa tháp, tháp, tháp nhọn |(hv) Tháp",
     "kunyomi": [],
     "onyomi": [
       "トウ"
@@ -275,28 +275,28 @@
       {
         "example": "塔",
         "reading": "トウ",
-        "meaning": "tower, steeple, spire, stupa, pagoda, dagoba"
+        "meaning": "tower, steeple, spire, stupa, pagoda, dagoba |(vi) tháp, tháp nhọn, chóp nhọn, bảo tháp, chùa tháp"
       },
       {
         "example": "塔跡",
         "reading": "トウアト",
-        "meaning": "ruins of a tower"
+        "meaning": "ruins of a tower |(vi) di tích tháp, tàn tích của tháp"
       },
       {
         "example": "バベルの塔",
         "reading": "バベルノトウ",
-        "meaning": "Tower of Babel"
+        "meaning": "Tower of Babel |(vi) tháp Babel"
       },
       {
         "example": "鉄塔",
         "reading": "テットウ",
-        "meaning": "steel tower, electricity pylon, transmission tower"
+        "meaning": "steel tower, electricity pylon, transmission tower |(vi) tháp thép, cột điện cao thế, tháp truyền tải điện"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "一",

@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 5,
     "kunyomi": "kataki",
-    "meaning": "enemy",
+    "meaning": "enemy |(vi) kẻ thù",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "敵（てき）",
         "meaning": {
-          "english": "enemy"
+          "english": "enemy |(vi) kẻ thù"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki-kataki_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "敵意（てきい）",
         "meaning": {
-          "english": "hostility"
+          "english": "hostility |(vi) sự thù địch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki-kataki_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "強敵（きょうてき）",
         "meaning": {
-          "english": "formidable enemy"
+          "english": "formidable enemy |(vi) kẻ thù mạnh, đối thủ đáng gờm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki-kataki_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "不敵な（ふてきな）",
         "meaning": {
-          "english": "daring, fearless"
+          "english": "daring, fearless |(vi) táo bạo, không sợ hãi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki-kataki_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "素敵な（すてきな）",
         "meaning": {
-          "english": "lovely, beautiful"
+          "english": "lovely, beautiful |(vi) đáng yêu, xinh đẹp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki-kataki_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "敵対する（てきたいする）",
         "meaning": {
-          "english": "be antagonistic"
+          "english": "be antagonistic |(vi) đối địch, thù địch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki-kataki_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "敵（かたき）",
         "meaning": {
-          "english": "enemy"
+          "english": "enemy |(vi) kẻ thù"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki-kataki_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "敵討ち（かたきうち）",
         "meaning": {
-          "english": "revenge"
+          "english": "revenge |(vi) báo thù, trả thù"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki-kataki_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "商売敵（しょうばいがたき）",
         "meaning": {
-          "english": "business rival"
+          "english": "business rival |(vi) đối thủ kinh doanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki-kataki_06_i.opus",
@@ -212,7 +212,7 @@
     "kanji": {
       "character": "敵",
       "meaning": {
-        "english": "enemy"
+        "english": "enemy |(vi) kẻ thù"
       },
       "strokes": {
         "count": 15,
@@ -280,7 +280,7 @@
         "romaji": "bokuzukuri"
       },
       "meaning": {
-        "english": "activity, to strike, hit"
+        "english": "activity, to strike, hit |(vi) Phộc (gõ nhẹ, đánh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/bokuzukuri0.svg",
@@ -301,7 +301,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1205",
     "strokeCount": 15,
-    "meaning": "enemy, foe, opponent",
+    "meaning": "enemy, foe, opponent |(vi) kẻ thù, địch thủ, đối thủ |(hv) Địch",
     "kunyomi": [
       "かたき",
       "あだ",
@@ -314,49 +314,49 @@
       {
         "example": "敵",
         "reading": "テキ",
-        "meaning": "opponent, rival, adversary, menace, danger, threat, enemy"
+        "meaning": "opponent, rival, adversary, menace, danger, threat, enemy |(vi) đối thủ, kình địch, kẻ thù, mối đe dọa, nguy hiểm"
       },
       {
         "example": "敵意",
         "reading": "テキイ",
-        "meaning": "hostility, animosity, enmity"
+        "meaning": "hostility, animosity, enmity |(vi) sự thù địch, hận thù, oán ghét"
       },
       {
         "example": "強敵",
         "reading": "キョウテキ",
-        "meaning": "formidable enemy, strong enemy, tough enemy"
+        "meaning": "formidable enemy, strong enemy, tough enemy |(vi) kẻ thù mạnh, đối thủ đáng gờm"
       },
       {
         "example": "無敵",
         "reading": "ムテキ",
-        "meaning": "invincible, unrivaled, unrivalled, matchless, unbeatable, undefeatable"
+        "meaning": "invincible, unrivaled, unrivalled, matchless, unbeatable, undefeatable |(vi) bất khả chiến bại, vô địch"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "敵",
         "reading": "かたき",
-        "meaning": "rival, opponent, adversary, competitor, enemy (esp. one with which there is longstanding enmity), foe, revenge, spouse"
+        "meaning": "rival, opponent, adversary, competitor, enemy (esp. one with which there is longstanding enmity), foe, revenge, spouse |(vi) đối thủ, kình địch, kẻ thù (đặc biệt là kẻ thù truyền kiếp), địch, thù, vợ/chồng"
       },
       {
         "example": "敵討ち",
         "reading": "かたきうち",
-        "meaning": "vengeance, revenge, retaliation"
+        "meaning": "vengeance, revenge, retaliation |(vi) báo thù, trả thù, trả đũa"
       },
       {
         "example": "目の敵",
         "reading": "めのかたき",
-        "meaning": "enemy"
+        "meaning": "enemy |(vi) cái gai trong mắt, kẻ ghét cay ghét đắng"
       },
       {
         "example": "仇を討つ",
         "reading": "かたきをうつ",
-        "meaning": "to avenge (someone) by striking down their killer"
+        "meaning": "to avenge (someone) by striking down their killer |(vi) báo thù cho ai đó bằng cách hạ gục kẻ giết họ"
       },
       {
         "example": "叶う",
         "reading": "かなう",
-        "meaning": "to come true (of a wish, prayer, etc.), to be realized, to be fulfilled, to suit (e.g. a purpose), to meet (wishes, ideals, etc.), to conform to (standards, rules, etc.), to be consistent with, to match (implies competition), to rival, to bear (e.g. the heat)"
+        "meaning": "to come true (of a wish, prayer, etc.), to be realized, to be fulfilled, to suit (e.g. a purpose), to meet (wishes, ideals, etc.), to conform to (standards, rules, etc.), to be consistent with, to match (implies competition), to rival, to bear (e.g. the heat) |(vi) trở thành hiện thực (điều ước, lời cầu nguyện), được thực hiện, phù hợp (với mục đích), đáp ứng (nguyện vọng, lý tưởng), tuân theo (tiêu chuẩn, quy tắc), sánh ngang (hàm ý cạnh tranh), chịu đựng được (ví dụ như cái nóng)"
       }
     ],
     "radical": {
@@ -364,7 +364,7 @@
       "forms": [
         "攵"
       ],
-      "meaning": "rap"
+      "meaning": "rap |(vi) Phộc (gõ nhẹ, đánh)"
     },
     "parts": [
       "乞",

@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "fellow",
+    "meaning": "fellow |(vi) đồng bọn, bạn bè",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "後輩（こうはい）",
         "meaning": {
-          "english": "junior (at work or school)"
+          "english": "junior (at work or school) |(vi) đàn em, hậu bối (ở công ty hoặc trường học)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(jaku)hai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "若輩（じゃくはい）",
         "meaning": {
-          "english": "young or inexperienced person"
+          "english": "young or inexperienced person |(vi) người trẻ tuổi, người non kinh nghiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(jaku)hai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "吾輩（わがはい）",
         "meaning": {
-          "english": "I (nuance of arrogance)"
+          "english": "I (nuance of arrogance) |(vi) ta, tôi (giọng điệu ngạo mạn)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(jaku)hai_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "我が輩（わがはい）",
         "meaning": {
-          "english": "I (nuance of arrogance)"
+          "english": "I (nuance of arrogance) |(vi) ta, tôi (giọng điệu ngạo mạn)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(jaku)hai_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "先輩（せんぱい）",
         "meaning": {
-          "english": "senior (at work or school)"
+          "english": "senior (at work or school) |(vi) đàn anh, tiền bối (ở công ty hoặc trường học)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(jaku)hai_06_e.opus",
@@ -173,7 +173,7 @@
     "kanji": {
       "character": "輩",
       "meaning": {
-        "english": "fellow"
+        "english": "fellow |(vi) đồng bọn, bạn bè"
       },
       "strokes": {
         "count": 15,
@@ -241,7 +241,7 @@
         "romaji": "kuruma"
       },
       "meaning": {
-        "english": "vehicle, wheel, car"
+        "english": "vehicle, wheel, car |(vi) Xa (xe cộ, bánh xe)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuruma0.svg",
@@ -262,7 +262,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1365",
     "strokeCount": 15,
-    "meaning": "comrade, fellow, people, companions",
+    "meaning": "comrade, fellow, people, companions |(vi) đồng chí, bạn bè, người cùng nhóm, bạn đồng hành |(hv) Bối",
     "kunyomi": [
       "-ばら",
       "やから",
@@ -276,44 +276,44 @@
       {
         "example": "輩",
         "reading": "ハイ",
-        "meaning": "group, gang, bunch"
+        "meaning": "group, gang, bunch |(vi) nhóm, băng đảng, đám"
       },
       {
         "example": "輩出",
         "reading": "ハイシュツ",
-        "meaning": "producing (people) in great numbers, appearing one after the other"
+        "meaning": "producing (people) in great numbers, appearing one after the other |(vi) sản sinh (nhân tài) hàng loạt, xuất hiện liên tiếp"
       },
       {
         "example": "軽輩",
         "reading": "ケイハイ",
-        "meaning": "underling"
+        "meaning": "underling |(vi) kẻ dưới quyền, người địa vị thấp"
       },
       {
         "example": "儕輩",
         "reading": "サイハイ",
-        "meaning": "colleagues, fellows, comrades"
+        "meaning": "colleagues, fellows, comrades |(vi) đồng nghiệp, bạn bè, đồng chí"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "輩",
         "reading": "やから",
-        "meaning": "party (of people), set (of people), clan, family, fellow"
+        "meaning": "party (of people), set (of people), clan, family, fellow |(vi) nhóm người, phe nhóm, dòng tộc, gia tộc, bạn bè"
       },
       {
         "example": "不逞の輩",
         "reading": "ふていのやから",
-        "meaning": "lawless people, gang, malcontents, recalcitrants"
+        "meaning": "lawless people, gang, malcontents, recalcitrants |(vi) kẻ vô pháp, băng đảng, kẻ bất mãn, kẻ ngoan cố"
       },
       {
         "example": "輩",
         "reading": "ともがら",
-        "meaning": "comrade, fellow"
+        "meaning": "comrade, fellow |(vi) đồng chí, bạn bè"
       }
     ],
     "radical": {
       "symbol": "車",
-      "meaning": "cart, car"
+      "meaning": "cart, car |(vi) Xa (xe cộ)"
     },
     "parts": [
       "車",

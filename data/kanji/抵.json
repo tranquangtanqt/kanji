@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "resist",
+    "meaning": "resist |(vi) chống cự, kháng cự",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "抵当（ていとう）",
         "meaning": {
-          "english": "mortgage, security"
+          "english": "mortgage, security |(vi) thế chấp, bảo đảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(kousuru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "抵抗力（ていこうりょく）",
         "meaning": {
-          "english": "resistance"
+          "english": "resistance |(vi) sức đề kháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(kousuru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "大抵（たいてい）",
         "meaning": {
-          "english": "usually, generally"
+          "english": "usually, generally |(vi) thường thì, nói chung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(kousuru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "抵抗する（ていこうする）",
         "meaning": {
-          "english": "resist, oppose"
+          "english": "resist, oppose |(vi) chống cự, phản kháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(kousuru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "抵触する（ていしょくする）",
         "meaning": {
-          "english": "conflict with, run counter to"
+          "english": "conflict with, run counter to |(vi) mâu thuẫn với, trái với"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(kousuru)_06_e.opus",
@@ -152,7 +152,7 @@
     "kanji": {
       "character": "抵",
       "meaning": {
-        "english": "resist"
+        "english": "resist |(vi) chống cự, kháng cự"
       },
       "strokes": {
         "count": 8,
@@ -206,7 +206,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -227,7 +227,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1182",
     "strokeCount": 8,
-    "meaning": "resist, reach, touch",
+    "meaning": "resist, reach, touch |(vi) chống cự, kháng cự, đạt đến, chạm tới |(hv) Để",
     "kunyomi": [],
     "onyomi": [
       "テイ"
@@ -236,22 +236,22 @@
       {
         "example": "抵触",
         "reading": "テイショク",
-        "meaning": "infringement (of a law, treaty, etc.), contravention, running afoul, conflict (with a theory, claim, etc.), inconsistency, incompatibility, contradiction, collision, contact, touching"
+        "meaning": "infringement (of a law, treaty, etc.), contravention, running afoul, conflict (with a theory, claim, etc.), inconsistency, incompatibility, contradiction, collision, contact, touching |(vi) vi phạm (luật, hiệp ước), trái với, xung đột (với lý thuyết, yêu sách), mâu thuẫn, không tương thích, va chạm, tiếp xúc"
       },
       {
         "example": "抵抗",
         "reading": "テイコウ",
-        "meaning": "resistance, opposition, standing up to, reluctance, repulsion, repugnance, resistance, drag, friction, electrical resistance, resistor"
+        "meaning": "resistance, opposition, standing up to, reluctance, repulsion, repugnance, resistance, drag, friction, electrical resistance, resistor |(vi) sự kháng cự, phản đối, chống lại, miễn cưỡng, ghê tởm, ma sát, điện trở, trở kháng"
       },
       {
         "example": "抗抵",
         "reading": "コウテイ",
-        "meaning": "resistance, opposition"
+        "meaning": "resistance, opposition |(vi) sự kháng cự, phản đối"
       },
       {
         "example": "角觝",
         "reading": "カクテイ",
-        "meaning": "strength contest, sumo wrestling"
+        "meaning": "strength contest, sumo wrestling |(vi) cuộc thi sức mạnh, đấu sumo"
       }
     ],
     "kunyomiExamples": [],
@@ -260,7 +260,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "扎",

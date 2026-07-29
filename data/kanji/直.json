@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "tada, tadasu, nao, naoru, naosu",
-    "meaning": "straight, fix, repair",
+    "meaning": "straight, fix, repair |(vi) thẳng, sửa chữa, sửa lại",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "直接（ちょくせつ）",
         "meaning": {
-          "english": "direct"
+          "english": "direct |(vi) trực tiếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "直後（ちょくご）",
         "meaning": {
-          "english": "immediately following"
+          "english": "immediately following |(vi) ngay sau đó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "直前（ちょくぜん）",
         "meaning": {
-          "english": "just before"
+          "english": "just before |(vi) ngay trước đó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "直感する（ちょっかんする）",
         "meaning": {
-          "english": "gain intuition"
+          "english": "gain intuition |(vi) trực giác, cảm nhận trực tiếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "直結する（ちょっけつする）",
         "meaning": {
-          "english": "connect directly"
+          "english": "connect directly |(vi) kết nối trực tiếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "直行便（ちょっこうびん）",
         "meaning": {
-          "english": "direct (nonstop) flight"
+          "english": "direct (nonstop) flight |(vi) chuyến bay thẳng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "正直な（しょうじきな）",
         "meaning": {
-          "english": "honest"
+          "english": "honest |(vi) trung thực, thật thà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "直に（じきに/じかに）",
         "meaning": {
-          "english": "directly"
+          "english": "directly |(vi) trực tiếp, ngay lập tức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "直す（ただす/なおす）",
         "meaning": {
-          "english": "cure, fix [v.t.]"
+          "english": "cure, fix [v.t.] |(vi) sửa, chữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "書き直す（かきなおす）",
         "meaning": {
-          "english": "rewrite"
+          "english": "rewrite |(vi) viết lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "直る（なおる）",
         "meaning": {
-          "english": "be cured, be fixed [v.i.]"
+          "english": "be cured, be fixed [v.i.] |(vi) được sửa, được chữa khỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_k.opus",
@@ -276,7 +276,7 @@
     "kanji": {
       "character": "直",
       "meaning": {
-        "english": "straight, fix, repair"
+        "english": "straight, fix, repair |(vi) thẳng, sửa chữa, sửa lại"
       },
       "strokes": {
         "count": 8,
@@ -330,7 +330,7 @@
         "romaji": "me"
       },
       "meaning": {
-        "english": "eye"
+        "english": "eye |(vi) Mục (mắt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/me0.svg",
@@ -351,7 +351,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "246",
     "strokeCount": 8,
-    "meaning": "straightaway, honesty, frankness, fix, repair",
+    "meaning": "straightaway, honesty, frankness, fix, repair |(vi) ngay lập tức, trung thực, thẳng thắn, sửa chữa |(hv) Trực",
     "kunyomi": [
       "ただ.ちに",
       "なお.す",
@@ -369,99 +369,99 @@
       {
         "example": "直",
         "reading": "チョク",
-        "meaning": "direct, honest, frank, straightforward, candid, easygoing, lighthearted, friendly, night duty, night watch, being on duty (in a factory), shift"
+        "meaning": "direct, honest, frank, straightforward, candid, easygoing, lighthearted, friendly, night duty, night watch, being on duty (in a factory), shift |(vi) trực tiếp, trung thực, thẳng thắn, chân thành, dễ tính, vui vẻ, thân thiện, trực đêm, gác đêm, trực ca (trong nhà máy), ca làm việc"
       },
       {
         "example": "直営",
         "reading": "チョクエイ",
-        "meaning": "direct management"
+        "meaning": "direct management |(vi) trực tiếp quản lý, tự kinh doanh"
       },
       {
         "example": "司直",
         "reading": "シチョク",
-        "meaning": "judge, judiciary, administration of justice, judicial authorities"
+        "meaning": "judge, judiciary, administration of justice, judicial authorities |(vi) thẩm phán, cơ quan tư pháp, việc thi hành công lý, giới chức tư pháp"
       },
       {
         "example": "愚直",
         "reading": "グチョク",
-        "meaning": "simple honesty, tactless frankness"
+        "meaning": "simple honesty, tactless frankness |(vi) thật thà đến mức ngờ nghệch, thẳng thắn thiếu khéo léo"
       },
       {
         "example": "直",
         "reading": "ジキ",
-        "meaning": "soon, in a moment, before long, shortly, nearby, close, direct, spot transaction, cash transaction"
+        "meaning": "soon, in a moment, before long, shortly, nearby, close, direct, spot transaction, cash transaction |(vi) sắp, chốc lát, không lâu nữa, gần, trực tiếp, giao dịch giao ngay, giao dịch tiền mặt"
       },
       {
         "example": "直に",
         "reading": "ジキニ",
-        "meaning": "immediately, right away, at once, soon, shortly, in a moment, before long, easily, readily"
+        "meaning": "immediately, right away, at once, soon, shortly, in a moment, before long, easily, readily |(vi) ngay lập tức, tức thì, sắp, chốc lát, dễ dàng, sẵn sàng"
       },
       {
         "example": "高直",
         "reading": "コウジキ",
-        "meaning": "expensive, valuable"
+        "meaning": "expensive, valuable |(vi) đắt đỏ, có giá trị"
       },
       {
         "example": "バカ正直",
         "reading": "バカショウジキ",
-        "meaning": "honest to a fault, foolishly honest, naively honest"
+        "meaning": "honest to a fault, foolishly honest, naively honest |(vi) thật thà quá mức, thật thà đến ngốc nghếch"
       },
       {
         "example": "直",
         "reading": "ジカ",
-        "meaning": "direct"
+        "meaning": "direct |(vi) trực tiếp"
       },
       {
         "example": "直に",
         "reading": "ジカニ",
-        "meaning": "directly, in person, firsthand"
+        "meaning": "directly, in person, firsthand |(vi) trực tiếp, đích thân, tận mắt"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "直ちに",
         "reading": "ただちに",
-        "meaning": "at once, immediately, right away, without delay, directly (face, lead to, etc.), automatically (mean, result in, etc.)"
+        "meaning": "at once, immediately, right away, without delay, directly (face, lead to, etc.), automatically (mean, result in, etc.) |(vi) ngay lập tức, tức thì, không chậm trễ, trực tiếp (dẫn đến, đối mặt), tự động (dẫn đến, kết quả là)"
       },
       {
         "example": "直す",
         "reading": "なおす",
-        "meaning": "to repair, to mend, to fix, to correct (a mistake, bad habit, etc.), to put right, to restore, to straighten (e.g. a tie), to tidy up (one's hair, make-up, etc.), to revive (one's spirits), to change, to alter, to convert, to translate, to put back, to put away, to cure, to heal, to move up, to promote, to do over again, to redo"
+        "meaning": "to repair, to mend, to fix, to correct (a mistake, bad habit, etc.), to put right, to restore, to straighten (e.g. a tie), to tidy up (one's hair, make-up, etc.), to revive (one's spirits), to change, to alter, to convert, to translate, to put back, to put away, to cure, to heal, to move up, to promote, to do over again, to redo |(vi) sửa chữa, vá, chữa, sửa lỗi (thói xấu), khắc phục, phục hồi, chỉnh lại (cà vạt), chỉnh trang (tóc, trang điểm), lấy lại tinh thần, thay đổi, chuyển đổi, dịch, cất lại, chữa khỏi, chữa lành, thăng chức, làm lại"
       },
       {
         "example": "直る",
         "reading": "なおる",
-        "meaning": "to get mended, to be repaired, to be fixed, to return to normal, to recover (e.g. one's temper), to be restored, to improve, to rally, to come right, to be corrected, to get put right, to be rectified, to come right, to cure (itself), to get cured, to sit properly, to be promoted, to rise, to have one's crimes forgiven"
+        "meaning": "to get mended, to be repaired, to be fixed, to return to normal, to recover (e.g. one's temper), to be restored, to improve, to rally, to come right, to be corrected, to get put right, to be rectified, to come right, to cure (itself), to get cured, to sit properly, to be promoted, to rise, to have one's crimes forgiven |(vi) được sửa, được chữa, trở lại bình thường, hồi phục (tâm trạng), được khôi phục, cải thiện, hồi sinh, được sửa chữa đúng, tự lành, ngồi ngay ngắn, được thăng chức, được tha tội"
       },
       {
         "example": "直き",
         "reading": "なおき",
-        "meaning": "straight, upright"
+        "meaning": "straight, upright |(vi) thẳng, ngay thẳng"
       },
       {
         "example": "直木三十五賞",
         "reading": "なおきさんじゅうごしょう",
-        "meaning": "Naoki Prize (literary award)"
+        "meaning": "Naoki Prize (literary award) |(vi) Giải thưởng Naoki (giải văn học)"
       },
       {
         "example": "直ぐ",
         "reading": "すぐ",
-        "meaning": "immediately, at once, right away, directly, soon, before long, shortly, easily, readily, without difficulty, right (near), nearby, just (handy), honest, upright, frank, straightforward"
+        "meaning": "immediately, at once, right away, directly, soon, before long, shortly, easily, readily, without difficulty, right (near), nearby, just (handy), honest, upright, frank, straightforward |(vi) ngay lập tức, tức thì, trực tiếp, sắp, chốc lát, dễ dàng, gần, ngay bên cạnh, trung thực, ngay thẳng, thẳng thắn"
       },
       {
         "example": "直ぐさま",
         "reading": "すぐさま",
-        "meaning": "immediately, promptly"
+        "meaning": "immediately, promptly |(vi) ngay lập tức, tức khắc"
       },
       {
         "example": "真直ぐ",
         "reading": "ますぐ",
-        "meaning": "straight (ahead), direct, upright, erect, straightforward, honest, frank"
+        "meaning": "straight (ahead), direct, upright, erect, straightforward, honest, frank |(vi) thẳng (về phía trước), trực tiếp, ngay thẳng, đứng thẳng, thẳng thắn, trung thực, chân thành"
       }
     ],
     "radical": {
       "symbol": "目",
-      "meaning": "eye"
+      "meaning": "eye |(vi) Mục (mắt)"
     },
     "parts": [
       "一",

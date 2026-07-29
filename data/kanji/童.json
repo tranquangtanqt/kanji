@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "warabe",
-    "meaning": "child",
+    "meaning": "child |(vi) trẻ em",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "童話（どうわ）",
         "meaning": {
-          "english": "fairy-tale"
+          "english": "fairy-tale |(vi) truyện cổ tích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/warabe_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "童心（どうしん）",
         "meaning": {
-          "english": "child's mind, naïveté"
+          "english": "child's mind, naïveté |(vi) tâm hồn trẻ thơ, ngây thơ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/warabe_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "童顔（どうがん）",
         "meaning": {
-          "english": "baby-faced"
+          "english": "baby-faced |(vi) mặt trẻ con, mặt búng ra sữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/warabe_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "童謡（どうよう）",
         "meaning": {
-          "english": "children's song, nursery rhyme"
+          "english": "children's song, nursery rhyme |(vi) đồng dao, bài hát trẻ em"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/warabe_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "児童（じどう）",
         "meaning": {
-          "english": "children, juveniles"
+          "english": "children, juveniles |(vi) trẻ em, thiếu nhi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/warabe_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "神童（しんどう）",
         "meaning": {
-          "english": "prodigy, wonder child"
+          "english": "prodigy, wonder child |(vi) thần đồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/warabe_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "童（わらべ）",
         "meaning": {
-          "english": "child"
+          "english": "child |(vi) trẻ em"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/warabe_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "童歌（わらべうた）",
         "meaning": {
-          "english": "children's song"
+          "english": "children's song |(vi) đồng dao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/warabe_06_h.opus",
@@ -184,7 +184,7 @@
     "kanji": {
       "character": "童",
       "meaning": {
-        "english": "child"
+        "english": "child |(vi) trẻ em"
       },
       "strokes": {
         "count": 12,
@@ -246,7 +246,7 @@
         "romaji": "tatsu"
       },
       "meaning": {
-        "english": "to stand"
+        "english": "to stand |(vi) Lập (đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tatsu0.svg",
@@ -267,7 +267,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1138",
     "strokeCount": 12,
-    "meaning": "juvenile, child",
+    "meaning": "juvenile, child |(vi) thiếu niên, trẻ em |(hv) Đồng",
     "kunyomi": [
       "わらべ"
     ],
@@ -278,49 +278,49 @@
       {
         "example": "童話",
         "reading": "ドウワ",
-        "meaning": "children's story, fairy tale"
+        "meaning": "children's story, fairy tale |(vi) truyện cổ tích, chuyện thần tiên"
       },
       {
         "example": "童謡",
         "reading": "ドウヨウ",
-        "meaning": "children's song, nursery rhyme"
+        "meaning": "children's song, nursery rhyme |(vi) đồng dao, bài hát trẻ em"
       },
       {
         "example": "天童",
         "reading": "テンドウ",
-        "meaning": "cherub, gods disguised as children, children parading as cherubs"
+        "meaning": "cherub, gods disguised as children, children parading as cherubs |(vi) thiên thần bé nhỏ, thần thánh hóa thân trẻ em, trẻ em hóa trang thần tiên"
       },
       {
         "example": "悪童",
         "reading": "アクドウ",
-        "meaning": "bad boy, naughty child, brat"
+        "meaning": "bad boy, naughty child, brat |(vi) đứa trẻ hư, trẻ nghịch ngợm, nhóc con"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "童",
         "reading": "わらべ",
-        "meaning": "child"
+        "meaning": "child |(vi) trẻ em"
       },
       {
         "example": "わらべ歌",
         "reading": "わらべうた",
-        "meaning": "children's song, nursery song"
+        "meaning": "children's song, nursery song |(vi) đồng dao, bài hát trẻ em"
       },
       {
         "example": "京童",
         "reading": "きょうわらべ",
-        "meaning": "Kyoto's children, Kyoto's young people, who are noisy and gossiping on the least pretext"
+        "meaning": "Kyoto's children, Kyoto's young people, who are noisy and gossiping on the least pretext |(vi) trẻ em, thanh niên Kyoto hay ồn ào bàn tán chuyện vặt"
       },
       {
         "example": "小童",
         "reading": "こわっぱ",
-        "meaning": "boy, child, youth, brat"
+        "meaning": "boy, child, youth, brat |(vi) cậu bé, đứa trẻ, thanh niên, nhóc con"
       }
     ],
     "radical": {
       "symbol": "立",
-      "meaning": "stand, erect"
+      "meaning": "stand, erect |(vi) Lập (đứng)"
     },
     "parts": [
       "立",

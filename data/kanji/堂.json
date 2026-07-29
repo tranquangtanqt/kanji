@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "hall",
+    "meaning": "hall |(vi) sảnh, hội trường",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "食堂（しょくどう）",
         "meaning": {
-          "english": "dining hall"
+          "english": "dining hall |(vi) nhà ăn, căn tin"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shoku)dou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "議事堂（ぎじどう）",
         "meaning": {
-          "english": "Diet building"
+          "english": "Diet building |(vi) tòa nhà quốc hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shoku)dou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "講堂（こうどう）",
         "meaning": {
-          "english": "auditorium"
+          "english": "auditorium |(vi) giảng đường, hội trường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shoku)dou_06_c.opus",
@@ -164,7 +164,7 @@
     "kanji": {
       "character": "堂",
       "meaning": {
-        "english": "hall"
+        "english": "hall |(vi) sảnh, hội trường"
       },
       "strokes": {
         "count": 11,
@@ -224,7 +224,7 @@
         "romaji": "tsuchi"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
@@ -245,7 +245,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1010",
     "strokeCount": 11,
-    "meaning": "public chamber, hall",
+    "meaning": "public chamber, hall |(vi) phòng công cộng, sảnh, hội trường |(hv) Đường",
     "kunyomi": [],
     "onyomi": [
       "ドウ"
@@ -254,28 +254,28 @@
       {
         "example": "堂",
         "reading": "ドウ",
-        "meaning": "temple, shrine, chapel, hall, company, front room"
+        "meaning": "temple, shrine, chapel, hall, company, front room |(vi) đền, miếu, nhà nguyện, sảnh, công ty, phòng khách"
       },
       {
         "example": "堂々",
         "reading": "ドウドウ",
-        "meaning": "magnificent, grand, impressive, dignified, majestic, imposing, stately, fair, square, open, unashamed, brazen, grandly, boldly, confidently, fairly, squarely, unreservedly, brazenly"
+        "meaning": "magnificent, grand, impressive, dignified, majestic, imposing, stately, fair, square, open, unashamed, brazen, grandly, boldly, confidently, fairly, squarely, unreservedly, brazenly |(vi) hùng vĩ, uy nghi, đường hoàng, oai vệ, đàng hoàng, công khai, không hổ thẹn, một cách đường hoàng, tự tin"
       },
       {
         "example": "殿堂",
         "reading": "デンドウ",
-        "meaning": "palace, hall, shrine, temple, sanctuary, hall of fame"
+        "meaning": "palace, hall, shrine, temple, sanctuary, hall of fame |(vi) cung điện, sảnh đường, đền, miếu, thánh địa, đại sảnh danh vọng"
       },
       {
         "example": "議事堂",
         "reading": "ギジドウ",
-        "meaning": "assembly hall, parliament house, diet building, capitol, houses of parliament, congress hall"
+        "meaning": "assembly hall, parliament house, diet building, capitol, houses of parliament, congress hall |(vi) tòa nhà quốc hội, nghị viện, điện Capitol"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "冖",

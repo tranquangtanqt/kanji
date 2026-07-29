@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "hi, ka",
-    "meaning": "day, sun, Japan",
+    "meaning": "day, sun, Japan |(vi) ngày, mặt trời, Nhật Bản",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "一日（いちにち）",
         "meaning": {
-          "english": "1 day"
+          "english": "1 day |(vi) một ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "日数（にっすう）",
         "meaning": {
-          "english": "a number of days"
+          "english": "a number of days |(vi) số ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "本日（ほんじつ）",
         "meaning": {
-          "english": "today"
+          "english": "today |(vi) hôm nay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "朝日（あさひ）",
         "meaning": {
-          "english": "morning sun"
+          "english": "morning sun |(vi) mặt trời buổi sáng, nắng sớm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "二日（ふつか）",
         "meaning": {
-          "english": "2nd of the month, 2 days"
+          "english": "2nd of the month, 2 days |(vi) ngày mùng 2, hai ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "*一日（ついたち）",
         "meaning": {
-          "english": "1st of the month"
+          "english": "1st of the month |(vi) ngày mùng 1"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "*今日（きょう）",
         "meaning": {
-          "english": "today"
+          "english": "today |(vi) hôm nay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "*明日（あした）",
         "meaning": {
-          "english": "tomorrow"
+          "english": "tomorrow |(vi) ngày mai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "*昨日（きのう）",
         "meaning": {
-          "english": "yesterday"
+          "english": "yesterday |(vi) hôm qua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "*明後日（あさって）",
         "meaning": {
-          "english": "day after tomorrow"
+          "english": "day after tomorrow |(vi) ngày kia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "*一昨日（おととい）",
         "meaning": {
-          "english": "day before yesterday"
+          "english": "day before yesterday |(vi) hôm kia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "*日本語（にほんご）",
         "meaning": {
-          "english": "Japanese language"
+          "english": "Japanese language |(vi) tiếng Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_l.opus",
@@ -341,7 +341,7 @@
     "kanji": {
       "character": "日",
       "meaning": {
-        "english": "day, sun, Japan"
+        "english": "day, sun, Japan |(vi) ngày, mặt trời, Nhật Bản"
       },
       "strokes": {
         "count": 4,
@@ -387,7 +387,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi0.svg",
@@ -408,7 +408,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "1",
     "strokeCount": 4,
-    "meaning": "day, sun, Japan, counter for days",
+    "meaning": "day, sun, Japan, counter for days |(vi) ngày, mặt trời, Nhật Bản, lượng từ đếm ngày |(hv) Nhật",
     "kunyomi": [
       "ひ",
       "-び",
@@ -422,69 +422,69 @@
       {
         "example": "日",
         "reading": "ニチ",
-        "meaning": "Sunday, nth day (of the month), counter for days, Japan"
+        "meaning": "Sunday, nth day (of the month), counter for days, Japan |(vi) chủ nhật, ngày (thứ mấy trong tháng), lượng từ đếm ngày, Nhật Bản"
       },
       {
         "example": "日時",
         "reading": "ニチジ",
-        "meaning": "date and time (of a meeting, departure, etc.), days and hours"
+        "meaning": "date and time (of a meeting, departure, etc.), days and hours |(vi) ngày giờ, thời gian (cuộc họp, khởi hành)"
       },
       {
         "example": "抗日",
         "reading": "コウニチ",
-        "meaning": "resistance against Japanese aggression, anti-Japanese (campaign, movement, etc.)"
+        "meaning": "resistance against Japanese aggression, anti-Japanese (campaign, movement, etc.) |(vi) kháng Nhật, chống Nhật"
       },
       {
         "example": "在日",
         "reading": "ザイニチ",
-        "meaning": "resident in Japan (of a foreigner), situated in Japan (e.g. of an embassy), Zainichi, Zainichi Korean, North or South Korean national with permanent residency in Japan (who came to the country before 1945, or a descendant of such a person)"
+        "meaning": "resident in Japan (of a foreigner), situated in Japan (e.g. of an embassy), Zainichi, Zainichi Korean, North or South Korean national with permanent residency in Japan (who came to the country before 1945, or a descendant of such a person) |(vi) cư trú tại Nhật (người nước ngoài), người Triều Tiên/Hàn Quốc định cư tại Nhật (Zainichi)"
       },
       {
         "example": "日月",
         "reading": "ジツゲツ",
-        "meaning": "sun and moon, time, days and months, years, Sunday and Monday"
+        "meaning": "sun and moon, time, days and months, years, Sunday and Monday |(vi) nhật nguyệt (mặt trời và mặt trăng), thời gian, tháng ngày, năm tháng, chủ nhật và thứ hai"
       },
       {
         "example": "日外",
         "reading": "ジツガイ",
-        "meaning": "at one time, some time ago, once"
+        "meaning": "at one time, some time ago, once |(vi) dạo trước, có lần, ngày nọ"
       },
       {
         "example": "両日",
         "reading": "リョウジツ",
-        "meaning": "both days, two days"
+        "meaning": "both days, two days |(vi) cả hai ngày, hai ngày"
       },
       {
         "example": "三十日",
         "reading": "ミソカ",
-        "meaning": "last day of the month"
+        "meaning": "last day of the month |(vi) ngày cuối tháng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "日",
         "reading": "ひ",
-        "meaning": "day, days, sun, sunshine, sunlight, (the) day, daytime, daylight, date, deadline, (past) days, time (e.g. of one's childhood), case (esp. unfortunate), event"
+        "meaning": "day, days, sun, sunshine, sunlight, (the) day, daytime, daylight, date, deadline, (past) days, time (e.g. of one's childhood), case (esp. unfortunate), event |(vi) ngày, mặt trời, ánh nắng, ban ngày, ngày tháng, hạn chót, những ngày đã qua (thời thơ ấu), sự việc (thường không may)"
       },
       {
         "example": "日陰",
         "reading": "ひかげ",
-        "meaning": "shade, shadow, sunshine, sunlight"
+        "meaning": "shade, shadow, sunshine, sunlight |(vi) bóng râm, chỗ khuất nắng, ánh nắng"
       },
       {
         "example": "在りし日",
         "reading": "ありしひ",
-        "meaning": "past days, bygone days, days of yore, the olden days, while still alive, during one's lifetime"
+        "meaning": "past days, bygone days, days of yore, the olden days, while still alive, during one's lifetime |(vi) những ngày đã qua, thuở xưa, lúc còn sống"
       },
       {
         "example": "あくる日",
         "reading": "あくるひ",
-        "meaning": "next day, following day"
+        "meaning": "next day, following day |(vi) ngày hôm sau"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "日"

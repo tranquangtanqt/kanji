@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "nusu, nusumu, nusumi",
-    "meaning": "steal",
+    "meaning": "steal |(vi) ăn trộm, đánh cắp",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "盗難（とうなん）",
         "meaning": {
-          "english": "theft"
+          "english": "theft |(vi) trộm cắp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nusu(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "盗品（とうひん）",
         "meaning": {
-          "english": "stolen goods"
+          "english": "stolen goods |(vi) đồ ăn trộm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nusu(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "窃盗（せっとう）",
         "meaning": {
-          "english": "stealing"
+          "english": "stealing |(vi) trộm cắp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nusu(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "強盗（ごうとう）",
         "meaning": {
-          "english": "burglary"
+          "english": "burglary |(vi) cướp, cướp giật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nusu(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "盗む（ぬすむ）",
         "meaning": {
-          "english": "steal"
+          "english": "steal |(vi) ăn trộm, đánh cắp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nusu(mu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "盗み聞きする（ぬすみぎきする）",
         "meaning": {
-          "english": "eavesdrop"
+          "english": "eavesdrop |(vi) nghe trộm, nghe lén"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nusu(mu)_06_f.opus",
@@ -178,7 +178,7 @@
     "kanji": {
       "character": "盗",
       "meaning": {
-        "english": "steal"
+        "english": "steal |(vi) ăn trộm, đánh cắp"
       },
       "strokes": {
         "count": 11,
@@ -238,7 +238,7 @@
         "romaji": "sara"
       },
       "meaning": {
-        "english": "plate, bowl"
+        "english": "plate, bowl |(vi) Mãnh (đĩa, bát)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sara0.svg",
@@ -259,7 +259,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1051",
     "strokeCount": 11,
-    "meaning": "steal, rob, pilfer",
+    "meaning": "steal, rob, pilfer |(vi) ăn trộm, cướp, đánh cắp |(hv) Đạo",
     "kunyomi": [
       "ぬす.む",
       "ぬす.み"
@@ -271,44 +271,44 @@
       {
         "example": "盗聴",
         "reading": "トウチョウ",
-        "meaning": "interception (email), wiretap, bug"
+        "meaning": "interception (email), wiretap, bug |(vi) nghe trộm (email), nghe lén điện thoại, gắn thiết bị nghe lén"
       },
       {
         "example": "盗賊",
         "reading": "トウゾク",
-        "meaning": "thief, robber, burglar, bandit"
+        "meaning": "thief, robber, burglar, bandit |(vi) kẻ trộm, kẻ cướp, tên trộm, giặc cướp"
       },
       {
         "example": "怪盗",
         "reading": "カイトウ",
-        "meaning": "mysterious thief, phantom thief"
+        "meaning": "mysterious thief, phantom thief |(vi) kẻ trộm bí ẩn, đại đạo, hiệp khách trộm"
       },
       {
         "example": "劫盗",
         "reading": "ゴウトウ",
-        "meaning": "robbery, robber"
+        "meaning": "robbery, robber |(vi) sự cướp bóc, kẻ cướp"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "盗む",
         "reading": "ぬすむ",
-        "meaning": "to steal, to plagiarize, to steal (a technique, idea, etc.), to watch and learn, to do stealthily, to do during scant time, to steal a base"
+        "meaning": "to steal, to plagiarize, to steal (a technique, idea, etc.), to watch and learn, to do stealthily, to do during scant time, to steal a base |(vi) ăn trộm, đạo văn, đánh cắp (kỹ thuật, ý tưởng...), xem trộm rồi học lỏm, làm lén lút, tranh thủ làm lúc rảnh, trộm chạy về gôn (bóng chày)"
       },
       {
         "example": "盗み",
         "reading": "ぬすみ",
-        "meaning": "stealing, theft"
+        "meaning": "stealing, theft |(vi) sự trộm cắp, ăn trộm"
       },
       {
         "example": "盗み足",
         "reading": "ぬすみあし",
-        "meaning": "stealthy steps"
+        "meaning": "stealthy steps |(vi) bước chân rón rén, đi lén"
       }
     ],
     "radical": {
       "symbol": "皿",
-      "meaning": "dish"
+      "meaning": "dish |(vi) Mãnh (cái đĩa)"
     },
     "parts": [
       "冫",

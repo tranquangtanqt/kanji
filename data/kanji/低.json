@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "hiku, hikui, hikumaru, hikumeru",
-    "meaning": "low",
+    "meaning": "low |(vi) thấp",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "低下する（ていかする）",
         "meaning": {
-          "english": "decline [v.i.]"
+          "english": "decline [v.i.] |(vi) giảm sút, hạ thấp [nội động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiku(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "低温（ていおん）",
         "meaning": {
-          "english": "low temperature"
+          "english": "low temperature |(vi) nhiệt độ thấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiku(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "低気圧（ていきあつ）",
         "meaning": {
-          "english": "low (atmospheric) pressure"
+          "english": "low (atmospheric) pressure |(vi) áp suất thấp (khí áp thấp)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiku(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "最低（さいてい）",
         "meaning": {
-          "english": "lowest, worst"
+          "english": "lowest, worst |(vi) thấp nhất, tệ nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiku(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "低い（ひくい）",
         "meaning": {
-          "english": "low"
+          "english": "low |(vi) thấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiku(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "低まる（ひくまる）",
         "meaning": {
-          "english": "lower [v.i.]"
+          "english": "lower [v.i.] |(vi) hạ xuống, trở nên thấp [nội động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiku(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "低める（ひくめる）",
         "meaning": {
-          "english": "lower [v.t.]"
+          "english": "lower [v.t.] |(vi) hạ thấp, làm cho thấp [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiku(i)_06_g.opus",
@@ -225,7 +225,7 @@
     "kanji": {
       "character": "低",
       "meaning": {
-        "english": "low"
+        "english": "low |(vi) thấp"
       },
       "strokes": {
         "count": 7,
@@ -277,7 +277,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người, bộ nhân đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -298,7 +298,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "435",
     "strokeCount": 7,
-    "meaning": "lower, short, humble",
+    "meaning": "lower, short, humble |(vi) thấp, ngắn, khiêm tốn |(hv) Đê",
     "kunyomi": [
       "ひく.い",
       "ひく.める",
@@ -311,44 +311,44 @@
       {
         "example": "低",
         "reading": "テイ",
-        "meaning": "low (level, value, price, etc.)"
+        "meaning": "low (level, value, price, etc.) |(vi) thấp (mức độ, giá trị, giá cả...)"
       },
       {
         "example": "低温",
         "reading": "テイオン",
-        "meaning": "low temperature"
+        "meaning": "low temperature |(vi) nhiệt độ thấp"
       },
       {
         "example": "高低",
         "reading": "コウテイ",
-        "meaning": "high and low, rise and fall"
+        "meaning": "high and low, rise and fall |(vi) cao thấp, lên xuống"
       },
       {
         "example": "西高東低",
         "reading": "セイコウトウテイ",
-        "meaning": "high barometric pressure to the west, low pressure to the east"
+        "meaning": "high barometric pressure to the west, low pressure to the east |(vi) áp cao phía tây, áp thấp phía đông (hình thế khí áp mùa đông)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "低い",
         "reading": "ひくい",
-        "meaning": "low (rank, degree, value, content, quality, etc.), low (position), close to the ground, short (height), deep (voice), in a low key, low (volume)"
+        "meaning": "low (rank, degree, value, content, quality, etc.), low (position), close to the ground, short (height), deep (voice), in a low key, low (volume) |(vi) thấp (cấp bậc, mức độ, giá trị, nội dung, chất lượng...), vị trí thấp, sát đất, thấp (chiều cao), trầm (giọng nói), giọng trầm, nhỏ (âm lượng)"
       },
       {
         "example": "低い優先順位",
         "reading": "ひくいゆうせんじゅんい",
-        "meaning": "low priority (e.g. cell)"
+        "meaning": "low priority (e.g. cell) |(vi) mức ưu tiên thấp (vd. một ô/trường dữ liệu)"
       },
       {
         "example": "低める",
         "reading": "ひくめる",
-        "meaning": "to lower, to be lowered"
+        "meaning": "to lower, to be lowered |(vi) hạ thấp, được hạ thấp"
       },
       {
         "example": "低まる",
         "reading": "ひくまる",
-        "meaning": "to lower, to be lowered"
+        "meaning": "to lower, to be lowered |(vi) hạ thấp, được hạ thấp"
       }
     ],
     "radical": {
@@ -356,7 +356,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "一",

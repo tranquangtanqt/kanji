@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "yabureru, yabu",
-    "meaning": "be defeated",
+    "meaning": "be defeated |(vi) thua trận, thất bại",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "勝敗（しょうはい）",
         "meaning": {
-          "english": "victory or defeat"
+          "english": "victory or defeat |(vi) thắng bại, thắng thua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai-yabu(reru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "敗戦（はいせん）",
         "meaning": {
-          "english": "defeat (in war)"
+          "english": "defeat (in war) |(vi) chiến bại, thua trận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai-yabu(reru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "敗北する（はいぼくする）",
         "meaning": {
-          "english": "be defeated [v.i.]"
+          "english": "be defeated [v.i.] |(vi) thất bại, chiến bại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai-yabu(reru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "腐敗する（ふはいする）",
         "meaning": {
-          "english": "decay [v.i.]"
+          "english": "decay [v.i.] |(vi) thối rữa, hư hỏng, thối nát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai-yabu(reru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "失敗する（しっぱいする）",
         "meaning": {
-          "english": "fail, make a mistake"
+          "english": "fail, make a mistake |(vi) thất bại, mắc sai lầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai-yabu(reru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "敗れる（やぶれる）",
         "meaning": {
-          "english": "be defeated [v.i.]"
+          "english": "be defeated [v.i.] |(vi) bị đánh bại, thua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai-yabu(reru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "敗る（やぶる）",
         "meaning": {
-          "english": "defeat [v.t.]"
+          "english": "defeat [v.t.] |(vi) đánh bại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai-yabu(reru)_06_g.opus",
@@ -221,7 +221,7 @@
     "kanji": {
       "character": "敗",
       "meaning": {
-        "english": "be defeated"
+        "english": "be defeated |(vi) thua trận, thất bại"
       },
       "strokes": {
         "count": 11,
@@ -281,7 +281,7 @@
         "romaji": "bokuzukuri"
       },
       "meaning": {
-        "english": "activity, to strike, hit"
+        "english": "activity, to strike, hit |(vi) Phộc (đánh nhẹ, gõ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/bokuzukuri0.svg",
@@ -302,7 +302,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "516",
     "strokeCount": 11,
-    "meaning": "failure, defeat, reversal",
+    "meaning": "failure, defeat, reversal |(vi) thất bại, chiến bại, đảo ngược tình thế |(hv) Bại",
     "kunyomi": [
       "やぶ.れる"
     ],
@@ -313,29 +313,29 @@
       {
         "example": "敗",
         "reading": "ハイ",
-        "meaning": "loss, defeat, counter for losses"
+        "meaning": "loss, defeat, counter for losses |(vi) thua, thất bại, lượng từ đếm số trận thua"
       },
       {
         "example": "敗因",
         "reading": "ハイイン",
-        "meaning": "cause of defeat"
+        "meaning": "cause of defeat |(vi) nguyên nhân thất bại"
       },
       {
         "example": "惜敗",
         "reading": "セキハイ",
-        "meaning": "regrettable defeat, defeat by a narrow margin"
+        "meaning": "regrettable defeat, defeat by a narrow margin |(vi) thua sít sao, thua đáng tiếc"
       },
       {
         "example": "零敗",
         "reading": "レイハイ",
-        "meaning": "losing without scoring, shutout, whitewash, having no losses, being undefeated"
+        "meaning": "losing without scoring, shutout, whitewash, having no losses, being undefeated |(vi) thua trắng, không ghi được điểm nào"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "敗れる",
         "reading": "やぶれる",
-        "meaning": "to be defeated, to be beaten, to be unsuccessful, to lose"
+        "meaning": "to be defeated, to be beaten, to be unsuccessful, to lose |(vi) bị đánh bại, thua, thất bại"
       }
     ],
     "radical": {
@@ -343,7 +343,7 @@
       "forms": [
         "攵"
       ],
-      "meaning": "rap"
+      "meaning": "rap |(vi) Phộc (đánh nhẹ, gõ)"
     },
     "parts": [
       "ハ",

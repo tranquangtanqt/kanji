@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "tsutsu",
-    "meaning": "tube, pipe",
+    "meaning": "tube, pipe |(vi) ống, ống dẫn",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "水筒（すいとう）",
         "meaning": {
-          "english": "canteen, flask, water bottle"
+          "english": "canteen, flask, water bottle |(vi) bình nước, bi đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "封筒（ふうとう）",
         "meaning": {
-          "english": "envelope"
+          "english": "envelope |(vi) phong bì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "円筒形（えんとうけい）",
         "meaning": {
-          "english": "cylindrical shape"
+          "english": "cylindrical shape |(vi) hình trụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "発煙筒（はつえんとう）",
         "meaning": {
-          "english": "smoke candle"
+          "english": "smoke candle |(vi) pháo khói, ống khói tín hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "筒（つつ）",
         "meaning": {
-          "english": "pipe, tube"
+          "english": "pipe, tube |(vi) ống, ống dẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "茶筒（ちゃづつ）",
         "meaning": {
-          "english": "tea caddy"
+          "english": "tea caddy |(vi) hộp đựng trà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "筒抜け（つつぬけ）",
         "meaning": {
-          "english": "passing or going directly through"
+          "english": "passing or going directly through |(vi) lọt qua trực tiếp, bị lộ hết (như tin tức)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu_06_g.opus",
@@ -173,7 +173,7 @@
     "kanji": {
       "character": "筒",
       "meaning": {
-        "english": "tube, pipe"
+        "english": "tube, pipe |(vi) ống, ống dẫn"
       },
       "strokes": {
         "count": 12,
@@ -235,7 +235,7 @@
         "romaji": "takekanmuri"
       },
       "meaning": {
-        "english": "bamboo"
+        "english": "bamboo |(vi) Trúc (tre)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takekanmuri0.svg",
@@ -256,7 +256,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1631",
     "strokeCount": 12,
-    "meaning": "cylinder, pipe, tube, gun barrel, sleeve",
+    "meaning": "cylinder, pipe, tube, gun barrel, sleeve |(vi) hình trụ, ống dẫn, ống, nòng súng, ống tay áo |(hv) Đồng",
     "kunyomi": [
       "つつ"
     ],
@@ -267,44 +267,44 @@
       {
         "example": "筒",
         "reading": "トウ",
-        "meaning": "pipe, tube, counter for injection ampoules"
+        "meaning": "pipe, tube, counter for injection ampoules |(vi) ống, ống dẫn, lượng từ đếm ống tiêm"
       },
       {
         "example": "筒状",
         "reading": "ツツジョウ",
-        "meaning": "cylindrical, tubular"
+        "meaning": "cylindrical, tubular |(vi) hình trụ, dạng ống"
       },
       {
         "example": "円筒",
         "reading": "エントウ",
-        "meaning": "cylinder"
+        "meaning": "cylinder |(vi) hình trụ"
       },
       {
         "example": "気筒",
         "reading": "キトウ",
-        "meaning": "cylinder"
+        "meaning": "cylinder |(vi) xi lanh (động cơ)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "筒",
         "reading": "つつ",
-        "meaning": "pipe, tube, cylinder, gun barrel, gun, cannon, well lining, well curb"
+        "meaning": "pipe, tube, cylinder, gun barrel, gun, cannon, well lining, well curb |(vi) ống, ống dẫn, hình trụ, nòng súng, súng, đại bác, thành giếng, ống giếng"
       },
       {
         "example": "筒井",
         "reading": "つつい",
-        "meaning": "round well"
+        "meaning": "round well |(vi) giếng tròn"
       },
       {
         "example": "銃の筒",
         "reading": "じゅうのつつ",
-        "meaning": "barrel of a gun"
+        "meaning": "barrel of a gun |(vi) nòng súng"
       },
       {
         "example": "紙筒",
         "reading": "かみづつ",
-        "meaning": "paper tube, cardboard tube"
+        "meaning": "paper tube, cardboard tube |(vi) ống giấy, ống bìa cứng"
       }
     ],
     "radical": {
@@ -312,7 +312,7 @@
       "forms": [
         "⺮"
       ],
-      "meaning": "bamboo"
+      "meaning": "bamboo |(vi) Trúc (tre)"
     },
     "parts": [
       "一",

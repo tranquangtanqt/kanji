@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "fue",
-    "meaning": "flute, whistle",
+    "meaning": "flute, whistle |(vi) sáo, còi",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "汽笛（きてき）",
         "meaning": {
-          "english": "steam whistle"
+          "english": "steam whistle |(vi) còi hơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fue_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "警笛（けいてき）",
         "meaning": {
-          "english": "horn, alarm, whistle, foghorn"
+          "english": "horn, alarm, whistle, foghorn |(vi) còi báo động, còi cảnh báo, còi sương mù"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fue_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "鼓笛隊（こてきたい）",
         "meaning": {
-          "english": "drum and fife band"
+          "english": "drum and fife band |(vi) đội trống kèn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fue_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "笛（ふえ）",
         "meaning": {
-          "english": "flute, pipe, whistle"
+          "english": "flute, pipe, whistle |(vi) sáo, còi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fue_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "横笛（よこぶえ）",
         "meaning": {
-          "english": "flute, fife"
+          "english": "flute, fife |(vi) sáo ngang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fue_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "草笛（くさぶえ）",
         "meaning": {
-          "english": "reed pipe"
+          "english": "reed pipe |(vi) kèn lá cỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fue_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "口笛（くちぶえ）",
         "meaning": {
-          "english": "whistle (with one's lips) [n.]"
+          "english": "whistle (with one's lips) [n.] |(vi) huýt sáo (bằng miệng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fue_06_g.opus",
@@ -172,7 +172,7 @@
     "kanji": {
       "character": "笛",
       "meaning": {
-        "english": "flute, whistle"
+        "english": "flute, whistle |(vi) sáo, còi"
       },
       "strokes": {
         "count": 11,
@@ -232,7 +232,7 @@
         "romaji": "takekanmuri"
       },
       "meaning": {
-        "english": "bamboo"
+        "english": "bamboo |(vi) Trúc (tre)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takekanmuri0.svg",
@@ -253,7 +253,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1928",
     "strokeCount": 11,
-    "meaning": "flute, clarinet, pipe, whistle, bagpipe, piccolo",
+    "meaning": "flute, clarinet, pipe, whistle, bagpipe, piccolo |(vi) sáo, kèn clarinet, ống sáo, còi, kèn túi, sáo piccolo |(hv) Địch",
     "kunyomi": [
       "ふえ"
     ],
@@ -264,39 +264,39 @@
       {
         "example": "笛子",
         "reading": "テキシ",
-        "meaning": "dizi, Chinese bamboo transverse flute"
+        "meaning": "dizi, Chinese bamboo transverse flute |(vi) sáo trúc Trung Quốc (địch tử)"
       },
       {
         "example": "警笛",
         "reading": "ケイテキ",
-        "meaning": "horn, alarm, whistle, foghorn"
+        "meaning": "horn, alarm, whistle, foghorn |(vi) còi báo động, còi cảnh báo, còi sương mù"
       },
       {
         "example": "横笛",
         "reading": "ヨコブエ",
-        "meaning": "transverse flute (e.g. a fife)"
+        "meaning": "transverse flute (e.g. a fife) |(vi) sáo ngang"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "笛",
         "reading": "ふえ",
-        "meaning": "flute, fife, pipe, recorder, flageolet, shakuhachi, clarinet, whistle"
+        "meaning": "flute, fife, pipe, recorder, flageolet, shakuhachi, clarinet, whistle |(vi) sáo, ống tiêu, ống sáo, sáo dọc, sáo nhỏ, shakuhachi, kèn clarinet, còi"
       },
       {
         "example": "笛吹き",
         "reading": "ふえふき",
-        "meaning": "flute player, flutist, flautist, piper"
+        "meaning": "flute player, flutist, flautist, piper |(vi) người thổi sáo"
       },
       {
         "example": "鷺笛",
         "reading": "さぎふえ",
-        "meaning": "longspine snipefish (Macroramphosus scolopax), common bellowsfish, snipe-fish, snipefish, spine trumpet fish, trumpetfish"
+        "meaning": "longspine snipefish (Macroramphosus scolopax), common bellowsfish, snipe-fish, snipefish, spine trumpet fish, trumpetfish |(vi) cá mỏ sáo (Macroramphosus scolopax)"
       },
       {
         "example": "笙の笛",
         "reading": "しょうのふえ",
-        "meaning": "shō (Japanese free reed musical instrument)"
+        "meaning": "shō (Japanese free reed musical instrument) |(vi) shō (nhạc cụ hơi truyền thống Nhật Bản)"
       }
     ],
     "radical": {
@@ -304,7 +304,7 @@
       "forms": [
         "⺮"
       ],
-      "meaning": "bamboo"
+      "meaning": "bamboo |(vi) Trúc (tre)"
     },
     "parts": [
       "乞",

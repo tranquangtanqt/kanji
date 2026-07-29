@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 2,
     "kunyomi": "mezura, mezurashii",
-    "meaning": "rare, unusual",
+    "meaning": "rare, unusual |(vi) hiếm, khác thường",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "珍味（ちんみ）",
         "meaning": {
-          "english": "delicacy, dainty"
+          "english": "delicacy, dainty |(vi) món ngon quý hiếm, đặc sản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mezura(shii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "珍品（ちんぴん）",
         "meaning": {
-          "english": "curio, rare article"
+          "english": "curio, rare article |(vi) đồ quý hiếm, vật lạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mezura(shii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "珍現象（ちんげんしょう）",
         "meaning": {
-          "english": "strange phenomenon"
+          "english": "strange phenomenon |(vi) hiện tượng kỳ lạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mezura(shii)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "珍妙な（ちんみょうな）",
         "meaning": {
-          "english": "queer, odd"
+          "english": "queer, odd |(vi) kỳ quặc, lạ lùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mezura(shii)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "珍紛漢紛な（ちんぷんかんぷんな）",
         "meaning": {
-          "english": "gibberish"
+          "english": "gibberish |(vi) khó hiểu, như vịt nghe sấm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mezura(shii)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "珍重する（ちんちょうする）",
         "meaning": {
-          "english": "prize, value highly, treasure"
+          "english": "prize, value highly, treasure |(vi) trân trọng, coi trọng, quý mến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mezura(shii)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "珍しい（めずらしい）",
         "meaning": {
-          "english": "unusual, rare"
+          "english": "unusual, rare |(vi) hiếm có, khác thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mezura(shii)_06_g.opus",
@@ -184,7 +184,7 @@
     "kanji": {
       "character": "珍",
       "meaning": {
-        "english": "rare, unusual"
+        "english": "rare, unusual |(vi) hiếm, khác thường"
       },
       "strokes": {
         "count": 9,
@@ -240,7 +240,7 @@
         "romaji": "ouhen"
       },
       "meaning": {
-        "english": "jewelry, jeweled king"
+        "english": "jewelry, jeweled king |(vi) Ngọc (ngọc quý, vua)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ouhen0.svg",
@@ -261,7 +261,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1330",
     "strokeCount": 9,
-    "meaning": "rare, curious, strange",
+    "meaning": "rare, curious, strange |(vi) hiếm, kỳ lạ, khác thường |(hv) Trân",
     "kunyomi": [
       "めずら.しい",
       "たから"
@@ -273,29 +273,29 @@
       {
         "example": "珍",
         "reading": "チン",
-        "meaning": "rare, strange, odd, peculiar, curious"
+        "meaning": "rare, strange, odd, peculiar, curious |(vi) hiếm, kỳ lạ, khác thường, đặc biệt, tò mò"
       },
       {
         "example": "珍紛漢紛",
         "reading": "チンプンカンプン",
-        "meaning": "unintelligible language, incoherent language, talking nonsense, babble, gibberish, jargon, gobbledygook"
+        "meaning": "unintelligible language, incoherent language, talking nonsense, babble, gibberish, jargon, gobbledygook |(vi) ngôn ngữ khó hiểu, lời nói lộn xộn, nói lung tung, tiếng bập bẹ, biệt ngữ, khó hiểu như tiếng nước ngoài"
       },
       {
         "example": "袖珍",
         "reading": "シュウチン",
-        "meaning": "pocket size"
+        "meaning": "pocket size |(vi) khổ bỏ túi"
       },
       {
         "example": "繻珍",
         "reading": "シュチン",
-        "meaning": "satin with raised figures"
+        "meaning": "satin with raised figures |(vi) lụa satin có hoa văn nổi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "珍しい",
         "reading": "めずらしい",
-        "meaning": "rare, uncommon, unusual, curious, new, novel, fine, nice, splendid, precious"
+        "meaning": "rare, uncommon, unusual, curious, new, novel, fine, nice, splendid, precious |(vi) hiếm, hiếm có, khác thường, kỳ lạ, mới lạ, độc đáo, tốt đẹp, đáng yêu, tuyệt vời, quý giá"
       }
     ],
     "radical": {
@@ -303,7 +303,7 @@
       "forms": [
         "王"
       ],
-      "meaning": "jade (king)"
+      "meaning": "jade (king) |(vi) Ngọc (ngọc quý, vua)"
     },
     "parts": [
       "个",

@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kota, kotae, kotaeru",
-    "meaning": "answer",
+    "meaning": "answer |(vi) trả lời, đáp án",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "解答する（かいとうする）",
         "meaning": {
-          "english": "solve, figure out"
+          "english": "solve, figure out |(vi) giải đáp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-kota(e)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "回答する（かいとうする）",
         "meaning": {
-          "english": "reply [v.i.]"
+          "english": "reply [v.i.] |(vi) trả lời, đáp lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-kota(e)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "応答する（おうとうする）",
         "meaning": {
-          "english": "respond [v.i.]"
+          "english": "respond [v.i.] |(vi) đáp lại, phản hồi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-kota(e)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "返答する（へんとうする）",
         "meaning": {
-          "english": "reply [v.i.]"
+          "english": "reply [v.i.] |(vi) trả lời, đáp lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-kota(e)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "答案（とうあん）",
         "meaning": {
-          "english": "examination paper"
+          "english": "examination paper |(vi) bài thi, bài làm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-kota(e)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "答える（こたえる）",
         "meaning": {
-          "english": "answer [v.i.]"
+          "english": "answer [v.i.] |(vi) trả lời, đáp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-kota(e)_06_f.opus",
@@ -219,7 +219,7 @@
     "kanji": {
       "character": "答",
       "meaning": {
-        "english": "answer"
+        "english": "answer |(vi) trả lời, đáp án"
       },
       "strokes": {
         "count": 12,
@@ -281,7 +281,7 @@
         "romaji": "takekanmuri"
       },
       "meaning": {
-        "english": "bamboo"
+        "english": "bamboo |(vi) Trúc (tre, bộ đầu tre)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takekanmuri0.svg",
@@ -302,7 +302,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "486",
     "strokeCount": 12,
-    "meaning": "solution, answer",
+    "meaning": "solution, answer |(vi) lời giải, câu trả lời |(hv) Đáp",
     "kunyomi": [
       "こた.える",
       "こた.え"
@@ -314,39 +314,39 @@
       {
         "example": "答申",
         "reading": "トウシン",
-        "meaning": "report, reply, findings"
+        "meaning": "report, reply, findings |(vi) báo cáo, trả lời, kiến nghị"
       },
       {
         "example": "答案",
         "reading": "トウアン",
-        "meaning": "examination paper, examination script, answer sheet, answer (to an exam question)"
+        "meaning": "examination paper, examination script, answer sheet, answer (to an exam question) |(vi) bài thi, bài làm, đáp án"
       },
       {
         "example": "贈答",
         "reading": "ゾウトウ",
-        "meaning": "exchange of presents"
+        "meaning": "exchange of presents |(vi) tặng quà đáp lễ, trao đổi quà tặng"
       },
       {
         "example": "正答",
         "reading": "セイトウ",
-        "meaning": "correct answer"
+        "meaning": "correct answer |(vi) đáp án đúng, câu trả lời đúng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "答える",
         "reading": "こたえる",
-        "meaning": "to answer, to reply"
+        "meaning": "to answer, to reply |(vi) trả lời, đáp lại"
       },
       {
         "example": "答え",
         "reading": "こたえ",
-        "meaning": "answer, reply, response, answer, solution, result"
+        "meaning": "answer, reply, response, answer, solution, result |(vi) câu trả lời, đáp án, kết quả"
       },
       {
         "example": "答える",
         "reading": "こたえる",
-        "meaning": "to answer, to reply"
+        "meaning": "to answer, to reply |(vi) trả lời, đáp lại"
       }
     ],
     "radical": {
@@ -354,7 +354,7 @@
       "forms": [
         "⺮"
       ],
-      "meaning": "bamboo"
+      "meaning": "bamboo |(vi) Trúc (tre, trúc)"
     },
     "parts": [
       "一",

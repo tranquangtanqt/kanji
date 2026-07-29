@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "lung",
+    "meaning": "lung |(vi) phổi",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "肺（はい）",
         "meaning": {
-          "english": "lung"
+          "english": "lung |(vi) phổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(katsuryou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "肺臓（はいぞう）",
         "meaning": {
-          "english": "lungs"
+          "english": "lungs |(vi) phổi (lá phổi)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(katsuryou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "肺癌（はいがん）",
         "meaning": {
-          "english": "lung cancer"
+          "english": "lung cancer |(vi) ung thư phổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(katsuryou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "肺炎（はいえん）",
         "meaning": {
-          "english": "pneumonia"
+          "english": "pneumonia |(vi) viêm phổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(katsuryou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "肺活量（はいかつりょう）",
         "meaning": {
-          "english": "lung capacity"
+          "english": "lung capacity |(vi) dung tích phổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(katsuryou)_06_e.opus",
@@ -160,7 +160,7 @@
     "kanji": {
       "character": "肺",
       "meaning": {
-        "english": "lung"
+        "english": "lung |(vi) phổi"
       },
       "strokes": {
         "count": 9,
@@ -216,7 +216,7 @@
         "romaji": "nikuzuki"
       },
       "meaning": {
-        "english": "meat, flesh"
+        "english": "meat, flesh |(vi) Nhục (thịt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nikuzuki0.svg",
@@ -237,7 +237,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1387",
     "strokeCount": 9,
-    "meaning": "lungs",
+    "meaning": "lungs |(vi) phổi |(hv) Phế",
     "kunyomi": [],
     "onyomi": [
       "ハイ"
@@ -246,22 +246,22 @@
       {
         "example": "肺",
         "reading": "ハイ",
-        "meaning": "lung"
+        "meaning": "lung |(vi) phổi"
       },
       {
         "example": "肺炎",
         "reading": "ハイエン",
-        "meaning": "pneumonia"
+        "meaning": "pneumonia |(vi) viêm phổi"
       },
       {
         "example": "珪肺",
         "reading": "ケイハイ",
-        "meaning": "silicosis"
+        "meaning": "silicosis |(vi) bệnh bụi phổi silic"
       },
       {
         "example": "人工肺",
         "reading": "ジンコウハイ",
-        "meaning": "artificial lung"
+        "meaning": "artificial lung |(vi) phổi nhân tạo"
       }
     ],
     "kunyomiExamples": [],
@@ -270,7 +270,7 @@
       "forms": [
         "⺼"
       ],
-      "meaning": "meat"
+      "meaning": "meat |(vi) Nhục (thịt)"
     },
     "parts": [
       "亠",

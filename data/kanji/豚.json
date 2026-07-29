@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "buta",
-    "meaning": "pig",
+    "meaning": "pig |(vi) lợn, heo",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "豚カツ（とんカツ）",
         "meaning": {
-          "english": "pork cutlet"
+          "english": "pork cutlet |(vi) cốt lết heo chiên xù"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/buta_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "豚舎（とんしゃ）",
         "meaning": {
-          "english": "pigpen, pigsty"
+          "english": "pigpen, pigsty |(vi) chuồng lợn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/buta_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "養豚（ようとん）",
         "meaning": {
-          "english": "pig-keeping, pig farming"
+          "english": "pig-keeping, pig farming |(vi) nuôi lợn, chăn nuôi heo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/buta_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "豚（ぶた）",
         "meaning": {
-          "english": "pig"
+          "english": "pig |(vi) lợn, heo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/buta_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "豚肉（ぶたにく）",
         "meaning": {
-          "english": "pork"
+          "english": "pork |(vi) thịt heo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/buta_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "子豚（こぶた）",
         "meaning": {
-          "english": "piglet"
+          "english": "piglet |(vi) heo con"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/buta_06_f.opus",
@@ -181,7 +181,7 @@
     "kanji": {
       "character": "豚",
       "meaning": {
-        "english": "pig"
+        "english": "pig |(vi) lợn, heo"
       },
       "strokes": {
         "count": 11,
@@ -241,7 +241,7 @@
         "romaji": "inoko"
       },
       "meaning": {
-        "english": "pig"
+        "english": "pig |(vi) Thỉ (lợn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/inoko0.svg",
@@ -262,7 +262,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1864",
     "strokeCount": 11,
-    "meaning": "pork, pig",
+    "meaning": "pork, pig |(vi) thịt heo, lợn |(hv) Đồn",
     "kunyomi": [
       "ぶた"
     ],
@@ -273,49 +273,49 @@
       {
         "example": "豚",
         "reading": "トン",
-        "meaning": "pig, pork"
+        "meaning": "pig, pork |(vi) lợn, thịt heo"
       },
       {
         "example": "豚肉",
         "reading": "ブタニク",
-        "meaning": "pork"
+        "meaning": "pork |(vi) thịt heo"
       },
       {
         "example": "養豚",
         "reading": "ヨウトン",
-        "meaning": "pig-keeping, pig farming"
+        "meaning": "pig-keeping, pig farming |(vi) nuôi lợn, chăn nuôi heo"
       },
       {
         "example": "焼きとん",
         "reading": "ヤキトン",
-        "meaning": "yakiton, grilled pork on skewers"
+        "meaning": "yakiton, grilled pork on skewers |(vi) yakiton, thịt heo nướng xiên"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "豚",
         "reading": "ぶた",
-        "meaning": "pig (Sus scrofa domesticus), pork, fatso, fatty"
+        "meaning": "pig (Sus scrofa domesticus), pork, fatso, fatty |(vi) lợn, thịt heo, người béo mập"
       },
       {
         "example": "豚肉",
         "reading": "ぶたにく",
-        "meaning": "pork"
+        "meaning": "pork |(vi) thịt heo"
       },
       {
         "example": "野生豚",
         "reading": "やせいぶた",
-        "meaning": "feral pig"
+        "meaning": "feral pig |(vi) lợn rừng, lợn hoang"
       },
       {
         "example": "萌え豚",
         "reading": "もえぶた",
-        "meaning": "anime freak, person overly interested in female anime and video game characters"
+        "meaning": "anime freak, person overly interested in female anime and video game characters |(vi) otaku cuồng anime, người quá đam mê nhân vật nữ trong anime và game"
       }
     ],
     "radical": {
       "symbol": "豕",
-      "meaning": "pig"
+      "meaning": "pig |(vi) Thỉ (lợn)"
     },
     "parts": [
       "月",

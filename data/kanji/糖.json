@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "sugar",
+    "meaning": "sugar |(vi) đường",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "糖分（とうぶん）",
         "meaning": {
-          "english": "sugar content"
+          "english": "sugar content |(vi) hàm lượng đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(budou)tou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "糖尿病（とうにょうびょう）",
         "meaning": {
-          "english": "diabetes"
+          "english": "diabetes |(vi) bệnh tiểu đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(budou)tou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "砂糖（さとう）",
         "meaning": {
-          "english": "sugar"
+          "english": "sugar |(vi) đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(budou)tou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "果糖（かとう）",
         "meaning": {
-          "english": "fructose"
+          "english": "fructose |(vi) đường fructose"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(budou)tou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "ブドウ糖（ぶどうとう）",
         "meaning": {
-          "english": "glucose, grape sugar"
+          "english": "glucose, grape sugar |(vi) glucose, đường nho"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(budou)tou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "グラニュー糖（グラニューとう）",
         "meaning": {
-          "english": "granulated sugar"
+          "english": "granulated sugar |(vi) đường hạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(budou)tou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "血糖値（けっとうち）",
         "meaning": {
-          "english": "blood sugar level"
+          "english": "blood sugar level |(vi) chỉ số đường huyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(budou)tou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "製糖する（せいとうする）",
         "meaning": {
-          "english": "produce sugar"
+          "english": "produce sugar |(vi) sản xuất đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(budou)tou_06_h.opus",
@@ -187,7 +187,7 @@
     "kanji": {
       "character": "糖",
       "meaning": {
-        "english": "sugar"
+        "english": "sugar |(vi) đường"
       },
       "strokes": {
         "count": 16,
@@ -257,7 +257,7 @@
         "romaji": "komehen"
       },
       "meaning": {
-        "english": "rice"
+        "english": "rice |(vi) Mễ (gạo, lúa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/komehen0.svg",
@@ -278,7 +278,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1471",
     "strokeCount": 16,
-    "meaning": "sugar",
+    "meaning": "sugar |(vi) đường |(hv) Đường",
     "kunyomi": [],
     "onyomi": [
       "トウ"
@@ -287,28 +287,28 @@
       {
         "example": "糖",
         "reading": "トウ",
-        "meaning": "sugar"
+        "meaning": "sugar |(vi) đường"
       },
       {
         "example": "糖尿病",
         "reading": "トウニョウビョウ",
-        "meaning": "diabetes, diabetes mellitus"
+        "meaning": "diabetes, diabetes mellitus |(vi) bệnh tiểu đường"
       },
       {
         "example": "黒砂糖",
         "reading": "クロザトウ",
-        "meaning": "(unrefined) brown sugar, muscovado"
+        "meaning": "(unrefined) brown sugar, muscovado |(vi) đường đen (chưa tinh luyện)"
       },
       {
         "example": "製糖",
         "reading": "セイトウ",
-        "meaning": "sugar manufacture"
+        "meaning": "sugar manufacture |(vi) sản xuất đường"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "米",
-      "meaning": "rice"
+      "meaning": "rice |(vi) Mễ (gạo, lúa)"
     },
     "parts": [
       "口",

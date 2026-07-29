@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 2,
     "kunyomi": "sada, sadaka, sadameru, sadamaru",
-    "meaning": "fix, determine",
+    "meaning": "fix, determine |(vi) định, quy định, ấn định",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "定価（ていか）",
         "meaning": {
-          "english": "list price"
+          "english": "list price |(vi) giá niêm yết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sada(meru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "定期券（ていきけん）",
         "meaning": {
-          "english": "commuter pass"
+          "english": "commuter pass |(vi) vé đi lại định kỳ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sada(meru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "定休日（ていきゅうび）",
         "meaning": {
-          "english": "regular holiday"
+          "english": "regular holiday |(vi) ngày nghỉ định kỳ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sada(meru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "指定席（していせき）",
         "meaning": {
-          "english": "reserved seat"
+          "english": "reserved seat |(vi) ghế đã đặt trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sada(meru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "予定する（よていする）",
         "meaning": {
-          "english": "plan [v.t.]"
+          "english": "plan [v.t.] |(vi) lên kế hoạch, dự định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sada(meru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "決定する（けっていする）",
         "meaning": {
-          "english": "decide"
+          "english": "decide |(vi) quyết định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sada(meru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "否定する（ひていする）",
         "meaning": {
-          "english": "deny"
+          "english": "deny |(vi) phủ định, phủ nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sada(meru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "確定する（かくていする）",
         "meaning": {
-          "english": "fix, settle (e.g. plan)"
+          "english": "fix, settle (e.g. plan) |(vi) xác định, chốt (kế hoạch)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sada(meru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "安定する（あんていする）",
         "meaning": {
-          "english": "become stable"
+          "english": "become stable |(vi) ổn định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sada(meru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "案の定（あんのじょう）",
         "meaning": {
-          "english": "sure enough"
+          "english": "sure enough |(vi) quả nhiên, đúng như dự đoán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sada(meru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "定める（さだめる）",
         "meaning": {
-          "english": "decide, establish [v.t.]"
+          "english": "decide, establish [v.t.] |(vi) quyết định, thiết lập, quy định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sada(meru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "定まる（さだまる）",
         "meaning": {
-          "english": "become decided [v.i.]"
+          "english": "become decided [v.i.] |(vi) được quyết định, được ấn định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sada(meru)_06_l.opus",
@@ -287,7 +287,7 @@
     "kanji": {
       "character": "定",
       "meaning": {
-        "english": "fix, determine"
+        "english": "fix, determine |(vi) định, quy định, ấn định"
       },
       "strokes": {
         "count": 8,
@@ -341,7 +341,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà, mái che)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -362,7 +362,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "48",
     "strokeCount": 8,
-    "meaning": "determine, fix, establish, decide",
+    "meaning": "determine, fix, establish, decide |(vi) định, quy định, ấn định, quyết định |(hv) Định",
     "kunyomi": [
       "さだ.める",
       "さだ.まる",
@@ -376,64 +376,64 @@
       {
         "example": "定価",
         "reading": "テイカ",
-        "meaning": "list price, regular price, established price"
+        "meaning": "list price, regular price, established price |(vi) giá niêm yết, giá quy định, giá cố định"
       },
       {
         "example": "定員",
         "reading": "テイイン",
-        "meaning": "fixed number (of people), prescribed number (of regular personnel, students, etc.), quota, numerical limit, complement, capacity (of a bus, boat, theatre, etc.), seating capacity"
+        "meaning": "fixed number (of people), prescribed number (of regular personnel, students, etc.), quota, numerical limit, complement, capacity (of a bus, boat, theatre, etc.), seating capacity |(vi) số lượng quy định (người), sĩ số, sức chứa (xe buýt, tàu, rạp hát)"
       },
       {
         "example": "裁定",
         "reading": "サイテイ",
-        "meaning": "decision, ruling, award, arbitration"
+        "meaning": "decision, ruling, award, arbitration |(vi) phán quyết, quyết định, trọng tài"
       },
       {
         "example": "改定",
         "reading": "カイテイ",
-        "meaning": "revision (of a rule, price, etc.), alteration, change"
+        "meaning": "revision (of a rule, price, etc.), alteration, change |(vi) sửa đổi, điều chỉnh (quy định, giá cả)"
       },
       {
         "example": "定",
         "reading": "ジョウ",
-        "meaning": "certainty, reality, actuality, regular, permanent, samadhi (state of intense concentration achieved through meditation)"
+        "meaning": "certainty, reality, actuality, regular, permanent, samadhi (state of intense concentration achieved through meditation) |(vi) chắc chắn, thực tế, cố định, thường xuyên, thiền định (trạng thái tập trung sâu)"
       },
       {
         "example": "定住",
         "reading": "テイジュウ",
-        "meaning": "settlement, permanent residency"
+        "meaning": "settlement, permanent residency |(vi) định cư, cư trú lâu dài"
       },
       {
         "example": "不定",
         "reading": "フジョウ",
-        "meaning": "uncertainty, insecurity, inconstancy, indefinite, undecided"
+        "meaning": "uncertainty, insecurity, inconstancy, indefinite, undecided |(vi) không chắc chắn, bất định, chưa xác định"
       },
       {
         "example": "改定",
         "reading": "カイテイ",
-        "meaning": "revision (of a rule, price, etc.), alteration, change"
+        "meaning": "revision (of a rule, price, etc.), alteration, change |(vi) sửa đổi, điều chỉnh (quy định, giá cả)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "定める",
         "reading": "さだめる",
-        "meaning": "to decide, to determine, to establish, to lay down, to prescribe, to provide, to stipulate, to bring peace (to), to make peaceful"
+        "meaning": "to decide, to determine, to establish, to lay down, to prescribe, to provide, to stipulate, to bring peace (to), to make peaceful |(vi) quyết định, xác định, thiết lập, quy định, mang lại hòa bình"
       },
       {
         "example": "定まる",
         "reading": "さだまる",
-        "meaning": "to become settled, to be fixed"
+        "meaning": "to become settled, to be fixed |(vi) được ấn định, được xác định"
       },
       {
         "example": "定か",
         "reading": "さだか",
-        "meaning": "definite, sure"
+        "meaning": "definite, sure |(vi) chắc chắn, rõ ràng"
       }
     ],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà, mái che)"
     },
     "parts": [
       "宀",

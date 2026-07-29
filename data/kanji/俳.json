@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "haiku, actor",
+    "meaning": "haiku, actor |(vi) thơ haiku, diễn viên",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "俳句（はいく）",
         "meaning": {
-          "english": "haiku poetry"
+          "english": "haiku poetry |(vi) thơ haiku"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "俳人（はいじん）",
         "meaning": {
-          "english": "haiku poet"
+          "english": "haiku poet |(vi) nhà thơ haiku"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "俳壇（はいだん）",
         "meaning": {
-          "english": "the world of the haiku"
+          "english": "the world of the haiku |(vi) giới thơ haiku"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "俳優（はいゆう）",
         "meaning": {
-          "english": "actor, actress"
+          "english": "actor, actress |(vi) diễn viên (nam, nữ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ku)_06_d.opus",
@@ -143,7 +143,7 @@
     "kanji": {
       "character": "俳",
       "meaning": {
-        "english": "haiku, actor"
+        "english": "haiku, actor |(vi) thơ haiku, diễn viên"
       },
       "strokes": {
         "count": 10,
@@ -201,7 +201,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -222,7 +222,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1137",
     "strokeCount": 10,
-    "meaning": "haiku, actor",
+    "meaning": "haiku, actor |(vi) thơ haiku, diễn viên |(hv) Bài",
     "kunyomi": [],
     "onyomi": [
       "ハイ"
@@ -231,12 +231,12 @@
       {
         "example": "俳人",
         "reading": "ハイジン",
-        "meaning": "haiku poet"
+        "meaning": "haiku poet |(vi) nhà thơ haiku"
       },
       {
         "example": "俳句",
         "reading": "ハイク",
-        "meaning": "haiku, 17-mora poem, usu. in 3 lines of 5, 7 and 5 morae"
+        "meaning": "haiku, 17-mora poem, usu. in 3 lines of 5, 7 and 5 morae |(vi) thơ haiku, thể thơ 17 âm tiết, thường gồm 3 dòng 5-7-5"
       }
     ],
     "kunyomiExamples": [],
@@ -245,7 +245,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "化",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "shira, totono, shiraberu, totonoeru, totonou",
-    "meaning": "tone, investigate, prepare",
+    "meaning": "tone, investigate, prepare |(vi) âm điệu, điều tra, chuẩn bị",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "調子（ちょうし）",
         "meaning": {
-          "english": "tone, mood, condition"
+          "english": "tone, mood, condition |(vi) âm điệu, tâm trạng, tình trạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shira(beru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "体調（たいちょう）",
         "meaning": {
-          "english": "physical condition"
+          "english": "physical condition |(vi) thể trạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shira(beru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "好調な（こうちょうな）",
         "meaning": {
-          "english": "favorable"
+          "english": "favorable |(vi) thuận lợi, tốt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shira(beru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "順調な（じゅんちょうな）",
         "meaning": {
-          "english": "doing well"
+          "english": "doing well |(vi) suôn sẻ, thuận lợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shira(beru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "調査する（ちょうさする）",
         "meaning": {
-          "english": "investigate"
+          "english": "investigate |(vi) điều tra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shira(beru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "調節する（ちょうせつする）",
         "meaning": {
-          "english": "adjust"
+          "english": "adjust |(vi) điều chỉnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shira(beru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "強調する（きょうちょうする）",
         "meaning": {
-          "english": "emphasize"
+          "english": "emphasize |(vi) nhấn mạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shira(beru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "協調する（きょうちょうする）",
         "meaning": {
-          "english": "co-operate"
+          "english": "co-operate |(vi) hợp tác, phối hợp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shira(beru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "調べる（しらべる）",
         "meaning": {
-          "english": "check [v.t.]"
+          "english": "check [v.t.] |(vi) kiểm tra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shira(beru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "調える（ととのえる）",
         "meaning": {
-          "english": "put in order [v.t.]"
+          "english": "put in order [v.t.] |(vi) sắp xếp gọn gàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shira(beru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "調う（ととのう）",
         "meaning": {
-          "english": "be prepared [v.i.]"
+          "english": "be prepared [v.i.] |(vi) được chuẩn bị sẵn sàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shira(beru)_06_k.opus",
@@ -300,7 +300,7 @@
     "kanji": {
       "character": "調",
       "meaning": {
-        "english": "tone, investigate, prepare"
+        "english": "tone, investigate, prepare |(vi) âm điệu, điều tra, chuẩn bị"
       },
       "strokes": {
         "count": 15,
@@ -368,7 +368,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -389,7 +389,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "87",
     "strokeCount": 15,
-    "meaning": "tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate",
+    "meaning": "tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate |(vi) âm điệu, giai điệu, nhịp, tông (âm nhạc), văn phong, chuẩn bị, trừ tà, điều tra, hòa hợp, hòa giải |(hv) Điều",
     "kunyomi": [
       "しら.べる",
       "しら.べ",
@@ -403,54 +403,54 @@
       {
         "example": "調",
         "reading": "チョウ",
-        "meaning": "key, mode (in gagaku), time, tempo, rhythm, meter (of a poem), metre, style, form, mood, pattern, tax in kind (paid with locally produced goods; under the ritsuryō system)"
+        "meaning": "key, mode (in gagaku), time, tempo, rhythm, meter (of a poem), metre, style, form, mood, pattern, tax in kind (paid with locally produced goods; under the ritsuryō system) |(vi) tông, thể điệu (trong nhã nhạc gagaku), nhịp độ, tempo, tiết tấu, vần luật (của bài thơ), phong cách, hình thức, tâm trạng, kiểu, thuế hiện vật (nộp bằng sản vật địa phương; theo chế độ ritsuryō)"
       },
       {
         "example": "調印",
         "reading": "チョウイン",
-        "meaning": "signature, signing, sealing"
+        "meaning": "signature, signing, sealing |(vi) ký kết, ký tên, đóng dấu"
       },
       {
         "example": "長調",
         "reading": "チョウチョウ",
-        "meaning": "major key"
+        "meaning": "major key |(vi) cung trưởng"
       },
       {
         "example": "空調",
         "reading": "クウチョウ",
-        "meaning": "air conditioning"
+        "meaning": "air conditioning |(vi) điều hòa không khí"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "調べる",
         "reading": "しらべる",
-        "meaning": "to examine, to look up, to investigate, to check up, to sense, to study, to inquire, to search"
+        "meaning": "to examine, to look up, to investigate, to check up, to sense, to study, to inquire, to search |(vi) kiểm tra, tra cứu, điều tra, xác minh, cảm nhận, nghiên cứu, hỏi han, tìm kiếm"
       },
       {
         "example": "調べ",
         "reading": "しらべ",
-        "meaning": "investigation, inspection, examination, tune, note, melody"
+        "meaning": "investigation, inspection, examination, tune, note, melody |(vi) sự điều tra, kiểm tra, khảo sát, giai điệu, âm, khúc nhạc"
       },
       {
         "example": "調べる",
         "reading": "しらべる",
-        "meaning": "to examine, to look up, to investigate, to check up, to sense, to study, to inquire, to search"
+        "meaning": "to examine, to look up, to investigate, to check up, to sense, to study, to inquire, to search |(vi) kiểm tra, tra cứu, điều tra, xác minh, cảm nhận, nghiên cứu, hỏi han, tìm kiếm"
       },
       {
         "example": "取り調べ",
         "reading": "とりしらべ",
-        "meaning": "investigation (e.g. by police or prosecutors), examination, inquiry, enquiry"
+        "meaning": "investigation (e.g. by police or prosecutors), examination, inquiry, enquiry |(vi) điều tra (bởi cảnh sát hoặc công tố), thẩm vấn, khảo sát"
       },
       {
         "example": "整う",
         "reading": "ととのう",
-        "meaning": "to be ready, to be prepared, to be arranged, to be in order, to be put in order, to be well-ordered, to be well-proportioned, to be harmonious, to be adjusted, to be regulated, to be refined (e.g. of a face), to be settled (e.g. treaty, contract), to be completed"
+        "meaning": "to be ready, to be prepared, to be arranged, to be in order, to be put in order, to be well-ordered, to be well-proportioned, to be harmonious, to be adjusted, to be regulated, to be refined (e.g. of a face), to be settled (e.g. treaty, contract), to be completed |(vi) sẵn sàng, được chuẩn bị, được sắp xếp, ngăn nắp, cân đối, hài hòa, được điều chỉnh, được quy định, thanh tú (khuôn mặt), được ký kết (hiệp ước, hợp đồng), hoàn tất"
       },
       {
         "example": "整える",
         "reading": "ととのえる",
-        "meaning": "to put in order, to arrange, to tidy up, to fix, to straighten, to get ready, to prepare, to arrange, to supply, to assemble, to buy, to adjust, to regulate (e.g. rhythm, tune, one's breathing), to work out (e.g. business deal), to arrange (e.g. marriage), to settle"
+        "meaning": "to put in order, to arrange, to tidy up, to fix, to straighten, to get ready, to prepare, to arrange, to supply, to assemble, to buy, to adjust, to regulate (e.g. rhythm, tune, one's breathing), to work out (e.g. business deal), to arrange (e.g. marriage), to settle |(vi) sắp xếp gọn gàng, chỉnh trang, sửa soạn, sửa lại, chuẩn bị sẵn sàng, thu xếp, cung cấp, tập hợp, mua sắm, điều chỉnh, điều hòa (nhịp điệu, âm điệu, hơi thở), thu xếp (giao dịch), sắp đặt (hôn nhân), giải quyết"
       }
     ],
     "radical": {
@@ -458,7 +458,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "冂",

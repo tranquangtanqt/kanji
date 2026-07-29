@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "su, suberu, subete",
-    "meaning": "unite, interconnected system, govern, control",
+    "meaning": "unite, interconnected system, govern, control |(vi) thống nhất, hệ thống liên kết, cai trị, kiểm soát",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "統計（とうけい）",
         "meaning": {
-          "english": "statistics"
+          "english": "statistics |(vi) thống kê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(itsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "統率力（とうそつりょく）",
         "meaning": {
-          "english": "leadership, generalship"
+          "english": "leadership, generalship |(vi) khả năng lãnh đạo, tài chỉ huy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(itsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "伝統（でんとう）",
         "meaning": {
-          "english": "tradition, convention"
+          "english": "tradition, convention |(vi) truyền thống, tập quán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(itsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "系統（けいとう）",
         "meaning": {
-          "english": "system, genealogy, phylogeny"
+          "english": "system, genealogy, phylogeny |(vi) hệ thống, dòng dõi, chủng loại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(itsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "血統（けっとう）",
         "meaning": {
-          "english": "lineage, pedigree, family line"
+          "english": "lineage, pedigree, family line |(vi) huyết thống, dòng dõi, gia hệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(itsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "大統領（だいとうりょう）",
         "meaning": {
-          "english": "president, head of state"
+          "english": "president, head of state |(vi) tổng thống, nguyên thủ quốc gia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(itsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "正統派（せいとうは）",
         "meaning": {
-          "english": "orthodox school"
+          "english": "orthodox school |(vi) phái chính thống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(itsu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "統制する（とうせいする）",
         "meaning": {
-          "english": "regulate, control"
+          "english": "regulate, control |(vi) quản chế, kiểm soát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(itsu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "統治する（とうちする）",
         "meaning": {
-          "english": "rule, reign, govern"
+          "english": "rule, reign, govern |(vi) cai trị, thống trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(itsu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "統一する（とういつする）",
         "meaning": {
-          "english": "unite, consolidate"
+          "english": "unite, consolidate |(vi) thống nhất, hợp nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(itsu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "統合する（とうごうする）",
         "meaning": {
-          "english": "integrate, unify, synthesize"
+          "english": "integrate, unify, synthesize |(vi) tích hợp, hợp nhất, tổng hợp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(itsu)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "統べる（すべる）",
         "meaning": {
-          "english": "control, supervise"
+          "english": "control, supervise |(vi) kiểm soát, giám sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(itsu)_06_l.opus",
@@ -257,7 +257,7 @@
     "kanji": {
       "character": "統",
       "meaning": {
-        "english": "unite, interconnected system, govern, control"
+        "english": "unite, interconnected system, govern, control |(vi) thống nhất, hệ thống liên kết, cai trị, kiểm soát"
       },
       "strokes": {
         "count": 12,
@@ -319,7 +319,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (tơ, sợi chỉ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -340,7 +340,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "125",
     "strokeCount": 12,
-    "meaning": "overall, relationship, ruling, governing",
+    "meaning": "overall, relationship, ruling, governing |(vi) tổng thể, quan hệ, cai trị, thống trị |(hv) Thống",
     "kunyomi": [
       "す.べる"
     ],
@@ -351,29 +351,29 @@
       {
         "example": "統括",
         "reading": "トウカツ",
-        "meaning": "unification, bringing together, generalization, control, supervision"
+        "meaning": "unification, bringing together, generalization, control, supervision |(vi) thống nhất, tổng hợp, khái quát hóa, kiểm soát, giám sát"
       },
       {
         "example": "統一",
         "reading": "トウイツ",
-        "meaning": "unity, consolidation, uniformity, unification, compatible"
+        "meaning": "unity, consolidation, uniformity, unification, compatible |(vi) thống nhất, hợp nhất, đồng nhất, tương thích"
       },
       {
         "example": "総統",
         "reading": "ソウトウ",
-        "meaning": "supreme ruler, generalissimo, president (of Taiwan), führer, fuehrer"
+        "meaning": "supreme ruler, generalissimo, president (of Taiwan), führer, fuehrer |(vi) người đứng đầu tối cao, tổng tư lệnh, tổng thống (Đài Loan), lãnh tụ"
       },
       {
         "example": "継統",
         "reading": "ケイトウ",
-        "meaning": "accession to the throne"
+        "meaning": "accession to the throne |(vi) kế thừa ngai vàng, nối ngôi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "統べる",
         "reading": "すべる",
-        "meaning": "to rule over, to govern, to command, to control, to integrate, to consolidate, to unite, to incorporate"
+        "meaning": "to rule over, to govern, to command, to control, to integrate, to consolidate, to unite, to incorporate |(vi) cai trị, thống trị, chỉ huy, kiểm soát, tích hợp, hợp nhất, thống nhất, sáp nhập"
       }
     ],
     "radical": {
@@ -381,7 +381,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (tơ, sợi chỉ)"
     },
     "parts": [
       "亠",

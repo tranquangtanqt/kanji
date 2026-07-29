@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "sakazuki",
-    "meaning": "cup, sake cup",
+    "meaning": "cup, sake cup |(vi) chén, chén rượu sake",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "祝杯（しゅくはい）",
         "meaning": {
-          "english": "toast, celebratory drink"
+          "english": "toast, celebratory drink |(vi) chén chúc mừng, ly mừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(man)pai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "優勝杯（ゆうしょうはい）",
         "meaning": {
-          "english": "championship cup, trophy"
+          "english": "championship cup, trophy |(vi) cúp vô địch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(man)pai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "一杯（いっぱい）",
         "meaning": {
-          "english": "a drink, a cup, full, a lot of"
+          "english": "a drink, a cup, full, a lot of |(vi) một ly, một chén, đầy, nhiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(man)pai_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "二杯（にはい）",
         "meaning": {
-          "english": "two cups"
+          "english": "two cups |(vi) hai ly, hai chén"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(man)pai_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "三杯（さんばい）",
         "meaning": {
-          "english": "three cups"
+          "english": "three cups |(vi) ba ly, ba chén"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(man)pai_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "満杯（まんぱい）",
         "meaning": {
-          "english": "full"
+          "english": "full |(vi) đầy, chật kín"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(man)pai_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "乾杯する（かんぱいする）",
         "meaning": {
-          "english": "make a toast"
+          "english": "make a toast |(vi) cạn ly, chúc mừng (nâng cốc)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(man)pai_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "杯（さかずき）",
         "meaning": {
-          "english": "sake cup"
+          "english": "sake cup |(vi) chén rượu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(man)pai_06_h.opus",
@@ -193,7 +193,7 @@
     "kanji": {
       "character": "杯",
       "meaning": {
-        "english": "cup, sake cup"
+        "english": "cup, sake cup |(vi) chén, chén rượu sake"
       },
       "strokes": {
         "count": 8,
@@ -247,7 +247,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -268,7 +268,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1235",
     "strokeCount": 8,
-    "meaning": "counter for cupfuls, wine glass, glass, toast",
+    "meaning": "counter for cupfuls, wine glass, glass, toast |(vi) lượng từ đếm ly/chén, ly rượu, cốc, chén chúc mừng |(hv) Bôi",
     "kunyomi": [
       "さかずき"
     ],
@@ -279,49 +279,49 @@
       {
         "example": "杯",
         "reading": "ハイ",
-        "meaning": "sake cup, cup for alcoholic beverages, counter for cupfuls, bowlfuls, spoonfuls, etc., counter for boats, counter for octopuses and squid, cup, championship"
+        "meaning": "sake cup, cup for alcoholic beverages, counter for cupfuls, bowlfuls, spoonfuls, etc., counter for boats, counter for octopuses and squid, cup, championship |(vi) chén rượu sake, cốc đựng rượu, lượng từ đếm ly/tô/muỗng, lượng từ đếm thuyền, lượng từ đếm bạch tuộc và mực, cúp, chức vô địch"
       },
       {
         "example": "杯洗",
         "reading": "ハイセン",
-        "meaning": "small vessel or bowl in which sake cups are rinsed"
+        "meaning": "small vessel or bowl in which sake cups are rinsed |(vi) chậu nhỏ để tráng chén rượu"
       },
       {
         "example": "賜杯",
         "reading": "シハイ",
-        "meaning": "Emperor's cup, trophy given by the Emperor"
+        "meaning": "Emperor's cup, trophy given by the Emperor |(vi) cúp do Nhật hoàng ban tặng"
       },
       {
         "example": "苦杯",
         "reading": "クハイ",
-        "meaning": "bitter cup, bitter experience, bitter defeat, ordeal"
+        "meaning": "bitter cup, bitter experience, bitter defeat, ordeal |(vi) chén đắng, trải nghiệm cay đắng, thất bại cay đắng, thử thách gian nan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "杯",
         "reading": "さかずき",
-        "meaning": "sake cup, cup for alcoholic beverages"
+        "meaning": "sake cup, cup for alcoholic beverages |(vi) chén rượu sake, cốc đựng rượu"
       },
       {
         "example": "杯洗い",
         "reading": "さかずきあらい",
-        "meaning": "small vessel or bowl in which sake cups are rinsed"
+        "meaning": "small vessel or bowl in which sake cups are rinsed |(vi) chậu nhỏ để tráng chén rượu"
       },
       {
         "example": "べく杯",
         "reading": "べくはい",
-        "meaning": "sake cup shaped so it cannot be put down until emptied"
+        "meaning": "sake cup shaped so it cannot be put down until emptied |(vi) chén rượu hình dạng đặc biệt, không đặt xuống được cho tới khi uống cạn"
       },
       {
         "example": "水杯",
         "reading": "みずさかずき",
-        "meaning": "farewell cups of water"
+        "meaning": "farewell cups of water |(vi) chén nước tiễn biệt (nghi thức từ biệt)"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "ノ",

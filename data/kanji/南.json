@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "minami",
-    "meaning": "south",
+    "meaning": "south |(vi) phía nam",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "南極（なんきょく）",
         "meaning": {
-          "english": "south pole"
+          "english": "south pole |(vi) cực nam (Nam Cực)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "南北（なんぼく）",
         "meaning": {
-          "english": "south and north"
+          "english": "south and north |(vi) nam và bắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "南部（なんぶ）",
         "meaning": {
-          "english": "southern part"
+          "english": "southern part |(vi) phần phía nam"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "東南アジア（とうなんアジア）",
         "meaning": {
-          "english": "Southeast Asia"
+          "english": "Southeast Asia |(vi) Đông Nam Á"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "南（みなみ）",
         "meaning": {
-          "english": "south"
+          "english": "south |(vi) phía nam"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "南半球（みなみはんきゅう）",
         "meaning": {
-          "english": "southern hemisphere"
+          "english": "southern hemisphere |(vi) bán cầu nam"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_f.opus",
@@ -213,7 +213,7 @@
     "kanji": {
       "character": "南",
       "meaning": {
-        "english": "south"
+        "english": "south |(vi) phía nam"
       },
       "strokes": {
         "count": 9,
@@ -268,7 +268,7 @@
         "romaji": "juu"
       },
       "meaning": {
-        "english": "ten"
+        "english": "ten |(vi) Thập (mười)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/juu0.svg",
@@ -289,7 +289,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "341",
     "strokeCount": 9,
-    "meaning": "south",
+    "meaning": "south |(vi) phía nam |(hv) Nam",
     "kunyomi": [
       "みなみ"
     ],
@@ -301,59 +301,59 @@
       {
         "example": "南",
         "reading": "ナン",
-        "meaning": "south wind tile, winning hand with a pung (or kong) of south wind tiles"
+        "meaning": "south wind tile, winning hand with a pung (or kong) of south wind tiles |(vi) quân bài gió nam, ván thắng có bộ ba (hoặc bộ tứ) quân gió nam (mạt chược)"
       },
       {
         "example": "南海",
         "reading": "ナンカイ",
-        "meaning": "southern sea"
+        "meaning": "southern sea |(vi) biển nam"
       },
       {
         "example": "東南",
         "reading": "トウナン",
-        "meaning": "south-east"
+        "meaning": "south-east |(vi) đông nam"
       },
       {
         "example": "西南",
         "reading": "セイナン",
-        "meaning": "south-west"
+        "meaning": "south-west |(vi) tây nam"
       },
       {
         "example": "南",
         "reading": "ナン",
-        "meaning": "south wind tile, winning hand with a pung (or kong) of south wind tiles"
+        "meaning": "south wind tile, winning hand with a pung (or kong) of south wind tiles |(vi) quân bài gió nam, ván thắng có bộ ba (hoặc bộ tứ) quân gió nam (mạt chược)"
       },
       {
         "example": "南海",
         "reading": "ナンカイ",
-        "meaning": "southern sea"
+        "meaning": "southern sea |(vi) biển nam"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "南",
         "reading": "みなみ",
-        "meaning": "south"
+        "meaning": "south |(vi) phía nam"
       },
       {
         "example": "南アフリカ",
         "reading": "みなみアフリカ",
-        "meaning": "South Africa"
+        "meaning": "South Africa |(vi) Nam Phi"
       },
       {
         "example": "東南",
         "reading": "とうなん",
-        "meaning": "south-east"
+        "meaning": "south-east |(vi) đông nam"
       },
       {
         "example": "西南",
         "reading": "せいなん",
-        "meaning": "south-west"
+        "meaning": "south-west |(vi) tây nam"
       }
     ],
     "radical": {
       "symbol": "十",
-      "meaning": "ten, complete"
+      "meaning": "ten, complete |(vi) Thập (mười, trọn vẹn)"
     },
     "parts": [
       "冂",

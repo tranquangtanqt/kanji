@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "farming, agriculture",
+    "meaning": "farming, agriculture |(vi) nghề nông, nông nghiệp",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "農民（のうみん）",
         "meaning": {
-          "english": "farmers"
+          "english": "farmers |(vi) nông dân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nou(gyou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "農業（のうぎょう）",
         "meaning": {
-          "english": "agriculture"
+          "english": "agriculture |(vi) nông nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nou(gyou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "農家（のうか）",
         "meaning": {
-          "english": "farm family"
+          "english": "farm family |(vi) nhà nông, hộ nông dân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nou(gyou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "農村（のうそん）",
         "meaning": {
-          "english": "farm village"
+          "english": "farm village |(vi) làng quê, nông thôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nou(gyou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "農場（のうじょう）",
         "meaning": {
-          "english": "farm [n.]"
+          "english": "farm [n.] |(vi) nông trại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nou(gyou)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "農協（のうきょう）",
         "meaning": {
-          "english": "agricultural cooperative"
+          "english": "agricultural cooperative |(vi) hợp tác xã nông nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nou(gyou)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "農作物（のうさくもつ）",
         "meaning": {
-          "english": "crops"
+          "english": "crops |(vi) nông sản, cây trồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nou(gyou)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "農産物（のうさんぶつ）",
         "meaning": {
-          "english": "agricultural produce"
+          "english": "agricultural produce |(vi) nông sản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nou(gyou)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "酪農（らくのう）",
         "meaning": {
-          "english": "dairy"
+          "english": "dairy |(vi) chăn nuôi bò sữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nou(gyou)_06_i.opus",
@@ -224,7 +224,7 @@
     "kanji": {
       "character": "農",
       "meaning": {
-        "english": "farming, agriculture"
+        "english": "farming, agriculture |(vi) nghề nông, nông nghiệp"
       },
       "strokes": {
         "count": 13,
@@ -288,7 +288,7 @@
         "romaji": "shinnotatsu"
       },
       "meaning": {
-        "english": "Fifth zodiac sign, 7–9 A.M."
+        "english": "Fifth zodiac sign, 7–9 A.M. |(vi) Thìn (chi thứ năm, giờ Thìn 7-9 giờ sáng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnotatsu0.svg",
@@ -309,7 +309,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "385",
     "strokeCount": 13,
-    "meaning": "agriculture, farmers",
+    "meaning": "agriculture, farmers |(vi) nông nghiệp, nông dân |(hv) Nông",
     "kunyomi": [],
     "onyomi": [
       "ノウ"
@@ -318,28 +318,28 @@
       {
         "example": "農",
         "reading": "ノウ",
-        "meaning": "farming, agriculture"
+        "meaning": "farming, agriculture |(vi) nghề nông, nông nghiệp"
       },
       {
         "example": "農園",
         "reading": "ノウエン",
-        "meaning": "farm, plantation"
+        "meaning": "farm, plantation |(vi) nông trại, đồn điền"
       },
       {
         "example": "酪農",
         "reading": "ラクノウ",
-        "meaning": "dairy farming"
+        "meaning": "dairy farming |(vi) chăn nuôi bò sữa"
       },
       {
         "example": "営農",
         "reading": "エイノウ",
-        "meaning": "farming, agriculture"
+        "meaning": "farming, agriculture |(vi) canh tác, làm nông nghiệp"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "辰",
-      "meaning": "morning"
+      "meaning": "morning |(vi) Thìn (buổi sáng sớm, chi thứ năm)"
     },
     "parts": [
       "一",

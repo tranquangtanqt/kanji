@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "futa, futatsu, futari",
-    "meaning": "two",
+    "meaning": "two |(vi) hai",
     "kstroke": 2,
     "examples": [
       {
         "japanese": "二時間（にじかん）",
         "meaning": {
-          "english": "two hours"
+          "english": "two hours |(vi) hai giờ (đồng hồ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/2_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "二月（にがつ）",
         "meaning": {
-          "english": "February"
+          "english": "February |(vi) tháng Hai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/2_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "二枚目（にまいめ）",
         "meaning": {
-          "english": "second (flat object)"
+          "english": "second (flat object) |(vi) thứ hai (vật phẳng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/2_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "二つ（ふたつ）",
         "meaning": {
-          "english": "two (pieces)"
+          "english": "two (pieces) |(vi) hai (cái)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/2_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "二人（ふたり）",
         "meaning": {
-          "english": "two people"
+          "english": "two people |(vi) hai người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/2_06_e.opus",
@@ -223,7 +223,7 @@
     "kanji": {
       "character": "二",
       "meaning": {
-        "english": "two"
+        "english": "two |(vi) hai"
       },
       "strokes": {
         "count": 2,
@@ -265,7 +265,7 @@
         "romaji": "ni"
       },
       "meaning": {
-        "english": "two"
+        "english": "two |(vi) Nhị (hai)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ni0.svg",
@@ -286,7 +286,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "9",
     "strokeCount": 2,
-    "meaning": "two, two radical (no. 7)",
+    "meaning": "two, two radical (no. 7) |(vi) hai, bộ hai (bộ số 7) |(hv) Nhị",
     "kunyomi": [
       "ふた",
       "ふた.つ",
@@ -300,74 +300,74 @@
       {
         "example": "二",
         "reading": "ニ",
-        "meaning": "two, 2"
+        "meaning": "two, 2 |(vi) hai, số 2"
       },
       {
         "example": "二院",
         "reading": "ニイン",
-        "meaning": "the two houses of legislature"
+        "meaning": "the two houses of legislature |(vi) lưỡng viện (hai viện lập pháp)"
       },
       {
         "example": "一二",
         "reading": "イチニ",
-        "meaning": "the first and second, a few"
+        "meaning": "the first and second, a few |(vi) thứ nhất và thứ hai, một vài"
       },
       {
         "example": "十二",
         "reading": "ジュウニ",
-        "meaning": "twelve, 12, queen"
+        "meaning": "twelve, 12, queen |(vi) mười hai, 12, quân bài Q (queen)"
       },
       {
         "example": "次男",
         "reading": "ジナン",
-        "meaning": "second son"
+        "meaning": "second son |(vi) con trai thứ hai"
       },
       {
         "example": "二黒",
         "reading": "ジコク",
-        "meaning": "second of nine traditional astrological signs (corresponding to Saturn and southwest)"
+        "meaning": "second of nine traditional astrological signs (corresponding to Saturn and southwest) |(vi) sao Nhị Hắc (một trong chín sao chiêm tinh truyền thống, ứng với sao Thổ và hướng tây nam)"
       },
       {
         "example": "不二",
         "reading": "フジ",
-        "meaning": "being two sides of the same coin, being the same (while appearing different), Very sincerely yours, peerless, unparalleled, unparallelled"
+        "meaning": "being two sides of the same coin, being the same (while appearing different), Very sincerely yours, peerless, unparalleled, unparallelled |(vi) hai mặt của cùng một vấn đề, thực chất là một (dù bề ngoài khác nhau), kính thư, vô song, không gì sánh bằng"
       },
       {
         "example": "唯一不二",
         "reading": "ユイイツフジ",
-        "meaning": "one and only, unique"
+        "meaning": "one and only, unique |(vi) duy nhất, độc nhất vô nhị"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "二",
         "reading": "に",
-        "meaning": "two, 2"
+        "meaning": "two, 2 |(vi) hai, số 2"
       },
       {
         "example": "二重",
         "reading": "にじゅう",
-        "meaning": "double, two-fold, two layers, duplex, diplo-, dipl-, double-edged eyelid, double eyelid, creased eyelid"
+        "meaning": "double, two-fold, two layers, duplex, diplo-, dipl-, double-edged eyelid, double eyelid, creased eyelid |(vi) gấp đôi, hai lớp, hai tầng, kép, mí mắt hai mí"
       },
       {
         "example": "二つ",
         "reading": "ふたつ",
-        "meaning": "two"
+        "meaning": "two |(vi) hai (cái)"
       },
       {
         "example": "二つ目",
         "reading": "ふたつめ",
-        "meaning": "second (in a series)"
+        "meaning": "second (in a series) |(vi) thứ hai (trong một chuỗi)"
       },
       {
         "example": "再び",
         "reading": "ふたたび",
-        "meaning": "again, once more, a second time"
+        "meaning": "again, once more, a second time |(vi) lại, một lần nữa, lần thứ hai"
       }
     ],
     "radical": {
       "symbol": "二",
-      "meaning": "two"
+      "meaning": "two |(vi) Nhị (hai)"
     },
     "parts": [
       "二"

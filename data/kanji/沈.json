@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "shizu, shizumu, shizumeru",
-    "meaning": "sink",
+    "meaning": "sink |(vi) chìm",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "沈着冷静な（ちんちゃくれいせいな）",
         "meaning": {
-          "english": "calm, composed, cool"
+          "english": "calm, composed, cool |(vi) bình tĩnh, điềm đạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "沈黙する（ちんもくする）",
         "meaning": {
-          "english": "be silent"
+          "english": "be silent |(vi) im lặng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "沈没する（ちんぼつする）",
         "meaning": {
-          "english": "sink, founder, go to the bottom"
+          "english": "sink, founder, go to the bottom |(vi) chìm, đắm, chìm xuống đáy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "沈下する（ちんかする）",
         "meaning": {
-          "english": "sink, subside"
+          "english": "sink, subside |(vi) lún, sụt xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "沈滞する（ちんたいする）",
         "meaning": {
-          "english": "stagnate, be inactive"
+          "english": "stagnate, be inactive |(vi) trì trệ, đình trệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(mu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "沈静する（ちんせいする）",
         "meaning": {
-          "english": "die down, settle down"
+          "english": "die down, settle down |(vi) lắng xuống, ổn định lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(mu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "沈思黙考する（ちんしもっこうする）",
         "meaning": {
-          "english": "be sunk in deep thought"
+          "english": "be sunk in deep thought |(vi) trầm tư mặc tưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(mu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "沈む（しずむ）",
         "meaning": {
-          "english": "sink, feel depressed [v.i.]"
+          "english": "sink, feel depressed [v.i.] |(vi) chìm, cảm thấy chán nản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(mu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "沈める（しずめる）",
         "meaning": {
-          "english": "sink, submerge [v.t.]"
+          "english": "sink, submerge [v.t.] |(vi) làm chìm, nhấn chìm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(mu)_06_i.opus",
@@ -195,7 +195,7 @@
     "kanji": {
       "character": "沈",
       "meaning": {
-        "english": "sink"
+        "english": "sink |(vi) chìm"
       },
       "strokes": {
         "count": 7,
@@ -247,7 +247,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -268,7 +268,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1271",
     "strokeCount": 7,
-    "meaning": "sink, be submerged, subside, be depressed, aloes",
+    "meaning": "sink, be submerged, subside, be depressed, aloes |(vi) chìm, bị nhấn chìm, lún xuống, chán nản, trầm hương |(hv) Trầm",
     "kunyomi": [
       "しず.む",
       "しず.める"
@@ -281,49 +281,49 @@
       {
         "example": "沈着",
         "reading": "チンチャク",
-        "meaning": "composure, calmness, self-possession, presence of mind, depositing (at the bottom), deposition, accumulation, adherence"
+        "meaning": "composure, calmness, self-possession, presence of mind, depositing (at the bottom), deposition, accumulation, adherence |(vi) sự điềm tĩnh, bình tĩnh, tự chủ, sự lắng đọng (ở đáy), lắng cặn, tích tụ, bám dính"
       },
       {
         "example": "沈下",
         "reading": "チンカ",
-        "meaning": "sinking, subsidence"
+        "meaning": "sinking, subsidence |(vi) sự chìm, sự lún"
       },
       {
         "example": "浮沈",
         "reading": "フチン",
-        "meaning": "floating and sinking, rise and fall, ebb and flow, ups and downs"
+        "meaning": "floating and sinking, rise and fall, ebb and flow, ups and downs |(vi) nổi và chìm, thăng trầm, lên xuống"
       },
       {
         "example": "撃沈",
         "reading": "ゲキチン",
-        "meaning": "(attacking and) sinking (a ship), sending (a ship) to the bottom"
+        "meaning": "(attacking and) sinking (a ship), sending (a ship) to the bottom |(vi) đánh chìm (tàu)"
       },
       {
         "example": "沈香",
         "reading": "ジンコウ",
-        "meaning": "agarwood, aloeswood, gharuwood, eaglewood, agalloch, agallochum, aquilaria tree, lign aloes"
+        "meaning": "agarwood, aloeswood, gharuwood, eaglewood, agalloch, agallochum, aquilaria tree, lign aloes |(vi) trầm hương, kỳ nam"
       },
       {
         "example": "沈香も焚かず屁も放らず",
         "reading": "ジンコウモタカズヘモヒラズ",
-        "meaning": "having few faults as well as few virtues, not burning agarwood (incense); not passing wind"
+        "meaning": "having few faults as well as few virtues, not burning agarwood (incense); not passing wind |(vi) ít lỗi mà cũng ít đức, không đốt trầm hương mà cũng không đánh rắm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "沈む",
         "reading": "しずむ",
-        "meaning": "to sink, to go under, to submerge, to go down (e.g. sun), to set, to descend, to feel depressed, to become subdued, to become somber"
+        "meaning": "to sink, to go under, to submerge, to go down (e.g. sun), to set, to descend, to feel depressed, to become subdued, to become somber |(vi) chìm, chìm xuống, lặn xuống, lặn (mặt trời), hạ xuống, cảm thấy chán nản, trở nên trầm lắng, trở nên u ám"
       },
       {
         "example": "沈む瀬あれば浮かぶ瀬あり",
         "reading": "しずむせあればうかぶせあり",
-        "meaning": "life has its ups and downs, he who falls today may rise tomorrow"
+        "meaning": "life has its ups and downs, he who falls today may rise tomorrow |(vi) đời có lúc thăng lúc trầm, hôm nay ngã mai có thể đứng dậy"
       },
       {
         "example": "沈める",
         "reading": "しずめる",
-        "meaning": "to sink (e.g. a ship), to submerge, to lower (e.g. one's body into a chair), to floor (an opponent)"
+        "meaning": "to sink (e.g. a ship), to submerge, to lower (e.g. one's body into a chair), to floor (an opponent) |(vi) làm chìm (tàu), nhấn chìm, hạ (cơ thể xuống ghế), quật ngã (đối thủ)"
       }
     ],
     "radical": {
@@ -332,7 +332,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "冖",

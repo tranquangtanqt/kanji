@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "u, uru",
-    "meaning": "sell",
+    "meaning": "sell |(vi) bán",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "売買する（ばいばいする）",
         "meaning": {
-          "english": "trade"
+          "english": "trade |(vi) mua bán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "商売する（しょうばいする）",
         "meaning": {
-          "english": "do business"
+          "english": "do business |(vi) kinh doanh, buôn bán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "発売する（はつばいする）",
         "meaning": {
-          "english": "put a product on the market"
+          "english": "put a product on the market |(vi) tung ra thị trường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "売店（ばいてん）",
         "meaning": {
-          "english": "shop, kiosk"
+          "english": "shop, kiosk |(vi) cửa hàng, quầy hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "売る（うる）",
         "meaning": {
-          "english": "sell"
+          "english": "sell |(vi) bán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "売り切れ（うりきれ）",
         "meaning": {
-          "english": "sold-out"
+          "english": "sold-out |(vi) bán hết hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "売り場（うりば）",
         "meaning": {
-          "english": "sales floor"
+          "english": "sales floor |(vi) khu bán hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_g.opus",
@@ -246,7 +246,7 @@
     "kanji": {
       "character": "売",
       "meaning": {
-        "english": "sell"
+        "english": "sell |(vi) bán"
       },
       "strokes": {
         "count": 7,
@@ -298,7 +298,7 @@
         "romaji": "samuraikanmuri"
       },
       "meaning": {
-        "english": "man, scholar, samurai"
+        "english": "man, scholar, samurai |(vi) Sĩ (học giả, kẻ sĩ, samurai)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/samuraikanmuri0.svg",
@@ -319,7 +319,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "202",
     "strokeCount": 7,
-    "meaning": "sell",
+    "meaning": "sell |(vi) bán |(hv) Mại",
     "kunyomi": [
       "う.る",
       "う.れる"
@@ -331,44 +331,44 @@
       {
         "example": "売春",
         "reading": "バイシュン",
-        "meaning": "prostitution"
+        "meaning": "prostitution |(vi) mại dâm"
       },
       {
         "example": "売却",
         "reading": "バイキャク",
-        "meaning": "selling off, disposal by sale, sale"
+        "meaning": "selling off, disposal by sale, sale |(vi) bán tháo, thanh lý, bán đi"
       },
       {
         "example": "乱売",
         "reading": "ランバイ",
-        "meaning": "selling at a fire-sale price, clearance sale, dumping"
+        "meaning": "selling at a fire-sale price, clearance sale, dumping |(vi) bán phá giá, bán tống bán tháo"
       },
       {
         "example": "転売",
         "reading": "テンバイ",
-        "meaning": "resale"
+        "meaning": "resale |(vi) bán lại"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "売る",
         "reading": "うる",
-        "meaning": "to sell, to betray, to sell out (one's friend, country, etc.), to make (oneself) known, to establish (a reputation) for oneself, to pick (a fight, quarrel, etc.), to provoke, to force on someone"
+        "meaning": "to sell, to betray, to sell out (one's friend, country, etc.), to make (oneself) known, to establish (a reputation) for oneself, to pick (a fight, quarrel, etc.), to provoke, to force on someone |(vi) bán, phản bội, bán đứng (bạn bè, đất nước...), tự khẳng định mình, gây dựng danh tiếng, gây (chuyện cãi vã), khiêu khích, ép buộc ai đó"
       },
       {
         "example": "売るほど",
         "reading": "うるほど",
-        "meaning": "so many (that one would want to sell some), more than enough, lots, plenty"
+        "meaning": "so many (that one would want to sell some), more than enough, lots, plenty |(vi) nhiều đến mức muốn đem bán bớt, thừa thãi, rất nhiều"
       },
       {
         "example": "売れる",
         "reading": "うれる",
-        "meaning": "to sell (well), to be well known, to be popular, to be famous"
+        "meaning": "to sell (well), to be well known, to be popular, to be famous |(vi) bán chạy, được biết đến nhiều, nổi tiếng"
       }
     ],
     "radical": {
       "symbol": "士",
-      "meaning": "scholar, bachelor"
+      "meaning": "scholar, bachelor |(vi) Sĩ (học giả, kẻ sĩ)"
     },
     "parts": [
       "儿",

@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "virtue",
+    "meaning": "virtue |(vi) đức, đạo đức",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "徳（とく）",
         "meaning": {
-          "english": "virtue, goodness"
+          "english": "virtue, goodness |(vi) đức, lòng tốt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)toku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "道徳（どうとく）",
         "meaning": {
-          "english": "morals"
+          "english": "morals |(vi) đạo đức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)toku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "人徳（じんとく）",
         "meaning": {
-          "english": "natural virtue, personal virtue"
+          "english": "natural virtue, personal virtue |(vi) đức tính tự nhiên, phẩm hạnh cá nhân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)toku_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "不徳（ふとく）",
         "meaning": {
-          "english": "immorality, depravity"
+          "english": "immorality, depravity |(vi) vô đạo đức, đồi bại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)toku_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "美徳（びとく）",
         "meaning": {
-          "english": "virtue"
+          "english": "virtue |(vi) mỹ đức, đức tính tốt đẹp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)toku_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "悪徳商法（あくとくしょうほう）",
         "meaning": {
-          "english": "corrupt business"
+          "english": "corrupt business |(vi) hoạt động kinh doanh gian lận, thương pháp phi đạo đức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)toku_06_f.opus",
@@ -166,7 +166,7 @@
     "kanji": {
       "character": "徳",
       "meaning": {
-        "english": "virtue"
+        "english": "virtue |(vi) đức, đạo đức"
       },
       "strokes": {
         "count": 14,
@@ -232,7 +232,7 @@
         "romaji": "gyouninben"
       },
       "meaning": {
-        "english": "step, stride, street, to go"
+        "english": "step, stride, street, to go |(vi) Xích (bước đi, đường đi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
@@ -253,7 +253,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1091",
     "strokeCount": 14,
-    "meaning": "benevolence, virtue, goodness, commanding respect",
+    "meaning": "benevolence, virtue, goodness, commanding respect |(vi) lòng nhân từ, đức hạnh, lòng tốt, uy tín đáng kính trọng |(hv) Đức",
     "kunyomi": [],
     "onyomi": [
       "トク"
@@ -262,28 +262,28 @@
       {
         "example": "徳",
         "reading": "トク",
-        "meaning": "virtue, benevolence, profit, benefit, advantage"
+        "meaning": "virtue, benevolence, profit, benefit, advantage |(vi) đức hạnh, nhân từ, lợi ích, mối lợi, lợi thế"
       },
       {
         "example": "徳義",
         "reading": "トクギ",
-        "meaning": "morals, morality, sincerity"
+        "meaning": "morals, morality, sincerity |(vi) đạo đức, luân lý, sự chân thành"
       },
       {
         "example": "高徳",
         "reading": "コウトク",
-        "meaning": "saintliness, great virtue, eminent virtue"
+        "meaning": "saintliness, great virtue, eminent virtue |(vi) đức độ cao cả, đại đức, đức hạnh lớn"
       },
       {
         "example": "大徳",
         "reading": "ダイトク",
-        "meaning": "great virtue, virtuous priest, priest, rich person"
+        "meaning": "great virtue, virtuous priest, priest, rich person |(vi) đại đức, cao tăng đức độ, nhà sư, người giàu có"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "彳",
-      "meaning": "step"
+      "meaning": "step |(vi) Xích (bước đi, đường đi)"
     },
     "parts": [
       "十",

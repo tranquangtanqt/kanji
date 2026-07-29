@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "thought, desire, attention",
+    "meaning": "thought, desire, attention |(vi) suy nghĩ, mong muốn, sự chú tâm",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "残念な（ざんねんな）",
         "meaning": {
-          "english": "unfortunate, disappointing"
+          "english": "unfortunate, disappointing |(vi) đáng tiếc, đáng thất vọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zan)nen_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "概念（がいねん）",
         "meaning": {
-          "english": "idea, notion"
+          "english": "idea, notion |(vi) khái niệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zan)nen_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "信念（しんねん）",
         "meaning": {
-          "english": "faith, conviction"
+          "english": "faith, conviction |(vi) niềm tin, tín niệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zan)nen_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "記念日（きねんび）",
         "meaning": {
-          "english": "anniversary"
+          "english": "anniversary |(vi) ngày kỷ niệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zan)nen_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "念願（ねんがん）",
         "meaning": {
-          "english": "one's heart's desire"
+          "english": "one's heart's desire |(vi) ước nguyện, điều mong ước tha thiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zan)nen_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "記念する（きねんする）",
         "meaning": {
-          "english": "commemorate"
+          "english": "commemorate |(vi) kỷ niệm, tưởng niệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zan)nen_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "専念する（せんねんする）",
         "meaning": {
-          "english": "devote oneself to [v.i.]"
+          "english": "devote oneself to [v.i.] |(vi) chuyên tâm, dốc lòng vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zan)nen_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "断念する（だんねんする）",
         "meaning": {
-          "english": "abandon (hope, plan)"
+          "english": "abandon (hope, plan) |(vi) từ bỏ (hy vọng, kế hoạch)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zan)nen_06_h.opus",
@@ -230,7 +230,7 @@
     "kanji": {
       "character": "念",
       "meaning": {
-        "english": "thought, desire, attention"
+        "english": "thought, desire, attention |(vi) suy nghĩ, mong muốn, sự chú tâm"
       },
       "strokes": {
         "count": 8,
@@ -284,7 +284,7 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (trái tim, tâm trí, tinh thần)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -305,7 +305,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "390",
     "strokeCount": 8,
-    "meaning": "wish, sense, idea, thought, feeling, desire, attention",
+    "meaning": "wish, sense, idea, thought, feeling, desire, attention |(vi) ước muốn, ý thức, ý niệm, suy nghĩ, cảm giác, mong muốn, sự chú tâm |(hv) Niệm",
     "kunyomi": [],
     "onyomi": [
       "ネン"
@@ -314,22 +314,22 @@
       {
         "example": "念",
         "reading": "ネン",
-        "meaning": "sense, idea, thought, feeling, desire, concern, attention, care"
+        "meaning": "sense, idea, thought, feeling, desire, concern, attention, care |(vi) ý niệm, suy nghĩ, cảm giác, mong muốn, quan tâm, chú ý, để tâm"
       },
       {
         "example": "念願",
         "reading": "ネンガン",
-        "meaning": "one's heart's desire, one's dearest wish"
+        "meaning": "one's heart's desire, one's dearest wish |(vi) ước nguyện, điều mong ước tha thiết"
       },
       {
         "example": "執念",
         "reading": "シュウネン",
-        "meaning": "tenacity, persistence, obsession, implacability"
+        "meaning": "tenacity, persistence, obsession, implacability |(vi) chấp niệm, cố chấp, ám ảnh dai dẳng"
       },
       {
         "example": "通念",
         "reading": "ツウネン",
-        "meaning": "common idea, common wisdom, generally accepted idea"
+        "meaning": "common idea, common wisdom, generally accepted idea |(vi) quan niệm chung, nhận thức phổ biến"
       }
     ],
     "kunyomiExamples": [],
@@ -339,7 +339,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim, tấm lòng)"
     },
     "parts": [
       "一",

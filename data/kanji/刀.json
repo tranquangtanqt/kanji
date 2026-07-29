@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "katana",
-    "meaning": "sword",
+    "meaning": "sword |(vi) thanh kiếm, dao",
     "kstroke": 2,
     "examples": [
       {
         "japanese": "刀剣（とうけん）",
         "meaning": {
-          "english": "swords"
+          "english": "swords |(vi) gươm kiếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katana_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "刀身（とうしん）",
         "meaning": {
-          "english": "sword blade"
+          "english": "sword blade |(vi) lưỡi kiếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katana_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "名刀（めいとう）",
         "meaning": {
-          "english": "famous sword, excellent sword"
+          "english": "famous sword, excellent sword |(vi) danh kiếm, kiếm quý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katana_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "短刀（たんとう）",
         "meaning": {
-          "english": "short sword, dagger, dirk"
+          "english": "short sword, dagger, dirk |(vi) đoản đao, dao găm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katana_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "日本刀（にほんとう）",
         "meaning": {
-          "english": "Japanese sword"
+          "english": "Japanese sword |(vi) kiếm Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katana_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "刀（かたな）",
         "meaning": {
-          "english": "sword, blade"
+          "english": "sword, blade |(vi) kiếm, lưỡi dao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katana_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "小刀（こがたな）",
         "meaning": {
-          "english": "small knife, short sword"
+          "english": "small knife, short sword |(vi) dao nhỏ, đoản đao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katana_06_g.opus",
@@ -177,7 +177,7 @@
     "kanji": {
       "character": "刀",
       "meaning": {
-        "english": "sword"
+        "english": "sword |(vi) thanh kiếm, dao"
       },
       "strokes": {
         "count": 2,
@@ -219,7 +219,7 @@
         "romaji": "katana"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, kiếm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/katana0.svg",
@@ -240,7 +240,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1794",
     "strokeCount": 2,
-    "meaning": "sword, saber, knife",
+    "meaning": "sword, saber, knife |(vi) kiếm, dao, đao |(hv) Đao",
     "kunyomi": [
       "かたな",
       "そり"
@@ -252,54 +252,54 @@
       {
         "example": "刀",
         "reading": "カタナ",
-        "meaning": "sword (esp. Japanese single-edged), katana, scalpel, chisel, burin, graver, knife money (knife-shaped commodity money used in ancient China)"
+        "meaning": "sword (esp. Japanese single-edged), katana, scalpel, chisel, burin, graver, knife money (knife-shaped commodity money used in ancient China) |(vi) kiếm Nhật (một lưỡi), dao mổ, đục, dao khắc, tiền dao (tiền hình dao cổ Trung Quốc)"
       },
       {
         "example": "刀剣",
         "reading": "トウケン",
-        "meaning": "sword, dagger, knife, bayonet"
+        "meaning": "sword, dagger, knife, bayonet |(vi) kiếm, dao găm, lưỡi lê"
       },
       {
         "example": "小刀",
         "reading": "コガタナ",
-        "meaning": "(small) knife, short sword, small sword"
+        "meaning": "(small) knife, short sword, small sword |(vi) dao nhỏ, đoản đao"
       },
       {
         "example": "大刀",
         "reading": "ダイトウ",
-        "meaning": "(Japanese) long sword, large sword, guandao, Chinese glaive"
+        "meaning": "(Japanese) long sword, large sword, guandao, Chinese glaive |(vi) trường kiếm (Nhật), đại đao, thanh long đao"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "刀",
         "reading": "かたな",
-        "meaning": "sword (esp. Japanese single-edged), katana, scalpel, chisel, burin, graver, knife money (knife-shaped commodity money used in ancient China)"
+        "meaning": "sword (esp. Japanese single-edged), katana, scalpel, chisel, burin, graver, knife money (knife-shaped commodity money used in ancient China) |(vi) kiếm Nhật (một lưỡi), dao mổ, đục, dao khắc, tiền dao cổ"
       },
       {
         "example": "刀折れ矢尽きて",
         "reading": "かたなおれやつきて",
-        "meaning": "having exhausted every available means, having broken one's sword and exhausted one's arrows"
+        "meaning": "having exhausted every available means, having broken one's sword and exhausted one's arrows |(vi) đã dùng hết mọi cách, gươm gãy tên hết"
       },
       {
         "example": "一刀",
         "reading": "いっとう",
-        "meaning": "sword, blade, single stroke"
+        "meaning": "sword, blade, single stroke |(vi) kiếm, lưỡi dao, một nhát chém"
       },
       {
         "example": "返す刀",
         "reading": "かえすかたな",
-        "meaning": "attacking one opponent then immediately attacking another"
+        "meaning": "attacking one opponent then immediately attacking another |(vi) đánh đối thủ này rồi lập tức quay sang đánh đối thủ khác"
       },
       {
         "example": "剃刀",
         "reading": "かみそり",
-        "meaning": "razor"
+        "meaning": "razor |(vi) dao cạo râu"
       },
       {
         "example": "オッカムの剃刀",
         "reading": "オッカムのかみそり",
-        "meaning": "Occam's razor, Ockham's razor"
+        "meaning": "Occam's razor, Ockham's razor |(vi) dao cạo Occam (nguyên lý Occam)"
       }
     ],
     "radical": {
@@ -307,7 +307,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "刀"

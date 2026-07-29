@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 5,
     "kunyomi": "yu",
-    "meaning": "hot water",
+    "meaning": "hot water |(vi) nước nóng",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "湯治（とうじ）",
         "meaning": {
-          "english": "hot spring cure"
+          "english": "hot spring cure |(vi) chữa bệnh bằng suối nước nóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(o)yu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "熱湯（ねっとう）",
         "meaning": {
-          "english": "boiling water"
+          "english": "boiling water |(vi) nước sôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(o)yu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "給湯（きゅうとう）",
         "meaning": {
-          "english": "hot-water supply"
+          "english": "hot-water supply |(vi) cấp nước nóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(o)yu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "銭湯（せんとう）",
         "meaning": {
-          "english": "bath-house, public bath"
+          "english": "bath-house, public bath |(vi) nhà tắm công cộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(o)yu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "湯（ゆ）",
         "meaning": {
-          "english": "hot water"
+          "english": "hot water |(vi) nước nóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(o)yu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "湯気（ゆげ）",
         "meaning": {
-          "english": "steam, vapor [n.]"
+          "english": "steam, vapor [n.] |(vi) hơi nước, hơi nóng bốc lên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(o)yu_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "湯飲み（ゆのみ）",
         "meaning": {
-          "english": "teacup (for green tea)"
+          "english": "teacup (for green tea) |(vi) chén uống trà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(o)yu_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "湯船（ゆぶね）",
         "meaning": {
-          "english": "bathtub"
+          "english": "bathtub |(vi) bồn tắm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(o)yu_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "茶の湯（ちゃのゆ）",
         "meaning": {
-          "english": "tea ceremony"
+          "english": "tea ceremony |(vi) trà đạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(o)yu_06_i.opus",
@@ -214,7 +214,7 @@
     "kanji": {
       "character": "湯",
       "meaning": {
-        "english": "hot water"
+        "english": "hot water |(vi) nước nóng"
       },
       "strokes": {
         "count": 12,
@@ -276,7 +276,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -297,7 +297,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1356",
     "strokeCount": 12,
-    "meaning": "hot water, bath, hot spring",
+    "meaning": "hot water, bath, hot spring |(vi) nước nóng, tắm, suối nước nóng |(hv) Thang",
     "kunyomi": [
       "ゆ"
     ],
@@ -308,44 +308,44 @@
       {
         "example": "湯治",
         "reading": "トウジ",
-        "meaning": "hot-spring cure, taking the baths"
+        "meaning": "hot-spring cure, taking the baths |(vi) chữa bệnh bằng suối nước nóng, tắm suối khoáng"
       },
       {
         "example": "湯液",
         "reading": "トウエキ",
-        "meaning": "decoction (in Chinese medicine)"
+        "meaning": "decoction (in Chinese medicine) |(vi) thang thuốc sắc (trong Đông y)"
       },
       {
         "example": "銭湯",
         "reading": "セントウ",
-        "meaning": "public bath, bathhouse"
+        "meaning": "public bath, bathhouse |(vi) nhà tắm công cộng"
       },
       {
         "example": "給湯",
         "reading": "キュウトウ",
-        "meaning": "hot-water supply"
+        "meaning": "hot-water supply |(vi) cấp nước nóng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "湯",
         "reading": "ゆ",
-        "meaning": "hot water, hot bath, hot spring, molten iron"
+        "meaning": "hot water, hot bath, hot spring, molten iron |(vi) nước nóng, bồn tắm nước nóng, suối nước nóng, kim loại nóng chảy"
       },
       {
         "example": "湯気",
         "reading": "ゆげ",
-        "meaning": "steam, vapour, vapor"
+        "meaning": "steam, vapour, vapor |(vi) hơi nước, hơi nóng bốc lên"
       },
       {
         "example": "茶の湯",
         "reading": "ちゃのゆ",
-        "meaning": "tea ceremony, chanoyu"
+        "meaning": "tea ceremony, chanoyu |(vi) trà đạo"
       },
       {
         "example": "もらい湯",
         "reading": "もらいゆ",
-        "meaning": "taking a bath in another's home"
+        "meaning": "taking a bath in another's home |(vi) được tắm nhờ ở nhà người khác"
       }
     ],
     "radical": {
@@ -354,7 +354,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "一",

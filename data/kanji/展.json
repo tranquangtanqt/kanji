@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 4,
     "kunyomi": "n/a",
-    "meaning": "unfold, display, expand",
+    "meaning": "unfold, display, expand |(vi) mở ra, trưng bày, mở rộng",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "展覧会（てんらんかい）",
         "meaning": {
-          "english": "exhibition"
+          "english": "exhibition |(vi) triển lãm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(jisuru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "展望（てんぼう）",
         "meaning": {
-          "english": "view, outlook"
+          "english": "view, outlook |(vi) tầm nhìn, triển vọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(jisuru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "個展（こてん）",
         "meaning": {
-          "english": "one person exhibition"
+          "english": "one person exhibition |(vi) triển lãm cá nhân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(jisuru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "展開する（てんかいする）",
         "meaning": {
-          "english": "develop"
+          "english": "develop |(vi) triển khai, phát triển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(jisuru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "展示する（てんじする）",
         "meaning": {
-          "english": "exhibit, display"
+          "english": "exhibit, display |(vi) trưng bày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(jisuru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "発展する（はってんする）",
         "meaning": {
-          "english": "develop, grow"
+          "english": "develop, grow |(vi) phát triển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(jisuru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "進展する（しんてんする）",
         "meaning": {
-          "english": "progress [v.i.]"
+          "english": "progress [v.i.] |(vi) tiến triển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(jisuru)_06_g.opus",
@@ -203,7 +203,7 @@
     "kanji": {
       "character": "展",
       "meaning": {
-        "english": "unfold, display, expand"
+        "english": "unfold, display, expand |(vi) mở ra, trưng bày, mở rộng"
       },
       "strokes": {
         "count": 10,
@@ -261,7 +261,7 @@
         "romaji": "shikabane"
       },
       "meaning": {
-        "english": "corpse, awning"
+        "english": "corpse, awning |(vi) Thi (xác chết, mái che)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shikabane0.svg",
@@ -282,7 +282,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "352",
     "strokeCount": 10,
-    "meaning": "unfold, expand",
+    "meaning": "unfold, expand |(vi) mở ra, mở rộng |(hv) Triển",
     "kunyomi": [],
     "onyomi": [
       "テン"
@@ -291,28 +291,28 @@
       {
         "example": "展",
         "reading": "テン",
-        "meaning": "exhibition, exhibit"
+        "meaning": "exhibition, exhibit |(vi) triển lãm, vật trưng bày"
       },
       {
         "example": "展開",
         "reading": "テンカイ",
-        "meaning": "development, evolution, progression, unfolding, (plot) twist, expansion, spreading out, extending, deployment, building up, expansion (of an algebraic expression), development (of a three-dimensional shape), extraction (of compressed data), decompression, unpacking, sharing (information)"
+        "meaning": "development, evolution, progression, unfolding, (plot) twist, expansion, spreading out, extending, deployment, building up, expansion (of an algebraic expression), development (of a three-dimensional shape), extraction (of compressed data), decompression, unpacking, sharing (information) |(vi) sự phát triển, sự tiến hóa, sự tiến triển, sự mở ra, tình tiết (bất ngờ), sự mở rộng, sự trải rộng, sự triển khai, sự bố trí, sự xây dựng, khai triển (biểu thức đại số), khai triển (hình khối ba chiều), giải nén (dữ liệu), chia sẻ (thông tin)"
       },
       {
         "example": "個展",
         "reading": "コテン",
-        "meaning": "solo exhibition, one-man exhibition, one-woman exhibition"
+        "meaning": "solo exhibition, one-man exhibition, one-woman exhibition |(vi) triển lãm cá nhân, triển lãm riêng"
       },
       {
         "example": "巡回展",
         "reading": "ジュンカイテン",
-        "meaning": "roadshow, touring exhibition, travelling exhibition"
+        "meaning": "roadshow, touring exhibition, travelling exhibition |(vi) triển lãm lưu động, triển lãm đi tour"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "尸",
-      "meaning": "corpse"
+      "meaning": "corpse |(vi) Thi (xác chết)"
     },
     "parts": [
       "一",

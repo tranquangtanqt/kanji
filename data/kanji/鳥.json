@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "tori",
-    "meaning": "bird, fowl, poultry",
+    "meaning": "bird, fowl, poultry |(vi) chim, gia cầm",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "鳥類（ちょうるい）",
         "meaning": {
-          "english": "birds, avian"
+          "english": "birds, avian |(vi) loài chim, thuộc về chim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "野鳥（やちょう）",
         "meaning": {
-          "english": "wild bird"
+          "english": "wild bird |(vi) chim hoang dã"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "白鳥（はくちょう）",
         "meaning": {
-          "english": "swan"
+          "english": "swan |(vi) thiên nga"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "益鳥（えきちょう）",
         "meaning": {
-          "english": "beneficial bird"
+          "english": "beneficial bird |(vi) chim có ích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "一石二鳥（いっせきにちょう）",
         "meaning": {
-          "english": "killing two birds with one stone"
+          "english": "killing two birds with one stone |(vi) một mũi tên trúng hai đích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "七面鳥（しちめんちょう）",
         "meaning": {
-          "english": "turkey"
+          "english": "turkey |(vi) gà tây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "鳥（とり）",
         "meaning": {
-          "english": "bird, fowl, poultry"
+          "english": "bird, fowl, poultry |(vi) chim, gia cầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "鳥居（とりい）",
         "meaning": {
-          "english": "torii, gateway to a Shinto shrine"
+          "english": "torii, gateway to a Shinto shrine |(vi) cổng torii, cổng vào đền Thần đạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "鳥肉（とりにく）",
         "meaning": {
-          "english": "chicken meat"
+          "english": "chicken meat |(vi) thịt gà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "渡り鳥（わたりどり）",
         "meaning": {
-          "english": "migratory bird, bird of passage"
+          "english": "migratory bird, bird of passage |(vi) chim di cư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_j.opus",
@@ -266,7 +266,7 @@
     "kanji": {
       "character": "鳥",
       "meaning": {
-        "english": "bird, fowl, poultry"
+        "english": "bird, fowl, poultry |(vi) chim, gia cầm"
       },
       "strokes": {
         "count": 11,
@@ -326,7 +326,7 @@
         "romaji": "tori"
       },
       "meaning": {
-        "english": "bird"
+        "english": "bird |(vi) Điểu (chim)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tori0.svg",
@@ -347,7 +347,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1043",
     "strokeCount": 11,
-    "meaning": "bird, chicken",
+    "meaning": "bird, chicken |(vi) chim, gà |(hv) Điểu",
     "kunyomi": [
       "とり"
     ],
@@ -358,49 +358,49 @@
       {
         "example": "鶏肉",
         "reading": "トリニク",
-        "meaning": "chicken meat, fowl, poultry, bird meat"
+        "meaning": "chicken meat, fowl, poultry, bird meat |(vi) thịt gà, gia cầm, thịt chim"
       },
       {
         "example": "鳥獣",
         "reading": "チョウジュウ",
-        "meaning": "birds and wild animals, wildlife"
+        "meaning": "birds and wild animals, wildlife |(vi) chim muông, động vật hoang dã"
       },
       {
         "example": "海鳥",
         "reading": "ウミドリ",
-        "meaning": "sea bird"
+        "meaning": "sea bird |(vi) chim biển"
       },
       {
         "example": "愛鳥",
         "reading": "アイチョウ",
-        "meaning": "pet bird"
+        "meaning": "pet bird |(vi) chim cảnh, chim nuôi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鳥",
         "reading": "とり",
-        "meaning": "bird, bird meat (esp. chicken meat), fowl, poultry"
+        "meaning": "bird, bird meat (esp. chicken meat), fowl, poultry |(vi) chim, thịt chim (đặc biệt là thịt gà), gia cầm"
       },
       {
         "example": "鳥居",
         "reading": "とりい",
-        "meaning": "torii (Shinto shrine archway)"
+        "meaning": "torii (Shinto shrine archway) |(vi) cổng torii (cổng đền Thần đạo)"
       },
       {
         "example": "焼き鳥",
         "reading": "やきとり",
-        "meaning": "yakitori, chicken pieces (or sometimes beef or pork offal) grilled on a skewer, grilled and skewered bird (esp. sparrow), failing to win a single hand during a half-game"
+        "meaning": "yakitori, chicken pieces (or sometimes beef or pork offal) grilled on a skewer, grilled and skewered bird (esp. sparrow), failing to win a single hand during a half-game |(vi) yakitori, thịt gà nướng xiên (đôi khi là nội tạng bò hoặc heo), chim nướng xiên (đặc biệt là chim sẻ), thua trắng trong một ván chơi"
       },
       {
         "example": "花鶏",
         "reading": "あとり",
-        "meaning": "brambling (bird) (Fringilla montifringilla)"
+        "meaning": "brambling (bird) (Fringilla montifringilla) |(vi) chim sẻ núi (Fringilla montifringilla)"
       }
     ],
     "radical": {
       "symbol": "鳥",
-      "meaning": "bird"
+      "meaning": "bird |(vi) Điểu (chim)"
     },
     "parts": [
       "杰",

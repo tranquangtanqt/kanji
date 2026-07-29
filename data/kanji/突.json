@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "tsu, tsuku",
-    "meaning": "dash, thrust, poke, strike",
+    "meaning": "dash, thrust, poke, strike |(vi) lao tới, đâm, chọc, húc",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "突然（とつぜん）",
         "meaning": {
-          "english": "suddenly"
+          "english": "suddenly |(vi) đột nhiên, bất ngờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/totsu-tsu(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "煙突（えんとつ）",
         "meaning": {
-          "english": "chimney"
+          "english": "chimney |(vi) ống khói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/totsu-tsu(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "突撃する（とつげきする）",
         "meaning": {
-          "english": "charge, rush at"
+          "english": "charge, rush at |(vi) xung phong, xông vào tấn công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/totsu-tsu(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "突入する（とつにゅうする）",
         "meaning": {
-          "english": "rush into"
+          "english": "rush into |(vi) xông vào, lao vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/totsu-tsu(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "突進する（とっしんする）",
         "meaning": {
-          "english": "rush, charge"
+          "english": "rush, charge |(vi) lao tới, xông tới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/totsu-tsu(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "突破する（とっぱする）",
         "meaning": {
-          "english": "break through"
+          "english": "break through |(vi) đột phá, phá vỡ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/totsu-tsu(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "衝突する（しょうとつする）",
         "meaning": {
-          "english": "collide"
+          "english": "collide |(vi) va chạm, đụng độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/totsu-tsu(ku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "追突する（ついとつする）",
         "meaning": {
-          "english": "collide (from behind)"
+          "english": "collide (from behind) |(vi) đâm từ phía sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/totsu-tsu(ku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "突飛な（とっぴな）",
         "meaning": {
-          "english": "wild, extraordinary"
+          "english": "wild, extraordinary |(vi) kỳ quặc, khác thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/totsu-tsu(ku)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "突く（つく）",
         "meaning": {
-          "english": "poke, nudge"
+          "english": "poke, nudge |(vi) chọc, thúc nhẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/totsu-tsu(ku)_06_j.opus",
@@ -226,7 +226,7 @@
     "kanji": {
       "character": "突",
       "meaning": {
-        "english": "dash, thrust, poke, strike"
+        "english": "dash, thrust, poke, strike |(vi) lao tới, đâm, chọc, húc"
       },
       "strokes": {
         "count": 8,
@@ -280,7 +280,7 @@
         "romaji": "anakanmuri"
       },
       "meaning": {
-        "english": "hole, cave"
+        "english": "hole, cave |(vi) Huyệt (hang, lỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/anakanmuri0.svg",
@@ -301,7 +301,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "521",
     "strokeCount": 8,
-    "meaning": "stab, protruding, thrust, pierce, prick, collision, sudden",
+    "meaning": "stab, protruding, thrust, pierce, prick, collision, sudden |(vi) đâm, nhô ra, đẩy mạnh, xuyên qua, chọc thủng, va chạm, đột ngột |(hv) Đột",
     "kunyomi": [
       "つ.く"
     ],
@@ -313,49 +313,49 @@
       {
         "example": "突入",
         "reading": "トツニュウ",
-        "meaning": "rushing into, breaking into, storming, plunging into (war, etc.), embarking on (a new venture)"
+        "meaning": "rushing into, breaking into, storming, plunging into (war, etc.), embarking on (a new venture) |(vi) xông vào, lao vào, đột kích, lao vào (chiến tranh...), bắt tay vào (việc mới)"
       },
       {
         "example": "突然",
         "reading": "トツゼン",
-        "meaning": "abrupt, sudden, unexpected"
+        "meaning": "abrupt, sudden, unexpected |(vi) đột ngột, bất ngờ, thình lình"
       },
       {
         "example": "強制衝突",
         "reading": "キョウセイショウトツ",
-        "meaning": "collision enforcement"
+        "meaning": "collision enforcement |(vi) va chạm cưỡng bức"
       },
       {
         "example": "非弾性衝突",
         "reading": "ヒダンセイショウトツ",
-        "meaning": "inelastic collision"
+        "meaning": "inelastic collision |(vi) va chạm không đàn hồi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "突く",
         "reading": "つく",
-        "meaning": "to prick, to stab, to poke, to prod, to push, to thrust, to nudge, to hit, to strike, to use (a cane), to prop oneself up with, to press against (the floor, etc.), to attack, to brave (the rain, etc.)"
+        "meaning": "to prick, to stab, to poke, to prod, to push, to thrust, to nudge, to hit, to strike, to use (a cane), to prop oneself up with, to press against (the floor, etc.), to attack, to brave (the rain, etc.) |(vi) chọc, đâm, thúc, đẩy, húc, va, đánh, dùng (gậy) chống, tựa vào, ấn vào (sàn...), tấn công, bất chấp (mưa gió...)"
       },
       {
         "example": "突棒",
         "reading": "つくぼう",
-        "meaning": "barbed T-shaped weapon for catching thieves (Edo period)"
+        "meaning": "barbed T-shaped weapon for catching thieves (Edo period) |(vi) vũ khí hình chữ T có gai để bắt trộm (thời Edo)"
       },
       {
         "example": "麦突",
         "reading": "むぎつく",
-        "meaning": "Pungtungia herzi (species of cyprinid)"
+        "meaning": "Pungtungia herzi (species of cyprinid) |(vi) một loài cá chép nhỏ (Pungtungia herzi)"
       },
       {
         "example": "剣突く",
         "reading": "けんつく",
-        "meaning": "rough scolding, upbraiding, tongue-lashing, dressing-down"
+        "meaning": "rough scolding, upbraiding, tongue-lashing, dressing-down |(vi) mắng mỏ nặng lời, quở trách gay gắt"
       }
     ],
     "radical": {
       "symbol": "穴",
-      "meaning": "cave"
+      "meaning": "cave |(vi) Huyệt (hang, lỗ)"
     },
     "parts": [
       "儿",

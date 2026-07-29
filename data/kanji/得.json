@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "eru, uru, e, u",
-    "meaning": "acquire, gain, profit",
+    "meaning": "acquire, gain, profit |(vi) đạt được, thu được, có lợi",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "得な（とくな）",
         "meaning": {
-          "english": "profitable, economical"
+          "english": "profitable, economical |(vi) có lợi, tiết kiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku-e(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "得意な（とくいな）",
         "meaning": {
-          "english": "be good at"
+          "english": "be good at |(vi) giỏi về, sở trường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku-e(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "お得意さん（おとくいさん）",
         "meaning": {
-          "english": "customer"
+          "english": "customer |(vi) khách quen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku-e(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "所得（しょとく）",
         "meaning": {
-          "english": "income"
+          "english": "income |(vi) thu nhập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku-e(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "損得（そんとく）",
         "meaning": {
-          "english": "loss and gain"
+          "english": "loss and gain |(vi) lỗ lãi, được mất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku-e(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "納得する（なっとくする）",
         "meaning": {
-          "english": "convince oneself, consent"
+          "english": "convince oneself, consent |(vi) tự thuyết phục, đồng ý, hiểu ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku-e(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "説得する（せっとくする）",
         "meaning": {
-          "english": "persuade"
+          "english": "persuade |(vi) thuyết phục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku-e(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "習得する（しゅうとくする）",
         "meaning": {
-          "english": "learn, master"
+          "english": "learn, master |(vi) học được, thành thạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku-e(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "獲得する（かくとくする）",
         "meaning": {
-          "english": "obtain, acquire"
+          "english": "obtain, acquire |(vi) giành được, đạt được"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku-e(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "得る（える/うる）",
         "meaning": {
-          "english": "obtain, acquire"
+          "english": "obtain, acquire |(vi) đạt được, thu được"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku-e(ru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "得難い（えがたい）",
         "meaning": {
-          "english": "hard to get"
+          "english": "hard to get |(vi) khó có được, hiếm có"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku-e(ru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "止むを得ない（やむをえない）",
         "meaning": {
-          "english": "unavoidable, inevitable"
+          "english": "unavoidable, inevitable |(vi) không thể tránh khỏi, bất đắc dĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku-e(ru)_06_l.opus",
@@ -285,7 +285,7 @@
     "kanji": {
       "character": "得",
       "meaning": {
-        "english": "acquire, gain, profit"
+        "english": "acquire, gain, profit |(vi) đạt được, thu được, có lợi"
       },
       "strokes": {
         "count": 11,
@@ -345,7 +345,7 @@
         "romaji": "gyouninben"
       },
       "meaning": {
-        "english": "step, stride, street, to go"
+        "english": "step, stride, street, to go |(vi) Xích (bước đi, đường đi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
@@ -366,7 +366,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "175",
     "strokeCount": 11,
-    "meaning": "gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit",
+    "meaning": "gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit |(vi) đạt được, có, tìm thấy, kiếm được, thu được, có thể, được phép, có khả năng, lợi ích, lợi thế, ích lợi |(hv) Đắc",
     "kunyomi": [
       "え.る",
       "う.る"
@@ -378,44 +378,44 @@
       {
         "example": "得",
         "reading": "トク",
-        "meaning": "profit, advantage, benefit, gain, rebirth in paradise, entering nirvana"
+        "meaning": "profit, advantage, benefit, gain, rebirth in paradise, entering nirvana |(vi) lợi ích, lợi thế, ích lợi, thu được, tái sinh nơi cực lạc, nhập niết bàn"
       },
       {
         "example": "得意",
         "reading": "トクイ",
-        "meaning": "satisfaction, pride, triumph, elation, one's strong point, one's forte, one's specialty, regular customer, regular client, patron"
+        "meaning": "satisfaction, pride, triumph, elation, one's strong point, one's forte, one's specialty, regular customer, regular client, patron |(vi) sự mãn nguyện, tự hào, đắc thắng, hân hoan, sở trường, thế mạnh, chuyên môn, khách quen, khách hàng thân thiết"
       },
       {
         "example": "拾得",
         "reading": "シュウトク",
-        "meaning": "finding (lost property), picking up"
+        "meaning": "finding (lost property), picking up |(vi) nhặt được (đồ thất lạc), lượm được"
       },
       {
         "example": "体得",
         "reading": "タイトク",
-        "meaning": "mastery, learning through experience, realization, realisation, comprehension"
+        "meaning": "mastery, learning through experience, realization, realisation, comprehension |(vi) tinh thông qua trải nghiệm, thấu hiểu, nhận thức, lĩnh hội"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "得る",
         "reading": "える",
-        "meaning": "to get, to earn, to acquire, to procure, to gain, to secure, to attain, to obtain, to win, to understand, to comprehend, to receive something undesirable (e.g. a punishment), to get (ill), to be able to ..., can ..."
+        "meaning": "to get, to earn, to acquire, to procure, to gain, to secure, to attain, to obtain, to win, to understand, to comprehend, to receive something undesirable (e.g. a punishment), to get (ill), to be able to ..., can ... |(vi) kiếm được, thu được, đạt được, giành được, hiểu, lĩnh hội, chịu điều không mong muốn (ví dụ hình phạt), mắc bệnh, có thể ..."
       },
       {
         "example": "得る",
         "reading": "うる",
-        "meaning": "to be able to ..., can ..., to get, to acquire, to obtain, to procure, to earn, to win, to gain, to secure, to attain"
+        "meaning": "to be able to ..., can ..., to get, to acquire, to obtain, to procure, to earn, to win, to gain, to secure, to attain |(vi) có thể ..., kiếm được, thu được, đạt được, giành được"
       },
       {
         "example": "得撫草",
         "reading": "うるっぷそう",
-        "meaning": "weaselsnout (Lagotis glauca)"
+        "meaning": "weaselsnout (Lagotis glauca) |(vi) cỏ Lagotis (Lagotis glauca)"
       }
     ],
     "radical": {
       "symbol": "彳",
-      "meaning": "step"
+      "meaning": "step |(vi) Xích (bước đi, đường đi)"
     },
     "parts": [
       "一",

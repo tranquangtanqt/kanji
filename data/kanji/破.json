@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "yabu, yaburu, yabureru",
-    "meaning": "break, tear",
+    "meaning": "break, tear |(vi) phá vỡ, xé rách",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "破局（はきょく）",
         "meaning": {
-          "english": "catastrophe, cataclysm"
+          "english": "catastrophe, cataclysm |(vi) sự đổ vỡ, sự tan vỡ (quan hệ, kế hoạch)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(kaisuru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "破片（はへん）",
         "meaning": {
-          "english": "fragment, splinter, broken piece"
+          "english": "fragment, splinter, broken piece |(vi) mảnh vỡ, mảnh vụn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(kaisuru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "破壊する（はかいする）",
         "meaning": {
-          "english": "destroy, demolish"
+          "english": "destroy, demolish |(vi) phá hủy, phá hoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(kaisuru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "破棄する（はきする）",
         "meaning": {
-          "english": "revoke, annul, break"
+          "english": "revoke, annul, break |(vi) hủy bỏ, phá bỏ (hợp đồng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(kaisuru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "破産する（はさんする）",
         "meaning": {
-          "english": "go bankrupt"
+          "english": "go bankrupt |(vi) phá sản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(kaisuru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "破滅する（はめつする）",
         "meaning": {
-          "english": "fall into ruin"
+          "english": "fall into ruin |(vi) sụp đổ, tan vỡ, diệt vong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(kaisuru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "読破する（どくはする）",
         "meaning": {
-          "english": "finish reading a book"
+          "english": "finish reading a book |(vi) đọc hết, đọc trọn vẹn (một cuốn sách)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(kaisuru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "爆破する（ばくはする）",
         "meaning": {
-          "english": "explode, blow up"
+          "english": "explode, blow up |(vi) cho nổ, phá nổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(kaisuru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "難波する（なんぱする）",
         "meaning": {
-          "english": "be wrecked (ship)"
+          "english": "be wrecked (ship) |(vi) bị đắm (tàu), gặp nạn trên biển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(kaisuru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "突破する（とっぱする）",
         "meaning": {
-          "english": "break through"
+          "english": "break through |(vi) đột phá, vượt qua, phá vỡ (giới hạn)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(kaisuru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "破る（やぶる）",
         "meaning": {
-          "english": "tear, violate, defeat [v.t.]"
+          "english": "tear, violate, defeat [v.t.] |(vi) xé, làm rách, phá vỡ, đánh bại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(kaisuru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "破れる（やぶれる）",
         "meaning": {
-          "english": "wear out, get torn [v.i.]"
+          "english": "wear out, get torn [v.i.] |(vi) bị rách, bị hỏng, sờn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ha(kaisuru)_06_l.opus",
@@ -258,7 +258,7 @@
     "kanji": {
       "character": "破",
       "meaning": {
-        "english": "break, tear"
+        "english": "break, tear |(vi) phá vỡ, xé rách"
       },
       "strokes": {
         "count": 10,
@@ -316,7 +316,7 @@
         "romaji": "ishihen"
       },
       "meaning": {
-        "english": "stone"
+        "english": "stone |(vi) Thạch (đá)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ishihen0.svg",
@@ -337,7 +337,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "590",
     "strokeCount": 10,
-    "meaning": "rend, rip, tear, break, destroy, defeat, frustrate",
+    "meaning": "rend, rip, tear, break, destroy, defeat, frustrate |(vi) xé rách, phá vỡ, phá hủy, đánh bại, làm thất bại |(hv) Phá",
     "kunyomi": [
       "やぶ.る",
       "やぶ.れる",
@@ -350,44 +350,44 @@
       {
         "example": "破",
         "reading": "ハ",
-        "meaning": "middle section of a song (in gagaku or noh)"
+        "meaning": "middle section of a song (in gagaku or noh) |(vi) đoạn giữa (của một bài nhạc gagaku hoặc kịch noh)"
       },
       {
         "example": "破壊",
         "reading": "ハカイ",
-        "meaning": "destruction, disruption, (application) crash"
+        "meaning": "destruction, disruption, (application) crash |(vi) sự phá hủy, sự phá hoại, sự sập (ứng dụng)"
       },
       {
         "example": "大破",
         "reading": "タイハ",
-        "meaning": "serious damage, heavy damage, being wrecked, thrashing (an opponent), crushing, giving a drubbing"
+        "meaning": "serious damage, heavy damage, being wrecked, thrashing (an opponent), crushing, giving a drubbing |(vi) hư hỏng nặng, bị phá hủy nghiêm trọng, đại bại"
       },
       {
         "example": "踏破",
         "reading": "トウハ",
-        "meaning": "travelling (a long and difficult journey) on foot, walking (all the way) across, travelling through, hiking across, traversing, travelling all over (e.g. a country), visiting all the major locations (of a region, etc.)"
+        "meaning": "travelling (a long and difficult journey) on foot, walking (all the way) across, travelling through, hiking across, traversing, travelling all over (e.g. a country), visiting all the major locations (of a region, etc.) |(vi) đi bộ xuyên suốt (hành trình dài, gian nan), băng qua, chinh phục cả vùng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "破る",
         "reading": "やぶる",
-        "meaning": "to tear, to rip, to break, to destroy, to break through (cordon, opponent's defense, etc.), to breach, to defeat, to beat, to break (e.g. silence), to disturb (e.g. peace), to shatter (e.g. dream), to disrupt, to spoil, to violate (e.g. rule), to break (e.g. promise), to infringe, to break (a record)"
+        "meaning": "to tear, to rip, to break, to destroy, to break through (cordon, opponent's defense, etc.), to breach, to defeat, to beat, to break (e.g. silence), to disturb (e.g. peace), to shatter (e.g. dream), to disrupt, to spoil, to violate (e.g. rule), to break (e.g. promise), to infringe, to break (a record) |(vi) xé, làm rách, phá vỡ, đánh bại, phá kỷ lục, vi phạm (quy tắc, lời hứa)"
       },
       {
         "example": "破れる",
         "reading": "やぶれる",
-        "meaning": "to get torn, to tear, to rip, to break, to wear out, to be broken off (of negotiations, etc.), to break down, to collapse, to fall into ruin"
+        "meaning": "to get torn, to tear, to rip, to break, to wear out, to be broken off (of negotiations, etc.), to break down, to collapse, to fall into ruin |(vi) bị rách, bị hỏng, sờn, đổ vỡ (đàm phán), sụp đổ"
       },
       {
         "example": "割れる",
         "reading": "われる",
-        "meaning": "to break, to be smashed, to split, to crack, to fissure, to be torn, to be divided (opinion, vote, etc.), to split (e.g. of a party), to come to light, to become clear, to be identified, to be revealed, to become distorted (of sound), to clip, to be divisible (without a remainder), to drop below a minimum"
+        "meaning": "to break, to be smashed, to split, to crack, to fissure, to be torn, to be divided (opinion, vote, etc.), to split (e.g. of a party), to come to light, to become clear, to be identified, to be revealed, to become distorted (of sound), to clip, to be divisible (without a remainder), to drop below a minimum |(vi) bị vỡ, bị nứt, bị chia rẽ (ý kiến), bị lộ ra, bị bóp méo (âm thanh), chia hết"
       }
     ],
     "radical": {
       "symbol": "石",
-      "meaning": "stone"
+      "meaning": "stone |(vi) Thạch (đá)"
     },
     "parts": [
       "又",

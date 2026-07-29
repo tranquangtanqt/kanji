@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "ou, o",
-    "meaning": "chase, pursue",
+    "meaning": "chase, pursue |(vi) đuổi theo, truy đuổi",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "追伸（ついしん）",
         "meaning": {
-          "english": "postscript"
+          "english": "postscript |(vi) tái bút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsui-o(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "追求する（ついきゅうする）",
         "meaning": {
-          "english": "investigate, pursue (goal)"
+          "english": "investigate, pursue (goal) |(vi) theo đuổi (mục tiêu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsui-o(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "追放する（ついほうする）",
         "meaning": {
-          "english": "exile [v.t.]"
+          "english": "exile [v.t.] |(vi) trục xuất, lưu đày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsui-o(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "追加する（ついかする）",
         "meaning": {
-          "english": "add"
+          "english": "add |(vi) bổ sung, thêm vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsui-o(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "追突する（ついとつする）",
         "meaning": {
-          "english": "collide"
+          "english": "collide |(vi) đâm vào (từ phía sau)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsui-o(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "追う（おう）",
         "meaning": {
-          "english": "chase, pursue"
+          "english": "chase, pursue |(vi) đuổi theo, truy đuổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsui-o(u)_06_f.opus",
@@ -191,7 +191,7 @@
     "kanji": {
       "character": "追",
       "meaning": {
-        "english": "chase, pursue"
+        "english": "chase, pursue |(vi) đuổi theo, truy đuổi"
       },
       "strokes": {
         "count": 9,
@@ -247,7 +247,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đi, bước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -268,7 +268,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "411",
     "strokeCount": 9,
-    "meaning": "chase, drive away, follow, pursue, meanwhile",
+    "meaning": "chase, drive away, follow, pursue, meanwhile |(vi) đuổi theo, xua đuổi, theo sau, truy đuổi, trong khi đó |(hv) Truy",
     "kunyomi": [
       "お.う"
     ],
@@ -279,34 +279,34 @@
       {
         "example": "追求",
         "reading": "ツイキュウ",
-        "meaning": "pursuit (of a goal, ideal, etc.), search, chase, seeking after"
+        "meaning": "pursuit (of a goal, ideal, etc.), search, chase, seeking after |(vi) theo đuổi (mục tiêu, lý tưởng), tìm kiếm, truy tìm"
       },
       {
         "example": "追加",
         "reading": "ツイカ",
-        "meaning": "addition, supplement, appending, appendix"
+        "meaning": "addition, supplement, appending, appendix |(vi) bổ sung, phụ lục, thêm vào"
       },
       {
         "example": "訴追",
         "reading": "ソツイ",
-        "meaning": "prosecution, indictment, impeachment"
+        "meaning": "prosecution, indictment, impeachment |(vi) truy tố, luận tội"
       },
       {
         "example": "猛追",
         "reading": "モウツイ",
-        "meaning": "hot pursuit, hot chase"
+        "meaning": "hot pursuit, hot chase |(vi) truy đuổi ráo riết"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "追う",
         "reading": "おう",
-        "meaning": "to chase, to run after, to pursue, to follow after, to follow (a set order, a trend, etc.), to drive out, to get rid of, to oust, to expel, to drive (e.g. a herd), to be pressed (e.g. for time)"
+        "meaning": "to chase, to run after, to pursue, to follow after, to follow (a set order, a trend, etc.), to drive out, to get rid of, to oust, to expel, to drive (e.g. a herd), to be pressed (e.g. for time) |(vi) đuổi theo, chạy theo, truy đuổi, theo sau, tuân theo (trật tự, xu hướng), xua đuổi, loại bỏ, trục xuất, lùa (đàn gia súc), bị thúc bách (về thời gian)"
       },
       {
         "example": "追手門学院大学",
         "reading": "おうてもんがくいんだいがく",
-        "meaning": "Otemon Gakuin University"
+        "meaning": "Otemon Gakuin University |(vi) Đại học Otemon Gakuin"
       }
     ],
     "radical": {
@@ -316,7 +316,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, bước)"
     },
     "parts": [
       "口",

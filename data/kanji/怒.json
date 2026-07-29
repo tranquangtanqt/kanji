@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ika, oko, ikaru, okoru",
-    "meaning": "get angry",
+    "meaning": "get angry |(vi) nổi giận, tức giận",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "怒声（どせい）",
         "meaning": {
-          "english": "angry voice"
+          "english": "angry voice |(vi) giọng giận dữ, tiếng quát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ika(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "喜怒哀楽（きどあいらく）",
         "meaning": {
-          "english": "joy, anger, pathos, and humor"
+          "english": "joy, anger, pathos, and humor |(vi) hỉ, nộ, ai, lạc (các cung bậc cảm xúc con người)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ika(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "怒鳴る（どなる）",
         "meaning": {
-          "english": "yell"
+          "english": "yell |(vi) quát, la hét"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ika(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "激怒する（げきどする）",
         "meaning": {
-          "english": "get furious"
+          "english": "get furious |(vi) nổi giận dữ dội, phẫn nộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ika(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "怒る（いかる）",
         "meaning": {
-          "english": "get angry"
+          "english": "get angry |(vi) nổi giận, tức giận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ika(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "怒り狂う（いかりくるう）",
         "meaning": {
-          "english": "be in a fit (of anger)"
+          "english": "be in a fit (of anger) |(vi) giận điên cuồng, giận dữ tột độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ika(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "怒る（おこる）",
         "meaning": {
-          "english": "get angry, scold"
+          "english": "get angry, scold |(vi) nổi giận, la mắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ika(ru)_06_g.opus",
@@ -229,7 +229,7 @@
     "kanji": {
       "character": "怒",
       "meaning": {
-        "english": "get angry"
+        "english": "get angry |(vi) nổi giận, tức giận"
       },
       "strokes": {
         "count": 9,
@@ -285,7 +285,7 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (trái tim, tâm trí, tinh thần)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -306,7 +306,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1221",
     "strokeCount": 9,
-    "meaning": "angry, be offended",
+    "meaning": "angry, be offended |(vi) tức giận, nổi giận, phật ý |(hv) Nộ",
     "kunyomi": [
       "いか.る",
       "おこ.る"
@@ -319,39 +319,39 @@
       {
         "example": "怒鳴り込む",
         "reading": "ドナリコム",
-        "meaning": "to storm in with a yell"
+        "meaning": "to storm in with a yell |(vi) xông vào quát tháo, xông vào la hét"
       },
       {
         "example": "怒鳴る",
         "reading": "ドナル",
-        "meaning": "to shout (in anger), to yell"
+        "meaning": "to shout (in anger), to yell |(vi) quát, la hét, hét lên (trong cơn giận)"
       },
       {
         "example": "喜怒",
         "reading": "キド",
-        "meaning": "joy and anger, human emotions"
+        "meaning": "joy and anger, human emotions |(vi) vui giận, hỉ nộ, cảm xúc con người"
       },
       {
         "example": "嚇怒",
         "reading": "カクド",
-        "meaning": "greatly enraged, furious"
+        "meaning": "greatly enraged, furious |(vi) giận dữ tột độ, cực kỳ phẫn nộ"
       },
       {
         "example": "憤怒",
         "reading": "フンヌ",
-        "meaning": "anger, rage, resentment, indignation, exasperation"
+        "meaning": "anger, rage, resentment, indignation, exasperation |(vi) phẫn nộ, giận dữ, oán hận"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "怒る",
         "reading": "いかる",
-        "meaning": "to get angry, to get mad, to be angular, to be square"
+        "meaning": "to get angry, to get mad, to be angular, to be square |(vi) nổi giận, tức giận, (cổ: có góc cạnh, vuông vức)"
       },
       {
         "example": "怒る",
         "reading": "おこる",
-        "meaning": "to get angry, to get mad, to lose one's temper, to scold, to tell (someone) off"
+        "meaning": "to get angry, to get mad, to lose one's temper, to scold, to tell (someone) off |(vi) nổi giận, mất bình tĩnh, la mắng, quở trách"
       }
     ],
     "radical": {
@@ -360,7 +360,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim, tấm lòng)"
     },
     "parts": [
       "又",

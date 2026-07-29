@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "naga, nagai",
-    "meaning": "long, chief",
+    "meaning": "long, chief |(vi) dài, người đứng đầu",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "身長（しんちょう）",
         "meaning": {
-          "english": "height (of body)"
+          "english": "height (of body) |(vi) chiều cao (cơ thể)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "社長（しゃちょう）",
         "meaning": {
-          "english": "company president"
+          "english": "company president |(vi) giám đốc công ty, chủ tịch công ty"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "市長（しちょう）",
         "meaning": {
-          "english": "mayor"
+          "english": "mayor |(vi) thị trưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "会長（かいちょう）",
         "meaning": {
-          "english": "president (of a society)"
+          "english": "president (of a society) |(vi) chủ tịch (hội, đoàn thể)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "長期（ちょうき）",
         "meaning": {
-          "english": "long time period"
+          "english": "long time period |(vi) thời gian dài, dài hạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "長時間（ちょうじかん）",
         "meaning": {
-          "english": "long-term, long-range"
+          "english": "long-term, long-range |(vi) thời gian dài, khoảng thời gian lâu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "長男（ちょうなん）",
         "meaning": {
-          "english": "eldest son"
+          "english": "eldest son |(vi) con trai cả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "長女（ちょうじょ）",
         "meaning": {
-          "english": "eldest daughter"
+          "english": "eldest daughter |(vi) con gái cả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "長所（ちょうしょ）",
         "meaning": {
-          "english": "strong point"
+          "english": "strong point |(vi) điểm mạnh, ưu điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "成長する（せいちょうする）",
         "meaning": {
-          "english": "grow"
+          "english": "grow |(vi) trưởng thành, phát triển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "長い（ながい）",
         "meaning": {
-          "english": "long"
+          "english": "long |(vi) dài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_k.opus",
@@ -276,7 +276,7 @@
     "kanji": {
       "character": "長",
       "meaning": {
-        "english": "long, chief"
+        "english": "long, chief |(vi) dài, người đứng đầu"
       },
       "strokes": {
         "count": 8,
@@ -330,7 +330,7 @@
         "romaji": "nagai"
       },
       "meaning": {
-        "english": "long"
+        "english": "long |(vi) Trường (dài)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nagai0.svg",
@@ -351,7 +351,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "12",
     "strokeCount": 8,
-    "meaning": "long, leader, superior, senior",
+    "meaning": "long, leader, superior, senior |(vi) dài, người lãnh đạo, cấp trên, bậc trưởng thượng |(hv) Trường, Trưởng",
     "kunyomi": [
       "なが.い",
       "おさ"
@@ -363,54 +363,54 @@
       {
         "example": "長",
         "reading": "チョウ",
-        "meaning": "head, chief, leader, elder, merit, strong point, superiority, major"
+        "meaning": "head, chief, leader, elder, merit, strong point, superiority, major |(vi) người đứng đầu, thủ lĩnh, lãnh đạo, bậc trưởng lão, công lao, điểm mạnh, ưu thế, chính (âm nhạc)"
       },
       {
         "example": "長官",
         "reading": "チョウカン",
-        "meaning": "secretary (government), director, chief"
+        "meaning": "secretary (government), director, chief |(vi) bộ trưởng, giám đốc, thủ trưởng (chính phủ)"
       },
       {
         "example": "体長",
         "reading": "タイチョウ",
-        "meaning": "length (of an animal), body length"
+        "meaning": "length (of an animal), body length |(vi) chiều dài cơ thể (động vật)"
       },
       {
         "example": "医長",
         "reading": "イチョウ",
-        "meaning": "medical director, chief physician"
+        "meaning": "medical director, chief physician |(vi) trưởng khoa, bác sĩ trưởng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "長い",
         "reading": "ながい",
-        "meaning": "long (distance, length), long (time), protracted, prolonged"
+        "meaning": "long (distance, length), long (time), protracted, prolonged |(vi) dài (quãng đường, chiều dài), lâu (thời gian), kéo dài, dai dẳng"
       },
       {
         "example": "長居",
         "reading": "ながい",
-        "meaning": "long visit, overstaying"
+        "meaning": "long visit, overstaying |(vi) ở lại lâu, nán lại quá lâu"
       },
       {
         "example": "長",
         "reading": "おさ",
-        "meaning": "head, chief, leader, the greatest (of all the ...)"
+        "meaning": "head, chief, leader, the greatest (of all the ...) |(vi) người đứng đầu, thủ lĩnh, lãnh đạo, người vĩ đại nhất (trong số)"
       },
       {
         "example": "【オサガメ】",
         "reading": "leatherback turtle (Dermochelys coriacea)",
-        "meaning": ""
+        "meaning": " |(vi) rùa da (Dermochelys coriacea)"
       },
       {
         "example": "田長",
         "reading": "たおさ",
-        "meaning": "master of the rice field, chief farmer, lesser cuckoo (Cuculus poliocephalus)"
+        "meaning": "master of the rice field, chief farmer, lesser cuckoo (Cuculus poliocephalus) |(vi) chủ ruộng, nông dân trưởng, chim cu cu nhỏ (Cuculus poliocephalus)"
       },
       {
         "example": "死出田長",
         "reading": "しでたおさ",
-        "meaning": "lesser cuckoo (Cuculus poliocephalus)"
+        "meaning": "lesser cuckoo (Cuculus poliocephalus) |(vi) chim cu cu nhỏ (Cuculus poliocephalus)"
       }
     ],
     "radical": {
@@ -418,7 +418,7 @@
       "forms": [
         "镸"
       ],
-      "meaning": "long, grow"
+      "meaning": "long, grow |(vi) Trường (dài, lớn lên)"
     },
     "parts": [
       "長"

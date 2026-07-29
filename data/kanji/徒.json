@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "follower, vain, useless, on foot",
+    "meaning": "follower, vain, useless, on foot |(vi) kẻ theo sau, vô ích, uổng công, đi bộ",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "生徒（せいと）",
         "meaning": {
-          "english": "student"
+          "english": "student |(vi) học sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(ho)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "教徒（きょうと）",
         "meaning": {
-          "english": "believer (religion)"
+          "english": "believer (religion) |(vi) tín đồ (tôn giáo)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(ho)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "信徒（しんと）",
         "meaning": {
-          "english": "believer (religion)"
+          "english": "believer (religion) |(vi) tín đồ (tôn giáo)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(ho)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "使徒（しと）",
         "meaning": {
-          "english": "apostle"
+          "english": "apostle |(vi) sứ đồ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(ho)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "暴徒（ぼうと）",
         "meaning": {
-          "english": "insurgent, rioter"
+          "english": "insurgent, rioter |(vi) kẻ nổi loạn, bạo đồ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(ho)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "徒労（とろう）",
         "meaning": {
-          "english": "fruitless effort"
+          "english": "fruitless effort |(vi) công cốc, nỗ lực vô ích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(ho)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "徒歩（とほ）",
         "meaning": {
-          "english": "travel by foot [n.]"
+          "english": "travel by foot [n.] |(vi) đi bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(ho)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "徒弟制度（とていせいど）",
         "meaning": {
-          "english": "apprentice system"
+          "english": "apprentice system |(vi) chế độ học việc, chế độ đồ đệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(ho)_06_h.opus",
@@ -218,7 +218,7 @@
     "kanji": {
       "character": "徒",
       "meaning": {
-        "english": "follower, vain, useless, on foot"
+        "english": "follower, vain, useless, on foot |(vi) kẻ theo sau, vô ích, uổng công, đi bộ"
       },
       "strokes": {
         "count": 10,
@@ -276,7 +276,7 @@
         "romaji": "gyouninben"
       },
       "meaning": {
-        "english": "step, stride, street, to go"
+        "english": "step, stride, street, to go |(vi) Xích (bước đi, đường đi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
@@ -297,7 +297,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "817",
     "strokeCount": 10,
-    "meaning": "on foot, junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people",
+    "meaning": "on foot, junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people |(vi) đi bộ, đàn em, hư không, hư vinh, vô ích, vô dụng, cái phù du, băng nhóm, bọn, phe, người |(hv) Đồ",
     "kunyomi": [
       "いたずら",
       "あだ"
@@ -309,49 +309,49 @@
       {
         "example": "徒",
         "reading": "ト",
-        "meaning": "party, set, gang, company, person"
+        "meaning": "party, set, gang, company, person |(vi) phe, bọn, băng nhóm, đồng bọn, người"
       },
       {
         "example": "徒歩",
         "reading": "トホ",
-        "meaning": "walking, going on foot"
+        "meaning": "walking, going on foot |(vi) đi bộ"
       },
       {
         "example": "信徒",
         "reading": "シント",
-        "meaning": "layman, believer, adherent, follower, laity"
+        "meaning": "layman, believer, adherent, follower, laity |(vi) giáo dân, tín đồ, người theo đạo, tín hữu"
       },
       {
         "example": "学徒",
         "reading": "ガクト",
-        "meaning": "student, follower, students and pupils"
+        "meaning": "student, follower, students and pupils |(vi) học sinh, sinh viên, người theo học"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "徒",
         "reading": "いたずら",
-        "meaning": "useless, vain, aimless, idle"
+        "meaning": "useless, vain, aimless, idle |(vi) vô ích, uổng công, không mục đích, lười biếng"
       },
       {
         "example": "いたずら書き",
         "reading": "いたずらがき",
-        "meaning": "scribbling, doodling, graffiti"
+        "meaning": "scribbling, doodling, graffiti |(vi) nguệch ngoạc, vẽ bậy, graffiti"
       },
       {
         "example": "徒",
         "reading": "あだ",
-        "meaning": "vain, futile, transient, frivolous"
+        "meaning": "vain, futile, transient, frivolous |(vi) vô ích, phù phiếm, phù du, tầm thường"
       },
       {
         "example": "徒疎か",
         "reading": "あだおろそか",
-        "meaning": "making light of, disregarding"
+        "meaning": "making light of, disregarding |(vi) xem nhẹ, coi thường, bỏ qua"
       }
     ],
     "radical": {
       "symbol": "彳",
-      "meaning": "step"
+      "meaning": "step |(vi) Xích (bước đi, đường đi)"
     },
     "parts": [
       "土",

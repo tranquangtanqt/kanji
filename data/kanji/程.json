@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "hodo",
-    "meaning": "extent, established form, degree",
+    "meaning": "extent, established form, degree |(vi) mức độ, hình thức đã định, cấp độ",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "程度（ていど）",
         "meaning": {
-          "english": "degree, grade"
+          "english": "degree, grade |(vi) mức độ, cấp độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hodo_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "音程（おんてい）",
         "meaning": {
-          "english": "musical interval"
+          "english": "musical interval |(vi) quãng nhạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hodo_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "過程（かてい）",
         "meaning": {
-          "english": "process"
+          "english": "process |(vi) quá trình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hodo_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "日程（にってい）",
         "meaning": {
-          "english": "itinerary, day's agenda"
+          "english": "itinerary, day's agenda |(vi) lịch trình, chương trình trong ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hodo_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "方程式（ほうていしき）",
         "meaning": {
-          "english": "equation"
+          "english": "equation |(vi) phương trình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hodo_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "程（ほど）",
         "meaning": {
-          "english": "degree, extent"
+          "english": "degree, extent |(vi) mức độ, chừng mực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hodo_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "三日程（みっかほど）",
         "meaning": {
-          "english": "about three days"
+          "english": "about three days |(vi) khoảng ba ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hodo_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "先程（さきほど）",
         "meaning": {
-          "english": "some time ago"
+          "english": "some time ago |(vi) lúc nãy, vừa mới đây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hodo_06_h.opus",
@@ -212,7 +212,7 @@
     "kanji": {
       "character": "程",
       "meaning": {
-        "english": "extent, established form, degree"
+        "english": "extent, established form, degree |(vi) mức độ, hình thức đã định, cấp độ"
       },
       "strokes": {
         "count": 12,
@@ -274,7 +274,7 @@
         "romaji": "nogihen"
       },
       "meaning": {
-        "english": "grain"
+        "english": "grain |(vi) Hòa (lúa, ngũ cốc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nogihen0.svg",
@@ -295,7 +295,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "514",
     "strokeCount": 12,
-    "meaning": "extent, degree, law, formula, distance, limits, amount",
+    "meaning": "extent, degree, law, formula, distance, limits, amount |(vi) mức độ, cấp độ, luật lệ, công thức, khoảng cách, giới hạn, số lượng |(hv) Trình",
     "kunyomi": [
       "ほど",
       "-ほど"
@@ -307,49 +307,49 @@
       {
         "example": "程度",
         "reading": "テイド",
-        "meaning": "degree, amount, grade, standard, of the order of (following a number), about, approximately"
+        "meaning": "degree, amount, grade, standard, of the order of (following a number), about, approximately |(vi) mức độ, số lượng, cấp bậc, tiêu chuẩn, khoảng chừng, xấp xỉ"
       },
       {
         "example": "程朱学",
         "reading": "テイシュガク",
-        "meaning": "neo-Confucianism (based on the teaching of the Cheng brothers and Zhu Xi)"
+        "meaning": "neo-Confucianism (based on the teaching of the Cheng brothers and Zhu Xi) |(vi) Trình Chu học (dựa trên học thuyết của anh em họ Trình và Chu Hy)"
       },
       {
         "example": "規程",
         "reading": "キテイ",
-        "meaning": "official regulations, inner rules"
+        "meaning": "official regulations, inner rules |(vi) quy chế chính thức, quy định nội bộ"
       },
       {
         "example": "修士課程",
         "reading": "シュウシカテイ",
-        "meaning": "master's course"
+        "meaning": "master's course |(vi) chương trình thạc sĩ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "程",
         "reading": "ほど",
-        "meaning": "extent, degree, measure, limit, bounds, (span of) time, (a) distance, the state of, the status of, the condition of, about, around, approximately, or so, as much as ..., to the extent of ..., like ..., the more ... the more ..."
+        "meaning": "extent, degree, measure, limit, bounds, (span of) time, (a) distance, the state of, the status of, the condition of, about, around, approximately, or so, as much as ..., to the extent of ..., like ..., the more ... the more ... |(vi) mức độ, chừng mực, thước đo, giới hạn, khoảng thời gian, khoảng cách, tình trạng, tình hình, khoảng, chừng, gần bằng, càng... càng..."
       },
       {
         "example": "程なく",
         "reading": "ほどなく",
-        "meaning": "soon, before long, shortly thereafter"
+        "meaning": "soon, before long, shortly thereafter |(vi) chẳng bao lâu, ngay sau đó"
       },
       {
         "example": "成る程",
         "reading": "なるほど",
-        "meaning": "I see, that's right, indeed"
+        "meaning": "I see, that's right, indeed |(vi) à ra vậy, đúng vậy, quả thật"
       },
       {
         "example": "驚くほど",
         "reading": "おどろくほど",
-        "meaning": "to a surprising degree, to a remarkable extent, surprisingly, astonishingly, amazingly, alarmingly"
+        "meaning": "to a surprising degree, to a remarkable extent, surprisingly, astonishingly, amazingly, alarmingly |(vi) đến mức đáng kinh ngạc, đáng ngạc nhiên, kinh ngạc, đáng báo động"
       }
     ],
     "radical": {
       "symbol": "禾",
-      "meaning": "grain"
+      "meaning": "grain |(vi) Hòa (lúa, ngũ cốc)"
     },
     "parts": [
       "口",

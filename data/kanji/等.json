@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "hito, hitoshii",
-    "meaning": "equal, class",
+    "meaning": "equal, class |(vi) ngang bằng, cấp bậc",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "等級（とうきゅう）",
         "meaning": {
-          "english": "grade, class"
+          "english": "grade, class |(vi) cấp bậc, hạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)dou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "等号（とうごう）",
         "meaning": {
-          "english": "an equal sign"
+          "english": "an equal sign |(vi) dấu bằng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)dou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "一等（いっとう）",
         "meaning": {
-          "english": "first class, first rank"
+          "english": "first class, first rank |(vi) hạng nhất, giải nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)dou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "劣等感（れっとうかん）",
         "meaning": {
-          "english": "inferiority complex"
+          "english": "inferiority complex |(vi) mặc cảm tự ti"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)dou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "対等な（たいとうな）",
         "meaning": {
-          "english": "equivalent"
+          "english": "equivalent |(vi) ngang hàng, tương đương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)dou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "上等な（じょうとうな）",
         "meaning": {
-          "english": "superior, first class"
+          "english": "superior, first class |(vi) hạng ưu, hạng nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)dou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "均等な（きんとうな）",
         "meaning": {
-          "english": "equal, uniform, even"
+          "english": "equal, uniform, even |(vi) đều nhau, đồng đều, cân bằng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)dou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "平等な（びょうどうな）",
         "meaning": {
-          "english": "equal, impartial"
+          "english": "equal, impartial |(vi) bình đẳng, công bằng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)dou_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "二等分する（にとうぶんする）",
         "meaning": {
-          "english": "bisect"
+          "english": "bisect |(vi) chia đôi, chia làm hai phần bằng nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)dou_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "等しい（ひとしい）",
         "meaning": {
-          "english": "equal, similar, equivalent"
+          "english": "equal, similar, equivalent |(vi) bằng nhau, giống nhau, tương đương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(byou)dou_06_j.opus",
@@ -238,7 +238,7 @@
     "kanji": {
       "character": "等",
       "meaning": {
-        "english": "equal, class"
+        "english": "equal, class |(vi) ngang bằng, cấp bậc"
       },
       "strokes": {
         "count": 12,
@@ -300,7 +300,7 @@
         "romaji": "takekanmuri"
       },
       "meaning": {
-        "english": "bamboo"
+        "english": "bamboo |(vi) Trúc (tre)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takekanmuri0.svg",
@@ -321,7 +321,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "798",
     "strokeCount": 12,
-    "meaning": "etc., and so forth, class (first), quality, equal, similar",
+    "meaning": "etc., and so forth, class (first), quality, equal, similar |(vi) vân vân, và các thứ khác, cấp bậc (hạng), chất lượng, ngang bằng, tương tự |(hv) Đẳng",
     "kunyomi": [
       "ひと.しい",
       "など",
@@ -334,44 +334,44 @@
       {
         "example": "等",
         "reading": "トウ",
-        "meaning": "class, order, rank, et cetera, etc., and the like, equal, iso-"
+        "meaning": "class, order, rank, et cetera, etc., and the like, equal, iso- |(vi) cấp bậc, thứ hạng, vân vân, và những thứ khác, ngang bằng, đồng-"
       },
       {
         "example": "等身",
         "reading": "トウシン",
-        "meaning": "body proportions"
+        "meaning": "body proportions |(vi) tỷ lệ cơ thể"
       },
       {
         "example": "中等",
         "reading": "チュウトウ",
-        "meaning": "second grade, medium quality, average, middle class, secondary grade"
+        "meaning": "second grade, medium quality, average, middle class, secondary grade |(vi) hạng nhì, chất lượng trung bình, trung bình, tầng lớp trung lưu, cấp trung học"
       },
       {
         "example": "等々",
         "reading": "トウトウ",
-        "meaning": "etc., et cetera, and so on"
+        "meaning": "etc., et cetera, and so on |(vi) vân vân, và các thứ khác"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "等しい",
         "reading": "ひとしい",
-        "meaning": "equal, identical, the same, no different (from), just like, equivalent"
+        "meaning": "equal, identical, the same, no different (from), just like, equivalent |(vi) bằng nhau, giống hệt, không khác gì, y như, tương đương"
       },
       {
         "example": "等",
         "reading": "など",
-        "meaning": "et cetera, etc., and the like, and so forth, or something, the likes of, for example, for instance, for one"
+        "meaning": "et cetera, etc., and the like, and so forth, or something, the likes of, for example, for instance, for one |(vi) vân vân, và các thứ khác, hoặc gì đó tương tự, chẳng hạn như"
       },
       {
         "example": "等など",
         "reading": "などなど",
-        "meaning": "et cetera, etc., and the like, and so forth"
+        "meaning": "et cetera, etc., and the like, and so forth |(vi) vân vân, và các thứ khác"
       },
       {
         "example": "等など",
         "reading": "などなど",
-        "meaning": "et cetera, etc., and the like, and so forth"
+        "meaning": "et cetera, etc., and the like, and so forth |(vi) vân vân, và các thứ khác"
       }
     ],
     "radical": {
@@ -379,7 +379,7 @@
       "forms": [
         "⺮"
       ],
-      "meaning": "bamboo"
+      "meaning": "bamboo |(vi) Trúc (tre)"
     },
     "parts": [
       "乞",

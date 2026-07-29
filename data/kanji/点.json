@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "point",
+    "meaning": "point |(vi) điểm, chấm",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "点（てん）",
         "meaning": {
-          "english": "point, dot"
+          "english": "point, dot |(vi) điểm, chấm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "点線（てんせん）",
         "meaning": {
-          "english": "dotted line"
+          "english": "dotted line |(vi) đường chấm chấm, đường kẻ chấm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "点字（てんじ）",
         "meaning": {
-          "english": "Braille"
+          "english": "Braille |(vi) chữ nổi Braille"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "点数（てんすう）",
         "meaning": {
-          "english": "points, grade, score"
+          "english": "points, grade, score |(vi) điểm số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "得点（とくてん）",
         "meaning": {
-          "english": "points, score"
+          "english": "points, score |(vi) điểm số, ghi điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "同点（どうてん）",
         "meaning": {
-          "english": "tie, draw (sports)"
+          "english": "tie, draw (sports) |(vi) hòa (thể thao)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "欠点（けってん）",
         "meaning": {
-          "english": "defect [n.]"
+          "english": "defect [n.] |(vi) khuyết điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "焦点（しょうてん）",
         "meaning": {
-          "english": "focus [n.]"
+          "english": "focus [n.] |(vi) tiêu điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "終点（しゅうてん）",
         "meaning": {
-          "english": "last stop (e.g train)"
+          "english": "last stop (e.g train) |(vi) ga cuối, điểm cuối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "交差点（こうさてん）",
         "meaning": {
-          "english": "intersection"
+          "english": "intersection |(vi) giao lộ, ngã tư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "点在する（てんざいする）",
         "meaning": {
-          "english": "be dotted with"
+          "english": "be dotted with |(vi) rải rác, nằm rải rác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "点滅する（てんめつする）",
         "meaning": {
-          "english": "blink, turn on and off"
+          "english": "blink, turn on and off |(vi) nhấp nháy, bật tắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_l.opus",
@@ -284,7 +284,7 @@
     "kanji": {
       "character": "点",
       "meaning": {
-        "english": "point"
+        "english": "point |(vi) điểm, chấm"
       },
       "strokes": {
         "count": 9,
@@ -340,7 +340,7 @@
         "romaji": "rekka"
       },
       "meaning": {
-        "english": "fire"
+        "english": "fire |(vi) Hỏa (lửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rekka0.svg",
@@ -361,7 +361,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "165",
     "strokeCount": 9,
-    "meaning": "spot, point, mark, speck, decimal point",
+    "meaning": "spot, point, mark, speck, decimal point |(vi) chấm, điểm, dấu, vết nhỏ, dấu thập phân |(hv) Điểm",
     "kunyomi": [
       "つ.ける",
       "つ.く",
@@ -378,54 +378,54 @@
       {
         "example": "点",
         "reading": "テン",
-        "meaning": "dot, spot, point, speck, mark, mark (in an exam, etc.), grade, score, points, point (in a game), score, goal, run, point, point, aspect, matter, detail, part, respect, way, viewpoint, (punctuation) mark (e.g. comma, period, decimal point), dot, \"dot\" stroke (in a Chinese character), counter for points, marks, goals, etc., counter for goods, items, articles of clothing, works of art, etc."
+        "meaning": "dot, spot, point, speck, mark, mark (in an exam, etc.), grade, score, points, point (in a game), score, goal, run, point, point, aspect, matter, detail, part, respect, way, viewpoint, (punctuation) mark (e.g. comma, period, decimal point), dot, \"dot\" stroke (in a Chinese character), counter for points, marks, goals, etc., counter for goods, items, articles of clothing, works of art, etc. |(vi) chấm, điểm, dấu, vết nhỏ, dấu (trong bài thi...), điểm số, điểm (trong trò chơi), bàn thắng, điểm, khía cạnh, vấn đề, chi tiết, phương diện, cách thức, quan điểm, dấu câu (như dấu phẩy, dấu chấm, dấu thập phân), chấm, nét \"chấm\" (trong chữ Hán), lượng từ đếm điểm, bàn thắng, lượng từ đếm hàng hóa, món đồ, tác phẩm nghệ thuật..."
       },
       {
         "example": "点検",
         "reading": "テンケン",
-        "meaning": "detailed inspection, thorough examination, checking"
+        "meaning": "detailed inspection, thorough examination, checking |(vi) kiểm tra chi tiết, kiểm tra kỹ lưỡng, rà soát"
       },
       {
         "example": "最重点",
         "reading": "サイジュウテン",
-        "meaning": "very important point"
+        "meaning": "very important point |(vi) điểm quan trọng nhất"
       },
       {
         "example": "同点",
         "reading": "ドウテン",
-        "meaning": "same score, deadlock, tie, draw"
+        "meaning": "same score, deadlock, tie, draw |(vi) cùng điểm số, bế tắc, hòa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "点ける",
         "reading": "つける",
-        "meaning": "to turn on, to switch on, to light up"
+        "meaning": "to turn on, to switch on, to light up |(vi) bật, mở, thắp sáng"
       },
       {
         "example": "点く",
         "reading": "つく",
-        "meaning": "to be lit (of a lamp, burner, etc.), to catch fire, to ignite, to start burning, to be turned on (of a light, appliance, etc.), to come on"
+        "meaning": "to be lit (of a lamp, burner, etc.), to catch fire, to ignite, to start burning, to be turned on (of a light, appliance, etc.), to come on |(vi) được thắp sáng (đèn, lò đốt...), bắt lửa, bốc cháy, được bật (đèn, thiết bị...)"
       },
       {
         "example": "点てる",
         "reading": "たてる",
-        "meaning": "to make tea (matcha), to perform the tea ceremony"
+        "meaning": "to make tea (matcha), to perform the tea ceremony |(vi) pha trà (matcha), thực hiện trà đạo"
       },
       {
         "example": "注す",
         "reading": "さす",
-        "meaning": "to pour, to add (liquid), to serve (drinks), to put on (lipstick, etc.), to apply, to colour, to dye"
+        "meaning": "to pour, to add (liquid), to serve (drinks), to put on (lipstick, etc.), to apply, to colour, to dye |(vi) rót, thêm (chất lỏng), rót (đồ uống), thoa (son môi...), thoa, tô màu, nhuộm"
       },
       {
         "example": "灯す",
         "reading": "ともす",
-        "meaning": "to light (a candle, lamp, etc.), to turn on (a light)"
+        "meaning": "to light (a candle, lamp, etc.), to turn on (a light) |(vi) thắp (nến, đèn...), bật (đèn)"
       },
       {
         "example": "灯す",
         "reading": "ともす",
-        "meaning": "to light (a candle, lamp, etc.), to turn on (a light)"
+        "meaning": "to light (a candle, lamp, etc.), to turn on (a light) |(vi) thắp (nến, đèn...), bật (đèn)"
       }
     ],
     "radical": {
@@ -433,7 +433,7 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": "fire |(vi) Hỏa (lửa)"
     },
     "parts": [
       "卜",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "koro, korogaru, korogeru, korogasu, korobu",
-    "meaning": "turn, roll over, fall down",
+    "meaning": "turn, roll over, fall down |(vi) xoay, lăn, ngã",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "転機（てんき）",
         "meaning": {
-          "english": "turning point"
+          "english": "turning point |(vi) bước ngoặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "自転車（じてんしゃ）",
         "meaning": {
-          "english": "bicycle"
+          "english": "bicycle |(vi) xe đạp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "転倒する（てんとうする）",
         "meaning": {
-          "english": "tumble, fall down"
+          "english": "tumble, fall down |(vi) ngã, té"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "転換する（てんかんする）",
         "meaning": {
-          "english": "convert, divert, change"
+          "english": "convert, divert, change |(vi) chuyển đổi, thay đổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "転職する（てんしょくする）",
         "meaning": {
-          "english": "change occupations"
+          "english": "change occupations |(vi) chuyển việc, đổi nghề"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "回転する（かいてんする）",
         "meaning": {
-          "english": "rotate"
+          "english": "rotate |(vi) xoay, quay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "運転する（うんてんする）",
         "meaning": {
-          "english": "operate, drive"
+          "english": "operate, drive |(vi) lái, vận hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "好転する（こうてんする）",
         "meaning": {
-          "english": "change for the better"
+          "english": "change for the better |(vi) chuyển biến tốt hơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "逆転する（ぎゃくてんする）",
         "meaning": {
-          "english": "reverse, turn around"
+          "english": "reverse, turn around |(vi) đảo ngược, lật ngược tình thế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "転がす（ころがす）",
         "meaning": {
-          "english": "roll [v.t.]"
+          "english": "roll [v.t.] |(vi) lăn (vật gì)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "転がる（ころがる）",
         "meaning": {
-          "english": "roll, tumble, fall down [v.i.]"
+          "english": "roll, tumble, fall down [v.i.] |(vi) lăn, lăn tròn, ngã"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "転ぶ（ころぶ）",
         "meaning": {
-          "english": "fall down [v.i.]"
+          "english": "fall down [v.i.] |(vi) ngã, té ngã"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_l.opus",
@@ -310,7 +310,7 @@
     "kanji": {
       "character": "転",
       "meaning": {
-        "english": "turn, roll over, fall down"
+        "english": "turn, roll over, fall down |(vi) xoay, lăn, ngã"
       },
       "strokes": {
         "count": 11,
@@ -370,7 +370,7 @@
         "romaji": "kurumahen"
       },
       "meaning": {
-        "english": "vehicle, wheel, car"
+        "english": "vehicle, wheel, car |(vi) Xa (xe)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kurumahen0.svg",
@@ -391,7 +391,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "327",
     "strokeCount": 11,
-    "meaning": "revolve, turn around, change",
+    "meaning": "revolve, turn around, change |(vi) xoay tròn, quay lại, thay đổi |(hv) Chuyển",
     "kunyomi": [
       "ころ.がる",
       "ころ.げる",
@@ -409,74 +409,74 @@
       {
         "example": "転",
         "reading": "テン",
-        "meaning": "change in pronunciation or meaning of a word, sound change, word with an altered pronunciation or meaning, turning or twisting part of a text (in Chinese poetry)"
+        "meaning": "change in pronunciation or meaning of a word, sound change, word with an altered pronunciation or meaning, turning or twisting part of a text (in Chinese poetry) |(vi) sự thay đổi cách phát âm hoặc nghĩa của từ, biến âm, từ bị đổi âm hoặc nghĩa, phần chuyển ý/xoay chuyển của bài văn (trong thơ Trung Quốc)"
       },
       {
         "example": "転移",
         "reading": "テンイ",
-        "meaning": "moving (location, with the times, etc.), change, transition, metastasis, spread, transition (e.g. phase transition), transfer (of learning), transference (in psychoanalysis)"
+        "meaning": "moving (location, with the times, etc.), change, transition, metastasis, spread, transition (e.g. phase transition), transfer (of learning), transference (in psychoanalysis) |(vi) di chuyển (vị trí, theo thời gian...), thay đổi, chuyển tiếp, di căn, lan rộng, sự chuyển pha, sự chuyển giao (học tập), sự chuyển di (trong phân tâm học)"
       },
       {
         "example": "不退転",
         "reading": "フタイテン",
-        "meaning": "determination, conviction"
+        "meaning": "determination, conviction |(vi) sự kiên định, lòng quyết tâm"
       },
       {
         "example": "大回転",
         "reading": "ダイカイテン",
-        "meaning": "giant slalom, big rotation"
+        "meaning": "giant slalom, big rotation |(vi) trượt tuyết vòng lớn, vòng quay lớn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "転がる",
         "reading": "ころがる",
-        "meaning": "to roll, to tumble, to fall over, to roll over, to lie down, to be scattered about, to be lying around, (of a situation or outcome) to change, to turn out, to come easily, to be common, to fall into one's hands, to grow on trees"
+        "meaning": "to roll, to tumble, to fall over, to roll over, to lie down, to be scattered about, to be lying around, (of a situation or outcome) to change, to turn out, to come easily, to be common, to fall into one's hands, to grow on trees |(vi) lăn, lăn tròn, ngã, lật, nằm, bị vứt rải rác, nằm rải rác, (tình huống, kết quả) thay đổi, diễn biến, đến dễ dàng, phổ biến, rơi vào tay ai đó, có sẵn khắp nơi"
       },
       {
         "example": "転がる石には苔は付かない",
         "reading": "ころがるいしにはこけはつかない",
-        "meaning": "a rolling stone gathers no moss"
+        "meaning": "a rolling stone gathers no moss |(vi) hòn đá lăn không bám rêu"
       },
       {
         "example": "転げる",
         "reading": "ころげる",
-        "meaning": "to roll over, to tumble, to roll about (with laughter)"
+        "meaning": "to roll over, to tumble, to roll about (with laughter) |(vi) lăn qua, nhào lộn, lăn ra cười"
       },
       {
         "example": "転がす",
         "reading": "ころがす",
-        "meaning": "to roll, to wheel, to trundle, to drive (a car), to turn over, to tip over, to throw down, to leave, to buy and sell (quickly for a profit)"
+        "meaning": "to roll, to wheel, to trundle, to drive (a car), to turn over, to tip over, to throw down, to leave, to buy and sell (quickly for a profit) |(vi) lăn, đẩy lăn, cho lăn bánh, lái (xe), lật lại, đổ xuống, ném xuống, bỏ đi, mua bán (nhanh để kiếm lời)"
       },
       {
         "example": "転ぶ",
         "reading": "ころぶ",
-        "meaning": "to fall down, to fall over, to turn out, to play out, to abandon Christianity (and convert to Buddhism), to apostatize, to roll, to tumble, (for a geisha) to prostitute (herself) in secret"
+        "meaning": "to fall down, to fall over, to turn out, to play out, to abandon Christianity (and convert to Buddhism), to apostatize, to roll, to tumble, (for a geisha) to prostitute (herself) in secret |(vi) ngã, té ngã, diễn biến, kết thúc như thế nào, từ bỏ đạo Cơ Đốc (để cải sang Phật giáo), bỏ đạo, lăn, nhào lộn, (đối với geisha) hành nghề mại dâm bí mật"
       },
       {
         "example": "転ぶ",
         "reading": "ころぶ",
-        "meaning": "to fall down, to fall over, to turn out, to play out, to abandon Christianity (and convert to Buddhism), to apostatize, to roll, to tumble, (for a geisha) to prostitute (herself) in secret"
+        "meaning": "to fall down, to fall over, to turn out, to play out, to abandon Christianity (and convert to Buddhism), to apostatize, to roll, to tumble, (for a geisha) to prostitute (herself) in secret |(vi) ngã, té ngã, diễn biến, kết thúc như thế nào, từ bỏ đạo Cơ Đốc (để cải sang Phật giáo), bỏ đạo, lăn, nhào lộn, (đối với geisha) hành nghề mại dâm bí mật"
       },
       {
         "example": "転",
         "reading": "うたた",
-        "meaning": "more and more, increasingly, all the more"
+        "meaning": "more and more, increasingly, all the more |(vi) ngày càng, càng lúc càng, hơn nữa"
       },
       {
         "example": "うたた寝",
         "reading": "うたたね",
-        "meaning": "doze, nap, snooze"
+        "meaning": "doze, nap, snooze |(vi) ngủ gật, chợp mắt, ngủ trưa ngắn"
       },
       {
         "example": "眩く",
         "reading": "くるめく",
-        "meaning": "to feel dizzy, to feel faint, to spin, to revolve, to twirl"
+        "meaning": "to feel dizzy, to feel faint, to spin, to revolve, to twirl |(vi) cảm thấy chóng mặt, choáng váng, quay cuồng, xoay tròn, xoay vòng"
       }
     ],
     "radical": {
       "symbol": "車",
-      "meaning": "cart, car"
+      "meaning": "cart, car |(vi) Xa (xe)"
     },
     "parts": [
       "二",

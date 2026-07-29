@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "tsuchi",
-    "meaning": "soil, earth, ground",
+    "meaning": "soil, earth, ground |(vi) đất, thổ nhưỡng, mặt đất",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "土曜日（どようび）",
         "meaning": {
-          "english": "Saturday"
+          "english": "Saturday |(vi) thứ Bảy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "土日（どにち）",
         "meaning": {
-          "english": "Saturday and Sunday"
+          "english": "Saturday and Sunday |(vi) thứ Bảy và Chủ Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "郷土（きょうど）",
         "meaning": {
-          "english": "birth place"
+          "english": "birth place |(vi) quê hương, nơi sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "土地（とち）",
         "meaning": {
-          "english": "plot of land"
+          "english": "plot of land |(vi) mảnh đất, khu đất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "土（つち）",
         "meaning": {
-          "english": "soil"
+          "english": "soil |(vi) đất, thổ nhưỡng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "土色（つちいろ）",
         "meaning": {
-          "english": "earth colored"
+          "english": "earth colored |(vi) màu đất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "*土産（みやげ）",
         "meaning": {
-          "english": "local product, souvenir"
+          "english": "local product, souvenir |(vi) đặc sản địa phương, quà lưu niệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_g.opus",
@@ -234,7 +234,7 @@
     "kanji": {
       "character": "土",
       "meaning": {
-        "english": "soil, earth, ground"
+        "english": "soil, earth, ground |(vi) đất, thổ nhưỡng, mặt đất"
       },
       "strokes": {
         "count": 3,
@@ -278,7 +278,7 @@
         "romaji": "tsuchi"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
@@ -299,7 +299,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "307",
     "strokeCount": 3,
-    "meaning": "soil, earth, ground, Turkey",
+    "meaning": "soil, earth, ground, Turkey |(vi) đất, thổ nhưỡng, mặt đất, Thổ Nhĩ Kỳ |(hv) Thổ",
     "kunyomi": [
       "つち"
     ],
@@ -311,69 +311,69 @@
       {
         "example": "土",
         "reading": "ド",
-        "meaning": "Saturday, earth, dirt, soil, land, lands, ground, earth (third of the five elements)"
+        "meaning": "Saturday, earth, dirt, soil, land, lands, ground, earth (third of the five elements) |(vi) thứ Bảy, đất, bụi đất, đất đai, mặt đất, thổ (hành thứ ba trong ngũ hành)"
       },
       {
         "example": "土地",
         "reading": "トチ",
-        "meaning": "plot of land, lot, soil, locality, region, place"
+        "meaning": "plot of land, lot, soil, locality, region, place |(vi) mảnh đất, khu đất, thổ nhưỡng, địa phương, khu vực, nơi chốn"
       },
       {
         "example": "浄土",
         "reading": "ジョウド",
-        "meaning": "pure land (esp. the Western Pure Land paradise of Amitabha), (Buddhist) paradise, Pure Land Buddhism"
+        "meaning": "pure land (esp. the Western Pure Land paradise of Amitabha), (Buddhist) paradise, Pure Land Buddhism |(vi) cõi tịnh độ (đặc biệt là Tây phương Cực lạc của Phật A Di Đà), Tịnh Độ tông"
       },
       {
         "example": "郷土",
         "reading": "キョウド",
-        "meaning": "native place, birth-place, one's old home, province, region, locality"
+        "meaning": "native place, birth-place, one's old home, province, region, locality |(vi) quê hương, nơi sinh, quê cũ, tỉnh, vùng, địa phương"
       },
       {
         "example": "【ト】",
         "reading": "Turkey",
-        "meaning": ""
+        "meaning": " |(vi) Thổ Nhĩ Kỳ"
       },
       {
         "example": "時計",
         "reading": "トケイ",
-        "meaning": "clock, watch, timepiece"
+        "meaning": "clock, watch, timepiece |(vi) đồng hồ"
       },
       {
         "example": "下土",
         "reading": "カド",
-        "meaning": "lower world, this world, the earth"
+        "meaning": "lower world, this world, the earth |(vi) hạ giới, cõi trần, trái đất"
       },
       {
         "example": "日ト",
         "reading": "ニット",
-        "meaning": "Japan and Turkey, Japanese-Turkish"
+        "meaning": "Japan and Turkey, Japanese-Turkish |(vi) Nhật Bản và Thổ Nhĩ Kỳ, quan hệ Nhật-Thổ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "土",
         "reading": "つち",
-        "meaning": "earth, soil, dirt, clay, mud, the earth (historically, esp. as opposed to the heavens), the ground, the land, low-quality torinoko-gami (containing mud), (period of) refraining from construction in the direction of the god of the earth (in Onmyōdō)"
+        "meaning": "earth, soil, dirt, clay, mud, the earth (historically, esp. as opposed to the heavens), the ground, the land, low-quality torinoko-gami (containing mud), (period of) refraining from construction in the direction of the god of the earth (in Onmyōdō) |(vi) đất, bụi đất, đất sét, bùn, mặt đất (đối lập với trời theo nghĩa cổ), nền đất, giấy torinoko-gami loại kém (lẫn bùn), thời kỳ kiêng xây dựng theo hướng thần đất (Âm dương đạo)"
       },
       {
         "example": "土方",
         "reading": "どかた",
-        "meaning": "construction worker, laborer (labourer), navvy"
+        "meaning": "construction worker, laborer (labourer), navvy |(vi) công nhân xây dựng, phu hồ, lao động chân tay"
       },
       {
         "example": "盛り土",
         "reading": "もりど",
-        "meaning": "embankment (for road, railway, etc.), raising the ground level, fill"
+        "meaning": "embankment (for road, railway, etc.), raising the ground level, fill |(vi) đắp nền (đường, đường ray...), tôn cao mặt đất, đất đắp"
       },
       {
         "example": "赤土",
         "reading": "あかつち",
-        "meaning": "red clay, red earth, laterite, dark-red paint"
+        "meaning": "red clay, red earth, laterite, dark-red paint |(vi) đất đỏ, đất laterit, sơn đỏ sẫm"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "土"

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 2,
     "kunyomi": "tabi",
-    "meaning": "degree, time",
+    "meaning": "degree, time |(vi) độ, lần",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "一度（いちど）",
         "meaning": {
-          "english": "once"
+          "english": "once |(vi) một lần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tabi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "今度（こんど）",
         "meaning": {
-          "english": "this time, next time"
+          "english": "this time, next time |(vi) lần này, lần sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tabi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "何度も（なんども）",
         "meaning": {
-          "english": "many times over"
+          "english": "many times over |(vi) nhiều lần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tabi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "程度（ていど）",
         "meaning": {
-          "english": "degree, amount"
+          "english": "degree, amount |(vi) mức độ, chừng mực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tabi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "速度（そくど）",
         "meaning": {
-          "english": "speed"
+          "english": "speed |(vi) tốc độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tabi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "態度（たいど）",
         "meaning": {
-          "english": "attitude"
+          "english": "attitude |(vi) thái độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tabi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "温度（おんど）",
         "meaning": {
-          "english": "temperature"
+          "english": "temperature |(vi) nhiệt độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tabi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "20度（にじゅうど）",
         "meaning": {
-          "english": "twenty degrees"
+          "english": "twenty degrees |(vi) hai mươi độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tabi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "御法度（ごはっと）",
         "meaning": {
-          "english": "taboo"
+          "english": "taboo |(vi) điều cấm kỵ, cấm đoán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tabi_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "支度する（したくする）",
         "meaning": {
-          "english": "prepare"
+          "english": "prepare |(vi) chuẩn bị, sắp xếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tabi_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "~度に（たびに）",
         "meaning": {
-          "english": "whenever, every time"
+          "english": "whenever, every time |(vi) mỗi khi, mỗi lần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tabi_06_k.opus",
@@ -301,7 +301,7 @@
     "kanji": {
       "character": "度",
       "meaning": {
-        "english": "degree, time"
+        "english": "degree, time |(vi) độ, lần"
       },
       "strokes": {
         "count": 9,
@@ -357,7 +357,7 @@
         "romaji": "madare"
       },
       "meaning": {
-        "english": "slanting roof"
+        "english": "slanting roof |(vi) Nghiễm (mái nhà dốc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/madare0.svg",
@@ -378,7 +378,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "110",
     "strokeCount": 9,
-    "meaning": "degrees, occurrence, time, counter for occurrences, consider, attitude",
+    "meaning": "degrees, occurrence, time, counter for occurrences, consider, attitude |(vi) độ, lần xảy ra, lượt, từ đếm số lần, cân nhắc, thái độ |(hv) Độ",
     "kunyomi": [
       "たび",
       "-た.い"
@@ -392,69 +392,69 @@
       {
         "example": "度",
         "reading": "ド",
-        "meaning": "degree (angle, temperature, scale, etc.), counter for occurrences, strength (of glasses), glasses prescription, alcohol content (percentage), alcohol by volume, extent, degree, limit, presence of mind, composure"
+        "meaning": "degree (angle, temperature, scale, etc.), counter for occurrences, strength (of glasses), glasses prescription, alcohol content (percentage), alcohol by volume, extent, degree, limit, presence of mind, composure |(vi) độ (góc, nhiệt độ, thang đo,...), từ đếm số lần, độ (của kính), độ cận/viễn thị, nồng độ cồn (phần trăm), độ cồn, mức độ, giới hạn, sự bình tĩnh, điềm tĩnh"
       },
       {
         "example": "【ド】",
         "reading": "extreme, ultra, mega, totally, very much, precisely, exactly, damn, stupid, cursed",
-        "meaning": ""
+        "meaning": " |(vi) cực kỳ, siêu, quá, hoàn toàn, chính xác, đích thực, chết tiệt, ngu ngốc, đáng nguyền rủa"
       },
       {
         "example": "重度",
         "reading": "ジュウド",
-        "meaning": "severe (illness, disability, etc.), serious"
+        "meaning": "severe (illness, disability, etc.), serious |(vi) nặng (bệnh tật, khuyết tật,...), nghiêm trọng"
       },
       {
         "example": "濃度",
         "reading": "ノウド",
-        "meaning": "concentration, density, cardinality"
+        "meaning": "concentration, density, cardinality |(vi) nồng độ, mật độ, lực lượng continuum (toán học)"
       },
       {
         "example": "法度",
         "reading": "ハット",
-        "meaning": "ban, prohibition, taboo, something forbidden, law, ordinance (esp. in the middle ages)"
+        "meaning": "ban, prohibition, taboo, something forbidden, law, ordinance (esp. in the middle ages) |(vi) lệnh cấm, điều cấm, cấm kỵ, điều bị cấm, luật lệ, pháp lệnh (đặc biệt thời trung cổ)"
       },
       {
         "example": "ご法度",
         "reading": "ゴハット",
-        "meaning": "forbidden, prohibited, banned, taboo"
+        "meaning": "forbidden, prohibited, banned, taboo |(vi) bị cấm, cấm đoán, cấm kỵ"
       },
       {
         "example": "忖度",
         "reading": "ソンタク",
-        "meaning": "surmise (about someone's feelings), guess, conjecture, (showing) deference (to), consideration (of someone's wishes), servility"
+        "meaning": "surmise (about someone's feelings), guess, conjecture, (showing) deference (to), consideration (of someone's wishes), servility |(vi) suy đoán (ý người khác), phỏng đoán, thể hiện sự tôn trọng, cân nhắc ý muốn của ai đó, nịnh bợ"
       },
       {
         "example": "臆度",
         "reading": "オクタク",
-        "meaning": "guessing, speculation, supposition, hypothesis"
+        "meaning": "guessing, speculation, supposition, hypothesis |(vi) phỏng đoán, suy đoán, giả thuyết"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "度",
         "reading": "たび",
-        "meaning": "time (three times, each time, etc.), times"
+        "meaning": "time (three times, each time, etc.), times |(vi) lần (ba lần, mỗi lần,...), số lần"
       },
       {
         "example": "度数",
         "reading": "どすう",
-        "meaning": "frequency, number of times, incidence, degree (e.g. temperature), strength (e.g. alcohol, lens, etc.)"
+        "meaning": "frequency, number of times, incidence, degree (e.g. temperature), strength (e.g. alcohol, lens, etc.) |(vi) tần suất, số lần, tỷ lệ xảy ra, độ (ví dụ nhiệt độ), độ mạnh (ví dụ nồng độ cồn, độ kính,...)"
       },
       {
         "example": "中度",
         "reading": "なかたび",
-        "meaning": "midway (through), halfway"
+        "meaning": "midway (through), halfway |(vi) giữa chừng, nửa chừng"
       },
       {
         "example": "千度",
         "reading": "せんど",
-        "meaning": "thousand times"
+        "meaning": "thousand times |(vi) ngàn lần"
       }
     ],
     "radical": {
       "symbol": "广",
-      "meaning": "house on cliff"
+      "meaning": "house on cliff |(vi) Nghiễm (mái nhà dốc)"
     },
     "parts": [
       "一",

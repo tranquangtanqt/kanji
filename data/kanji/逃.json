@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "ni, noga, nigeru, nigasu, nogasu, nogareru",
-    "meaning": "escape, run away, set free, miss",
+    "meaning": "escape, run away, set free, miss |(vi) trốn thoát, bỏ chạy, thả tự do, bỏ lỡ",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "逃亡者（とうぼうしゃ）",
         "meaning": {
-          "english": "runaway, fugitive"
+          "english": "runaway, fugitive |(vi) kẻ đào tẩu, kẻ trốn chạy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(geru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "逃走する（とうそうする）",
         "meaning": {
-          "english": "run away, escape"
+          "english": "run away, escape |(vi) bỏ chạy, trốn thoát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(geru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "逃亡する（とうぼうする）",
         "meaning": {
-          "english": "run away, escape"
+          "english": "run away, escape |(vi) bỏ trốn, đào tẩu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(geru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "逃避する（とうひする）",
         "meaning": {
-          "english": "escape, evade"
+          "english": "escape, evade |(vi) trốn tránh, lảng tránh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(geru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "逃がす（にがす）",
         "meaning": {
-          "english": "let loose, set free, [v.t.]"
+          "english": "let loose, set free, [v.t.] |(vi) thả ra, để cho chạy thoát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(geru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "逃げる（にげる）",
         "meaning": {
-          "english": "escape, run away [v.i.]"
+          "english": "escape, run away [v.i.] |(vi) trốn thoát, bỏ chạy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(geru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "逃げ道（にげみち）",
         "meaning": {
-          "english": "way out, escape route"
+          "english": "way out, escape route |(vi) lối thoát, đường trốn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(geru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "逃す（のがす）",
         "meaning": {
-          "english": "miss, waste, let slip [v.t.]"
+          "english": "miss, waste, let slip [v.t.] |(vi) bỏ lỡ, để vuột mất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(geru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "見逃す（みのがす）",
         "meaning": {
-          "english": "miss, overlook"
+          "english": "miss, overlook |(vi) bỏ lỡ, bỏ qua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(geru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "逃れる（のがれる）",
         "meaning": {
-          "english": "escape, evade [v.i.]"
+          "english": "escape, evade [v.i.] |(vi) trốn thoát, tránh né"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(geru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "言い逃れ（いいのがれ）",
         "meaning": {
-          "english": "evasion, excuse"
+          "english": "evasion, excuse |(vi) lời bào chữa, cái cớ để né tránh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ni(geru)_06_k.opus",
@@ -268,7 +268,7 @@
     "kanji": {
       "character": "逃",
       "meaning": {
-        "english": "escape, run away, set free, miss"
+        "english": "escape, run away, set free, miss |(vi) trốn thoát, bỏ chạy, thả tự do, bỏ lỡ"
       },
       "strokes": {
         "count": 9,
@@ -324,7 +324,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đi, bước đi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -345,7 +345,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "931",
     "strokeCount": 9,
-    "meaning": "escape, flee, shirk, evade, set free",
+    "meaning": "escape, flee, shirk, evade, set free |(vi) trốn thoát, bỏ chạy, né tránh, lảng tránh, thả tự do |(hv) Đào",
     "kunyomi": [
       "に.げる",
       "に.がす",
@@ -359,39 +359,39 @@
       {
         "example": "逃亡",
         "reading": "トウボウ",
-        "meaning": "escape, flight, running away, elopement, fleeing"
+        "meaning": "escape, flight, running away, elopement, fleeing |(vi) bỏ trốn, đào tẩu, chạy trốn"
       },
       {
         "example": "逃走",
         "reading": "トウソウ",
-        "meaning": "flight, desertion, escape"
+        "meaning": "flight, desertion, escape |(vi) bỏ chạy, đào ngũ, trốn thoát"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "逃げる",
         "reading": "にげる",
-        "meaning": "to run away, to flee, to get away (e.g. from danger), to escape, to break out, to leave (e.g. one's spouse), to avoid (a question, responsibility, etc.), to evade, to dodge, to shirk, to back away, to win without being overtaken, to hold off the other contenders (until the finish), to keep the lead (and win), to escape (of heat, a gas, etc.), to leak out (e.g. of a scent), to be lost (e.g. of flavor), to fail to hold an ideal posture"
+        "meaning": "to run away, to flee, to get away (e.g. from danger), to escape, to break out, to leave (e.g. one's spouse), to avoid (a question, responsibility, etc.), to evade, to dodge, to shirk, to back away, to win without being overtaken, to hold off the other contenders (until the finish), to keep the lead (and win), to escape (of heat, a gas, etc.), to leak out (e.g. of a scent), to be lost (e.g. of flavor), to fail to hold an ideal posture |(vi) bỏ chạy, đào tẩu, thoát khỏi (nguy hiểm...), trốn thoát, bỏ trốn khỏi (vợ/chồng...), né tránh (câu hỏi, trách nhiệm...), lảng tránh, thoái thác, giữ vững vị trí dẫn đầu (đến khi về đích), thoát ra (nhiệt, khí gas...), rò rỉ ra (mùi hương...), mất đi (hương vị...), không giữ được tư thế lý tưởng"
       },
       {
         "example": "逃げるが勝ち",
         "reading": "にげるがかち",
-        "meaning": "he that fights and runs away may live to fight another day, discretion is the better part of valor, fleeing is winning"
+        "meaning": "he that fights and runs away may live to fight another day, discretion is the better part of valor, fleeing is winning |(vi) ba mươi sáu kế, chạy là thượng sách, tránh voi chẳng xấu mặt nào"
       },
       {
         "example": "逃がす",
         "reading": "にがす",
-        "meaning": "to set free, to let go, to release, to miss (e.g. a chance), to lose, to let get away, to fail to catch"
+        "meaning": "to set free, to let go, to release, to miss (e.g. a chance), to lose, to let get away, to fail to catch |(vi) thả ra, để cho đi, phóng thích, bỏ lỡ (cơ hội...), để vuột mất, không bắt được"
       },
       {
         "example": "逃す",
         "reading": "のがす",
-        "meaning": "to miss (e.g. a chance), to lose, to let get away, to set free, to let go, to fail to ..."
+        "meaning": "to miss (e.g. a chance), to lose, to let get away, to set free, to let go, to fail to ... |(vi) bỏ lỡ (cơ hội...), để vuột mất, thả ra, để cho đi, không làm được"
       },
       {
         "example": "逃れる",
         "reading": "のがれる",
-        "meaning": "to escape"
+        "meaning": "to escape |(vi) trốn thoát"
       }
     ],
     "radical": {
@@ -401,7 +401,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, bước đi)"
     },
     "parts": [
       "儿",

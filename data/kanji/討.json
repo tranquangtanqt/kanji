@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "u, utsu",
-    "meaning": "attack, study, examine, discuss",
+    "meaning": "attack, study, examine, discuss |(vi) tấn công, nghiên cứu, xem xét, thảo luận",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "討議する（とうぎする）",
         "meaning": {
-          "english": "debate, discuss"
+          "english": "debate, discuss |(vi) thảo luận, bàn bạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-u(tsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "討論する（とうろんする）",
         "meaning": {
-          "english": "debate, discuss"
+          "english": "debate, discuss |(vi) tranh luận, thảo luận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-u(tsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "討伐する（とうばつする）",
         "meaning": {
-          "english": "subjugate, suppress"
+          "english": "subjugate, suppress |(vi) chinh phạt, đàn áp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-u(tsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "検討する（けんとうする）",
         "meaning": {
-          "english": "consider, examine"
+          "english": "consider, examine |(vi) xem xét, cân nhắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-u(tsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "討つ（うつ）",
         "meaning": {
-          "english": "attack, strike, shoot, avenge"
+          "english": "attack, strike, shoot, avenge |(vi) tấn công, đánh, bắn, báo thù"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-u(tsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "討ち死に（うちじに）",
         "meaning": {
-          "english": "death in battle"
+          "english": "death in battle |(vi) tử trận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-u(tsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "敵討ち（かたきうち）",
         "meaning": {
-          "english": "revenge [n.]"
+          "english": "revenge [n.] |(vi) báo thù, trả thù"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-u(tsu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "不意討ち（ふいうち）",
         "meaning": {
-          "english": "surprise attack"
+          "english": "surprise attack |(vi) đòn tấn công bất ngờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou-u(tsu)_06_h.opus",
@@ -207,7 +207,7 @@
     "kanji": {
       "character": "討",
       "meaning": {
-        "english": "attack, study, examine, discuss"
+        "english": "attack, study, examine, discuss |(vi) tấn công, nghiên cứu, xem xét, thảo luận"
       },
       "strokes": {
         "count": 10,
@@ -265,7 +265,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -286,7 +286,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "528",
     "strokeCount": 10,
-    "meaning": "chastise, attack, defeat, destroy, conquer",
+    "meaning": "chastise, attack, defeat, destroy, conquer |(vi) trừng phạt, tấn công, đánh bại, tiêu diệt, chinh phục |(hv) Thảo",
     "kunyomi": [
       "う.つ"
     ],
@@ -297,29 +297,29 @@
       {
         "example": "討論",
         "reading": "トウロン",
-        "meaning": "debate, discussion"
+        "meaning": "debate, discussion |(vi) tranh luận, thảo luận"
       },
       {
         "example": "討議",
         "reading": "トウギ",
-        "meaning": "debate, discussion"
+        "meaning": "debate, discussion |(vi) thảo luận, bàn bạc"
       },
       {
         "example": "征討",
         "reading": "セイトウ",
-        "meaning": "subjugation, conquest"
+        "meaning": "subjugation, conquest |(vi) chinh phạt, chinh phục"
       },
       {
         "example": "追討",
         "reading": "ツイトウ",
-        "meaning": "tracking down and killing, punitive expedition"
+        "meaning": "tracking down and killing, punitive expedition |(vi) truy kích tiêu diệt, viễn chinh trừng phạt"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "討つ",
         "reading": "うつ",
-        "meaning": "to attack, to destroy, to defeat, to conquer, to avenge"
+        "meaning": "to attack, to destroy, to defeat, to conquer, to avenge |(vi) tấn công, tiêu diệt, đánh bại, chinh phục, báo thù"
       }
     ],
     "radical": {
@@ -327,7 +327,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "寸",

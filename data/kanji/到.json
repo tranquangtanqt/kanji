@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ita, itaru",
-    "meaning": "arrive, reach",
+    "meaning": "arrive, reach |(vi) đến, đạt tới",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "到底（とうてい）",
         "meaning": {
-          "english": "(cannot) possibly"
+          "english": "(cannot) possibly |(vi) (không thể) nào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "周到な（しゅうとうな）",
         "meaning": {
-          "english": "scrupulous, meticulous, careful"
+          "english": "scrupulous, meticulous, careful |(vi) chu đáo, cẩn thận, tỉ mỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "到来する（とうらいする）",
         "meaning": {
-          "english": "arrive"
+          "english": "arrive |(vi) đến, tới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "到着する（とうちゃくする）",
         "meaning": {
-          "english": "arrive"
+          "english": "arrive |(vi) đến nơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "到達する（とうたつする）",
         "meaning": {
-          "english": "reach, arrive"
+          "english": "reach, arrive |(vi) đạt tới, đến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "殺到する（さっとうする）",
         "meaning": {
-          "english": "throng, flood, rush"
+          "english": "throng, flood, rush |(vi) đổ xô đến, ùa đến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "到る（いたる）",
         "meaning": {
-          "english": "reach, attain"
+          "english": "reach, attain |(vi) đạt tới, đến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_g.opus",
@@ -188,7 +188,7 @@
     "kanji": {
       "character": "到",
       "meaning": {
-        "english": "arrive, reach"
+        "english": "arrive, reach |(vi) đến, đạt tới"
       },
       "strokes": {
         "count": 8,
@@ -242,7 +242,7 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, kiếm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -263,7 +263,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1032",
     "strokeCount": 8,
-    "meaning": "arrival, proceed, reach, attain, result in",
+    "meaning": "arrival, proceed, reach, attain, result in |(vi) đến nơi, tiến tới, đạt tới, dẫn đến |(hv) Đáo",
     "kunyomi": [
       "いた.る"
     ],
@@ -274,34 +274,34 @@
       {
         "example": "到着",
         "reading": "トウチャク",
-        "meaning": "arrival"
+        "meaning": "arrival |(vi) đến nơi"
       },
       {
         "example": "到達",
         "reading": "トウタツ",
-        "meaning": "reaching, attaining, arrival"
+        "meaning": "reaching, attaining, arrival |(vi) đạt tới, đến nơi"
       },
       {
         "example": "前人未到",
         "reading": "ゼンジンミトウ",
-        "meaning": "untrodden (region, field of study, etc.), unprecedented (discovery, achievement, etc.)"
+        "meaning": "untrodden (region, field of study, etc.), unprecedented (discovery, achievement, etc.) |(vi) chưa ai từng đặt chân đến, chưa từng có tiền lệ"
       },
       {
         "example": "精到",
         "reading": "セイトウ",
-        "meaning": "meticulous"
+        "meaning": "meticulous |(vi) tỉ mỉ, chu đáo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "至る",
         "reading": "いたる",
-        "meaning": "to arrive at (e.g. a decision), to reach (a stage), to attain, to lead to (a place), to get to, in the extreme case of, to come, to arrive, to result in"
+        "meaning": "to arrive at (e.g. a decision), to reach (a stage), to attain, to lead to (a place), to get to, in the extreme case of, to come, to arrive, to result in |(vi) đi đến (quyết định), đạt đến (giai đoạn), dẫn đến, đến, kết quả là"
       },
       {
         "example": "至る所",
         "reading": "いたるところ",
-        "meaning": "everywhere, all over, throughout"
+        "meaning": "everywhere, all over, throughout |(vi) khắp nơi, mọi nơi"
       }
     ],
     "radical": {
@@ -309,7 +309,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "刈",

@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "a, atari, ataru, ateru",
-    "meaning": "present, hit",
+    "meaning": "present, hit |(vi) hiện tại, trúng",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "当日（とうじつ）",
         "meaning": {
-          "english": "very day"
+          "english": "very day |(vi) ngày hôm đó, chính ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "当時（とうじ）",
         "meaning": {
-          "english": "in those days, then, at the time"
+          "english": "in those days, then, at the time |(vi) hồi đó, lúc bấy giờ, khi ấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "本当（ほんとう）",
         "meaning": {
-          "english": "truth"
+          "english": "truth |(vi) sự thật, thật sự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "弁当（べんとう）",
         "meaning": {
-          "english": "lunch vendor, boxed lunch"
+          "english": "lunch vendor, boxed lunch |(vi) cơm hộp, hộp cơm trưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "当選する（とうせんする）",
         "meaning": {
-          "english": "be elected, win a prize"
+          "english": "be elected, win a prize |(vi) trúng cử, trúng thưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "担当する（たんとうする）",
         "meaning": {
-          "english": "have responsibility for"
+          "english": "have responsibility for |(vi) phụ trách, đảm nhiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "当たる（あたる）",
         "meaning": {
-          "english": "be hit [v.i.]"
+          "english": "be hit [v.i.] |(vi) trúng, bị va chạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "日当たり（ひあたり）",
         "meaning": {
-          "english": "exposure to the sun"
+          "english": "exposure to the sun |(vi) sự chiếu nắng, hướng nắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "当たり前（あたりまえ）",
         "meaning": {
-          "english": "usual, natural, ordinary"
+          "english": "usual, natural, ordinary |(vi) đương nhiên, hiển nhiên, bình thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "当てる（あてる）",
         "meaning": {
-          "english": "hit [v.t.]"
+          "english": "hit [v.t.] |(vi) làm trúng, áp vào, đặt vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "手当てする（てあてする）",
         "meaning": {
-          "english": "provide medical care"
+          "english": "provide medical care |(vi) chăm sóc y tế, sơ cứu, điều trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_k.opus",
@@ -308,7 +308,7 @@
     "kanji": {
       "character": "当",
       "meaning": {
-        "english": "present, hit"
+        "english": "present, hit |(vi) hiện tại, trúng"
       },
       "strokes": {
         "count": 6,
@@ -357,7 +357,7 @@
         "romaji": "shoukanmuri"
       },
       "meaning": {
-        "english": "small"
+        "english": "small |(vi) Tiểu (nhỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shoukanmuri0.svg",
@@ -378,7 +378,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "91",
     "strokeCount": 6,
-    "meaning": "hit, right, appropriate, himself",
+    "meaning": "hit, right, appropriate, himself |(vi) trúng, đúng, thích hợp, bản thân |(hv) Đương",
     "kunyomi": [
       "あ.たる",
       "あ.たり",
@@ -394,79 +394,79 @@
       {
         "example": "当",
         "reading": "トウ",
-        "meaning": "this, our, the ... in question, the said ..., right, justice, fairness, checking account"
+        "meaning": "this, our, the ... in question, the said ..., right, justice, fairness, checking account |(vi) cái này, của chúng ta, cái đang nói đến, cái đã nêu, đúng, công lý, công bằng, tài khoản vãng lai"
       },
       {
         "example": "当確",
         "reading": "トウカク",
-        "meaning": "projected to win, sure to be elected, home free"
+        "meaning": "projected to win, sure to be elected, home free |(vi) chắc chắn trúng cử, dự đoán đắc cử"
       },
       {
         "example": "順当",
         "reading": "ジュントウ",
-        "meaning": "proper, right, reasonable"
+        "meaning": "proper, right, reasonable |(vi) hợp lý, đúng đắn, thỏa đáng"
       },
       {
         "example": "過当",
         "reading": "カトウ",
-        "meaning": "excessive, exorbitant"
+        "meaning": "excessive, exorbitant |(vi) quá mức, quá đáng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "当たる",
         "reading": "あたる",
-        "meaning": "to be hit, to strike, to touch, to be in contact, to be affixed, to be equivalent to, to be applicable, to apply to, to be right on the money (of a prediction, criticism, etc.), to be selected (in a lottery, etc.), to win, to be successful, to go well, to be a hit, to face, to confront, to lie (in the direction of), to undertake, to be assigned, to be stricken (by food poisoning, heat, etc.), to be afflicted, to be called on (e.g. by a teacher), to treat (esp. harshly), to lash out at, to be unnecessary, to be hitting well, to be on a hitting streak, to feel a bite (in fishing), (of fruit, etc.) to be bruised, to spoil, to feel (something) out, to probe into, to check (i.e. by comparison), to shave, to be a relative of a person, to be a ... in relation to ..., to stand in a relationship"
+        "meaning": "to be hit, to strike, to touch, to be in contact, to be affixed, to be equivalent to, to be applicable, to apply to, to be right on the money (of a prediction, criticism, etc.), to be selected (in a lottery, etc.), to win, to be successful, to go well, to be a hit, to face, to confront, to lie (in the direction of), to undertake, to be assigned, to be stricken (by food poisoning, heat, etc.), to be afflicted, to be called on (e.g. by a teacher), to treat (esp. harshly), to lash out at, to be unnecessary, to be hitting well, to be on a hitting streak, to feel a bite (in fishing), (of fruit, etc.) to be bruised, to spoil, to feel (something) out, to probe into, to check (i.e. by comparison), to shave, to be a relative of a person, to be a ... in relation to ..., to stand in a relationship |(vi) bị trúng, va phải, chạm vào, tiếp xúc, được gắn vào, tương đương với, áp dụng cho, đúng như dự đoán (phê bình,...), trúng (xổ số,...), thắng, thành công, diễn ra suôn sẻ, gây tiếng vang, đối mặt, đương đầu, nằm theo hướng nào đó, đảm nhận, được giao việc, bị trúng (ngộ độc thực phẩm, say nắng,...), bị gọi tên (ví dụ bởi giáo viên), đối xử (đặc biệt khắc nghiệt), mắng nhiếc, không cần thiết, đang đánh tốt, cảm nhận cá cắn câu, bị dập (trái cây), bị hỏng, dò xét, thăm dò, kiểm tra so sánh, cạo, có quan hệ họ hàng, đóng vai trò trong một mối quan hệ"
       },
       {
         "example": "当たるも八卦当たらぬも八卦",
         "reading": "あたるもはっけあたらぬもはっけ",
-        "meaning": "a prediction may or may not come true, only god knows what will happen"
+        "meaning": "a prediction may or may not come true, only god knows what will happen |(vi) bói có thể đúng có thể sai, chỉ trời mới biết chuyện gì sẽ xảy ra"
       },
       {
         "example": "当たり",
         "reading": "あたり",
-        "meaning": "hit, success, guess, prediction, affability, friendliness, sensation, touch, bruise (on fruit), situation in which a stone or chain of stones may be captured on the next move, bite (of a fish on a hook), strike, per, each"
+        "meaning": "hit, success, guess, prediction, affability, friendliness, sensation, touch, bruise (on fruit), situation in which a stone or chain of stones may be captured on the next move, bite (of a fish on a hook), strike, per, each |(vi) trúng, thành công, đoán, dự đoán, thân thiện, dễ gần, cảm giác, sự đụng chạm, vết dập (trái cây), tình huống có thể bắt quân cờ ở nước tiếp theo, cá cắn câu, cú đánh, mỗi, từng"
       },
       {
         "example": "当たり前",
         "reading": "あたりまえ",
-        "meaning": "natural, reasonable, obvious, usual, common, ordinary, commonplace, the norm"
+        "meaning": "natural, reasonable, obvious, usual, common, ordinary, commonplace, the norm |(vi) tự nhiên, hợp lý, hiển nhiên, thông thường, phổ biến, bình thường, chuyện đương nhiên"
       },
       {
         "example": "坪当たり",
         "reading": "つぼあたり",
-        "meaning": "per tsubo (approx. 3.3 square meters)"
+        "meaning": "per tsubo (approx. 3.3 square meters) |(vi) mỗi tsubo (khoảng 3.3 mét vuông)"
       },
       {
         "example": "当てる",
         "reading": "あてる",
-        "meaning": "to hit, to expose, to apply (e.g. patch), to put on, to put against, to hold on, to hold against, to allot, to call on someone (e.g. in class), to guess (an answer), to make a hit (e.g. in a lottery)"
+        "meaning": "to hit, to expose, to apply (e.g. patch), to put on, to put against, to hold on, to hold against, to allot, to call on someone (e.g. in class), to guess (an answer), to make a hit (e.g. in a lottery) |(vi) làm trúng, để lộ, áp (ví dụ miếng dán), đặt lên, áp vào, giữ lên, giữ áp vào, phân bổ, gọi ai đó (ví dụ trong lớp), đoán câu trả lời, trúng (ví dụ xổ số)"
       },
       {
         "example": "当て",
         "reading": "あて",
-        "meaning": "aim, object, purpose, end, expectations, prospects, hopes, something that can be relied upon, snack served with alcoholic drink, pad, guard, blow, strike, addressed to, per"
+        "meaning": "aim, object, purpose, end, expectations, prospects, hopes, something that can be relied upon, snack served with alcoholic drink, pad, guard, blow, strike, addressed to, per |(vi) mục tiêu, đối tượng, mục đích, kỳ vọng, triển vọng, hy vọng, thứ có thể dựa vào, món nhắm rượu, miếng đệm, tấm chắn, cú đánh, gửi đến, mỗi"
       },
       {
         "example": "当てる",
         "reading": "あてる",
-        "meaning": "to hit, to expose, to apply (e.g. patch), to put on, to put against, to hold on, to hold against, to allot, to call on someone (e.g. in class), to guess (an answer), to make a hit (e.g. in a lottery)"
+        "meaning": "to hit, to expose, to apply (e.g. patch), to put on, to put against, to hold on, to hold against, to allot, to call on someone (e.g. in class), to guess (an answer), to make a hit (e.g. in a lottery) |(vi) làm trúng, để lộ, áp (ví dụ miếng dán), đặt lên, áp vào, giữ lên, giữ áp vào, phân bổ, gọi ai đó (ví dụ trong lớp), đoán câu trả lời, trúng (ví dụ xổ số)"
       },
       {
         "example": "引き当て",
         "reading": "ひきあて",
-        "meaning": "mortgage, security"
+        "meaning": "mortgage, security |(vi) thế chấp, vật bảo đảm"
       },
       {
         "example": "額当て",
         "reading": "ひたいあて",
-        "meaning": "(military) headband with reinforced metal plate, red headband"
+        "meaning": "(military) headband with reinforced metal plate, red headband |(vi) băng trán quân đội có tấm kim loại gia cố, băng trán đỏ"
       },
       {
         "example": "当に",
         "reading": "まさに",
-        "meaning": "really (ought to), certainly (should), naturally"
+        "meaning": "really (ought to), certainly (should), naturally |(vi) thật sự nên, chắc chắn phải, đương nhiên"
       }
     ],
     "radical": {
@@ -474,7 +474,7 @@
       "forms": [
         "彑"
       ],
-      "meaning": "pig snout"
+      "meaning": "pig snout |(vi) Kệ (mõm lợn)"
     },
     "parts": [
       "ヨ",

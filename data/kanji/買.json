@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ka, kau",
-    "meaning": "buy",
+    "meaning": "buy |(vi) mua",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "買収する（ばいしゅうする）",
         "meaning": {
-          "english": "purchase, buy, bribe"
+          "english": "purchase, buy, bribe |(vi) mua lại, mua, hối lộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-ka(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "売買する（ばいばいする）",
         "meaning": {
-          "english": "trade"
+          "english": "trade |(vi) mua bán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-ka(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "購買（こうばい）",
         "meaning": {
-          "english": "purchasing"
+          "english": "purchasing |(vi) sự mua sắm, thu mua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-ka(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "買う（かう）",
         "meaning": {
-          "english": "buy"
+          "english": "buy |(vi) mua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-ka(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "買い物（かいもの）",
         "meaning": {
-          "english": "shopping"
+          "english": "shopping |(vi) mua sắm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-ka(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "買い手（かいて）",
         "meaning": {
-          "english": "buyer"
+          "english": "buyer |(vi) người mua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-ka(u)_06_f.opus",
@@ -221,7 +221,7 @@
     "kanji": {
       "character": "買",
       "meaning": {
-        "english": "buy"
+        "english": "buy |(vi) mua"
       },
       "strokes": {
         "count": 12,
@@ -283,7 +283,7 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (con sò, của cải, tiền bạc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -304,7 +304,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "520",
     "strokeCount": 12,
-    "meaning": "buy",
+    "meaning": "buy |(vi) mua |(hv) Mãi",
     "kunyomi": [
       "か.う"
     ],
@@ -315,34 +315,34 @@
       {
         "example": "買収",
         "reading": "バイシュウ",
-        "meaning": "acquisition (esp. corporate), buy-out, takeover, purchase, bribery, buying off, corruption"
+        "meaning": "acquisition (esp. corporate), buy-out, takeover, purchase, bribery, buying off, corruption |(vi) thu mua (đặc biệt là doanh nghiệp), mua lại, thâu tóm, mua chuộc, hối lộ, tham nhũng"
       },
       {
         "example": "買収計画",
         "reading": "バイシュウケイカク",
-        "meaning": "purchasing plan, acquisition plan"
+        "meaning": "purchasing plan, acquisition plan |(vi) kế hoạch thu mua, kế hoạch mua lại"
       },
       {
         "example": "不買",
         "reading": "フバイ",
-        "meaning": "not buying"
+        "meaning": "not buying |(vi) tẩy chay, không mua"
       },
       {
         "example": "人身売買",
         "reading": "ジンシンバイバイ",
-        "meaning": "slave trade, white-slave trade, human trafficking"
+        "meaning": "slave trade, white-slave trade, human trafficking |(vi) buôn bán nô lệ, buôn người"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "買う",
         "reading": "かう",
-        "meaning": "to buy, to purchase, to value (highly), to think highly of, to have a high opinion of, to appreciate, to recognize, to incur (someone's anger, displeasure, etc.), to elicit (e.g. sneers), to invite (e.g. scorn), to evoke, to arouse, to win (someone's favour), to accept, to take on, to take up, to pay for (a prostitute, geisha, etc.)"
+        "meaning": "to buy, to purchase, to value (highly), to think highly of, to have a high opinion of, to appreciate, to recognize, to incur (someone's anger, displeasure, etc.), to elicit (e.g. sneers), to invite (e.g. scorn), to evoke, to arouse, to win (someone's favour), to accept, to take on, to take up, to pay for (a prostitute, geisha, etc.) |(vi) mua, đánh giá cao, coi trọng, có ấn tượng tốt, công nhận, chuốc lấy (giận dữ, khó chịu...), gây ra (chê cười...), khơi dậy (khinh miệt...), gợi lên, giành được (thiện cảm), chấp nhận, nhận lấy, đảm nhận, trả tiền (cho geisha, gái mại dâm...)"
       }
     ],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (con sò, của cải)"
     },
     "parts": [
       "ハ",

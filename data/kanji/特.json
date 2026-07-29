@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "special",
+    "meaning": "special |(vi) đặc biệt",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "特色（とくしょく）",
         "meaning": {
-          "english": "characteristic"
+          "english": "characteristic |(vi) đặc điểm, đặc sắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku(betsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "特徴（とくちょう）",
         "meaning": {
-          "english": "feature"
+          "english": "feature |(vi) đặc trưng, nét đặc trưng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku(betsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "特急（とっきゅう）",
         "meaning": {
-          "english": "express train"
+          "english": "express train |(vi) tàu tốc hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku(betsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "特別な（とくべつな）",
         "meaning": {
-          "english": "special"
+          "english": "special |(vi) đặc biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku(betsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "特有な（とくゆうな）",
         "meaning": {
-          "english": "peculiar (to)"
+          "english": "peculiar (to) |(vi) riêng có (của)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku(betsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "独特な（どくとくな）",
         "meaning": {
-          "english": "unique"
+          "english": "unique |(vi) độc đáo, riêng biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku(betsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "特訓する（とっくんする）",
         "meaning": {
-          "english": "give special training"
+          "english": "give special training |(vi) huấn luyện đặc biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku(betsu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "特集する（とくしゅうする）",
         "meaning": {
-          "english": "feature (e.g. newspaper)"
+          "english": "feature (e.g. newspaper) |(vi) làm chuyên đề, đăng bài đặc biệt (như báo)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/toku(betsu)_06_h.opus",
@@ -255,7 +255,7 @@
     "kanji": {
       "character": "特",
       "meaning": {
-        "english": "special"
+        "english": "special |(vi) đặc biệt"
       },
       "strokes": {
         "count": 10,
@@ -313,7 +313,7 @@
         "romaji": "ushihen"
       },
       "meaning": {
-        "english": "cow"
+        "english": "cow |(vi) Ngưu (bò, trâu)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ushihen0.svg",
@@ -334,7 +334,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "234",
     "strokeCount": 10,
-    "meaning": "special",
+    "meaning": "special |(vi) đặc biệt |(hv) Đặc",
     "kunyomi": [],
     "onyomi": [
       "トク"
@@ -343,22 +343,22 @@
       {
         "example": "特産",
         "reading": "トクサン",
-        "meaning": "being produced in a particular region, local specialty"
+        "meaning": "being produced in a particular region, local specialty |(vi) sản xuất tại một vùng nhất định, đặc sản địa phương"
       },
       {
         "example": "特異",
         "reading": "トクイ",
-        "meaning": "unique, peculiar, singular"
+        "meaning": "unique, peculiar, singular |(vi) độc đáo, đặc thù, kỳ lạ"
       },
       {
         "example": "快特",
         "reading": "カイトク",
-        "meaning": "rapid express (train service), rapid limited express"
+        "meaning": "rapid express (train service), rapid limited express |(vi) tàu tốc hành nhanh, tàu đặc biệt nhanh"
       },
       {
         "example": "在特",
         "reading": "ザイトク",
-        "meaning": "Special Permission to Stay in Japan, residence status that can be granted to illegal immigrants or overstayers"
+        "meaning": "Special Permission to Stay in Japan, residence status that can be granted to illegal immigrants or overstayers |(vi) giấy phép lưu trú đặc biệt tại Nhật (dành cho người nhập cư trái phép hoặc quá hạn)"
       }
     ],
     "kunyomiExamples": [],
@@ -367,7 +367,7 @@
       "forms": [
         "牜"
       ],
-      "meaning": "cow"
+      "meaning": "cow |(vi) Ngưu (bò, trâu)"
     },
     "parts": [
       "土",

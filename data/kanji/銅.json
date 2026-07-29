@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "copper",
+    "meaning": "copper |(vi) đồng (kim loại)",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "銅（どう）",
         "meaning": {
-          "english": "copper"
+          "english": "copper |(vi) đồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dou(zou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "銅山（どうざん）",
         "meaning": {
-          "english": "copper mine"
+          "english": "copper mine |(vi) mỏ đồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dou(zou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "銅貨（どうか）",
         "meaning": {
-          "english": "copper coin"
+          "english": "copper coin |(vi) tiền đồng, đồng xu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dou(zou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "銅像（どうぞう）",
         "meaning": {
-          "english": "bronze statue"
+          "english": "bronze statue |(vi) tượng đồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dou(zou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "青銅（せいどう）",
         "meaning": {
-          "english": "bronze"
+          "english": "bronze |(vi) đồng thau, thanh đồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dou(zou)_06_e.opus",
@@ -151,7 +151,7 @@
     "kanji": {
       "character": "銅",
       "meaning": {
-        "english": "copper"
+        "english": "copper |(vi) đồng (kim loại)"
       },
       "strokes": {
         "count": 14,
@@ -217,7 +217,7 @@
         "romaji": "kanehen"
       },
       "meaning": {
-        "english": "metal, gold, mineral"
+        "english": "metal, gold, mineral |(vi) Kim (kim loại, vàng, khoáng chất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kanehen0.svg",
@@ -238,7 +238,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1505",
     "strokeCount": 14,
-    "meaning": "copper",
+    "meaning": "copper |(vi) đồng |(hv) Đồng",
     "kunyomi": [
       "あかがね"
     ],
@@ -249,34 +249,34 @@
       {
         "example": "銅",
         "reading": "ドウ",
-        "meaning": "copper (Cu), bronze (medal)"
+        "meaning": "copper (Cu), bronze (medal) |(vi) đồng (Cu), huy chương đồng"
       },
       {
         "example": "銅像",
         "reading": "ドウゾウ",
-        "meaning": "bronze statue"
+        "meaning": "bronze statue |(vi) tượng đồng"
       },
       {
         "example": "白銅",
         "reading": "ハクドウ",
-        "meaning": "nickel and copper alloy"
+        "meaning": "nickel and copper alloy |(vi) hợp kim niken-đồng (bạch đồng)"
       },
       {
         "example": "精銅",
         "reading": "セイドウ",
-        "meaning": "refined copper"
+        "meaning": "refined copper |(vi) đồng tinh luyện"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "銅",
         "reading": "どう",
-        "meaning": "copper (Cu), bronze (medal)"
+        "meaning": "copper (Cu), bronze (medal) |(vi) đồng (Cu), huy chương đồng"
       },
       {
         "example": "銅色",
         "reading": "どうしょく",
-        "meaning": "bronze color, copper color"
+        "meaning": "bronze color, copper color |(vi) màu đồng, màu nâu đồng"
       }
     ],
     "radical": {
@@ -284,7 +284,7 @@
       "forms": [
         "釒"
       ],
-      "meaning": "metal, gold"
+      "meaning": "metal, gold |(vi) Kim (kim loại, vàng)"
     },
     "parts": [
       "一",

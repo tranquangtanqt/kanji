@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "mame",
-    "meaning": "bean, pea, miniature",
+    "meaning": "bean, pea, miniature |(vi) đậu, hạt đậu, thu nhỏ",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "豆腐（とうふ）",
         "meaning": {
-          "english": "tofu, bean-curd"
+          "english": "tofu, bean-curd |(vi) đậu phụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mame_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "豆乳（とうにゅう）",
         "meaning": {
-          "english": "soy milk"
+          "english": "soy milk |(vi) sữa đậu nành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mame_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "納豆（なっとう）",
         "meaning": {
-          "english": "natto (fermented soybeans)"
+          "english": "natto (fermented soybeans) |(vi) natto (đậu nành lên men)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mame_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "大豆（だいず）",
         "meaning": {
-          "english": "soy bean"
+          "english": "soy bean |(vi) đậu nành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mame_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "豆（まめ）",
         "meaning": {
-          "english": "beans, peas, miniature, tiny"
+          "english": "beans, peas, miniature, tiny |(vi) đậu, hạt đậu, thu nhỏ, tí hon"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mame_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "豆電球（まめでんきゅう）",
         "meaning": {
-          "english": "miniature light bulb"
+          "english": "miniature light bulb |(vi) bóng đèn nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mame_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "枝豆（えだまめ）",
         "meaning": {
-          "english": "green soybeans"
+          "english": "green soybeans |(vi) đậu nành xanh (edamame)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mame_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "*小豆（あずき）",
         "meaning": {
-          "english": "adzuki beans"
+          "english": "adzuki beans |(vi) đậu đỏ (azuki)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mame_06_h.opus",
@@ -204,7 +204,7 @@
     "kanji": {
       "character": "豆",
       "meaning": {
-        "english": "bean, pea, miniature"
+        "english": "bean, pea, miniature |(vi) đậu, hạt đậu, thu nhỏ"
       },
       "strokes": {
         "count": 7,
@@ -256,7 +256,7 @@
         "romaji": "mame"
       },
       "meaning": {
-        "english": "bean"
+        "english": "bean |(vi) Đậu (đậu, hạt đậu)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mame0.svg",
@@ -277,7 +277,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1422",
     "strokeCount": 7,
-    "meaning": "beans, pea, midget",
+    "meaning": "beans, pea, midget |(vi) đậu, hạt đậu, tí hon |(hv) Đậu",
     "kunyomi": [
       "まめ",
       "まめ-"
@@ -290,64 +290,64 @@
       {
         "example": "豆腐",
         "reading": "トウフ",
-        "meaning": "tofu, bean curd, beancurd"
+        "meaning": "tofu, bean curd, beancurd |(vi) đậu phụ"
       },
       {
         "example": "豆乳",
         "reading": "トウニュウ",
-        "meaning": "soy milk"
+        "meaning": "soy milk |(vi) sữa đậu nành"
       },
       {
         "example": "緑豆",
         "reading": "リョクトウ",
-        "meaning": "mung bean (Vigna radiata), green gram"
+        "meaning": "mung bean (Vigna radiata), green gram |(vi) đậu xanh"
       },
       {
         "example": "菜豆",
         "reading": "サイトウ",
-        "meaning": "haricot, kidney bean"
+        "meaning": "haricot, kidney bean |(vi) đậu tây, đậu thận"
       },
       {
         "example": "豆打",
         "reading": "ズンダ",
-        "meaning": "mashed boiled green soybeans"
+        "meaning": "mashed boiled green soybeans |(vi) đậu nành xanh nghiền"
       },
       {
         "example": "小豆",
         "reading": "アズキ",
-        "meaning": "adzuki bean (Vigna angularis)"
+        "meaning": "adzuki bean (Vigna angularis) |(vi) đậu đỏ (azuki)"
       },
       {
         "example": "大豆",
         "reading": "ダイズ",
-        "meaning": "soya bean (Glycine max), soybean, soy"
+        "meaning": "soya bean (Glycine max), soybean, soy |(vi) đậu nành, đậu tương"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "豆",
         "reading": "まめ",
-        "meaning": "legume (esp. edible legumes or their seeds, e.g. beans, peas, pulses), bean, pea, soya bean (Glycine max), soybean, soy, female genitalia (esp. the clitoris), kidney, small, miniature, baby, midget, small-scale, child"
+        "meaning": "legume (esp. edible legumes or their seeds, e.g. beans, peas, pulses), bean, pea, soya bean (Glycine max), soybean, soy, female genitalia (esp. the clitoris), kidney, small, miniature, baby, midget, small-scale, child |(vi) cây đậu (hạt đậu ăn được nói chung), đậu nành, bộ phận sinh dục nữ (đặc biệt âm vật), quả thận, nhỏ, thu nhỏ, non nớt, tí hon, quy mô nhỏ, trẻ con"
       },
       {
         "example": "豆知識",
         "reading": "まめちしき",
-        "meaning": "trivia, snippet of knowledge"
+        "meaning": "trivia, snippet of knowledge |(vi) kiến thức vặt, mẩu kiến thức nhỏ"
       },
       {
         "example": "枝豆",
         "reading": "えだまめ",
-        "meaning": "edamame (green soybeans)"
+        "meaning": "edamame (green soybeans) |(vi) đậu nành xanh (edamame)"
       },
       {
         "example": "ライ豆",
         "reading": "ライまめ",
-        "meaning": "lima bean (Phaseolus lunatus), butter bean"
+        "meaning": "lima bean (Phaseolus lunatus), butter bean |(vi) đậu lima, đậu bơ"
       }
     ],
     "radical": {
       "symbol": "豆",
-      "meaning": "bean"
+      "meaning": "bean |(vi) Đậu (đậu, hạt đậu)"
     },
     "parts": [
       "口",

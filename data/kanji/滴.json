@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "shizuku, shitata, shitataru",
-    "meaning": "drop, drip, trickle",
+    "meaning": "drop, drip, trickle |(vi) giọt, nhỏ giọt, chảy rỉ rả",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "点滴（てんてき）",
         "meaning": {
-          "english": "intravenous drip"
+          "english": "intravenous drip |(vi) truyền dịch tĩnh mạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki-shizuku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "水滴（すいてき）",
         "meaning": {
-          "english": "drop of water"
+          "english": "drop of water |(vi) giọt nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki-shizuku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "雨滴（うてき）",
         "meaning": {
-          "english": "raindrops"
+          "english": "raindrops |(vi) giọt mưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki-shizuku_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "滴下する（てきかする）",
         "meaning": {
-          "english": "drip, drop, distill"
+          "english": "drip, drop, distill |(vi) nhỏ giọt, chưng cất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki-shizuku_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "滴（しずく）",
         "meaning": {
-          "english": "drop, drip [n.]"
+          "english": "drop, drip [n.] |(vi) giọt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki-shizuku_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "滴る（したたる）",
         "meaning": {
-          "english": "drip, drop, trickle"
+          "english": "drip, drop, trickle |(vi) nhỏ giọt, rỉ giọt, chảy nhỏ giọt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki-shizuku_06_f.opus",
@@ -168,7 +168,7 @@
     "kanji": {
       "character": "滴",
       "meaning": {
-        "english": "drop, drip, trickle"
+        "english": "drop, drip, trickle |(vi) giọt, nhỏ giọt, chảy rỉ rả"
       },
       "strokes": {
         "count": 14,
@@ -234,7 +234,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -255,7 +255,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "2019",
     "strokeCount": 14,
-    "meaning": "drip, drop",
+    "meaning": "drip, drop |(vi) nhỏ giọt, giọt |(hv) Trích",
     "kunyomi": [
       "しずく",
       "したた.る"
@@ -267,34 +267,34 @@
       {
         "example": "滴",
         "reading": "テキ",
-        "meaning": "counter for drops of liquid"
+        "meaning": "counter for drops of liquid |(vi) lượng từ đếm giọt chất lỏng"
       },
       {
         "example": "滴下",
         "reading": "テキカ",
-        "meaning": "drip, drop, distill"
+        "meaning": "drip, drop, distill |(vi) nhỏ giọt, chưng cất"
       },
       {
         "example": "雨滴",
         "reading": "ウテキ",
-        "meaning": "raindrop"
+        "meaning": "raindrop |(vi) giọt mưa"
       },
       {
         "example": "数滴",
         "reading": "スウテキ",
-        "meaning": "several drops"
+        "meaning": "several drops |(vi) vài giọt"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "滴",
         "reading": "しずく",
-        "meaning": "drop (e.g. of water), drip"
+        "meaning": "drop (e.g. of water), drip |(vi) giọt (nước), nhỏ giọt"
       },
       {
         "example": "滴る",
         "reading": "したたる",
-        "meaning": "to drip, to drop, to trickle, to overflow (with freshness, beauty, etc.)"
+        "meaning": "to drip, to drop, to trickle, to overflow (with freshness, beauty, etc.) |(vi) nhỏ giọt, rỉ giọt, chảy nhỏ giọt, tràn đầy (sức sống, vẻ đẹp)"
       }
     ],
     "radical": {
@@ -303,7 +303,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "亠",

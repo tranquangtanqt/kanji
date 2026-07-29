@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ko, koi, kosa",
-    "meaning": "thick, dark",
+    "meaning": "thick, dark |(vi) đậm, đặc, sẫm màu",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "濃度（のうど）",
         "meaning": {
-          "english": "concentration, brightness"
+          "english": "concentration, brightness |(vi) nồng độ, độ sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nou-ko(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "濃霧（のうむ）",
         "meaning": {
-          "english": "heavy fog"
+          "english": "heavy fog |(vi) sương mù dày đặc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nou-ko(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "濃紺（のうこん）",
         "meaning": {
-          "english": "dark blue"
+          "english": "dark blue |(vi) xanh đậm, xanh navy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nou-ko(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "濃淡（のうたん）",
         "meaning": {
-          "english": "light and shade, chiaroscuro"
+          "english": "light and shade, chiaroscuro |(vi) đậm nhạt, sắc độ sáng tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nou-ko(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "濃密な（のうみつな）",
         "meaning": {
-          "english": "thick, crowded"
+          "english": "thick, crowded |(vi) dày đặc, đông đúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nou-ko(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "濃厚な（のうこうな）",
         "meaning": {
-          "english": "dense, rich, concentrated"
+          "english": "dense, rich, concentrated |(vi) đậm đặc, đậm đà, cô đặc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nou-ko(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "濃縮する（のうしゅくする）",
         "meaning": {
-          "english": "concentrate"
+          "english": "concentrate |(vi) cô đặc, làm đậm đặc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nou-ko(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "濃い（こい）",
         "meaning": {
-          "english": "thick, dense, strong"
+          "english": "thick, dense, strong |(vi) đậm, đặc, mạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nou-ko(i)_06_h.opus",
@@ -210,7 +210,7 @@
     "kanji": {
       "character": "濃",
       "meaning": {
-        "english": "thick, dark"
+        "english": "thick, dark |(vi) đậm, đặc, sẫm màu"
       },
       "strokes": {
         "count": 16,
@@ -280,7 +280,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -301,7 +301,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1200",
     "strokeCount": 16,
-    "meaning": "concentrated, thick, dark, undiluted",
+    "meaning": "concentrated, thick, dark, undiluted |(vi) cô đặc, đậm, sẫm màu, nguyên chất (không pha loãng) |(hv) Nồng",
     "kunyomi": [
       "こ.い"
     ],
@@ -312,29 +312,29 @@
       {
         "example": "濃",
         "reading": "ノウ",
-        "meaning": "dark (color), concentrated, thick"
+        "meaning": "dark (color), concentrated, thick |(vi) sẫm màu, cô đặc, đậm"
       },
       {
         "example": "濃厚",
         "reading": "ノウコウ",
-        "meaning": "rich (flavor, color, etc.), strong (e.g. odor), heavy, thick (soup, makeup, etc.), dense, probable, (very) likely, strong (suspicion, sense, etc.), pronounced, passionate, sensuous, hot"
+        "meaning": "rich (flavor, color, etc.), strong (e.g. odor), heavy, thick (soup, makeup, etc.), dense, probable, (very) likely, strong (suspicion, sense, etc.), pronounced, passionate, sensuous, hot |(vi) đậm đà (hương vị, màu sắc...), nồng (mùi), nặng, đặc (súp, trang điểm...), dày đặc, có khả năng cao, rất có thể, mạnh (nghi ngờ, cảm giác...), rõ rệt, đam mê, gợi cảm, nồng nhiệt"
       },
       {
         "example": "特濃",
         "reading": "トクノウ",
-        "meaning": "highly concentrated, thick, rich, dark"
+        "meaning": "highly concentrated, thick, rich, dark |(vi) rất đậm đặc, đặc, đậm đà, sẫm màu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "濃い",
         "reading": "こい",
-        "meaning": "deep (colour), dark, strong (flavour, smell, etc.), thick (consistency), dense, strong (possibility, etc.), thick (i.e. \"as thick as thieves\"), close, deep (love, etc.)"
+        "meaning": "deep (colour), dark, strong (flavour, smell, etc.), thick (consistency), dense, strong (possibility, etc.), thick (i.e. \"as thick as thieves\"), close, deep (love, etc.) |(vi) đậm (màu), sẫm, nồng (hương vị, mùi...), đặc (độ sệt), dày đặc, khả năng cao, thân thiết khắng khít, sâu đậm (tình yêu...)"
       },
       {
         "example": "濃い口",
         "reading": "こいくち",
-        "meaning": "rich (taste), dark-coloured, thick, heavy, dark soy sauce"
+        "meaning": "rich (taste), dark-coloured, thick, heavy, dark soy sauce |(vi) đậm đà (vị), sẫm màu, đặc, nặng, nước tương đậm màu"
       }
     ],
     "radical": {
@@ -343,7 +343,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "一",

@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "ita, itai, itamu, itamashii, itameru, itami",
-    "meaning": "pain",
+    "meaning": "pain |(vi) đau, đau đớn",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "頭痛（ずつう）",
         "meaning": {
-          "english": "headache"
+          "english": "headache |(vi) đau đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ita(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "筋肉痛（きんにくつう）",
         "meaning": {
-          "english": "muscular pain"
+          "english": "muscular pain |(vi) đau cơ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ita(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "痛快な（つうかいな）",
         "meaning": {
-          "english": "piquant, thrilling"
+          "english": "piquant, thrilling |(vi) khoái trá, hả hê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ita(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "痛い（いたい）",
         "meaning": {
-          "english": "painful"
+          "english": "painful |(vi) đau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ita(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "痛み止め（いたみどめ）",
         "meaning": {
-          "english": "painkiller"
+          "english": "painkiller |(vi) thuốc giảm đau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ita(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "痛ましい（いたましい）",
         "meaning": {
-          "english": "pitiful, heartbreaking"
+          "english": "pitiful, heartbreaking |(vi) thương tâm, đau lòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ita(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "痛める（いためる）",
         "meaning": {
-          "english": "hurt [v.t.]"
+          "english": "hurt [v.t.] |(vi) làm đau, làm tổn thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ita(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "痛む（いたむ）",
         "meaning": {
-          "english": "feel a pain [v.i.]"
+          "english": "feel a pain [v.i.] |(vi) cảm thấy đau, đau nhức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ita(i)_06_h.opus",
@@ -257,7 +257,7 @@
     "kanji": {
       "character": "痛",
       "meaning": {
-        "english": "pain"
+        "english": "pain |(vi) đau, đau đớn"
       },
       "strokes": {
         "count": 12,
@@ -319,7 +319,7 @@
         "romaji": "yamaidare"
       },
       "meaning": {
-        "english": "sickness"
+        "english": "sickness |(vi) Nạch (bệnh tật)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yamaidare0.svg",
@@ -340,7 +340,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "903",
     "strokeCount": 12,
-    "meaning": "pain, hurt, damage, bruise",
+    "meaning": "pain, hurt, damage, bruise |(vi) đau, tổn thương, hư hại, bầm tím |(hv) Thống",
     "kunyomi": [
       "いた.い",
       "いた.む",
@@ -354,54 +354,54 @@
       {
         "example": "痛",
         "reading": "ツウ",
-        "meaning": "pain, ache, -algia"
+        "meaning": "pain, ache, -algia |(vi) đau, nhức, chứng đau (hậu tố)"
       },
       {
         "example": "痛感",
         "reading": "ツウカン",
-        "meaning": "feeling keenly, fully realizing"
+        "meaning": "feeling keenly, fully realizing |(vi) cảm nhận sâu sắc, thấm thía"
       },
       {
         "example": "悲痛",
         "reading": "ヒツウ",
-        "meaning": "grief, sorrow, extreme sadness, heartbreak"
+        "meaning": "grief, sorrow, extreme sadness, heartbreak |(vi) bi thương, đau buồn, cực kỳ đau khổ, đau lòng"
       },
       {
         "example": "沈痛",
         "reading": "チンツウ",
-        "meaning": "grave, sad, mournful, sorrowful, pensive"
+        "meaning": "grave, sad, mournful, sorrowful, pensive |(vi) nghiêm trọng, buồn bã, thương tiếc, u sầu, trầm tư"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "痛い",
         "reading": "いたい",
-        "meaning": "painful, sore, cringy, embarrassing"
+        "meaning": "painful, sore, cringy, embarrassing |(vi) đau, nhức, ngượng, xấu hổ"
       },
       {
         "example": "痛々しい",
         "reading": "いたいたしい",
-        "meaning": "pitiful, pathetic, painful to look at"
+        "meaning": "pitiful, pathetic, painful to look at |(vi) đáng thương, thảm hại, nhìn mà đau lòng"
       },
       {
         "example": "痛む",
         "reading": "いたむ",
-        "meaning": "to hurt, to ache, to feel a pain, to be injured, to be spoiled (e.g. food), to be damaged"
+        "meaning": "to hurt, to ache, to feel a pain, to be injured, to be spoiled (e.g. food), to be damaged |(vi) đau, nhức, cảm thấy đau, bị thương, bị hỏng (thức ăn), bị hư hại"
       },
       {
         "example": "痛ましい",
         "reading": "いたましい",
-        "meaning": "pitiful, heartbreaking, heartrending, touching, tragic, sad, hurtful"
+        "meaning": "pitiful, heartbreaking, heartrending, touching, tragic, sad, hurtful |(vi) đáng thương, đau lòng, xé lòng, cảm động, bi thảm, buồn, gây tổn thương"
       },
       {
         "example": "痛める",
         "reading": "いためる",
-        "meaning": "to hurt, to injure, to cause pain, to harm, to damage, to spoil, to worry, to bother, to be grieved over, to afflict, to cause financial loss, to hurt one's pocket"
+        "meaning": "to hurt, to injure, to cause pain, to harm, to damage, to spoil, to worry, to bother, to be grieved over, to afflict, to cause financial loss, to hurt one's pocket |(vi) làm đau, làm tổn thương, gây đau, gây hại, làm hỏng, làm lo lắng, làm phiền, gây đau buồn, gây khổ sở, gây tổn thất tài chính, tốn kém"
       }
     ],
     "radical": {
       "symbol": "疒",
-      "meaning": "sickness"
+      "meaning": "sickness |(vi) Nạch (bệnh tật)"
     },
     "parts": [
       "マ",

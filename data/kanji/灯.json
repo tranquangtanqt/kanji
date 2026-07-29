@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "hi",
-    "meaning": "lamp, light",
+    "meaning": "lamp, light |(vi) đèn, ánh sáng",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "灯火（とうか）",
         "meaning": {
-          "english": "light"
+          "english": "light |(vi) ánh đèn, ánh sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(keikou)tou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "灯台（とうだい）",
         "meaning": {
-          "english": "lighthouse"
+          "english": "lighthouse |(vi) hải đăng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(keikou)tou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "灯油（とうゆ）",
         "meaning": {
-          "english": "lamp oil, kerosene"
+          "english": "lamp oil, kerosene |(vi) dầu đèn, dầu hỏa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(keikou)tou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "電灯（でんとう）",
         "meaning": {
-          "english": "electric light"
+          "english": "electric light |(vi) đèn điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(keikou)tou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "街灯（がいとう）",
         "meaning": {
-          "english": "street light"
+          "english": "street light |(vi) đèn đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(keikou)tou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "消灯（しょうとう）",
         "meaning": {
-          "english": "putting out the lights"
+          "english": "putting out the lights |(vi) tắt đèn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(keikou)tou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "蛍光灯（けいこうとう）",
         "meaning": {
-          "english": "fluorescent lamp"
+          "english": "fluorescent lamp |(vi) đèn huỳnh quang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(keikou)tou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "灯（ひ）",
         "meaning": {
-          "english": "light [n.]"
+          "english": "light [n.] |(vi) ánh đèn, ánh sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(keikou)tou_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "*提灯（ちょうちん）",
         "meaning": {
-          "english": "paper lantern"
+          "english": "paper lantern |(vi) đèn lồng giấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(keikou)tou_06_i.opus",
@@ -191,7 +191,7 @@
     "kanji": {
       "character": "灯",
       "meaning": {
-        "english": "lamp, light"
+        "english": "lamp, light |(vi) đèn, ánh sáng"
       },
       "strokes": {
         "count": 6,
@@ -241,7 +241,7 @@
         "romaji": "hihen"
       },
       "meaning": {
-        "english": "fire"
+        "english": "fire |(vi) Hỏa (lửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hihen-fire0.svg",
@@ -262,7 +262,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1605",
     "strokeCount": 6,
-    "meaning": "lamp, a light, light, counter for lights",
+    "meaning": "lamp, a light, light, counter for lights |(vi) đèn, ánh sáng, ánh đèn, lượng từ đếm đèn |(hv) Đăng",
     "kunyomi": [
       "ひ",
       "ほ-",
@@ -277,54 +277,54 @@
       {
         "example": "灯",
         "reading": "トウ",
-        "meaning": "light, lamp, counter for electric lights"
+        "meaning": "light, lamp, counter for electric lights |(vi) ánh sáng, đèn, lượng từ đếm đèn điện"
       },
       {
         "example": "灯台",
         "reading": "トウダイ",
-        "meaning": "lighthouse, old-fashioned interior light fixture comprising a wooden pole with an oil-filled dish and a wick atop it"
+        "meaning": "lighthouse, old-fashioned interior light fixture comprising a wooden pole with an oil-filled dish and a wick atop it |(vi) hải đăng, đèn dầu kiểu cổ (cột gỗ có đĩa dầu và bấc đèn)"
       },
       {
         "example": "消灯",
         "reading": "ショウトウ",
-        "meaning": "putting out the lights, turning off the lights"
+        "meaning": "putting out the lights, turning off the lights |(vi) tắt đèn"
       },
       {
         "example": "探海灯",
         "reading": "タンカイトウ",
-        "meaning": "searchlight"
+        "meaning": "searchlight |(vi) đèn pha (dò biển)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "灯",
         "reading": "ひ",
-        "meaning": "light, lamp"
+        "meaning": "light, lamp |(vi) ánh sáng, đèn"
       },
       {
         "example": "灯明かり",
         "reading": "ひあかり",
-        "meaning": "lamplight, torchlight"
+        "meaning": "lamplight, torchlight |(vi) ánh đèn, ánh đuốc"
       },
       {
         "example": "灯火",
         "reading": "ともしび",
-        "meaning": "light, lamp, torch"
+        "meaning": "light, lamp, torch |(vi) ánh sáng, đèn, đuốc"
       },
       {
         "example": "灯す",
         "reading": "ともす",
-        "meaning": "to light (a candle, lamp, etc.), to turn on (a light)"
+        "meaning": "to light (a candle, lamp, etc.), to turn on (a light) |(vi) thắp (nến, đèn...), bật đèn"
       },
       {
         "example": "明かり",
         "reading": "あかり",
-        "meaning": "light, glow, gleam, (a) light, lights, lamp, proof (of innocence)"
+        "meaning": "light, glow, gleam, (a) light, lights, lamp, proof (of innocence) |(vi) ánh sáng, ánh rực, ánh lóe, đèn, chứng cứ (chứng minh sự trong sạch)"
       },
       {
         "example": "明かりを消す",
         "reading": "あかりをけす",
-        "meaning": "to turn the lights off"
+        "meaning": "to turn the lights off |(vi) tắt đèn"
       }
     ],
     "radical": {
@@ -332,7 +332,7 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": "fire |(vi) Hỏa (lửa)"
     },
     "parts": [
       "一",

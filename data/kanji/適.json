@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "suitable, fit, suit, appropriate",
+    "meaning": "suitable, fit, suit, appropriate |(vi) thích hợp, phù hợp, vừa vặn, thỏa đáng",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "適量（てきりょう）",
         "meaning": {
-          "english": "proper quantity"
+          "english": "proper quantity |(vi) lượng vừa đủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki(dona)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "適性（てきせい）",
         "meaning": {
-          "english": "aptitude"
+          "english": "aptitude |(vi) năng khiếu, sự phù hợp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki(dona)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "適齢期（てきれいき）",
         "meaning": {
-          "english": "marriageable age"
+          "english": "marriageable age |(vi) tuổi kết hôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki(dona)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "適当な（てきとうな）",
         "meaning": {
-          "english": "fit, suitable, adequate"
+          "english": "fit, suitable, adequate |(vi) thích hợp, vừa phải, đầy đủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki(dona)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "適切な（てきせつな）",
         "meaning": {
-          "english": "pertinent, appropriate"
+          "english": "pertinent, appropriate |(vi) thích đáng, phù hợp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki(dona)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "適度な（てきどな）",
         "meaning": {
-          "english": "moderate"
+          "english": "moderate |(vi) vừa phải, điều độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki(dona)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "適正な（てきせいな）",
         "meaning": {
-          "english": "reasonable, suitable"
+          "english": "reasonable, suitable |(vi) hợp lý, thích hợp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki(dona)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "最適な（さいてきな）",
         "meaning": {
-          "english": "optimal, most suitable"
+          "english": "optimal, most suitable |(vi) tối ưu, thích hợp nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki(dona)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "適する（てきする）",
         "meaning": {
-          "english": "fit, suit [v.i.]"
+          "english": "fit, suit [v.i.] |(vi) thích hợp, phù hợp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki(dona)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "適用する（てきようする）",
         "meaning": {
-          "english": "apply"
+          "english": "apply |(vi) áp dụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki(dona)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "適合する（てきごうする）",
         "meaning": {
-          "english": "suit, adapted, conform [v.i.]"
+          "english": "suit, adapted, conform [v.i.] |(vi) phù hợp, thích ứng, tuân theo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki(dona)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "適応する（てきおうする）",
         "meaning": {
-          "english": "adapt, accommodate [v.i.]"
+          "english": "adapt, accommodate [v.i.] |(vi) thích nghi, thích ứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/teki(dona)_06_l.opus",
@@ -271,7 +271,7 @@
     "kanji": {
       "character": "適",
       "meaning": {
-        "english": "suitable, fit, suit, appropriate"
+        "english": "suitable, fit, suit, appropriate |(vi) thích hợp, phù hợp, vừa vặn, thỏa đáng"
       },
       "strokes": {
         "count": 14,
@@ -337,7 +337,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đi, bước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -358,7 +358,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "670",
     "strokeCount": 14,
-    "meaning": "suitable, occasional, rare, qualified, capable",
+    "meaning": "suitable, occasional, rare, qualified, capable |(vi) thích hợp, thỉnh thoảng, hiếm khi, đủ tư cách, có năng lực |(hv) Thích",
     "kunyomi": [
       "かな.う"
     ],
@@ -369,29 +369,29 @@
       {
         "example": "的確",
         "reading": "テキカク",
-        "meaning": "accurate, precise, exact, appropriate, apt, right"
+        "meaning": "accurate, precise, exact, appropriate, apt, right |(vi) chính xác, đúng đắn, thích hợp, phù hợp, đúng"
       },
       {
         "example": "適応",
         "reading": "テキオウ",
-        "meaning": "adaptation, accommodation, conformity"
+        "meaning": "adaptation, accommodation, conformity |(vi) sự thích nghi, thích ứng, phù hợp"
       },
       {
         "example": "不適",
         "reading": "フテキ",
-        "meaning": "inadequacy, inappropriateness, unfitness, impropriety"
+        "meaning": "inadequacy, inappropriateness, unfitness, impropriety |(vi) không đầy đủ, không phù hợp, không đủ tư cách, không đúng mực"
       },
       {
         "example": "悠々自適",
         "reading": "ユウユウジテキ",
-        "meaning": "living a life of leisure with dignity, living quietly and comfortably free from worldly cares, otium cum dignitate"
+        "meaning": "living a life of leisure with dignity, living quietly and comfortably free from worldly cares, otium cum dignitate |(vi) sống an nhàn tự tại, sống thanh thản thoát khỏi lo toan thế tục"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "叶う",
         "reading": "かなう",
-        "meaning": "to come true (of a wish, prayer, etc.), to be realized, to be fulfilled, to suit (e.g. a purpose), to meet (wishes, ideals, etc.), to conform to (standards, rules, etc.), to be consistent with, to match (implies competition), to rival, to bear (e.g. the heat)"
+        "meaning": "to come true (of a wish, prayer, etc.), to be realized, to be fulfilled, to suit (e.g. a purpose), to meet (wishes, ideals, etc.), to conform to (standards, rules, etc.), to be consistent with, to match (implies competition), to rival, to bear (e.g. the heat) |(vi) trở thành hiện thực (điều ước, lời cầu nguyện), được thực hiện, phù hợp (với mục đích), đáp ứng (nguyện vọng, lý tưởng), tuân theo (tiêu chuẩn, quy tắc), sánh ngang (hàm ý cạnh tranh), chịu đựng được (ví dụ như cái nóng)"
       }
     ],
     "radical": {
@@ -401,7 +401,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, bước)"
     },
     "parts": [
       "亠",

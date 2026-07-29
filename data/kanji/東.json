@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "higashi",
-    "meaning": "east",
+    "meaning": "east |(vi) hướng đông",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "東京（とうきょう）",
         "meaning": {
-          "english": "Tokyo"
+          "english": "Tokyo |(vi) Tokyo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "東部（とうぶ）",
         "meaning": {
-          "english": "eastern part"
+          "english": "eastern part |(vi) phần phía đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "東北（とうほく）",
         "meaning": {
-          "english": "Touhoku"
+          "english": "Touhoku |(vi) vùng Tohoku (Đông Bắc Nhật Bản)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "東洋（とうよう）",
         "meaning": {
-          "english": "East Asia"
+          "english": "East Asia |(vi) Đông Á, phương Đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "東西南北（とうざいなんぼく）",
         "meaning": {
-          "english": "east, west, south and north"
+          "english": "east, west, south and north |(vi) đông, tây, nam, bắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "関東（かんとう）",
         "meaning": {
-          "english": "Kantou"
+          "english": "Kantou |(vi) vùng Kanto"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "中東（ちゅうとう）",
         "meaning": {
-          "english": "Middle East"
+          "english": "Middle East |(vi) Trung Đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "東（ひがし）",
         "meaning": {
-          "english": "east"
+          "english": "east |(vi) hướng đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_h.opus",
@@ -244,7 +244,7 @@
     "kanji": {
       "character": "東",
       "meaning": {
-        "english": "east"
+        "english": "east |(vi) hướng đông"
       },
       "strokes": {
         "count": 8,
@@ -297,7 +297,7 @@
         "romaji": "ki"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ki0.svg",
@@ -318,7 +318,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "37",
     "strokeCount": 8,
-    "meaning": "east",
+    "meaning": "east |(vi) hướng đông, phương đông |(hv) Đông",
     "kunyomi": [
       "ひがし"
     ],
@@ -329,44 +329,44 @@
       {
         "example": "東欧",
         "reading": "トウオウ",
-        "meaning": "Eastern Europe"
+        "meaning": "Eastern Europe |(vi) Đông Âu"
       },
       {
         "example": "東亜",
         "reading": "トウア",
-        "meaning": "East Asia, the Orient"
+        "meaning": "East Asia, the Orient |(vi) Đông Á, phương Đông"
       },
       {
         "example": "北北東",
         "reading": "ホクホクトウ",
-        "meaning": "north-northeast, north-north-east"
+        "meaning": "north-northeast, north-north-east |(vi) hướng bắc đông bắc"
       },
       {
         "example": "東北東",
         "reading": "トウホクトウ",
-        "meaning": "east-northeast, ENE"
+        "meaning": "east-northeast, ENE |(vi) hướng đông đông bắc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "東",
         "reading": "ひがし",
-        "meaning": "east"
+        "meaning": "east |(vi) hướng đông"
       },
       {
         "example": "東方",
         "reading": "とうほう",
-        "meaning": "eastern direction, the Orient, eastern fighter in a match (e.g. sumo wrestling)"
+        "meaning": "eastern direction, the Orient, eastern fighter in a match (e.g. sumo wrestling) |(vi) hướng đông, phương Đông, đấu thủ phía đông (trong thi đấu, vd. sumo)"
       },
       {
         "example": "犬が西向きゃ尾は東",
         "reading": "いぬがにしむきゃおはひがし",
-        "meaning": "that goes without saying, water is wet, when a dog turns west, its tail turns east"
+        "meaning": "that goes without saying, water is wet, when a dog turns west, its tail turns east |(vi) điều hiển nhiên, chuyện đương nhiên (chó quay đầu về tây thì đuôi quay về đông)"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "一",

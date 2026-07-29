@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "se, sei, somuku, somukeru",
-    "meaning": "back",
+    "meaning": "back |(vi) lưng",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "背後（はいご）",
         "meaning": {
-          "english": "back"
+          "english": "back |(vi) phía sau, đằng sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/somu(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "背景（はいけい）",
         "meaning": {
-          "english": "background"
+          "english": "background |(vi) bối cảnh, nền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/somu(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "背（せ/せい）",
         "meaning": {
-          "english": "height (of body)"
+          "english": "height (of body) |(vi) chiều cao (cơ thể)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/somu(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "背広（せびろ）",
         "meaning": {
-          "english": "business suit"
+          "english": "business suit |(vi) bộ vest công sở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/somu(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "背中（せなか）",
         "meaning": {
-          "english": "back (of body)"
+          "english": "back (of body) |(vi) lưng (cơ thể)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/somu(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "背負う（せおう）",
         "meaning": {
-          "english": "carry on back or shoulder"
+          "english": "carry on back or shoulder |(vi) cõng, vác trên lưng hoặc vai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/somu(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "背比べ（せいくらべ）",
         "meaning": {
-          "english": "comparing heights"
+          "english": "comparing heights |(vi) so chiều cao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/somu(ku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "背く（そむく）",
         "meaning": {
-          "english": "run counter to [v.i.]"
+          "english": "run counter to [v.i.] |(vi) làm trái lại, đi ngược lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/somu(ku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "背ける（そむける）",
         "meaning": {
-          "english": "turn one's face away [v.t.]"
+          "english": "turn one's face away [v.t.] |(vi) quay mặt đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/somu(ku)_06_i.opus",
@@ -225,7 +225,7 @@
     "kanji": {
       "character": "背",
       "meaning": {
-        "english": "back"
+        "english": "back |(vi) lưng"
       },
       "strokes": {
         "count": 9,
@@ -281,7 +281,7 @@
         "romaji": "nikuzuki"
       },
       "meaning": {
-        "english": "meat, flesh"
+        "english": "meat, flesh |(vi) Nhục (thịt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nikuzuki0.svg",
@@ -302,7 +302,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "696",
     "strokeCount": 9,
-    "meaning": "stature, height, back, behind, disobey, defy, go back on, rebel",
+    "meaning": "stature, height, back, behind, disobey, defy, go back on, rebel |(vi) vóc dáng, chiều cao, lưng, đằng sau, bất tuân, chống lại, phản bội, làm trái |(hv) Bối",
     "kunyomi": [
       "せ",
       "せい",
@@ -316,64 +316,64 @@
       {
         "example": "背後",
         "reading": "ハイゴ",
-        "meaning": "back, rear, background, behind the scenes"
+        "meaning": "back, rear, background, behind the scenes |(vi) phía sau, hậu phương, hậu trường"
       },
       {
         "example": "背景",
         "reading": "ハイケイ",
-        "meaning": "background, scenery, backdrop, setting, background (of an incident, situation, etc.), circumstances, context, backing, support (from behind the scenes)"
+        "meaning": "background, scenery, backdrop, setting, background (of an incident, situation, etc.), circumstances, context, backing, support (from behind the scenes) |(vi) bối cảnh, khung cảnh, phông nền, hoàn cảnh (của sự việc), nguyên do, sự hậu thuẫn (từ phía sau)"
       },
       {
         "example": "違背",
         "reading": "イハイ",
-        "meaning": "violation, transgression"
+        "meaning": "violation, transgression |(vi) vi phạm, sự trái phép"
       },
       {
         "example": "向背",
         "reading": "コウハイ",
-        "meaning": "one's attitude, state of affairs"
+        "meaning": "one's attitude, state of affairs |(vi) thái độ của ai đó, tình thế"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "背",
         "reading": "せ",
-        "meaning": "back, reverse, rear side, back (e.g. of a chair), spine (of a book), height, stature, ridge (of a mountain)"
+        "meaning": "back, reverse, rear side, back (e.g. of a chair), spine (of a book), height, stature, ridge (of a mountain) |(vi) lưng, mặt sau, phía sau (như của ghế), gáy sách, chiều cao, vóc dáng, sống núi"
       },
       {
         "example": "背",
         "reading": "せい",
-        "meaning": "height, stature"
+        "meaning": "height, stature |(vi) chiều cao, vóc dáng"
       },
       {
         "example": "膝皿貝",
         "reading": "ひざらがい",
-        "meaning": "chiton (any marine mollusk of the class Polyplacophora), sea cradle, Japanese chiton (Acanthopleura japonica)"
+        "meaning": "chiton (any marine mollusk of the class Polyplacophora), sea cradle, Japanese chiton (Acanthopleura japonica) |(vi) chiton (một loài nhuyễn thể biển thuộc lớp Polyplacophora), ốc yên ngựa"
       },
       {
         "example": "角背",
         "reading": "かくせ",
-        "meaning": "flat back (book spine), square back"
+        "meaning": "flat back (book spine), square back |(vi) gáy sách vuông, bìa lưng vuông"
       },
       {
         "example": "背",
         "reading": "せい",
-        "meaning": "height, stature"
+        "meaning": "height, stature |(vi) chiều cao, vóc dáng"
       },
       {
         "example": "背丈",
         "reading": "せたけ",
-        "meaning": "stature, height"
+        "meaning": "stature, height |(vi) vóc dáng, chiều cao"
       },
       {
         "example": "背く",
         "reading": "そむく",
-        "meaning": "to run counter to, to go against, to disobey, to infringe"
+        "meaning": "to run counter to, to go against, to disobey, to infringe |(vi) làm trái lại, đi ngược lại, bất tuân, vi phạm"
       },
       {
         "example": "背ける",
         "reading": "そむける",
-        "meaning": "to turn (one's face) away, to avert (one's eyes)"
+        "meaning": "to turn (one's face) away, to avert (one's eyes) |(vi) quay mặt đi, tránh nhìn"
       }
     ],
     "radical": {
@@ -381,7 +381,7 @@
       "forms": [
         "⺼"
       ],
-      "meaning": "meat"
+      "meaning": "meat |(vi) Nhục (thịt)"
     },
     "parts": [
       "匕",

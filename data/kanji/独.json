@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "hito, hitori",
-    "meaning": "alone, Germany",
+    "meaning": "alone, Germany |(vi) một mình, nước Đức",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "独身（どくしん）",
         "meaning": {
-          "english": "single, unmarried"
+          "english": "single, unmarried |(vi) độc thân, chưa kết hôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/doku(ritsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "独学（どくがく）",
         "meaning": {
-          "english": "self-education"
+          "english": "self-education |(vi) tự học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/doku(ritsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "独文（どくぶん）",
         "meaning": {
-          "english": "German literature"
+          "english": "German literature |(vi) văn học Đức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/doku(ritsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "独裁政治（どくさいせいじ）",
         "meaning": {
-          "english": "dictatorship, despotism"
+          "english": "dictatorship, despotism |(vi) chế độ độc tài, chuyên chế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/doku(ritsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "独善的な（どくぜんてきな）",
         "meaning": {
-          "english": "self-righteous"
+          "english": "self-righteous |(vi) tự cho mình là đúng, độc đoán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/doku(ritsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "単独（たんどく）",
         "meaning": {
-          "english": "sole, single, solo"
+          "english": "sole, single, solo |(vi) đơn độc, một mình, đơn lẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/doku(ritsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "孤独な（こどくな）",
         "meaning": {
-          "english": "alone, isolate, lonely"
+          "english": "alone, isolate, lonely |(vi) cô độc, cô đơn, lẻ loi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/doku(ritsu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "独立する（どくりつする）",
         "meaning": {
-          "english": "gain independence"
+          "english": "gain independence |(vi) giành độc lập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/doku(ritsu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "独占する（どくせんする）",
         "meaning": {
-          "english": "monopolize"
+          "english": "monopolize |(vi) độc chiếm, độc quyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/doku(ritsu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "独走する（どくそうする）",
         "meaning": {
-          "english": "run alone, do as one likes"
+          "english": "run alone, do as one likes |(vi) chạy một mình, tự làm theo ý mình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/doku(ritsu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "独り（ひとり）",
         "meaning": {
-          "english": "alone, unmarried"
+          "english": "alone, unmarried |(vi) một mình, chưa kết hôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/doku(ritsu)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "独り者（ひとりもの）",
         "meaning": {
-          "english": "single person"
+          "english": "single person |(vi) người độc thân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/doku(ritsu)_06_l.opus",
@@ -259,7 +259,7 @@
     "kanji": {
       "character": "独",
       "meaning": {
-        "english": "alone, Germany"
+        "english": "alone, Germany |(vi) một mình, nước Đức"
       },
       "strokes": {
         "count": 9,
@@ -315,7 +315,7 @@
         "romaji": "kemonohen"
       },
       "meaning": {
-        "english": "beast"
+        "english": "beast |(vi) Khuyển (thú, chó)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kemonohen0.svg",
@@ -336,7 +336,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "365",
     "strokeCount": 9,
-    "meaning": "single, alone, spontaneously, Germany",
+    "meaning": "single, alone, spontaneously, Germany |(vi) đơn lẻ, một mình, tự phát, nước Đức |(hv) Độc",
     "kunyomi": [
       "ひと.り"
     ],
@@ -348,34 +348,34 @@
       {
         "example": "独",
         "reading": "ドク",
-        "meaning": "Germany"
+        "meaning": "Germany |(vi) nước Đức"
       },
       {
         "example": "独裁",
         "reading": "ドクサイ",
-        "meaning": "dictatorship, despotism, autocracy, running (a company, etc.) despotically"
+        "meaning": "dictatorship, despotism, autocracy, running (a company, etc.) despotically |(vi) chế độ độc tài, chuyên chế, cai trị độc đoán (như một công ty)"
       },
       {
         "example": "西独",
         "reading": "セイドク",
-        "meaning": "West Germany (1949-1990)"
+        "meaning": "West Germany (1949-1990) |(vi) Tây Đức (1949-1990)"
       },
       {
         "example": "英独",
         "reading": "エイドク",
-        "meaning": "United Kingdom and Germany, British-German, Anglo-German, English-German"
+        "meaning": "United Kingdom and Germany, British-German, Anglo-German, English-German |(vi) Anh và Đức, Anh-Đức"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "一人",
         "reading": "ひとり",
-        "meaning": "one person, being alone, being by oneself, being single, being unmarried, by oneself, alone, just, only, simply"
+        "meaning": "one person, being alone, being by oneself, being single, being unmarried, by oneself, alone, just, only, simply |(vi) một người, một mình, cô đơn, độc thân, chưa kết hôn, tự mình, chỉ, đơn giản là"
       },
       {
         "example": "一人歩き",
         "reading": "ひとりあるき",
-        "meaning": "taking on a life of its own (of a rumour, etc.), walking by oneself, taking a walk by oneself, walking unaided, being able to walk without help, standing on one's own feet, being independent, taking care of oneself"
+        "meaning": "taking on a life of its own (of a rumour, etc.), walking by oneself, taking a walk by oneself, walking unaided, being able to walk without help, standing on one's own feet, being independent, taking care of oneself |(vi) tự lan truyền (như tin đồn), tự đi bộ một mình, đi không cần giúp đỡ, tự đứng vững, độc lập, tự lo cho bản thân"
       }
     ],
     "radical": {
@@ -383,7 +383,7 @@
       "forms": [
         "犭"
       ],
-      "meaning": "dog"
+      "meaning": "dog |(vi) Khuyển (chó)"
     },
     "parts": [
       "犯",

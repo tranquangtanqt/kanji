@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "neko",
-    "meaning": "cat",
+    "meaning": "cat |(vi) mèo",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "愛猫家（あいびょうか）",
         "meaning": {
-          "english": "cat lover"
+          "english": "cat lover |(vi) người yêu mèo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/neko_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "猫（ねこ）",
         "meaning": {
-          "english": "cat"
+          "english": "cat |(vi) mèo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/neko_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "子猫（こねこ）",
         "meaning": {
-          "english": "kitten"
+          "english": "kitten |(vi) mèo con"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/neko_06_c.opus",
@@ -139,7 +139,7 @@
     "kanji": {
       "character": "猫",
       "meaning": {
-        "english": "cat"
+        "english": "cat |(vi) mèo"
       },
       "strokes": {
         "count": 11,
@@ -199,7 +199,7 @@
         "romaji": "kemonohen"
       },
       "meaning": {
-        "english": "beast"
+        "english": "beast |(vi) Khuyển (thú, chó)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kemonohen0.svg",
@@ -220,7 +220,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1702",
     "strokeCount": 11,
-    "meaning": "cat",
+    "meaning": "cat |(vi) mèo |(hv) Miêu",
     "kunyomi": [
       "ねこ"
     ],
@@ -231,44 +231,44 @@
       {
         "example": "猫額",
         "reading": "ビョウガク",
-        "meaning": "(as small as a) cat's forehead"
+        "meaning": "(as small as a) cat's forehead |(vi) (nhỏ như) trán mèo"
       },
       {
         "example": "猫額大",
         "reading": "ビョウガクダイ",
-        "meaning": "tiny"
+        "meaning": "tiny |(vi) nhỏ xíu"
       },
       {
         "example": "怪猫",
         "reading": "カイビョウ",
-        "meaning": "monster cat, cat with magical powers"
+        "meaning": "monster cat, cat with magical powers |(vi) mèo quái vật, mèo có phép thuật"
       },
       {
         "example": "成猫",
         "reading": "セイビョウ",
-        "meaning": "adult cat, fully-grown cat"
+        "meaning": "adult cat, fully-grown cat |(vi) mèo trưởng thành, mèo đã lớn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "猫",
         "reading": "ねこ",
-        "meaning": "cat (esp. the domestic cat, Felis catus), shamisen, geisha, wheelbarrow, clay bed-warmer, bottom (submissive partner of a homosexual relationship)"
+        "meaning": "cat (esp. the domestic cat, Felis catus), shamisen, geisha, wheelbarrow, clay bed-warmer, bottom (submissive partner of a homosexual relationship) |(vi) mèo (đặc biệt mèo nhà, Felis catus), đàn shamisen, geisha, xe cút kít, lò sưởi đất nung, người bị động (trong quan hệ đồng tính)"
       },
       {
         "example": "猫",
         "reading": "ねこま",
-        "meaning": "cat"
+        "meaning": "cat |(vi) mèo"
       },
       {
         "example": "野良猫",
         "reading": "のらねこ",
-        "meaning": "stray cat, alley cat"
+        "meaning": "stray cat, alley cat |(vi) mèo hoang, mèo lang thang"
       },
       {
         "example": "山猫",
         "reading": "やまねこ",
-        "meaning": "wildcat (European wildcat, Iriomote cat, Tsushima cat, etc.), wild cat, stray cat"
+        "meaning": "wildcat (European wildcat, Iriomote cat, Tsushima cat, etc.), wild cat, stray cat |(vi) mèo rừng (mèo rừng châu Âu, mèo Iriomote, mèo Tsushima...), mèo hoang dã, mèo lang thang"
       }
     ],
     "radical": {
@@ -276,7 +276,7 @@
       "forms": [
         "犭"
       ],
-      "meaning": "dog"
+      "meaning": "dog |(vi) Khuyển (chó)"
     },
     "parts": [
       "犯",
