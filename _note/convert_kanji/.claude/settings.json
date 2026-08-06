@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "defaultMode": "bypassPermissions",
+    "allow": [
+      "Skill(kanji-vi-meaning)",
+      "Read",
+      "Glob",
+      "Grep",
+      "Edit(in/**)",
+      "Edit(out/**)",
+      "Write(in/**)",
+      "Write(out/**)",
+      "Bash(node *)",
+      "Bash(ls *)",
+      "Bash(cat *)",
+      "Bash(mkdir *)",
+      "Bash(cp *)",
+      "Bash(diff *)"
+    ]
+  }
+}
