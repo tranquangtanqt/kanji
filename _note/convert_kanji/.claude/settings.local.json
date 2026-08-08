@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Skill(update-config)",
-      "Skill(update-config:*)"
+      "Skill(update-config:*)",
+      "Bash(node .claude/skills/kanji-vi-meaning/scripts/*)",
+      "Bash(cd \"d:\\tantq\\src\\kanji\\_note\\convert_kanji\" && node .claude/skills/kanji-vi-meaning/scripts/*)"
     ]
   }
 }
