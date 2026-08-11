@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 50,
     "kunyomi": "n/a",
-    "meaning": "evening",
+    "meaning": "evening |(vi) buổi tối",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "今晩（こんばん）",
         "meaning": {
-          "english": "tonight"
+          "english": "tonight |(vi) tối nay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kon)ban_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "明晩（みょうばん）",
         "meaning": {
-          "english": "tomorrow evening"
+          "english": "tomorrow evening |(vi) tối mai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kon)ban_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "昨晩（さくばん）",
         "meaning": {
-          "english": "last night"
+          "english": "last night |(vi) tối qua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kon)ban_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "毎晩（まいばん）",
         "meaning": {
-          "english": "every night"
+          "english": "every night |(vi) mỗi tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kon)ban_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "晩御飯（ばんごはん）",
         "meaning": {
-          "english": "dinner"
+          "english": "dinner |(vi) bữa tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kon)ban_06_e.opus",
@@ -219,7 +219,7 @@
     "kanji": {
       "character": "晩",
       "meaning": {
-        "english": "evening"
+        "english": "evening |(vi) buổi tối"
       },
       "strokes": {
         "count": 12,
@@ -281,7 +281,7 @@
         "romaji": "hihen"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày, thời gian)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hihen0.svg",
@@ -302,7 +302,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1424",
     "strokeCount": 12,
-    "meaning": "nightfall, night",
+    "meaning": "nightfall, night |(vi) chiều tối, ban đêm |(hv) Vãn",
     "kunyomi": [],
     "onyomi": [
       "バン"
@@ -311,28 +311,28 @@
       {
         "example": "晩",
         "reading": "バン",
-        "meaning": "evening, night, dinner, evening meal, counter for nights"
+        "meaning": "evening, night, dinner, evening meal, counter for nights |(vi) buổi tối, ban đêm, bữa tối, lượng từ đếm số đêm"
       },
       {
         "example": "晩婚",
         "reading": "バンコン",
-        "meaning": "late marriage"
+        "meaning": "late marriage |(vi) kết hôn muộn"
       },
       {
         "example": "歳晩",
         "reading": "サイバン",
-        "meaning": "year's end"
+        "meaning": "year's end |(vi) cuối năm"
       },
       {
         "example": "お晩",
         "reading": "オバン",
-        "meaning": "evening, good evening"
+        "meaning": "evening, good evening |(vi) buổi tối, chào buổi tối"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "儿",

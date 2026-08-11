@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 2,
     "kunyomi": "na, nai, nashi, nakusu, nakunaru",
-    "meaning": "without, nothing",
+    "meaning": "without, nothing |(vi) không, không có",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "無料（むりょう）",
         "meaning": {
-          "english": "free of charge"
+          "english": "free of charge |(vi) miễn phí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu-na(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "無職（むしょく）",
         "meaning": {
-          "english": "unemployed"
+          "english": "unemployed |(vi) thất nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu-na(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "無理な（むりな）",
         "meaning": {
-          "english": "impossible"
+          "english": "impossible |(vi) bất khả thi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu-na(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "無神経な（むしんけいな）",
         "meaning": {
-          "english": "insensitive"
+          "english": "insensitive |(vi) vô cảm, chai lì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu-na(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "無意味な（むいみな）",
         "meaning": {
-          "english": "nonsense"
+          "english": "nonsense |(vi) vô nghĩa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu-na(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "無視する（むしする）",
         "meaning": {
-          "english": "disregard, ignore"
+          "english": "disregard, ignore |(vi) phớt lờ, coi thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu-na(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "無事（ぶじ）",
         "meaning": {
-          "english": "safety"
+          "english": "safety |(vi) an toàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu-na(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "無難な（ぶなんな）",
         "meaning": {
-          "english": "secure, safe"
+          "english": "secure, safe |(vi) an toàn, chắc chắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu-na(i)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "無礼な（ぶれいな）",
         "meaning": {
-          "english": "rude"
+          "english": "rude |(vi) thô lỗ, vô lễ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu-na(i)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "無くす（なくす）",
         "meaning": {
-          "english": "lose"
+          "english": "lose |(vi) mất, làm mất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu-na(i)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "無い（ない）",
         "meaning": {
-          "english": "no, not"
+          "english": "no, not |(vi) không, chẳng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu-na(i)_06_k.opus",
@@ -333,7 +333,7 @@
     "kanji": {
       "character": "無",
       "meaning": {
-        "english": "without, nothing"
+        "english": "without, nothing |(vi) không, không có"
       },
       "strokes": {
         "count": 12,
@@ -395,7 +395,7 @@
         "romaji": "rekka"
       },
       "meaning": {
-        "english": "fire"
+        "english": "fire |(vi) Hỏa (lửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rekka0.svg",
@@ -415,7 +415,7 @@
     "taughtIn": "grade 4",
     "newspaperFrequencyRank": "274",
     "strokeCount": 12,
-    "meaning": "nothingness, none, ain't, nothing, nil, not",
+    "meaning": "nothingness, none, ain't, nothing, nil, not |(vi) hư vô, không có, không, số không |(hv) Vô",
     "kunyomi": [
       "な.い"
     ],
@@ -427,49 +427,49 @@
       {
         "example": "無",
         "reading": "ム",
-        "meaning": "nothing, naught, nought, nil, zero, un-, non-"
+        "meaning": "nothing, naught, nought, nil, zero, un-, non- |(vi) không có gì, số không, vô-, không-"
       },
       {
         "example": "無意識",
         "reading": "ムイシキ",
-        "meaning": "unconsciousness, unconscious, involuntary, automatic, mechanical, unintentional, spontaneous, the unconscious"
+        "meaning": "unconsciousness, unconscious, involuntary, automatic, mechanical, unintentional, spontaneous, the unconscious |(vi) vô thức, không tự chủ, tự động, máy móc, ngoài ý muốn, tự phát, cõi vô thức"
       },
       {
         "example": "皆無",
         "reading": "カイム",
-        "meaning": "nonexistent, nil, none, nothing (at all), bugger-all"
+        "meaning": "nonexistent, nil, none, nothing (at all), bugger-all |(vi) không tồn tại, không, chẳng có (gì cả)"
       },
       {
         "example": "虚無",
         "reading": "キョム",
-        "meaning": "nihility, nothingness"
+        "meaning": "nihility, nothingness |(vi) hư vô, sự trống rỗng"
       },
       {
         "example": "無",
         "reading": "ブ",
-        "meaning": "un-, non-, bad ..., poor ..."
+        "meaning": "un-, non-, bad ..., poor ... |(vi) vô-, không-, kém..., nghèo..."
       },
       {
         "example": "不気味",
         "reading": "ブキミ",
-        "meaning": "weird, eerie, ominous, creepy, uncanny, unearthly"
+        "meaning": "weird, eerie, ominous, creepy, uncanny, unearthly |(vi) kỳ dị, rùng rợn, đáng ngại, ghê rợn, khác thường"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "無い",
         "reading": "ない",
-        "meaning": "nonexistent, not being (there), unowned, not had, unpossessed, unique, not, impossible, won't happen, not, to not be, to have not"
+        "meaning": "nonexistent, not being (there), unowned, not had, unpossessed, unique, not, impossible, won't happen, not, to not be, to have not |(vi) không tồn tại, không có, vô chủ, chưa từng có, độc nhất, không, bất khả thi, sẽ không xảy ra, không phải là, chưa có"
       },
       {
         "example": "【ないといけない】",
         "reading": "have to (verb), must (verb), is indispensable, absolutely necessary",
-        "meaning": ""
+        "meaning": " |(vi) phải (động từ), bắt buộc phải, thiết yếu, tuyệt đối cần thiết"
       },
       {
         "example": "苦無",
         "reading": "くない",
-        "meaning": "ninja throwing knives, mediaeval farming tool for digging, prying, etc."
+        "meaning": "ninja throwing knives, mediaeval farming tool for digging, prying, etc. |(vi) dao ném của ninja, dụng cụ nông nghiệp thời trung cổ để đào, bẩy..."
       }
     ],
     "radical": {
@@ -477,7 +477,7 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": "fire |(vi) Hỏa (lửa)"
     },
     "parts": [
       "ノ",

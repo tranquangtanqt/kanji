@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "aru, ayu, aruku, ayumu, ayumi",
-    "meaning": "walk",
+    "meaning": "walk |(vi) đi bộ",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "歩道（ほどう）",
         "meaning": {
-          "english": "sidewalk"
+          "english": "sidewalk |(vi) vỉa hè, lề đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "歩調（ほちょう）",
         "meaning": {
-          "english": "pace (walking)"
+          "english": "pace (walking) |(vi) nhịp bước, tốc độ đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "歩行者（ほこうしゃ）",
         "meaning": {
-          "english": "pedestrian"
+          "english": "pedestrian |(vi) người đi bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "徒歩（とほ）",
         "meaning": {
-          "english": "on foot [n.]"
+          "english": "on foot [n.] |(vi) đi bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "初歩（しょほ）",
         "meaning": {
-          "english": "elementary"
+          "english": "elementary |(vi) sơ đẳng, cơ bản, bước đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "散歩する（さんぽする）",
         "meaning": {
-          "english": "take a walk"
+          "english": "take a walk |(vi) đi dạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "進歩する（しんぽする）",
         "meaning": {
-          "english": "make progress"
+          "english": "make progress |(vi) tiến bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "歩合（ぶあい）",
         "meaning": {
-          "english": "rate"
+          "english": "rate |(vi) tỷ lệ, tỷ lệ hoa hồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "歩（ふ）",
         "meaning": {
-          "english": "pawn (in chess or shogi)"
+          "english": "pawn (in chess or shogi) |(vi) quân tốt (shogi)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "歩く（あるく）",
         "meaning": {
-          "english": "walk"
+          "english": "walk |(vi) đi bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "歩む（あゆむ）",
         "meaning": {
-          "english": "walk"
+          "english": "walk |(vi) đi bộ, bước đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_k.opus",
@@ -294,7 +294,7 @@
     "kanji": {
       "character": "歩",
       "meaning": {
-        "english": "walk"
+        "english": "walk |(vi) đi bộ"
       },
       "strokes": {
         "count": 8,
@@ -348,7 +348,7 @@
         "romaji": "tomeru"
       },
       "meaning": {
-        "english": "to stop"
+        "english": "to stop |(vi) Chỉ (dừng lại)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tomeru0.svg",
@@ -369,7 +369,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "554",
     "strokeCount": 8,
-    "meaning": "walk, counter for steps",
+    "meaning": "walk, counter for steps |(vi) đi bộ, đơn vị đếm bước chân |(hv) Bộ",
     "kunyomi": [
       "ある.く",
       "あゆ.む"
@@ -383,79 +383,79 @@
       {
         "example": "歩",
         "reading": "ホ",
-        "meaning": "step, stride, counter for steps"
+        "meaning": "step, stride, counter for steps |(vi) bước, sải chân, đơn vị đếm bước"
       },
       {
         "example": "歩行",
         "reading": "ホコウ",
-        "meaning": "walking, walk"
+        "meaning": "walking, walk |(vi) đi bộ, sự đi lại"
       },
       {
         "example": "遊歩",
         "reading": "ユウホ",
-        "meaning": "walk, promenade"
+        "meaning": "walk, promenade |(vi) dạo chơi, tản bộ"
       },
       {
         "example": "牛歩",
         "reading": "ギュウホ",
-        "meaning": "snail's pace, slow progress"
+        "meaning": "snail's pace, slow progress |(vi) chậm như rùa, tiến triển chậm"
       },
       {
         "example": "歩",
         "reading": "ブ",
-        "meaning": "bu, traditional unit of area, approx. 3.31 square metres, commission, percentage, exactly, precisely"
+        "meaning": "bu, traditional unit of area, approx. 3.31 square metres, commission, percentage, exactly, precisely |(vi) bu (đơn vị diện tích cổ, khoảng 3,31 m2), tỷ lệ hoa hồng, đúng, chính xác"
       },
       {
         "example": "歩合",
         "reading": "ブアイ",
-        "meaning": "rate, ratio, percentage, commission, poundage, percentage"
+        "meaning": "rate, ratio, percentage, commission, poundage, percentage |(vi) tỷ lệ, tỷ lệ phần trăm, tiền hoa hồng"
       },
       {
         "example": "町歩",
         "reading": "チョウブ",
-        "meaning": "hectare (2.471 acres)"
+        "meaning": "hectare (2.471 acres) |(vi) hecta (đơn vị diện tích, khoảng 2,471 mẫu Anh)"
       },
       {
         "example": "町段畝歩",
         "reading": "チョウタンセブ",
-        "meaning": "units of square measure (for rice fields, forests, etc.)"
+        "meaning": "units of square measure (for rice fields, forests, etc.) |(vi) các đơn vị đo diện tích (ruộng, rừng...)"
       },
       {
         "example": "歩",
         "reading": "フ",
-        "meaning": "pawn"
+        "meaning": "pawn |(vi) quân tốt (shogi)"
       },
       {
         "example": "歩三兵",
         "reading": "フサンビョウ",
-        "meaning": "starting with only a king on the board and three pawns in hand (as a handicap when teaching a beginner)"
+        "meaning": "starting with only a king on the board and three pawns in hand (as a handicap when teaching a beginner) |(vi) thế cờ chấp quân (chỉ có vua và ba tốt, dùng để dạy người mới)"
       },
       {
         "example": "敵歩",
         "reading": "テキフ",
-        "meaning": "opponents pawn"
+        "meaning": "opponents pawn |(vi) quân tốt của đối phương"
       },
       {
         "example": "二歩",
         "reading": "ニフ",
-        "meaning": "dropping two unpromoted pawns on the same file (illegal move)"
+        "meaning": "dropping two unpromoted pawns on the same file (illegal move) |(vi) nước đi phạm luật (đặt hai quân tốt chưa phong cấp trên cùng một cột)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "歩く",
         "reading": "あるく",
-        "meaning": "to walk"
+        "meaning": "to walk |(vi) đi bộ"
       },
       {
         "example": "歩む",
         "reading": "あゆむ",
-        "meaning": "to walk, to go on foot, to tread (a figurative path), to follow, to lead (a life), to experience, to advance towards (e.g. a solution), to set out (e.g. on the path to destruction, ruin, etc.), to embark (on the road to ...)"
+        "meaning": "to walk, to go on foot, to tread (a figurative path), to follow, to lead (a life), to experience, to advance towards (e.g. a solution), to set out (e.g. on the path to destruction, ruin, etc.), to embark (on the road to ...) |(vi) đi bộ, bước đi, trải qua (con đường), theo đuổi, sống (cuộc đời), tiến tới, dấn thân vào"
       }
     ],
     "radical": {
       "symbol": "止",
-      "meaning": "stop"
+      "meaning": "stop |(vi) Chỉ (dừng lại)"
     },
     "parts": [
       "ノ",

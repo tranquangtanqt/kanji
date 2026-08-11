@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "ya, yamu, yami, yamai",
-    "meaning": "illness, disease, sickness",
+    "meaning": "illness, disease, sickness |(vi) bệnh, bệnh tật",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "病気（びょうき）",
         "meaning": {
-          "english": "illness"
+          "english": "illness |(vi) bệnh, ốm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "病院（びょういん）",
         "meaning": {
-          "english": "hospital"
+          "english": "hospital |(vi) bệnh viện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "病人（びょうにん）",
         "meaning": {
-          "english": "patient"
+          "english": "patient |(vi) bệnh nhân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "心臓病（しんぞうびょう）",
         "meaning": {
-          "english": "heart disease"
+          "english": "heart disease |(vi) bệnh tim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "看病する（かんびょうする）",
         "meaning": {
-          "english": "nurse (a patient)"
+          "english": "nurse (a patient) |(vi) chăm sóc người bệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "病む（やむ）",
         "meaning": {
-          "english": "be ill"
+          "english": "be ill |(vi) bị bệnh, ốm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "病み付き（やみつき）",
         "meaning": {
-          "english": "addicted, hooked"
+          "english": "addicted, hooked |(vi) nghiện, ghiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "病み上がり（やみあがり）",
         "meaning": {
-          "english": "convalescence"
+          "english": "convalescence |(vi) vừa khỏi bệnh, đang hồi phục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "病（やまい）",
         "meaning": {
-          "english": "illness"
+          "english": "illness |(vi) bệnh, bệnh tật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_i.opus",
@@ -267,7 +267,7 @@
     "kanji": {
       "character": "病",
       "meaning": {
-        "english": "illness, disease, sickness"
+        "english": "illness, disease, sickness |(vi) bệnh, bệnh tật"
       },
       "strokes": {
         "count": 10,
@@ -325,7 +325,7 @@
         "romaji": "yamaidare"
       },
       "meaning": {
-        "english": "sickness"
+        "english": "sickness |(vi) Nạch (bệnh tật)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yamaidare0.svg",
@@ -346,7 +346,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "384",
     "strokeCount": 10,
-    "meaning": "ill, sick",
+    "meaning": "ill, sick |(vi) ốm, bệnh, đau ốm |(hv) Bệnh",
     "kunyomi": [
       "や.む",
       "-や.み",
@@ -360,54 +360,54 @@
       {
         "example": "病",
         "reading": "ビョウ",
-        "meaning": "disease"
+        "meaning": "disease |(vi) bệnh"
       },
       {
         "example": "病院",
         "reading": "ビョウイン",
-        "meaning": "hospital, clinic, doctor's office, doctor's surgery, infirmary"
+        "meaning": "hospital, clinic, doctor's office, doctor's surgery, infirmary |(vi) bệnh viện, phòng khám"
       },
       {
         "example": "血友病",
         "reading": "ケツユウビョウ",
-        "meaning": "hemophilia, haemophilia"
+        "meaning": "hemophilia, haemophilia |(vi) bệnh máu khó đông"
       },
       {
         "example": "同病",
         "reading": "ドウビョウ",
-        "meaning": "the same sickness"
+        "meaning": "the same sickness |(vi) cùng bệnh, đồng bệnh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "病む",
         "reading": "やむ",
-        "meaning": "to fall ill, to suffer from (e.g. a disease), to have something wrong with (e.g. an inner organ)"
+        "meaning": "to fall ill, to suffer from (e.g. a disease), to have something wrong with (e.g. an inner organ) |(vi) mắc bệnh, đau ốm"
       },
       {
         "example": "病",
         "reading": "やまい",
-        "meaning": "illness, disease, bad habit, weakness, fault"
+        "meaning": "illness, disease, bad habit, weakness, fault |(vi) bệnh tật, thói xấu, nhược điểm"
       },
       {
         "example": "病が篤い",
         "reading": "やまいがあつい",
-        "meaning": "seriously ill"
+        "meaning": "seriously ill |(vi) bệnh nặng"
       },
       {
         "example": "恋病",
         "reading": "こいやまい",
-        "meaning": "lovesickness"
+        "meaning": "lovesickness |(vi) tương tư, bệnh tương tư"
       },
       {
         "example": "躁鬱病",
         "reading": "そううつびょう",
-        "meaning": "manic depression, manic-depressive psychosis, bipolar disorder"
+        "meaning": "manic depression, manic-depressive psychosis, bipolar disorder |(vi) rối loạn lưỡng cực, hưng trầm cảm"
       }
     ],
     "radical": {
       "symbol": "疒",
-      "meaning": "sickness"
+      "meaning": "sickness |(vi) Nạch (bệnh tật)"
     },
     "parts": [
       "一",

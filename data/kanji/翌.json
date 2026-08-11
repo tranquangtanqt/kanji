@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "the following, the next",
+    "meaning": "the following, the next |(vi) kế tiếp, ngày hôm sau",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "翌日（よくじつ）",
         "meaning": {
-          "english": "the next day"
+          "english": "the next day |(vi) ngày hôm sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoku(jitsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "翌週（よくしゅう）",
         "meaning": {
-          "english": "the following week"
+          "english": "the following week |(vi) tuần sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoku(jitsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "翌月（よくげつ）",
         "meaning": {
-          "english": "the following month"
+          "english": "the following month |(vi) tháng sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoku(jitsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "翌年（よくねん）",
         "meaning": {
-          "english": "the following year"
+          "english": "the following year |(vi) năm sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoku(jitsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "翌春（よくしゅん）",
         "meaning": {
-          "english": "the following spring"
+          "english": "the following spring |(vi) mùa xuân năm sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoku(jitsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "翌朝（よくあさ）",
         "meaning": {
-          "english": "the next morning"
+          "english": "the next morning |(vi) sáng hôm sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoku(jitsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "翌々日（よくよくじつ）",
         "meaning": {
-          "english": "two days later"
+          "english": "two days later |(vi) hai ngày sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoku(jitsu)_06_g.opus",
@@ -174,7 +174,7 @@
     "kanji": {
       "character": "翌",
       "meaning": {
-        "english": "the following, the next"
+        "english": "the following, the next |(vi) kế tiếp, ngày hôm sau"
       },
       "strokes": {
         "count": 11,
@@ -234,7 +234,7 @@
         "romaji": "hane"
       },
       "meaning": {
-        "english": "feather, wing"
+        "english": "feather, wing |(vi) Vũ (lông vũ, cánh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hane0.svg",
@@ -255,7 +255,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1070",
     "strokeCount": 11,
-    "meaning": "the following, next",
+    "meaning": "the following, next |(vi) kế tiếp, ngày hôm sau |(hv) Dực",
     "kunyomi": [],
     "onyomi": [
       "ヨク"
@@ -264,23 +264,23 @@
       {
         "example": "翌",
         "reading": "ヨク",
-        "meaning": "the following, next"
+        "meaning": "the following, next |(vi) kế tiếp, ngày hôm sau"
       },
       {
         "example": "翌朝",
         "reading": "ヨクアサ",
-        "meaning": "next morning"
+        "meaning": "next morning |(vi) sáng hôm sau"
       },
       {
         "example": "翌々",
         "reading": "ヨクヨク",
-        "meaning": "the ... after next, two ... later, two ... after"
+        "meaning": "the ... after next, two ... later, two ... after |(vi) hai ngày/năm sau nữa"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "羽",
-      "meaning": "feather"
+      "meaning": "feather |(vi) Vũ (lông vũ, cánh)"
     },
     "parts": [
       "冫",

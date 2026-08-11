@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "model, example",
+    "meaning": "model, example |(vi) khuôn mẫu, mô hình, ví dụ",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "範囲（はんい）",
         "meaning": {
-          "english": "extent, scope, sphere, range"
+          "english": "extent, scope, sphere, range |(vi) phạm vi, phạm trù, giới hạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mo)han_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "範疇（はんちゅう）",
         "meaning": {
-          "english": "category"
+          "english": "category |(vi) phạm trù"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mo)han_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "師範（しはん）",
         "meaning": {
-          "english": "instructor, teacher, coach"
+          "english": "instructor, teacher, coach |(vi) giáo viên hướng dẫn, sư phạm, huấn luyện viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mo)han_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "模範（もはん）",
         "meaning": {
-          "english": "model, example, exemplar"
+          "english": "model, example, exemplar |(vi) khuôn mẫu, gương mẫu, hình mẫu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mo)han_06_d.opus",
@@ -148,7 +148,7 @@
     "kanji": {
       "character": "範",
       "meaning": {
-        "english": "model, example"
+        "english": "model, example |(vi) khuôn mẫu, ví dụ"
       },
       "strokes": {
         "count": 15,
@@ -216,7 +216,7 @@
         "romaji": "takekanmuri"
       },
       "meaning": {
-        "english": "bamboo"
+        "english": "bamboo |(vi) Trúc (tre, trúc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takekanmuri0.svg",
@@ -237,7 +237,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1088",
     "strokeCount": 15,
-    "meaning": "pattern, example, model",
+    "meaning": "pattern, example, model |(vi) khuôn mẫu, ví dụ, mô hình |(hv) Phạm",
     "kunyomi": [],
     "onyomi": [
       "ハン"
@@ -246,22 +246,22 @@
       {
         "example": "範",
         "reading": "ハン",
-        "meaning": "example, model"
+        "meaning": "example, model |(vi) khuôn mẫu, ví dụ"
       },
       {
         "example": "範囲",
         "reading": "ハンイ",
-        "meaning": "extent, scope, sphere, range, span"
+        "meaning": "extent, scope, sphere, range, span |(vi) phạm vi, phạm trù, giới hạn"
       },
       {
         "example": "師範",
         "reading": "シハン",
-        "meaning": "instructor, (fencing) teacher, model"
+        "meaning": "instructor, (fencing) teacher, model |(vi) giáo viên hướng dẫn, thầy dạy kiếm thuật, mẫu mực"
       },
       {
         "example": "遺範",
         "reading": "イハン",
-        "meaning": "good example set by those who came before us"
+        "meaning": "good example set by those who came before us |(vi) gương sáng do người đi trước để lại"
       }
     ],
     "kunyomiExamples": [],
@@ -270,7 +270,7 @@
       "forms": [
         "⺮"
       ],
-      "meaning": "bamboo"
+      "meaning": "bamboo |(vi) Trúc (tre, trúc)"
     },
     "parts": [
       "乙",

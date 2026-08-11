@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "symbol",
+    "meaning": "symbol |(vi) ký hiệu, phù hiệu",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "疑問符（ぎもんふ）",
         "meaning": {
-          "english": "question mark"
+          "english": "question mark |(vi) dấu chấm hỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(gou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "切符（きっぷ）",
         "meaning": {
-          "english": "ticket"
+          "english": "ticket |(vi) vé"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(gou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "音符（おんぷ）",
         "meaning": {
-          "english": "(musical) note"
+          "english": "(musical) note |(vi) nốt nhạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(gou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "終止符（しゅうしふ）",
         "meaning": {
-          "english": "period"
+          "english": "period |(vi) dấu chấm câu, dấu kết thúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(gou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "符号（ふごう）",
         "meaning": {
-          "english": "mark, code, symbol, sign"
+          "english": "mark, code, symbol, sign |(vi) ký hiệu, mã hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(gou)_06_e.opus",
@@ -163,7 +163,7 @@
     "kanji": {
       "character": "符",
       "meaning": {
-        "english": "symbol"
+        "english": "symbol |(vi) ký hiệu, phù hiệu"
       },
       "strokes": {
         "count": 11,
@@ -223,7 +223,7 @@
         "romaji": "takekanmuri"
       },
       "meaning": {
-        "english": "bamboo"
+        "english": "bamboo |(vi) Trúc (tre)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takekanmuri0.svg",
@@ -244,7 +244,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1798",
     "strokeCount": 11,
-    "meaning": "token, sign, mark, tally, charm",
+    "meaning": "token, sign, mark, tally, charm |(vi) phù hiệu, dấu hiệu, ký hiệu, bùa chú |(hv) Phù",
     "kunyomi": [],
     "onyomi": [
       "フ"
@@ -253,22 +253,22 @@
       {
         "example": "符",
         "reading": "フ",
-        "meaning": "charm, talisman, amulet, tally, sign, mark, note, fu, unit used in calculation of a hand's score"
+        "meaning": "charm, talisman, amulet, tally, sign, mark, note, fu, unit used in calculation of a hand's score |(vi) bùa, phù hiệu, thẻ, ký hiệu, đơn vị tính điểm (mạt chược)"
       },
       {
         "example": "符号",
         "reading": "フゴウ",
-        "meaning": "sign, mark, symbol, code, sign (e.g. positive, negative)"
+        "meaning": "sign, mark, symbol, code, sign (e.g. positive, negative) |(vi) ký hiệu, dấu hiệu, mã (âm/dương)"
       },
       {
         "example": "意符",
         "reading": "イフ",
-        "meaning": "part of a kanji for which the role is primarily to represent the meaning (as opposed to the pronunciation)"
+        "meaning": "part of a kanji for which the role is primarily to represent the meaning (as opposed to the pronunciation) |(vi) bộ phận biểu ý trong chữ Hán"
       },
       {
         "example": "合い符",
         "reading": "アイフ",
-        "meaning": "baggage claim tag (at hotels, stations, etc.)"
+        "meaning": "baggage claim tag (at hotels, stations, etc.) |(vi) thẻ nhận hành lý"
       }
     ],
     "kunyomiExamples": [],
@@ -277,7 +277,7 @@
       "forms": [
         "⺮"
       ],
-      "meaning": "bamboo"
+      "meaning": "bamboo |(vi) Trúc (tre)"
     },
     "parts": [
       "乞",

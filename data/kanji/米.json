@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kome",
-    "meaning": "rice, America",
+    "meaning": "rice, America |(vi) gạo, nước Mỹ",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "米価（べいか）",
         "meaning": {
-          "english": "rice price"
+          "english": "rice price |(vi) giá gạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "米国（べいこく）",
         "meaning": {
-          "english": "America, U.S.A."
+          "english": "America, U.S.A. |(vi) nước Mỹ, Hoa Kỳ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "米軍（べいぐん）",
         "meaning": {
-          "english": "the US armed forces"
+          "english": "the US armed forces |(vi) quân đội Mỹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "欧米（おうべい）",
         "meaning": {
-          "english": "Europe and America, the West"
+          "english": "Europe and America, the West |(vi) châu Âu và châu Mỹ, phương Tây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "北米（ほくべい）",
         "meaning": {
-          "english": "North America"
+          "english": "North America |(vi) Bắc Mỹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "南米（なんべい）",
         "meaning": {
-          "english": "South America"
+          "english": "South America |(vi) Nam Mỹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "日米（にちべい）",
         "meaning": {
-          "english": "Japan-America"
+          "english": "Japan-America |(vi) Nhật-Mỹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "渡米する（とべいする）",
         "meaning": {
-          "english": "go to U.S.A."
+          "english": "go to U.S.A. |(vi) sang Mỹ, đi Mỹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "玄米（げんまい）",
         "meaning": {
-          "english": "unpolished rice, unmilled rice"
+          "english": "unpolished rice, unmilled rice |(vi) gạo lứt, gạo chưa xát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "精米（せいまい）",
         "meaning": {
-          "english": "polished rice"
+          "english": "polished rice |(vi) gạo đã xát, gạo trắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "米（こめ）",
         "meaning": {
-          "english": "uncooked rice"
+          "english": "uncooked rice |(vi) gạo (chưa nấu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "米屋（こめや）",
         "meaning": {
-          "english": "rice shop, rice dealer"
+          "english": "rice shop, rice dealer |(vi) cửa hàng gạo, người bán gạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_l.opus",
@@ -275,7 +275,7 @@
     "kanji": {
       "character": "米",
       "meaning": {
-        "english": "rice, America"
+        "english": "rice, America |(vi) gạo, nước Mỹ"
       },
       "strokes": {
         "count": 6,
@@ -325,7 +325,7 @@
         "romaji": "kome"
       },
       "meaning": {
-        "english": "rice"
+        "english": "rice |(vi) Mễ (gạo)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kome0.svg",
@@ -346,7 +346,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "61",
     "strokeCount": 6,
-    "meaning": "rice, USA, metre",
+    "meaning": "rice, USA, metre |(vi) gạo, nước Mỹ, mét |(hv) Mễ",
     "kunyomi": [
       "こめ",
       "よね"
@@ -360,74 +360,74 @@
       {
         "example": "米",
         "reading": "ベイ",
-        "meaning": "(United States of) America, USA"
+        "meaning": "(United States of) America, USA |(vi) nước Mỹ, Hoa Kỳ"
       },
       {
         "example": "米価",
         "reading": "ベイカ",
-        "meaning": "rice price"
+        "meaning": "rice price |(vi) giá gạo"
       },
       {
         "example": "在米",
         "reading": "ザイベイ",
-        "meaning": "staying in the United States, residing in the United States, being situated in the United States (of a foreign embassy, company, etc.)"
+        "meaning": "staying in the United States, residing in the United States, being situated in the United States (of a foreign embassy, company, etc.) |(vi) cư trú tại Mỹ, đặt trụ sở tại Mỹ"
       },
       {
         "example": "対米",
         "reading": "タイベイ",
-        "meaning": "relating to the USA, toward America, with America"
+        "meaning": "relating to the USA, toward America, with America |(vi) liên quan đến Mỹ, đối với Mỹ"
       },
       {
         "example": "精米",
         "reading": "セイマイ",
-        "meaning": "rice polishing, polished rice"
+        "meaning": "rice polishing, polished rice |(vi) xát gạo, gạo đã xát"
       },
       {
         "example": "白米",
         "reading": "ハクマイ",
-        "meaning": "polished rice, (uncooked) white rice"
+        "meaning": "polished rice, (uncooked) white rice |(vi) gạo trắng đã xát (chưa nấu)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "米",
         "reading": "こめ",
-        "meaning": "(husked grains of) rice, staple (product, etc.), necessity, (online) comment"
+        "meaning": "(husked grains of) rice, staple (product, etc.), necessity, (online) comment |(vi) gạo (đã xát vỏ), sản phẩm chủ lực, nhu yếu phẩm, bình luận (trực tuyến)"
       },
       {
         "example": "米倉",
         "reading": "こめぐら",
-        "meaning": "rice granary"
+        "meaning": "rice granary |(vi) kho thóc gạo"
       },
       {
         "example": "お米",
         "reading": "おこめ",
-        "meaning": "(husked grains of) rice"
+        "meaning": "(husked grains of) rice |(vi) gạo (đã xát vỏ)"
       },
       {
         "example": "アルボリオ米",
         "reading": "アルボリオこめ",
-        "meaning": "arborio rice (Italian variety)"
+        "meaning": "arborio rice (Italian variety) |(vi) gạo arborio (giống Ý)"
       },
       {
         "example": "米",
         "reading": "よね",
-        "meaning": "88 years old, rice"
+        "meaning": "88 years old, rice |(vi) 88 tuổi, gạo"
       },
       {
         "example": "米沢牛",
         "reading": "よねざわぎゅう",
-        "meaning": "Yonezawa beef"
+        "meaning": "Yonezawa beef |(vi) bò Yonezawa"
       },
       {
         "example": "白米",
         "reading": "はくまい",
-        "meaning": "polished rice, (uncooked) white rice"
+        "meaning": "polished rice, (uncooked) white rice |(vi) gạo trắng đã xát (chưa nấu)"
       }
     ],
     "radical": {
       "symbol": "米",
-      "meaning": "rice"
+      "meaning": "rice |(vi) Mễ (gạo)"
     },
     "parts": [
       "米"

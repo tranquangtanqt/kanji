@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "i, kaname, iru",
-    "meaning": "important, summarize, require",
+    "meaning": "important, summarize, require |(vi) quan trọng, tóm tắt, cần thiết",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "必要な（ひつような）",
         "meaning": {
-          "english": "necessary"
+          "english": "necessary |(vi) cần thiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaname_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "不要な（ふような）",
         "meaning": {
-          "english": "unnecessary"
+          "english": "unnecessary |(vi) không cần thiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaname_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "重要な（じゅうような）",
         "meaning": {
-          "english": "important"
+          "english": "important |(vi) quan trọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaname_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "需要（じゅよう）",
         "meaning": {
-          "english": "demand"
+          "english": "demand |(vi) nhu cầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaname_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "要約する（ようやくする）",
         "meaning": {
-          "english": "summarize"
+          "english": "summarize |(vi) tóm tắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaname_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "要求する（ようきゅうする）",
         "meaning": {
-          "english": "demand [v.t.]"
+          "english": "demand [v.t.] |(vi) yêu cầu, đòi hỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaname_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "要する（ようする）",
         "meaning": {
-          "english": "require"
+          "english": "require |(vi) cần đến, đòi hỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaname_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "要る（いる）",
         "meaning": {
-          "english": "need"
+          "english": "need |(vi) cần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaname_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "肝心要（かんじんかなめ）",
         "meaning": {
-          "english": "main point"
+          "english": "main point |(vi) điểm mấu chốt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaname_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "要石（かなめいし）",
         "meaning": {
-          "english": "keystone"
+          "english": "keystone |(vi) đá chốt, đá then chốt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaname_06_j.opus",
@@ -269,7 +269,7 @@
     "kanji": {
       "character": "要",
       "meaning": {
-        "english": "important, summarize, require"
+        "english": "important, summarize, require |(vi) quan trọng, tóm tắt, cần thiết"
       },
       "strokes": {
         "count": 9,
@@ -325,7 +325,7 @@
         "romaji": "nishi"
       },
       "meaning": {
-        "english": "cover, west"
+        "english": "cover, west |(vi) Tây (che phủ, hướng tây)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nishi0.svg",
@@ -346,7 +346,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "106",
     "strokeCount": 9,
-    "meaning": "need, main point, essence, pivot, key to",
+    "meaning": "need, main point, essence, pivot, key to |(vi) cần thiết, điểm chính, cốt lõi, then chốt, mấu chốt của |(hv) Yếu",
     "kunyomi": [
       "い.る",
       "かなめ"
@@ -358,39 +358,39 @@
       {
         "example": "要",
         "reading": "ヨウ",
-        "meaning": "main point, essential point, important thing, necessity, need, requirement"
+        "meaning": "main point, essential point, important thing, necessity, need, requirement |(vi) điểm chính, điểm cốt yếu, điều quan trọng, sự cần thiết, nhu cầu, yêu cầu"
       },
       {
         "example": "要因",
         "reading": "ヨウイン",
-        "meaning": "main cause, primary factor"
+        "meaning": "main cause, primary factor |(vi) nguyên nhân chính, yếu tố chủ yếu"
       },
       {
         "example": "所要",
         "reading": "ショヨウ",
-        "meaning": "required, needed, necessary"
+        "meaning": "required, needed, necessary |(vi) cần thiết, cần dùng"
       },
       {
         "example": "法要",
         "reading": "ホウヨウ",
-        "meaning": "Buddhist memorial service"
+        "meaning": "Buddhist memorial service |(vi) lễ cầu siêu Phật giáo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "要る",
         "reading": "いる",
-        "meaning": "to be needed, to be necessary, to be required, to be wanted, to need, to want"
+        "meaning": "to be needed, to be necessary, to be required, to be wanted, to need, to want |(vi) cần thiết, cần đến, cần, muốn"
       },
       {
         "example": "要",
         "reading": "かなめ",
-        "meaning": "pivot, vital point, cornerstone, keystone, Japanese photinia"
+        "meaning": "pivot, vital point, cornerstone, keystone, Japanese photinia |(vi) then chốt, điểm mấu chốt, nền tảng, đá chốt, cây tỳ bà Nhật"
       },
       {
         "example": "要石",
         "reading": "かなめいし",
-        "meaning": "keystone"
+        "meaning": "keystone |(vi) đá chốt, đá then chốt"
       }
     ],
     "radical": {
@@ -399,7 +399,7 @@
         "襾",
         "覀"
       ],
-      "meaning": "west"
+      "meaning": "west |(vi) Tây (phía tây)"
     },
     "parts": [
       "女",

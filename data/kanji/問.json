@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "to, tou, toi, ton",
-    "meaning": "question",
+    "meaning": "question |(vi) câu hỏi, hỏi",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "質問する（しつもんする）",
         "meaning": {
-          "english": "inquire"
+          "english": "inquire |(vi) chất vấn, hỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "訪問する（ほうもんする）",
         "meaning": {
-          "english": "visit"
+          "english": "visit |(vi) thăm viếng, viếng thăm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "問題（もんだい）",
         "meaning": {
-          "english": "problem, question"
+          "english": "problem, question |(vi) vấn đề, câu hỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "問い合わせる（といあわせる）",
         "meaning": {
-          "english": "seek information, inquire"
+          "english": "seek information, inquire |(vi) hỏi thăm, tra hỏi thông tin"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "問う（とう）",
         "meaning": {
-          "english": "ask a question"
+          "english": "ask a question |(vi) hỏi, chất vấn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "問屋（とんや）",
         "meaning": {
-          "english": "wholesale store"
+          "english": "wholesale store |(vi) cửa hàng bán buôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/to(u)_06_f.opus",
@@ -245,7 +245,7 @@
     "kanji": {
       "character": "問",
       "meaning": {
-        "english": "question"
+        "english": "question |(vi) câu hỏi, hỏi"
       },
       "strokes": {
         "count": 11,
@@ -305,7 +305,7 @@
         "romaji": "mongamae"
       },
       "meaning": {
-        "english": "gate, door"
+        "english": "gate, door |(vi) Môn (cửa, cổng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mongamae0.svg",
@@ -326,7 +326,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "64",
     "strokeCount": 11,
-    "meaning": "question, ask, problem",
+    "meaning": "question, ask, problem |(vi) câu hỏi, hỏi, vấn đề |(hv) Vấn",
     "kunyomi": [
       "と.う",
       "と.い",
@@ -339,59 +339,59 @@
       {
         "example": "問",
         "reading": "モン",
-        "meaning": "counter for questions"
+        "meaning": "counter for questions |(vi) lượng từ đếm câu hỏi"
       },
       {
         "example": "問責",
         "reading": "モンセキ",
-        "meaning": "blame, censure, reproof, reprimand, rebuke"
+        "meaning": "blame, censure, reproof, reprimand, rebuke |(vi) khiển trách, chất vấn trách nhiệm"
       },
       {
         "example": "設問",
         "reading": "セツモン",
-        "meaning": "posing a question, question"
+        "meaning": "posing a question, question |(vi) đặt câu hỏi, câu hỏi khảo sát"
       },
       {
         "example": "弔問",
         "reading": "チョウモン",
-        "meaning": "condolence call, visiting a bereaved family to offer condolences"
+        "meaning": "condolence call, visiting a bereaved family to offer condolences |(vi) viếng tang, chia buồn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "問う",
         "reading": "とう",
-        "meaning": "to ask, to inquire, to blame (someone) for, to accuse of, to pursue (question of responsibility), to charge with, to care about, to regard as important, to call into question, to doubt, to question"
+        "meaning": "to ask, to inquire, to blame (someone) for, to accuse of, to pursue (question of responsibility), to charge with, to care about, to regard as important, to call into question, to doubt, to question |(vi) hỏi, chất vấn, quy trách nhiệm"
       },
       {
         "example": "問うに落ちず語るに落ちる",
         "reading": "とうにおちずかたるにおちる",
-        "meaning": "to keep a secret when asked about it, but let it slip inadvertently when chatting on another occasion"
+        "meaning": "to keep a secret when asked about it, but let it slip inadvertently when chatting on another occasion |(vi) giữ kín khi bị hỏi nhưng lỡ lời khi tán gẫu"
       },
       {
         "example": "問い",
         "reading": "とい",
-        "meaning": "question, query"
+        "meaning": "question, query |(vi) câu hỏi"
       },
       {
         "example": "問い合わせ",
         "reading": "といあわせ",
-        "meaning": "inquiry, query, enquiry"
+        "meaning": "inquiry, query, enquiry |(vi) sự hỏi thăm, yêu cầu thông tin"
       },
       {
         "example": "更問",
         "reading": "さらとい",
-        "meaning": "follow-up question, additional question"
+        "meaning": "follow-up question, additional question |(vi) câu hỏi bổ sung, hỏi thêm"
       },
       {
         "example": "問屋",
         "reading": "とんや",
-        "meaning": "wholesale store, wholesale dealer, wholesaler"
+        "meaning": "wholesale store, wholesale dealer, wholesaler |(vi) cửa hàng bán buôn, nhà buôn sỉ"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "口",

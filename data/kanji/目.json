@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "me, ma",
-    "meaning": "eye, item",
+    "meaning": "eye, item |(vi) mắt, mục",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "目的地（もくてきち）",
         "meaning": {
-          "english": "destination"
+          "english": "destination |(vi) điểm đến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "目標（もくひょう）",
         "meaning": {
-          "english": "objective, target"
+          "english": "objective, target |(vi) mục tiêu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "注目する（ちゅうもくする）",
         "meaning": {
-          "english": "pay attention, take note"
+          "english": "pay attention, take note |(vi) chú ý, để tâm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "目（め）",
         "meaning": {
-          "english": "eye"
+          "english": "eye |(vi) mắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "目を通す（めをとおす）",
         "meaning": {
-          "english": "scan, look over"
+          "english": "scan, look over |(vi) lướt qua, xem lướt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "駄目な（だめな）",
         "meaning": {
-          "english": "useless"
+          "english": "useless |(vi) vô ích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "真面目な（まじめな）",
         "meaning": {
-          "english": "serious"
+          "english": "serious |(vi) nghiêm túc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "３ページ目（さんぺージめ）",
         "meaning": {
-          "english": "third page"
+          "english": "third page |(vi) trang thứ ba"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "目蓋（まぶた）",
         "meaning": {
-          "english": "eyelid"
+          "english": "eyelid |(vi) mí mắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_i.opus",
@@ -273,7 +273,7 @@
     "kanji": {
       "character": "目",
       "meaning": {
-        "english": "eye, item"
+        "english": "eye, item |(vi) mắt, mục"
       },
       "strokes": {
         "count": 5,
@@ -321,7 +321,7 @@
         "romaji": "me"
       },
       "meaning": {
-        "english": "eye"
+        "english": "eye |(vi) Mục (mắt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/me0.svg",
@@ -342,7 +342,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "76",
     "strokeCount": 5,
-    "meaning": "eye, class, look, insight, experience, care, favor",
+    "meaning": "eye, class, look, insight, experience, care, favor |(vi) mắt, loại, cái nhìn, sự sáng suốt, kinh nghiệm, sự quan tâm, ân huệ |(hv) Mục",
     "kunyomi": [
       "め",
       "-め",
@@ -356,59 +356,59 @@
       {
         "example": "目",
         "reading": "モク",
-        "meaning": "order, item (of a budget revision, etc.), counter for played stones, counter for surrounded points"
+        "meaning": "order, item (of a budget revision, etc.), counter for played stones, counter for surrounded points |(vi) trật tự, mục (trong bản sửa đổi ngân sách...), lượng từ đếm quân cờ đã đi, lượng từ đếm điểm bao vây"
       },
       {
         "example": "目撃",
         "reading": "モクゲキ",
-        "meaning": "witnessing, observing, sighting"
+        "meaning": "witnessing, observing, sighting |(vi) sự chứng kiến, quan sát, nhìn thấy"
       },
       {
         "example": "着目",
         "reading": "チャクモク",
-        "meaning": "attention, giving one's attention, focusing"
+        "meaning": "attention, giving one's attention, focusing |(vi) sự chú ý, tập trung sự chú ý"
       },
       {
         "example": "細目",
         "reading": "サイモク",
-        "meaning": "particulars, details, specified items"
+        "meaning": "particulars, details, specified items |(vi) chi tiết cụ thể, các mục được quy định"
       },
       {
         "example": "耳目",
         "reading": "ジモク",
-        "meaning": "eyes and ears, seeing and hearing, one's attention, one's interest"
+        "meaning": "eyes and ears, seeing and hearing, one's attention, one's interest |(vi) tai mắt, sự nghe nhìn, sự chú ý, sự quan tâm"
       },
       {
         "example": "不面目",
         "reading": "フメンボク",
-        "meaning": "shame, disgrace"
+        "meaning": "shame, disgrace |(vi) sự xấu hổ, nhục nhã"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "目",
         "reading": "め",
-        "meaning": "eye, eyeball, eyesight, sight, vision, look, stare, gaze, glance, notice, attention, observation, eyes (of the world, public, etc.), an experience, viewpoint, discrimination, discernment, judgement, eye (e.g. for quality), (an) appearance, chance (of success), possibility (of a good result), spacing (between crossed strands of a net, mesh, etc.), opening, stitch, texture, weave, grain (of wood, paper), eye (of a storm, needle, etc.), intersection (on a go board), square (on a chessboard), dot (on a dice), pip, rolled number, graduation, division (of a scale), tooth (of a saw, comb, etc.), ordinal number suffix, somewhat, -ish, point (e.g. of change)"
+        "meaning": "eye, eyeball, eyesight, sight, vision, look, stare, gaze, glance, notice, attention, observation, eyes (of the world, public, etc.), an experience, viewpoint, discrimination, discernment, judgement, eye (e.g. for quality), (an) appearance, chance (of success), possibility (of a good result), spacing (between crossed strands of a net, mesh, etc.), opening, stitch, texture, weave, grain (of wood, paper), eye (of a storm, needle, etc.), intersection (on a go board), square (on a chessboard), dot (on a dice), pip, rolled number, graduation, division (of a scale), tooth (of a saw, comb, etc.), ordinal number suffix, somewhat, -ish, point (e.g. of change) |(vi) mắt, nhãn cầu, thị lực, tầm nhìn, cái nhìn, ánh nhìn chăm chú, sự chú ý, quan sát, con mắt (của thế giới, công chúng...), một trải nghiệm, góc nhìn, sự phân biệt, óc phán đoán, con mắt (thẩm định chất lượng), vẻ ngoài, cơ hội (thành công), khoảng cách (giữa các sợi lưới, mắt lưới), mắt lưới, mũi đan, kết cấu, thớ (gỗ, giấy), lỗ (bão, kim...), giao điểm (trên bàn cờ vây), ô (trên bàn cờ), chấm (trên xúc xắc), số điểm xúc xắc, cấp bậc, mức chia (thang đo), răng (cưa, lược...), hậu tố số thứ tự, hơi, -ish, điểm (thay đổi)"
       },
       {
         "example": "目当て",
         "reading": "めあて",
-        "meaning": "mark, guide, landmark, purpose, aim, goal, intention, end, sight (on a firearm)"
+        "meaning": "mark, guide, landmark, purpose, aim, goal, intention, end, sight (on a firearm) |(vi) dấu hiệu, hướng dẫn, mốc, mục đích, mục tiêu, ý định, đích ngắm (súng)"
       },
       {
         "example": "蛇の目",
         "reading": "じゃのめ",
-        "meaning": "bull's-eye (pattern), double ring (pattern), umbrella with bull's-eye pattern"
+        "meaning": "bull's-eye (pattern), double ring (pattern), umbrella with bull's-eye pattern |(vi) hoa văn mắt rắn (vòng tròn kép), chiếc ô có hoa văn vòng tròn"
       },
       {
         "example": "負い目",
         "reading": "おいめ",
-        "meaning": "(feeling of) indebtedness, feeling obliged"
+        "meaning": "(feeling of) indebtedness, feeling obliged |(vi) cảm giác mắc nợ, cảm thấy có trách nhiệm"
       }
     ],
     "radical": {
       "symbol": "目",
-      "meaning": "eye"
+      "meaning": "eye |(vi) Mục (mắt)"
     },
     "parts": [
       "目"

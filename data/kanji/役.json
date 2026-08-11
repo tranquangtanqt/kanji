@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "service, role",
+    "meaning": "service, role |(vi) công vụ, vai trò",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "役（やく）",
         "meaning": {
-          "english": "role"
+          "english": "role |(vi) vai trò"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(me)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "役者（やくしゃ）",
         "meaning": {
-          "english": "actor, actress"
+          "english": "actor, actress |(vi) diễn viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(me)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "役割（やくわり）",
         "meaning": {
-          "english": "role, duties"
+          "english": "role, duties |(vi) vai trò, nhiệm vụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(me)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "役所（やくしょ）",
         "meaning": {
-          "english": "public office"
+          "english": "public office |(vi) cơ quan công quyền, ủy ban"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(me)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "役人（やくにん）",
         "meaning": {
-          "english": "government official"
+          "english": "government official |(vi) quan chức, công chức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(me)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "役に立つ（やくにたつ）",
         "meaning": {
-          "english": "useful"
+          "english": "useful |(vi) hữu ích, có ích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(me)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "役立つ（やくだつ）",
         "meaning": {
-          "english": "useful"
+          "english": "useful |(vi) hữu ích, có ích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(me)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "使役（しえき）",
         "meaning": {
-          "english": "enslavement"
+          "english": "enslavement |(vi) sai khiến, bắt lao dịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(me)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "懲役（ちょうえき）",
         "meaning": {
-          "english": "imprisonment with hard labor"
+          "english": "imprisonment with hard labor |(vi) tù khổ sai, án tù lao động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(me)_06_i.opus",
@@ -247,7 +247,7 @@
     "kanji": {
       "character": "役",
       "meaning": {
-        "english": "service, role"
+        "english": "service, role |(vi) công vụ, vai trò"
       },
       "strokes": {
         "count": 7,
@@ -299,7 +299,7 @@
         "romaji": "gyouninben"
       },
       "meaning": {
-        "english": "step, stride, street, to go"
+        "english": "step, stride, street, to go |(vi) Xích (bước đi, bộ xích)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
@@ -320,7 +320,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "315",
     "strokeCount": 7,
-    "meaning": "duty, war, campaign, drafted labor, office, service, role",
+    "meaning": "duty, war, campaign, drafted labor, office, service, role |(vi) nhiệm vụ, chiến dịch, lao dịch, chức vụ, vai trò |(hv) Dịch",
     "kunyomi": [],
     "onyomi": [
       "ヤク",
@@ -330,48 +330,48 @@
       {
         "example": "役",
         "reading": "ヤク",
-        "meaning": "role, assignment, responsibility, duty, function, job, service, position (of responsibility), post, office, part (in a play, film, etc.), role, character, scoring combination, hand, yaku, meld"
+        "meaning": "role, assignment, responsibility, duty, function, job, service, position (of responsibility), post, office, part (in a play, film, etc.), role, character, scoring combination, hand, yaku, meld |(vi) vai trò, nhiệm vụ, chức vụ, bài (trong mạt chược)"
       },
       {
         "example": "役員",
         "reading": "ヤクイン",
-        "meaning": "director, executive, officer, official, person in charge"
+        "meaning": "director, executive, officer, official, person in charge |(vi) ban giám đốc, cán bộ điều hành"
       },
       {
         "example": "悪役",
         "reading": "アクヤク",
-        "meaning": "villain, baddie, the villain's part"
+        "meaning": "villain, baddie, the villain's part |(vi) vai phản diện"
       },
       {
         "example": "大役",
         "reading": "タイヤク",
-        "meaning": "important task, important role, great duty, important mission, major part (in a film, play, etc.), leading role, high-scoring combination"
+        "meaning": "important task, important role, great duty, important mission, major part (in a film, play, etc.), leading role, high-scoring combination |(vi) trọng trách, vai trò quan trọng"
       },
       {
         "example": "役",
         "reading": "エキ",
-        "meaning": "war, campaign, battle, unpaid work (ritsuryō system), forced labor"
+        "meaning": "war, campaign, battle, unpaid work (ritsuryō system), forced labor |(vi) chiến dịch, cuộc chiến, lao dịch không công"
       },
       {
         "example": "役務",
         "reading": "エキム",
-        "meaning": "labor, labour, service"
+        "meaning": "labor, labour, service |(vi) lao dịch, dịch vụ"
       },
       {
         "example": "荷役",
         "reading": "ニエキ",
-        "meaning": "handling cargo, loading and unloading"
+        "meaning": "handling cargo, loading and unloading |(vi) bốc dỡ hàng hóa"
       },
       {
         "example": "就役",
         "reading": "シュウエキ",
-        "meaning": "being placed on duty, going into commission (of a warship, freighter, etc.), being placed in commission"
+        "meaning": "being placed on duty, going into commission (of a warship, freighter, etc.), being placed in commission |(vi) đưa vào biên chế, hạ thủy hoạt động"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "彳",
-      "meaning": "step"
+      "meaning": "step |(vi) Xích (bước đi)"
     },
     "parts": [
       "几",

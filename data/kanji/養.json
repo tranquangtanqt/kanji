@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 2,
     "kunyomi": "yashina, yashinau",
-    "meaning": "foster, rear",
+    "meaning": "foster, rear |(vi) nuôi dưỡng, nuôi nấng",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "栄養（えいよう）",
         "meaning": {
-          "english": "nutrition, nourishment"
+          "english": "nutrition, nourishment |(vi) dinh dưỡng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashina(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "教養（きょうよう）",
         "meaning": {
-          "english": "sophistication, education"
+          "english": "sophistication, education |(vi) học vấn, giáo dưỡng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashina(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "養子（ようし）",
         "meaning": {
-          "english": "adopted child"
+          "english": "adopted child |(vi) con nuôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashina(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "養育する（よういくする）",
         "meaning": {
-          "english": "bring up, raise"
+          "english": "bring up, raise |(vi) nuôi dưỡng, dưỡng dục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashina(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "休養する（きゅうようする）",
         "meaning": {
-          "english": "rest [v.i.]"
+          "english": "rest [v.i.] |(vi) nghỉ ngơi dưỡng sức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashina(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "培養する（ばいようする）",
         "meaning": {
-          "english": "cultivate"
+          "english": "cultivate |(vi) nuôi cấy, bồi dưỡng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashina(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "養う（やしなう）",
         "meaning": {
-          "english": "rear, cultivate"
+          "english": "rear, cultivate |(vi) nuôi dưỡng, nuôi sống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashina(u)_06_g.opus",
@@ -202,7 +202,7 @@
     "kanji": {
       "character": "養",
       "meaning": {
-        "english": "foster, rear"
+        "english": "foster, rear |(vi) nuôi dưỡng, nuôi nấng"
       },
       "strokes": {
         "count": 15,
@@ -270,7 +270,7 @@
         "romaji": "shoku"
       },
       "meaning": {
-        "english": "food, to eat"
+        "english": "food, to eat |(vi) Thực (ăn, thức ăn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shoku0.svg",
@@ -291,7 +291,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "888",
     "strokeCount": 15,
-    "meaning": "foster, bring up, rear, develop, nurture",
+    "meaning": "foster, bring up, rear, develop, nurture |(vi) nuôi dưỡng, nuôi nấng, bồi dưỡng, phát triển |(hv) Dưỡng",
     "kunyomi": [
       "やしな.う"
     ],
@@ -303,29 +303,29 @@
       {
         "example": "養子",
         "reading": "ヨウシ",
-        "meaning": "adopted child (usu. male), son-in-law"
+        "meaning": "adopted child (usu. male), son-in-law |(vi) con nuôi, con rể nuôi"
       },
       {
         "example": "養育",
         "reading": "ヨウイク",
-        "meaning": "bringing up, rearing, upbringing"
+        "meaning": "bringing up, rearing, upbringing |(vi) nuôi dạy, dưỡng dục"
       },
       {
         "example": "供養",
         "reading": "クヨウ",
-        "meaning": "memorial service for the dead, holding a service"
+        "meaning": "memorial service for the dead, holding a service |(vi) lễ cúng, cúng dường"
       },
       {
         "example": "培養",
         "reading": "バイヨウ",
-        "meaning": "culture, cultivation, cultivation (of plants), growing, raising, cultivation (e.g. of a skill), nurture (of democracy, national power, etc.), growth"
+        "meaning": "culture, cultivation, cultivation (of plants), growing, raising, cultivation (e.g. of a skill), nurture (of democracy, national power, etc.), growth |(vi) nuôi cấy, bồi dưỡng, phát triển"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "養う",
         "reading": "やしなう",
-        "meaning": "to support, to maintain, to provide for, to bring up, to raise, to rear, to feed, to adopt (a child), to cultivate (a habit, a quality, etc.), to develop, to build up, to foster, to recuperate (from injury, illness, etc.)"
+        "meaning": "to support, to maintain, to provide for, to bring up, to raise, to rear, to feed, to adopt (a child), to cultivate (a habit, a quality, etc.), to develop, to build up, to foster, to recuperate (from injury, illness, etc.) |(vi) nuôi dưỡng, chu cấp, bồi dưỡng, dưỡng bệnh"
       }
     ],
     "radical": {
@@ -333,7 +333,7 @@
       "forms": [
         "飠"
       ],
-      "meaning": "eat, food"
+      "meaning": "eat, food |(vi) Thực (ăn, thức ăn)"
     },
     "parts": [
       "并",

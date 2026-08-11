@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "osaeru, osa",
-    "meaning": "suppress, control",
+    "meaning": "suppress, control |(vi) trấn áp, kiểm soát",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "抑圧する（よくあつする）",
         "meaning": {
-          "english": "oppress"
+          "english": "oppress |(vi) áp bức, đàn áp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoku-osa(eru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "抑制する（よくせいする）",
         "meaning": {
-          "english": "control, restrain"
+          "english": "control, restrain |(vi) kiềm chế, khống chế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoku-osa(eru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "抑止力（よくしりょく）",
         "meaning": {
-          "english": "(nuclear) deterrent"
+          "english": "(nuclear) deterrent |(vi) sức răn đe (hạt nhân)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoku-osa(eru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "抑揚（よくよう）",
         "meaning": {
-          "english": "intonation, inflection"
+          "english": "intonation, inflection |(vi) ngữ điệu, trầm bổng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoku-osa(eru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "抑える（おさえる）",
         "meaning": {
-          "english": "control, restrain"
+          "english": "control, restrain |(vi) kiềm chế, kìm nén"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoku-osa(eru)_06_e.opus",
@@ -155,7 +155,7 @@
     "kanji": {
       "character": "抑",
       "meaning": {
-        "english": "suppress, control"
+        "english": "suppress, control |(vi) trấn áp, kiểm soát"
       },
       "strokes": {
         "count": 7,
@@ -207,7 +207,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -228,7 +228,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "834",
     "strokeCount": 7,
-    "meaning": "repress, well, now, in the first place, push, shove, press, seal, do in spite of",
+    "meaning": "repress, well, now, in the first place, push, shove, press, seal, do in spite of |(vi) trấn áp, kiềm chế, ấn xuống, ép buộc |(hv) Ức",
     "kunyomi": [
       "おさ.える"
     ],
@@ -239,29 +239,29 @@
       {
         "example": "抑止",
         "reading": "ヨクシ",
-        "meaning": "check, checkmate, stave off, control, restraint, inhibit, deterrent, deterrence"
+        "meaning": "check, checkmate, stave off, control, restraint, inhibit, deterrent, deterrence |(vi) ngăn chặn, răn đe"
       },
       {
         "example": "抑圧",
         "reading": "ヨクアツ",
-        "meaning": "check, restraint, oppression, suppression"
+        "meaning": "check, restraint, oppression, suppression |(vi) áp bức, đàn áp"
       },
       {
         "example": "圧抑",
         "reading": "アツヨク",
-        "meaning": "check, restraint, oppression, suppression"
+        "meaning": "check, restraint, oppression, suppression |(vi) đè nén, áp chế"
       },
       {
         "example": "謙抑",
         "reading": "ケンヨク",
-        "meaning": "humbling oneself"
+        "meaning": "humbling oneself |(vi) khiêm nhường, tự kiềm chế"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "抑える",
         "reading": "おさえる",
-        "meaning": "to keep within limits (e.g. spending), to restrain (e.g. emotions), to control, to curb, to hold in check, to hold back (e.g. an enemy), to check, to curb, to contain, to quell, to subdue, to suppress, to repress"
+        "meaning": "to keep within limits (e.g. spending), to restrain (e.g. emotions), to control, to curb, to hold in check, to hold back (e.g. an enemy), to check, to curb, to contain, to quell, to subdue, to suppress, to repress |(vi) kiềm chế, kìm nén, khống chế"
       }
     ],
     "radical": {
@@ -269,7 +269,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "卩",

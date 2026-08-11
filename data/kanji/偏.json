@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 50,
     "kunyomi": "katayo, katayoru, katayori",
-    "meaning": "one-sided, lean, incline, partial",
+    "meaning": "one-sided, lean, incline, partial |(vi) thiên lệch, nghiêng, một phía, thiên vị",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "偏（へん）",
         "meaning": {
-          "english": "radical on the left side of kanji"
+          "english": "radical on the left side of kanji |(vi) bộ thủ bên trái của kanji (biên bàng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "偏見（へんけん）",
         "meaning": {
-          "english": "prejudice, narrow view"
+          "english": "prejudice, narrow view |(vi) định kiến, thành kiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "偏食（へんしょく）",
         "meaning": {
-          "english": "unbalanced diet"
+          "english": "unbalanced diet |(vi) kén ăn, ăn uống thiên lệch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "偏頭痛（へんずつう）",
         "meaning": {
-          "english": "migraine headache"
+          "english": "migraine headache |(vi) đau nửa đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "偏差値（へんさち）",
         "meaning": {
-          "english": "deviation value"
+          "english": "deviation value |(vi) chỉ số lệch chuẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "偏屈な（へんくつな）",
         "meaning": {
-          "english": "narrow-minded, perverse"
+          "english": "narrow-minded, perverse |(vi) cố chấp, khó tính, lập dị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "偏狭な（へんきょうな）",
         "meaning": {
-          "english": "narrow-minded, intolerant"
+          "english": "narrow-minded, intolerant |(vi) hẹp hòi, khắt khe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "偏重する（へんちょうする）",
         "meaning": {
-          "english": "overemphasize"
+          "english": "overemphasize |(vi) coi trọng thái quá, thiên lệch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "偏愛する（へんあいする）",
         "meaning": {
-          "english": "be partial, show favoritism"
+          "english": "be partial, show favoritism |(vi) thiên vị, cưng chiều riêng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "偏る（かたよる）",
         "meaning": {
-          "english": "incline towards, be biased"
+          "english": "incline towards, be biased |(vi) nghiêng về, thiên lệch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_j.opus",
@@ -230,7 +230,7 @@
     "kanji": {
       "character": "偏",
       "meaning": {
-        "english": "one-sided, lean, incline, partial"
+        "english": "one-sided, lean, incline, partial |(vi) thiên lệch, nghiêng, một phía, thiên vị"
       },
       "strokes": {
         "count": 11,
@@ -290,7 +290,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -311,7 +311,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1340",
     "strokeCount": 11,
-    "meaning": "partial, side, left-side radical, inclining, biased",
+    "meaning": "partial, side, left-side radical, inclining, biased |(vi) thiên lệch, một bên, bộ thủ bên trái, nghiêng, thiên vị |(hv) Thiên",
     "kunyomi": [
       "かたよ.る"
     ],
@@ -322,29 +322,29 @@
       {
         "example": "偏",
         "reading": "ヘン",
-        "meaning": "left-hand radical of a character"
+        "meaning": "left-hand radical of a character |(vi) bộ thủ bên trái của chữ Hán"
       },
       {
         "example": "偏見",
         "reading": "ヘンケン",
-        "meaning": "prejudice, bias, distorted view"
+        "meaning": "prejudice, bias, distorted view |(vi) định kiến, thành kiến, cái nhìn lệch lạc"
       },
       {
         "example": "普遍",
         "reading": "フヘン",
-        "meaning": "universal, general, ubiquitous, omnipresent"
+        "meaning": "universal, general, ubiquitous, omnipresent |(vi) phổ biến, chung, khắp nơi"
       },
       {
         "example": "貝偏",
         "reading": "カイヘン",
-        "meaning": "kanji \"shell\" radical at left"
+        "meaning": "kanji \"shell\" radical at left |(vi) bộ Bối (bộ vỏ sò) bên trái của chữ Hán"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "偏る",
         "reading": "かたよる",
-        "meaning": "to lean (to one side), to incline, to be unbalanced (e.g. diet), to be unduly weighted towards, to be concentrated on, to be partial, to be biased, to be prejudiced"
+        "meaning": "to lean (to one side), to incline, to be unbalanced (e.g. diet), to be unduly weighted towards, to be concentrated on, to be partial, to be biased, to be prejudiced |(vi) nghiêng về một bên, mất cân bằng, thiên lệch, thiên vị, có định kiến"
       }
     ],
     "radical": {
@@ -352,7 +352,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "一",

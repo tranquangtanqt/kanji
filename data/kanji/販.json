@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "engage in sales, sell",
+    "meaning": "engage in sales, sell |(vi) buôn bán, bán",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "販路（はんろ）",
         "meaning": {
-          "english": "market, outlet"
+          "english": "market, outlet |(vi) thị trường tiêu thụ, kênh bán hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(baisuru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "自動販売機（じどうはんばいき）",
         "meaning": {
-          "english": "vending machine"
+          "english": "vending machine |(vi) máy bán hàng tự động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(baisuru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "販売する（はんばいする）",
         "meaning": {
-          "english": "sell, market"
+          "english": "sell, market |(vi) bán, tiêu thụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(baisuru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "市販する（しはんする）",
         "meaning": {
-          "english": "put on the market, market"
+          "english": "put on the market, market |(vi) đưa ra thị trường, bán ra thị trường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(baisuru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "再販する（さいはんする）",
         "meaning": {
-          "english": "resell"
+          "english": "resell |(vi) bán lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(baisuru)_06_e.opus",
@@ -168,7 +168,7 @@
     "kanji": {
       "character": "販",
       "meaning": {
-        "english": "engage in sales, sell"
+        "english": "engage in sales, sell |(vi) buôn bán, bán"
       },
       "strokes": {
         "count": 11,
@@ -228,7 +228,7 @@
         "romaji": "kaihen"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (vỏ sò, tài sản, của cải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kaihen0.svg",
@@ -249,7 +249,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "627",
     "strokeCount": 11,
-    "meaning": "marketing, sell, trade",
+    "meaning": "marketing, sell, trade |(vi) tiếp thị, bán, buôn bán |(hv) Phiến",
     "kunyomi": [],
     "onyomi": [
       "ハン"
@@ -258,28 +258,28 @@
       {
         "example": "販売",
         "reading": "ハンバイ",
-        "meaning": "sale, sales, selling, marketing"
+        "meaning": "sale, sales, selling, marketing |(vi) bán hàng, tiêu thụ, tiếp thị"
       },
       {
         "example": "販売員",
         "reading": "ハンバイイン",
-        "meaning": "sales staff, salesperson"
+        "meaning": "sales staff, salesperson |(vi) nhân viên bán hàng"
       },
       {
         "example": "自販",
         "reading": "ジハン",
-        "meaning": "automatic selling, car sales"
+        "meaning": "automatic selling, car sales |(vi) bán hàng tự động, bán xe"
       },
       {
         "example": "再販",
         "reading": "サイハン",
-        "meaning": "resale"
+        "meaning": "resale |(vi) bán lại, tái bán"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò)"
     },
     "parts": [
       "ハ",

@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kado",
-    "meaning": "gate",
+    "meaning": "gate |(vi) cổng, cửa",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "門（もん）",
         "meaning": {
-          "english": "gate"
+          "english": "gate |(vi) cổng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "正門（せいもん）",
         "meaning": {
-          "english": "main gate"
+          "english": "main gate |(vi) cổng chính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "校門（こうもん）",
         "meaning": {
-          "english": "school gate"
+          "english": "school gate |(vi) cổng trường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "専門（せんもん）",
         "meaning": {
-          "english": "speciality"
+          "english": "speciality |(vi) chuyên môn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "部門（ぶもん）",
         "meaning": {
-          "english": "category"
+          "english": "category |(vi) bộ phận, phân môn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "名門（めいもん）",
         "meaning": {
-          "english": "distinguished family"
+          "english": "distinguished family |(vi) danh gia vọng tộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "入門する（にゅうもんする）",
         "meaning": {
-          "english": "enter an institute"
+          "english": "enter an institute |(vi) nhập môn, gia nhập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "破門する（はもんする）",
         "meaning": {
-          "english": "expel"
+          "english": "expel |(vi) trục xuất, khai trừ (khỏi môn phái)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "門（かど）",
         "meaning": {
-          "english": "gate"
+          "english": "gate |(vi) cổng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "門出（かどで）",
         "meaning": {
-          "english": "departure, setting out"
+          "english": "departure, setting out |(vi) khởi hành, lên đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_j.opus",
@@ -258,7 +258,7 @@
     "kanji": {
       "character": "門",
       "meaning": {
-        "english": "gate"
+        "english": "gate |(vi) cổng, cửa"
       },
       "strokes": {
         "count": 8,
@@ -312,7 +312,7 @@
         "romaji": "mongamae"
       },
       "meaning": {
-        "english": "gate, door"
+        "english": "gate, door |(vi) Môn (cửa, cổng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mongamae0.svg",
@@ -333,7 +333,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "452",
     "strokeCount": 8,
-    "meaning": "gate, counter for cannons",
+    "meaning": "gate, counter for cannons |(vi) cổng, lượng từ đếm đại bác |(hv) Môn",
     "kunyomi": [
       "かど",
       "と"
@@ -345,69 +345,69 @@
       {
         "example": "門",
         "reading": "モン",
-        "meaning": "gate, branch of learning based on the teachings of a single master, division, phylum, counter for cannons"
+        "meaning": "gate, branch of learning based on the teachings of a single master, division, phylum, counter for cannons |(vi) cổng, môn phái, ngành, lượng từ đếm đại bác"
       },
       {
         "example": "門下",
         "reading": "モンカ",
-        "meaning": "one's pupil, one's student, one's follower"
+        "meaning": "one's pupil, one's student, one's follower |(vi) môn đệ, học trò"
       },
       {
         "example": "入門",
         "reading": "ニュウモン",
-        "meaning": "becoming a pupil (of), becoming a disciple, entering an institution, beginning training, introduction (to), primer, guide, entering through a gate"
+        "meaning": "becoming a pupil (of), becoming a disciple, entering an institution, beginning training, introduction (to), primer, guide, entering through a gate |(vi) nhập môn, bắt đầu học"
       },
       {
         "example": "宗門",
         "reading": "シュウモン",
-        "meaning": "(religious) denomination, sect"
+        "meaning": "(religious) denomination, sect |(vi) tông môn, giáo phái"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "門",
         "reading": "もん",
-        "meaning": "gate, branch of learning based on the teachings of a single master, division, phylum, counter for cannons"
+        "meaning": "gate, branch of learning based on the teachings of a single master, division, phylum, counter for cannons |(vi) cổng, môn phái, ngành"
       },
       {
         "example": "門出",
         "reading": "かどで",
-        "meaning": "setting off (on a long journey), setting out, departure (e.g. for the front), leaving home, starting a new life, starting life anew"
+        "meaning": "setting off (on a long journey), setting out, departure (e.g. for the front), leaving home, starting a new life, starting life anew |(vi) khởi hành, bắt đầu cuộc sống mới"
       },
       {
         "example": "帝",
         "reading": "みかど",
-        "meaning": "emperor (of Japan), mikado, (the gates of an) imperial residence"
+        "meaning": "emperor (of Japan), mikado, (the gates of an) imperial residence |(vi) Thiên hoàng, hoàng cung"
       },
       {
         "example": "口は災いの門",
         "reading": "くちはわざわいのかど",
-        "meaning": "words can lead to disaster, the tongue is the root of calamities, the more you open your mouth the more likely you are to put your foot in it"
+        "meaning": "words can lead to disaster, the tongue is the root of calamities, the more you open your mouth the more likely you are to put your foot in it |(vi) họa từ miệng mà ra"
       },
       {
         "example": "戸",
         "reading": "と",
-        "meaning": "door (esp. Japanese-style), shutter, window shutter, entrance (to a home), narrows"
+        "meaning": "door (esp. Japanese-style), shutter, window shutter, entrance (to a home), narrows |(vi) cửa (kiểu Nhật), cửa chớp, lối vào"
       },
       {
         "example": "門浪",
         "reading": "となみ",
-        "meaning": "waves in narrow straits"
+        "meaning": "waves in narrow straits |(vi) sóng ở eo biển hẹp"
       },
       {
         "example": "鳴門",
         "reading": "なると",
-        "meaning": "strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto (city in Tokushima), Naruto Strait, Naruto wakame"
+        "meaning": "strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto (city in Tokushima), Naruto Strait, Naruto wakame |(vi) eo biển Naruto, chả cá hình xoáy"
       },
       {
         "example": "長門",
         "reading": "ながと",
-        "meaning": "Nagato (former province located in the west of present-day Yamaguchi Prefecture)"
+        "meaning": "Nagato (former province located in the west of present-day Yamaguchi Prefecture) |(vi) Nagato (tỉnh cũ ở phía tây Yamaguchi)"
       }
     ],
     "radical": {
       "symbol": "門",
-      "meaning": "gate"
+      "meaning": "gate |(vi) Môn (cửa, cổng)"
     },
     "parts": [
       "門"

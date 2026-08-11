@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ki, kiku, kikoeru",
-    "meaning": "hear, listen, ask",
+    "meaning": "hear, listen, ask |(vi) nghe, lắng nghe, hỏi",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "新聞（しんぶん）",
         "meaning": {
-          "english": "newspaper"
+          "english": "newspaper |(vi) báo, tờ báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-ki(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "前代未聞（ぜんだいみもん）",
         "meaning": {
-          "english": "unheard-of"
+          "english": "unheard-of |(vi) chưa từng nghe thấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-ki(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "聞く（きく）",
         "meaning": {
-          "english": "listen, hear, ask a question [v.t.]"
+          "english": "listen, hear, ask a question [v.t.] |(vi) nghe, lắng nghe, hỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-ki(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "聞こえる（きこえる）",
         "meaning": {
-          "english": "can be heard, hear [v.i.]"
+          "english": "can be heard, hear [v.i.] |(vi) nghe được, có thể nghe thấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-ki(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "聞き手（ききて）",
         "meaning": {
-          "english": "listener"
+          "english": "listener |(vi) người nghe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-ki(ku)_06_e.opus",
@@ -227,7 +227,7 @@
     "kanji": {
       "character": "聞",
       "meaning": {
-        "english": "hear, listen, ask"
+        "english": "hear, listen, ask |(vi) nghe, lắng nghe, hỏi"
       },
       "strokes": {
         "count": 14,
@@ -293,7 +293,7 @@
         "romaji": "mongamae"
       },
       "meaning": {
-        "english": "gate, door"
+        "english": "gate, door |(vi) Môn (cửa, cổng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mongamae0.svg",
@@ -314,7 +314,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "319",
     "strokeCount": 14,
-    "meaning": "hear, ask, listen",
+    "meaning": "hear, ask, listen |(vi) nghe, hỏi, lắng nghe |(hv) Văn",
     "kunyomi": [
       "き.く",
       "き.こえる"
@@ -327,64 +327,64 @@
       {
         "example": "聞見",
         "reading": "ブンケン",
-        "meaning": "information, experience, knowledge, observation"
+        "meaning": "information, experience, knowledge, observation |(vi) thông tin, trải nghiệm, kiến thức, quan sát"
       },
       {
         "example": "聞香",
         "reading": "ブンコウ",
-        "meaning": "smelling incense, savoring incense, distinguishing incense by smell, incense-smelling party"
+        "meaning": "smelling incense, savoring incense, distinguishing incense by smell, incense-smelling party |(vi) thưởng hương, nghe hương, phân biệt hương bằng khứu giác, buổi tiệc thưởng hương"
       },
       {
         "example": "スポーツ新聞",
         "reading": "スポーツシンブン",
-        "meaning": "sports newspaper"
+        "meaning": "sports newspaper |(vi) báo thể thao"
       },
       {
         "example": "壁新聞",
         "reading": "カベシンブン",
-        "meaning": "wall newspaper, wall poster"
+        "meaning": "wall newspaper, wall poster |(vi) báo tường, áp phích dán tường"
       },
       {
         "example": "聞見",
         "reading": "ブンケン",
-        "meaning": "information, experience, knowledge, observation"
+        "meaning": "information, experience, knowledge, observation |(vi) thông tin, trải nghiệm, kiến thức, quan sát"
       },
       {
         "example": "聞香",
         "reading": "ブンコウ",
-        "meaning": "smelling incense, savoring incense, distinguishing incense by smell, incense-smelling party"
+        "meaning": "smelling incense, savoring incense, distinguishing incense by smell, incense-smelling party |(vi) thưởng hương, nghe hương, phân biệt hương bằng khứu giác, buổi tiệc thưởng hương"
       },
       {
         "example": "奏聞",
         "reading": "ソウモン",
-        "meaning": "reporting to the Emperor"
+        "meaning": "reporting to the Emperor |(vi) tâu lên Thiên hoàng, báo cáo lên vua"
       },
       {
         "example": "声聞",
         "reading": "ショウモン",
-        "meaning": "sravaka (disciple of Buddha), adherent of Hinayana Buddhism"
+        "meaning": "sravaka (disciple of Buddha), adherent of Hinayana Buddhism |(vi) Thanh văn (đệ tử của Phật), tín đồ Tiểu thừa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "聞く",
         "reading": "きく",
-        "meaning": "to hear, to listen (e.g. to music), to ask, to enquire, to query, to hear about, to hear of, to learn of, to follow (advice, order, etc.), to obey, to listen to, to comply with, to hear (e.g. a plea), to grant (a request), to accept (e.g. an argument), to give consideration to, to smell (esp. incense), to sample (a fragrance), to taste (alcohol), to try"
+        "meaning": "to hear, to listen (e.g. to music), to ask, to enquire, to query, to hear about, to hear of, to learn of, to follow (advice, order, etc.), to obey, to listen to, to comply with, to hear (e.g. a plea), to grant (a request), to accept (e.g. an argument), to give consideration to, to smell (esp. incense), to sample (a fragrance), to taste (alcohol), to try |(vi) nghe, lắng nghe (nhạc...), hỏi, thăm hỏi, nghe nói về, nghe theo (lời khuyên, mệnh lệnh...), tuân theo, chấp nhận (yêu cầu), ngửi (đặc biệt là hương), nếm thử (rượu)"
       },
       {
         "example": "聞くだけ野暮",
         "reading": "きくだけやぼ",
-        "meaning": "asking would be rude, tasteless question"
+        "meaning": "asking would be rude, tasteless question |(vi) hỏi thì thô lỗ, câu hỏi vô duyên"
       },
       {
         "example": "聞こえる",
         "reading": "きこえる",
-        "meaning": "to be heard, to be audible, to reach one's ears, to sound (like), to come across (as), to be well known, to be famous, to accept (someone's words), to agree, to understand"
+        "meaning": "to be heard, to be audible, to reach one's ears, to sound (like), to come across (as), to be well known, to be famous, to accept (someone's words), to agree, to understand |(vi) nghe được, nghe thấy, đến tai, nghe như, nổi tiếng, được chấp nhận, hiểu"
       }
     ],
     "radical": {
       "symbol": "耳",
-      "meaning": "ear"
+      "meaning": "ear |(vi) Nhĩ (tai)"
     },
     "parts": [
       "耳",

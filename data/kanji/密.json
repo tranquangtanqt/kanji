@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "close, secret, dense, fine",
+    "meaning": "close, secret, dense, fine |(vi) kín đáo, bí mật, dày đặc, tỉ mỉ",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "密林（みつりん）",
         "meaning": {
-          "english": "dense forest, jungle"
+          "english": "dense forest, jungle |(vi) rừng rậm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mitsu(do)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "密度（みつど）",
         "meaning": {
-          "english": "density"
+          "english": "density |(vi) mật độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mitsu(do)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "密室（みっしつ）",
         "meaning": {
-          "english": "closed-door, locked room"
+          "english": "closed-door, locked room |(vi) phòng kín"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mitsu(do)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "秘密（ひみつ）",
         "meaning": {
-          "english": "secret, secrecy"
+          "english": "secret, secrecy |(vi) bí mật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mitsu(do)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "密接な（みっせつな）",
         "meaning": {
-          "english": "close, intimate"
+          "english": "close, intimate |(vi) gần gũi, mật thiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mitsu(do)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "過密な（かみつな）",
         "meaning": {
-          "english": "over populated"
+          "english": "over populated |(vi) quá đông đúc, quá tải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mitsu(do)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "緊密な（きんみつな）",
         "meaning": {
-          "english": "close, intimate"
+          "english": "close, intimate |(vi) chặt chẽ, mật thiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mitsu(do)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "親密な（しんみつな）",
         "meaning": {
-          "english": "intimate, friendly"
+          "english": "intimate, friendly |(vi) thân mật, thân thiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mitsu(do)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "厳密な（げんみつな）",
         "meaning": {
-          "english": "strict, rigorous"
+          "english": "strict, rigorous |(vi) nghiêm ngặt, chặt chẽ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mitsu(do)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "密告する（みっこくする）",
         "meaning": {
-          "english": "betray, inform (police), tip off"
+          "english": "betray, inform (police), tip off |(vi) mật báo, tố giác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mitsu(do)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "密集する（みっしゅうする）",
         "meaning": {
-          "english": "crowd, swarm"
+          "english": "crowd, swarm |(vi) tụ tập đông đúc, dày đặc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mitsu(do)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "密売する（みつばいする）",
         "meaning": {
-          "english": "smuggle, bootleg"
+          "english": "smuggle, bootleg |(vi) buôn lậu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mitsu(do)_06_l.opus",
@@ -234,7 +234,7 @@
     "kanji": {
       "character": "密",
       "meaning": {
-        "english": "close, secret, dense, fine"
+        "english": "close, secret, dense, fine |(vi) kín đáo, bí mật, dày đặc, tỉ mỉ"
       },
       "strokes": {
         "count": 11,
@@ -294,7 +294,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà - bộ đầu)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -315,7 +315,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "815",
     "strokeCount": 11,
-    "meaning": "secrecy, density (pop), minuteness, carefulness",
+    "meaning": "secrecy, density (pop), minuteness, carefulness |(vi) bí mật, mật độ, sự tỉ mỉ, sự cẩn thận |(hv) Mật",
     "kunyomi": [
       "ひそ.か"
     ],
@@ -326,34 +326,34 @@
       {
         "example": "密",
         "reading": "ミツ",
-        "meaning": "dense, thick, crowded, close (relationship), intimate, minute, fine, careful, secret, esoteric Buddhism, secret Buddhist teachings"
+        "meaning": "dense, thick, crowded, close (relationship), intimate, minute, fine, careful, secret, esoteric Buddhism, secret Buddhist teachings |(vi) dày đặc, chật, đông đúc, gần gũi (quan hệ), thân mật, tỉ mỉ, chi tiết, cẩn thận, bí mật, Mật tông, giáo lý bí truyền của Phật giáo"
       },
       {
         "example": "密度",
         "reading": "ミツド",
-        "meaning": "density"
+        "meaning": "density |(vi) mật độ"
       },
       {
         "example": "濃密",
         "reading": "ノウミツ",
-        "meaning": "dense, thick, rich (flavour, colour, etc.), deep, strong (smell), heavy, detailed (description), close (relationship), intimate"
+        "meaning": "dense, thick, rich (flavour, colour, etc.), deep, strong (smell), heavy, detailed (description), close (relationship), intimate |(vi) đậm đặc, đậm đà, sâu sắc, nồng (mùi), nặng, chi tiết (mô tả), gần gũi (quan hệ), thân mật"
       },
       {
         "example": "細密",
         "reading": "サイミツ",
-        "meaning": "detailed knowledge, finely detailed"
+        "meaning": "detailed knowledge, finely detailed |(vi) hiểu biết chi tiết, tỉ mỉ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "密か",
         "reading": "ひそか",
-        "meaning": "secret, private, surreptitious"
+        "meaning": "secret, private, surreptitious |(vi) bí mật, riêng tư, lén lút"
       }
     ],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà)"
     },
     "parts": [
       "ノ",

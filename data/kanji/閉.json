@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "to, tojiru, tozasu, shi, shimeru, shimaru",
-    "meaning": "close",
+    "meaning": "close |(vi) đóng, khép lại",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "閉鎖的な（へいさてきな）",
         "meaning": {
-          "english": "unsociable, closed"
+          "english": "unsociable, closed |(vi) khép kín, không cởi mở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-toji(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "開閉する（かいへいする）",
         "meaning": {
-          "english": "open and close"
+          "english": "open and close |(vi) mở và đóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-toji(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "閉会する（へいかいする）",
         "meaning": {
-          "english": "close a meeting"
+          "english": "close a meeting |(vi) bế mạc (cuộc họp)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-toji(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "閉店する（へいてんする）",
         "meaning": {
-          "english": "close shop"
+          "english": "close shop |(vi) đóng cửa hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-toji(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "閉じる（とじる）",
         "meaning": {
-          "english": "close, end, shut [v.t.]"
+          "english": "close, end, shut [v.t.] |(vi) đóng lại, kết thúc, khép lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-toji(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "閉ざす（とざす）",
         "meaning": {
-          "english": "shut, be filled with anxiety [v.t.]"
+          "english": "shut, be filled with anxiety [v.t.] |(vi) đóng kín, bị vây bủa bởi lo âu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-toji(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "閉める（しめる）",
         "meaning": {
-          "english": "close [v.t.]"
+          "english": "close [v.t.] |(vi) đóng lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-toji(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "閉まる（しまる）",
         "meaning": {
-          "english": "close [v.i.]"
+          "english": "close [v.i.] |(vi) được đóng lại, đóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-toji(ru)_06_h.opus",
@@ -259,7 +259,7 @@
     "kanji": {
       "character": "閉",
       "meaning": {
-        "english": "close"
+        "english": "close |(vi) đóng, khép lại"
       },
       "strokes": {
         "count": 11,
@@ -319,7 +319,7 @@
         "romaji": "mongamae"
       },
       "meaning": {
-        "english": "gate, door"
+        "english": "gate, door |(vi) Môn (cổng, cửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mongamae0.svg",
@@ -340,7 +340,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "951",
     "strokeCount": 11,
-    "meaning": "closed, shut",
+    "meaning": "closed, shut |(vi) đóng, khép kín |(hv) Bế",
     "kunyomi": [
       "と.じる",
       "と.ざす",
@@ -355,54 +355,54 @@
       {
         "example": "閉鎖",
         "reading": "ヘイサ",
-        "meaning": "closing, closure, shutdown, lockout"
+        "meaning": "closing, closure, shutdown, lockout |(vi) đóng cửa, ngừng hoạt động, phong tỏa"
       },
       {
         "example": "閉会",
         "reading": "ヘイカイ",
-        "meaning": "closure (of a ceremony, event, meeting, etc.)"
+        "meaning": "closure (of a ceremony, event, meeting, etc.) |(vi) bế mạc"
       },
       {
         "example": "開閉",
         "reading": "カイヘイ",
-        "meaning": "opening and shutting, opening and closing"
+        "meaning": "opening and shutting, opening and closing |(vi) đóng mở"
       },
       {
         "example": "幽閉",
         "reading": "ユウヘイ",
-        "meaning": "confinement, imprisonment, incarceration"
+        "meaning": "confinement, imprisonment, incarceration |(vi) giam cầm, cầm cố"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "閉じる",
         "reading": "とじる",
-        "meaning": "to close (e.g. book, eyes, meeting, etc.), to shut"
+        "meaning": "to close (e.g. book, eyes, meeting, etc.), to shut |(vi) đóng lại, khép lại"
       },
       {
         "example": "閉ざす",
         "reading": "とざす",
-        "meaning": "to shut, to close, to fasten, to lock, to block (a street, entrance, etc.), to shut in (with snow, ice, etc.), to shut off, to cut off, to cover (e.g. in darkness), to consume (with negative feelings), to fill (e.g. with sadness), to bury (e.g. in grief)"
+        "meaning": "to shut, to close, to fasten, to lock, to block (a street, entrance, etc.), to shut in (with snow, ice, etc.), to shut off, to cut off, to cover (e.g. in darkness), to consume (with negative feelings), to fill (e.g. with sadness), to bury (e.g. in grief) |(vi) đóng kín, khóa lại, chặn lại, bao trùm (bởi cảm xúc tiêu cực)"
       },
       {
         "example": "閉める",
         "reading": "しめる",
-        "meaning": "to close, to shut"
+        "meaning": "to close, to shut |(vi) đóng lại"
       },
       {
         "example": "閉まる",
         "reading": "しまる",
-        "meaning": "to be shut, to close, to be closed, to be firm (of a body, face, etc.), to be well-knit, to be locked, to tighten, to be tightened, to become sober, to become tense"
+        "meaning": "to be shut, to close, to be closed, to be firm (of a body, face, etc.), to be well-knit, to be locked, to tighten, to be tightened, to become sober, to become tense |(vi) được đóng lại, chắc chắn, siết chặt, tỉnh táo, căng thẳng"
       },
       {
         "example": "閉てる",
         "reading": "たてる",
-        "meaning": "to shut, to close"
+        "meaning": "to shut, to close |(vi) đóng lại"
       }
     ],
     "radical": {
       "symbol": "門",
-      "meaning": "gate"
+      "meaning": "gate |(vi) Môn (cổng, cửa)"
     },
     "parts": [
       "ノ",

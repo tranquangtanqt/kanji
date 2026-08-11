@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "aji, ajiwau, ajiwai",
-    "meaning": "taste",
+    "meaning": "taste |(vi) vị, mùi vị",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "意味（いみ）",
         "meaning": {
-          "english": "meaning"
+          "english": "meaning |(vi) ý nghĩa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aji(wau)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "興味（きょうみ）",
         "meaning": {
-          "english": "interest (in something)"
+          "english": "interest (in something) |(vi) hứng thú, sự quan tâm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aji(wau)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "趣味（しゅみ）",
         "meaning": {
-          "english": "hobby"
+          "english": "hobby |(vi) sở thích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aji(wau)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "味噌（みそ）",
         "meaning": {
-          "english": "bean paste"
+          "english": "bean paste |(vi) tương đậu (miso)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aji(wau)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "味覚（みかく）",
         "meaning": {
-          "english": "sense of taste"
+          "english": "sense of taste |(vi) vị giác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aji(wau)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "味（あじ）",
         "meaning": {
-          "english": "flavor"
+          "english": "flavor |(vi) hương vị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aji(wau)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "後味（あとあじ）",
         "meaning": {
-          "english": "aftertaste"
+          "english": "aftertaste |(vi) dư vị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aji(wau)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "味わう（あじわう）",
         "meaning": {
-          "english": "taste, appreciate"
+          "english": "taste, appreciate |(vi) nếm, thưởng thức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aji(wau)_06_h.opus",
@@ -264,7 +264,7 @@
     "kanji": {
       "character": "味",
       "meaning": {
-        "english": "taste"
+        "english": "taste |(vi) vị, mùi vị"
       },
       "strokes": {
         "count": 8,
@@ -318,7 +318,7 @@
         "romaji": "kuchihen"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng - bộ thủ đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchihen0.svg",
@@ -339,7 +339,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "442",
     "strokeCount": 8,
-    "meaning": "flavor, taste",
+    "meaning": "flavor, taste |(vi) hương vị, vị |(hv) Vị",
     "kunyomi": [
       "あじ",
       "あじ.わう"
@@ -351,54 +351,54 @@
       {
         "example": "味",
         "reading": "ミ",
-        "meaning": "(sense of) taste, counter for kinds of food, drink or medicine"
+        "meaning": "(sense of) taste, counter for kinds of food, drink or medicine |(vi) vị giác, lượng từ đếm loại đồ ăn, thức uống hoặc thuốc"
       },
       {
         "example": "【ミ】",
         "reading": "-ness (as in &quot;sweetness&quot;), -th (as in &quot;warmth&quot;), a touch of, a tinge of, place, alternating between ... and ..., sometimes ... and sometimes ...",
-        "meaning": ""
+        "meaning": " |(vi) hậu tố chỉ tính chất (như '-tính', '-độ'), chút, một chút, đôi khi... đôi khi..."
       },
       {
         "example": "厚み",
         "reading": "アツミ",
-        "meaning": "thickness, profundity, depth"
+        "meaning": "thickness, profundity, depth |(vi) độ dày, sự uyên thâm, chiều sâu"
       },
       {
         "example": "加味",
         "reading": "カミ",
-        "meaning": "seasoning, flavoring, flavouring, addition, inclusion, taking into account"
+        "meaning": "seasoning, flavoring, flavouring, addition, inclusion, taking into account |(vi) gia vị, sự thêm vào, việc xem xét đến"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "味",
         "reading": "あじ",
-        "meaning": "flavor, flavour, taste, charm, appeal, uniqueness, attractiveness, experience, taste (e.g. of victory), smart, clever, witty, strange"
+        "meaning": "flavor, flavour, taste, charm, appeal, uniqueness, attractiveness, experience, taste (e.g. of victory), smart, clever, witty, strange |(vi) hương vị, vị, sức hấp dẫn, sự độc đáo, trải nghiệm, tinh tế, khôn khéo, kỳ lạ"
       },
       {
         "example": "味付け",
         "reading": "あじつけ",
-        "meaning": "seasoning, flavour, flavor"
+        "meaning": "seasoning, flavour, flavor |(vi) nêm gia vị, ướp vị"
       },
       {
         "example": "切れ味",
         "reading": "きれあじ",
-        "meaning": "sharpness, cutting ability, quickness (of wit), incisiveness, technical proficiency, skill, peppiness (of a ball)"
+        "meaning": "sharpness, cutting ability, quickness (of wit), incisiveness, technical proficiency, skill, peppiness (of a ball) |(vi) độ sắc bén, khả năng cắt, sự nhanh nhạy, kỹ năng, độ hiệu quả"
       },
       {
         "example": "下味",
         "reading": "したあじ",
-        "meaning": "seasoning of food"
+        "meaning": "seasoning of food |(vi) ướp gia vị trước, sơ chế nêm vị"
       },
       {
         "example": "味わう",
         "reading": "あじわう",
-        "meaning": "to taste, to savor, to savour, to relish, to appreciate, to enjoy, to relish, to digest, to experience, to go through, to taste (e.g. victory), to know (e.g. pain)"
+        "meaning": "to taste, to savor, to savour, to relish, to appreciate, to enjoy, to relish, to digest, to experience, to go through, to taste (e.g. victory), to know (e.g. pain) |(vi) nếm, thưởng thức, cảm nhận, trải nghiệm"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "ハ",

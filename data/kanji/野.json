@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "no",
-    "meaning": "field",
+    "meaning": "field |(vi) đồng ruộng, hoang dã",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "野球（やきゅう）",
         "meaning": {
-          "english": "baseball"
+          "english": "baseball |(vi) bóng chày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ya-no_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "野菜（やさい）",
         "meaning": {
-          "english": "vegetable"
+          "english": "vegetable |(vi) rau củ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ya-no_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "野党（やとう）",
         "meaning": {
-          "english": "opposition party"
+          "english": "opposition party |(vi) đảng đối lập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ya-no_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "平野（へいや）",
         "meaning": {
-          "english": "plain"
+          "english": "plain |(vi) đồng bằng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ya-no_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "分野（ぶんや）",
         "meaning": {
-          "english": "field"
+          "english": "field |(vi) lĩnh vực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ya-no_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "視野（しや）",
         "meaning": {
-          "english": "field of vision"
+          "english": "field of vision |(vi) tầm nhìn, thị dã"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ya-no_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "野原（のはら）",
         "meaning": {
-          "english": "field"
+          "english": "field |(vi) cánh đồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ya-no_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "野良犬（のらいぬ）",
         "meaning": {
-          "english": "stray dog"
+          "english": "stray dog |(vi) chó hoang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ya-no_06_h.opus",
@@ -255,7 +255,7 @@
     "kanji": {
       "character": "野",
       "meaning": {
-        "english": "field"
+        "english": "field |(vi) đồng ruộng, hoang dã"
       },
       "strokes": {
         "count": 11,
@@ -315,7 +315,7 @@
         "romaji": "satohen"
       },
       "meaning": {
-        "english": "village, (3.93 km)"
+        "english": "village, (3.93 km) |(vi) Lý (làng, dặm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/satohen0.svg",
@@ -336,7 +336,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "120",
     "strokeCount": 11,
-    "meaning": "plains, field, rustic, civilian life",
+    "meaning": "plains, field, rustic, civilian life |(vi) đồng bằng, cánh đồng, quê mùa, đời thường dân |(hv) Dã",
     "kunyomi": [
       "の",
       "の-"
@@ -349,49 +349,49 @@
       {
         "example": "野",
         "reading": "ノ",
-        "meaning": "plain, field, hidden (structural) member, wild, lacking a political post"
+        "meaning": "plain, field, hidden (structural) member, wild, lacking a political post |(vi) cánh đồng, hoang dã, không giữ chức vụ chính trị"
       },
       {
         "example": "野外",
         "reading": "ヤガイ",
-        "meaning": "outdoors, outside, open air, fields, outskirts, suburbs"
+        "meaning": "outdoors, outside, open air, fields, outskirts, suburbs |(vi) ngoài trời, dã ngoại"
       },
       {
         "example": "内野",
         "reading": "ナイヤ",
-        "meaning": "infield, diamond"
+        "meaning": "infield, diamond |(vi) khu vực nội dã (bóng chày)"
       },
       {
         "example": "在野",
         "reading": "ザイヤ",
-        "meaning": "out of office, out of power, in opposition, unaffiliated (e.g. researcher, scientist), in private practice"
+        "meaning": "out of office, out of power, in opposition, unaffiliated (e.g. researcher, scientist), in private practice |(vi) ở ngoài chính quyền, không giữ chức vụ, dân dã"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "野",
         "reading": "の",
-        "meaning": "plain, field, hidden (structural) member, wild, lacking a political post"
+        "meaning": "plain, field, hidden (structural) member, wild, lacking a political post |(vi) cánh đồng, hoang dã"
       },
       {
         "example": "野末",
         "reading": "のずえ",
-        "meaning": "corners of a field"
+        "meaning": "corners of a field |(vi) góc cánh đồng, ven đồng"
       },
       {
         "example": "裾野",
         "reading": "すその",
-        "meaning": "foot of a mountain, plain at the foot of a mountain, range, spread, extent, encompassing circle"
+        "meaning": "foot of a mountain, plain at the foot of a mountain, range, spread, extent, encompassing circle |(vi) chân núi, vùng đất trải rộng dưới chân núi"
       },
       {
         "example": "郊野",
         "reading": "こうの",
-        "meaning": "suburban fields"
+        "meaning": "suburban fields |(vi) đồng ruộng ngoại ô"
       }
     ],
     "radical": {
       "symbol": "里",
-      "meaning": "village, mile"
+      "meaning": "village, mile |(vi) Lý (làng, dặm)"
     },
     "parts": [
       "亅",

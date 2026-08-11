@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "takara",
-    "meaning": "treasure",
+    "meaning": "treasure |(vi) báu vật, kho báu",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "宝庫（ほうこ）",
         "meaning": {
-          "english": "treasure house, treasury"
+          "english": "treasure house, treasury |(vi) kho báu, kho tàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/takara_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "宝石（ほうせき）",
         "meaning": {
-          "english": "gem, jewel"
+          "english": "gem, jewel |(vi) đá quý, trang sức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/takara_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "財宝（ざいほう）",
         "meaning": {
-          "english": "treasure"
+          "english": "treasure |(vi) của cải, tài sản quý báu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/takara_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "国宝（こくほう）",
         "meaning": {
-          "english": "national treasure"
+          "english": "national treasure |(vi) quốc bảo, báu vật quốc gia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/takara_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "家宝（かほう）",
         "meaning": {
-          "english": "heirloom"
+          "english": "heirloom |(vi) gia bảo, vật gia truyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/takara_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "宝（たから）",
         "meaning": {
-          "english": "treasure"
+          "english": "treasure |(vi) báu vật, kho báu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/takara_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "宝くじ（たからくじ）",
         "meaning": {
-          "english": "lottery"
+          "english": "lottery |(vi) xổ số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/takara_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "宝物（たからもの）",
         "meaning": {
-          "english": "treasure, treasured item"
+          "english": "treasure, treasured item |(vi) báu vật, vật quý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/takara_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "宝探し（たからさがし）",
         "meaning": {
-          "english": "treasure hunt"
+          "english": "treasure hunt |(vi) tìm kho báu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/takara_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "宝島（たからじま）",
         "meaning": {
-          "english": "treasure island"
+          "english": "treasure island |(vi) đảo giấu vàng, đảo kho báu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/takara_06_j.opus",
@@ -218,7 +218,7 @@
     "kanji": {
       "character": "宝",
       "meaning": {
-        "english": "treasure"
+        "english": "treasure |(vi) báu vật, kho báu"
       },
       "strokes": {
         "count": 8,
@@ -272,7 +272,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà, nóc nhà)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -293,7 +293,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1139",
     "strokeCount": 8,
-    "meaning": "treasure, wealth, valuables",
+    "meaning": "treasure, wealth, valuables |(vi) báu vật, của cải, đồ quý giá |(hv) Bảo",
     "kunyomi": [
       "たから"
     ],
@@ -304,49 +304,49 @@
       {
         "example": "宝飾",
         "reading": "ホウショク",
-        "meaning": "jewels and ornaments, jewelry, jewellery"
+        "meaning": "jewels and ornaments, jewelry, jewellery |(vi) trang sức, đồ trang sức quý giá"
       },
       {
         "example": "宝庫",
         "reading": "ホウコ",
-        "meaning": "treasury, treasure house, storehouse, repository, treasure trove, rich source (of)"
+        "meaning": "treasury, treasure house, storehouse, repository, treasure trove, rich source (of) |(vi) kho báu, kho tàng, nơi giàu tài nguyên"
       },
       {
         "example": "人間国宝",
         "reading": "ニンゲンコクホウ",
-        "meaning": "living national treasure"
+        "meaning": "living national treasure |(vi) báu vật nhân văn sống, nghệ nhân được công nhận là quốc bảo"
       },
       {
         "example": "至宝",
         "reading": "シホウ",
-        "meaning": "greatest treasure, most valuable asset, pride (of)"
+        "meaning": "greatest treasure, most valuable asset, pride (of) |(vi) báu vật lớn nhất, tài sản quý giá nhất, niềm tự hào"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "宝",
         "reading": "たから",
-        "meaning": "treasure"
+        "meaning": "treasure |(vi) báu vật, kho báu"
       },
       {
         "example": "宝くじ",
         "reading": "たからくじ",
-        "meaning": "lottery, lottery ticket"
+        "meaning": "lottery, lottery ticket |(vi) xổ số, vé số"
       },
       {
         "example": "お宝",
         "reading": "おたから",
-        "meaning": "treasure, precious article, valuable possession, thing one treasures, picture of a treasure ship, money, cash"
+        "meaning": "treasure, precious article, valuable possession, thing one treasures, picture of a treasure ship, money, cash |(vi) báu vật, đồ quý, vật được trân trọng, tranh vẽ thuyền chở báu vật, tiền bạc"
       },
       {
         "example": "正直は一生の宝",
         "reading": "しょうじきはいっしょうのたから",
-        "meaning": "honesty is the best policy"
+        "meaning": "honesty is the best policy |(vi) thật thà là báu vật cả đời (thành thật là thượng sách)"
       }
     ],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà, nóc nhà)"
     },
     "parts": [
       "丶",

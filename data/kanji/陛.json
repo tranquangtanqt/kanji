@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "imperial palace steps",
+    "meaning": "imperial palace steps |(vi) bậc thềm cung điện",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "陛下（へいか）",
         "meaning": {
-          "english": "your Majesty"
+          "english": "your Majesty |(vi) bệ hạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tennou)hei(ka)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "天皇陛下（てんのうへいか）",
         "meaning": {
-          "english": "His Majesty the Emperor"
+          "english": "His Majesty the Emperor |(vi) Thiên hoàng bệ hạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tennou)hei(ka)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "皇后陛下（こうごうへいか）",
         "meaning": {
-          "english": "Her majesty the Empress"
+          "english": "Her majesty the Empress |(vi) Hoàng hậu bệ hạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tennou)hei(ka)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "国王陛下（こくおうへいか）",
         "meaning": {
-          "english": "His Majesty the King"
+          "english": "His Majesty the King |(vi) Quốc vương bệ hạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tennou)hei(ka)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "女王陛下（じょおうへいか）",
         "meaning": {
-          "english": "Her Majesty the Queen"
+          "english": "Her Majesty the Queen |(vi) Nữ vương bệ hạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tennou)hei(ka)_06_e.opus",
@@ -149,7 +149,7 @@
     "kanji": {
       "character": "陛",
       "meaning": {
-        "english": "imperial palace steps"
+        "english": "imperial palace steps |(vi) bậc thềm cung điện"
       },
       "strokes": {
         "count": 10,
@@ -207,7 +207,7 @@
         "romaji": "kozatohen"
       },
       "meaning": {
-        "english": "hill, mound"
+        "english": "hill, mound |(vi) Phụ (gò đất, đê)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kozatohen0.svg",
@@ -228,7 +228,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1429",
     "strokeCount": 10,
-    "meaning": "highness, steps (of throne)",
+    "meaning": "highness, steps (of throne) |(vi) bệ hạ, bậc thềm (ngai vàng) |(hv) Bệ",
     "kunyomi": [],
     "onyomi": [
       "ヘイ"
@@ -237,12 +237,12 @@
       {
         "example": "陛下",
         "reading": "ヘイカ",
-        "meaning": "Your Majesty, His Majesty, Her Majesty"
+        "meaning": "Your Majesty, His Majesty, Her Majesty |(vi) bệ hạ"
       },
       {
         "example": "陛衛",
         "reading": "ヘイエイ",
-        "meaning": "Imperial guard"
+        "meaning": "Imperial guard |(vi) cấm vệ quân, lính canh cung điện"
       }
     ],
     "kunyomiExamples": [],
@@ -251,7 +251,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "mound, dam (阝 left)"
+      "meaning": "mound, dam (阝 left) |(vi) Phụ (gò đất, đê)"
     },
     "parts": [
       "土",

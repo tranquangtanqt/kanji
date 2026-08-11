@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "tsui, tsuiyasu",
-    "meaning": "expense, spend, waste",
+    "meaning": "expense, spend, waste |(vi) chi phí, tiêu tốn, lãng phí",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "費用（ひよう）",
         "meaning": {
-          "english": "cost, expense"
+          "english": "cost, expense |(vi) chi phí, phí tổn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsui(yasu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "学費（がくひ）",
         "meaning": {
-          "english": "tuition, school expenses"
+          "english": "tuition, school expenses |(vi) học phí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsui(yasu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "食費（しょくひ）",
         "meaning": {
-          "english": "food expense"
+          "english": "food expense |(vi) tiền ăn, chi phí ăn uống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsui(yasu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "会費（かいひ）",
         "meaning": {
-          "english": "membership fee"
+          "english": "membership fee |(vi) hội phí, phí thành viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsui(yasu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "経費（けいひ）",
         "meaning": {
-          "english": "expenses, cost outlay"
+          "english": "expenses, cost outlay |(vi) chi phí, kinh phí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsui(yasu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "出費（しゅっぴ）",
         "meaning": {
-          "english": "expenses, disbursements"
+          "english": "expenses, disbursements |(vi) khoản chi, chi tiêu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsui(yasu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "生活費（せいかつひ）",
         "meaning": {
-          "english": "living expenses"
+          "english": "living expenses |(vi) chi phí sinh hoạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsui(yasu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "交通費（こうつうひ）",
         "meaning": {
-          "english": "traveling expenses, carfare"
+          "english": "traveling expenses, carfare |(vi) tiền đi lại, chi phí giao thông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsui(yasu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "消費する（しょうひする）",
         "meaning": {
-          "english": "consume, spend"
+          "english": "consume, spend |(vi) tiêu thụ, tiêu dùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsui(yasu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "浪費する（ろうひする）",
         "meaning": {
-          "english": "waste, squander"
+          "english": "waste, squander |(vi) lãng phí, phung phí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsui(yasu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "費やす（ついやす）",
         "meaning": {
-          "english": "spend, waste"
+          "english": "spend, waste |(vi) tiêu tốn, dùng hết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsui(yasu)_06_k.opus",
@@ -247,7 +247,7 @@
     "kanji": {
       "character": "費",
       "meaning": {
-        "english": "expense, spend, waste"
+        "english": "expense, spend, waste |(vi) chi phí, tiêu tốn, lãng phí"
       },
       "strokes": {
         "count": 12,
@@ -309,7 +309,7 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (vỏ sò, tài sản, của cải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -330,7 +330,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "321",
     "strokeCount": 12,
-    "meaning": "expense, cost, spend, consume, waste",
+    "meaning": "expense, cost, spend, consume, waste |(vi) chi phí, phí tổn, tiêu, tiêu dùng, lãng phí |(hv) Phí",
     "kunyomi": [
       "つい.やす",
       "つい.える"
@@ -342,39 +342,39 @@
       {
         "example": "費",
         "reading": "ヒ",
-        "meaning": "cost, expense"
+        "meaning": "cost, expense |(vi) chi phí, phí tổn"
       },
       {
         "example": "費用",
         "reading": "ヒヨウ",
-        "meaning": "cost, expense"
+        "meaning": "cost, expense |(vi) chi phí, phí tổn"
       },
       {
         "example": "固定費",
         "reading": "コテイヒ",
-        "meaning": "fixed cost, fixed expense"
+        "meaning": "fixed cost, fixed expense |(vi) chi phí cố định"
       },
       {
         "example": "交際費",
         "reading": "コウサイヒ",
-        "meaning": "entertainment expenses"
+        "meaning": "entertainment expenses |(vi) chi phí giao tế, chi phí tiếp khách"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "費やす",
         "reading": "ついやす",
-        "meaning": "to spend, to expend, to consume, to waste, to squander, to throw away, to devote"
+        "meaning": "to spend, to expend, to consume, to waste, to squander, to throw away, to devote |(vi) tiêu, tiêu dùng, dùng hết, lãng phí, vứt bỏ, dành (thời gian, công sức)"
       },
       {
         "example": "費える",
         "reading": "ついえる",
-        "meaning": "to be used up (of money, savings, etc.), to dwindle away, to be wasted (of time)"
+        "meaning": "to be used up (of money, savings, etc.), to dwindle away, to be wasted (of time) |(vi) bị dùng hết (tiền bạc, tiết kiệm), hao mòn dần, bị lãng phí (thời gian)"
       }
     ],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò)"
     },
     "parts": [
       "ハ",

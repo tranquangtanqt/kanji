@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "adult woman",
+    "meaning": "adult woman |(vi) phụ nữ trưởng thành",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "婦人（ふじん）",
         "meaning": {
-          "english": "woman, female"
+          "english": "woman, female |(vi) phụ nữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fuu)fu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "婦長（ふちょう）",
         "meaning": {
-          "english": "head nurse"
+          "english": "head nurse |(vi) y tá trưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fuu)fu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "婦警（ふけい）",
         "meaning": {
-          "english": "policewoman"
+          "english": "policewoman |(vi) nữ cảnh sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fuu)fu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "主婦（しゅふ）",
         "meaning": {
-          "english": "housewife"
+          "english": "housewife |(vi) nội trợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fuu)fu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "夫婦（ふうふ）",
         "meaning": {
-          "english": "married couple"
+          "english": "married couple |(vi) cặp vợ chồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fuu)fu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "娼婦（しょうふ）",
         "meaning": {
-          "english": "prostitute"
+          "english": "prostitute |(vi) gái mại dâm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fuu)fu_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "新婦（しんぷ）",
         "meaning": {
-          "english": "bride"
+          "english": "bride |(vi) cô dâu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fuu)fu_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "看護婦（かんごふ）",
         "meaning": {
-          "english": "nurse"
+          "english": "nurse |(vi) y tá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fuu)fu_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "掃除婦（そうじふ）",
         "meaning": {
-          "english": "cleaning lady"
+          "english": "cleaning lady |(vi) phụ nữ dọn dẹp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(fuu)fu_06_i.opus",
@@ -209,7 +209,7 @@
     "kanji": {
       "character": "婦",
       "meaning": {
-        "english": "adult woman"
+        "english": "adult woman |(vi) phụ nữ trưởng thành"
       },
       "strokes": {
         "count": 11,
@@ -269,7 +269,7 @@
         "romaji": "onnahen"
       },
       "meaning": {
-        "english": "woman"
+        "english": "woman |(vi) Nữ (phụ nữ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/onnahen0.svg",
@@ -290,7 +290,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "671",
     "strokeCount": 11,
-    "meaning": "lady, woman, wife, bride",
+    "meaning": "lady, woman, wife, bride |(vi) quý bà, phụ nữ, vợ, cô dâu |(hv) Phụ",
     "kunyomi": [
       "よめ"
     ],
@@ -301,34 +301,34 @@
       {
         "example": "婦",
         "reading": "フ",
-        "meaning": "married woman, woman, lady"
+        "meaning": "married woman, woman, lady |(vi) phụ nữ đã kết hôn, phụ nữ, quý bà"
       },
       {
         "example": "婦女暴行",
         "reading": "フジョボウコウ",
-        "meaning": "sexual assault (of a woman), rape"
+        "meaning": "sexual assault (of a woman), rape |(vi) tấn công tình dục (đối với phụ nữ), hiếp dâm"
       },
       {
         "example": "保健婦",
         "reading": "ホケンフ",
-        "meaning": "district health nurse, public health nurse"
+        "meaning": "district health nurse, public health nurse |(vi) y tá y tế cộng đồng, y tá y tế công cộng"
       },
       {
         "example": "老婦",
         "reading": "ロウフ",
-        "meaning": "old woman"
+        "meaning": "old woman |(vi) bà lão"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "嫁",
         "reading": "よめ",
-        "meaning": "bride, (one's) daughter-in-law, wife"
+        "meaning": "bride, (one's) daughter-in-law, wife |(vi) cô dâu, con dâu, vợ"
       }
     ],
     "radical": {
       "symbol": "女",
-      "meaning": "woman, female"
+      "meaning": "woman, female |(vi) Nữ (phụ nữ, giống cái)"
     },
     "parts": [
       "ヨ",

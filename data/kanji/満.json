@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "mi, michiru, mitsu, mitasu",
-    "meaning": "full",
+    "meaning": "full |(vi) đầy, tràn đầy",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "満足する（まんぞくする）",
         "meaning": {
-          "english": "be satisfied"
+          "english": "be satisfied |(vi) hài lòng, thỏa mãn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/man-mi(tasu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "満員（まんいん）",
         "meaning": {
-          "english": "full, crowded"
+          "english": "full, crowded |(vi) đầy, đông kín (chỗ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/man-mi(tasu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "満腹（まんぷく）",
         "meaning": {
-          "english": "full stomach"
+          "english": "full stomach |(vi) no bụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/man-mi(tasu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "満開（まんかい）",
         "meaning": {
-          "english": "full bloom"
+          "english": "full bloom |(vi) nở rộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/man-mi(tasu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "満月（まんげつ）",
         "meaning": {
-          "english": "full moon"
+          "english": "full moon |(vi) trăng tròn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/man-mi(tasu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "満点（まんてん）",
         "meaning": {
-          "english": "perfect score"
+          "english": "perfect score |(vi) điểm tuyệt đối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/man-mi(tasu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "未満（みまん）",
         "meaning": {
-          "english": "less than"
+          "english": "less than |(vi) chưa đến, dưới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/man-mi(tasu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "不満な（ふまんな）",
         "meaning": {
-          "english": "dissatisfied"
+          "english": "dissatisfied |(vi) không hài lòng, bất mãn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/man-mi(tasu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "円満な（えんまんな）",
         "meaning": {
-          "english": "harmonious, peaceful"
+          "english": "harmonious, peaceful |(vi) hòa thuận, êm đẹp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/man-mi(tasu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "満ちる（みちる）",
         "meaning": {
-          "english": "be full [v.i.]"
+          "english": "be full [v.i.] |(vi) đầy lên, tràn đầy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/man-mi(tasu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "満たす（みたす）",
         "meaning": {
-          "english": "fill, fulfill [v.t.]"
+          "english": "fill, fulfill [v.t.] |(vi) làm đầy, đáp ứng, thỏa mãn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/man-mi(tasu)_06_k.opus",
@@ -260,7 +260,7 @@
     "kanji": {
       "character": "満",
       "meaning": {
-        "english": "full"
+        "english": "full |(vi) đầy, tràn đầy"
       },
       "strokes": {
         "count": 12,
@@ -322,7 +322,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước - bộ ba chấm thủy)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -343,7 +343,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "515",
     "strokeCount": 12,
-    "meaning": "full, fullness, enough, satisfy",
+    "meaning": "full, fullness, enough, satisfy |(vi) đầy, sự tràn đầy, đủ, thỏa mãn |(hv) Mãn",
     "kunyomi": [
       "み.ちる",
       "み.つ",
@@ -357,44 +357,44 @@
       {
         "example": "満",
         "reading": "マン",
-        "meaning": "being full, (counting) completed years (e.g. when calculating age), full (years, months, etc.), Manchuria"
+        "meaning": "being full, (counting) completed years (e.g. when calculating age), full (years, months, etc.), Manchuria |(vi) sự đầy đủ, tính (số năm) tròn khi tính tuổi, đủ (năm, tháng...), Mãn Châu"
       },
       {
         "example": "満々",
         "reading": "マンマン",
-        "meaning": "full of, brimming with"
+        "meaning": "full of, brimming with |(vi) tràn đầy, chan chứa"
       },
       {
         "example": "満々",
         "reading": "マンマン",
-        "meaning": "full of, brimming with"
+        "meaning": "full of, brimming with |(vi) tràn đầy, chan chứa"
       },
       {
         "example": "豊満",
         "reading": "ホウマン",
-        "meaning": "stout, corpulent, plump, voluptuous"
+        "meaning": "stout, corpulent, plump, voluptuous |(vi) béo tốt, đầy đặn, mũm mĩm, gợi cảm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "満ちる",
         "reading": "みちる",
-        "meaning": "to fill, to become full (of), to be filled (with), to brim (with), to wax (of the moon), to rise (of the tide), to flow, to come in, to expire (of a period of time), to mature, to come to an end"
+        "meaning": "to fill, to become full (of), to be filled (with), to brim (with), to wax (of the moon), to rise (of the tide), to flow, to come in, to expire (of a period of time), to mature, to come to an end |(vi) đầy lên, trở nên đầy, tràn đầy, khuyết trăng tròn, dâng thủy triều, chảy vào, hết hạn một khoảng thời gian, chín muồi, kết thúc"
       },
       {
         "example": "満つ",
         "reading": "みつ",
-        "meaning": "to be full, to wax (e.g. moon), to rise (e.g. tide), to mature, to expire"
+        "meaning": "to be full, to wax (e.g. moon), to rise (e.g. tide), to mature, to expire |(vi) đầy, tròn (trăng), dâng (thủy triều), chín muồi, hết hạn"
       },
       {
         "example": "丑三つ",
         "reading": "うしみつ",
-        "meaning": "dead of the night, midnight, third quarter of the ox's hour (around 2-2:30am or 3-3:30am)"
+        "meaning": "dead of the night, midnight, third quarter of the ox's hour (around 2-2:30am or 3-3:30am) |(vi) nửa đêm, canh ba (khoảng 2-2:30 hoặc 3-3:30 sáng)"
       },
       {
         "example": "満たす",
         "reading": "みたす",
-        "meaning": "to satisfy (conditions, one's appetite, etc.), to meet (e.g. demands), to fulfill, to gratify, to fill (e.g. a cup), to pack, to supply"
+        "meaning": "to satisfy (conditions, one's appetite, etc.), to meet (e.g. demands), to fulfill, to gratify, to fill (e.g. a cup), to pack, to supply |(vi) thỏa mãn điều kiện, cơn đói..., đáp ứng yêu cầu, làm đầy, đóng gói, cung cấp"
       }
     ],
     "radical": {
@@ -403,7 +403,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "一",

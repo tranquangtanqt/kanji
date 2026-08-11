@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "muku, mukui, mukuiru, mukuu",
-    "meaning": "inform, require, news, report, reward",
+    "meaning": "inform, require, news, report, reward |(vi) báo tin, thông báo, tin tức, báo cáo, đền đáp",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "報道（ほうどう）",
         "meaning": {
-          "english": "information, report"
+          "english": "information, report |(vi) thông tin, đưa tin"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "報酬（ほうしゅう）",
         "meaning": {
-          "english": "remuneration, recompense"
+          "english": "remuneration, recompense |(vi) thù lao, tiền công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "情報（じょうほう）",
         "meaning": {
-          "english": "information, news"
+          "english": "information, news |(vi) thông tin, tin tức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "警報（けいほう）",
         "meaning": {
-          "english": "alarm, warning"
+          "english": "alarm, warning |(vi) cảnh báo, báo động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "速報（そくほう）",
         "meaning": {
-          "english": "news flash, quick report"
+          "english": "news flash, quick report |(vi) tin nhanh, bản tin khẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "天気予報（てんきよほう）",
         "meaning": {
-          "english": "weather forecast"
+          "english": "weather forecast |(vi) dự báo thời tiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "報告する（ほうこくする）",
         "meaning": {
-          "english": "report, inform"
+          "english": "report, inform |(vi) báo cáo, thông báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "報復する（ほうふくする）",
         "meaning": {
-          "english": "retaliate, take revenge"
+          "english": "retaliate, take revenge |(vi) trả đũa, trả thù"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "通報する（つうほうする）",
         "meaning": {
-          "english": "report [v.t.]"
+          "english": "report [v.t.] |(vi) báo tin, thông báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "報じる（ほうじる）",
         "meaning": {
-          "english": "inform, report"
+          "english": "inform, report |(vi) đưa tin, thông báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "報う（むくう）",
         "meaning": {
-          "english": "reward, recompense [v.i., v.t.]"
+          "english": "reward, recompense [v.i., v.t.] |(vi) đền đáp, báo đáp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "報いる（むくいる）",
         "meaning": {
-          "english": "reward, recompense [v.i., v.t.]"
+          "english": "reward, recompense [v.i., v.t.] |(vi) đền đáp, báo đáp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_l.opus",
@@ -267,7 +267,7 @@
     "kanji": {
       "character": "報",
       "meaning": {
-        "english": "inform, require, news, report, reward"
+        "english": "inform, require, news, report, reward |(vi) báo tin, thông báo, tin tức, báo cáo, đền đáp"
       },
       "strokes": {
         "count": 12,
@@ -329,7 +329,7 @@
         "romaji": "tsuchi"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
@@ -350,7 +350,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "167",
     "strokeCount": 12,
-    "meaning": "report, news, reward, retribution",
+    "meaning": "report, news, reward, retribution |(vi) báo cáo, tin tức, đền đáp, quả báo |(hv) Báo",
     "kunyomi": [
       "むく.いる"
     ],
@@ -361,34 +361,34 @@
       {
         "example": "報",
         "reading": "ホウ",
-        "meaning": "information, news, report, reward, retribution"
+        "meaning": "information, news, report, reward, retribution |(vi) thông tin, tin tức, báo cáo, đền đáp, quả báo"
       },
       {
         "example": "報告",
         "reading": "ホウコク",
-        "meaning": "report, information"
+        "meaning": "report, information |(vi) báo cáo, thông tin"
       },
       {
         "example": "会報",
         "reading": "カイホウ",
-        "meaning": "bulletin (issued by a society), report, newsletter"
+        "meaning": "bulletin (issued by a society), report, newsletter |(vi) bản tin (của hội), báo cáo, thư tin tức"
       },
       {
         "example": "注意報",
         "reading": "チュウイホウ",
-        "meaning": "warning (e.g. for a storm), advisory"
+        "meaning": "warning (e.g. for a storm), advisory |(vi) cảnh báo (ví dụ về bão), khuyến cáo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "報いる",
         "reading": "むくいる",
-        "meaning": "to reward, to recompense, to repay, to retaliate, to get revenge"
+        "meaning": "to reward, to recompense, to repay, to retaliate, to get revenge |(vi) đền đáp, báo đáp, trả ơn, trả đũa, trả thù"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "亠",

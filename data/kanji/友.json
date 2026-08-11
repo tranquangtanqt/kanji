@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "tomo",
-    "meaning": "friend",
+    "meaning": "friend |(vi) bạn, bạn bè",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "友人（ゆうじん）",
         "meaning": {
-          "english": "friend"
+          "english": "friend |(vi) bạn, bạn bè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-tomo_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "友情（ゆうじょう）",
         "meaning": {
-          "english": "friendship"
+          "english": "friendship |(vi) tình bạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-tomo_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "親友（しんゆう）",
         "meaning": {
-          "english": "close friend"
+          "english": "close friend |(vi) bạn thân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-tomo_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "友達（ともだち）",
         "meaning": {
-          "english": "friend"
+          "english": "friend |(vi) bạn, bạn bè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-tomo_06_d.opus",
@@ -188,7 +188,7 @@
     "kanji": {
       "character": "友",
       "meaning": {
-        "english": "friend"
+        "english": "friend |(vi) bạn, bạn bè"
       },
       "strokes": {
         "count": 4,
@@ -234,7 +234,7 @@
         "romaji": "mata"
       },
       "meaning": {
-        "english": "again, right hand"
+        "english": "again, right hand |(vi) Hựu (lại, tay phải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mata0.svg",
@@ -255,7 +255,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "622",
     "strokeCount": 4,
-    "meaning": "friend",
+    "meaning": "friend |(vi) bạn, bạn bè |(hv) Hữu",
     "kunyomi": [
       "とも"
     ],
@@ -266,49 +266,49 @@
       {
         "example": "友",
         "reading": "ユウ",
-        "meaning": "friend, affection (for siblings)"
+        "meaning": "friend, affection (for siblings) |(vi) bạn, tình cảm anh em"
       },
       {
         "example": "友愛",
         "reading": "ユウアイ",
-        "meaning": "fraternity, friendship"
+        "meaning": "fraternity, friendship |(vi) tình huynh đệ, tình bạn"
       },
       {
         "example": "戦友",
         "reading": "センユウ",
-        "meaning": "comrade in arms, war buddy, fellow soldier"
+        "meaning": "comrade in arms, war buddy, fellow soldier |(vi) chiến hữu, bạn chiến đấu"
       },
       {
         "example": "盟友",
         "reading": "メイユウ",
-        "meaning": "sworn friend"
+        "meaning": "sworn friend |(vi) bạn kết nghĩa, minh hữu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "友",
         "reading": "とも",
-        "meaning": "friend, companion, comrade, pal, accompaniment, companion (e.g. book), complement, accessory"
+        "meaning": "friend, companion, comrade, pal, accompaniment, companion (e.g. book), complement, accessory |(vi) bạn, bạn đồng hành, người đi cùng"
       },
       {
         "example": "友達",
         "reading": "ともだち",
-        "meaning": "friend, companion"
+        "meaning": "friend, companion |(vi) bạn, bạn bè"
       },
       {
         "example": "リア友",
         "reading": "リアとも",
-        "meaning": "real-life friend (as opposed to online friend)"
+        "meaning": "real-life friend (as opposed to online friend) |(vi) bạn ngoài đời (khác bạn quen online)"
       },
       {
         "example": "酒のお供",
         "reading": "さけのおとも",
-        "meaning": "appetizer or snack served with drinks, accompaniment to an (alcoholic) drink"
+        "meaning": "appetizer or snack served with drinks, accompaniment to an (alcoholic) drink |(vi) đồ nhắm, món ăn kèm rượu"
       }
     ],
     "radical": {
       "symbol": "又",
-      "meaning": "right hand"
+      "meaning": "right hand |(vi) Hựu (tay phải)"
     },
     "parts": [
       "ノ",

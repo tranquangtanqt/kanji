@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "to, tomu, tomi",
-    "meaning": "rich, wealth",
+    "meaning": "rich, wealth |(vi) giàu, giàu có",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "富豪（ふごう）",
         "meaning": {
-          "english": "wealthy person, millionaire"
+          "english": "wealthy person, millionaire |(vi) người giàu có, triệu phú"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "富士山（ふじさん）",
         "meaning": {
-          "english": "Mt. Fuji"
+          "english": "Mt. Fuji |(vi) núi Phú Sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "富国強兵（ふこくきょうへい）",
         "meaning": {
-          "english": "national prosperity & defense"
+          "english": "national prosperity & defense |(vi) phú quốc cường binh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "富裕な（ふゆうな）",
         "meaning": {
-          "english": "wealthy, rich, opulent"
+          "english": "wealthy, rich, opulent |(vi) giàu có, sung túc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "豊富な（ほうふな）",
         "meaning": {
-          "english": "abundant, rich, plentiful"
+          "english": "abundant, rich, plentiful |(vi) phong phú, dồi dào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "富貴な（ふうきな）",
         "meaning": {
-          "english": "rich and honored"
+          "english": "rich and honored |(vi) giàu sang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "富む（とむ）",
         "meaning": {
-          "english": "rich with"
+          "english": "rich with |(vi) giàu có, dồi dào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "富（とみ）",
         "meaning": {
-          "english": "wealth, fortune"
+          "english": "wealth, fortune |(vi) của cải, gia tài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomi_06_h.opus",
@@ -209,7 +209,7 @@
     "kanji": {
       "character": "富",
       "meaning": {
-        "english": "rich, wealth"
+        "english": "rich, wealth |(vi) giàu, giàu có"
       },
       "strokes": {
         "count": 12,
@@ -271,7 +271,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -292,7 +292,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "644",
     "strokeCount": 12,
-    "meaning": "wealth, enrich, abundant",
+    "meaning": "wealth, enrich, abundant |(vi) của cải, làm giàu, phong phú |(hv) Phú",
     "kunyomi": [
       "と.む",
       "とみ"
@@ -305,64 +305,64 @@
       {
         "example": "富士山",
         "reading": "フジサン",
-        "meaning": "Mount Fuji, Mt. Fuji, Fujiyama, Fuji-san"
+        "meaning": "Mount Fuji, Mt. Fuji, Fujiyama, Fuji-san |(vi) núi Phú Sĩ"
       },
       {
         "example": "富豪",
         "reading": "フゴウ",
-        "meaning": "wealthy person, millionaire"
+        "meaning": "wealthy person, millionaire |(vi) người giàu có, triệu phú"
       },
       {
         "example": "種類豊富",
         "reading": "シュルイホウフ",
-        "meaning": "rich in variety, diverse, wide-ranging, multifarious"
+        "meaning": "rich in variety, diverse, wide-ranging, multifarious |(vi) phong phú, đa dạng, muôn hình muôn vẻ"
       },
       {
         "example": "知識豊富",
         "reading": "チシキホウフ",
-        "meaning": "knowledgeable"
+        "meaning": "knowledgeable |(vi) hiểu biết rộng"
       },
       {
         "example": "富者",
         "reading": "フシャ",
-        "meaning": "rich person, millionaire, the wealthy"
+        "meaning": "rich person, millionaire, the wealthy |(vi) người giàu có, triệu phú, tầng lớp giàu có"
       },
       {
         "example": "富貴",
         "reading": "フウキ",
-        "meaning": "riches and honours (honors), wealth and rank"
+        "meaning": "riches and honours (honors), wealth and rank |(vi) giàu sang, của cải và địa vị"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "富む",
         "reading": "とむ",
-        "meaning": "to be rich in, to abound in, to be abundant in, to be full of, to be rich, to be wealthy"
+        "meaning": "to be rich in, to abound in, to be abundant in, to be full of, to be rich, to be wealthy |(vi) giàu có, dồi dào, phong phú, đầy đủ, sung túc"
       },
       {
         "example": "富",
         "reading": "とみ",
-        "meaning": "riches, wealth, fortune, resources, lottery"
+        "meaning": "riches, wealth, fortune, resources, lottery |(vi) của cải, sự giàu có, gia tài, tài nguyên, xổ số"
       },
       {
         "example": "富くじ",
         "reading": "とみくじ",
-        "meaning": "lottery run by a temple or shrine"
+        "meaning": "lottery run by a temple or shrine |(vi) xổ số do đền chùa tổ chức"
       },
       {
         "example": "陶朱猗頓の富",
         "reading": "とうしゅいとんのとみ",
-        "meaning": "great wealth, very wealthy person"
+        "meaning": "great wealth, very wealthy person |(vi) của cải lớn, người rất giàu có"
       },
       {
         "example": "巨万の富",
         "reading": "きょまんのとみ",
-        "meaning": "great wealth, enormous fortune"
+        "meaning": "great wealth, enormous fortune |(vi) của cải lớn, gia tài khổng lồ"
       }
     ],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà)"
     },
     "parts": [
       "一",

@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "ina",
-    "meaning": "say no, not",
+    "meaning": "say no, not |(vi) nói không, phủ nhận",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "否定形（ひていけい）",
         "meaning": {
-          "english": "negative form"
+          "english": "negative form |(vi) thể phủ định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "賛否（さんぴ）",
         "meaning": {
-          "english": "yes and no, for and against"
+          "english": "yes and no, for and against |(vi) tán thành và phản đối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "安否（あんぴ）",
         "meaning": {
-          "english": "safety, welfare, well-being"
+          "english": "safety, welfare, well-being |(vi) an nguy, tin tức bình an"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "否定する（ひていする）",
         "meaning": {
-          "english": "deny, negate, repudiate"
+          "english": "deny, negate, repudiate |(vi) phủ định, phủ nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "否認する（ひにんする）",
         "meaning": {
-          "english": "deny, negate, disclaim, disavow"
+          "english": "deny, negate, disclaim, disavow |(vi) phủ nhận, không thừa nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "否決する（ひけつする）",
         "meaning": {
-          "english": "reject, vote down"
+          "english": "reject, vote down |(vi) bác bỏ, phủ quyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "拒否する（きょひする）",
         "meaning": {
-          "english": "reject, deny, veto, refuse"
+          "english": "reject, deny, veto, refuse |(vi) từ chối, khước từ, phủ quyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "否む（いなむ）",
         "meaning": {
-          "english": "refuse, deny, decline"
+          "english": "refuse, deny, decline |(vi) từ chối, khước từ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "否めない（いなめない）",
         "meaning": {
-          "english": "undeniable"
+          "english": "undeniable |(vi) không thể phủ nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_i.opus",
@@ -208,7 +208,7 @@
     "kanji": {
       "character": "否",
       "meaning": {
-        "english": "say no, not"
+        "english": "say no, not |(vi) nói không, phủ nhận"
       },
       "strokes": {
         "count": 7,
@@ -260,7 +260,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -281,7 +281,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "561",
     "strokeCount": 7,
-    "meaning": "negate, no, noes, refuse, decline, deny",
+    "meaning": "negate, no, noes, refuse, decline, deny |(vi) phủ định, không, từ chối |(hv) Phủ",
     "kunyomi": [
       "いな",
       "いや"
@@ -293,49 +293,49 @@
       {
         "example": "否",
         "reading": "ヒ",
-        "meaning": "no, the noes"
+        "meaning": "no, the noes |(vi) không, phiếu không tán thành"
       },
       {
         "example": "否決",
         "reading": "ヒケツ",
-        "meaning": "rejection, negation, voting down"
+        "meaning": "rejection, negation, voting down |(vi) bác bỏ, phủ quyết"
       },
       {
         "example": "当否",
         "reading": "トウヒ",
-        "meaning": "propriety, right or wrong, justice"
+        "meaning": "propriety, right or wrong, justice |(vi) đúng sai, phải trái"
       },
       {
         "example": "採否",
         "reading": "サイヒ",
-        "meaning": "adoption or rejection"
+        "meaning": "adoption or rejection |(vi) chấp nhận hay từ chối"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "否",
         "reading": "いな",
-        "meaning": "no, nay, disagreement, objection, disapproval"
+        "meaning": "no, nay, disagreement, objection, disapproval |(vi) không, phản đối, bất đồng"
       },
       {
         "example": "否む",
         "reading": "いなむ",
-        "meaning": "to refuse, to decline, to deny"
+        "meaning": "to refuse, to decline, to deny |(vi) từ chối, khước từ, phủ nhận"
       },
       {
         "example": "否",
         "reading": "いや",
-        "meaning": "no"
+        "meaning": "no |(vi) không"
       },
       {
         "example": "否々",
         "reading": "いやいや",
-        "meaning": "no!, no no!, no, not at all"
+        "meaning": "no!, no no!, no, not at all |(vi) không không!, hoàn toàn không"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "ノ",

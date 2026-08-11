@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "ko, koe, koeru, koyasu, koyashi",
-    "meaning": "fatten, fertilize",
+    "meaning": "fatten, fertilize |(vi) làm béo, bón phân",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "肥満（ひまん）",
         "meaning": {
-          "english": "corpulence, obesity"
+          "english": "corpulence, obesity |(vi) béo phì, mập mạp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(yasu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "肥料（ひりょう）",
         "meaning": {
-          "english": "manure, fertilizer"
+          "english": "manure, fertilizer |(vi) phân bón"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(yasu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "堆肥（たいひ）",
         "meaning": {
-          "english": "compost"
+          "english": "compost |(vi) phân ủ, phân compost"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(yasu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "肥大する（ひだいする）",
         "meaning": {
-          "english": "swell, grow fat"
+          "english": "swell, grow fat |(vi) phình to, phì đại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(yasu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "肥やす（こやす）",
         "meaning": {
-          "english": "fertilize, fatten [v.t.]"
+          "english": "fertilize, fatten [v.t.] |(vi) bón phân, làm béo (tha)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(yasu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "肥やし（こやし）",
         "meaning": {
-          "english": "manure, dung, fertilizer"
+          "english": "manure, dung, fertilizer |(vi) phân bón, phân chuồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(yasu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "肥える（こえる）",
         "meaning": {
-          "english": "grow fat, grow fertile [v.i.]"
+          "english": "grow fat, grow fertile [v.i.] |(vi) béo lên, trở nên màu mỡ (tự)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(yasu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "肥（こえ）",
         "meaning": {
-          "english": "manure, dung, fertilizer"
+          "english": "manure, dung, fertilizer |(vi) phân bón, phân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(yasu)_06_h.opus",
@@ -197,7 +197,7 @@
     "kanji": {
       "character": "肥",
       "meaning": {
-        "english": "fatten, fertilize"
+        "english": "fatten, fertilize |(vi) làm béo, bón phân"
       },
       "strokes": {
         "count": 8,
@@ -251,7 +251,7 @@
         "romaji": "nikuzuki"
       },
       "meaning": {
-        "english": "meat, flesh"
+        "english": "meat, flesh |(vi) Nhục (thịt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nikuzuki0.svg",
@@ -272,7 +272,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1469",
     "strokeCount": 8,
-    "meaning": "fertilizer, get fat, fertile, manure, pamper",
+    "meaning": "fertilizer, get fat, fertile, manure, pamper |(vi) phân bón, béo lên, màu mỡ, phân, nuông chiều |(hv) Phì",
     "kunyomi": [
       "こ.える",
       "こえ",
@@ -287,59 +287,59 @@
       {
         "example": "肥満",
         "reading": "ヒマン",
-        "meaning": "corpulence, fatness, obesity"
+        "meaning": "corpulence, fatness, obesity |(vi) béo phì, mập mạp"
       },
       {
         "example": "肥大",
         "reading": "ヒダイ",
-        "meaning": "swelling, enlargement, becoming fat, hypertrophy"
+        "meaning": "swelling, enlargement, becoming fat, hypertrophy |(vi) sưng to, phì đại"
       },
       {
         "example": "堆肥",
         "reading": "タイヒ",
-        "meaning": "compost, manure"
+        "meaning": "compost, manure |(vi) phân ủ, phân compost"
       },
       {
         "example": "追肥",
         "reading": "ツイヒ",
-        "meaning": "(adding) extra fertilizer or manure (fertiliser)"
+        "meaning": "(adding) extra fertilizer or manure (fertiliser) |(vi) bón thúc, bón phân bổ sung"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "肥える",
         "reading": "こえる",
-        "meaning": "to grow fat, to gain weight, to put on weight, to grow fertile (of soil), to be discerning (of one's palate, eye, ear, etc.), to be discriminating, to be refined, to become rich, to become wealthy"
+        "meaning": "to grow fat, to gain weight, to put on weight, to grow fertile (of soil), to be discerning (of one's palate, eye, ear, etc.), to be discriminating, to be refined, to become rich, to become wealthy |(vi) béo lên, tăng cân, đất trở nên màu mỡ, tinh tường (vị giác, con mắt...), sành sỏi, trở nên giàu có"
       },
       {
         "example": "肥",
         "reading": "こえ",
-        "meaning": "manure, night soil, dung, fertiliser, fertilizer"
+        "meaning": "manure, night soil, dung, fertiliser, fertilizer |(vi) phân bón, phân chuồng, phân tươi"
       },
       {
         "example": "肥える",
         "reading": "こえる",
-        "meaning": "to grow fat, to gain weight, to put on weight, to grow fertile (of soil), to be discerning (of one's palate, eye, ear, etc.), to be discriminating, to be refined, to become rich, to become wealthy"
+        "meaning": "to grow fat, to gain weight, to put on weight, to grow fertile (of soil), to be discerning (of one's palate, eye, ear, etc.), to be discriminating, to be refined, to become rich, to become wealthy |(vi) béo lên, tăng cân, đất trở nên màu mỡ, tinh tường (vị giác, con mắt...), sành sỏi, trở nên giàu có"
       },
       {
         "example": "肥やす",
         "reading": "こやす",
-        "meaning": "to fertilize, to fertilise, to manure, to enrich"
+        "meaning": "to fertilize, to fertilise, to manure, to enrich |(vi) bón phân, làm giàu (đất)"
       },
       {
         "example": "肥やし",
         "reading": "こやし",
-        "meaning": "manure, night soil, dung, fertiliser, fertilizer, something that will help one develop in the future"
+        "meaning": "manure, night soil, dung, fertiliser, fertilizer, something that will help one develop in the future |(vi) phân bón, phân chuồng, điều giúp ích cho sự phát triển sau này"
       },
       {
         "example": "肥やし桶",
         "reading": "こやしおけ",
-        "meaning": "night soil pail"
+        "meaning": "night soil pail |(vi) thùng đựng phân"
       },
       {
         "example": "太る",
         "reading": "ふとる",
-        "meaning": "to put on weight, to gain weight, to grow fat, to get stout"
+        "meaning": "to put on weight, to gain weight, to grow fat, to get stout |(vi) tăng cân, béo lên, mập ra"
       }
     ],
     "radical": {
@@ -347,7 +347,7 @@
       "forms": [
         "⺼"
       ],
-      "meaning": "meat"
+      "meaning": "meat |(vi) Nhục (thịt)"
     },
     "parts": [
       "巴",

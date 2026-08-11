@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 50,
     "kunyomi": "ata, ataeru",
-    "meaning": "give, grant",
+    "meaning": "give, grant |(vi) cho, ban, cấp",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "与党（よとう）",
         "meaning": {
-          "english": "government party"
+          "english": "government party |(vi) đảng cầm quyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo-ata(eru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "給与（きゅうよ）",
         "meaning": {
-          "english": "salary"
+          "english": "salary |(vi) lương, tiền lương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo-ata(eru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "賞与（しょうよ）",
         "meaning": {
-          "english": "bonus pay"
+          "english": "bonus pay |(vi) tiền thưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo-ata(eru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "関与する（かんよする）",
         "meaning": {
-          "english": "participate in, take part in"
+          "english": "participate in, take part in |(vi) tham gia, dự phần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo-ata(eru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "寄与する（きよする）",
         "meaning": {
-          "english": "contribute"
+          "english": "contribute |(vi) đóng góp, cống hiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo-ata(eru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "贈与する（ぞうよする）",
         "meaning": {
-          "english": "donate"
+          "english": "donate |(vi) tặng, biếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo-ata(eru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "授与する（じゅよする）",
         "meaning": {
-          "english": "award [v.t.]"
+          "english": "award [v.t.] |(vi) trao tặng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo-ata(eru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "与える（あたえる）",
         "meaning": {
-          "english": "give"
+          "english": "give |(vi) cho, trao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo-ata(eru)_06_h.opus",
@@ -199,7 +199,7 @@
     "kanji": {
       "character": "与",
       "meaning": {
-        "english": "give, grant"
+        "english": "give, grant |(vi) cho, ban, cấp"
       },
       "strokes": {
         "count": 3,
@@ -243,7 +243,7 @@
         "romaji": "ichi"
       },
       "meaning": {
-        "english": "one, horizontal stroke"
+        "english": "one, horizontal stroke |(vi) Nhất (một, nét ngang)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ichi0.svg",
@@ -264,7 +264,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "308",
     "strokeCount": 3,
-    "meaning": "bestow, participate in, give, award, impart, provide, cause, gift, godsend",
+    "meaning": "bestow, participate in, give, award, impart, provide, cause, gift, godsend |(vi) ban cho, tham gia, cho, trao tặng, phú cho, cung cấp, gây ra, quà tặng, ân huệ trời cho |(hv) Dữ",
     "kunyomi": [
       "あた.える",
       "あずか.る",
@@ -278,44 +278,44 @@
       {
         "example": "与野党",
         "reading": "ヨヤトウ",
-        "meaning": "ruling and opposition parties, parties in and out of power"
+        "meaning": "ruling and opposition parties, parties in and out of power |(vi) đảng cầm quyền và đảng đối lập"
       },
       {
         "example": "与党",
         "reading": "ヨトウ",
-        "meaning": "ruling party, government party, party in power, government"
+        "meaning": "ruling party, government party, party in power, government |(vi) đảng cầm quyền, chính phủ đương nhiệm"
       },
       {
         "example": "賞与",
         "reading": "ショウヨ",
-        "meaning": "bonus, reward, prize"
+        "meaning": "bonus, reward, prize |(vi) tiền thưởng, phần thưởng"
       },
       {
         "example": "贈与",
         "reading": "ゾウヨ",
-        "meaning": "donation, presentation"
+        "meaning": "donation, presentation |(vi) sự biếu tặng, tặng cho"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "与える",
         "reading": "あたえる",
-        "meaning": "to give (esp. to someone of lower status), to bestow, to grant, to confer, to present, to award, to provide, to afford, to offer, to supply, to assign, to cause, to pass (a variable to a function)"
+        "meaning": "to give (esp. to someone of lower status), to bestow, to grant, to confer, to present, to award, to provide, to afford, to offer, to supply, to assign, to cause, to pass (a variable to a function) |(vi) cho, ban cho, trao, cấp, cung cấp, giao (một biến cho hàm)"
       },
       {
         "example": "与る",
         "reading": "あずかる",
-        "meaning": "to participate in, to take part in, to play a part in, to receive, to be given, to enjoy"
+        "meaning": "to participate in, to take part in, to play a part in, to receive, to be given, to enjoy |(vi) tham gia, dự phần, được nhận, được hưởng"
       },
       {
         "example": "与する",
         "reading": "くみする",
-        "meaning": "to take part in, to be a party to, to side with, to support, to agree with"
+        "meaning": "to take part in, to be a party to, to side with, to support, to agree with |(vi) tham gia, đứng về phía, ủng hộ, đồng tình"
       }
     ],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": "one |(vi) Nhất (một)"
     },
     "parts": [
       "一",

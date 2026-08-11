@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "vote, slip, ballot",
+    "meaning": "vote, slip, ballot |(vi) phiếu, phiếu bầu",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "票（ひょう）",
         "meaning": {
-          "english": "label, ballot, vote"
+          "english": "label, ballot, vote |(vi) phiếu, nhãn, lá phiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(toku)hyou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "白票（はくひょう）",
         "meaning": {
-          "english": "blank ballot, white ballot"
+          "english": "blank ballot, white ballot |(vi) phiếu trắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(toku)hyou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "得票（とくひょう）",
         "meaning": {
-          "english": "number of votes polled"
+          "english": "number of votes polled |(vi) số phiếu bầu được"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(toku)hyou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "一票（いっぴょう）",
         "meaning": {
-          "english": "a vote, ballot"
+          "english": "a vote, ballot |(vi) một phiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(toku)hyou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "伝票（でんぴょう）",
         "meaning": {
-          "english": "sales slip, voucher"
+          "english": "sales slip, voucher |(vi) phiếu, hóa đơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(toku)hyou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "住民票（じゅうみんひょう）",
         "meaning": {
-          "english": "resident's card"
+          "english": "resident's card |(vi) giấy chứng nhận cư trú"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(toku)hyou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "固定票（こていひょう）",
         "meaning": {
-          "english": "solid vote, solid support"
+          "english": "solid vote, solid support |(vi) phiếu bầu cố định, phiếu ủng hộ chắc chắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(toku)hyou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "浮動票（ふどうひょう）",
         "meaning": {
-          "english": "swing vote"
+          "english": "swing vote |(vi) phiếu bầu dao động, cử tri chưa quyết định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(toku)hyou_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "投票する（とうひょうする）",
         "meaning": {
-          "english": "cast a vote, vote"
+          "english": "cast a vote, vote |(vi) bỏ phiếu, bầu cử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(toku)hyou_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "開票する（かいひょうする）",
         "meaning": {
-          "english": "count votes"
+          "english": "count votes |(vi) kiểm phiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(toku)hyou_06_j.opus",
@@ -223,7 +223,7 @@
     "kanji": {
       "character": "票",
       "meaning": {
-        "english": "vote, slip, ballot"
+        "english": "vote, slip, ballot |(vi) phiếu, phiếu bầu"
       },
       "strokes": {
         "count": 11,
@@ -283,7 +283,7 @@
         "romaji": "shimesu"
       },
       "meaning": {
-        "english": "altar, festival, religious service"
+        "english": "altar, festival, religious service |(vi) Thị (bày tỏ, cúng tế)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shimesu0.svg",
@@ -304,7 +304,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "489",
     "strokeCount": 11,
-    "meaning": "ballot, label, ticket, sign",
+    "meaning": "ballot, label, ticket, sign |(vi) phiếu bầu, nhãn, vé, dấu hiệu |(hv) Phiếu",
     "kunyomi": [],
     "onyomi": [
       "ヒョウ"
@@ -313,22 +313,22 @@
       {
         "example": "票",
         "reading": "ヒョウ",
-        "meaning": "vote, ballot, label, ticket, tag, stub"
+        "meaning": "vote, ballot, label, ticket, tag, stub |(vi) phiếu, lá phiếu, nhãn, vé"
       },
       {
         "example": "票田",
         "reading": "ヒョウデン",
-        "meaning": "(reliable) source of votes, area of strong electoral support, stronghold, (voter) base"
+        "meaning": "(reliable) source of votes, area of strong electoral support, stronghold, (voter) base |(vi) khu vực bầu cử ủng hộ, thành trì cử tri"
       },
       {
         "example": "不在者投票",
         "reading": "フザイシャトウヒョウ",
-        "meaning": "absentee ballot, absentee voting"
+        "meaning": "absentee ballot, absentee voting |(vi) bỏ phiếu vắng mặt"
       },
       {
         "example": "無投票",
         "reading": "ムトウヒョウ",
-        "meaning": "without a vote"
+        "meaning": "without a vote |(vi) không bỏ phiếu, trúng cử không qua bầu"
       }
     ],
     "kunyomiExamples": [],
@@ -337,7 +337,7 @@
       "forms": [
         "礻"
       ],
-      "meaning": "sign"
+      "meaning": "sign |(vi) Thị (bày tỏ, cúng tế)"
     },
     "parts": [
       "二",

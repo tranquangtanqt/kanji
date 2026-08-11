@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "so, soru, sorasu",
-    "meaning": "counter, anti-",
+    "meaning": "counter, anti- |(vi) ngược lại, phản-, chống lại",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "反対する（はんたいする）",
         "meaning": {
-          "english": "disagree"
+          "english": "disagree |(vi) phản đối, không đồng ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-so(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "反抗する（はんこうする）",
         "meaning": {
-          "english": "rebel [v.i.]"
+          "english": "rebel [v.i.] |(vi) chống đối, phản kháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-so(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "反応する（はんのうする）",
         "meaning": {
-          "english": "react"
+          "english": "react |(vi) phản ứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-so(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "反省する（はんせいする）",
         "meaning": {
-          "english": "reflect on"
+          "english": "reflect on |(vi) phản tỉnh, tự kiểm điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-so(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "違反する（いはんする）",
         "meaning": {
-          "english": "violate"
+          "english": "violate |(vi) vi phạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-so(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "反感（はんかん）",
         "meaning": {
-          "english": "antipathy"
+          "english": "antipathy |(vi) ác cảm, phản cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-so(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "反戦（はんせん）",
         "meaning": {
-          "english": "anti-war"
+          "english": "anti-war |(vi) phản chiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-so(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "反日（はんにち）",
         "meaning": {
-          "english": "anti-Japanese"
+          "english": "anti-Japanese |(vi) bài Nhật, chống Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-so(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "謀反（むほん）",
         "meaning": {
-          "english": "rebellion"
+          "english": "rebellion |(vi) mưu phản, nổi loạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-so(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "一反（いったん）",
         "meaning": {
-          "english": "one-tenth of a hectare"
+          "english": "one-tenth of a hectare |(vi) một tan (đơn vị diện tích ~991,7 m²)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-so(ru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "反る（そる）",
         "meaning": {
-          "english": "curve [v.i.]"
+          "english": "curve [v.i.] |(vi) cong lên, uốn cong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-so(ru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "反らす（そらす）",
         "meaning": {
-          "english": "bend [v.t.]"
+          "english": "bend [v.t.] |(vi) làm cong, uốn cong (cái gì)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-so(ru)_06_l.opus",
@@ -300,7 +300,7 @@
     "kanji": {
       "character": "反",
       "meaning": {
-        "english": "counter, anti-"
+        "english": "counter, anti- |(vi) ngược lại, phản-, chống lại"
       },
       "strokes": {
         "count": 4,
@@ -346,7 +346,7 @@
         "romaji": "mata"
       },
       "meaning": {
-        "english": "again, right hand"
+        "english": "again, right hand |(vi) Hựu (lại, tay phải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mata0.svg",
@@ -367,7 +367,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "191",
     "strokeCount": 4,
-    "meaning": "anti-",
+    "meaning": "anti- |(vi) phản-, chống lại, ngược lại |(hv) Phản",
     "kunyomi": [
       "そ.る",
       "そ.らす",
@@ -385,89 +385,89 @@
       {
         "example": "反",
         "reading": "ハン",
-        "meaning": "anti-, antithesis, fanqie, traditional Chinese spelling system in which two characters are used: the first one for the onset, the second one for rhyme and tone"
+        "meaning": "anti-, antithesis, fanqie, traditional Chinese spelling system in which two characters are used: the first one for the onset, the second one for rhyme and tone |(vi) phản-, đối lập; phiên thiết (cách ghi âm chữ Hán cổ)"
       },
       {
         "example": "反映",
         "reading": "ハンエイ",
-        "meaning": "reflection (of light), reflection (of society, attitudes, etc.), application (of an update, changes, etc.), taking effect"
+        "meaning": "reflection (of light), reflection (of society, attitudes, etc.), application (of an update, changes, etc.), taking effect |(vi) phản ánh, phản chiếu, có hiệu lực (áp dụng thay đổi)"
       },
       {
         "example": "離反",
         "reading": "リハン",
-        "meaning": "estrangement, alienation, disaffection, desertion, defection, breakaway"
+        "meaning": "estrangement, alienation, disaffection, desertion, defection, breakaway |(vi) ly khai, xa lánh, phản bội, đào ngũ"
       },
       {
         "example": "造反",
         "reading": "ゾウハン",
-        "meaning": "rebellion"
+        "meaning": "rebellion |(vi) nổi loạn, làm phản"
       },
       {
         "example": "反故",
         "reading": "ホゴ",
-        "meaning": "wastepaper, scrap paper"
+        "meaning": "wastepaper, scrap paper |(vi) giấy vụn, giấy bỏ"
       },
       {
         "example": "謀反",
         "reading": "ムホン",
-        "meaning": "rebellion, revolt, insurrection, treason"
+        "meaning": "rebellion, revolt, insurrection, treason |(vi) mưu phản, nổi loạn, phản quốc"
       },
       {
         "example": "反",
         "reading": "タン",
-        "meaning": "variable measure of fabric (28.8 cm in width), for kimonos: at least 10 m in length, for haori: at least 7.27 m in length, for other clothes: at least 6.06 m in length, 300 tsubo (991.74 meters square, 0.24506 acres), six ken (10.91 m)"
+        "meaning": "variable measure of fabric (28.8 cm in width), for kimonos: at least 10 m in length, for haori: at least 7.27 m in length, for other clothes: at least 6.06 m in length, 300 tsubo (991.74 meters square, 0.24506 acres), six ken (10.91 m) |(vi) tan (đơn vị đo vải, bề rộng khoảng 28,8cm; cũng là đơn vị diện tích đất)"
       },
       {
         "example": "反物",
         "reading": "タンモノ",
-        "meaning": "fabric, cloth, textiles, drapery, dry-goods, piece goods, measure of kimono material"
+        "meaning": "fabric, cloth, textiles, drapery, dry-goods, piece goods, measure of kimono material |(vi) vải vóc, hàng vải, tấm vải may kimono"
       },
       {
         "example": "減反",
         "reading": "ゲンタン",
-        "meaning": "reduction (of crop size), reduction of acreage (under cultivation)"
+        "meaning": "reduction (of crop size), reduction of acreage (under cultivation) |(vi) giảm diện tích canh tác"
       },
       {
         "example": "一反",
         "reading": "イッタン",
-        "meaning": "one-tenth hectare"
+        "meaning": "one-tenth hectare |(vi) một tan (đơn vị diện tích đất)"
       },
       {
         "example": "反故",
         "reading": "ホゴ",
-        "meaning": "wastepaper, scrap paper"
+        "meaning": "wastepaper, scrap paper |(vi) giấy vụn, giấy bỏ"
       },
       {
         "example": "反古籠",
         "reading": "ホグカゴ",
-        "meaning": "wastebasket"
+        "meaning": "wastebasket |(vi) giỏ đựng giấy vụn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "反る",
         "reading": "そる",
-        "meaning": "to warp, to curve, to arch, to bend, to bend backward (body or body part, e.g. fingers)"
+        "meaning": "to warp, to curve, to arch, to bend, to bend backward (body or body part, e.g. fingers) |(vi) cong lên, uốn cong, ưỡn ra (sau)"
       },
       {
         "example": "反らす",
         "reading": "そらす",
-        "meaning": "to bend, to warp, to curve"
+        "meaning": "to bend, to warp, to curve |(vi) làm cong, uốn cong"
       },
       {
         "example": "返す",
         "reading": "かえす",
-        "meaning": "to return (something), to restore, to put back, to turn over, to turn upside down, to overturn, to pay back, to retaliate, to reciprocate, to respond (with), to retort, to reply, to say back, to do ... back (e.g. speak back, throw back), to do again, to do repeatedly"
+        "meaning": "to return (something), to restore, to put back, to turn over, to turn upside down, to overturn, to pay back, to retaliate, to reciprocate, to respond (with), to retort, to reply, to say back, to do ... back (e.g. speak back, throw back), to do again, to do repeatedly |(vi) trả lại, hoàn trả, lật lại, đáp trả"
       },
       {
         "example": "返る",
         "reading": "かえる",
-        "meaning": "to return, to come back, to go back, to turn over, to become extremely, to become completely"
+        "meaning": "to return, to come back, to go back, to turn over, to become extremely, to become completely |(vi) trở về, quay lại, lật lại, trở nên (hoàn toàn)"
       }
     ],
     "radical": {
       "symbol": "又",
-      "meaning": "right hand"
+      "meaning": "right hand |(vi) Hựu (tay phải, lại)"
     },
     "parts": [
       "厂",

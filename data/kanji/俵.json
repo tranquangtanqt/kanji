@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "tawara",
-    "meaning": "straw sack",
+    "meaning": "straw sack |(vi) bao tải rơm",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "土俵（どひょう）",
         "meaning": {
-          "english": "sumo ring"
+          "english": "sumo ring |(vi) vòng đấu sumo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tawara_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "一俵（いっぴょう）",
         "meaning": {
-          "english": "one straw bag"
+          "english": "one straw bag |(vi) một bao rơm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tawara_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "俵（たわら）",
         "meaning": {
-          "english": "bale, sack"
+          "english": "bale, sack |(vi) bao, bao tải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tawara_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "米俵（こめだわら）",
         "meaning": {
-          "english": "straw rice bag"
+          "english": "straw rice bag |(vi) bao gạo bằng rơm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tawara_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "炭俵（すみだわら）",
         "meaning": {
-          "english": "sack for charcoal"
+          "english": "sack for charcoal |(vi) bao đựng than"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tawara_06_e.opus",
@@ -148,7 +148,7 @@
     "kanji": {
       "character": "俵",
       "meaning": {
-        "english": "straw sack"
+        "english": "straw sack |(vi) bao tải rơm"
       },
       "strokes": {
         "count": 10,
@@ -206,7 +206,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -227,7 +227,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1481",
     "strokeCount": 10,
-    "meaning": "bag, bale, sack, counter for bags",
+    "meaning": "bag, bale, sack, counter for bags |(vi) bao, kiện, túi, lượng từ đếm bao |(hv) Biểu",
     "kunyomi": [
       "たわら"
     ],
@@ -238,34 +238,34 @@
       {
         "example": "俵",
         "reading": "タワラ",
-        "meaning": "straw bag, sack, bale, counter for sacks (of rice, potatoes, coal, etc.)"
+        "meaning": "straw bag, sack, bale, counter for sacks (of rice, potatoes, coal, etc.) |(vi) bao rơm, bao tải, kiện hàng, lượng từ đếm bao (gạo, khoai, than...)"
       },
       {
         "example": "俵数",
         "reading": "ヒョウスウ",
-        "meaning": "number of straw bags"
+        "meaning": "number of straw bags |(vi) số lượng bao rơm"
       },
       {
         "example": "土俵",
         "reading": "ドヒョウ",
-        "meaning": "(wrestling) ring, forum (e.g. for discussion), sandbag, gabion"
+        "meaning": "(wrestling) ring, forum (e.g. for discussion), sandbag, gabion |(vi) vòng đấu (sumo), diễn đàn (thảo luận), bao cát, rọ đá"
       },
       {
         "example": "初土俵",
         "reading": "ハツドヒョウ",
-        "meaning": "first tournament for a wrestler"
+        "meaning": "first tournament for a wrestler |(vi) giải đấu đầu tiên của một đô vật"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "俵",
         "reading": "たわら",
-        "meaning": "straw bag, sack, bale, counter for sacks (of rice, potatoes, coal, etc.)"
+        "meaning": "straw bag, sack, bale, counter for sacks (of rice, potatoes, coal, etc.) |(vi) bao rơm, bao tải, kiện hàng, lượng từ đếm bao (gạo, khoai, than...)"
       },
       {
         "example": "俵編",
         "reading": "たわらあみ",
-        "meaning": "making bags out of this year's straw (during autumn)"
+        "meaning": "making bags out of this year's straw (during autumn) |(vi) đan bao từ rơm mới thu hoạch (vào mùa thu)"
       }
     ],
     "radical": {
@@ -273,7 +273,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "二",

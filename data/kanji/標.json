@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "mark, sign",
+    "meaning": "mark, sign |(vi) dấu hiệu, mốc",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "標準（ひょうじゅん）",
         "meaning": {
-          "english": "standard, level"
+          "english": "standard, level |(vi) tiêu chuẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou(shiki)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "標準語（ひょうじゅんご）",
         "meaning": {
-          "english": "standard language"
+          "english": "standard language |(vi) ngôn ngữ chuẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou(shiki)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "標識（ひょうしき）",
         "meaning": {
-          "english": "sign, mark"
+          "english": "sign, mark |(vi) biển báo, dấu hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou(shiki)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "標語（ひょうご）",
         "meaning": {
-          "english": "motto, slogan, catchword"
+          "english": "motto, slogan, catchword |(vi) khẩu hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou(shiki)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "標本（ひょうほん）",
         "meaning": {
-          "english": "example, specimen"
+          "english": "example, specimen |(vi) mẫu vật, tiêu bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou(shiki)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "標高（ひょうこう）",
         "meaning": {
-          "english": "elevation, height above sea level"
+          "english": "elevation, height above sea level |(vi) độ cao so với mực nước biển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou(shiki)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "標的（ひょうてき）",
         "meaning": {
-          "english": "target"
+          "english": "target |(vi) mục tiêu, đích ngắm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou(shiki)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "目標（もくひょう）",
         "meaning": {
-          "english": "mark, objective, target"
+          "english": "mark, objective, target |(vi) mục tiêu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou(shiki)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "座標（ざひょう）",
         "meaning": {
-          "english": "coordinate"
+          "english": "coordinate |(vi) tọa độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou(shiki)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "指標（しひょう）",
         "meaning": {
-          "english": "index, indices"
+          "english": "index, indices |(vi) chỉ số, chỉ tiêu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou(shiki)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "墓標（ぼひょう）",
         "meaning": {
-          "english": "grave-marker, gravestone"
+          "english": "grave-marker, gravestone |(vi) bia mộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou(shiki)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "商標（しょうひょう）",
         "meaning": {
-          "english": "trademark"
+          "english": "trademark |(vi) thương hiệu, nhãn hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou(shiki)_06_l.opus",
@@ -256,7 +256,7 @@
     "kanji": {
       "character": "標",
       "meaning": {
-        "english": "mark, sign"
+        "english": "mark, sign |(vi) dấu hiệu, mốc"
       },
       "strokes": {
         "count": 15,
@@ -324,7 +324,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -345,7 +345,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "686",
     "strokeCount": 15,
-    "meaning": "signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target",
+    "meaning": "signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target |(vi) biển chỉ dẫn, dấu, ký hiệu, biểu tượng, nhãn hiệu, bằng chứng, vật kỷ niệm, mục tiêu |(hv) Tiêu",
     "kunyomi": [
       "しるべ",
       "しるし"
@@ -357,44 +357,44 @@
       {
         "example": "標",
         "reading": "ヒョウ",
-        "meaning": "mark, sign, target, plain wood showing the seating order of officials at court, nameplate"
+        "meaning": "mark, sign, target, plain wood showing the seating order of officials at court, nameplate |(vi) dấu, mốc, bảng tên (ghi thứ tự chỗ ngồi quan lại)"
       },
       {
         "example": "標高",
         "reading": "ヒョウコウ",
-        "meaning": "elevation, height above sea level"
+        "meaning": "elevation, height above sea level |(vi) độ cao so với mực nước biển"
       },
       {
         "example": "商標",
         "reading": "ショウヒョウ",
-        "meaning": "trademark"
+        "meaning": "trademark |(vi) thương hiệu, nhãn hiệu"
       },
       {
         "example": "登録商標",
         "reading": "トウロクショウヒョウ",
-        "meaning": "registered trademark"
+        "meaning": "registered trademark |(vi) nhãn hiệu đã đăng ký"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "導",
         "reading": "しるべ",
-        "meaning": "guidance, guide"
+        "meaning": "guidance, guide |(vi) sự dẫn đường, chỉ dẫn"
       },
       {
         "example": "印",
         "reading": "しるし",
-        "meaning": "mark, sign, symbol, emblem, badge, crest, flag, evidence, proof, token (of gratitude, affection, etc.)"
+        "meaning": "mark, sign, symbol, emblem, badge, crest, flag, evidence, proof, token (of gratitude, affection, etc.) |(vi) dấu hiệu, biểu tượng, huy hiệu, bằng chứng, vật làm tin"
       },
       {
         "example": "標旗",
         "reading": "ひょうき",
-        "meaning": "identification, marking flag"
+        "meaning": "identification, marking flag |(vi) cờ hiệu nhận dạng"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây, gỗ)"
     },
     "parts": [
       "二",

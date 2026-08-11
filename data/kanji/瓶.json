@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "bottle",
+    "meaning": "bottle |(vi) chai, bình",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "瓶（びん）",
         "meaning": {
-          "english": "bottle"
+          "english": "bottle |(vi) chai, bình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bin(zume)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "瓶詰め（びんづめ）",
         "meaning": {
-          "english": "bottling, bottled"
+          "english": "bottling, bottled |(vi) đóng chai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bin(zume)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "花瓶（かびん）",
         "meaning": {
-          "english": "vase"
+          "english": "vase |(vi) bình hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bin(zume)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "空き瓶（あきびん）",
         "meaning": {
-          "english": "empty bottle"
+          "english": "empty bottle |(vi) chai không, chai rỗng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bin(zume)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "魔法瓶（まほうびん）",
         "meaning": {
-          "english": "thermos flask"
+          "english": "thermos flask |(vi) bình giữ nhiệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bin(zume)_06_e.opus",
@@ -144,7 +144,7 @@
     "kanji": {
       "character": "瓶",
       "meaning": {
-        "english": "bottle"
+        "english": "bottle |(vi) chai, bình"
       },
       "strokes": {
         "count": 11,
@@ -204,7 +204,7 @@
         "romaji": "kawara"
       },
       "meaning": {
-        "english": "tile"
+        "english": "tile |(vi) Ngõa (ngói, đồ gốm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kawara0.svg",
@@ -225,7 +225,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1528",
     "strokeCount": 11,
-    "meaning": "bottle, vial, jar, jug, vat, urn",
+    "meaning": "bottle, vial, jar, jug, vat, urn |(vi) chai, lọ, bình, vại, hũ |(hv) Bình",
     "kunyomi": [
       "かめ"
     ],
@@ -237,59 +237,59 @@
       {
         "example": "瓶",
         "reading": "ビン",
-        "meaning": "bottle, jar, decanter, flagon, phial, vial"
+        "meaning": "bottle, jar, decanter, flagon, phial, vial |(vi) chai, lọ, bình"
       },
       {
         "example": "瓶詰め",
         "reading": "ビンヅメ",
-        "meaning": "bottling, bottled"
+        "meaning": "bottling, bottled |(vi) đóng chai"
       },
       {
         "example": "火炎瓶",
         "reading": "カエンビン",
-        "meaning": "Molotov cocktail, petrol bomb, gasoline bomb"
+        "meaning": "Molotov cocktail, petrol bomb, gasoline bomb |(vi) bom xăng"
       },
       {
         "example": "水瓶",
         "reading": "スイビョウ",
-        "meaning": "portable water vessel (for drinking or washing up)"
+        "meaning": "portable water vessel (for drinking or washing up) |(vi) bình đựng nước"
       },
       {
         "example": "瓶",
         "reading": "ヘイ",
-        "meaning": "jar or vase with a long narrow neck"
+        "meaning": "jar or vase with a long narrow neck |(vi) bình cổ dài"
       },
       {
         "example": "瓶子",
         "reading": "ヘイジ",
-        "meaning": "earthenware pot (used as a decanter), jar, jug"
+        "meaning": "earthenware pot (used as a decanter), jar, jug |(vi) bình gốm đựng rượu"
       },
       {
         "example": "大瓶",
         "reading": "タイヘイ",
-        "meaning": "large earthenware pot"
+        "meaning": "large earthenware pot |(vi) chum, vại lớn"
       },
       {
         "example": "酒瓶",
         "reading": "サカビン",
-        "meaning": "sake bottle"
+        "meaning": "sake bottle |(vi) chai rượu sake"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "甕",
         "reading": "かめ",
-        "meaning": "earthenware pot"
+        "meaning": "earthenware pot |(vi) chum, vại gốm"
       },
       {
         "example": "瓶覗",
         "reading": "かめのぞき",
-        "meaning": "faint indigo blue (traditional Japanese color name)"
+        "meaning": "faint indigo blue (traditional Japanese color name) |(vi) màu xanh chàm nhạt (tên màu truyền thống Nhật)"
       }
     ],
     "radical": {
       "symbol": "瓦",
-      "meaning": "tile"
+      "meaning": "tile |(vi) Ngõa (ngói, đồ gốm)"
     },
     "parts": [
       "ノ",

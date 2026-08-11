@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "kara, karamu, karamaru, karameru",
-    "meaning": "interlink, entwine, get entangled",
+    "meaning": "interlink, entwine, get entangled |(vi) liên kết, quấn vào nhau, rối vào nhau",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "脈絡（みゃくらく）",
         "meaning": {
-          "english": "chain of reasoning, logic"
+          "english": "chain of reasoning, logic |(vi) mạch lạc, đầu đuôi câu chuyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(maru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "短絡的な（たんらくてきな）",
         "meaning": {
-          "english": "over-abbreviated, simplistic"
+          "english": "over-abbreviated, simplistic |(vi) hời hợt, suy diễn vội vàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(maru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "連絡する（れんらくする）",
         "meaning": {
-          "english": "notify, communicate, contact"
+          "english": "notify, communicate, contact |(vi) liên lạc, thông báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(maru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "絡む（からむ）",
         "meaning": {
-          "english": "become entangled with [v.i.]"
+          "english": "become entangled with [v.i.] |(vi) vướng vào, quấn vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(maru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "絡める（からめる）",
         "meaning": {
-          "english": "entwine [v.t.]"
+          "english": "entwine [v.t.] |(vi) quấn vào, cuộn lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(maru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "絡まる（からまる）",
         "meaning": {
-          "english": "get caught in, entwine [v.i.]"
+          "english": "get caught in, entwine [v.i.] |(vi) bị vướng, quấn chặt vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(maru)_06_f.opus",
@@ -226,7 +226,7 @@
     "kanji": {
       "character": "絡",
       "meaning": {
-        "english": "interlink, entwine, get entangled"
+        "english": "interlink, entwine, get entangled |(vi) liên kết, quấn vào nhau, rối vào nhau"
       },
       "strokes": {
         "count": 12,
@@ -288,7 +288,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (sợi tơ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -309,7 +309,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "806",
     "strokeCount": 12,
-    "meaning": "entwine, coil around, get caught in",
+    "meaning": "entwine, coil around, get caught in |(vi) quấn vào, cuộn quanh, vướng vào |(hv) Lạc",
     "kunyomi": [
       "から.む",
       "から.まる"
@@ -321,34 +321,34 @@
       {
         "example": "絡繹",
         "reading": "ラクエキ",
-        "meaning": "constant (stream of traffic), incessant"
+        "meaning": "constant (stream of traffic), incessant |(vi) liên tục, tấp nập không dứt"
       },
       {
         "example": "絡糸嬢",
         "reading": "ラクシジョウ",
-        "meaning": "cricket, bush-cricket"
+        "meaning": "cricket, bush-cricket |(vi) loài dế (côn trùng)"
       },
       {
         "example": "短絡",
         "reading": "タンラク",
-        "meaning": "short circuit, short, illogical jump, drawing a hasty inference (between two events), jumping to conclusions, acting rashly"
+        "meaning": "short circuit, short, illogical jump, drawing a hasty inference (between two events), jumping to conclusions, acting rashly |(vi) đoản mạch; suy luận vội vàng, hấp tấp"
       },
       {
         "example": "脈絡",
         "reading": "ミャクラク",
-        "meaning": "logical connection, chain of reasoning, coherence, context, blood vessel"
+        "meaning": "logical connection, chain of reasoning, coherence, context, blood vessel |(vi) mạch lạc, mạch máu, đầu đuôi câu chuyện"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "絡む",
         "reading": "からむ",
-        "meaning": "to twine, to get tangled, to get entangled, to get caught (in), to be involved (e.g. of money in a matter), to get involved (in), to be a factor (in), to have an influence, to pick a quarrel (with), to find fault (with), to pester, to hassle"
+        "meaning": "to twine, to get tangled, to get entangled, to get caught (in), to be involved (e.g. of money in a matter), to get involved (in), to be a factor (in), to have an influence, to pick a quarrel (with), to find fault (with), to pester, to hassle |(vi) vướng vào, quấn vào, gây sự, liên quan đến"
       },
       {
         "example": "絡まる",
         "reading": "からまる",
-        "meaning": "to be entwined, to be involved"
+        "meaning": "to be entwined, to be involved |(vi) quấn chặt vào, bị dính líu"
       }
     ],
     "radical": {
@@ -356,7 +356,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (sợi tơ)"
     },
     "parts": [
       "口",

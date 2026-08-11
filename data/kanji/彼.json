@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "kare, kano",
-    "meaning": "third person pronoun, that",
+    "meaning": "third person pronoun, that |(vi) đại từ ngôi thứ ba, cái đó, kia",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "彼岸（ひがん）",
         "meaning": {
-          "english": "equinoctial week"
+          "english": "equinoctial week |(vi) tuần lễ xuân/thu phân (Higan)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kare_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "彼（かれ）",
         "meaning": {
-          "english": "he, boyfriend"
+          "english": "he, boyfriend |(vi) anh ấy, bạn trai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kare_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "彼等（かれら）",
         "meaning": {
-          "english": "they"
+          "english": "they |(vi) họ, bọn họ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kare_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "彼氏（かれし）",
         "meaning": {
-          "english": "boyfriend"
+          "english": "boyfriend |(vi) bạn trai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kare_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "彼女（かのじょ）",
         "meaning": {
-          "english": "she, girl friend"
+          "english": "she, girl friend |(vi) cô ấy, bạn gái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kare_06_e.opus",
@@ -211,7 +211,7 @@
     "kanji": {
       "character": "彼",
       "meaning": {
-        "english": "third person pronoun, that"
+        "english": "third person pronoun, that |(vi) đại từ ngôi thứ ba, cái đó, kia"
       },
       "strokes": {
         "count": 8,
@@ -265,7 +265,7 @@
         "romaji": "gyouninben"
       },
       "meaning": {
-        "english": "step, stride, street, to go"
+        "english": "step, stride, street, to go |(vi) Xích (bước chân nhỏ, đi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
@@ -286,7 +286,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "648",
     "strokeCount": 8,
-    "meaning": "he, that, the",
+    "meaning": "he, that, the |(vi) anh ấy, cái đó, kia |(hv) Bỉ",
     "kunyomi": [
       "かれ",
       "かの",
@@ -299,59 +299,59 @@
       {
         "example": "彼岸",
         "reading": "ヒガン",
-        "meaning": "equinoctial week (when Buddhist services are held), Buddhist services during the equinoctial week, nirvana, opposite bank, opposite shore, shore on the other side"
+        "meaning": "equinoctial week (when Buddhist services are held), Buddhist services during the equinoctial week, nirvana, opposite bank, opposite shore, shore on the other side |(vi) tuần lễ xuân/thu phân, bờ bên kia (Niết bàn)"
       },
       {
         "example": "彼是",
         "reading": "アレコレ",
-        "meaning": "this and that, this or that, one thing or another, this way and that, around, about, round about, roughly, nearly, almost"
+        "meaning": "this and that, this or that, one thing or another, this way and that, around, about, round about, roughly, nearly, almost |(vi) cái này cái kia, khoảng chừng, xấp xỉ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "彼",
         "reading": "かれ",
-        "meaning": "he, him, boyfriend"
+        "meaning": "he, him, boyfriend |(vi) anh ấy, hắn, bạn trai"
       },
       {
         "example": "彼ら",
         "reading": "かれら",
-        "meaning": "they, them"
+        "meaning": "they, them |(vi) họ, bọn họ"
       },
       {
         "example": "前彼",
         "reading": "まえかれ",
-        "meaning": "former boyfriend, ex-boyfriend"
+        "meaning": "former boyfriend, ex-boyfriend |(vi) bạn trai cũ"
       },
       {
         "example": "元彼",
         "reading": "もとかれ",
-        "meaning": "former boyfriend, ex-boyfriend"
+        "meaning": "former boyfriend, ex-boyfriend |(vi) bạn trai cũ"
       },
       {
         "example": "彼の",
         "reading": "かの",
-        "meaning": "that well-known ..., the one and only ..., that, those, the"
+        "meaning": "that well-known ..., the one and only ..., that, those, the |(vi) cái ... nổi tiếng đó, cái đó"
       },
       {
         "example": "彼女",
         "reading": "かのじょ",
-        "meaning": "she, her, girlfriend"
+        "meaning": "she, her, girlfriend |(vi) cô ấy, bạn gái"
       },
       {
         "example": "彼の",
         "reading": "かの",
-        "meaning": "that well-known ..., the one and only ..., that, those, the"
+        "meaning": "that well-known ..., the one and only ..., that, those, the |(vi) cái ... nổi tiếng đó, cái đó"
       },
       {
         "example": "彼女",
         "reading": "かのじょ",
-        "meaning": "she, her, girlfriend"
+        "meaning": "she, her, girlfriend |(vi) cô ấy, bạn gái"
       }
     ],
     "radical": {
       "symbol": "彳",
-      "meaning": "step"
+      "meaning": "step |(vi) Xích (bước chân nhỏ)"
     },
     "parts": [
       "又",

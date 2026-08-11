@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 3,
     "kunyomi": "waka, wakare, wakareru",
-    "meaning": "separate, another",
+    "meaning": "separate, another |(vi) riêng biệt, khác",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "特別な（とくべつな）",
         "meaning": {
-          "english": "special"
+          "english": "special |(vi) đặc biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "別な（べつな）",
         "meaning": {
-          "english": "different, another"
+          "english": "different, another |(vi) khác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "別々に（べつべつに）",
         "meaning": {
-          "english": "separately"
+          "english": "separately |(vi) riêng rẽ, riêng biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "個別に（こべつに）",
         "meaning": {
-          "english": "individually"
+          "english": "individually |(vi) riêng lẻ, cá biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "別離（べつり）",
         "meaning": {
-          "english": "parting"
+          "english": "parting |(vi) chia ly, biệt ly"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "別荘（べっそう）",
         "meaning": {
-          "english": "summer home"
+          "english": "summer home |(vi) biệt thự, nhà nghỉ mát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "別世界（べっせかい）",
         "meaning": {
-          "english": "another world"
+          "english": "another world |(vi) thế giới khác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "差別する（さべつする）",
         "meaning": {
-          "english": "discriminate"
+          "english": "discriminate |(vi) phân biệt (đối xử)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "区別する（くべつする）",
         "meaning": {
-          "english": "differentiate"
+          "english": "differentiate |(vi) phân biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "別居する（べっきょする）",
         "meaning": {
-          "english": "separate (i.e. a married couple)"
+          "english": "separate (i.e. a married couple) |(vi) ly thân, sống riêng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "別れる（わかれる）",
         "meaning": {
-          "english": "be divided, part from"
+          "english": "be divided, part from |(vi) chia tay, ly biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_k.opus",
@@ -295,7 +295,7 @@
     "kanji": {
       "character": "別",
       "meaning": {
-        "english": "separate, another"
+        "english": "separate, another |(vi) riêng biệt, khác"
       },
       "strokes": {
         "count": 7,
@@ -347,7 +347,7 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, kiếm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -368,7 +368,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "214",
     "strokeCount": 7,
-    "meaning": "separate, branch off, diverge, fork, another, extra, specially",
+    "meaning": "separate, branch off, diverge, fork, another, extra, specially |(vi) tách biệt, rẽ nhánh, phân nhánh, chia tách, khác, riêng, đặc biệt |(hv) Biệt",
     "kunyomi": [
       "わか.れる",
       "わ.ける"
@@ -380,34 +380,34 @@
       {
         "example": "別",
         "reading": "ベツ",
-        "meaning": "distinction, difference, discrimination, separate, different, another, extra, exception, exclusion, classified by, ranked by, according to"
+        "meaning": "distinction, difference, discrimination, separate, different, another, extra, exception, exclusion, classified by, ranked by, according to |(vi) phân biệt, khác biệt, phân biệt đối xử, riêng, khác, thêm, ngoại lệ, loại trừ, phân loại theo, xếp hạng theo, theo từng"
       },
       {
         "example": "別院",
         "reading": "ベツイン",
-        "meaning": "branch temple"
+        "meaning": "branch temple |(vi) chùa nhánh, biệt viện"
       },
       {
         "example": "無差別",
         "reading": "ムサベツ",
-        "meaning": "indiscrimination, without discrimination, indiscriminate"
+        "meaning": "indiscrimination, without discrimination, indiscriminate |(vi) không phân biệt, vô phân biệt"
       },
       {
         "example": "告別",
         "reading": "コクベツ",
-        "meaning": "farewell, leave-taking"
+        "meaning": "farewell, leave-taking |(vi) từ biệt, cáo biệt"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "別れる",
         "reading": "わかれる",
-        "meaning": "to part (usu. of people), to part from, to part with, to be apart from, to separate (of a couple), to break up, to divorce, to lose (e.g. one's mother), to be bereaved"
+        "meaning": "to part (usu. of people), to part from, to part with, to be apart from, to separate (of a couple), to break up, to divorce, to lose (e.g. one's mother), to be bereaved |(vi) chia tay, chia lìa, xa cách, ly thân (vợ chồng), ly hôn, mất (người thân), tang chế"
       },
       {
         "example": "分ける",
         "reading": "わける",
-        "meaning": "to divide (into), to split (into), to part, to separate, to divide up, to classify, to sort out, to divide out, to share, to distribute, to deal out, to dish out, to distinguish, to discriminate, to differentiate (between), to break up (a fight), to mediate, to call a draw, to tie, to push one's way through (a crowd), to sell"
+        "meaning": "to divide (into), to split (into), to part, to separate, to divide up, to classify, to sort out, to divide out, to share, to distribute, to deal out, to dish out, to distinguish, to discriminate, to differentiate (between), to break up (a fight), to mediate, to call a draw, to tie, to push one's way through (a crowd), to sell |(vi) chia, phân chia, tách, phân loại, phân phát, phân biệt, hòa (trận đấu), rẽ đám đông, bán"
       }
     ],
     "radical": {
@@ -415,7 +415,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "刈",

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "promise, contract, approximately",
+    "meaning": "promise, contract, approximately |(vi) hứa hẹn, hợp đồng, khoảng chừng",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "約一年（やくいちねん）",
         "meaning": {
-          "english": "about one year"
+          "english": "about one year |(vi) khoảng một năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "約束する（やくそくする）",
         "meaning": {
-          "english": "promise [v.t.]"
+          "english": "promise [v.t.] |(vi) hứa, cam kết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "予約する（よやくする）",
         "meaning": {
-          "english": "reserve"
+          "english": "reserve |(vi) đặt trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "契約する（けいやくする）",
         "meaning": {
-          "english": "make a contract"
+          "english": "make a contract |(vi) ký hợp đồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "解約する（かいやくする）",
         "meaning": {
-          "english": "cancel a contract"
+          "english": "cancel a contract |(vi) hủy hợp đồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "婚約する（こんやくする）",
         "meaning": {
-          "english": "get engaged (marriage)"
+          "english": "get engaged (marriage) |(vi) đính hôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "要約する（ようやくする）",
         "meaning": {
-          "english": "summarize"
+          "english": "summarize |(vi) tóm tắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "節約する（せつやくする）",
         "meaning": {
-          "english": "save, conserve"
+          "english": "save, conserve |(vi) tiết kiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "先約（せんやく）",
         "meaning": {
-          "english": "previous engagement"
+          "english": "previous engagement |(vi) hẹn trước, ước hẹn trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_i.opus",
@@ -231,7 +231,7 @@
     "kanji": {
       "character": "約",
       "meaning": {
-        "english": "promise, contract, approximately"
+        "english": "promise, contract, approximately |(vi) hứa hẹn, hợp đồng, khoảng chừng"
       },
       "strokes": {
         "count": 9,
@@ -287,7 +287,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (sợi tơ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -308,7 +308,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "94",
     "strokeCount": 9,
-    "meaning": "promise, approximately, shrink",
+    "meaning": "promise, approximately, shrink |(vi) hứa hẹn, khoảng chừng, thu gọn |(hv) Ước",
     "kunyomi": [
       "つづ.まる",
       "つづ.める",
@@ -321,39 +321,39 @@
       {
         "example": "約",
         "reading": "ヤク",
-        "meaning": "approximately, about, promise, appointment, engagement, shortening, reduction, simplification, contraction (in phonetics)"
+        "meaning": "approximately, about, promise, appointment, engagement, shortening, reduction, simplification, contraction (in phonetics) |(vi) khoảng chừng, lời hứa, cuộc hẹn, rút gọn"
       },
       {
         "example": "約束",
         "reading": "ヤクソク",
-        "meaning": "promise, agreement, arrangement, one's word, contract, pact, appointment, engagement, date, convention, rule, destiny, fate"
+        "meaning": "promise, agreement, arrangement, one's word, contract, pact, appointment, engagement, date, convention, rule, destiny, fate |(vi) lời hứa, thỏa thuận, cuộc hẹn, quy tắc"
       },
       {
         "example": "締約",
         "reading": "テイヤク",
-        "meaning": "conclusion of a treaty"
+        "meaning": "conclusion of a treaty |(vi) ký kết hiệp ước"
       },
       {
         "example": "成約",
         "reading": "セイヤク",
-        "meaning": "conclusion of a contract"
+        "meaning": "conclusion of a contract |(vi) ký kết hợp đồng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "約まる",
         "reading": "つづまる",
-        "meaning": "to compress, to shrink"
+        "meaning": "to compress, to shrink |(vi) rút gọn, co lại"
       },
       {
         "example": "約める",
         "reading": "つづめる",
-        "meaning": "to abridge, to shorten, to economize"
+        "meaning": "to abridge, to shorten, to economize |(vi) rút ngắn, tiết kiệm"
       },
       {
         "example": "約やか",
         "reading": "つづまやか",
-        "meaning": "concise, brief, humble, frugal, modest, discrete"
+        "meaning": "concise, brief, humble, frugal, modest, discrete |(vi) ngắn gọn, khiêm tốn, giản dị"
       }
     ],
     "radical": {
@@ -361,7 +361,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (sợi tơ)"
     },
     "parts": [
       "丶",

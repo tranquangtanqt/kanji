@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "tsunoru",
-    "meaning": "raise, invite",
+    "meaning": "raise, invite |(vi) chiêu mộ, kêu gọi",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "募金（ぼきん）",
         "meaning": {
-          "english": "fund-raising"
+          "english": "fund-raising |(vi) quyên góp, gây quỹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "応募者（おうぼしゃ）",
         "meaning": {
-          "english": "applicant"
+          "english": "applicant |(vi) người ứng tuyển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "募集する（ぼしゅうする）",
         "meaning": {
-          "english": "recruit, accept applications"
+          "english": "recruit, accept applications |(vi) tuyển mộ, tiếp nhận đơn ứng tuyển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "応募する（おうぼする）",
         "meaning": {
-          "english": "apply (e.g. position)"
+          "english": "apply (e.g. position) |(vi) ứng tuyển (vị trí)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "公募する（こうぼする）",
         "meaning": {
-          "english": "advertise, make public appeal"
+          "english": "advertise, make public appeal |(vi) quảng cáo, kêu gọi công khai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "募る（つのる）",
         "meaning": {
-          "english": "invite, solicit"
+          "english": "invite, solicit |(vi) kêu gọi, chiêu mộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno(ru)_06_f.opus",
@@ -175,7 +175,7 @@
     "kanji": {
       "character": "募",
       "meaning": {
-        "english": "raise, invite"
+        "english": "raise, invite |(vi) chiêu mộ, kêu gọi"
       },
       "strokes": {
         "count": 12,
@@ -237,7 +237,7 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power |(vi) Lực (sức mạnh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -258,7 +258,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "809",
     "strokeCount": 12,
-    "meaning": "recruit, campaign, gather (contributions), enlist, grow violent",
+    "meaning": "recruit, campaign, gather (contributions), enlist, grow violent |(vi) chiêu mộ, phát động, quyên góp, tuyển mộ, trở nên dữ dội |(hv) Mộ",
     "kunyomi": [
       "つの.る"
     ],
@@ -269,34 +269,34 @@
       {
         "example": "募集",
         "reading": "ボシュウ",
-        "meaning": "recruitment, invitation, selection, advertisement, taking applications, raising (funds, donations, etc.), collection, subscription, solicitation, flotation (of shares, loans, etc.)"
+        "meaning": "recruitment, invitation, selection, advertisement, taking applications, raising (funds, donations, etc.), collection, subscription, solicitation, flotation (of shares, loans, etc.) |(vi) tuyển mộ, mời gọi, tuyển chọn, quảng cáo, tiếp nhận đơn, quyên góp (quỹ, tiền), thu thập, đăng ký, kêu gọi, phát hành (cổ phiếu, khoản vay)"
       },
       {
         "example": "募金",
         "reading": "ボキン",
-        "meaning": "fundraising, collection of contributions, donating, donation, contribution"
+        "meaning": "fundraising, collection of contributions, donating, donation, contribution |(vi) quyên góp, gây quỹ, ủng hộ, đóng góp"
       },
       {
         "example": "公募",
         "reading": "コウボ",
-        "meaning": "public appeal (e.g. for contributions), public advertisement (of a post), open recruitment, public offering (of securities)"
+        "meaning": "public appeal (e.g. for contributions), public advertisement (of a post), open recruitment, public offering (of securities) |(vi) kêu gọi công khai (quyên góp), tuyển dụng công khai, chào bán công khai (chứng khoán)"
       },
       {
         "example": "急募",
         "reading": "キュウボ",
-        "meaning": "hurried recruitment, urgent recruitment"
+        "meaning": "hurried recruitment, urgent recruitment |(vi) tuyển gấp, tuyển dụng khẩn cấp"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "募る",
         "reading": "つのる",
-        "meaning": "to become stronger, to grow in intensity, to grow violent, to become worse, to invite contributions, etc., to solicit help, participation, etc., to recruit (e.g. soldiers)"
+        "meaning": "to become stronger, to grow in intensity, to grow violent, to become worse, to invite contributions, etc., to solicit help, participation, etc., to recruit (e.g. soldiers) |(vi) trở nên mạnh hơn, tăng cường độ, trở nên dữ dội, trở nên tồi tệ hơn, kêu gọi đóng góp, kêu gọi giúp đỡ, tham gia, tuyển mộ (binh lính)"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": "power, force |(vi) Lực (sức mạnh)"
     },
     "parts": [
       "力",

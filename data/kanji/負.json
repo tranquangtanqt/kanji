@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "ma, makeru, makasu, make, o, ou",
-    "meaning": "bear, lose, defeat, owe",
+    "meaning": "bear, lose, defeat, owe |(vi) gánh vác, thua, thất bại, mắc nợ",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "負債（ふさい）",
         "meaning": {
-          "english": "debt, liabilities"
+          "english": "debt, liabilities |(vi) nợ, khoản nợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(tan)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "負数（ふすう）",
         "meaning": {
-          "english": "negative number"
+          "english": "negative number |(vi) số âm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(tan)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "負担する（ふたんする）",
         "meaning": {
-          "english": "bear a burden"
+          "english": "bear a burden |(vi) gánh vác, chịu trách nhiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(tan)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "負傷する（ふしょうする）",
         "meaning": {
-          "english": "get injured, get hurt"
+          "english": "get injured, get hurt |(vi) bị thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(tan)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "勝負する（しょうぶする）",
         "meaning": {
-          "english": "play, have a match"
+          "english": "play, have a match |(vi) thi đấu, tranh tài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(tan)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "自負する（じふする）",
         "meaning": {
-          "english": "flatter oneself, feel proud"
+          "english": "flatter oneself, feel proud |(vi) tự hào, tự phụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(tan)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "負ける（まける）",
         "meaning": {
-          "english": "lose, be defeated [v.i.]"
+          "english": "lose, be defeated [v.i.] |(vi) thua, thất bại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(tan)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "負け犬（まけいぬ）",
         "meaning": {
-          "english": "underdog, loser"
+          "english": "underdog, loser |(vi) kẻ thua cuộc, chó thua trận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(tan)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "負かす（まかす）",
         "meaning": {
-          "english": "defeat [v.t.]"
+          "english": "defeat [v.t.] |(vi) đánh bại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(tan)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "負う（おう）",
         "meaning": {
-          "english": "carry, bear, be in debt"
+          "english": "carry, bear, be in debt |(vi) mang, gánh, cõng, mắc nợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(tan)_06_j.opus",
@@ -252,7 +252,7 @@
     "kanji": {
       "character": "負",
       "meaning": {
-        "english": "bear, lose, defeat, owe"
+        "english": "bear, lose, defeat, owe |(vi) gánh vác, thua, thất bại, mắc nợ"
       },
       "strokes": {
         "count": 9,
@@ -308,7 +308,7 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (vỏ sò, của cải, tài sản)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -329,7 +329,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "443",
     "strokeCount": 9,
-    "meaning": "defeat, negative, -, minus, bear, owe, assume a responsibility",
+    "meaning": "defeat, negative, -, minus, bear, owe, assume a responsibility |(vi) thất bại, âm, dấu trừ, gánh vác, mắc nợ, đảm nhận trách nhiệm |(hv) Phụ",
     "kunyomi": [
       "ま.ける",
       "ま.かす",
@@ -342,54 +342,54 @@
       {
         "example": "負",
         "reading": "フ",
-        "meaning": "negative, minus"
+        "meaning": "negative, minus |(vi) âm, dấu trừ"
       },
       {
         "example": "負荷",
         "reading": "フカ",
-        "meaning": "burden, load (electrical, CPU, etc.)"
+        "meaning": "burden, load (electrical, CPU, etc.) |(vi) gánh nặng, tải (điện, CPU...)"
       },
       {
         "example": "正負",
         "reading": "セイフ",
-        "meaning": "positive and negative (numbers), plus and minus (signs), positive and negative (poles)"
+        "meaning": "positive and negative (numbers), plus and minus (signs), positive and negative (poles) |(vi) dương và âm, cộng và trừ"
       },
       {
         "example": "非負",
         "reading": "ヒフ",
-        "meaning": "non-negative"
+        "meaning": "non-negative |(vi) không âm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "負ける",
         "reading": "まける",
-        "meaning": "to lose, to be defeated, to succumb, to give in, to surrender, to yield, to be inferior to, to break out in a rash due to (e.g. lacquer, shaving, etc.), to reduce the price, to give a discount, to throw in (something extra) for free"
+        "meaning": "to lose, to be defeated, to succumb, to give in, to surrender, to yield, to be inferior to, to break out in a rash due to (e.g. lacquer, shaving, etc.), to reduce the price, to give a discount, to throw in (something extra) for free |(vi) thua, thất bại, chịu thua, nhượng bộ, kém hơn, giảm giá, tặng thêm"
       },
       {
         "example": "負けるが勝ち",
         "reading": "まけるがかち",
-        "meaning": "he that fights and runs away may live to fight another day, sometimes you have to lose to win, losing is winning"
+        "meaning": "he that fights and runs away may live to fight another day, sometimes you have to lose to win, losing is winning |(vi) chịu thua để thắng, lùi một bước để tiến xa hơn"
       },
       {
         "example": "負かす",
         "reading": "まかす",
-        "meaning": "to defeat"
+        "meaning": "to defeat |(vi) đánh bại, làm cho thua"
       },
       {
         "example": "負う",
         "reading": "おう",
-        "meaning": "to carry on one's back, to bear, to shoulder, to take (responsibility), to assume, to accept, to bear (the blame, costs, etc.), to have (a duty, obligation, etc.), to become responsible for, to be burdened with (work, debt, etc.), to suffer (an injury), to sustain (a wound), to receive, to incur (a loss, damage, etc.), to owe (a debt of gratitude to), to be indebted to, to have (something) behind one, to be backed by"
+        "meaning": "to carry on one's back, to bear, to shoulder, to take (responsibility), to assume, to accept, to bear (the blame, costs, etc.), to have (a duty, obligation, etc.), to become responsible for, to be burdened with (work, debt, etc.), to suffer (an injury), to sustain (a wound), to receive, to incur (a loss, damage, etc.), to owe (a debt of gratitude to), to be indebted to, to have (something) behind one, to be backed by |(vi) cõng, mang, gánh vác, chịu trách nhiệm, mắc nợ, bị thương, chịu ơn"
       },
       {
         "example": "負うた子に教えられて浅瀬を渡る",
         "reading": "おうたこにおしえられてあさせをわたる",
-        "meaning": "some things can be learned from the young, a fool may give a wise man counsel, to be led across the shallows by the child on one's shoulders"
+        "meaning": "some things can be learned from the young, a fool may give a wise man counsel, to be led across the shallows by the child on one's shoulders |(vi) học được điều hay từ trẻ nhỏ, được đứa trẻ trên vai chỉ đường qua chỗ cạn"
       }
     ],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò, của cải)"
     },
     "parts": [
       "ハ",

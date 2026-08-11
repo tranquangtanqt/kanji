@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "ima, ma, imada, mada",
-    "meaning": "not yet",
+    "meaning": "not yet |(vi) chưa",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "未来（みらい）",
         "meaning": {
-          "english": "future [n.]"
+          "english": "future [n.] |(vi) tương lai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mi(rai)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "未完成（みかんせい）",
         "meaning": {
-          "english": "unfinished"
+          "english": "unfinished |(vi) chưa hoàn thành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mi(rai)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "未払い（みはらい）",
         "meaning": {
-          "english": "unpaid"
+          "english": "unpaid |(vi) chưa thanh toán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mi(rai)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "未婚（みこん）",
         "meaning": {
-          "english": "unmarried"
+          "english": "unmarried |(vi) chưa kết hôn, độc thân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mi(rai)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "未成年（みせいねん）",
         "meaning": {
-          "english": "minority (as in age) [n.]"
+          "english": "minority (as in age) [n.] |(vi) vị thành niên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mi(rai)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "未熟な（みじゅくな）",
         "meaning": {
-          "english": "inexperienced, immature"
+          "english": "inexperienced, immature |(vi) non nớt, thiếu kinh nghiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mi(rai)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "前代未聞（ぜんだいみもん）",
         "meaning": {
-          "english": "unheard-of"
+          "english": "unheard-of |(vi) chưa từng nghe thấy, chưa có tiền lệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mi(rai)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "未だ（いまだ/まだ）",
         "meaning": {
-          "english": "as yet"
+          "english": "as yet |(vi) vẫn chưa, còn chưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mi(rai)_06_h.opus",
@@ -243,7 +243,7 @@
     "kanji": {
       "character": "未",
       "meaning": {
-        "english": "not yet"
+        "english": "not yet |(vi) chưa"
       },
       "strokes": {
         "count": 5,
@@ -291,7 +291,7 @@
         "romaji": "ki"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ki0.svg",
@@ -312,7 +312,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "650",
     "strokeCount": 5,
-    "meaning": "un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac",
+    "meaning": "un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac |(vi) chưa, cho đến nay, vẫn, hiện còn, chi Mùi (dê), giờ Mùi (1-3 giờ chiều), chi thứ tám trong 12 con giáp |(hv) Vị",
     "kunyomi": [
       "いま.だ",
       "ま.だ",
@@ -326,84 +326,84 @@
       {
         "example": "未",
         "reading": "ミ",
-        "meaning": "not yet, un-"
+        "meaning": "not yet, un- |(vi) chưa, chưa..."
       },
       {
         "example": "未解決",
         "reading": "ミカイケツ",
-        "meaning": "unsolved, unresolved, unsettled, pending, outstanding"
+        "meaning": "unsolved, unresolved, unsettled, pending, outstanding |(vi) chưa giải quyết, chưa xử lý, còn tồn đọng"
       },
       {
         "example": "過現未",
         "reading": "カゲンミ",
-        "meaning": "past, present and future, three states of existence"
+        "meaning": "past, present and future, three states of existence |(vi) quá khứ, hiện tại và tương lai, ba trạng thái tồn tại"
       },
       {
         "example": "未亡人",
         "reading": "ミボウジン",
-        "meaning": "widow"
+        "meaning": "widow |(vi) quả phụ, góa phụ"
       },
       {
         "example": "未央柳",
         "reading": "ビヨウヤナギ",
-        "meaning": "Chinese hypericum (Hypericum monogynum)"
+        "meaning": "Chinese hypericum (Hypericum monogynum) |(vi) cây kim ti đào (Hypericum monogynum)"
       },
       {
         "example": "丁未",
         "reading": "ヒノトヒツジ",
-        "meaning": "Fire Sheep (44th term of the sexagenary cycle, e.g. 1907, 1967, 2027)"
+        "meaning": "Fire Sheep (44th term of the sexagenary cycle, e.g. 1907, 1967, 2027) |(vi) Đinh Mùi (Hỏa Dương, năm thứ 44 trong lục thập hoa giáp, ví dụ 1907, 1967, 2027)"
       },
       {
         "example": "癸未",
         "reading": "ミズノトヒツジ",
-        "meaning": "Water Sheep (20th term of the sexagenary cycle, e.g. 1943, 2003, 2063)"
+        "meaning": "Water Sheep (20th term of the sexagenary cycle, e.g. 1943, 2003, 2063) |(vi) Quý Mùi (Thủy Dương, năm thứ 20 trong lục thập hoa giáp, ví dụ 1943, 2003, 2063)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "未だ",
         "reading": "まだ",
-        "meaning": "still, as yet, only, (not) yet, more, (more) still, at least, comparatively, relatively, unfinished, incomplete, not yet done"
+        "meaning": "still, as yet, only, (not) yet, more, (more) still, at least, comparatively, relatively, unfinished, incomplete, not yet done |(vi) vẫn, còn, chỉ mới, chưa, hơn nữa, ít nhất, tương đối, chưa hoàn thành, chưa xong"
       },
       {
         "example": "未だかつて",
         "reading": "いまだかつて",
-        "meaning": "never (before)"
+        "meaning": "never (before) |(vi) chưa từng (trước đây)"
       },
       {
         "example": "未だ",
         "reading": "まだ",
-        "meaning": "still, as yet, only, (not) yet, more, (more) still, at least, comparatively, relatively, unfinished, incomplete, not yet done"
+        "meaning": "still, as yet, only, (not) yet, more, (more) still, at least, comparatively, relatively, unfinished, incomplete, not yet done |(vi) vẫn, còn, chỉ mới, chưa, hơn nữa, ít nhất, tương đối, chưa hoàn thành, chưa xong"
       },
       {
         "example": "未だしも",
         "reading": "まだしも",
-        "meaning": "rather, better"
+        "meaning": "rather, better |(vi) còn hơn, tốt hơn"
       },
       {
         "example": "未",
         "reading": "ひつじ",
-        "meaning": "the Sheep (eighth sign of the Chinese zodiac), the Ram, the Goat, hour of the Sheep (around 2pm, 1-3pm, or 2-4pm), south-southwest, sixth month of the lunar calendar"
+        "meaning": "the Sheep (eighth sign of the Chinese zodiac), the Ram, the Goat, hour of the Sheep (around 2pm, 1-3pm, or 2-4pm), south-southwest, sixth month of the lunar calendar |(vi) con Dê (chi thứ tám trong 12 con giáp), giờ Mùi (khoảng 2 giờ chiều, 1-3 giờ hoặc 2-4 giờ chiều), hướng nam tây nam, tháng sáu âm lịch"
       },
       {
         "example": "未草",
         "reading": "ひつじぐさ",
-        "meaning": "pygmy waterlily (Nymphaea tetragona)"
+        "meaning": "pygmy waterlily (Nymphaea tetragona) |(vi) hoa súng lùn (Nymphaea tetragona)"
       },
       {
         "example": "辛未",
         "reading": "かのとひつじ",
-        "meaning": "Metal Sheep (8th term of the sexagenary cycle, e.g. 1931, 1991, 2051)"
+        "meaning": "Metal Sheep (8th term of the sexagenary cycle, e.g. 1931, 1991, 2051) |(vi) Tân Mùi (Kim Dương, năm thứ 8 trong lục thập hoa giáp, ví dụ 1931, 1991, 2051)"
       },
       {
         "example": "乙未",
         "reading": "きのとひつじ",
-        "meaning": "Wood Sheep (32nd term of the sexagenary cycle, e.g. 1955, 2015, 2075)"
+        "meaning": "Wood Sheep (32nd term of the sexagenary cycle, e.g. 1955, 2015, 2075) |(vi) Ất Mùi (Mộc Dương, năm thứ 32 trong lục thập hoa giáp, ví dụ 1955, 2015, 2075)"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây)"
     },
     "parts": [
       "ハ",

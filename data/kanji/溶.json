@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "to, tokeru, tokasu, toku",
-    "meaning": "dissolve, melt",
+    "meaning": "dissolve, melt |(vi) hòa tan, nóng chảy",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "溶液（ようえき）",
         "meaning": {
-          "english": "solution"
+          "english": "solution |(vi) dung dịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-to(keru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "溶岩（ようがん）",
         "meaning": {
-          "english": "lava"
+          "english": "lava |(vi) dung nham"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-to(keru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "溶鉱炉（ようこうろ）",
         "meaning": {
-          "english": "blast furnace"
+          "english": "blast furnace |(vi) lò cao, lò luyện kim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-to(keru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "水溶性（すいようせい）",
         "meaning": {
-          "english": "water-soluble"
+          "english": "water-soluble |(vi) tan trong nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-to(keru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "溶接する（ようせつする）",
         "meaning": {
-          "english": "weld"
+          "english": "weld |(vi) hàn (kim loại)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-to(keru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "溶解する（ようかいする）",
         "meaning": {
-          "english": "melt, dissolve, liquefy"
+          "english": "melt, dissolve, liquefy |(vi) hòa tan, tan chảy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-to(keru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "溶かす（とかす）",
         "meaning": {
-          "english": "melt, dissolve [v.t.]"
+          "english": "melt, dissolve [v.t.] |(vi) làm tan, làm chảy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-to(keru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "溶ける（とける）",
         "meaning": {
-          "english": "melt, thaw, fuse, dissolve [v.i.]"
+          "english": "melt, thaw, fuse, dissolve [v.i.] |(vi) tan chảy, tan ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-to(keru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "溶く（とく）",
         "meaning": {
-          "english": "dissolve [v.t.]"
+          "english": "dissolve [v.t.] |(vi) hòa tan, khuấy tan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-to(keru)_06_i.opus",
@@ -213,7 +213,7 @@
     "kanji": {
       "character": "溶",
       "meaning": {
-        "english": "dissolve, melt"
+        "english": "dissolve, melt |(vi) hòa tan, nóng chảy"
       },
       "strokes": {
         "count": 13,
@@ -277,7 +277,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -298,7 +298,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1364",
     "strokeCount": 13,
-    "meaning": "melt, dissolve, thaw",
+    "meaning": "melt, dissolve, thaw |(vi) tan chảy, hòa tan |(hv) Dung",
     "kunyomi": [
       "と.ける",
       "と.かす",
@@ -311,39 +311,39 @@
       {
         "example": "溶岩",
         "reading": "ヨウガン",
-        "meaning": "lava"
+        "meaning": "lava |(vi) dung nham"
       },
       {
         "example": "溶液",
         "reading": "ヨウエキ",
-        "meaning": "solution (liquid)"
+        "meaning": "solution (liquid) |(vi) dung dịch"
       },
       {
         "example": "溶溶",
         "reading": "ヨウヨウ",
-        "meaning": "vast, overflowing with water, spacious"
+        "meaning": "vast, overflowing with water, spacious |(vi) mênh mông nước, bát ngát"
       },
       {
         "example": "可溶",
         "reading": "カヨウ",
-        "meaning": "soluble, solubilizing, solubilising"
+        "meaning": "soluble, solubilizing, solubilising |(vi) có thể hòa tan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "溶ける",
         "reading": "とける",
-        "meaning": "to melt, to thaw, to fuse, to dissolve"
+        "meaning": "to melt, to thaw, to fuse, to dissolve |(vi) tan chảy, tan ra"
       },
       {
         "example": "溶かす",
         "reading": "とかす",
-        "meaning": "to dissolve, to melt"
+        "meaning": "to dissolve, to melt |(vi) làm tan, hòa tan"
       },
       {
         "example": "溶く",
         "reading": "とく",
-        "meaning": "to dissolve (paint), to scramble (eggs), to melt (metal, etc.), to mix (water with flour, etc.)"
+        "meaning": "to dissolve (paint), to scramble (eggs), to melt (metal, etc.), to mix (water with flour, etc.) |(vi) hòa tan, khuấy (bột), tan chảy (kim loại)"
       }
     ],
     "radical": {
@@ -352,7 +352,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "ハ",

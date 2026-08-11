@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "mail",
+    "meaning": "mail |(vi) thư từ, bưu chính",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "郵便（ゆうびん）",
         "meaning": {
-          "english": "mail, postal service"
+          "english": "mail, postal service |(vi) bưu chính, dịch vụ thư tín"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu(bin)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "郵便物（ゆうびんぶつ）",
         "meaning": {
-          "english": "postal items"
+          "english": "postal items |(vi) bưu phẩm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu(bin)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "郵便局（ゆうびんきょく）",
         "meaning": {
-          "english": "post office"
+          "english": "post office |(vi) bưu điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu(bin)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "郵送料（ゆうそうりょう）",
         "meaning": {
-          "english": "postage, freight costs"
+          "english": "postage, freight costs |(vi) cước phí bưu điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu(bin)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "郵便屋さん（ゆうびんやさん）",
         "meaning": {
-          "english": "postman"
+          "english": "postman |(vi) người đưa thư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu(bin)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "郵送する（ゆうそうする）",
         "meaning": {
-          "english": "mail, post, send"
+          "english": "mail, post, send |(vi) gửi bưu điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu(bin)_06_f.opus",
@@ -183,7 +183,7 @@
     "kanji": {
       "character": "郵",
       "meaning": {
-        "english": "mail"
+        "english": "mail |(vi) thư từ, bưu chính"
       },
       "strokes": {
         "count": 11,
@@ -243,7 +243,7 @@
         "romaji": "oozato"
       },
       "meaning": {
-        "english": "village, country, city"
+        "english": "village, country, city |(vi) Ấp (thôn ấp, đô thị)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/oozato0.svg",
@@ -264,7 +264,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "917",
     "strokeCount": 11,
-    "meaning": "mail, stagecoach stop",
+    "meaning": "mail, stagecoach stop |(vi) bưu chính, trạm dịch |(hv) Bưu",
     "kunyomi": [],
     "onyomi": [
       "ユウ"
@@ -273,22 +273,22 @@
       {
         "example": "郵政省",
         "reading": "ユウセイショウ",
-        "meaning": "(former) Ministry of Posts and Telecommunications (now Ministry of Internal Affairs and Communications)"
+        "meaning": "(former) Ministry of Posts and Telecommunications (now Ministry of Internal Affairs and Communications) |(vi) Bộ Bưu chính Viễn thông (cũ)"
       },
       {
         "example": "郵政",
         "reading": "ユウセイ",
-        "meaning": "postal system"
+        "meaning": "postal system |(vi) hệ thống bưu chính"
       },
       {
         "example": "電郵",
         "reading": "デンユウ",
-        "meaning": "(an item of) electronic mail (e-mail), e-mail message, electronic mail (e-mail) service, electronic mail (e-mail) system"
+        "meaning": "(an item of) electronic mail (e-mail), e-mail message, electronic mail (e-mail) service, electronic mail (e-mail) system |(vi) thư điện tử, email"
       },
       {
         "example": "携帯電郵",
         "reading": "ケイタイデンユウ",
-        "meaning": "email from a cell phone or mobile phone"
+        "meaning": "email from a cell phone or mobile phone |(vi) email từ điện thoại di động"
       }
     ],
     "kunyomiExamples": [],
@@ -297,7 +297,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "town (阝 right)"
+      "meaning": "town (阝 right) |(vi) Ấp (thôn xóm)"
     },
     "parts": [
       "ノ",

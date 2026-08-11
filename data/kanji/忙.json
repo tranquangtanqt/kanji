@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "isoga, isogashii",
-    "meaning": "busy",
+    "meaning": "busy |(vi) bận rộn",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "多忙な（たぼうな）",
         "meaning": {
-          "english": "busy"
+          "english": "busy |(vi) bận rộn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isoga(shii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "忙殺される（ぼうさつされる）",
         "meaning": {
-          "english": "be worked to death"
+          "english": "be worked to death |(vi) bận tối mắt tối mũi, kiệt sức vì công việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isoga(shii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "忙しい（いそがしい）",
         "meaning": {
-          "english": "busy"
+          "english": "busy |(vi) bận, bận rộn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isoga(shii)_06_c.opus",
@@ -167,7 +167,7 @@
     "kanji": {
       "character": "忙",
       "meaning": {
-        "english": "busy"
+        "english": "busy |(vi) bận rộn"
       },
       "strokes": {
         "count": 6,
@@ -217,7 +217,7 @@
         "romaji": "risshinben"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (tim, lòng, tâm trí)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/risshinben0.svg",
@@ -238,7 +238,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1475",
     "strokeCount": 6,
-    "meaning": "busy, occupied, restless",
+    "meaning": "busy, occupied, restless |(vi) bận rộn, bận bịu, bồn chồn |(hv) Mang",
     "kunyomi": [
       "いそが.しい",
       "せわ.しい",
@@ -253,29 +253,29 @@
       {
         "example": "忙殺",
         "reading": "ボウサツ",
-        "meaning": "being extremely busy, being swamped with work"
+        "meaning": "being extremely busy, being swamped with work |(vi) bận đến mức ngập đầu, bận rộn tối mắt tối mũi"
       },
       {
         "example": "忙殺される",
         "reading": "ボウサツサレル",
-        "meaning": "to be very busily occupied, to be swamped with work"
+        "meaning": "to be very busily occupied, to be swamped with work |(vi) bị công việc vùi dập, bận không dứt ra được"
       },
       {
         "example": "繁忙",
         "reading": "ハンボウ",
-        "meaning": "busy, high-stress, hectic, pressed (with business)"
+        "meaning": "busy, high-stress, hectic, pressed (with business) |(vi) bận rộn, tất bật, căng thẳng công việc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "忙しい",
         "reading": "いそがしい",
-        "meaning": "busy, occupied, hectic, restless, hurried, fidgety"
+        "meaning": "busy, occupied, hectic, restless, hurried, fidgety |(vi) bận, bận rộn, tất bật, vội vã"
       },
       {
         "example": "忙しい",
         "reading": "せわしい",
-        "meaning": "busy, hectic, frantic, restless, hurried, fidgety"
+        "meaning": "busy, hectic, frantic, restless, hurried, fidgety |(vi) bận rộn, hối hả, cuống quýt"
       }
     ],
     "radical": {
@@ -284,7 +284,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (tim, trái tim, lòng)"
     },
     "parts": [
       "亠",

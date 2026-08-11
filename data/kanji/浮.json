@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "u, uku, ukareru, ukabu, ukaberu",
-    "meaning": "float, rise to the surface",
+    "meaning": "float, rise to the surface |(vi) nổi, trôi nổi",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "浮力（ふりょく）",
         "meaning": {
-          "english": "buoyancy, floating power"
+          "english": "buoyancy, floating power |(vi) lực nổi, sức đẩy nổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(kabu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "浮浪者（ふろうしゃ）",
         "meaning": {
-          "english": "vagrant, homeless"
+          "english": "vagrant, homeless |(vi) kẻ lang thang, người vô gia cư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(kabu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "浮遊する（ふゆうする）",
         "meaning": {
-          "english": "float, wander"
+          "english": "float, wander |(vi) trôi nổi, lơ lửng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(kabu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "浮上する（ふじょうする）",
         "meaning": {
-          "english": "surface, rise to the surface"
+          "english": "surface, rise to the surface |(vi) nổi lên, trồi lên mặt nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(kabu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "浮かべる（うかべる）",
         "meaning": {
-          "english": "float, express, look [v.t.]"
+          "english": "float, express, look [v.t.] |(vi) làm nổi, để lộ (nét mặt)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(kabu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "浮かぶ（うかぶ）",
         "meaning": {
-          "english": "float, rise to surface [v.i.]"
+          "english": "float, rise to surface [v.i.] |(vi) nổi lên, trôi nổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(kabu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "浮く（うく）",
         "meaning": {
-          "english": "float [v.i.]"
+          "english": "float [v.i.] |(vi) nổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(kabu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "浮き世（うきよ）",
         "meaning": {
-          "english": "fleeting life, this transient world"
+          "english": "fleeting life, this transient world |(vi) cõi đời phù du, thế gian vô thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(kabu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "浮世絵（うきよえ）",
         "meaning": {
-          "english": "ukiyoe"
+          "english": "ukiyoe |(vi) tranh phù thế (ukiyo-e)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(kabu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "浮かれる（うかれる）",
         "meaning": {
-          "english": "make merry, be festive"
+          "english": "make merry, be festive |(vi) vui vẻ, phấn khích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(kabu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "*浮気（うわき）",
         "meaning": {
-          "english": "illicit love affair"
+          "english": "illicit love affair |(vi) ngoại tình, lăng nhăng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(kabu)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "*浮つく（うわつく）",
         "meaning": {
-          "english": "be flippant, frivolous [v.i.]"
+          "english": "be flippant, frivolous [v.i.] |(vi) hời hợt, nông nổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(kabu)_06_l.opus",
@@ -252,7 +252,7 @@
     "kanji": {
       "character": "浮",
       "meaning": {
-        "english": "float, rise to the surface"
+        "english": "float, rise to the surface |(vi) nổi, trôi nổi"
       },
       "strokes": {
         "count": 10,
@@ -310,7 +310,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -331,7 +331,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "776",
     "strokeCount": 10,
-    "meaning": "floating, float, rise to surface",
+    "meaning": "floating, float, rise to surface |(vi) nổi, trôi nổi, trồi lên mặt nước |(hv) Phù",
     "kunyomi": [
       "う.く",
       "う.かれる",
@@ -345,44 +345,44 @@
       {
         "example": "浮沈",
         "reading": "フチン",
-        "meaning": "floating and sinking, rise and fall, ebb and flow, ups and downs"
+        "meaning": "floating and sinking, rise and fall, ebb and flow, ups and downs |(vi) chìm nổi, thăng trầm"
       },
       {
         "example": "浮上",
         "reading": "フジョウ",
-        "meaning": "surfacing, rising to the surface, emerging, leaping into prominence, rising (of rank)"
+        "meaning": "surfacing, rising to the surface, emerging, leaping into prominence, rising (of rank) |(vi) nổi lên, trồi lên, thăng tiến"
       },
       {
         "example": "軽浮",
         "reading": "ケイフ",
-        "meaning": "fickle, frivolous"
+        "meaning": "fickle, frivolous |(vi) nông nổi, hời hợt"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "浮く",
         "reading": "うく",
-        "meaning": "to float, to become merry, to be cheerful, to become loose, to become unsteady, to feel out of it, to be cut off (e.g. from those around you), to feel out of place, to be frivolous, to be uncertain, to have (time, money, etc.) left over, to be saved (e.g. money), to have no basis, to be unreliable"
+        "meaning": "to float, to become merry, to be cheerful, to become loose, to become unsteady, to feel out of it, to be cut off (e.g. from those around you), to feel out of place, to be frivolous, to be uncertain, to have (time, money, etc.) left over, to be saved (e.g. money), to have no basis, to be unreliable |(vi) nổi, phấn khởi, lỏng lẻo, lạc lõng, dư ra (tiền, thời gian)"
       },
       {
         "example": "浮かれる",
         "reading": "うかれる",
-        "meaning": "to make merry, to be festive"
+        "meaning": "to make merry, to be festive |(vi) vui vẻ, phấn khích"
       },
       {
         "example": "浮かぶ",
         "reading": "うかぶ",
-        "meaning": "to float, to be suspended, to rise to the surface, to appear, to emerge, to show up, to loom (up), to come to mind, to have inspiration"
+        "meaning": "to float, to be suspended, to rise to the surface, to appear, to emerge, to show up, to loom (up), to come to mind, to have inspiration |(vi) nổi lên, hiện ra, nảy ra (ý tưởng)"
       },
       {
         "example": "浮かぶ瀬",
         "reading": "うかぶせ",
-        "meaning": "chance, opportunity, lucky break"
+        "meaning": "chance, opportunity, lucky break |(vi) cơ hội, vận may"
       },
       {
         "example": "浮かべる",
         "reading": "うかべる",
-        "meaning": "to float, to set afloat, to launch, to show on one's face (smile, sadness, etc.), to recall, to call to mind, to imagine, to think of"
+        "meaning": "to float, to set afloat, to launch, to show on one's face (smile, sadness, etc.), to recall, to call to mind, to imagine, to think of |(vi) thả nổi, để lộ (nét mặt), hồi tưởng"
       }
     ],
     "radical": {
@@ -391,7 +391,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "子",

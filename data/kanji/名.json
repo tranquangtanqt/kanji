@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "na",
-    "meaning": "name",
+    "meaning": "name |(vi) tên, danh",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "氏名（しめい）",
         "meaning": {
-          "english": "full name"
+          "english": "full name |(vi) họ tên đầy đủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/na(mae)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "題名（だいめい）",
         "meaning": {
-          "english": "title"
+          "english": "title |(vi) tiêu đề"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/na(mae)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "一名（いちめい）",
         "meaning": {
-          "english": "one person"
+          "english": "one person |(vi) một người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/na(mae)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "有名な（ゆうめいな）",
         "meaning": {
-          "english": "famous"
+          "english": "famous |(vi) nổi tiếng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/na(mae)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "名物（めいぶつ）",
         "meaning": {
-          "english": "local speciality"
+          "english": "local speciality |(vi) đặc sản địa phương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/na(mae)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "名曲（めいきょく）",
         "meaning": {
-          "english": "great music"
+          "english": "great music |(vi) bản nhạc nổi tiếng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/na(mae)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "名刺（めいし）",
         "meaning": {
-          "english": "business card"
+          "english": "business card |(vi) danh thiếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/na(mae)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "名誉な（めいよな）",
         "meaning": {
-          "english": "honorable"
+          "english": "honorable |(vi) vinh dự, danh dự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/na(mae)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "本名（ほんみょう）",
         "meaning": {
-          "english": "real name"
+          "english": "real name |(vi) tên thật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/na(mae)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "名字（みょうじ）",
         "meaning": {
-          "english": "family name"
+          "english": "family name |(vi) họ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/na(mae)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "名前（なまえ）",
         "meaning": {
-          "english": "name"
+          "english": "name |(vi) tên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/na(mae)_06_k.opus",
@@ -280,7 +280,7 @@
     "kanji": {
       "character": "名",
       "meaning": {
-        "english": "name"
+        "english": "name |(vi) tên, danh"
       },
       "strokes": {
         "count": 6,
@@ -330,7 +330,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -351,7 +351,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "177",
     "strokeCount": 6,
-    "meaning": "name, noted, distinguished, reputation",
+    "meaning": "name, noted, distinguished, reputation |(vi) tên, nổi tiếng, kiệt xuất, danh tiếng |(hv) Danh",
     "kunyomi": [
       "な",
       "-な"
@@ -364,69 +364,69 @@
       {
         "example": "名",
         "reading": "メイ",
-        "meaning": "counter for people (usu. seating, reservations and such), first name, famous, great, name, noun"
+        "meaning": "counter for people (usu. seating, reservations and such), first name, famous, great, name, noun |(vi) lượng từ đếm người (ghế ngồi, đặt chỗ...), tên gọi, nổi tiếng, vĩ đại, tên, danh từ"
       },
       {
         "example": "名画",
         "reading": "メイガ",
-        "meaning": "famous picture, masterpiece (painting), excellent film, film classic"
+        "meaning": "famous picture, masterpiece (painting), excellent film, film classic |(vi) bức tranh nổi tiếng, kiệt tác (hội họa), bộ phim xuất sắc, phim kinh điển"
       },
       {
         "example": "同名",
         "reading": "ドウメイ",
-        "meaning": "same name, homonym"
+        "meaning": "same name, homonym |(vi) cùng tên, trùng tên"
       },
       {
         "example": "芸名",
         "reading": "ゲイメイ",
-        "meaning": "stage name"
+        "meaning": "stage name |(vi) nghệ danh"
       },
       {
         "example": "名目",
         "reading": "メイモク",
-        "meaning": "name, title, appellation, (something) nominal, (under the) pretext (of), pretense"
+        "meaning": "name, title, appellation, (something) nominal, (under the) pretext (of), pretense |(vi) danh nghĩa, danh xưng, (chỉ là) trên danh nghĩa, (lấy) cớ (là), sự giả vờ"
       },
       {
         "example": "苗字",
         "reading": "ミョウジ",
-        "meaning": "surname, family name, last name"
+        "meaning": "surname, family name, last name |(vi) họ, tên họ"
       },
       {
         "example": "仮名",
         "reading": "カメイ",
-        "meaning": "alias, pseudonym, pen name, nom de plume"
+        "meaning": "alias, pseudonym, pen name, nom de plume |(vi) biệt danh, bút danh, bút hiệu"
       },
       {
         "example": "同名",
         "reading": "ドウメイ",
-        "meaning": "same name, homonym"
+        "meaning": "same name, homonym |(vi) cùng tên, trùng tên"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "名",
         "reading": "な",
-        "meaning": "name, given name, title, fame, renown, reputation, pretext, pretense, justification, appearance"
+        "meaning": "name, given name, title, fame, renown, reputation, pretext, pretense, justification, appearance |(vi) tên, tên gọi, danh hiệu, danh tiếng, tiếng tăm, cớ, lý do biện minh, vẻ ngoài"
       },
       {
         "example": "名残",
         "reading": "なごり",
-        "meaning": "remains, traces, vestiges, relics, (the sorrow of) parting, end"
+        "meaning": "remains, traces, vestiges, relics, (the sorrow of) parting, end |(vi) dấu tích, tàn dư, di tích, nỗi buồn chia ly, sự kết thúc"
       },
       {
         "example": "仮名",
         "reading": "かめい",
-        "meaning": "alias, pseudonym, pen name, nom de plume"
+        "meaning": "alias, pseudonym, pen name, nom de plume |(vi) biệt danh, bút danh, bút hiệu"
       },
       {
         "example": "【カタカナ】",
         "reading": "katakana, angular Japanese syllabary used primarily for loanwords",
-        "meaning": ""
+        "meaning": " |(vi) chữ katakana, hệ chữ cái Nhật hình góc cạnh dùng chủ yếu cho từ vay mượn"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "口",

@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "kita",
-    "meaning": "north",
+    "meaning": "north |(vi) bắc, phương bắc",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "北部（ほくぶ）",
         "meaning": {
-          "english": "northern part"
+          "english": "northern part |(vi) miền bắc, phía bắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "北欧（ほくおう）",
         "meaning": {
-          "english": "Northern Europe"
+          "english": "Northern Europe |(vi) Bắc Âu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "東北（とうほく）",
         "meaning": {
-          "english": "Touhoku"
+          "english": "Touhoku |(vi) vùng Đông Bắc (Tohoku)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "北海道（ほっかいどう）",
         "meaning": {
-          "english": "Hokkaido"
+          "english": "Hokkaido |(vi) Hokkaido"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "敗北する（はいぼくする）",
         "meaning": {
-          "english": "be defeated"
+          "english": "be defeated |(vi) thất bại, thua trận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "南北（なんぼく）",
         "meaning": {
-          "english": "south and north"
+          "english": "south and north |(vi) nam bắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "北（きた）",
         "meaning": {
-          "english": "north"
+          "english": "north |(vi) phía bắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "北風（きたかぜ）",
         "meaning": {
-          "english": "north wind"
+          "english": "north wind |(vi) gió bắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "北半球（きたはんきゅう）",
         "meaning": {
-          "english": "northern hemisphere"
+          "english": "northern hemisphere |(vi) bán cầu bắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_i.opus",
@@ -248,7 +248,7 @@
     "kanji": {
       "character": "北",
       "meaning": {
-        "english": "north"
+        "english": "north |(vi) bắc, phương bắc"
       },
       "strokes": {
         "count": 5,
@@ -296,7 +296,7 @@
         "romaji": "saji"
       },
       "meaning": {
-        "english": "spoon"
+        "english": "spoon |(vi) Chuỷ (cái thìa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/saji0.svg",
@@ -317,7 +317,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "153",
     "strokeCount": 5,
-    "meaning": "north",
+    "meaning": "north |(vi) phương bắc |(hv) Bắc",
     "kunyomi": [
       "きた"
     ],
@@ -328,44 +328,44 @@
       {
         "example": "北欧",
         "reading": "ホクオウ",
-        "meaning": "Northern Europe, Nordic countries, Scandinavia"
+        "meaning": "Northern Europe, Nordic countries, Scandinavia |(vi) Bắc Âu, các nước Bắc Âu, Scandinavia"
       },
       {
         "example": "北緯",
         "reading": "ホクイ",
-        "meaning": "north latitude"
+        "meaning": "north latitude |(vi) vĩ độ bắc"
       },
       {
         "example": "極北",
         "reading": "キョクホク",
-        "meaning": "extreme north, North Pole, utmost limit, breaking point"
+        "meaning": "extreme north, North Pole, utmost limit, breaking point |(vi) cực bắc, Bắc Cực, giới hạn cùng cực"
       },
       {
         "example": "西北",
         "reading": "セイホク",
-        "meaning": "north-west"
+        "meaning": "north-west |(vi) tây bắc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "北",
         "reading": "きた",
-        "meaning": "north, the North, northern territories, North Korea, north wind"
+        "meaning": "north, the North, northern territories, North Korea, north wind |(vi) phương bắc, miền bắc, lãnh thổ phía bắc, Bắc Triều Tiên, gió bắc"
       },
       {
         "example": "北アイルランド",
         "reading": "きたアイルランド",
-        "meaning": "Northern Ireland"
+        "meaning": "Northern Ireland |(vi) Bắc Ireland"
       },
       {
         "example": "西北",
         "reading": "せいほく",
-        "meaning": "north-west"
+        "meaning": "north-west |(vi) tây bắc"
       }
     ],
     "radical": {
       "symbol": "匕",
-      "meaning": "spoon"
+      "meaning": "spoon |(vi) Chuỷ (cái thìa, con dao găm)"
     },
     "parts": [
       "匕",

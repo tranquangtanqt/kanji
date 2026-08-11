@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "wa, wakeru, wakaru, wakareru",
-    "meaning": "divide, part, minute",
+    "meaning": "divide, part, minute |(vi) chia, phần, phút",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "随分（ずいぶん）",
         "meaning": {
-          "english": "extremely"
+          "english": "extremely |(vi) rất, khá nhiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "多分（たぶん）",
         "meaning": {
-          "english": "perhaps"
+          "english": "perhaps |(vi) có lẽ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "十分に（じゅうぶんに）",
         "meaning": {
-          "english": "enough"
+          "english": "enough |(vi) đầy đủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "自分（じぶん）",
         "meaning": {
-          "english": "oneself"
+          "english": "oneself |(vi) bản thân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "何分（なんぷん）",
         "meaning": {
-          "english": "how many minutes"
+          "english": "how many minutes |(vi) mấy phút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "毎分（まいふん）",
         "meaning": {
-          "english": "every minute"
+          "english": "every minute |(vi) mỗi phút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "大分（だいぶ）",
         "meaning": {
-          "english": "considerably"
+          "english": "considerably |(vi) khá nhiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "三割五分（さんわりごぶ）",
         "meaning": {
-          "english": "35 percent"
+          "english": "35 percent |(vi) 35 phần trăm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "分かれ道（わかれみち）",
         "meaning": {
-          "english": "crossroads"
+          "english": "crossroads |(vi) ngã rẽ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "分ける（わける）",
         "meaning": {
-          "english": "divide [v.t.]"
+          "english": "divide [v.t.] |(vi) chia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "分かる（わかる）",
         "meaning": {
-          "english": "understand [v.i.]"
+          "english": "understand [v.i.] |(vi) hiểu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_k.opus",
@@ -303,7 +303,7 @@
     "kanji": {
       "character": "分",
       "meaning": {
-        "english": "divide, part, minute"
+        "english": "divide, part, minute |(vi) chia, phần, phút"
       },
       "strokes": {
         "count": 4,
@@ -349,7 +349,7 @@
         "romaji": "katana"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, kiếm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/katana0.svg",
@@ -369,7 +369,7 @@
     "taughtIn": "grade 2",
     "newspaperFrequencyRank": "24",
     "strokeCount": 4,
-    "meaning": "part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100",
+    "meaning": "part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100 |(vi) phần, phút, đoạn, phần chia, mức độ, số phận, bổn phận, hiểu, biết, tỷ lệ, một phần trăm, cơ hội |(hv) Phân",
     "kunyomi": [
       "わ.ける",
       "わ.け",
@@ -386,104 +386,104 @@
       {
         "example": "分",
         "reading": "ブン",
-        "meaning": "part, portion, share, amount, worth (as in \"two days' worth\"), enough (for), one's means, one's place, one's lot, one's social position, one's duty, one's part, condition, state (of affairs), extent, rate (as in \"at this rate\"), in proportion to, just as much as, to the same degree, content (e.g. alcohol), percentage, equivalent to (e.g. an old brother)"
+        "meaning": "part, portion, share, amount, worth (as in \"two days' worth\"), enough (for), one's means, one's place, one's lot, one's social position, one's duty, one's part, condition, state (of affairs), extent, rate (as in \"at this rate\"), in proportion to, just as much as, to the same degree, content (e.g. alcohol), percentage, equivalent to (e.g. an old brother) |(vi) phần, phần chia sẻ, số lượng, đủ dùng, hoàn cảnh, địa vị, bổn phận, mức độ, tỷ lệ, hàm lượng, phần trăm"
       },
       {
         "example": "分化",
         "reading": "ブンカ",
-        "meaning": "specialization, specialisation, differentiation"
+        "meaning": "specialization, specialisation, differentiation |(vi) chuyên môn hóa, phân hóa"
       },
       {
         "example": "応分",
         "reading": "オウブン",
-        "meaning": "according to one's abilities, appropriate, reasonable"
+        "meaning": "according to one's abilities, appropriate, reasonable |(vi) tương xứng khả năng, hợp lý"
       },
       {
         "example": "細分",
         "reading": "サイブン",
-        "meaning": "subdivision (into small parts)"
+        "meaning": "subdivision (into small parts) |(vi) chia nhỏ, phân chia chi tiết"
       },
       {
         "example": "分",
         "reading": "フン",
-        "meaning": "minute (unit of time), fun (one tenth of a monme, 5.787 grains)"
+        "meaning": "minute (unit of time), fun (one tenth of a monme, 5.787 grains) |(vi) phút (đơn vị thời gian), phân (đơn vị trọng lượng cũ)"
       },
       {
         "example": "分身",
         "reading": "ブンシン",
-        "meaning": "other self, alter ego, part of oneself (in someone or something else), representation of oneself, incarnations of Buddha"
+        "meaning": "other self, alter ego, part of oneself (in someone or something else), representation of oneself, incarnations of Buddha |(vi) phân thân, hóa thân"
       },
       {
         "example": "毎分",
         "reading": "マイフン",
-        "meaning": "every minute, per minute"
+        "meaning": "every minute, per minute |(vi) mỗi phút"
       },
       {
         "example": "壊変毎分",
         "reading": "カイヘンマイフン",
-        "meaning": "disintegration per minute, dpm"
+        "meaning": "disintegration per minute, dpm |(vi) số phân rã mỗi phút"
       },
       {
         "example": "分",
         "reading": "ブ",
-        "meaning": "one-tenth, one percent (one-tenth of a wari), 3 mm (one-tenth of a sun), 2.4 mm (one-tenth of a mon, a traditional unit used to measure shoe sizes), 0.1 degree (one-tenth of a do, used to measure body temperature on any temperature scale), one-quarter of a ryō (obsolete unit of currency), thickness, advantageous circumstances, one-tenth of a monme of silver"
+        "meaning": "one-tenth, one percent (one-tenth of a wari), 3 mm (one-tenth of a sun), 2.4 mm (one-tenth of a mon, a traditional unit used to measure shoe sizes), 0.1 degree (one-tenth of a do, used to measure body temperature on any temperature scale), one-quarter of a ryō (obsolete unit of currency), thickness, advantageous circumstances, one-tenth of a monme of silver |(vi) một phần mười, một phần trăm, đơn vị đo cũ (khoảng 3mm), lợi thế, độ dày"
       },
       {
         "example": "分",
         "reading": "ブン",
-        "meaning": "part, portion, share, amount, worth (as in \"two days' worth\"), enough (for), one's means, one's place, one's lot, one's social position, one's duty, one's part, condition, state (of affairs), extent, rate (as in \"at this rate\"), in proportion to, just as much as, to the same degree, content (e.g. alcohol), percentage, equivalent to (e.g. an old brother)"
+        "meaning": "part, portion, share, amount, worth (as in \"two days' worth\"), enough (for), one's means, one's place, one's lot, one's social position, one's duty, one's part, condition, state (of affairs), extent, rate (as in \"at this rate\"), in proportion to, just as much as, to the same degree, content (e.g. alcohol), percentage, equivalent to (e.g. an old brother) |(vi) phần, phần chia sẻ, số lượng, đủ dùng, hoàn cảnh, địa vị, bổn phận, mức độ, tỷ lệ, hàm lượng, phần trăm"
       },
       {
         "example": "一分",
         "reading": "イチブ",
-        "meaning": "one tenth, one hundredth, one percent, one tenth of a sun, one quarter ryō (an old coin)"
+        "meaning": "one tenth, one hundredth, one percent, one tenth of a sun, one quarter ryō (an old coin) |(vi) một phần mười, một phần trăm, một góc tư lượng (đồng tiền cổ)"
       },
       {
         "example": "節分",
         "reading": "セツブン",
-        "meaning": "setsubun, last day of winter in the traditional Japanese calendar (usu. February 3 or 4) on which a bean scattering ceremony is held, last day of any season (according to the traditional Japanese calendar)"
+        "meaning": "setsubun, last day of winter in the traditional Japanese calendar (usu. February 3 or 4) on which a bean scattering ceremony is held, last day of any season (according to the traditional Japanese calendar) |(vi) tiết phân (ngày cuối đông theo lịch cổ Nhật, lễ rải đậu)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "分ける",
         "reading": "わける",
-        "meaning": "to divide (into), to split (into), to part, to separate, to divide up, to classify, to sort out, to divide out, to share, to distribute, to deal out, to dish out, to distinguish, to discriminate, to differentiate (between), to break up (a fight), to mediate, to call a draw, to tie, to push one's way through (a crowd), to sell"
+        "meaning": "to divide (into), to split (into), to part, to separate, to divide up, to classify, to sort out, to divide out, to share, to distribute, to deal out, to dish out, to distinguish, to discriminate, to differentiate (between), to break up (a fight), to mediate, to call a draw, to tie, to push one's way through (a crowd), to sell |(vi) chia, tách, phân loại, phân phát, phân biệt"
       },
       {
         "example": "分け",
         "reading": "わけ",
-        "meaning": "division, splitting, classification, sharing, distribution, draw, tie"
+        "meaning": "division, splitting, classification, sharing, distribution, draw, tie |(vi) sự phân chia, phân loại, hòa (trận đấu)"
       },
       {
         "example": "分ける",
         "reading": "わける",
-        "meaning": "to divide (into), to split (into), to part, to separate, to divide up, to classify, to sort out, to divide out, to share, to distribute, to deal out, to dish out, to distinguish, to discriminate, to differentiate (between), to break up (a fight), to mediate, to call a draw, to tie, to push one's way through (a crowd), to sell"
+        "meaning": "to divide (into), to split (into), to part, to separate, to divide up, to classify, to sort out, to divide out, to share, to distribute, to deal out, to dish out, to distinguish, to discriminate, to differentiate (between), to break up (a fight), to mediate, to call a draw, to tie, to push one's way through (a crowd), to sell |(vi) chia, tách, phân loại, phân phát, phân biệt"
       },
       {
         "example": "申し訳",
         "reading": "もうしわけ",
-        "meaning": "apology, excuse"
+        "meaning": "apology, excuse |(vi) lời xin lỗi, cái cớ"
       },
       {
         "example": "追分",
         "reading": "おいわけ",
-        "meaning": "forked road"
+        "meaning": "forked road |(vi) ngã rẽ đường"
       },
       {
         "example": "分かれる",
         "reading": "わかれる",
-        "meaning": "to branch, to fork, to diverge, to separate, to split, to divide, to disperse, to scatter"
+        "meaning": "to branch, to fork, to diverge, to separate, to split, to divide, to disperse, to scatter |(vi) rẽ nhánh, phân nhánh, chia tách, phân tán"
       },
       {
         "example": "分かる",
         "reading": "わかる",
-        "meaning": "to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out, I know!, I think so too!"
+        "meaning": "to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out, I know!, I think so too! |(vi) hiểu, nắm được, rõ ràng, được biết"
       },
       {
         "example": "分かつ",
         "reading": "わかつ",
-        "meaning": "to divide, to separate, to share, to distribute, to distinguish"
+        "meaning": "to divide, to separate, to share, to distribute, to distinguish |(vi) chia, tách, phân phát, phân biệt"
       }
     ],
     "radical": {
@@ -491,7 +491,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "ハ",

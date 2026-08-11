@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "fortune",
+    "meaning": "fortune |(vi) phúc, may mắn",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "福岡（ふくおか）",
         "meaning": {
-          "english": "Fukuoka"
+          "english": "Fukuoka |(vi) Fukuoka (tên địa danh)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dai)fuku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "福利（ふくり）",
         "meaning": {
-          "english": "welfare"
+          "english": "welfare |(vi) phúc lợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dai)fuku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "福祉（ふくし）",
         "meaning": {
-          "english": "social welfare"
+          "english": "social welfare |(vi) phúc lợi xã hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dai)fuku_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "祝福する（しゅくふくする）",
         "meaning": {
-          "english": "bless"
+          "english": "bless |(vi) chúc phúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dai)fuku_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "幸福な（こうふくな）",
         "meaning": {
-          "english": "happy, blessed"
+          "english": "happy, blessed |(vi) hạnh phúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dai)fuku_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "裕福な（ゆうふくな）",
         "meaning": {
-          "english": "affluent"
+          "english": "affluent |(vi) giàu có, sung túc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dai)fuku_06_f.opus",
@@ -201,7 +201,7 @@
     "kanji": {
       "character": "福",
       "meaning": {
-        "english": "fortune"
+        "english": "fortune |(vi) phúc, may mắn"
       },
       "strokes": {
         "count": 13,
@@ -265,7 +265,7 @@
         "romaji": "shimesuhen"
       },
       "meaning": {
-        "english": "altar, festival, religious service"
+        "english": "altar, festival, religious service |(vi) Thị (bày tỏ, cúng tế)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shimesuhen0.svg",
@@ -286,7 +286,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "467",
     "strokeCount": 13,
-    "meaning": "blessing, fortune, luck, wealth",
+    "meaning": "blessing, fortune, luck, wealth |(vi) phúc lành, may mắn, vận may, của cải |(hv) Phúc",
     "kunyomi": [],
     "onyomi": [
       "フク"
@@ -295,22 +295,22 @@
       {
         "example": "福",
         "reading": "フク",
-        "meaning": "good fortune, happiness, blessing, good luck"
+        "meaning": "good fortune, happiness, blessing, good luck |(vi) phúc, may mắn, hạnh phúc"
       },
       {
         "example": "福祉",
         "reading": "フクシ",
-        "meaning": "welfare, well-being, social welfare, social security, social service"
+        "meaning": "welfare, well-being, social welfare, social security, social service |(vi) phúc lợi, an sinh xã hội"
       },
       {
         "example": "大福",
         "reading": "ダイフク",
-        "meaning": "great fortune, good luck, rice cake stuffed with bean jam"
+        "meaning": "great fortune, good luck, rice cake stuffed with bean jam |(vi) đại phúc, may mắn lớn; bánh daifuku (bánh nếp nhân đậu)"
       },
       {
         "example": "慶福",
         "reading": "ケイフク",
-        "meaning": "happy event, happiness"
+        "meaning": "happy event, happiness |(vi) việc vui mừng, hạnh phúc"
       }
     ],
     "kunyomiExamples": [],
@@ -319,7 +319,7 @@
       "forms": [
         "礻"
       ],
-      "meaning": "sign"
+      "meaning": "sign |(vi) Thị (bày tỏ, cúng tế)"
     },
     "parts": [
       "一",

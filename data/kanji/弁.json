@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "speak eloquently, speech, valve, petal",
+    "meaning": "speak eloquently, speech, valve, petal |(vi) ăn nói lưu loát, lời nói, van, cánh hoa",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "弁護する（べんごする）",
         "meaning": {
-          "english": "defend"
+          "english": "defend |(vi) biện hộ, bào chữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben(go)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "弁解する（べんかいする）",
         "meaning": {
-          "english": "justify"
+          "english": "justify |(vi) biện giải, thanh minh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben(go)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "弁償する（べんしょうする）",
         "meaning": {
-          "english": "compensate, reimburse"
+          "english": "compensate, reimburse |(vi) bồi thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben(go)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "代弁する（だいべんする）",
         "meaning": {
-          "english": "speak for another"
+          "english": "speak for another |(vi) nói thay, đại diện phát biểu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben(go)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "答弁する（とうべんする）",
         "meaning": {
-          "english": "reply (in meeting)"
+          "english": "reply (in meeting) |(vi) trả lời chất vấn (trong cuộc họp)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben(go)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "関西弁（かんさいべん）",
         "meaning": {
-          "english": "Kansai dialect"
+          "english": "Kansai dialect |(vi) phương ngữ Kansai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben(go)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "安全弁（あんぜんべん）",
         "meaning": {
-          "english": "safety valve"
+          "english": "safety valve |(vi) van an toàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben(go)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "花弁（かべん）",
         "meaning": {
-          "english": "(flower) petal"
+          "english": "(flower) petal |(vi) cánh hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben(go)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "雄弁な（ゆうべんな）",
         "meaning": {
-          "english": "eloquent"
+          "english": "eloquent |(vi) hùng biện, ăn nói lưu loát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben(go)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "多弁な（たべんな）",
         "meaning": {
-          "english": "verbose"
+          "english": "verbose |(vi) nói nhiều, lắm lời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben(go)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "弁護士（べんごし）",
         "meaning": {
-          "english": "lawyer"
+          "english": "lawyer |(vi) luật sư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben(go)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "弁当（べんとう）",
         "meaning": {
-          "english": "boxed lunch"
+          "english": "boxed lunch |(vi) cơm hộp, cơm bento"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben(go)_06_l.opus",
@@ -254,7 +254,7 @@
     "kanji": {
       "character": "弁",
       "meaning": {
-        "english": "speak eloquently, speech, valve, petal"
+        "english": "speak eloquently, speech, valve, petal |(vi) ăn nói lưu loát, lời nói, van, cánh hoa"
       },
       "strokes": {
         "count": 5,
@@ -302,7 +302,7 @@
         "romaji": "nijuuashi"
       },
       "meaning": {
-        "english": "folded hands"
+        "english": "folded hands |(vi) Củng (hai tay chắp, hai mươi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nijuuashi0.svg",
@@ -323,7 +323,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "619",
     "strokeCount": 5,
-    "meaning": "valve, petal, braid, speech, dialect, discrimination, dispose of, distinguish, conical cap",
+    "meaning": "valve, petal, braid, speech, dialect, discrimination, dispose of, distinguish, conical cap |(vi) van, cánh hoa, tết (bện), lời nói, phương ngữ, phân biệt, xử lý, phân biệt rõ, mũ chóp |(hv) Biện",
     "kunyomi": [
       "かんむり",
       "わきま.える",
@@ -339,34 +339,34 @@
       {
         "example": "弁",
         "reading": "ベン",
-        "meaning": "speech, tongue, talk, eloquence, dialect, brogue, accent, bento, Japanese box lunch, petal, valve, Oversight Department, division of the daijokan under the ritsuryō system responsible for controlling central and provincial governmental offices"
+        "meaning": "speech, tongue, talk, eloquence, dialect, brogue, accent, bento, Japanese box lunch, petal, valve, Oversight Department, division of the daijokan under the ritsuryō system responsible for controlling central and provincial governmental offices |(vi) lời nói, giọng nói, tài ăn nói, phương ngữ, giọng địa phương, cơm hộp bento, cánh hoa, van, Biện quan (cơ quan giám sát dưới thời Ritsuryō)"
       },
       {
         "example": "弁解",
         "reading": "ベンカイ",
-        "meaning": "explanation (e.g. for one's actions), excuse, justification, defense, defence"
+        "meaning": "explanation (e.g. for one's actions), excuse, justification, defense, defence |(vi) biện giải, thanh minh, bào chữa"
       },
       {
         "example": "熱弁",
         "reading": "ネツベン",
-        "meaning": "impassioned speech, fervent speech"
+        "meaning": "impassioned speech, fervent speech |(vi) bài phát biểu đầy nhiệt huyết, lời hùng biện sôi nổi"
       },
       {
         "example": "強弁",
         "reading": "キョウベン",
-        "meaning": "insisting (unreasonably), obstinate insistence, far-fetched argument, arguing against all reason"
+        "meaning": "insisting (unreasonably), obstinate insistence, far-fetched argument, arguing against all reason |(vi) lý sự cùn, khăng khăng bảo thủ, lập luận gượng ép"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "弁える",
         "reading": "わきまえる",
-        "meaning": "to discern (e.g. right from wrong), to discriminate, to distinguish, to know (manners, one's place, etc.), to understand, to bear in mind"
+        "meaning": "to discern (e.g. right from wrong), to discriminate, to distinguish, to know (manners, one's place, etc.), to understand, to bear in mind |(vi) phân biệt (đúng sai), biết cách cư xử, hiểu rõ, ghi nhớ trong lòng"
       }
     ],
     "radical": {
       "symbol": "廾",
-      "meaning": "two hands, twenty"
+      "meaning": "two hands, twenty |(vi) Củng (hai tay chắp, hai mươi)"
     },
     "parts": [
       "厶",

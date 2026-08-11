@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 50,
     "kunyomi": "n/a",
-    "meaning": "return to, be restored",
+    "meaning": "return to, be restored |(vi) trở về, khôi phục",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "復習する（ふくしゅうする）",
         "meaning": {
-          "english": "review [v.t.]"
+          "english": "review [v.t.] |(vi) ôn tập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(shuu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "復活する（ふっかつする）",
         "meaning": {
-          "english": "revive"
+          "english": "revive |(vi) hồi sinh, phục sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(shuu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "復元する（ふくげんする）",
         "meaning": {
-          "english": "restore"
+          "english": "restore |(vi) khôi phục nguyên trạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(shuu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "復讐する（ふくしゅうする）",
         "meaning": {
-          "english": "take revenge [v.i.]"
+          "english": "take revenge [v.i.] |(vi) báo thù, trả thù"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(shuu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "復職する（ふくしょくする）",
         "meaning": {
-          "english": "be reinstated"
+          "english": "be reinstated |(vi) phục chức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(shuu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "往復する（おうふくする）",
         "meaning": {
-          "english": "make a round trip"
+          "english": "make a round trip |(vi) đi khứ hồi, đi về"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(shuu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "回復する（かいふくする）",
         "meaning": {
-          "english": "recover (from illness)"
+          "english": "recover (from illness) |(vi) hồi phục (bệnh)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(shuu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "反復する（はんぷくする）",
         "meaning": {
-          "english": "repeat"
+          "english": "repeat |(vi) lặp lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(shuu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "報復する（ほうふくする）",
         "meaning": {
-          "english": "retaliate, take revenge"
+          "english": "retaliate, take revenge |(vi) trả đũa, báo thù"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(shuu)_06_i.opus",
@@ -235,7 +235,7 @@
     "kanji": {
       "character": "復",
       "meaning": {
-        "english": "return to, be restored"
+        "english": "return to, be restored |(vi) trở về, khôi phục"
       },
       "strokes": {
         "count": 12,
@@ -297,7 +297,7 @@
         "romaji": "gyouninben"
       },
       "meaning": {
-        "english": "step, stride, street, to go"
+        "english": "step, stride, street, to go |(vi) Xích (bước chân trái, đi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
@@ -318,7 +318,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "438",
     "strokeCount": 12,
-    "meaning": "restore, return to, revert, resume",
+    "meaning": "restore, return to, revert, resume |(vi) khôi phục, trở về, lặp lại |(hv) Phục",
     "kunyomi": [
       "また"
     ],
@@ -329,39 +329,39 @@
       {
         "example": "復権",
         "reading": "フッケン",
-        "meaning": "rehabilitation, reinstatement, restoration of rights"
+        "meaning": "rehabilitation, reinstatement, restoration of rights |(vi) phục hồi quyền lợi, phục quyền"
       },
       {
         "example": "復員",
         "reading": "フクイン",
-        "meaning": "demobilization, demobilisation, repatriation"
+        "meaning": "demobilization, demobilisation, repatriation |(vi) giải ngũ, hồi hương"
       },
       {
         "example": "重複",
         "reading": "チョウフク",
-        "meaning": "duplication, repetition, overlapping, redundancy, restoration"
+        "meaning": "duplication, repetition, overlapping, redundancy, restoration |(vi) trùng lặp, chồng chéo"
       },
       {
         "example": "障害回復",
         "reading": "ショウガイカイフク",
-        "meaning": "fault recovery"
+        "meaning": "fault recovery |(vi) khắc phục sự cố"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "又",
         "reading": "また",
-        "meaning": "again, once more, once again, another time, some other time, also, too, as well, likewise, on the other hand, while, and, in addition, besides, moreover, furthermore, or, otherwise, really, how, (what, why) on earth, some time (in the future), indirect"
+        "meaning": "again, once more, once again, another time, some other time, also, too, as well, likewise, on the other hand, while, and, in addition, besides, moreover, furthermore, or, otherwise, really, how, (what, why) on earth, some time (in the future), indirect |(vi) lại, một lần nữa, cũng, hơn nữa"
       },
       {
         "example": "又々",
         "reading": "またまた",
-        "meaning": "once again, yet again, (there you go) again"
+        "meaning": "once again, yet again, (there you go) again |(vi) lại một lần nữa (nhấn mạnh)"
       }
     ],
     "radical": {
       "symbol": "彳",
-      "meaning": "step"
+      "meaning": "step |(vi) Xích (bước chân trái, đi)"
     },
     "parts": [
       "ノ",

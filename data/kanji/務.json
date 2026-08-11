@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "tsuto, tsutomeru, tsutomaru",
-    "meaning": "duty, work, serve",
+    "meaning": "duty, work, serve |(vi) nhiệm vụ, công việc, phục vụ",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "義務（ぎむ）",
         "meaning": {
-          "english": "duty, obligation"
+          "english": "duty, obligation |(vi) nghĩa vụ, bổn phận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)mu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "事務（じむ）",
         "meaning": {
-          "english": "business, office work"
+          "english": "business, office work |(vi) công việc văn phòng, sự vụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)mu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "任務（にんむ）",
         "meaning": {
-          "english": "duty, mission, task"
+          "english": "duty, mission, task |(vi) nhiệm vụ, sứ mệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)mu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "職務（しょくむ）",
         "meaning": {
-          "english": "professional duties"
+          "english": "professional duties |(vi) nhiệm vụ chuyên môn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)mu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "責務（せきむ）",
         "meaning": {
-          "english": "duty, obligation, responsibility"
+          "english": "duty, obligation, responsibility |(vi) trách nhiệm, nghĩa vụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)mu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "専務（せんむ）",
         "meaning": {
-          "english": "managing director"
+          "english": "managing director |(vi) giám đốc điều hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)mu_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "外務省（がいむしょう）",
         "meaning": {
-          "english": "Department of Foreign Affairs"
+          "english": "Department of Foreign Affairs |(vi) Bộ Ngoại giao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)mu_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "法務省（ほうむしょう）",
         "meaning": {
-          "english": "Ministry of Justice"
+          "english": "Ministry of Justice |(vi) Bộ Tư pháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)mu_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "公務員（こうむいん）",
         "meaning": {
-          "english": "civil servant"
+          "english": "civil servant |(vi) công chức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)mu_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "勤務する（きんむする）",
         "meaning": {
-          "english": "work for"
+          "english": "work for |(vi) làm việc cho"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)mu_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "務める（つとめる）",
         "meaning": {
-          "english": "serve, exert oneself [v.t.]"
+          "english": "serve, exert oneself [v.t.] |(vi) phục vụ, gắng sức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)mu_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "務まる（つとまる）",
         "meaning": {
-          "english": "be fit for, function properly [v.i.]"
+          "english": "be fit for, function properly [v.i.] |(vi) phù hợp với, hoạt động tốt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nin)mu_06_l.opus",
@@ -251,7 +251,7 @@
     "kanji": {
       "character": "務",
       "meaning": {
-        "english": "duty, work, serve"
+        "english": "duty, work, serve |(vi) nhiệm vụ, công việc, phục vụ"
       },
       "strokes": {
         "count": 11,
@@ -311,7 +311,7 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power |(vi) Lực (sức mạnh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -332,7 +332,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "111",
     "strokeCount": 11,
-    "meaning": "task, duties",
+    "meaning": "task, duties |(vi) nhiệm vụ, bổn phận |(hv) Vụ",
     "kunyomi": [
       "つと.める"
     ],
@@ -343,34 +343,34 @@
       {
         "example": "務歯",
         "reading": "ムシ",
-        "meaning": "zipper teeth, zip teeth"
+        "meaning": "zipper teeth, zip teeth |(vi) răng khóa kéo"
       },
       {
         "example": "務所",
         "reading": "ムショ",
-        "meaning": "prison, jail, slammer, pen"
+        "meaning": "prison, jail, slammer, pen |(vi) nhà tù, trại giam"
       },
       {
         "example": "政務",
         "reading": "セイム",
-        "meaning": "government affairs"
+        "meaning": "government affairs |(vi) công việc chính phủ, chính vụ"
       },
       {
         "example": "外務",
         "reading": "ガイム",
-        "meaning": "foreign affairs"
+        "meaning": "foreign affairs |(vi) ngoại giao, ngoại vụ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "勤める",
         "reading": "つとめる",
-        "meaning": "to work (for), to be employed (at), to serve (in), to serve (as), to act (as), to fill (the position of), to play the role (of), to conduct a religious service"
+        "meaning": "to work (for), to be employed (at), to serve (in), to serve (as), to act (as), to fill (the position of), to play the role (of), to conduct a religious service |(vi) làm việc (cho), được tuyển dụng (tại), phục vụ (trong), đóng vai trò (là), đảm nhiệm (chức vụ), tiến hành nghi lễ tôn giáo"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": "power, force |(vi) Lực (sức mạnh)"
     },
     "parts": [
       "力",

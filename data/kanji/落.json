@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "o, ochiru, otosu",
-    "meaning": "fall",
+    "meaning": "fall |(vi) rơi, rụng",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "落下する（らっかする）",
         "meaning": {
-          "english": "fall, drop"
+          "english": "fall, drop |(vi) rơi xuống, rớt xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "落馬する（らくばする）",
         "meaning": {
-          "english": "fall from a horse"
+          "english": "fall from a horse |(vi) ngã ngựa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "落選する（らくせんする）",
         "meaning": {
-          "english": "lose an election"
+          "english": "lose an election |(vi) trượt cử, thất cử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "墜落する（ついらくする）",
         "meaning": {
-          "english": "fall, crash"
+          "english": "fall, crash |(vi) rơi, đâm xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "暴落する（ぼうらくする）",
         "meaning": {
-          "english": "crash (stock market)"
+          "english": "crash (stock market) |(vi) sụt giá mạnh, sụp đổ (thị trường)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "堕落する（だらくする）",
         "meaning": {
-          "english": "decay, be corrupted"
+          "english": "decay, be corrupted |(vi) sa đọa, đồi bại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "落書き（らくがき）",
         "meaning": {
-          "english": "scribble, graffiti"
+          "english": "scribble, graffiti |(vi) vẽ bậy, nguệch ngoạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "落語（らくご）",
         "meaning": {
-          "english": "rakugo (comic story-telling)"
+          "english": "rakugo (comic story-telling) |(vi) rakugo (kể chuyện hài truyền thống)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "段落（だんらく）",
         "meaning": {
-          "english": "paragraph"
+          "english": "paragraph |(vi) đoạn văn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "落ちる（おちる）",
         "meaning": {
-          "english": "fall, get worse [v.i.]"
+          "english": "fall, get worse [v.i.] |(vi) rơi, tụt xuống, sa sút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "落とす（おとす）",
         "meaning": {
-          "english": "drop, lose, let fall [v.t.]"
+          "english": "drop, lose, let fall [v.t.] |(vi) làm rơi, đánh mất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "落ち着く（おちつく）",
         "meaning": {
-          "english": "settle down, keep calm"
+          "english": "settle down, keep calm |(vi) bình tĩnh, ổn định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_l.opus",
@@ -310,7 +310,7 @@
     "kanji": {
       "character": "落",
       "meaning": {
-        "english": "fall"
+        "english": "fall |(vi) rơi, rụng"
       },
       "strokes": {
         "count": 12,
@@ -372,7 +372,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -393,7 +393,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "420",
     "strokeCount": 12,
-    "meaning": "fall, drop, come down, village, hamlet",
+    "meaning": "fall, drop, come down, village, hamlet |(vi) rơi, rớt, hạ xuống, thôn xóm |(hv) Lạc",
     "kunyomi": [
       "お.ちる",
       "お.ち",
@@ -406,54 +406,54 @@
       {
         "example": "落語",
         "reading": "ラクゴ",
-        "meaning": "rakugo, traditional Japanese comic storytelling, comic story (told by a professional storyteller)"
+        "meaning": "rakugo, traditional Japanese comic storytelling, comic story (told by a professional storyteller) |(vi) rakugo, nghệ thuật kể chuyện hài Nhật Bản"
       },
       {
         "example": "落書き",
         "reading": "ラクガキ",
-        "meaning": "scrawl, scribble, graffiti, doodle"
+        "meaning": "scrawl, scribble, graffiti, doodle |(vi) vẽ bậy, viết nguệch ngoạc"
       },
       {
         "example": "崩落",
         "reading": "ホウラク",
-        "meaning": "collapse, break, cave-in, crash, market decline, market crash"
+        "meaning": "collapse, break, cave-in, crash, market decline, market crash |(vi) sụp đổ, sạt lở, sụt giá mạnh"
       },
       {
         "example": "当落",
         "reading": "トウラク",
-        "meaning": "result (of an election), success or defeat (in an election), winning or losing (a lottery, raffle, etc.)"
+        "meaning": "result (of an election), success or defeat (in an election), winning or losing (a lottery, raffle, etc.) |(vi) kết quả trúng/trượt (bầu cử, xổ số)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "落ちる",
         "reading": "おちる",
-        "meaning": "to fall, to drop, to come down, to crash, to collapse, to cave in, to give way, to set (of the sun or moon), to sink, to dip, to go down, to decrease (of popularity, quality, speed, sales, etc.), to fall, to drop, to go down, to decline, to deteriorate, to abate (of wind), to be inferior (to), to be not as good (as), to fall short (of), to come off (of dirt, paint, makeup, etc.), to come out (of a stain), to fade (of colour), to be removed (of an illness, possessing spirit, etc.), to disappear (of excess fat), to become thinner, to become leaner, to be left out, to be omitted, to be missing, to fail (an exam), to lose (a contest, election, etc.), to be unsuccessful, to decline (of morals, character, etc.), to become vulgar (e.g. of a conversation), to stoop (to), to sink (so low), to be ruined, to go under, to fall (into hell), to fall (in love, asleep, etc.), to fall (into someone's hands), to be accepted (of a bid), to be won (of a tender), to be honoured (of a bill), to fall into (a trap), to fall for (a trick), to give in, to confess, to own up, to come to (a conclusion, topic, etc.), to arrive at (in the end), to leave (a city, castle, etc.), to (be defeated and) flee, to sink in, to be accepted (in one's heart), to fall (to the enemy), to be defeated, to come in (of money), to fall (upon; of light, a shadow, one's gaze, etc.), to pass out (in judo), to fall unconscious, to go down (of a website, server, etc.), to crash, to log out (of an online game, chat room, etc.), to drop out, to leave, to go offline, to move to deeper water (of a fish in cold weather), to die (of an animal)"
+        "meaning": "to fall, to drop, to come down, to crash, to collapse, to cave in, to give way, to set (of the sun or moon), to sink, to dip, to go down, to decrease (of popularity, quality, speed, sales, etc.), to fall, to drop, to go down, to decline, to deteriorate, to abate (of wind), to be inferior (to), to be not as good (as), to fall short (of), to come off (of dirt, paint, makeup, etc.), to come out (of a stain), to fade (of colour), to be removed (of an illness, possessing spirit, etc.), to disappear (of excess fat), to become thinner, to become leaner, to be left out, to be omitted, to be missing, to fail (an exam), to lose (a contest, election, etc.), to be unsuccessful, to decline (of morals, character, etc.), to become vulgar (e.g. of a conversation), to stoop (to), to sink (so low), to be ruined, to go under, to fall (into hell), to fall (in love, asleep, etc.), to fall (into someone's hands), to be accepted (of a bid), to be won (of a tender), to be honoured (of a bill), to fall into (a trap), to fall for (a trick), to give in, to confess, to own up, to come to (a conclusion, topic, etc.), to arrive at (in the end), to leave (a city, castle, etc.), to (be defeated and) flee, to sink in, to be accepted (in one's heart), to fall (to the enemy), to be defeated, to come in (of money), to fall (upon; of light, a shadow, one's gaze, etc.), to pass out (in judo), to fall unconscious, to go down (of a website, server, etc.), to crash, to log out (of an online game, chat room, etc.), to drop out, to leave, to go offline, to move to deeper water (of a fish in cold weather), to die (of an animal) |(vi) rơi, rụng, tụt xuống, sa sút, trượt (thi cử), thất bại"
       },
       {
         "example": "落ち",
         "reading": "おち",
-        "meaning": "slip, omission, upshot, denouement, outcome, final result, punch line (of a joke)"
+        "meaning": "slip, omission, upshot, denouement, outcome, final result, punch line (of a joke) |(vi) sai sót, kết cục, câu chốt (chuyện cười)"
       },
       {
         "example": "落ち込む",
         "reading": "おちこむ",
-        "meaning": "to feel down, to feel sad, to be depressed, to be in low spirits, to be in a slump (business, economy, etc.), to be in an unfavourable condition, to fall into (e.g. a hole)"
+        "meaning": "to feel down, to feel sad, to be depressed, to be in low spirits, to be in a slump (business, economy, etc.), to be in an unfavourable condition, to fall into (e.g. a hole) |(vi) chán nản, sa sút tinh thần, tụt dốc"
       },
       {
         "example": "付け落ち",
         "reading": "つけおち",
-        "meaning": "omission in a bill"
+        "meaning": "omission in a bill |(vi) thiếu sót trong hóa đơn"
       },
       {
         "example": "耳落",
         "reading": "みみおち",
-        "meaning": "removing edges, cutting edges"
+        "meaning": "removing edges, cutting edges |(vi) cắt bỏ phần rìa"
       },
       {
         "example": "落とす",
         "reading": "おとす",
-        "meaning": "to drop, to lose, to let fall, to shed (light), to cast (one's gaze), to pour in (liquid), to leave behind, to clean off (dirt, makeup, paint, etc.), to remove (e.g. stains or facial hair), to lose, to spend money at a certain place, to omit, to leave out, to secretly let escape, to lose (a match), to reject (an applicant), to fail (a course), to defeat (in an election), to lower (e.g. shoulders or voice), to lessen (e.g. production or body weight), to worsen (quality), to reduce (e.g. rank or popularity), to speak badly of, to make light of, to fall into straitened circumstances, to fall into (e.g. a dilemma or sin), to make one's own, to have one's bid accepted, to force surrender, to take (e.g. an enemy camp or castle), to forcefully convince, to press for a confession, to deal with, to download, to copy from a computer to another medium, to make someone swoon (judo), to finish a story (e.g. with the punch line), to finish (a period, e.g. of fasting), to win over, to seduce, to conquer (unwillingness)"
+        "meaning": "to drop, to lose, to let fall, to shed (light), to cast (one's gaze), to pour in (liquid), to leave behind, to clean off (dirt, makeup, paint, etc.), to remove (e.g. stains or facial hair), to lose, to spend money at a certain place, to omit, to leave out, to secretly let escape, to lose (a match), to reject (an applicant), to fail (a course), to defeat (in an election), to lower (e.g. shoulders or voice), to lessen (e.g. production or body weight), to worsen (quality), to reduce (e.g. rank or popularity), to speak badly of, to make light of, to fall into straitened circumstances, to fall into (e.g. a dilemma or sin), to make one's own, to have one's bid accepted, to force surrender, to take (e.g. an enemy camp or castle), to forcefully convince, to press for a confession, to deal with, to download, to copy from a computer to another medium, to make someone swoon (judo), to finish a story (e.g. with the punch line), to finish (a period, e.g. of fasting), to win over, to seduce, to conquer (unwillingness) |(vi) làm rơi, đánh mất, loại bỏ, hạ (giọng, cấp bậc), tải xuống"
       }
     ],
     "radical": {
@@ -461,7 +461,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "口",

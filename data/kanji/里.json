@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "sato",
-    "meaning": "countryside, league, hometown, village, town",
+    "meaning": "countryside, league, hometown, village, town |(vi) vùng quê, dặm, quê nhà, làng xóm",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "郷里（きょうり）",
         "meaning": {
-          "english": "birth-place, home town"
+          "english": "birth-place, home town |(vi) quê hương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri-sato_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "海里（かいり）",
         "meaning": {
-          "english": "nautical mile, 1852m, 6080ft"
+          "english": "nautical mile, 1852m, 6080ft |(vi) hải lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri-sato_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "一里塚（いちりづか）",
         "meaning": {
-          "english": "milestone"
+          "english": "milestone |(vi) cột mốc dặm đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri-sato_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "里（さと）",
         "meaning": {
-          "english": "home, village"
+          "english": "home, village |(vi) quê nhà, làng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri-sato_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "里芋（さといも）",
         "meaning": {
-          "english": "taro (type of tuber)"
+          "english": "taro (type of tuber) |(vi) khoai môn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri-sato_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "山里（やまざと）",
         "meaning": {
-          "english": "mountain hamlet"
+          "english": "mountain hamlet |(vi) làng miền núi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri-sato_06_f.opus",
@@ -169,7 +169,7 @@
     "kanji": {
       "character": "里",
       "meaning": {
-        "english": "countryside, league, hometown, village, town"
+        "english": "countryside, league, hometown, village, town |(vi) vùng quê, dặm, quê nhà, làng xóm"
       },
       "strokes": {
         "count": 7,
@@ -221,7 +221,7 @@
         "romaji": "sato"
       },
       "meaning": {
-        "english": "village, (3.93 km)"
+        "english": "village, (3.93 km) |(vi) Lý (làng, dặm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sato0.svg",
@@ -241,7 +241,7 @@
     "taughtIn": "grade 2",
     "newspaperFrequencyRank": "1096",
     "strokeCount": 7,
-    "meaning": "ri, village, parent's home, league",
+    "meaning": "ri, village, parent's home, league |(vi) làng xóm, nhà cha mẹ đẻ, dặm |(hv) Lý",
     "kunyomi": [
       "さと"
     ],
@@ -252,49 +252,49 @@
       {
         "example": "里",
         "reading": "リ",
-        "meaning": "Japanese league, ri, old Japanese unit of distance, approx. 3.927 km or 2.44 miles, neighbourhood (under the ritsuryō system; orig. of 50 homes), unit of area (approx. 654 m by 654 m)"
+        "meaning": "Japanese league, ri, old Japanese unit of distance, approx. 3.927 km or 2.44 miles, neighbourhood (under the ritsuryō system; orig. of 50 homes), unit of area (approx. 654 m by 654 m) |(vi) dặm Nhật (đơn vị đo cũ ~3,93km), khu vực hành chính xưa"
       },
       {
         "example": "俚言",
         "reading": "リゲン",
-        "meaning": "dialect, language of the common people, colloquial language, slang"
+        "meaning": "dialect, language of the common people, colloquial language, slang |(vi) tiếng địa phương, khẩu ngữ dân gian"
       },
       {
         "example": "万里",
         "reading": "バンリ",
-        "meaning": "thousands of miles"
+        "meaning": "thousands of miles |(vi) vạn dặm, rất xa"
       },
       {
         "example": "海里",
         "reading": "カイリ",
-        "meaning": "nautical mile"
+        "meaning": "nautical mile |(vi) hải lý"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "里",
         "reading": "さと",
-        "meaning": "village, hamlet, countryside, country, home (of one's parents, etc.), hometown, one's origins, one's upbringing, one's past"
+        "meaning": "village, hamlet, countryside, country, home (of one's parents, etc.), hometown, one's origins, one's upbringing, one's past |(vi) làng xóm, quê nhà, quê hương, nguồn gốc"
       },
       {
         "example": "里親",
         "reading": "さとおや",
-        "meaning": "foster parent, foster parents, (pet) caretaker"
+        "meaning": "foster parent, foster parents, (pet) caretaker |(vi) cha mẹ nuôi"
       },
       {
         "example": "お里",
         "reading": "おさと",
-        "meaning": "one's parents' home, one's origins, one's upbringing, one's past"
+        "meaning": "one's parents' home, one's origins, one's upbringing, one's past |(vi) nhà cha mẹ đẻ, xuất thân"
       },
       {
         "example": "夏山冬里",
         "reading": "なつやまふゆさと",
-        "meaning": "pasturing cattle in summer and feeding them indoors during winter, rotated grazing"
+        "meaning": "pasturing cattle in summer and feeding them indoors during winter, rotated grazing |(vi) chăn thả mùa hè, nuôi nhốt mùa đông (chăn nuôi luân phiên)"
       }
     ],
     "radical": {
       "symbol": "里",
-      "meaning": "village, mile"
+      "meaning": "village, mile |(vi) Lý (làng, dặm)"
     },
     "parts": [
       "里"

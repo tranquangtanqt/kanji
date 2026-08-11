@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "hata, hatake",
-    "meaning": "field, cultivated field",
+    "meaning": "field, cultivated field |(vi) ruộng, cánh đồng, đất canh tác",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "畑作（はたさく）",
         "meaning": {
-          "english": "dry field farming, dry field crop"
+          "english": "dry field farming, dry field crop |(vi) canh tác ruộng khô, cây trồng cạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ta)hata_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "田畑（たはた）",
         "meaning": {
-          "english": "rice fields and dry fields"
+          "english": "rice fields and dry fields |(vi) ruộng lúa và ruộng khô, đồng ruộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ta)hata_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "畑（はたけ）",
         "meaning": {
-          "english": "dry fields"
+          "english": "dry fields |(vi) ruộng khô, nương rẫy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ta)hata_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "花畑（はなばたけ）",
         "meaning": {
-          "english": "flower garden, flower bed"
+          "english": "flower garden, flower bed |(vi) vườn hoa, luống hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ta)hata_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "段々畑（だんだんばたけ）",
         "meaning": {
-          "english": "terraced fields, terraced farm"
+          "english": "terraced fields, terraced farm |(vi) ruộng bậc thang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ta)hata_06_e.opus",
@@ -158,7 +158,7 @@
     "kanji": {
       "character": "畑",
       "meaning": {
-        "english": "field, cultivated field"
+        "english": "field, cultivated field |(vi) ruộng, cánh đồng, đất canh tác"
       },
       "strokes": {
         "count": 9,
@@ -214,7 +214,7 @@
         "romaji": "ta"
       },
       "meaning": {
-        "english": "rice paddy"
+        "english": "rice paddy |(vi) Điền (ruộng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ta0.svg",
@@ -234,7 +234,7 @@
     "taughtIn": "grade 3",
     "newspaperFrequencyRank": "1176",
     "strokeCount": 9,
-    "meaning": "farm, field, garden, one's specialty, (kokuji)",
+    "meaning": "farm, field, garden, one's specialty, (kokuji) |(vi) trang trại, ruộng, vườn, sở trường (chữ quốc tự) |(hv) (chữ quốc tự Nhật, không có âm Hán Việt)",
     "kunyomi": [
       "はた",
       "はたけ",
@@ -246,42 +246,42 @@
       {
         "example": "畑",
         "reading": "はたけ",
-        "meaning": "field (for growing wheat, fruit, vegetables, etc.), cultivated land, vegetable plot, kitchen garden, plantation, field (of specialization), sphere, area, line, womb, birth, birthplace"
+        "meaning": "field (for growing wheat, fruit, vegetables, etc.), cultivated land, vegetable plot, kitchen garden, plantation, field (of specialization), sphere, area, line, womb, birth, birthplace |(vi) ruộng, đất canh tác, vườn rau, lĩnh vực (chuyên môn), nơi sinh ra"
       },
       {
         "example": "畑違い",
         "reading": "はたけちがい",
-        "meaning": "outside one's field, out of one's line, (sibling) from a different mother"
+        "meaning": "outside one's field, out of one's line, (sibling) from a different mother |(vi) trái ngành, không đúng sở trường, (anh em) khác mẹ"
       },
       {
         "example": "田畑",
         "reading": "たはた",
-        "meaning": "fields (of rice and other crops)"
+        "meaning": "fields (of rice and other crops) |(vi) ruộng đồng (lúa và hoa màu)"
       },
       {
         "example": "焼き畑",
         "reading": "やきばた",
-        "meaning": "land made arable by the slash-and-burn method, swidden, slash-and-burn farming"
+        "meaning": "land made arable by the slash-and-burn method, swidden, slash-and-burn farming |(vi) ruộng đốt nương làm rẫy, canh tác đốt nương"
       },
       {
         "example": "畑",
         "reading": "はたけ",
-        "meaning": "field (for growing wheat, fruit, vegetables, etc.), cultivated land, vegetable plot, kitchen garden, plantation, field (of specialization), sphere, area, line, womb, birth, birthplace"
+        "meaning": "field (for growing wheat, fruit, vegetables, etc.), cultivated land, vegetable plot, kitchen garden, plantation, field (of specialization), sphere, area, line, womb, birth, birthplace |(vi) ruộng, đất canh tác, vườn rau, lĩnh vực (chuyên môn), nơi sinh ra"
       },
       {
         "example": "畑違い",
         "reading": "はたけちがい",
-        "meaning": "outside one's field, out of one's line, (sibling) from a different mother"
+        "meaning": "outside one's field, out of one's line, (sibling) from a different mother |(vi) trái ngành, không đúng sở trường, (anh em) khác mẹ"
       },
       {
         "example": "田畑",
         "reading": "たはた",
-        "meaning": "fields (of rice and other crops)"
+        "meaning": "fields (of rice and other crops) |(vi) ruộng đồng (lúa và hoa màu)"
       }
     ],
     "radical": {
       "symbol": "田",
-      "meaning": "field"
+      "meaning": "field |(vi) Điền (ruộng)"
     },
     "parts": [
       "火",

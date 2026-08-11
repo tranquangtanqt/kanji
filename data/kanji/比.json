@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "kuraberu, kura",
-    "meaning": "compare",
+    "meaning": "compare |(vi) so sánh",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "比較的な（ひかくてきな）",
         "meaning": {
-          "english": "comparatively, relatively"
+          "english": "comparatively, relatively |(vi) tương đối, so sánh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-kura(beru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "比率（ひりつ）",
         "meaning": {
-          "english": "ratio, proportion"
+          "english": "ratio, proportion |(vi) tỷ lệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-kura(beru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "比喩（ひゆ）",
         "meaning": {
-          "english": "simile, metaphor"
+          "english": "simile, metaphor |(vi) phép so sánh, ẩn dụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-kura(beru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "比較する（ひかくする）",
         "meaning": {
-          "english": "compare"
+          "english": "compare |(vi) so sánh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-kura(beru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "比例する（ひれいする）",
         "meaning": {
-          "english": "be in proportion to"
+          "english": "be in proportion to |(vi) tỷ lệ thuận với"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-kura(beru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "対比する（たいひする）",
         "meaning": {
-          "english": "contrast with"
+          "english": "contrast with |(vi) đối chiếu, so sánh với"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-kura(beru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "比べる（くらべる）",
         "meaning": {
-          "english": "compare"
+          "english": "compare |(vi) so sánh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-kura(beru)_06_g.opus",
@@ -214,7 +214,7 @@
     "kanji": {
       "character": "比",
       "meaning": {
-        "english": "compare"
+        "english": "compare |(vi) so sánh"
       },
       "strokes": {
         "count": 4,
@@ -260,7 +260,7 @@
         "romaji": "kuraberu"
       },
       "meaning": {
-        "english": "to compare"
+        "english": "to compare |(vi) Tỷ (so sánh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuraberu0.svg",
@@ -281,7 +281,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "329",
     "strokeCount": 4,
-    "meaning": "compare, race, ratio, Philippines",
+    "meaning": "compare, race, ratio, Philippines |(vi) so sánh, thi đua, tỷ lệ, Philippines |(hv) Tỷ",
     "kunyomi": [
       "くら.べる"
     ],
@@ -292,34 +292,34 @@
       {
         "example": "比",
         "reading": "ヒ",
-        "meaning": "ratio, proportion, match, equal, equivalent, comparison, compared with ..., relative to ..., Philippines, explicit comparison (style of the Shi Jing)"
+        "meaning": "ratio, proportion, match, equal, equivalent, comparison, compared with ..., relative to ..., Philippines, explicit comparison (style of the Shi Jing) |(vi) tỷ lệ, tương xứng, ngang bằng, so sánh, so với..., Philippines, lối so sánh trực tiếp (thể thơ Kinh Thi)"
       },
       {
         "example": "比較",
         "reading": "ヒカク",
-        "meaning": "comparison"
+        "meaning": "comparison |(vi) so sánh"
       },
       {
         "example": "ギア比",
         "reading": "ギアヒ",
-        "meaning": "gear ratio"
+        "meaning": "gear ratio |(vi) tỷ số truyền động (bánh răng)"
       },
       {
         "example": "口径比",
         "reading": "コウケイヒ",
-        "meaning": "aperture ratio (inverse of the f-number), relative aperture"
+        "meaning": "aperture ratio (inverse of the f-number), relative aperture |(vi) tỷ số khẩu độ (nghịch đảo chỉ số f), khẩu độ tương đối"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "比べる",
         "reading": "くらべる",
-        "meaning": "to compare, to make a comparison (between), to compete (on), to measure (one's strength, ability, etc. against another's)"
+        "meaning": "to compare, to make a comparison (between), to compete (on), to measure (one's strength, ability, etc. against another's) |(vi) so sánh, đối chiếu, thi đấu, đo lường (sức mạnh, khả năng...) với người khác"
       }
     ],
     "radical": {
       "symbol": "比",
-      "meaning": "compare, compete"
+      "meaning": "compare, compete |(vi) Tỷ (so sánh, thi đua)"
     },
     "parts": [
       "比"

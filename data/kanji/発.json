@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 2,
     "kunyomi": "ta, tatsu",
-    "meaning": "start, emit",
+    "meaning": "start, emit |(vi) bắt đầu, phát ra",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "発熱（はつねつ）",
         "meaning": {
-          "english": "fever, flush"
+          "english": "fever, flush |(vi) sốt, phát nhiệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatsu-ta(tsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "発想（はっそう）",
         "meaning": {
-          "english": "idea, conception"
+          "english": "idea, conception |(vi) ý tưởng, cách nghĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatsu-ta(tsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "自発性（じはつせい）",
         "meaning": {
-          "english": "spontaneity, initiative"
+          "english": "spontaneity, initiative |(vi) tính tự phát, tính chủ động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatsu-ta(tsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "発音する（はつおんする）",
         "meaning": {
-          "english": "pronounce"
+          "english": "pronounce |(vi) phát âm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatsu-ta(tsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "発明する（はつめいする）",
         "meaning": {
-          "english": "invent"
+          "english": "invent |(vi) phát minh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatsu-ta(tsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "出発する（しゅっぱつする）",
         "meaning": {
-          "english": "depart"
+          "english": "depart |(vi) khởi hành, xuất phát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatsu-ta(tsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "発見する（はっけんする）",
         "meaning": {
-          "english": "discover"
+          "english": "discover |(vi) phát hiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatsu-ta(tsu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "発達する（はったつする）",
         "meaning": {
-          "english": "develop [v.i.]"
+          "english": "develop [v.i.] |(vi) phát triển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatsu-ta(tsu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "発足する（ほっそくする）",
         "meaning": {
-          "english": "start an organization"
+          "english": "start an organization |(vi) thành lập, khởi động (tổ chức)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatsu-ta(tsu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "発作（ほっさ）",
         "meaning": {
-          "english": "fit, attack, paroxysm"
+          "english": "fit, attack, paroxysm |(vi) cơn co giật, cơn phát bệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatsu-ta(tsu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "発つ（たつ）",
         "meaning": {
-          "english": "depart"
+          "english": "depart |(vi) khởi hành, ra đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatsu-ta(tsu)_06_k.opus",
@@ -313,7 +313,7 @@
     "kanji": {
       "character": "発",
       "meaning": {
-        "english": "start, emit"
+        "english": "start, emit |(vi) bắt đầu, phát ra"
       },
       "strokes": {
         "count": 9,
@@ -369,7 +369,7 @@
         "romaji": "hatsugashira"
       },
       "meaning": {
-        "english": "outspread legs, departure"
+        "english": "outspread legs, departure |(vi) Bát (dấu chân, bước chân)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hatsugashira0.svg",
@@ -390,7 +390,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "32",
     "strokeCount": 9,
-    "meaning": "departure, discharge, publish, emit, start from, disclose, counter for gunshots",
+    "meaning": "departure, discharge, publish, emit, start from, disclose, counter for gunshots |(vi) khởi hành, phóng ra, xuất bản, phát ra, bắt đầu từ, tiết lộ, lượng từ chỉ phát súng |(hv) Phát",
     "kunyomi": [
       "た.つ",
       "あば.く",
@@ -406,54 +406,54 @@
       {
         "example": "発",
         "reading": "ハツ",
-        "meaning": "departure, departing from ..., leaving at (e.g. 8:30), sent from ..., (a letter, etc.) dated ..., datelined ..., counter for engines (on an aircraft), counter for gunshots, bursts of gas, etc., counter for bullets, bombs, etc., counter for blows (punches), counter for jokes, puns, etc., counter for ideas, thoughts or guesses, counter for ejaculations or sexual intercourse"
+        "meaning": "departure, departing from ..., leaving at (e.g. 8:30), sent from ..., (a letter, etc.) dated ..., datelined ..., counter for engines (on an aircraft), counter for gunshots, bursts of gas, etc., counter for bullets, bombs, etc., counter for blows (punches), counter for jokes, puns, etc., counter for ideas, thoughts or guesses, counter for ejaculations or sexual intercourse |(vi) khởi hành, xuất phát từ..., gửi từ... (thư), ghi ngày..., lượng từ chỉ động cơ (máy bay), lượng từ chỉ phát súng, lượng từ chỉ tiếng nổ/khí, lượng từ chỉ đạn/bom, lượng từ chỉ cú đấm, lượng từ chỉ câu đùa/chơi chữ, lượng từ chỉ ý tưởng/suy đoán, lượng từ chỉ lần xuất tinh/giao hợp"
       },
       {
         "example": "発",
         "reading": "ハツ",
-        "meaning": "green dragon tile, winning hand with a pung (or kong) of green dragon tiles"
+        "meaning": "green dragon tile, winning hand with a pung (or kong) of green dragon tiles |(vi) quân bài rồng xanh (mạt chược), thắng bài có bộ ba/bốn quân rồng xanh"
       },
       {
         "example": "偶発",
         "reading": "グウハツ",
-        "meaning": "sudden outbreak, accidental, incidental"
+        "meaning": "sudden outbreak, accidental, incidental |(vi) bột phát bất ngờ, ngẫu nhiên, tình cờ"
       },
       {
         "example": "電源開発",
         "reading": "デンゲンカイハツ",
-        "meaning": "development of electrical power resources"
+        "meaning": "development of electrical power resources |(vi) phát triển nguồn điện"
       },
       {
         "example": "発熱",
         "reading": "ハツネツ",
-        "meaning": "generation of heat, (attack of) fever, pyrexia"
+        "meaning": "generation of heat, (attack of) fever, pyrexia |(vi) phát nhiệt, sốt, lên cơn sốt"
       },
       {
         "example": "発議",
         "reading": "ハツギ",
-        "meaning": "proposal, suggestion, motion, initiative"
+        "meaning": "proposal, suggestion, motion, initiative |(vi) đề xuất, kiến nghị, đề nghị, sáng kiến"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "発つ",
         "reading": "たつ",
-        "meaning": "to depart (on a journey, trip, etc.), to leave, to set off, to start"
+        "meaning": "to depart (on a journey, trip, etc.), to leave, to set off, to start |(vi) khởi hành (đi đâu đó), rời đi, lên đường"
       },
       {
         "example": "立つ鳥跡を濁さず",
         "reading": "たつとりあとをにごさず",
-        "meaning": "it is simply common courtesy to clean up after yourself, a bird does not foul the nest it is about to leave, on leaving a place, one should see that all is in good order"
+        "meaning": "it is simply common courtesy to clean up after yourself, a bird does not foul the nest it is about to leave, on leaving a place, one should see that all is in good order |(vi) chim rời tổ không làm bẩn tổ - khi rời khỏi nơi nào, nên để lại mọi thứ gọn gàng"
       },
       {
         "example": "暴く",
         "reading": "あばく",
-        "meaning": "to disclose, to divulge, to expose, to open (a grave), to dig out"
+        "meaning": "to disclose, to divulge, to expose, to open (a grave), to dig out |(vi) tiết lộ, phanh phui, phơi bày, khai quật (mộ), đào lên"
       }
     ],
     "radical": {
       "symbol": "癶",
-      "meaning": "footsteps"
+      "meaning": "footsteps |(vi) Bát (dấu chân, bước chân)"
     },
     "parts": [
       "二",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 50,
     "kunyomi": "n/a",
-    "meaning": "endeavor",
+    "meaning": "endeavor |(vi) cố gắng, nỗ lực",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "勉強する（べんきょうする）",
         "meaning": {
-          "english": "study"
+          "english": "study |(vi) học tập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben(kyou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "勤勉な（きんべんな）",
         "meaning": {
-          "english": "diligent"
+          "english": "diligent |(vi) chăm chỉ, siêng năng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben(kyou)_06_b.opus",
@@ -166,7 +166,7 @@
     "kanji": {
       "character": "勉",
       "meaning": {
-        "english": "endeavor"
+        "english": "endeavor |(vi) cố gắng, nỗ lực"
       },
       "strokes": {
         "count": 10,
@@ -224,7 +224,7 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power |(vi) Lực (sức mạnh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -245,7 +245,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1066",
     "strokeCount": 10,
-    "meaning": "exertion, endeavour, encourage, strive, make effort, diligent",
+    "meaning": "exertion, endeavour, encourage, strive, make effort, diligent |(vi) gắng sức, cố gắng, khuyến khích, nỗ lực, siêng năng |(hv) Miễn",
     "kunyomi": [
       "つと.める"
     ],
@@ -256,34 +256,34 @@
       {
         "example": "勉強",
         "reading": "ベンキョウ",
-        "meaning": "study, diligence, working hard, experience, lesson (for the future), discount, price reduction"
+        "meaning": "study, diligence, working hard, experience, lesson (for the future), discount, price reduction |(vi) học tập, chăm chỉ, cố gắng, kinh nghiệm, bài học (cho tương lai), giảm giá, chiết khấu"
       },
       {
         "example": "勉学",
         "reading": "ベンガク",
-        "meaning": "study, pursuit of knowledge"
+        "meaning": "study, pursuit of knowledge |(vi) học tập, theo đuổi tri thức"
       },
       {
         "example": "猛勉",
         "reading": "モウベン",
-        "meaning": "studying hard, cramming"
+        "meaning": "studying hard, cramming |(vi) học hành chăm chỉ, học dồn, học nhồi nhét"
       },
       {
         "example": "のこ勉",
         "reading": "ノコベン",
-        "meaning": "staying behind after school to do private study"
+        "meaning": "staying behind after school to do private study |(vi) ở lại trường sau giờ học để tự học"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "努める",
         "reading": "つとめる",
-        "meaning": "to endeavor (to do), to endeavour, to try hard, to work hard, to strive, to make an effort, to exert oneself, to devote oneself, to be committed (to doing)"
+        "meaning": "to endeavor (to do), to endeavour, to try hard, to work hard, to strive, to make an effort, to exert oneself, to devote oneself, to be committed (to doing) |(vi) cố gắng, nỗ lực, gắng sức, chăm chỉ, dốc sức, tận tâm (với việc gì)"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": "power, force |(vi) Lực (sức mạnh)"
     },
     "parts": [
       "儿",

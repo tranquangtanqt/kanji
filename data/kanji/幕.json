@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "curtain, shogunate",
+    "meaning": "curtain, shogunate |(vi) màn, mạc phủ",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "幕（まく）",
         "meaning": {
-          "english": "curtain (theater), hanging"
+          "english": "curtain (theater), hanging |(vi) màn (sân khấu), treo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(uchi)maku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "天幕（てんまく）",
         "meaning": {
-          "english": "curtain, tent, pavilion"
+          "english": "curtain, tent, pavilion |(vi) màn, lều, đình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(uchi)maku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "内幕（ないまく）",
         "meaning": {
-          "english": "inside information"
+          "english": "inside information |(vi) thông tin nội bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(uchi)maku_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "煙幕（えんまく）",
         "meaning": {
-          "english": "smoke screen"
+          "english": "smoke screen |(vi) màn khói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(uchi)maku_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "垂れ幕（たれまく）",
         "meaning": {
-          "english": "hanging screen, curtain"
+          "english": "hanging screen, curtain |(vi) băng rôn treo, màn rủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(uchi)maku_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "除幕式（じょまくしき）",
         "meaning": {
-          "english": "unveiling ceremony"
+          "english": "unveiling ceremony |(vi) lễ khánh thành, lễ mở màn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(uchi)maku_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "開幕する（かいまくする）",
         "meaning": {
-          "english": "raise the curtain"
+          "english": "raise the curtain |(vi) mở màn, khai mạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(uchi)maku_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "幕府（ばくふ）",
         "meaning": {
-          "english": "bakufu, shogunate"
+          "english": "bakufu, shogunate |(vi) mạc phủ, chính quyền shogun"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(uchi)maku_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "幕末（ばくまつ）",
         "meaning": {
-          "english": "End of Edo era"
+          "english": "End of Edo era |(vi) cuối thời Edo, mạc mạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(uchi)maku_06_i.opus",
@@ -197,7 +197,7 @@
     "kanji": {
       "character": "幕",
       "meaning": {
-        "english": "curtain, shogunate"
+        "english": "curtain, shogunate |(vi) màn, mạc phủ"
       },
       "strokes": {
         "count": 13,
@@ -261,7 +261,7 @@
         "romaji": "haba"
       },
       "meaning": {
-        "english": "cloth"
+        "english": "cloth |(vi) Cân (vải, khăn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/haba0.svg",
@@ -282,7 +282,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "835",
     "strokeCount": 13,
-    "meaning": "curtain, bunting, act of play",
+    "meaning": "curtain, bunting, act of play |(vi) màn, băng rôn, màn kịch |(hv) Mạc",
     "kunyomi": [
       "とばり"
     ],
@@ -294,48 +294,48 @@
       {
         "example": "幕",
         "reading": "マク",
-        "meaning": "curtain, act (in a play), falling of the curtain, end (of a scene), end, close, case, occasion, role (to play), part, place, makuuchi, top division"
+        "meaning": "curtain, act (in a play), falling of the curtain, end (of a scene), end, close, case, occasion, role (to play), part, place, makuuchi, top division |(vi) màn, hồi (vở kịch), hạ màn, kết thúc (một cảnh), kết thúc, khép lại, trường hợp, dịp, vai trò (phải đóng), phần, vị trí, makuuchi, hạng cao nhất (sumo)"
       },
       {
         "example": "幕開け",
         "reading": "マクアケ",
-        "meaning": "rise of the curtain, opening of a play, beginning (e.g. of an era), start, opening (of a tournament, festival, etc.)"
+        "meaning": "rise of the curtain, opening of a play, beginning (e.g. of an era), start, opening (of a tournament, festival, etc.) |(vi) mở màn, khai màn (một vở kịch), khởi đầu (vd. một thời đại), bắt đầu, khai mạc (giải đấu, lễ hội...)"
       },
       {
         "example": "入幕",
         "reading": "ニュウマク",
-        "meaning": "advancing to the first grade"
+        "meaning": "advancing to the first grade |(vi) thăng lên hạng makuuchi (sumo)"
       },
       {
         "example": "閉幕",
         "reading": "ヘイマク",
-        "meaning": "falling of the curtain, (coming to an) end, close"
+        "meaning": "falling of the curtain, (coming to an) end, close |(vi) hạ màn, kết thúc, bế mạc"
       },
       {
         "example": "幕末",
         "reading": "バクマツ",
-        "meaning": "Bakumatsu period, closing days of the Tokugawa shogunate, end of the Edo period"
+        "meaning": "Bakumatsu period, closing days of the Tokugawa shogunate, end of the Edo period |(vi) thời kỳ Bakumatsu, những ngày cuối cùng của mạc phủ Tokugawa, cuối thời Edo"
       },
       {
         "example": "幕府",
         "reading": "バクフ",
-        "meaning": "shogunate, bakufu, shogun's headquarters, Imperial Guards office, residence of the Imperial Guards commander"
+        "meaning": "shogunate, bakufu, shogun's headquarters, Imperial Guards office, residence of the Imperial Guards commander |(vi) mạc phủ, chính quyền shogun, tổng hành dinh của shogun, phủ Cấm vệ quân, dinh chỉ huy Cấm vệ quân"
       },
       {
         "example": "帷幕",
         "reading": "イバク",
-        "meaning": "curtain, field staff headquarters, secret meeting place"
+        "meaning": "curtain, field staff headquarters, secret meeting place |(vi) màn trướng, sở chỉ huy dã chiến, nơi họp kín"
       },
       {
         "example": "討幕",
         "reading": "トウバク",
-        "meaning": "attacking the shogunate"
+        "meaning": "attacking the shogunate |(vi) đánh đổ mạc phủ"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "巾",
-      "meaning": "turban, scarf"
+      "meaning": "turban, scarf |(vi) Cân (khăn, vải)"
     },
     "parts": [
       "大",

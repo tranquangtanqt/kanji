@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "nemu, nemui, nemuru",
-    "meaning": "sleep",
+    "meaning": "sleep |(vi) ngủ",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "睡眠（すいみん）",
         "meaning": {
-          "english": "sleep [n.]"
+          "english": "sleep [n.] |(vi) giấc ngủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nemu(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "睡眠時間（すいみんじかん）",
         "meaning": {
-          "english": "time spent sleeping"
+          "english": "time spent sleeping |(vi) thời gian ngủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nemu(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "不眠症（ふみんしょう）",
         "meaning": {
-          "english": "insomnia"
+          "english": "insomnia |(vi) mất ngủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nemu(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "催眠術（さいみんじゅつ）",
         "meaning": {
-          "english": "hypnotism"
+          "english": "hypnotism |(vi) thuật thôi miên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nemu(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "冬眠する（とうみんする）",
         "meaning": {
-          "english": "hibernate"
+          "english": "hibernate |(vi) ngủ đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nemu(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "眠い（ねむい）",
         "meaning": {
-          "english": "be sleepy"
+          "english": "be sleepy |(vi) buồn ngủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nemu(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "眠気（ねむけ）",
         "meaning": {
-          "english": "drowsiness"
+          "english": "drowsiness |(vi) cơn buồn ngủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nemu(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "眠る（ねむる）",
         "meaning": {
-          "english": "sleep"
+          "english": "sleep |(vi) ngủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nemu(i)_06_h.opus",
@@ -209,7 +209,7 @@
     "kanji": {
       "character": "眠",
       "meaning": {
-        "english": "sleep"
+        "english": "sleep |(vi) ngủ"
       },
       "strokes": {
         "count": 10,
@@ -267,7 +267,7 @@
         "romaji": "mehen"
       },
       "meaning": {
-        "english": "eye"
+        "english": "eye |(vi) Mục (mắt - bộ đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mehen0.svg",
@@ -288,7 +288,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1315",
     "strokeCount": 10,
-    "meaning": "sleep, die, sleepy",
+    "meaning": "sleep, die, sleepy |(vi) ngủ, chết, buồn ngủ |(hv) Miên",
     "kunyomi": [
       "ねむ.る",
       "ねむ.い"
@@ -300,34 +300,34 @@
       {
         "example": "眠剤",
         "reading": "ミンザイ",
-        "meaning": "sleeping pills"
+        "meaning": "sleeping pills |(vi) thuốc ngủ"
       },
       {
         "example": "冬眠",
         "reading": "トウミン",
-        "meaning": "hibernation, winter sleep, torpor"
+        "meaning": "hibernation, winter sleep, torpor |(vi) ngủ đông, giấc ngủ mùa đông, trạng thái ngủ lịm"
       },
       {
         "example": "安眠",
         "reading": "アンミン",
-        "meaning": "sound sleep, good sleep, quiet sleep"
+        "meaning": "sound sleep, good sleep, quiet sleep |(vi) giấc ngủ ngon, ngủ yên"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "眠る",
         "reading": "ねむる",
-        "meaning": "to sleep, to die, to rest (in peace), to lie (buried), to sleep (in the grave), to lie idle (e.g. of resources), to lie unused, to lie untapped, to lie untouched, to close one's eyes"
+        "meaning": "to sleep, to die, to rest (in peace), to lie (buried), to sleep (in the grave), to lie idle (e.g. of resources), to lie unused, to lie untapped, to lie untouched, to close one's eyes |(vi) ngủ, chết, yên nghỉ, nằm (chôn), yên giấc (trong mộ), bị bỏ không sử dụng (tài nguyên), nằm im, chưa được khai thác, nhắm mắt"
       },
       {
         "example": "眠い",
         "reading": "ねむい",
-        "meaning": "sleepy, drowsy, somnolent"
+        "meaning": "sleepy, drowsy, somnolent |(vi) buồn ngủ, ngái ngủ, lơ mơ"
       }
     ],
     "radical": {
       "symbol": "目",
-      "meaning": "eye"
+      "meaning": "eye |(vi) Mục (mắt)"
     },
     "parts": [
       "口",

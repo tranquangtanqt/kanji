@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "usu, usui, usumeru, usumaru, usuragu, usureru",
-    "meaning": "thin, weak, light, fade, dilute",
+    "meaning": "thin, weak, light, fade, dilute |(vi) mỏng, yếu, nhạt, phai, pha loãng",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "薄給（はっきゅう）",
         "meaning": {
-          "english": "small salary, low wages"
+          "english": "small salary, low wages |(vi) lương thấp, lương ít ỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/usu(meru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "薄利多売（はくりたばい）",
         "meaning": {
-          "english": "small profits & quick returns"
+          "english": "small profits & quick returns |(vi) lãi ít bán nhiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/usu(meru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "薄弱な（はくじゃくな）",
         "meaning": {
-          "english": "feeble, weak"
+          "english": "feeble, weak |(vi) yếu ớt, yếu đuối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/usu(meru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "薄情な（はくじょうな）",
         "meaning": {
-          "english": "heartless, cold-hearted, cruel"
+          "english": "heartless, cold-hearted, cruel |(vi) vô tình, lạnh lùng, tàn nhẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/usu(meru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "軽薄な（けいはくな）",
         "meaning": {
-          "english": "frivolous, superficial"
+          "english": "frivolous, superficial |(vi) phù phiếm, hời hợt, nông nổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/usu(meru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "希薄な（きはくな）",
         "meaning": {
-          "english": "rarefied, diluted, sparse, weak"
+          "english": "rarefied, diluted, sparse, weak |(vi) loãng, thưa, nhạt, yếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/usu(meru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "薄める（うすめる）",
         "meaning": {
-          "english": "dilute, water down [v.t.]"
+          "english": "dilute, water down [v.t.] |(vi) pha loãng, làm loãng (tha)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/usu(meru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "薄まる（うすまる）",
         "meaning": {
-          "english": "become weak (color, taste) [v.i.]"
+          "english": "become weak (color, taste) [v.i.] |(vi) trở nên nhạt (màu, vị) (tự)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/usu(meru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "薄らぐ（うすらぐ）",
         "meaning": {
-          "english": "become thin, fade [v.i.]"
+          "english": "become thin, fade [v.i.] |(vi) phai nhạt dần, mờ dần (tự)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/usu(meru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "薄れる（うすれる）",
         "meaning": {
-          "english": "fade, become dim [v.i.]"
+          "english": "fade, become dim [v.i.] |(vi) phai mờ, nhạt dần (tự)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/usu(meru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "薄い（うすい）",
         "meaning": {
-          "english": "thin, weak, diluted [adj.]"
+          "english": "thin, weak, diluted [adj.] |(vi) mỏng, nhạt, loãng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/usu(meru)_06_k.opus",
@@ -254,7 +254,7 @@
     "kanji": {
       "character": "薄",
       "meaning": {
-        "english": "thin, weak, light, fade, dilute"
+        "english": "thin, weak, light, fade, dilute |(vi) mỏng, yếu, nhạt, phai, pha loãng"
       },
       "strokes": {
         "count": 16,
@@ -324,7 +324,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -345,7 +345,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1009",
     "strokeCount": 16,
-    "meaning": "dilute, thin, weak (tea), pampas grass",
+    "meaning": "dilute, thin, weak (tea), pampas grass |(vi) pha loãng, mỏng, nhạt (trà), cỏ mao (susuki) |(hv) Bạc",
     "kunyomi": [
       "うす.い",
       "うす-",
@@ -364,69 +364,69 @@
       {
         "example": "薄弱",
         "reading": "ハクジャク",
-        "meaning": "feebleness, weakness, weak"
+        "meaning": "feebleness, weakness, weak |(vi) yếu ớt, mong manh"
       },
       {
         "example": "薄謝",
         "reading": "ハクシャ",
-        "meaning": "small consideration (remuneration, token of gratitude)"
+        "meaning": "small consideration (remuneration, token of gratitude) |(vi) chút quà mọn (tiền thù lao/lễ tạ ơn khiêm tốn)"
       },
       {
         "example": "肉薄",
         "reading": "ニクハク",
-        "meaning": "closing in on (the enemy, first place, etc.), coming close to, pressing hard, pressing hard (e.g. with a question), taking to task, grilling"
+        "meaning": "closing in on (the enemy, first place, etc.), coming close to, pressing hard, pressing hard (e.g. with a question), taking to task, grilling |(vi) áp sát (kẻ địch, vị trí dẫn đầu...), tiến gần, truy vấn gay gắt, chất vấn dồn dập"
       },
       {
         "example": "精薄",
         "reading": "セイハク",
-        "meaning": "mental retardation (pejorative), mentally retarded"
+        "meaning": "mental retardation (pejorative), mentally retarded |(vi) thiểu năng trí tuệ (từ miệt thị)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "薄い",
         "reading": "うすい",
-        "meaning": "thin (of an object), pale, light, faint, watery, thin, diluted, weak (taste, etc.), little (affection, etc.), not much (of a presence), slim (probability, etc.), small, sparse, patchy, scattered"
+        "meaning": "thin (of an object), pale, light, faint, watery, thin, diluted, weak (taste, etc.), little (affection, etc.), not much (of a presence), slim (probability, etc.), small, sparse, patchy, scattered |(vi) mỏng (vật thể), nhạt, nhẹ, mờ, loãng, ít (tình cảm...), mờ nhạt (sự hiện diện), thấp (xác suất...), thưa thớt, lác đác"
       },
       {
         "example": "薄板",
         "reading": "うすいた",
-        "meaning": "thin board, veneer, thin sheet of steel (3 mm or less), thin cloth, square wooden vase stand"
+        "meaning": "thin board, veneer, thin sheet of steel (3 mm or less), thin cloth, square wooden vase stand |(vi) ván mỏng, gỗ dán mỏng, tấm thép mỏng (dưới 3mm), vải mỏng, đế gỗ vuông kê bình hoa"
       },
       {
         "example": "薄める",
         "reading": "うすめる",
-        "meaning": "to dilute, to water down"
+        "meaning": "to dilute, to water down |(vi) pha loãng, làm loãng"
       },
       {
         "example": "薄まる",
         "reading": "うすまる",
-        "meaning": "to become weak"
+        "meaning": "to become weak |(vi) trở nên nhạt, loãng đi"
       },
       {
         "example": "薄らぐ",
         "reading": "うすらぐ",
-        "meaning": "to become thin, to fade, to grow pale"
+        "meaning": "to become thin, to fade, to grow pale |(vi) phai nhạt dần, mờ dần"
       },
       {
         "example": "薄れる",
         "reading": "うすれる",
-        "meaning": "to fade, to become dim"
+        "meaning": "to fade, to become dim |(vi) phai mờ, nhạt dần"
       },
       {
         "example": "【ススキ】",
         "reading": "Chinese silvergrass (Miscanthus sinensis), maiden grass, susuki grass",
-        "meaning": ""
+        "meaning": " |(vi) cỏ lau Nhật Bản (Miscanthus sinensis), cỏ mao, cỏ susuki"
       },
       {
         "example": "【ヌカススキ】",
         "reading": "silver hairgrass (Aira caryophyllea)",
-        "meaning": ""
+        "meaning": " |(vi) cỏ tóc bạc (Aira caryophyllea)"
       },
       {
         "example": "花薄",
         "reading": "はなすすき",
-        "meaning": "Japanese pampas grass in ear"
+        "meaning": "Japanese pampas grass in ear |(vi) cỏ lau Nhật Bản trổ bông"
       }
     ],
     "radical": {
@@ -434,7 +434,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "丶",

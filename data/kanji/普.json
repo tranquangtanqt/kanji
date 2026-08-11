@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "widespread, general",
+    "meaning": "widespread, general |(vi) rộng khắp, phổ biến",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "普通（ふつう）",
         "meaning": {
-          "english": "ordinarily"
+          "english": "ordinarily |(vi) bình thường, thông thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(dangi)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "普段（ふだん）",
         "meaning": {
-          "english": "usually"
+          "english": "usually |(vi) thường ngày, bình thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(dangi)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "普遍的な（ふへんてきな）",
         "meaning": {
-          "english": "universal"
+          "english": "universal |(vi) phổ quát, chung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(dangi)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "普及する（ふきゅうする）",
         "meaning": {
-          "english": "spread"
+          "english": "spread |(vi) phổ biến, phổ cập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(dangi)_06_d.opus",
@@ -159,7 +159,7 @@
     "kanji": {
       "character": "普",
       "meaning": {
-        "english": "widespread, general"
+        "english": "widespread, general |(vi) rộng khắp, phổ biến"
       },
       "strokes": {
         "count": 12,
@@ -221,7 +221,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi0.svg",
@@ -242,7 +242,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "757",
     "strokeCount": 12,
-    "meaning": "universal, wide(ly), generally, Prussia",
+    "meaning": "universal, wide(ly), generally, Prussia |(vi) phổ biến, rộng khắp, nước Phổ |(hv) Phổ",
     "kunyomi": [
       "あまね.く",
       "あまねし"
@@ -254,24 +254,24 @@
       {
         "example": "普",
         "reading": "フ",
-        "meaning": "ordinary bank account"
+        "meaning": "ordinary bank account |(vi) tài khoản ngân hàng thông thường"
       },
       {
         "example": "普及",
         "reading": "フキュウ",
-        "meaning": "diffusion, spread, popularization, promulgation, familiarization"
+        "meaning": "diffusion, spread, popularization, promulgation, familiarization |(vi) phổ cập, phổ biến"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "遍く",
         "reading": "あまねく",
-        "meaning": "widely, extensively, far and wide, everywhere, all around, generally, universally"
+        "meaning": "widely, extensively, far and wide, everywhere, all around, generally, universally |(vi) rộng khắp, khắp nơi"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "一",

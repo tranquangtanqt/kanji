@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "pattern, imitate, copy, model",
+    "meaning": "pattern, imitate, copy, model |(vi) khuôn mẫu, bắt chước, sao chép, mô hình",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "模範（もはん）",
         "meaning": {
-          "english": "model, example"
+          "english": "model, example |(vi) mẫu mực, ví dụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mo(you)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "模型（もけい）",
         "meaning": {
-          "english": "model, dummy"
+          "english": "model, dummy |(vi) mô hình, hình nộm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mo(you)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "模様（もよう）",
         "meaning": {
-          "english": "pattern, figure, design"
+          "english": "pattern, figure, design |(vi) hoa văn, họa tiết, kiểu dáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mo(you)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "模擬試験（もぎしけん）",
         "meaning": {
-          "english": "trial examination, sham examination"
+          "english": "trial examination, sham examination |(vi) kỳ thi thử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mo(you)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "模倣する（もほうする）",
         "meaning": {
-          "english": "imitate, copy"
+          "english": "imitate, copy |(vi) bắt chước, sao chép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mo(you)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "模造する（もぞうする）",
         "meaning": {
-          "english": "imitation, mimic"
+          "english": "imitation, mimic |(vi) hàng giả, mô phỏng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mo(you)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "模写する（もしゃする）",
         "meaning": {
-          "english": "copy, reproduce"
+          "english": "copy, reproduce |(vi) sao chép, tái hiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mo(you)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "規模（きぼ）",
         "meaning": {
-          "english": "scale, scope, size"
+          "english": "scale, scope, size |(vi) quy mô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mo(you)_06_h.opus",
@@ -191,7 +191,7 @@
     "kanji": {
       "character": "模",
       "meaning": {
-        "english": "pattern, imitate, copy, model"
+        "english": "pattern, imitate, copy, model |(vi) khuôn mẫu, bắt chước, sao chép, mô hình"
       },
       "strokes": {
         "count": 14,
@@ -257,7 +257,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ - bộ đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -278,7 +278,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "668",
     "strokeCount": 14,
-    "meaning": "imitation, copy, mock",
+    "meaning": "imitation, copy, mock |(vi) bắt chước, sao chép, giả |(hv) Mô",
     "kunyomi": [],
     "onyomi": [
       "モ",
@@ -288,28 +288,28 @@
       {
         "example": "模型",
         "reading": "モケイ",
-        "meaning": "model, dummy, maquette"
+        "meaning": "model, dummy, maquette |(vi) mô hình, hình nộm, mẫu thu nhỏ"
       },
       {
         "example": "模擬",
         "reading": "モギ",
-        "meaning": "imitation"
+        "meaning": "imitation |(vi) sự bắt chước, mô phỏng"
       },
       {
         "example": "小規模",
         "reading": "ショウキボ",
-        "meaning": "small scale"
+        "meaning": "small scale |(vi) quy mô nhỏ"
       },
       {
         "example": "中規模",
         "reading": "チュウキボ",
-        "meaning": "mid-range, mid-scale, mid-size"
+        "meaning": "mid-range, mid-scale, mid-size |(vi) quy mô trung bình, cỡ vừa"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây)"
     },
     "parts": [
       "大",

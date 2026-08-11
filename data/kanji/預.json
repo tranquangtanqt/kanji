@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "azu, azukeru, azukaru",
-    "meaning": "deposit, entrust",
+    "meaning": "deposit, entrust |(vi) ký gửi, giao phó",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "預金する（よきんする）",
         "meaning": {
-          "english": "deposit [v.t.]"
+          "english": "deposit [v.t.] |(vi) gửi tiền, ký thác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/azu(keru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "預かる（あずかる）",
         "meaning": {
-          "english": "take charge of [v.t.]"
+          "english": "take charge of [v.t.] |(vi) nhận giữ, trông coi giúp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/azu(keru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "預ける（あずける）",
         "meaning": {
-          "english": "leave in the care of [v.i]"
+          "english": "leave in the care of [v.i] |(vi) gửi gắm, giao phó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/azu(keru)_06_c.opus",
@@ -140,7 +140,7 @@
     "kanji": {
       "character": "預",
       "meaning": {
-        "english": "deposit, entrust"
+        "english": "deposit, entrust |(vi) ký gửi, giao phó"
       },
       "strokes": {
         "count": 13,
@@ -204,7 +204,7 @@
         "romaji": "oogai"
       },
       "meaning": {
-        "english": "head, page"
+        "english": "head, page |(vi) Hiệt (đầu, trang)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/oogai0.svg",
@@ -225,7 +225,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "981",
     "strokeCount": 13,
-    "meaning": "deposit, custody, leave with, entrust to",
+    "meaning": "deposit, custody, leave with, entrust to |(vi) ký gửi, giữ hộ, giao cho, phó thác |(hv) Dự",
     "kunyomi": [
       "あず.ける",
       "あず.かる"
@@ -237,29 +237,29 @@
       {
         "example": "預託",
         "reading": "ヨタク",
-        "meaning": "depositing (of money, valuables, etc.), deposition"
+        "meaning": "depositing (of money, valuables, etc.), deposition |(vi) ký thác, gửi giữ"
       },
       {
         "example": "預金",
         "reading": "ヨキン",
-        "meaning": "deposit, bank account"
+        "meaning": "deposit, bank account |(vi) tiền gửi ngân hàng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "預ける",
         "reading": "あずける",
-        "meaning": "to leave (in someone's keeping), to put (in someone's care), to place (in someone's custody), to entrust (someone) with, to deposit, to put (someone) in charge of, to leave (a matter) in someone's hands, to let (someone) decide, to lean on, to put one's weight on"
+        "meaning": "to leave (in someone's keeping), to put (in someone's care), to place (in someone's custody), to entrust (someone) with, to deposit, to put (someone) in charge of, to leave (a matter) in someone's hands, to let (someone) decide, to lean on, to put one's weight on |(vi) gửi gắm, giao phó, ký gửi"
       },
       {
         "example": "預かる",
         "reading": "あずかる",
-        "meaning": "to look after, to take care of, to keep, to hold on to, to keep in custody, to be put in charge of, to be given responsibility for, to be entrusted with, to withhold (an announcement), to reserve (judgment), to leave undecided, to take upon oneself (to do), to settle (a matter) oneself"
+        "meaning": "to look after, to take care of, to keep, to hold on to, to keep in custody, to be put in charge of, to be given responsibility for, to be entrusted with, to withhold (an announcement), to reserve (judgment), to leave undecided, to take upon oneself (to do), to settle (a matter) oneself |(vi) nhận giữ, trông coi, chịu trách nhiệm tạm thời"
       }
     ],
     "radical": {
       "symbol": "頁",
-      "meaning": "leaf"
+      "meaning": "leaf |(vi) Hiệt (đầu, trang)"
     },
     "parts": [
       "ハ",

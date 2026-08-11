@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "a, abiru, abiseru",
-    "meaning": "bathe, pour over, shower",
+    "meaning": "bathe, pour over, shower |(vi) tắm, dội nước, tắm vòi sen",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "浴槽（よくそう）",
         "meaning": {
-          "english": "bathtub"
+          "english": "bathtub |(vi) bồn tắm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(biru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "浴室（よくしつ）",
         "meaning": {
-          "english": "bathroom, bath"
+          "english": "bathroom, bath |(vi) phòng tắm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(biru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "海水浴（かいすいよく）",
         "meaning": {
-          "english": "sea bathing, seawater bath"
+          "english": "sea bathing, seawater bath |(vi) tắm biển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(biru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "日光浴（にっこうよく）",
         "meaning": {
-          "english": "sunbathing"
+          "english": "sunbathing |(vi) tắm nắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(biru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "公衆浴場（こうしゅうよくじょう）",
         "meaning": {
-          "english": "public bathhouse"
+          "english": "public bathhouse |(vi) nhà tắm công cộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(biru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "入浴する（にゅうよくする）",
         "meaning": {
-          "english": "bathe [v.i.]"
+          "english": "bathe [v.i.] |(vi) đi tắm, tắm rửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(biru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "浴びる（あびる）",
         "meaning": {
-          "english": "bathe, bask in the sun [v.t.]"
+          "english": "bathe, bask in the sun [v.t.] |(vi) tắm, dội nước, tắm nắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(biru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "水浴び（みずあび）",
         "meaning": {
-          "english": "bathing in cold water"
+          "english": "bathing in cold water |(vi) tắm nước lạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(biru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "浴びせる（あびせる）",
         "meaning": {
-          "english": "pour onto"
+          "english": "pour onto |(vi) dội lên, tưới lên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(biru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "*浴衣（ゆかた）",
         "meaning": {
-          "english": "yukata (type of clothing)"
+          "english": "yukata (type of clothing) |(vi) yukata (kimono mùa hè)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(biru)_06_j.opus",
@@ -214,7 +214,7 @@
     "kanji": {
       "character": "浴",
       "meaning": {
-        "english": "bathe, pour over, shower"
+        "english": "bathe, pour over, shower |(vi) tắm, dội nước, tắm vòi sen"
       },
       "strokes": {
         "count": 10,
@@ -272,7 +272,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -293,7 +293,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1136",
     "strokeCount": 10,
-    "meaning": "bathe, be favored with, bask in",
+    "meaning": "bathe, be favored with, bask in |(vi) tắm, được hưởng, đắm mình trong |(hv) Dục",
     "kunyomi": [
       "あ.びる",
       "あ.びせる"
@@ -305,34 +305,34 @@
       {
         "example": "浴室",
         "reading": "ヨクシツ",
-        "meaning": "bathroom"
+        "meaning": "bathroom |(vi) phòng tắm"
       },
       {
         "example": "浴衣",
         "reading": "ユカタ",
-        "meaning": "yukata (light cotton kimono worn in the summer or used as a bathrobe)"
+        "meaning": "yukata (light cotton kimono worn in the summer or used as a bathrobe) |(vi) yukata (kimono cotton mặc mùa hè)"
       },
       {
         "example": "開浴",
         "reading": "カイヨク",
-        "meaning": "bathing (in a Zen Temple)"
+        "meaning": "bathing (in a Zen Temple) |(vi) lễ tắm (ở thiền viện)"
       },
       {
         "example": "泥浴",
         "reading": "デイヨク",
-        "meaning": "mud bath"
+        "meaning": "mud bath |(vi) tắm bùn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "浴びる",
         "reading": "あびる",
-        "meaning": "to dash over oneself (e.g. water), to take (e.g. shower), to bask in (e.g. the sun), to bathe in, to be flooded with (e.g. light), to be covered in, to suffer (e.g. an attack), to draw (e.g. criticism, attention, praise), to have heaped upon, to be showered with"
+        "meaning": "to dash over oneself (e.g. water), to take (e.g. shower), to bask in (e.g. the sun), to bathe in, to be flooded with (e.g. light), to be covered in, to suffer (e.g. an attack), to draw (e.g. criticism, attention, praise), to have heaped upon, to be showered with |(vi) dội lên mình, tắm, đắm mình, hứng chịu"
       },
       {
         "example": "浴びせる",
         "reading": "あびせる",
-        "meaning": "to pour on"
+        "meaning": "to pour on |(vi) dội lên, trút lên"
       }
     ],
     "radical": {
@@ -341,7 +341,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "ハ",

@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kaze, kaza",
-    "meaning": "wind, manner",
+    "meaning": "wind, manner |(vi) gió, phong cách",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "風習（ふうしゅう）",
         "meaning": {
-          "english": "custom"
+          "english": "custom |(vi) phong tục, tập quán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaze_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "風景（ふうけい）",
         "meaning": {
-          "english": "scenery"
+          "english": "scenery |(vi) phong cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaze_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "台風（たいふう）",
         "meaning": {
-          "english": "typhoon"
+          "english": "typhoon |(vi) bão"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaze_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "扇風機（せんぷうき）",
         "meaning": {
-          "english": "electric fan"
+          "english": "electric fan |(vi) quạt điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaze_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "風呂（ふろ）",
         "meaning": {
-          "english": "bath"
+          "english": "bath |(vi) bồn tắm, nhà tắm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaze_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "風（かぜ）",
         "meaning": {
-          "english": "wind"
+          "english": "wind |(vi) gió"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaze_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "北風（きたかぜ）",
         "meaning": {
-          "english": "north wind"
+          "english": "north wind |(vi) gió bắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaze_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "風向き（かざむき）",
         "meaning": {
-          "english": "wind's direction"
+          "english": "wind's direction |(vi) hướng gió"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaze_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "*風邪（かぜ）",
         "meaning": {
-          "english": "cold (illness)"
+          "english": "cold (illness) |(vi) cảm lạnh, cảm cúm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaze_06_i.opus",
@@ -283,7 +283,7 @@
     "kanji": {
       "character": "風",
       "meaning": {
-        "english": "wind, manner"
+        "english": "wind, manner |(vi) gió, phong cách"
       },
       "strokes": {
         "count": 9,
@@ -339,7 +339,7 @@
         "romaji": "kaze"
       },
       "meaning": {
-        "english": "wind"
+        "english": "wind |(vi) Phong (gió)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kaze0.svg",
@@ -360,7 +360,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "558",
     "strokeCount": 9,
-    "meaning": "wind, air, style, manner",
+    "meaning": "wind, air, style, manner |(vi) gió, không khí, phong cách, dáng vẻ |(hv) Phong",
     "kunyomi": [
       "かぜ",
       "かざ-"
@@ -373,69 +373,69 @@
       {
         "example": "風",
         "reading": "フウ",
-        "meaning": "method, manner, way, style, appearance, air, tendency, folk song (genre of the Shi Jing), wind (one of the five elements)"
+        "meaning": "method, manner, way, style, appearance, air, tendency, folk song (genre of the Shi Jing), wind (one of the five elements) |(vi) cách thức, phong cách, dáng vẻ, xu hướng, thơ phong (trong Kinh Thi), gió (một trong ngũ hành)"
       },
       {
         "example": "風格",
         "reading": "フウカク",
-        "meaning": "personality, style, appearance"
+        "meaning": "personality, style, appearance |(vi) phong cách, cá tính, dáng vẻ"
       },
       {
         "example": "逆風",
         "reading": "ギャクフウ",
-        "meaning": "headwind, adverse wind"
+        "meaning": "headwind, adverse wind |(vi) gió ngược"
       },
       {
         "example": "作風",
         "reading": "サクフウ",
-        "meaning": "style (of a work, author, artist, etc.), characteristics"
+        "meaning": "style (of a work, author, artist, etc.), characteristics |(vi) phong cách sáng tác, đặc trưng"
       },
       {
         "example": "風",
         "reading": "フウ",
-        "meaning": "method, manner, way, style, appearance, air, tendency, folk song (genre of the Shi Jing), wind (one of the five elements)"
+        "meaning": "method, manner, way, style, appearance, air, tendency, folk song (genre of the Shi Jing), wind (one of the five elements) |(vi) cách thức, phong cách, dáng vẻ, xu hướng, thơ phong (trong Kinh Thi), gió (một trong ngũ hành)"
       },
       {
         "example": "振り",
         "reading": "フリ",
-        "meaning": "swing, shake, sweep, wave, wag, appearance, behaviour, behavior, pretence, pretense, (false) show, pretending, (a customer) coming to restaurant, ryokan, etc. without a reservation or introduction, postures (of a dance), lead in (to a joke, question, etc.), setup, unsewn part of a hanging sleeve on a traditional Japanese woman's garment, counter for swords, blades, etc."
+        "meaning": "swing, shake, sweep, wave, wag, appearance, behaviour, behavior, pretence, pretense, (false) show, pretending, (a customer) coming to restaurant, ryokan, etc. without a reservation or introduction, postures (of a dance), lead in (to a joke, question, etc.), setup, unsewn part of a hanging sleeve on a traditional Japanese woman's garment, counter for swords, blades, etc. |(vi) dáng vẻ, điệu bộ, giả vờ, ra vẻ, cách biểu diễn, lượng từ đếm gươm, kiếm"
       },
       {
         "example": "中風",
         "reading": "チュウフウ",
-        "meaning": "palsy, paralysis"
+        "meaning": "palsy, paralysis |(vi) bại liệt, trúng phong"
       },
       {
         "example": "破風",
         "reading": "ハフ",
-        "meaning": "gable"
+        "meaning": "gable |(vi) đầu hồi mái nhà"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "風",
         "reading": "かぜ",
-        "meaning": "wind, breeze, draught, draft, manner, behaviour, behavior, cold, influenza"
+        "meaning": "wind, breeze, draught, draft, manner, behaviour, behavior, cold, influenza |(vi) gió, làn gió, thói quen, cảm lạnh, cúm"
       },
       {
         "example": "風邪",
         "reading": "かぜ",
-        "meaning": "(common) cold, influenza, flu, ague, inflammatory respiratory system illness (in general)"
+        "meaning": "(common) cold, influenza, flu, ague, inflammatory respiratory system illness (in general) |(vi) cảm lạnh, cúm"
       },
       {
         "example": "涼風",
         "reading": "りょうふう",
-        "meaning": "cool breeze, refreshing breeze"
+        "meaning": "cool breeze, refreshing breeze |(vi) gió mát"
       },
       {
         "example": "西風",
         "reading": "にしかぜ",
-        "meaning": "west wind"
+        "meaning": "west wind |(vi) gió tây"
       }
     ],
     "radical": {
       "symbol": "風",
-      "meaning": "wind"
+      "meaning": "wind |(vi) Phong (gió)"
     },
     "parts": [
       "ノ",

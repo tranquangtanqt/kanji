@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "na, naku, naru, narasu",
-    "meaning": "cry, sound, ring, sing, howl",
+    "meaning": "cry, sound, ring, sing, howl |(vi) kêu, âm thanh, vang, hót, gầm",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "悲鳴（ひめい）",
         "meaning": {
-          "english": "shriek, scream"
+          "english": "shriek, scream |(vi) tiếng thét, tiếng la hét"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mei-na(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "鳴動する（めいどうする）",
         "meaning": {
-          "english": "rumble"
+          "english": "rumble |(vi) rung chuyển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mei-na(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "共鳴する（きょうめいする）",
         "meaning": {
-          "english": "resonate, be in sympathy"
+          "english": "resonate, be in sympathy |(vi) cộng hưởng, đồng cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mei-na(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "鳴く（なく）",
         "meaning": {
-          "english": "sing, cry, make a sound"
+          "english": "sing, cry, make a sound |(vi) hót, kêu, phát ra âm thanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mei-na(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "鳴き声（なきごえ）",
         "meaning": {
-          "english": "cry , roar, tearful voice"
+          "english": "cry , roar, tearful voice |(vi) tiếng kêu, tiếng gầm, giọng nghẹn ngào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mei-na(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "鳴らす（ならす）",
         "meaning": {
-          "english": "ring, sound [v.t.]"
+          "english": "ring, sound [v.t.] |(vi) rung, phát tiếng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mei-na(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "鳴る（なる）",
         "meaning": {
-          "english": "ring, sound, resound [v.i.]"
+          "english": "ring, sound, resound [v.i.] |(vi) vang lên, phát ra âm thanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mei-na(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "耳鳴り（みみなり）",
         "meaning": {
-          "english": "buzzing in the ears, tinnitus"
+          "english": "buzzing in the ears, tinnitus |(vi) ù tai, tiếng ù trong tai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mei-na(ru)_06_h.opus",
@@ -224,7 +224,7 @@
     "kanji": {
       "character": "鳴",
       "meaning": {
-        "english": "cry, sound, ring, sing, howl"
+        "english": "cry, sound, ring, sing, howl |(vi) kêu, âm thanh, vang, hót, gầm"
       },
       "strokes": {
         "count": 14,
@@ -290,7 +290,7 @@
         "romaji": "tori"
       },
       "meaning": {
-        "english": "bird"
+        "english": "bird |(vi) Điểu (chim)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tori0.svg",
@@ -311,7 +311,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1279",
     "strokeCount": 14,
-    "meaning": "chirp, cry, bark, sound, ring, echo, honk",
+    "meaning": "chirp, cry, bark, sound, ring, echo, honk |(vi) hót, kêu, sủa, âm thanh, vang, tiếng vọng, còi kêu |(hv) Minh",
     "kunyomi": [
       "な.く",
       "な.る",
@@ -324,54 +324,54 @@
       {
         "example": "鳴管",
         "reading": "メイカン",
-        "meaning": "syrinx (part of a bird), lower larynx"
+        "meaning": "syrinx (part of a bird), lower larynx |(vi) cơ quan phát âm của chim, thanh quản dưới"
       },
       {
         "example": "鳴禽",
         "reading": "メイキン",
-        "meaning": "songbird, oscine"
+        "meaning": "songbird, oscine |(vi) chim hót, chim biết hót"
       },
       {
         "example": "百家争鳴",
         "reading": "ヒャッカソウメイ",
-        "meaning": "let a hundred schools of thought contend"
+        "meaning": "let a hundred schools of thought contend |(vi) để trăm nhà đua tiếng (bách gia tranh minh)"
       },
       {
         "example": "蛙鳴",
         "reading": "アメイ",
-        "meaning": "frog calling"
+        "meaning": "frog calling |(vi) tiếng ếch kêu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鳴く",
         "reading": "なく",
-        "meaning": "to make sound (of an animal), to call, to cry, to whine, to sing, to chirp, to make a meld call (e.g. pung, kong)"
+        "meaning": "to make sound (of an animal), to call, to cry, to whine, to sing, to chirp, to make a meld call (e.g. pung, kong) |(vi) phát ra tiếng kêu (của động vật), gọi, kêu, rên rỉ, hót, líu lo, gọi bài (mạt chược)"
       },
       {
         "example": "鳴く蝉よりも鳴かぬ蛍が身を焦がす",
         "reading": "なくせみよりもなかぬほたるがみをこがす",
-        "meaning": "empty vessels make the most noise, the silent firefly burns with more passion than the crying cicada"
+        "meaning": "empty vessels make the most noise, the silent firefly burns with more passion than the crying cicada |(vi) bình rỗng kêu to nhất, đom đóm câm lặng cháy bỏng hơn ve sầu kêu than"
       },
       {
         "example": "鳴る",
         "reading": "なる",
-        "meaning": "to sound, to ring, to resound, to echo, to roar, to rumble"
+        "meaning": "to sound, to ring, to resound, to echo, to roar, to rumble |(vi) vang lên, kêu, dội lại, vọng lại, gầm, rền vang"
       },
       {
         "example": "鳴門",
         "reading": "なると",
-        "meaning": "strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto (city in Tokushima), Naruto Strait, Naruto wakame"
+        "meaning": "strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto (city in Tokushima), Naruto Strait, Naruto wakame |(vi) eo biển có dòng thủy triều gầm thét, xoáy nước, kamaboko hoa văn xoáy, kỹ thuật cắt nguyên liệu hình xoắn ốc, Naruto (thành phố ở Tokushima), eo biển Naruto, rong biển wakame Naruto"
       },
       {
         "example": "鳴らす",
         "reading": "ならす",
-        "meaning": "to ring, to sound, to chime, to beat, to snort (nose), to snap (fingers), to crack (joints), to be popular, to be esteemed, to be reputed, to state, to insist, to complain, to fart (loudly)"
+        "meaning": "to ring, to sound, to chime, to beat, to snort (nose), to snap (fingers), to crack (joints), to be popular, to be esteemed, to be reputed, to state, to insist, to complain, to fart (loudly) |(vi) rung chuông, phát ra âm thanh, ngân vang, gõ, hỉ mũi, búng ngón tay, bẻ khớp, nổi tiếng, được kính trọng, được ca ngợi, tuyên bố, khăng khăng, than phiền, đánh rắm (thành tiếng)"
       }
     ],
     "radical": {
       "symbol": "鳥",
-      "meaning": "bird"
+      "meaning": "bird |(vi) Điểu (chim)"
     },
     "parts": [
       "口",

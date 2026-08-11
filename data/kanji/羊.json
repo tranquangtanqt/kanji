@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "hitsuji",
-    "meaning": "sheep",
+    "meaning": "sheep |(vi) cừu",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "羊毛（ようもう）",
         "meaning": {
-          "english": "wool"
+          "english": "wool |(vi) len"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-hitsuji_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "羊羹（ようかん）",
         "meaning": {
-          "english": "sweet bean jelly"
+          "english": "sweet bean jelly |(vi) thạch đậu ngọt (yokan)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-hitsuji_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "羊頭狗肉（ようとうくにく）",
         "meaning": {
-          "english": "deceptive advertising"
+          "english": "deceptive advertising |(vi) treo đầu dê bán thịt chó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-hitsuji_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "牧羊犬（ぼくようけん）",
         "meaning": {
-          "english": "sheepdog"
+          "english": "sheepdog |(vi) chó chăn cừu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-hitsuji_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "羊（ひつじ）",
         "meaning": {
-          "english": "sheep"
+          "english": "sheep |(vi) cừu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-hitsuji_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "羊飼い（ひつじかい）",
         "meaning": {
-          "english": "shepherd, shepherdess"
+          "english": "shepherd, shepherdess |(vi) người chăn cừu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-hitsuji_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "子羊（こひつじ）",
         "meaning": {
-          "english": "lamb"
+          "english": "lamb |(vi) cừu con"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-hitsuji_06_g.opus",
@@ -177,7 +177,7 @@
     "kanji": {
       "character": "羊",
       "meaning": {
-        "english": "sheep"
+        "english": "sheep |(vi) cừu"
       },
       "strokes": {
         "count": 6,
@@ -227,7 +227,7 @@
         "romaji": "hitsuji"
       },
       "meaning": {
-        "english": "sheep"
+        "english": "sheep |(vi) Dương (cừu, dê)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitsuji0.svg",
@@ -248,7 +248,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1852",
     "strokeCount": 6,
-    "meaning": "sheep",
+    "meaning": "sheep |(vi) cừu |(hv) Dương",
     "kunyomi": [
       "ひつじ"
     ],
@@ -259,44 +259,44 @@
       {
         "example": "羊毛",
         "reading": "ヨウモウ",
-        "meaning": "wool"
+        "meaning": "wool |(vi) len"
       },
       {
         "example": "羊肉",
         "reading": "ヨウニク",
-        "meaning": "mutton, lamb (meat)"
+        "meaning": "mutton, lamb (meat) |(vi) thịt cừu"
       },
       {
         "example": "羝羊",
         "reading": "テイヨウ",
-        "meaning": "ram (sheep), someone who lives their life by instinct"
+        "meaning": "ram (sheep), someone who lives their life by instinct |(vi) dê đực (cừu đực), người sống theo bản năng"
       },
       {
         "example": "羚羊",
         "reading": "レイヨウ",
-        "meaning": "antelope"
+        "meaning": "antelope |(vi) linh dương"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "羊",
         "reading": "ひつじ",
-        "meaning": "sheep (Ovis aries)"
+        "meaning": "sheep (Ovis aries) |(vi) cừu (Ovis aries)"
       },
       {
         "example": "羊飼い",
         "reading": "ひつじかい",
-        "meaning": "shepherd, shepherdess"
+        "meaning": "shepherd, shepherdess |(vi) người chăn cừu"
       },
       {
         "example": "牡羊",
         "reading": "おひつじ",
-        "meaning": "ram (sheep)"
+        "meaning": "ram (sheep) |(vi) cừu đực"
       },
       {
         "example": "迷える子羊",
         "reading": "まよえるこひつじ",
-        "meaning": "stray sheep, lost lamb, person at a loss for what to do"
+        "meaning": "stray sheep, lost lamb, person at a loss for what to do |(vi) cừu lạc đàn, chiên lạc, người mất phương hướng"
       }
     ],
     "radical": {
@@ -304,7 +304,7 @@
       "forms": [
         "⺶"
       ],
-      "meaning": "sheep"
+      "meaning": "sheep |(vi) Dương (cừu, dê)"
     },
     "parts": [
       "并",

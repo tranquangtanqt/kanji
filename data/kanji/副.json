@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "secondary, assistant, accompany, supplement",
+    "meaning": "secondary, assistant, accompany, supplement |(vi) phụ, trợ lý, đi kèm, bổ sung",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "副詞（ふくし）",
         "meaning": {
-          "english": "adverb"
+          "english": "adverb |(vi) phó từ, trạng từ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(sayou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "副賞（ふくしょう）",
         "meaning": {
-          "english": "bonus prize"
+          "english": "bonus prize |(vi) giải thưởng phụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(sayou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "副作用（ふくさよう）",
         "meaning": {
-          "english": "reaction, side effect"
+          "english": "reaction, side effect |(vi) phản ứng, tác dụng phụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(sayou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "副産物（ふくさんぶつ）",
         "meaning": {
-          "english": "by-product, spin-off"
+          "english": "by-product, spin-off |(vi) sản phẩm phụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(sayou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "副収入（ふくしゅうにゅう）",
         "meaning": {
-          "english": "additional income"
+          "english": "additional income |(vi) thu nhập phụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(sayou)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "副社長（ふくしゃちょう）",
         "meaning": {
-          "english": "vice president (company)"
+          "english": "vice president (company) |(vi) phó chủ tịch (công ty)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(sayou)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "副大統領（ふくだいとうりょう）",
         "meaning": {
-          "english": "vice president (gov't)"
+          "english": "vice president (gov't) |(vi) phó tổng thống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(sayou)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "副次的な（ふくじてきな）",
         "meaning": {
-          "english": "secondary"
+          "english": "secondary |(vi) thứ yếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(sayou)_06_h.opus",
@@ -195,7 +195,7 @@
     "kanji": {
       "character": "副",
       "meaning": {
-        "english": "secondary, assistant, accompany, supplement"
+        "english": "secondary, assistant, accompany, supplement |(vi) phụ, trợ lý, đi kèm, bổ sung"
       },
       "strokes": {
         "count": 11,
@@ -255,7 +255,7 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, kiếm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -276,7 +276,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "360",
     "strokeCount": 11,
-    "meaning": "vice-, assistant, aide, duplicate, copy",
+    "meaning": "vice-, assistant, aide, duplicate, copy |(vi) phó-, trợ lý, phụ tá, bản sao, bản chép |(hv) Phó",
     "kunyomi": [],
     "onyomi": [
       "フク"
@@ -285,22 +285,22 @@
       {
         "example": "副",
         "reading": "フク",
-        "meaning": "assistant, associate, vice-, sub-, deputy, substitute, auxiliary, supplementary, additional, collateral, duplicate, copy, adverb"
+        "meaning": "assistant, associate, vice-, sub-, deputy, substitute, auxiliary, supplementary, additional, collateral, duplicate, copy, adverb |(vi) trợ lý, cộng sự, phó-, thứ-, đại diện, thay thế, bổ trợ, bổ sung, thêm, phụ, bản sao, phó từ"
       },
       {
         "example": "副作用",
         "reading": "フクサヨウ",
-        "meaning": "side effect, adverse reaction"
+        "meaning": "side effect, adverse reaction |(vi) tác dụng phụ, phản ứng phụ"
       },
       {
         "example": "正副",
         "reading": "セイフク",
-        "meaning": "original and copy (of a document), principal and vice- (e.g. chairman and vice-chairman)"
+        "meaning": "original and copy (of a document), principal and vice- (e.g. chairman and vice-chairman) |(vi) bản chính và bản sao (của một văn bản), chính và phó (ví dụ chủ tịch và phó chủ tịch)"
       },
       {
         "example": "関副",
         "reading": "カンフク",
-        "meaning": "relative adverb"
+        "meaning": "relative adverb |(vi) phó từ quan hệ"
       }
     ],
     "kunyomiExamples": [],
@@ -309,7 +309,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "一",

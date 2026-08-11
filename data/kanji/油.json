@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "abura",
-    "meaning": "oil",
+    "meaning": "oil |(vi) dầu",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "油脂（ゆし）",
         "meaning": {
-          "english": "fat, fats and oils"
+          "english": "fat, fats and oils |(vi) dầu mỡ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yu-abura_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "石油（せきゆ）",
         "meaning": {
-          "english": "oil, petroleum, kerosene"
+          "english": "oil, petroleum, kerosene |(vi) dầu mỏ, xăng dầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yu-abura_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "灯油（とうゆ）",
         "meaning": {
-          "english": "lamp oil, kerosene"
+          "english": "lamp oil, kerosene |(vi) dầu hỏa, dầu thắp đèn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yu-abura_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "醤油（しょうゆ）",
         "meaning": {
-          "english": "soy sauce"
+          "english": "soy sauce |(vi) nước tương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yu-abura_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "潤滑油（じゅんかつゆ）",
         "meaning": {
-          "english": "lubricating oil"
+          "english": "lubricating oil |(vi) dầu bôi trơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yu-abura_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "油断する（ゆだんする）",
         "meaning": {
-          "english": "neglect, relax one's guard"
+          "english": "neglect, relax one's guard |(vi) lơ là, mất cảnh giác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yu-abura_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "油（あぶら）",
         "meaning": {
-          "english": "oil"
+          "english": "oil |(vi) dầu, mỡ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yu-abura_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "油絵（あぶらえ）",
         "meaning": {
-          "english": "oil painting"
+          "english": "oil painting |(vi) tranh sơn dầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yu-abura_06_h.opus",
@@ -196,7 +196,7 @@
     "kanji": {
       "character": "油",
       "meaning": {
-        "english": "oil"
+        "english": "oil |(vi) dầu"
       },
       "strokes": {
         "count": 8,
@@ -250,7 +250,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -271,7 +271,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "690",
     "strokeCount": 8,
-    "meaning": "oil, fat",
+    "meaning": "oil, fat |(vi) dầu, mỡ |(hv) Du",
     "kunyomi": [
       "あぶら"
     ],
@@ -283,59 +283,59 @@
       {
         "example": "油井",
         "reading": "ユセイ",
-        "meaning": "oil well"
+        "meaning": "oil well |(vi) giếng dầu"
       },
       {
         "example": "油彩",
         "reading": "ユサイ",
-        "meaning": "oil painting"
+        "meaning": "oil painting |(vi) tranh sơn dầu"
       },
       {
         "example": "重油",
         "reading": "ジュウユ",
-        "meaning": "heavy oil, fuel oil"
+        "meaning": "heavy oil, fuel oil |(vi) dầu nặng, dầu nhiên liệu"
       },
       {
         "example": "軽油",
         "reading": "ケイユ",
-        "meaning": "diesel oil, diesel fuel, gas oil, light oil"
+        "meaning": "diesel oil, diesel fuel, gas oil, light oil |(vi) dầu diesel"
       },
       {
         "example": "油色",
         "reading": "ユショク",
-        "meaning": "coating a painting with a layer of transparent oil"
+        "meaning": "coating a painting with a layer of transparent oil |(vi) phủ lớp dầu trong suốt lên tranh"
       },
       {
         "example": "油然",
         "reading": "ユウゼン",
-        "meaning": "gushingly, freely (welling up), copiously"
+        "meaning": "gushingly, freely (welling up), copiously |(vi) trào dâng tự nhiên, dồi dào"
       },
       {
         "example": "油油",
         "reading": "ユウユウ",
-        "meaning": "shiny, glossy, bright, sleek"
+        "meaning": "shiny, glossy, bright, sleek |(vi) bóng loáng, sáng bóng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "油",
         "reading": "あぶら",
-        "meaning": "oil"
+        "meaning": "oil |(vi) dầu, mỡ"
       },
       {
         "example": "油絵",
         "reading": "あぶらえ",
-        "meaning": "oil painting"
+        "meaning": "oil painting |(vi) tranh sơn dầu"
       },
       {
         "example": "匂い油",
         "reading": "においあぶら",
-        "meaning": "perfumed hair oil"
+        "meaning": "perfumed hair oil |(vi) dầu thơm bôi tóc"
       },
       {
         "example": "機械油",
         "reading": "きかいあぶら",
-        "meaning": "machine oil"
+        "meaning": "machine oil |(vi) dầu máy"
       }
     ],
     "radical": {
@@ -344,7 +344,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "日",

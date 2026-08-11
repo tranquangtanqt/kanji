@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "counter for flat things",
+    "meaning": "counter for flat things |(vi) lượng từ đếm vật phẳng, mỏng",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "一枚（いちまい）",
         "meaning": {
-          "english": "one (flat object)"
+          "english": "one (flat object) |(vi) một (vật phẳng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)mai_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "何枚（なんまい）",
         "meaning": {
-          "english": "how many flat objects"
+          "english": "how many flat objects |(vi) bao nhiêu (vật phẳng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)mai_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "枚数（まいすう）",
         "meaning": {
-          "english": "number of flat objects"
+          "english": "number of flat objects |(vi) số lượng vật phẳng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)mai_06_c.opus",
@@ -177,7 +177,7 @@
     "kanji": {
       "character": "枚",
       "meaning": {
-        "english": "counter for flat things"
+        "english": "counter for flat things |(vi) lượng từ đếm vật phẳng, mỏng"
       },
       "strokes": {
         "count": 8,
@@ -231,7 +231,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -252,7 +252,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "911",
     "strokeCount": 8,
-    "meaning": "sheet of..., counter for flat thin objects or sheets",
+    "meaning": "sheet of..., counter for flat thin objects or sheets |(vi) tờ, tấm..., lượng từ đếm vật phẳng, mỏng |(hv) Mai",
     "kunyomi": [],
     "onyomi": [
       "マイ",
@@ -262,33 +262,33 @@
       {
         "example": "枚",
         "reading": "マイ",
-        "meaning": "counter for thin, flat objects (e.g. sheets of paper, plates, coins), counter for portions of gyōza or soba, counter for ranks, counter for wrestlers of a particular rank, counter for fields or rice paddies, counter for palanquin bearers"
+        "meaning": "counter for thin, flat objects (e.g. sheets of paper, plates, coins), counter for portions of gyōza or soba, counter for ranks, counter for wrestlers of a particular rank, counter for fields or rice paddies, counter for palanquin bearers |(vi) lượng từ đếm vật mỏng, phẳng (vd. tờ giấy, đĩa, đồng xu), lượng từ đếm phần sủi cảo hoặc soba, lượng từ đếm cấp bậc, lượng từ đếm đô vật theo hạng, lượng từ đếm ruộng, lượng từ đếm phu khiêng kiệu"
       },
       {
         "example": "枚数",
         "reading": "マイスウ",
-        "meaning": "the number of flat things, win-loss difference which influences the ranking of wrestlers"
+        "meaning": "the number of flat things, win-loss difference which influences the ranking of wrestlers |(vi) số lượng vật phẳng, chênh lệch thắng-thua ảnh hưởng đến thứ hạng đô vật"
       },
       {
         "example": "パンツ一枚",
         "reading": "パンツイチマイ",
-        "meaning": "(wearing) nothing but a pair of underpants"
+        "meaning": "(wearing) nothing but a pair of underpants |(vi) (chỉ mặc) độc một chiếc quần lót"
       },
       {
         "example": "奇跡の一枚",
         "reading": "キセキノイチマイ",
-        "meaning": "photo in which its subject looks much more attractive than their usual self"
+        "meaning": "photo in which its subject looks much more attractive than their usual self |(vi) bức ảnh trong đó chủ thể trông hấp dẫn hơn hẳn bình thường"
       },
       {
         "example": "枚を銜む",
         "reading": "バイヲフクム",
-        "meaning": "to gag (a horse)"
+        "meaning": "to gag (a horse) |(vi) ngậm hàm thiếc (ngựa)"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây)"
     },
     "parts": [
       "乞",

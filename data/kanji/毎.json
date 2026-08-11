@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "goto",
-    "meaning": "every",
+    "meaning": "every |(vi) mỗi",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "毎朝（まいあさ）",
         "meaning": {
-          "english": "every morning"
+          "english": "every morning |(vi) mỗi sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/goto_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "毎日（まいにち）",
         "meaning": {
-          "english": "every day"
+          "english": "every day |(vi) mỗi ngày, hằng ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/goto_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "毎回（まいかい）",
         "meaning": {
-          "english": "every time"
+          "english": "every time |(vi) mỗi lần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/goto_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "毎度（まいど）",
         "meaning": {
-          "english": "each time"
+          "english": "each time |(vi) mỗi lần, mỗi khi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/goto_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "毎週（まいしゅう）",
         "meaning": {
-          "english": "every week"
+          "english": "every week |(vi) mỗi tuần, hằng tuần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/goto_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "三日毎に（みっかごとに）",
         "meaning": {
-          "english": "every 3 days"
+          "english": "every 3 days |(vi) cứ mỗi 3 ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/goto_06_f.opus",
@@ -222,7 +222,7 @@
     "kanji": {
       "character": "毎",
       "meaning": {
-        "english": "every"
+        "english": "every |(vi) mỗi"
       },
       "strokes": {
         "count": 6,
@@ -272,7 +272,7 @@
         "romaji": "nakare"
       },
       "meaning": {
-        "english": "not, mother"
+        "english": "not, mother |(vi) Vô/Mẫu (chớ, mẹ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nakare0.svg",
@@ -293,7 +293,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "436",
     "strokeCount": 6,
-    "meaning": "every",
+    "meaning": "every |(vi) mỗi |(hv) Mỗi",
     "kunyomi": [
       "ごと",
       "-ごと.に"
@@ -305,39 +305,39 @@
       {
         "example": "毎",
         "reading": "マイ",
-        "meaning": "every (usu. with events, e.g. every weekend), each"
+        "meaning": "every (usu. with events, e.g. every weekend), each |(vi) mỗi (thường dùng với sự kiện, vd. mỗi cuối tuần), từng"
       },
       {
         "example": "毎朝",
         "reading": "マイアサ",
-        "meaning": "every morning"
+        "meaning": "every morning |(vi) mỗi sáng"
       },
       {
         "example": "毎々",
         "reading": "マイマイ",
-        "meaning": "each time, frequently, always"
+        "meaning": "each time, frequently, always |(vi) mỗi lần, thường xuyên, luôn luôn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "毎",
         "reading": "ごと",
-        "meaning": "each, every"
+        "meaning": "each, every |(vi) mỗi, từng"
       },
       {
         "example": "毎に",
         "reading": "ごとに",
-        "meaning": "one by one, each, every, at intervals of"
+        "meaning": "one by one, each, every, at intervals of |(vi) từng cái một, mỗi, từng, theo chu kỳ"
       },
       {
         "example": "月ごと",
         "reading": "つきごと",
-        "meaning": "monthly"
+        "meaning": "monthly |(vi) hằng tháng"
       },
       {
         "example": "戸ごと",
         "reading": "こごと",
-        "meaning": "every house, each household"
+        "meaning": "every house, each household |(vi) mỗi nhà, từng hộ gia đình"
       }
     ],
     "radical": {
@@ -346,7 +346,7 @@
         "母",
         "⺟"
       ],
-      "meaning": "mother, do not"
+      "meaning": "mother, do not |(vi) Vô (chớ, mẹ)"
     },
     "parts": [
       "乞",

@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "ega, egaku",
-    "meaning": "depict, draw, paint",
+    "meaning": "depict, draw, paint |(vi) miêu tả, vẽ, phác họa",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "点描（てんびょう）",
         "meaning": {
-          "english": "sketch (using stippling)"
+          "english": "sketch (using stippling) |(vi) vẽ chấm điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/byou-ega(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "素描（そびょう）",
         "meaning": {
-          "english": "rough sketch"
+          "english": "rough sketch |(vi) phác thảo, vẽ phác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/byou-ega(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "線描（せんびょう）",
         "meaning": {
-          "english": "line drawing"
+          "english": "line drawing |(vi) vẽ đường nét"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/byou-ega(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "描写する（びょうしゃする）",
         "meaning": {
-          "english": "depict, portray, describe"
+          "english": "depict, portray, describe |(vi) miêu tả, khắc họa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/byou-ega(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "描く（えがく）",
         "meaning": {
-          "english": "draw, sketch"
+          "english": "draw, sketch |(vi) vẽ, phác họa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/byou-ega(ku)_06_e.opus",
@@ -160,7 +160,7 @@
     "kanji": {
       "character": "描",
       "meaning": {
-        "english": "depict, draw, paint"
+        "english": "depict, draw, paint |(vi) miêu tả, vẽ, phác họa"
       },
       "strokes": {
         "count": 11,
@@ -220,7 +220,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -241,7 +241,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "876",
     "strokeCount": 11,
-    "meaning": "sketch, compose, write, draw, paint",
+    "meaning": "sketch, compose, write, draw, paint |(vi) vẽ, phác họa, miêu tả, sáng tác |(hv) Miêu",
     "kunyomi": [
       "えが.く",
       "か.く"
@@ -253,34 +253,34 @@
       {
         "example": "描写",
         "reading": "ビョウシャ",
-        "meaning": "depiction, description, portrayal"
+        "meaning": "depiction, description, portrayal |(vi) miêu tả, khắc họa"
       },
       {
         "example": "描画",
         "reading": "ビョウガ",
-        "meaning": "drawing, painting"
+        "meaning": "drawing, painting |(vi) vẽ tranh, hội họa"
       },
       {
         "example": "線描",
         "reading": "センビョウ",
-        "meaning": "line drawing"
+        "meaning": "line drawing |(vi) vẽ đường nét"
       },
       {
         "example": "素描",
         "reading": "ソビョウ",
-        "meaning": "drawing, sketch, outline, summary, synopsis"
+        "meaning": "drawing, sketch, outline, summary, synopsis |(vi) phác thảo, sơ lược"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "描く",
         "reading": "えがく",
-        "meaning": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
+        "meaning": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.) |(vi) vẽ, phác họa, hình dung, tưởng tượng"
       },
       {
         "example": "描く",
         "reading": "えがく",
-        "meaning": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
+        "meaning": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.) |(vi) vẽ, phác họa, hình dung, tưởng tượng"
       }
     ],
     "radical": {
@@ -288,7 +288,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "扎",

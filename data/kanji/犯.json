@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 6,
     "kunyomi": "oka, okasu",
-    "meaning": "offense, commit (a crime), violate, defy",
+    "meaning": "offense, commit (a crime), violate, defy |(vi) tội, phạm tội, vi phạm, chống đối",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "犯罪（はんざい）",
         "meaning": {
-          "english": "crime"
+          "english": "crime |(vi) tội phạm, tội ác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(nin)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "犯行（はんこう）",
         "meaning": {
-          "english": "criminal act"
+          "english": "criminal act |(vi) hành vi phạm tội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(nin)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "犯人（はんにん）",
         "meaning": {
-          "english": "offender, criminal"
+          "english": "offender, criminal |(vi) thủ phạm, kẻ phạm tội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(nin)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "防犯（ぼうはん）",
         "meaning": {
-          "english": "crime prevention"
+          "english": "crime prevention |(vi) phòng chống tội phạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(nin)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "初犯（しょはん）",
         "meaning": {
-          "english": "first offender"
+          "english": "first offender |(vi) phạm tội lần đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(nin)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "共犯（きょうはん）",
         "meaning": {
-          "english": "accomplice"
+          "english": "accomplice |(vi) đồng phạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(nin)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "戦犯（せんぱん）",
         "meaning": {
-          "english": "war criminal"
+          "english": "war criminal |(vi) tội phạm chiến tranh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(nin)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "殺人犯（さつじんはん）",
         "meaning": {
-          "english": "murderer"
+          "english": "murderer |(vi) kẻ giết người, hung thủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(nin)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "知能犯（ちのうはん）",
         "meaning": {
-          "english": "intellectual criminal"
+          "english": "intellectual criminal |(vi) tội phạm trí tuệ (lừa đảo, gian lận)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(nin)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "犯す（おかす）",
         "meaning": {
-          "english": "commit, perpetrate, violate"
+          "english": "commit, perpetrate, violate |(vi) phạm (tội), vi phạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(nin)_06_j.opus",
@@ -218,7 +218,7 @@
     "kanji": {
       "character": "犯",
       "meaning": {
-        "english": "offense, commit (a crime), violate, defy"
+        "english": "offense, commit (a crime), violate, defy |(vi) tội, phạm tội, vi phạm, chống đối"
       },
       "strokes": {
         "count": 5,
@@ -266,7 +266,7 @@
         "romaji": "kemonohen"
       },
       "meaning": {
-        "english": "beast"
+        "english": "beast |(vi) Khuyển (thú vật, bộ thú)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kemonohen0.svg",
@@ -287,7 +287,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "874",
     "strokeCount": 5,
-    "meaning": "crime, sin, offense",
+    "meaning": "crime, sin, offense |(vi) tội, tội lỗi, hành vi phạm pháp |(hv) Phạm",
     "kunyomi": [
       "おか.す"
     ],
@@ -299,39 +299,39 @@
       {
         "example": "犯",
         "reading": "ハン",
-        "meaning": "perpetrators of (some) crime, (some type of) crime"
+        "meaning": "perpetrators of (some) crime, (some type of) crime |(vi) kẻ phạm tội, loại tội phạm"
       },
       {
         "example": "犯行",
         "reading": "ハンコウ",
-        "meaning": "crime, criminal act, offence, offense"
+        "meaning": "crime, criminal act, offence, offense |(vi) hành vi phạm tội, tội ác"
       },
       {
         "example": "共犯",
         "reading": "キョウハン",
-        "meaning": "complicity"
+        "meaning": "complicity |(vi) sự đồng phạm, tòng phạm"
       },
       {
         "example": "防犯",
         "reading": "ボウハン",
-        "meaning": "prevention of crime, security (device, camera, etc.)"
+        "meaning": "prevention of crime, security (device, camera, etc.) |(vi) phòng chống tội phạm, an ninh"
       },
       {
         "example": "違犯",
         "reading": "イハン",
-        "meaning": "offense (against the law), offence, violation"
+        "meaning": "offense (against the law), offence, violation |(vi) vi phạm (pháp luật)"
       },
       {
         "example": "重犯",
         "reading": "ジュウハン",
-        "meaning": "felony, major offence, felon, old offender"
+        "meaning": "felony, major offence, felon, old offender |(vi) trọng tội, tội phạm nghiêm trọng, tái phạm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "犯す",
         "reading": "おかす",
-        "meaning": "to commit (e.g. crime), to perpetrate, to make (e.g. mistake), to break (e.g. rule), to violate, to transgress, to contravene, to rape, to violate, to ravish, to deflower"
+        "meaning": "to commit (e.g. crime), to perpetrate, to make (e.g. mistake), to break (e.g. rule), to violate, to transgress, to contravene, to rape, to violate, to ravish, to deflower |(vi) phạm (tội), gây ra (lỗi), vi phạm, xâm phạm, hãm hiếp"
       }
     ],
     "radical": {
@@ -339,7 +339,7 @@
       "forms": [
         "犭"
       ],
-      "meaning": "dog"
+      "meaning": "dog |(vi) Khuyển (chó)"
     },
     "parts": [
       "乙",

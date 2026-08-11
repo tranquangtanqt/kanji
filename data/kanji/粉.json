@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "ko, kona",
-    "meaning": "powder",
+    "meaning": "powder |(vi) bột, phấn",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "粉末（ふんまつ）",
         "meaning": {
-          "english": "fine powder"
+          "english": "fine powder |(vi) bột mịn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-kona_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "粉乳（ふんにゅう）",
         "meaning": {
-          "english": "powdered milk"
+          "english": "powdered milk |(vi) sữa bột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-kona_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "粉飾（ふんしょく）",
         "meaning": {
-          "english": "makeup"
+          "english": "makeup |(vi) trang điểm, tô vẽ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-kona_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "製粉（せいふん）",
         "meaning": {
-          "english": "milling, grinding into flour"
+          "english": "milling, grinding into flour |(vi) xay bột, nghiền thành bột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-kona_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "花粉（かふん）",
         "meaning": {
-          "english": "pollen"
+          "english": "pollen |(vi) phấn hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-kona_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "鉄粉（てっぷん）",
         "meaning": {
-          "english": "iron powder"
+          "english": "iron powder |(vi) bột sắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-kona_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "金粉（きんぷん）",
         "meaning": {
-          "english": "gold dust"
+          "english": "gold dust |(vi) bột vàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-kona_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "澱粉（でんぷん）",
         "meaning": {
-          "english": "starch"
+          "english": "starch |(vi) tinh bột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-kona_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "小麦粉（こむぎこ）",
         "meaning": {
-          "english": "wheat flour"
+          "english": "wheat flour |(vi) bột mì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-kona_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "粉（こな）",
         "meaning": {
-          "english": "powder"
+          "english": "powder |(vi) bột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-kona_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "粉薬（こなぐすり）",
         "meaning": {
-          "english": "powdered medicine"
+          "english": "powdered medicine |(vi) thuốc bột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-kona_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "粉々（こなごな）",
         "meaning": {
-          "english": "in very small pieces"
+          "english": "in very small pieces |(vi) vụn nát, tan thành mảnh nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-kona_06_l.opus",
@@ -232,7 +232,7 @@
     "kanji": {
       "character": "粉",
       "meaning": {
-        "english": "powder"
+        "english": "powder |(vi) bột, phấn"
       },
       "strokes": {
         "count": 10,
@@ -290,7 +290,7 @@
         "romaji": "komehen"
       },
       "meaning": {
-        "english": "rice"
+        "english": "rice |(vi) Mễ (gạo)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/komehen0.svg",
@@ -311,7 +311,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1484",
     "strokeCount": 10,
-    "meaning": "flour, powder, dust",
+    "meaning": "flour, powder, dust |(vi) bột, phấn, bụi |(hv) Phấn",
     "kunyomi": [
       "デシメートル",
       "こ",
@@ -324,69 +324,69 @@
       {
         "example": "粉末",
         "reading": "フンマツ",
-        "meaning": "fine powder"
+        "meaning": "fine powder |(vi) bột mịn"
       },
       {
         "example": "粉飾",
         "reading": "フンショク",
-        "meaning": "embellishment (e.g. of a story), ornamentation, decoration, putting on makeup"
+        "meaning": "embellishment (e.g. of a story), ornamentation, decoration, putting on makeup |(vi) tô điểm (câu chuyện), trang trí, trang điểm"
       },
       {
         "example": "米粉",
         "reading": "コメコ",
-        "meaning": "rice flour"
+        "meaning": "rice flour |(vi) bột gạo"
       },
       {
         "example": "製粉",
         "reading": "セイフン",
-        "meaning": "milling, grinding into flour"
+        "meaning": "milling, grinding into flour |(vi) xay bột, nghiền thành bột"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "粉",
         "reading": "デシメートル",
-        "meaning": "decimetre, decimeter"
+        "meaning": "decimetre, decimeter |(vi) đềximét"
       },
       {
         "example": "粉",
         "reading": "こな",
-        "meaning": "flour, meal, powder, dust"
+        "meaning": "flour, meal, powder, dust |(vi) bột, bột mịn, bụi"
       },
       {
         "example": "粉ミルク",
         "reading": "こなミルク",
-        "meaning": "milk powder, baby formula, infant formula, formula, baby milk"
+        "meaning": "milk powder, baby formula, infant formula, formula, baby milk |(vi) sữa bột, sữa công thức cho trẻ"
       },
       {
         "example": "火の粉",
         "reading": "ひのこ",
-        "meaning": "sparks"
+        "meaning": "sparks |(vi) tàn lửa"
       },
       {
         "example": "薄力粉",
         "reading": "はくりきこ",
-        "meaning": "cake flour, pastry flour"
+        "meaning": "cake flour, pastry flour |(vi) bột mì làm bánh (bột mì ít gluten)"
       },
       {
         "example": "粉",
         "reading": "こな",
-        "meaning": "flour, meal, powder, dust"
+        "meaning": "flour, meal, powder, dust |(vi) bột, bột mịn, bụi"
       },
       {
         "example": "粉ミルク",
         "reading": "こなミルク",
-        "meaning": "milk powder, baby formula, infant formula, formula, baby milk"
+        "meaning": "milk powder, baby formula, infant formula, formula, baby milk |(vi) sữa bột, sữa công thức cho trẻ"
       },
       {
         "example": "お粉",
         "reading": "おこな",
-        "meaning": "white makeup powder, (face) powder"
+        "meaning": "white makeup powder, (face) powder |(vi) phấn trang điểm trắng, phấn mặt"
       }
     ],
     "radical": {
       "symbol": "米",
-      "meaning": "rice"
+      "meaning": "rice |(vi) Mễ (gạo)"
     },
     "parts": [
       "ハ",

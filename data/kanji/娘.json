@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "musume",
-    "meaning": "daughter, girl",
+    "meaning": "daughter, girl |(vi) con gái, cô gái",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "娘（むすめ）",
         "meaning": {
-          "english": "daughter, girl"
+          "english": "daughter, girl |(vi) con gái, cô gái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musume_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "娘心（むすめごころ）",
         "meaning": {
-          "english": "girlish character"
+          "english": "girlish character |(vi) tính cách con gái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musume_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "娘婿（むすめむこ）",
         "meaning": {
-          "english": "son-in-law"
+          "english": "son-in-law |(vi) con rể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musume_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "孫娘（まごむすめ）",
         "meaning": {
-          "english": "granddaughter"
+          "english": "granddaughter |(vi) cháu gái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musume_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "箱入り娘（はこいりむすめ）",
         "meaning": {
-          "english": "girl who has led a sheltered life"
+          "english": "girl who has led a sheltered life |(vi) cô gái được nuông chiều, sống trong nhung lụa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musume_06_e.opus",
@@ -176,7 +176,7 @@
     "kanji": {
       "character": "娘",
       "meaning": {
-        "english": "daughter, girl"
+        "english": "daughter, girl |(vi) con gái, cô gái"
       },
       "strokes": {
         "count": 10,
@@ -234,7 +234,7 @@
         "romaji": "onnahen"
       },
       "meaning": {
-        "english": "woman"
+        "english": "woman |(vi) Nữ (phụ nữ - bộ đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/onnahen0.svg",
@@ -255,7 +255,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1145",
     "strokeCount": 10,
-    "meaning": "daughter, girl",
+    "meaning": "daughter, girl |(vi) con gái, cô gái |(hv) Nương",
     "kunyomi": [
       "むすめ",
       "こ"
@@ -267,64 +267,64 @@
       {
         "example": "嬢",
         "reading": "ジョウ",
-        "meaning": "unmarried woman, Miss, -ess, -ette"
+        "meaning": "unmarried woman, Miss, -ess, -ette |(vi) phụ nữ chưa chồng, cô, tiểu thư"
       },
       {
         "example": "娘核",
         "reading": "ジョウカク",
-        "meaning": "daughter nucleus"
+        "meaning": "daughter nucleus |(vi) nhân tế bào con"
       },
       {
         "example": "令娘",
         "reading": "レイジョウ",
-        "meaning": "your daughter, young lady"
+        "meaning": "your daughter, young lady |(vi) con gái của quý vị, tiểu thư"
       },
       {
         "example": "中国娘",
         "reading": "チュウゴクジョウ",
-        "meaning": "Chinese girl"
+        "meaning": "Chinese girl |(vi) cô gái Trung Quốc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "娘",
         "reading": "むすめ",
-        "meaning": "daughter, girl (i.e. a young, unmarried woman)"
+        "meaning": "daughter, girl (i.e. a young, unmarried woman) |(vi) con gái, cô gái (phụ nữ trẻ chưa chồng)"
       },
       {
         "example": "娘婿",
         "reading": "むすめむこ",
-        "meaning": "son-in-law"
+        "meaning": "son-in-law |(vi) con rể"
       },
       {
         "example": "一人娘",
         "reading": "ひとりむすめ",
-        "meaning": "only daughter"
+        "meaning": "only daughter |(vi) con gái duy nhất"
       },
       {
         "example": "もらい娘",
         "reading": "もらいむすめ",
-        "meaning": "adopted daughter"
+        "meaning": "adopted daughter |(vi) con gái nuôi"
       },
       {
         "example": "娘",
         "reading": "むすめ",
-        "meaning": "daughter, girl (i.e. a young, unmarried woman)"
+        "meaning": "daughter, girl (i.e. a young, unmarried woman) |(vi) con gái, cô gái (phụ nữ trẻ chưa chồng)"
       },
       {
         "example": "ボクっ娘",
         "reading": "ぼくっこ",
-        "meaning": "young woman who uses the usually male first person pronoun \"boku\""
+        "meaning": "young woman who uses the usually male first person pronoun \"boku\" |(vi) cô gái tự xưng bằng đại từ nam giới 'boku'"
       },
       {
         "example": "ドジっ子",
         "reading": "どじっこ",
-        "meaning": "clumsy girl, clumsy kid"
+        "meaning": "clumsy girl, clumsy kid |(vi) cô bé vụng về, đứa trẻ vụng về"
       }
     ],
     "radical": {
       "symbol": "女",
-      "meaning": "woman, female"
+      "meaning": "woman, female |(vi) Nữ (phụ nữ, giống cái)"
     },
     "parts": [
       "女",

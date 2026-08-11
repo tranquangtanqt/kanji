@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "fuse, fusegu",
-    "meaning": "prevent, protect from",
+    "meaning": "prevent, protect from |(vi) phòng ngừa, bảo vệ",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "防水（ぼうすい）",
         "meaning": {
-          "english": "waterproofing"
+          "english": "waterproofing |(vi) chống thấm nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuse(gu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "防音（ぼうおん）",
         "meaning": {
-          "english": "soundproofing"
+          "english": "soundproofing |(vi) cách âm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuse(gu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "防虫剤（ぼうちゅうざい）",
         "meaning": {
-          "english": "insecticide"
+          "english": "insecticide |(vi) thuốc chống côn trùng, thuốc diệt côn trùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuse(gu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "防腐剤（ぼうふざい）",
         "meaning": {
-          "english": "antiseptic, preservative [n.]"
+          "english": "antiseptic, preservative [n.] |(vi) chất bảo quản, chất chống thối rữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuse(gu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "防災訓練（ぼうさいくんれん）",
         "meaning": {
-          "english": "disaster prevention drill"
+          "english": "disaster prevention drill |(vi) diễn tập phòng chống thiên tai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuse(gu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "堤防（ていぼう）",
         "meaning": {
-          "english": "bank, levee, dike"
+          "english": "bank, levee, dike |(vi) đê, đê điều, bờ đê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuse(gu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "消防車（しょうぼうしゃ）",
         "meaning": {
-          "english": "fire-engine"
+          "english": "fire-engine |(vi) xe cứu hỏa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuse(gu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "無防備な（むぼうびな）",
         "meaning": {
-          "english": "defenseless"
+          "english": "defenseless |(vi) không phòng bị, không được bảo vệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuse(gu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "防止する（ぼうしする）",
         "meaning": {
-          "english": "prevent"
+          "english": "prevent |(vi) ngăn chặn, phòng ngừa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuse(gu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "防衛する（ぼうえいする）",
         "meaning": {
-          "english": "defend, protect"
+          "english": "defend, protect |(vi) phòng vệ, bảo vệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuse(gu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "予防する（よぼうする）",
         "meaning": {
-          "english": "prevent by taking precautions"
+          "english": "prevent by taking precautions |(vi) phòng ngừa, đề phòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuse(gu)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "防ぐ（ふせぐ）",
         "meaning": {
-          "english": "defend, protect, prevent"
+          "english": "defend, protect, prevent |(vi) phòng vệ, bảo vệ, ngăn chặn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuse(gu)_06_l.opus",
@@ -249,7 +249,7 @@
     "kanji": {
       "character": "防",
       "meaning": {
-        "english": "prevent, protect from"
+        "english": "prevent, protect from |(vi) phòng ngừa, bảo vệ"
       },
       "strokes": {
         "count": 7,
@@ -301,7 +301,7 @@
         "romaji": "kozatohen"
       },
       "meaning": {
-        "english": "hill, mound"
+        "english": "hill, mound |(vi) Phụ (gò đất, đồi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kozatohen0.svg",
@@ -322,7 +322,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "331",
     "strokeCount": 7,
-    "meaning": "ward off, defend, protect, resist",
+    "meaning": "ward off, defend, protect, resist |(vi) phòng ngừa, phòng thủ, bảo vệ, chống lại |(hv) Phòng",
     "kunyomi": [
       "ふせ.ぐ"
     ],
@@ -333,29 +333,29 @@
       {
         "example": "防衛施設庁",
         "reading": "ボウエイシセツチョウ",
-        "meaning": "(Japanese) Defense Facilities Administration Agency (Defence)"
+        "meaning": "(Japanese) Defense Facilities Administration Agency (Defence) |(vi) Cục Quản lý Cơ sở Phòng vệ (Nhật Bản)"
       },
       {
         "example": "防衛",
         "reading": "ボウエイ",
-        "meaning": "defense, defence, protection"
+        "meaning": "defense, defence, protection |(vi) phòng vệ, bảo vệ"
       },
       {
         "example": "砂防",
         "reading": "サボウ",
-        "meaning": "erosion control"
+        "meaning": "erosion control |(vi) phòng chống xói mòn"
       },
       {
         "example": "攻防",
         "reading": "コウボウ",
-        "meaning": "offense and defense, offence and defence"
+        "meaning": "offense and defense, offence and defence |(vi) công phòng, tấn công và phòng thủ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "防ぐ",
         "reading": "ふせぐ",
-        "meaning": "to defend against, to protect against, to prevent, to avert, to avoid"
+        "meaning": "to defend against, to protect against, to prevent, to avert, to avoid |(vi) phòng chống, ngăn ngừa, phòng vệ, tránh"
       }
     ],
     "radical": {
@@ -363,7 +363,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "mound, dam (阝 left)"
+      "meaning": "mound, dam (阝 left) |(vi) Phụ (gò đất, đê)"
     },
     "parts": [
       "方",

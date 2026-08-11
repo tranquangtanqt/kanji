@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "printing plate, publishing, edition",
+    "meaning": "printing plate, publishing, edition |(vi) bản in, xuất bản, ấn bản",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "版（はん）",
         "meaning": {
-          "english": "plate, printing, edition"
+          "english": "plate, printing, edition |(vi) bản in, ấn bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ga)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "版画（はんが）",
         "meaning": {
-          "english": "art print"
+          "english": "art print |(vi) tranh khắc, bản khắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ga)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "版元（はんもと）",
         "meaning": {
-          "english": "publisher"
+          "english": "publisher |(vi) nhà xuất bản, người phát hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ga)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "版権（はんけん）",
         "meaning": {
-          "english": "copyright"
+          "english": "copyright |(vi) bản quyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ga)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "重版（じゅうはん）",
         "meaning": {
-          "english": "additional printing"
+          "english": "additional printing |(vi) tái bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ga)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "凸版（とっぱん）",
         "meaning": {
-          "english": "letterpress, relief printing"
+          "english": "letterpress, relief printing |(vi) in nổi, in typo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ga)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "活版（かっぱん）",
         "meaning": {
-          "english": "printing, typography"
+          "english": "printing, typography |(vi) in chữ rời, ấn loát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ga)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "出版社（しゅっぱんしゃ）",
         "meaning": {
-          "english": "publisher"
+          "english": "publisher |(vi) nhà xuất bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ga)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "初版本（しょはんぼん）",
         "meaning": {
-          "english": "first edition"
+          "english": "first edition |(vi) sách in lần đầu, bản in đầu tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ga)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "決定版（けっていばん）",
         "meaning": {
-          "english": "definitive edition"
+          "english": "definitive edition |(vi) ấn bản chính thức, bản hoàn chỉnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ga)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "改訂版（かいていばん）",
         "meaning": {
-          "english": "revised edition"
+          "english": "revised edition |(vi) bản sửa đổi, ấn bản hiệu đính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ga)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "出版する（しゅっぱんする）",
         "meaning": {
-          "english": "publish"
+          "english": "publish |(vi) xuất bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ga)_06_l.opus",
@@ -242,7 +242,7 @@
     "kanji": {
       "character": "版",
       "meaning": {
-        "english": "printing plate, publishing, edition"
+        "english": "printing plate, publishing, edition |(vi) bản in, xuất bản, ấn bản"
       },
       "strokes": {
         "count": 8,
@@ -296,7 +296,7 @@
         "romaji": "katahen"
       },
       "meaning": {
-        "english": "split wood"
+        "english": "split wood |(vi) Phiến (mảnh gỗ, gỗ chẻ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/katahen0.svg",
@@ -317,7 +317,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "802",
     "strokeCount": 8,
-    "meaning": "printing block, printing plate, edition, impression, label",
+    "meaning": "printing block, printing plate, edition, impression, label |(vi) bản khắc in, bản in, ấn bản, lần in, nhãn |(hv) Bản",
     "kunyomi": [],
     "onyomi": [
       "ハン"
@@ -326,28 +326,28 @@
       {
         "example": "版",
         "reading": "ハン",
-        "meaning": "edition, version, printing, impression, implementation (of software), plate, block, cast, counter for editions of a publication"
+        "meaning": "edition, version, printing, impression, implementation (of software), plate, block, cast, counter for editions of a publication |(vi) ấn bản, phiên bản, bản in, bản triển khai (phần mềm), tấm, khối, bản đúc, lượng từ chỉ số lần in"
       },
       {
         "example": "版画",
         "reading": "ハンガ",
-        "meaning": "woodcut, woodblock print, art print"
+        "meaning": "woodcut, woodblock print, art print |(vi) tranh khắc gỗ, bản khắc"
       },
       {
         "example": "図版",
         "reading": "ズハン",
-        "meaning": "plate, illustration, figure"
+        "meaning": "plate, illustration, figure |(vi) hình minh họa, bản vẽ, hình"
       },
       {
         "example": "製版",
         "reading": "セイハン",
-        "meaning": "plate-making"
+        "meaning": "plate-making |(vi) chế bản, làm bản in"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "片",
-      "meaning": "slice"
+      "meaning": "slice |(vi) Phiến (mảnh, lát)"
     },
     "parts": [
       "厂",

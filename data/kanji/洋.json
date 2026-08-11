@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "ocean, western",
+    "meaning": "ocean, western |(vi) đại dương, phương Tây",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "西洋（せいよう）",
         "meaning": {
-          "english": "the west"
+          "english": "the west |(vi) phương Tây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(fuku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "東洋（とうよう）",
         "meaning": {
-          "english": "East Asia"
+          "english": "East Asia |(vi) phương Đông, Đông Á"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(fuku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "洋服（ようふく）",
         "meaning": {
-          "english": "Western-style clothes"
+          "english": "Western-style clothes |(vi) âu phục, trang phục kiểu Tây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(fuku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "洋式（ようしき）",
         "meaning": {
-          "english": "Western style"
+          "english": "Western style |(vi) kiểu Tây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(fuku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "洋食（ようしょく）",
         "meaning": {
-          "english": "Western-style meal"
+          "english": "Western-style meal |(vi) món ăn kiểu Tây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(fuku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "太平洋（たいへいよう）",
         "meaning": {
-          "english": "Pacific Ocean"
+          "english": "Pacific Ocean |(vi) Thái Bình Dương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(fuku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "大西洋（たいせいよう）",
         "meaning": {
-          "english": "Atlantic Ocean"
+          "english": "Atlantic Ocean |(vi) Đại Tây Dương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(fuku)_06_g.opus",
@@ -231,7 +231,7 @@
     "kanji": {
       "character": "洋",
       "meaning": {
-        "english": "ocean, western"
+        "english": "ocean, western |(vi) đại dương, phương Tây"
       },
       "strokes": {
         "count": 9,
@@ -287,7 +287,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -308,7 +308,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "763",
     "strokeCount": 9,
-    "meaning": "ocean, sea, foreign, Western style",
+    "meaning": "ocean, sea, foreign, Western style |(vi) đại dương, biển, ngoại quốc, kiểu Tây |(hv) Dương",
     "kunyomi": [],
     "onyomi": [
       "ヨウ"
@@ -317,22 +317,22 @@
       {
         "example": "洋",
         "reading": "ヨウ",
-        "meaning": "Occident and Orient (esp. the Occident), ocean, sea, foreign, Western, European"
+        "meaning": "Occident and Orient (esp. the Occident), ocean, sea, foreign, Western, European |(vi) phương Tây, đại dương, ngoại quốc, châu Âu"
       },
       {
         "example": "洋画",
         "reading": "ヨウガ",
-        "meaning": "Western painting, Western film, Western movie"
+        "meaning": "Western painting, Western film, Western movie |(vi) tranh phương Tây, phim phương Tây"
       },
       {
         "example": "南氷洋",
         "reading": "ナンヒョウヨウ",
-        "meaning": "Antarctic Ocean"
+        "meaning": "Antarctic Ocean |(vi) Nam Băng Dương"
       },
       {
         "example": "環太平洋",
         "reading": "カンタイヘイヨウ",
-        "meaning": "Pacific Rim"
+        "meaning": "Pacific Rim |(vi) vành đai Thái Bình Dương"
       }
     ],
     "kunyomiExamples": [],
@@ -342,7 +342,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "并",

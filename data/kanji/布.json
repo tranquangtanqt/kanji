@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 50,
     "kunyomi": "nuno",
-    "meaning": "cloth, spread",
+    "meaning": "cloth, spread |(vi) vải, trải ra",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "布団（ふとん）",
         "meaning": {
-          "english": "bedding, futon"
+          "english": "bedding, futon |(vi) chăn đệm, futon"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nuno_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "毛布（もうふ）",
         "meaning": {
-          "english": "blanket"
+          "english": "blanket |(vi) chăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nuno_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "財布（さいふ）",
         "meaning": {
-          "english": "purse, wallet"
+          "english": "purse, wallet |(vi) ví tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nuno_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "湿布（しっぷ）",
         "meaning": {
-          "english": "compress, poultice"
+          "english": "compress, poultice |(vi) miếng dán, cao dán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nuno_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "布告する（ふこくする）",
         "meaning": {
-          "english": "proclaim, declare"
+          "english": "proclaim, declare |(vi) tuyên bố, công bố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nuno_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "布教する（ふきょうする）",
         "meaning": {
-          "english": "propagate (a religion)"
+          "english": "propagate (a religion) |(vi) truyền bá (tôn giáo)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nuno_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "配布する（はいふする）",
         "meaning": {
-          "english": "distribute [v.t.]"
+          "english": "distribute [v.t.] |(vi) phân phát [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nuno_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "流布する（るふする）",
         "meaning": {
-          "english": "circulate, spread (a rumor) [v.i.]"
+          "english": "circulate, spread (a rumor) [v.i.] |(vi) lan truyền (tin đồn) [nội động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nuno_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "分布する（ぶんぷする）",
         "meaning": {
-          "english": "distribute [v.i.]"
+          "english": "distribute [v.i.] |(vi) phân bố [nội động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nuno_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "布（ぬの）",
         "meaning": {
-          "english": "cloth"
+          "english": "cloth |(vi) vải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nuno_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "布地（ぬのじ）",
         "meaning": {
-          "english": "cloth, fabric"
+          "english": "cloth, fabric |(vi) vải, chất liệu vải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nuno_06_k.opus",
@@ -221,7 +221,7 @@
     "kanji": {
       "character": "布",
       "meaning": {
-        "english": "cloth, spread"
+        "english": "cloth, spread |(vi) vải, trải ra"
       },
       "strokes": {
         "count": 5,
@@ -269,7 +269,7 @@
         "romaji": "haba"
       },
       "meaning": {
-        "english": "cloth"
+        "english": "cloth |(vi) Cân (khăn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/haba0.svg",
@@ -290,7 +290,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "877",
     "strokeCount": 5,
-    "meaning": "linen, cloth, spread, distribute",
+    "meaning": "linen, cloth, spread, distribute |(vi) vải lanh, vải, trải ra, phân phát |(hv) Bố",
     "kunyomi": [
       "ぬの",
       "し.く",
@@ -304,74 +304,74 @@
       {
         "example": "布",
         "reading": "フ",
-        "meaning": "Hawaii"
+        "meaning": "Hawaii |(vi) Hawaii"
       },
       {
         "example": "布",
         "reading": "ヌノ",
-        "meaning": "cloth, fabric, material, textile, bujian (spade-shaped bronze coin of ancient China)"
+        "meaning": "cloth, fabric, material, textile, bujian (spade-shaped bronze coin of ancient China) |(vi) vải, chất liệu vải, vải dệt, đồng tiền bố tệ hình xẻng thời Trung Hoa cổ"
       },
       {
         "example": "麻布",
         "reading": "アサヌノ",
-        "meaning": "hemp cloth, linen"
+        "meaning": "hemp cloth, linen |(vi) vải gai, vải lanh"
       },
       {
         "example": "公布",
         "reading": "コウフ",
-        "meaning": "official proclamation, announcement, promulgation (e.g. of regulations)"
+        "meaning": "official proclamation, announcement, promulgation (e.g. of regulations) |(vi) công bố chính thức, thông báo, ban hành (quy định, v.v.)"
       },
       {
         "example": "布衣",
         "reading": "ホイ",
-        "meaning": "linen kariginu, plain kariginu (Edo period), commoner"
+        "meaning": "linen kariginu, plain kariginu (Edo period), commoner |(vi) áo kariginu bằng vải lanh, kariginu thường (thời Edo), thường dân"
       },
       {
         "example": "布衣始",
         "reading": "ホウイハジメ",
-        "meaning": "ceremony in which an abdicated emperor puts on informal court clothes (i.e. a kariginu and eboshi) for the first time"
+        "meaning": "ceremony in which an abdicated emperor puts on informal court clothes (i.e. a kariginu and eboshi) for the first time |(vi) nghi lễ Thượng hoàng lần đầu mặc thường phục triều đình (kariginu và eboshi)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "布",
         "reading": "ぬの",
-        "meaning": "cloth, fabric, material, textile, bujian (spade-shaped bronze coin of ancient China)"
+        "meaning": "cloth, fabric, material, textile, bujian (spade-shaped bronze coin of ancient China) |(vi) vải, chất liệu vải, vải dệt, đồng tiền bố tệ hình xẻng thời Trung Hoa cổ"
       },
       {
         "example": "布地",
         "reading": "ぬのじ",
-        "meaning": "fabric, cloth, material"
+        "meaning": "fabric, cloth, material |(vi) vải, chất liệu vải"
       },
       {
         "example": "麻布",
         "reading": "あさぬの",
-        "meaning": "hemp cloth, linen"
+        "meaning": "hemp cloth, linen |(vi) vải gai, vải lanh"
       },
       {
         "example": "磨き布",
         "reading": "みがきぬの",
-        "meaning": "polishing cloth"
+        "meaning": "polishing cloth |(vi) vải đánh bóng"
       },
       {
         "example": "敷く",
         "reading": "しく",
-        "meaning": "to spread out (e.g. a futon), to lay out, to lay down (e.g. a cushion), to impose widely (e.g. martial law), to promulgate, to pin down, to hold down, to lay (e.g. railway tracks), to deploy (e.g. troops), to spread (e.g. snow), to be propagated"
+        "meaning": "to spread out (e.g. a futon), to lay out, to lay down (e.g. a cushion), to impose widely (e.g. martial law), to promulgate, to pin down, to hold down, to lay (e.g. railway tracks), to deploy (e.g. troops), to spread (e.g. snow), to be propagated |(vi) trải ra (ví dụ futon), bày ra, đặt xuống (ví dụ nệm), áp đặt rộng rãi (ví dụ thiết quân luật), ban hành, ghim chặt, giữ chặt, đặt (ví dụ đường ray), triển khai (ví dụ quân đội), rải (ví dụ tuyết), được truyền bá"
       },
       {
         "example": "切れ地",
         "reading": "きれじ",
-        "meaning": "fabric, cloth, material, traditionally patterned textiles, fabric scraps"
+        "meaning": "fabric, cloth, material, traditionally patterned textiles, fabric scraps |(vi) vải, chất liệu vải, vải dệt hoa văn truyền thống, mảnh vải vụn"
       },
       {
         "example": "ボロ布",
         "reading": "ぼろきれ",
-        "meaning": "old cloth, rag"
+        "meaning": "old cloth, rag |(vi) vải cũ, giẻ rách"
       }
     ],
     "radical": {
       "symbol": "巾",
-      "meaning": "turban, scarf"
+      "meaning": "turban, scarf |(vi) Cân (khăn quàng)"
     },
     "parts": [
       "ノ",

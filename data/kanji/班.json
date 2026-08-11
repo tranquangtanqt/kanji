@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "squad, group",
+    "meaning": "squad, group |(vi) tổ, nhóm, đội",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "班（はん）",
         "meaning": {
-          "english": "group, party, section"
+          "english": "group, party, section |(vi) nhóm, tổ, ban"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(chou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "斑点（はんてん）",
         "meaning": {
-          "english": "speck, fleck"
+          "english": "speck, fleck |(vi) đốm, vết lốm đốm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(chou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "班長（はんちょう）",
         "meaning": {
-          "english": "squad leader, group leader"
+          "english": "squad leader, group leader |(vi) tổ trưởng, trưởng nhóm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(chou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "二班（にはん）",
         "meaning": {
-          "english": "two groups, second group"
+          "english": "two groups, second group |(vi) nhóm hai, tổ số hai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(chou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "取材班（しゅざいはん）",
         "meaning": {
-          "english": "team of reporters"
+          "english": "team of reporters |(vi) đội phóng viên, nhóm lấy tin"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(chou)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "作業班（さぎょうはん）",
         "meaning": {
-          "english": "work group"
+          "english": "work group |(vi) tổ công tác, nhóm làm việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(chou)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "救護班（きゅうごはん）",
         "meaning": {
-          "english": "relief squad, rescue party"
+          "english": "relief squad, rescue party |(vi) đội cứu hộ, đội cứu trợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(chou)_06_g.opus",
@@ -173,7 +173,7 @@
     "kanji": {
       "character": "班",
       "meaning": {
-        "english": "squad, group"
+        "english": "squad, group |(vi) tổ, nhóm, đội"
       },
       "strokes": {
         "count": 10,
@@ -231,7 +231,7 @@
         "romaji": "ouhen"
       },
       "meaning": {
-        "english": "jewelry, jeweled king"
+        "english": "jewelry, jeweled king |(vi) Vương (viên ngọc, bộ vương)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ouhen0.svg",
@@ -252,7 +252,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1592",
     "strokeCount": 10,
-    "meaning": "squad, corps, unit, group",
+    "meaning": "squad, corps, unit, group |(vi) tổ, đội, đơn vị, nhóm |(hv) Ban",
     "kunyomi": [],
     "onyomi": [
       "ハン"
@@ -261,22 +261,22 @@
       {
         "example": "班",
         "reading": "ハン",
-        "meaning": "group, party, team, squad, section"
+        "meaning": "group, party, team, squad, section |(vi) nhóm, tổ, đội, ban"
       },
       {
         "example": "班員",
         "reading": "ハンイン",
-        "meaning": "member of a group"
+        "meaning": "member of a group |(vi) thành viên trong tổ/nhóm"
       },
       {
         "example": "首班",
         "reading": "シュハン",
-        "meaning": "head, leader, prime minister"
+        "meaning": "head, leader, prime minister |(vi) người đứng đầu, thủ tướng"
       },
       {
         "example": "取材班",
         "reading": "シュザイハン",
-        "meaning": "team of reporters, news crew"
+        "meaning": "team of reporters, news crew |(vi) đội phóng viên, nhóm lấy tin"
       }
     ],
     "kunyomiExamples": [],
@@ -285,7 +285,7 @@
       "forms": [
         "王"
       ],
-      "meaning": "jade (king)"
+      "meaning": "jade (king) |(vi) Ngọc (ngọc, vua)"
     },
     "parts": [
       "刈",

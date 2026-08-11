@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "a, akeru, aka, akarui, akaramu, aki, akiraka",
-    "meaning": "bright, clear",
+    "meaning": "bright, clear |(vi) sáng, rõ ràng",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "証明する（しょうめいする）",
         "meaning": {
-          "english": "prove"
+          "english": "prove |(vi) chứng minh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "説明する（せつめいする）",
         "meaning": {
-          "english": "explain"
+          "english": "explain |(vi) giải thích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "賢明な（けんめいな）",
         "meaning": {
-          "english": "wise"
+          "english": "wise |(vi) khôn ngoan, sáng suốt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "明治（めいじ）",
         "meaning": {
-          "english": "Meiji era"
+          "english": "Meiji era |(vi) thời Minh Trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "明晩（みょうばん）",
         "meaning": {
-          "english": "tomorrow evening"
+          "english": "tomorrow evening |(vi) tối mai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "夜明け（よあけ）",
         "meaning": {
-          "english": "dawn"
+          "english": "dawn |(vi) bình minh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "明くる日（あくるひ）",
         "meaning": {
-          "english": "following day"
+          "english": "following day |(vi) ngày hôm sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "明るい（あかるい）",
         "meaning": {
-          "english": "bright, cheerful"
+          "english": "bright, cheerful |(vi) sáng sủa, vui vẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "明らむ（あからむ）",
         "meaning": {
-          "english": "become luminous"
+          "english": "become luminous |(vi) trở nên sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "明らかな（あきらかな）",
         "meaning": {
-          "english": "obvious"
+          "english": "obvious |(vi) rõ ràng, hiển nhiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "*明後日（あさって）",
         "meaning": {
-          "english": "day after tomorrow"
+          "english": "day after tomorrow |(vi) ngày kia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "*明日（あした/あす）",
         "meaning": {
-          "english": "tomorrow"
+          "english": "tomorrow |(vi) ngày mai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_l.opus",
@@ -353,7 +353,7 @@
     "kanji": {
       "character": "明",
       "meaning": {
-        "english": "bright, clear"
+        "english": "bright, clear |(vi) sáng, rõ ràng"
       },
       "strokes": {
         "count": 8,
@@ -407,7 +407,7 @@
         "romaji": "hihen"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày - bộ đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hihen0.svg",
@@ -428,7 +428,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "67",
     "strokeCount": 8,
-    "meaning": "bright, light",
+    "meaning": "bright, light |(vi) sáng, sáng sủa |(hv) Minh",
     "kunyomi": [
       "あ.かり",
       "あか.るい",
@@ -450,134 +450,134 @@
       {
         "example": "明",
         "reading": "メイ",
-        "meaning": "brightness, discernment, insight, an eye (for), eyesight, vision, nth year in the Meiji era (1868.9.8-1912.7.30)"
+        "meaning": "brightness, discernment, insight, an eye (for), eyesight, vision, nth year in the Meiji era (1868.9.8-1912.7.30) |(vi) sự sáng suốt, nhận thức, con mắt tinh tường, thị lực, tầm nhìn, năm thứ n trong thời Minh Trị (1868.9.8-1912.7.30)"
       },
       {
         "example": "明暗",
         "reading": "メイアン",
-        "meaning": "light and darkness, light and shade"
+        "meaning": "light and darkness, light and shade |(vi) sáng và tối"
       },
       {
         "example": "光明",
         "reading": "コウミョウ",
-        "meaning": "bright light, hope, bright future, light emanating from a buddha or bodhisattva, symbolizing their wisdom and compassion"
+        "meaning": "bright light, hope, bright future, light emanating from a buddha or bodhisattva, symbolizing their wisdom and compassion |(vi) ánh sáng, hy vọng, tương lai tươi sáng, ánh sáng phát ra từ Phật hoặc Bồ Tát, biểu tượng cho trí tuệ và lòng từ bi"
       },
       {
         "example": "英明",
         "reading": "エイメイ",
-        "meaning": "intelligent, wise, bright, brilliant, clear-sighted"
+        "meaning": "intelligent, wise, bright, brilliant, clear-sighted |(vi) thông minh, khôn ngoan, sáng suốt, sáng láng, sáng suốt tinh tường"
       },
       {
         "example": "明",
         "reading": "ミョウ",
-        "meaning": "vidya (wisdom), mantra, the coming (July 4, etc.)"
+        "meaning": "vidya (wisdom), mantra, the coming (July 4, etc.) |(vi) minh chú (trí tuệ), thần chú, ngày sắp tới (4 tháng 7...)"
       },
       {
         "example": "明日",
         "reading": "アシタ",
-        "meaning": "tomorrow, near future"
+        "meaning": "tomorrow, near future |(vi) ngày mai, tương lai gần"
       },
       {
         "example": "光明",
         "reading": "コウミョウ",
-        "meaning": "bright light, hope, bright future, light emanating from a buddha or bodhisattva, symbolizing their wisdom and compassion"
+        "meaning": "bright light, hope, bright future, light emanating from a buddha or bodhisattva, symbolizing their wisdom and compassion |(vi) ánh sáng, hy vọng, tương lai tươi sáng, ánh sáng phát ra từ Phật hoặc Bồ Tát, biểu tượng cho trí tuệ và lòng từ bi"
       },
       {
         "example": "内明",
         "reading": "ナイミョウ",
-        "meaning": "adhyatma vidya (one of the five sciences of ancient India), science of spirituality"
+        "meaning": "adhyatma vidya (one of the five sciences of ancient India), science of spirituality |(vi) nội minh (một trong năm ngành học cổ Ấn Độ), khoa học tâm linh"
       },
       {
         "example": "明",
         "reading": "ミン",
-        "meaning": "Ming dynasty (of China; 1368-1644)"
+        "meaning": "Ming dynasty (of China; 1368-1644) |(vi) nhà Minh (Trung Quốc; 1368-1644)"
       },
       {
         "example": "明楽",
         "reading": "ミンガク",
-        "meaning": "Ming-era Chinese music (popularized in Japan during the early 17th century)"
+        "meaning": "Ming-era Chinese music (popularized in Japan during the early 17th century) |(vi) nhạc thời Minh (được phổ biến ở Nhật đầu thế kỷ 17)"
       },
       {
         "example": "胡志明",
         "reading": "ホーチミン",
-        "meaning": "Ho Chi Minh (1890-1969), Nguyen Tat Thanh, Ho Chi Minh (Vietnam)"
+        "meaning": "Ho Chi Minh (1890-1969), Nguyen Tat Thanh, Ho Chi Minh (Vietnam) |(vi) Hồ Chí Minh (1890-1969), Nguyễn Tất Thành, Hồ Chí Minh (Việt Nam)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "明かり",
         "reading": "あかり",
-        "meaning": "light, glow, gleam, (a) light, lights, lamp, proof (of innocence)"
+        "meaning": "light, glow, gleam, (a) light, lights, lamp, proof (of innocence) |(vi) ánh sáng, ánh lờ mờ, đèn, ánh đèn, bằng chứng (vô tội)"
       },
       {
         "example": "明り先",
         "reading": "あかりさき",
-        "meaning": "source of light"
+        "meaning": "source of light |(vi) nguồn sáng"
       },
       {
         "example": "軒明かり",
         "reading": "のきあかり",
-        "meaning": "eaves lantern"
+        "meaning": "eaves lantern |(vi) đèn hiên nhà"
       },
       {
         "example": "明るい",
         "reading": "あかるい",
-        "meaning": "light, bright, well-lit, well-lighted, bright (colour), cheerful, bright, spirited, sunny (e.g. disposition), bright (future, prospects, etc.), rosy, encouraging, promising, knowledgeable (about), familiar (with), well versed (in), well acquainted (with), fair (e.g. politics), clean, impartial"
+        "meaning": "light, bright, well-lit, well-lighted, bright (colour), cheerful, bright, spirited, sunny (e.g. disposition), bright (future, prospects, etc.), rosy, encouraging, promising, knowledgeable (about), familiar (with), well versed (in), well acquainted (with), fair (e.g. politics), clean, impartial |(vi) sáng, sáng sủa, đủ ánh sáng, màu sáng, vui vẻ, hoạt bát, tính cách vui tươi, tương lai tươi sáng, đầy hứa hẹn, am hiểu (về), quen thuộc (với), công bằng (chính trị), trong sạch, vô tư"
       },
       {
         "example": "明るむ",
         "reading": "あかるむ",
-        "meaning": "to brighten, to grow light"
+        "meaning": "to brighten, to grow light |(vi) sáng dần lên, trở nên sáng"
       },
       {
         "example": "明らむ",
         "reading": "あからむ",
-        "meaning": "to become luminous at dawn (esp. the sky)"
+        "meaning": "to become luminous at dawn (esp. the sky) |(vi) trời hửng sáng, rạng đông (đặc biệt bầu trời)"
       },
       {
         "example": "明らか",
         "reading": "あきらか",
-        "meaning": "clear, obvious, evident, plain, definite, bright, light"
+        "meaning": "clear, obvious, evident, plain, definite, bright, light |(vi) rõ ràng, hiển nhiên, minh bạch, rành mạch, sáng, sáng sủa"
       },
       {
         "example": "明らかにする",
         "reading": "あきらかにする",
-        "meaning": "to make clear, to clarify, to disclose, to make public"
+        "meaning": "to make clear, to clarify, to disclose, to make public |(vi) làm rõ, làm sáng tỏ, tiết lộ, công khai"
       },
       {
         "example": "開ける",
         "reading": "あける",
-        "meaning": "to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock, to open (for business, etc.), to empty, to remove, to make space, to make room, to move out, to clear out, to be away from (e.g. one's house), to leave (temporarily), to dawn, to grow light, to end (of a period, season), to begin (of the New Year), to leave (one's schedule) open, to make time (for), to make (a hole), to open up (a hole)"
+        "meaning": "to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock, to open (for business, etc.), to empty, to remove, to make space, to make room, to move out, to clear out, to be away from (e.g. one's house), to leave (temporarily), to dawn, to grow light, to end (of a period, season), to begin (of the New Year), to leave (one's schedule) open, to make time (for), to make (a hole), to open up (a hole) |(vi) mở (cửa...), mở gói, mở khóa, khai trương, làm trống, dọn dẹp, dời đi, rời khỏi (nhà mình), tạm rời đi, hửng sáng, rạng dần, kết thúc (một giai đoạn, mùa), bắt đầu (năm mới), để trống (lịch trình), dành thời gian, mở (một lỗ)"
       },
       {
         "example": "開く",
         "reading": "あく",
-        "meaning": "to open (e.g. doors), to open (e.g. business, etc.), to be empty, to be vacant, to be available, to be free, to be open (e.g. neckline, etc.), to have been opened (of one's eyes, mouth, etc.), to come to an end, to open (one's eyes, mouth, etc.), to have a hole, to form a gap, to have an interval (between events)"
+        "meaning": "to open (e.g. doors), to open (e.g. business, etc.), to be empty, to be vacant, to be available, to be free, to be open (e.g. neckline, etc.), to have been opened (of one's eyes, mouth, etc.), to come to an end, to open (one's eyes, mouth, etc.), to have a hole, to form a gap, to have an interval (between events) |(vi) mở (cửa...), khai trương, trống, còn chỗ, rảnh, mở (cổ áo...), đã mở (mắt, miệng...), kết thúc, mở (mắt, miệng...), có lỗ, tạo khe hở, có khoảng cách (giữa các sự kiện)"
       },
       {
         "example": "明くる",
         "reading": "あくる",
-        "meaning": "next (day, morning, etc.), following"
+        "meaning": "next (day, morning, etc.), following |(vi) hôm sau, tiếp theo"
       },
       {
         "example": "明くる",
         "reading": "あくる",
-        "meaning": "next (day, morning, etc.), following"
+        "meaning": "next (day, morning, etc.), following |(vi) hôm sau, tiếp theo"
       },
       {
         "example": "あくる日",
         "reading": "あくるひ",
-        "meaning": "next day, following day"
+        "meaning": "next day, following day |(vi) ngày hôm sau"
       },
       {
         "example": "明かす",
         "reading": "あかす",
-        "meaning": "to pass (the night), to spend, to reveal, to divulge, to disclose, to expose, to prove, to verify"
+        "meaning": "to pass (the night), to spend, to reveal, to divulge, to disclose, to expose, to prove, to verify |(vi) thức trắng (đêm), dùng (thời gian), tiết lộ, để lộ, phơi bày, chứng minh, xác minh"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "日",

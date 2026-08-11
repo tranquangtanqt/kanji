@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 50,
     "kunyomi": "ma, mau, mai",
-    "meaning": "dance",
+    "meaning": "dance |(vi) múa, nhảy múa",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "舞台（ぶたい）",
         "meaning": {
-          "english": "stage, scene or setting"
+          "english": "stage, scene or setting |(vi) sân khấu, bối cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "舞曲（ぶきょく）",
         "meaning": {
-          "english": "musical dance"
+          "english": "musical dance |(vi) vũ khúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "舞踏会（ぶとうかい）",
         "meaning": {
-          "english": "ball, dance"
+          "english": "ball, dance |(vi) dạ hội khiêu vũ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "歌舞伎（かぶき）",
         "meaning": {
-          "english": "kabuki"
+          "english": "kabuki |(vi) kịch kabuki"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "日本舞踊（にほんぶよう）",
         "meaning": {
-          "english": "traditional Japanese dance"
+          "english": "traditional Japanese dance |(vi) múa truyền thống Nhật Bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "舞う（まう）",
         "meaning": {
-          "english": "dance, flutter about"
+          "english": "dance, flutter about |(vi) múa, bay lượn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "見舞う（みまう）",
         "meaning": {
-          "english": "ask after, visit (a sick person)"
+          "english": "ask after, visit (a sick person) |(vi) thăm hỏi (người ốm)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "仕舞い（しまい）",
         "meaning": {
-          "english": "end, close, termination"
+          "english": "end, close, termination |(vi) kết thúc, chấm dứt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(u)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "舞（まい）",
         "meaning": {
-          "english": "dance [n.]"
+          "english": "dance [n.] |(vi) điệu múa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(u)_06_i.opus",
@@ -221,7 +221,7 @@
     "kanji": {
       "character": "舞",
       "meaning": {
-        "english": "dance"
+        "english": "dance |(vi) múa, nhảy múa"
       },
       "strokes": {
         "count": 15,
@@ -289,7 +289,7 @@
         "romaji": "maiashi"
       },
       "meaning": {
-        "english": "contrary, to err"
+        "english": "contrary, to err |(vi) Suyễn (trái ngược, sai lệch)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/maiashi0.svg",
@@ -310,7 +310,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "655",
     "strokeCount": 15,
-    "meaning": "dance, flit, circle, wheel",
+    "meaning": "dance, flit, circle, wheel |(vi) múa, bay lượn, xoay tròn, quay vòng |(hv) Vũ",
     "kunyomi": [
       "ま.う",
       "-ま.う",
@@ -323,54 +323,54 @@
       {
         "example": "舞台裏",
         "reading": "ブタイウラ",
-        "meaning": "offstage, backstage, behind the scenes"
+        "meaning": "offstage, backstage, behind the scenes |(vi) hậu trường, phía sau sân khấu"
       },
       {
         "example": "舞台",
         "reading": "ブタイ",
-        "meaning": "stage (of a theatre, concert hall, etc.), (stage) performance, setting (of a story), scene, sphere (of activity), stage (e.g. political stage), scene, arena, world"
+        "meaning": "stage (of a theatre, concert hall, etc.), (stage) performance, setting (of a story), scene, sphere (of activity), stage (e.g. political stage), scene, arena, world |(vi) sân khấu (nhà hát, phòng hòa nhạc...), buổi biểu diễn, bối cảnh (câu chuyện), phạm vi (hoạt động), vũ đài (ví dụ chính trường), thế giới"
       },
       {
         "example": "演舞",
         "reading": "エンブ",
-        "meaning": "dance performance"
+        "meaning": "dance performance |(vi) buổi biểu diễn múa"
       },
       {
         "example": "歌舞",
         "reading": "カブ",
-        "meaning": "singing and dancing"
+        "meaning": "singing and dancing |(vi) ca múa, hát và múa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "舞う",
         "reading": "まう",
-        "meaning": "to dance (orig. a whirling dance), to whirl (in the wind), to flutter (about), to swirl, to fly, to circle, to wheel"
+        "meaning": "to dance (orig. a whirling dance), to whirl (in the wind), to flutter (about), to swirl, to fly, to circle, to wheel |(vi) múa (vốn là điệu múa xoay tròn), xoay trong gió, bay phấp phới, xoáy tròn, bay lượn, xoay vòng"
       },
       {
         "example": "舞",
         "reading": "まい",
-        "meaning": "dancing, dance"
+        "meaning": "dancing, dance |(vi) múa, điệu múa"
       },
       {
         "example": "舞い上がる",
         "reading": "まいあがる",
-        "meaning": "to soar, to fly high, to be whirled up, to make merry, to be ecstatic, to be in high spirits"
+        "meaning": "to soar, to fly high, to be whirled up, to make merry, to be ecstatic, to be in high spirits |(vi) bay vút lên, bay cao, bị cuốn lên, vui mừng, ngây ngất, phấn khích"
       },
       {
         "example": "立ち居振る舞い",
         "reading": "たちいふるまい",
-        "meaning": "movements, bearing, deportment, carriage, behavior, behaviour, demeanor, demeanour, manners"
+        "meaning": "movements, bearing, deportment, carriage, behavior, behaviour, demeanor, demeanour, manners |(vi) cử chỉ, phong thái, tác phong, cách ứng xử"
       },
       {
         "example": "獅子舞",
         "reading": "ししまい",
-        "meaning": "lion dance, traditional dance performed by one or more dancers wearing a guardian lion costume"
+        "meaning": "lion dance, traditional dance performed by one or more dancers wearing a guardian lion costume |(vi) múa sư tử, điệu múa truyền thống do một hoặc nhiều người mặc trang phục sư tử biểu diễn"
       }
     ],
     "radical": {
       "symbol": "舛",
-      "meaning": "opposite"
+      "meaning": "opposite |(vi) Suyễn (trái ngược, sai lệch)"
     },
     "parts": [
       "ノ",

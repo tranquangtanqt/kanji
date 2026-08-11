@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "mochi, mochiiru",
-    "meaning": "employ, things to do",
+    "meaning": "employ, things to do |(vi) sử dụng, công việc",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "用事（ようじ）",
         "meaning": {
-          "english": "task"
+          "english": "task |(vi) việc cần làm, công việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mochi(iru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "急用（きゅうよう）",
         "meaning": {
-          "english": "urgent business"
+          "english": "urgent business |(vi) việc gấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mochi(iru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "費用（ひよう）",
         "meaning": {
-          "english": "cost"
+          "english": "cost |(vi) chi phí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mochi(iru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "家庭用（かていよう）",
         "meaning": {
-          "english": "for home (vs. business) use"
+          "english": "for home (vs. business) use |(vi) dùng cho gia đình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mochi(iru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "用心深い（ようじんぶかい）",
         "meaning": {
-          "english": "watchful"
+          "english": "watchful |(vi) thận trọng, cảnh giác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mochi(iru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "利用する（りようする）",
         "meaning": {
-          "english": "utilize"
+          "english": "utilize |(vi) sử dụng, tận dụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mochi(iru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "用意する（よういする）",
         "meaning": {
-          "english": "prepare"
+          "english": "prepare |(vi) chuẩn bị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mochi(iru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "採用する（さいようする）",
         "meaning": {
-          "english": "adopt"
+          "english": "adopt |(vi) tuyển dụng, áp dụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mochi(iru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "信用する（しんようする）",
         "meaning": {
-          "english": "believe"
+          "english": "believe |(vi) tin tưởng, tín nhiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mochi(iru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "用いる（もちいる）",
         "meaning": {
-          "english": "make use of"
+          "english": "make use of |(vi) sử dụng, dùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mochi(iru)_06_j.opus",
@@ -263,7 +263,7 @@
     "kanji": {
       "character": "用",
       "meaning": {
-        "english": "employ, things to do"
+        "english": "employ, things to do |(vi) sử dụng, công việc"
       },
       "strokes": {
         "count": 5,
@@ -311,7 +311,7 @@
         "romaji": "mochiiru"
       },
       "meaning": {
-        "english": "to use"
+        "english": "to use |(vi) Dụng (dùng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mochiiru0.svg",
@@ -332,7 +332,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "107",
     "strokeCount": 5,
-    "meaning": "utilize, business, service, use, employ",
+    "meaning": "utilize, business, service, use, employ |(vi) sử dụng, việc, dịch vụ, dùng, tuyển dụng |(hv) Dụng",
     "kunyomi": [
       "もち.いる"
     ],
@@ -343,29 +343,29 @@
       {
         "example": "用",
         "reading": "ヨウ",
-        "meaning": "business, task, errand, engagement, use, purpose, for the use of ..., used for ..., made for ..., call of nature, excretion"
+        "meaning": "business, task, errand, engagement, use, purpose, for the use of ..., used for ..., made for ..., call of nature, excretion |(vi) công việc, việc cần làm, mục đích sử dụng, nhu cầu vệ sinh"
       },
       {
         "example": "用意",
         "reading": "ヨウイ",
-        "meaning": "preparation, arrangements, provision, getting ready, laying out (e.g. a meal)"
+        "meaning": "preparation, arrangements, provision, getting ready, laying out (e.g. a meal) |(vi) sự chuẩn bị, sắp xếp"
       },
       {
         "example": "登用",
         "reading": "トウヨウ",
-        "meaning": "appointment, assignment, promotion"
+        "meaning": "appointment, assignment, promotion |(vi) bổ nhiệm, cất nhắc"
       },
       {
         "example": "効用",
         "reading": "コウヨウ",
-        "meaning": "use, utility, effect, benefit"
+        "meaning": "use, utility, effect, benefit |(vi) công dụng, tác dụng, lợi ích"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "用いる",
         "reading": "もちいる",
-        "meaning": "to use, to make use of, to utilize, to utilise"
+        "meaning": "to use, to make use of, to utilize, to utilise |(vi) sử dụng, dùng"
       }
     ],
     "radical": {
@@ -373,7 +373,7 @@
       "forms": [
         "甩"
       ],
-      "meaning": "use"
+      "meaning": "use |(vi) Dụng (dùng)"
     },
     "parts": [
       "用"

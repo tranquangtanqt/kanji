@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "yoshi",
-    "meaning": "reason",
+    "meaning": "reason |(vi) lý do, nguyên do",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "由来する（ゆらいする）",
         "meaning": {
-          "english": "originate"
+          "english": "originate |(vi) bắt nguồn, có nguồn gốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)yuu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "経由する（けいゆする）",
         "meaning": {
-          "english": "go by way of, go via"
+          "english": "go by way of, go via |(vi) đi qua, quá cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)yuu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "自由（じゆう）",
         "meaning": {
-          "english": "freedom"
+          "english": "freedom |(vi) tự do"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)yuu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "理由（りゆう）",
         "meaning": {
-          "english": "reason"
+          "english": "reason |(vi) lý do"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)yuu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "由緒（ゆいしょ）",
         "meaning": {
-          "english": "lineage"
+          "english": "lineage |(vi) lai lịch, gốc tích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)yuu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "由（よし）",
         "meaning": {
-          "english": "means"
+          "english": "means |(vi) cách thức, lý do (nghe nói)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)yuu_06_f.opus",
@@ -220,7 +220,7 @@
     "kanji": {
       "character": "由",
       "meaning": {
-        "english": "reason"
+        "english": "reason |(vi) lý do, nguyên do"
       },
       "strokes": {
         "count": 5,
@@ -268,7 +268,7 @@
         "romaji": "ta"
       },
       "meaning": {
-        "english": "rice paddy"
+        "english": "rice paddy |(vi) Điền (ruộng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ta0.svg",
@@ -289,7 +289,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "325",
     "strokeCount": 5,
-    "meaning": "wherefore, a reason",
+    "meaning": "wherefore, a reason |(vi) cớ sao, lý do |(hv) Do",
     "kunyomi": [
       "よし",
       "よ.る"
@@ -303,69 +303,69 @@
       {
         "example": "由来",
         "reading": "ユライ",
-        "meaning": "origin, source, history, derivation, originally, from the start, by nature"
+        "meaning": "origin, source, history, derivation, originally, from the start, by nature |(vi) nguồn gốc, xuất xứ, vốn dĩ"
       },
       {
         "example": "由緒",
         "reading": "ユイショ",
-        "meaning": "history, pedigree, lineage"
+        "meaning": "history, pedigree, lineage |(vi) lai lịch, gốc tích"
       },
       {
         "example": "来由",
         "reading": "ライユ",
-        "meaning": "origin, cause"
+        "meaning": "origin, cause |(vi) nguồn gốc, căn nguyên"
       },
       {
         "example": "因由",
         "reading": "インユ",
-        "meaning": "cause"
+        "meaning": "cause |(vi) nguyên nhân"
       },
       {
         "example": "事由",
         "reading": "ジユウ",
-        "meaning": "reason, cause"
+        "meaning": "reason, cause |(vi) lý do, nguyên nhân sự việc"
       },
       {
         "example": "服装自由",
         "reading": "フクソウジユウ",
-        "meaning": "no dress code, lack of dress code (at work)"
+        "meaning": "no dress code, lack of dress code (at work) |(vi) không quy định trang phục"
       },
       {
         "example": "由緒",
         "reading": "ユイショ",
-        "meaning": "history, pedigree, lineage"
+        "meaning": "history, pedigree, lineage |(vi) lai lịch, gốc tích"
       },
       {
         "example": "由緒ある",
         "reading": "ユイショアル",
-        "meaning": "venerable, prestigious, with a long history"
+        "meaning": "venerable, prestigious, with a long history |(vi) có lai lịch lâu đời, danh giá"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "由",
         "reading": "よし",
-        "meaning": "reason, significance, cause, piece of information that one has heard, I hear that ..., it is said that ..."
+        "meaning": "reason, significance, cause, piece of information that one has heard, I hear that ..., it is said that ... |(vi) lý do, nghe nói rằng"
       },
       {
         "example": "由ありげ",
         "reading": "よしありげ",
-        "meaning": "meaningful, suggestive, seeming to be with a history, seeming to be with circumstances that are hard to explain"
+        "meaning": "meaningful, suggestive, seeming to be with a history, seeming to be with circumstances that are hard to explain |(vi) có vẻ có duyên cớ, ra chiều bí ẩn"
       },
       {
         "example": "候由",
         "reading": "そうろうよし",
-        "meaning": "I hear that ..."
+        "meaning": "I hear that ... |(vi) nghe nói rằng (văn cổ)"
       },
       {
         "example": "依る",
         "reading": "よる",
-        "meaning": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at"
+        "meaning": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at |(vi) do bởi, dựa vào, căn cứ vào"
       }
     ],
     "radical": {
       "symbol": "田",
-      "meaning": "field"
+      "meaning": "field |(vi) Điền (ruộng)"
     },
     "parts": [
       "日",

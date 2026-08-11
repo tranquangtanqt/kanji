@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "otozureru, tazuneru, otozu, tazu",
-    "meaning": "visit",
+    "meaning": "visit |(vi) thăm, viếng thăm",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "歴訪する（れきほうする）",
         "meaning": {
-          "english": "make a tour of"
+          "english": "make a tour of |(vi) đi thăm khắp nơi, tuần du"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otozu(reru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "訪問する（ほうもんする）",
         "meaning": {
-          "english": "visit [v.t.]"
+          "english": "visit [v.t.] |(vi) thăm, đến thăm, viếng thăm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otozu(reru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "訪れる（おとずれる）",
         "meaning": {
-          "english": "visit [v.i., v.t.]"
+          "english": "visit [v.i., v.t.] |(vi) ghé thăm, đến thăm, viếng thăm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otozu(reru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "訪ねる（たずねる）",
         "meaning": {
-          "english": "visit [v.t.]"
+          "english": "visit [v.t.] |(vi) thăm, ghé thăm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otozu(reru)_06_d.opus",
@@ -180,7 +180,7 @@
     "kanji": {
       "character": "訪",
       "meaning": {
-        "english": "visit"
+        "english": "visit |(vi) thăm, viếng thăm"
       },
       "strokes": {
         "count": 11,
@@ -240,7 +240,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói, nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -261,7 +261,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "372",
     "strokeCount": 11,
-    "meaning": "call on, visit, look up, offer sympathy",
+    "meaning": "call on, visit, look up, offer sympathy |(vi) đến thăm, viếng thăm, ghé thăm, thăm hỏi, chia buồn |(hv) Phỏng",
     "kunyomi": [
       "おとず.れる",
       "たず.ねる",
@@ -274,39 +274,39 @@
       {
         "example": "訪中",
         "reading": "ホウチュウ",
-        "meaning": "visit to China"
+        "meaning": "visit to China |(vi) thăm Trung Quốc, chuyến thăm Trung Quốc"
       },
       {
         "example": "訪欧",
         "reading": "ホウオウ",
-        "meaning": "visit to Europe, visiting Europe"
+        "meaning": "visit to Europe, visiting Europe |(vi) thăm châu Âu, chuyến thăm châu Âu"
       },
       {
         "example": "歴訪",
         "reading": "レキホウ",
-        "meaning": "round of calls, tour of visitation"
+        "meaning": "round of calls, tour of visitation |(vi) chuyến công du, đi thăm nhiều nơi"
       },
       {
         "example": "採訪",
         "reading": "サイホウ",
-        "meaning": "research visit, visit to collect data (esp. historical, folklore, etc.)"
+        "meaning": "research visit, visit to collect data (esp. historical, folklore, etc.) |(vi) khảo sát thực địa, chuyến đi thu thập tư liệu (lịch sử, dân gian...)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "訪れる",
         "reading": "おとずれる",
-        "meaning": "to visit, to call on, to arrive (of a season, situation, etc.), to come, to appear"
+        "meaning": "to visit, to call on, to arrive (of a season, situation, etc.), to come, to appear |(vi) đến thăm, ghé thăm, đến (mùa, tình huống...), xuất hiện"
       },
       {
         "example": "訪ねる",
         "reading": "たずねる",
-        "meaning": "to visit, to call on, to pay a visit to"
+        "meaning": "to visit, to call on, to pay a visit to |(vi) thăm, ghé thăm, đến thăm"
       },
       {
         "example": "問う",
         "reading": "とう",
-        "meaning": "to ask, to inquire, to blame (someone) for, to accuse of, to pursue (question of responsibility), to charge with, to care about, to regard as important, to call into question, to doubt, to question"
+        "meaning": "to ask, to inquire, to blame (someone) for, to accuse of, to pursue (question of responsibility), to charge with, to care about, to regard as important, to call into question, to doubt, to question |(vi) hỏi, chất vấn, quy trách nhiệm, buộc tội, truy cứu, coi trọng, nghi ngờ, đặt câu hỏi"
       }
     ],
     "radical": {
@@ -314,7 +314,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói, nói)"
     },
     "parts": [
       "方",

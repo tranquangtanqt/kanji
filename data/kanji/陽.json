@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 5,
     "kunyomi": "hi",
-    "meaning": "sun, positive",
+    "meaning": "sun, positive |(vi) mặt trời, dương tính",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "陽光（ようこう）",
         "meaning": {
-          "english": "sunshine, sunlight"
+          "english": "sunshine, sunlight |(vi) ánh nắng mặt trời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(kina)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "陽性（ようせい）",
         "meaning": {
-          "english": "positive, sanguine [n.]"
+          "english": "positive, sanguine [n.] |(vi) dương tính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(kina)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "陽子（ようし）",
         "meaning": {
-          "english": "proton"
+          "english": "proton |(vi) proton"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(kina)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "太陽（たいよう）",
         "meaning": {
-          "english": "sun, solar"
+          "english": "sun, solar |(vi) mặt trời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(kina)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "落陽（らくよう）",
         "meaning": {
-          "english": "setting sun"
+          "english": "setting sun |(vi) mặt trời lặn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(kina)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "陽気な（ようきな）",
         "meaning": {
-          "english": "cheerful, jovial"
+          "english": "cheerful, jovial |(vi) vui vẻ, lạc quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(kina)_06_f.opus",
@@ -171,7 +171,7 @@
     "kanji": {
       "character": "陽",
       "meaning": {
-        "english": "sun, positive"
+        "english": "sun, positive |(vi) mặt trời, dương tính"
       },
       "strokes": {
         "count": 12,
@@ -233,7 +233,7 @@
         "romaji": "kozatohen"
       },
       "meaning": {
-        "english": "hill, mound"
+        "english": "hill, mound |(vi) Phụ (gò đất, đê)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kozatohen0.svg",
@@ -254,7 +254,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1071",
     "strokeCount": 12,
-    "meaning": "sunshine, yang principle, positive, male, heaven, daytime",
+    "meaning": "sunshine, yang principle, positive, male, heaven, daytime |(vi) ánh nắng, nguyên lý dương, tích cực, nam giới, trời, ban ngày |(hv) Dương",
     "kunyomi": [
       "ひ"
     ],
@@ -265,34 +265,34 @@
       {
         "example": "陽",
         "reading": "ヨウ",
-        "meaning": "(the) positive, yang (in Chinese divination), the open, visible place, public place"
+        "meaning": "(the) positive, yang (in Chinese divination), the open, visible place, public place |(vi) dương, nơi công khai, sáng sủa"
       },
       {
         "example": "陽気",
         "reading": "ヨウキ",
-        "meaning": "cheerful, jovial, merry, lively, weather, season, spirit of yang"
+        "meaning": "cheerful, jovial, merry, lively, weather, season, spirit of yang |(vi) vui vẻ, sôi nổi, thời tiết, khí dương"
       },
       {
         "example": "山陽",
         "reading": "サンヨウ",
-        "meaning": "south side of a mountain, Sanyo district"
+        "meaning": "south side of a mountain, Sanyo district |(vi) phía nam núi, vùng Sanyo"
       },
       {
         "example": "陰陽",
         "reading": "インヨウ",
-        "meaning": "cosmic dual forces, yin and yang, sun and moon, etc."
+        "meaning": "cosmic dual forces, yin and yang, sun and moon, etc. |(vi) âm dương"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "陽",
         "reading": "ひ",
-        "meaning": "sun, sunshine, sunlight"
+        "meaning": "sun, sunshine, sunlight |(vi) mặt trời, ánh nắng"
       },
       {
         "example": "日差し",
         "reading": "ひざし",
-        "meaning": "sunlight, rays of the Sun"
+        "meaning": "sunlight, rays of the Sun |(vi) ánh nắng chiếu"
       }
     ],
     "radical": {
@@ -300,7 +300,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "mound, dam (阝 left)"
+      "meaning": "mound, dam (阝 left) |(vi) Phụ (gò đất, đê)"
     },
     "parts": [
       "一",

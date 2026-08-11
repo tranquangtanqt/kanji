@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "ki, kiku, kiki",
-    "meaning": "advantage, profit, be effective",
+    "meaning": "advantage, profit, be effective |(vi) lợi thế, lợi nhuận, có hiệu quả",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "利点（りてん）",
         "meaning": {
-          "english": "advantage, point in favor"
+          "english": "advantage, point in favor |(vi) điểm lợi, ưu điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri(yousuru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "利益（りえき）",
         "meaning": {
-          "english": "benefit, profit, gain [n.]"
+          "english": "benefit, profit, gain [n.] |(vi) lợi ích, lợi nhuận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri(yousuru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "利害（りがい）",
         "meaning": {
-          "english": "advantages and disadvantages interest"
+          "english": "advantages and disadvantages interest |(vi) lợi hại, được mất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri(yousuru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "利息（りそく）",
         "meaning": {
-          "english": "interest"
+          "english": "interest |(vi) tiền lãi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri(yousuru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "権利（けんり）",
         "meaning": {
-          "english": "right, privilege"
+          "english": "right, privilege |(vi) quyền lợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri(yousuru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "利口な（りこうな）",
         "meaning": {
-          "english": "clever, shrewd, bright, sharp"
+          "english": "clever, shrewd, bright, sharp |(vi) khôn ngoan, lanh lợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri(yousuru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "便利な（べんりな）",
         "meaning": {
-          "english": "convenient, handy, useful"
+          "english": "convenient, handy, useful |(vi) tiện lợi, thuận tiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri(yousuru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "有利な（ゆうりな）",
         "meaning": {
-          "english": "advantageous, profitable"
+          "english": "advantageous, profitable |(vi) có lợi, thuận lợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri(yousuru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "利用する（りようする）",
         "meaning": {
-          "english": "use, utilize, apply"
+          "english": "use, utilize, apply |(vi) sử dụng, tận dụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri(yousuru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "勝利する（しょうりする）",
         "meaning": {
-          "english": "triumph, succeed, be victorious"
+          "english": "triumph, succeed, be victorious |(vi) chiến thắng, thắng lợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri(yousuru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "利く（きく）",
         "meaning": {
-          "english": "be effective"
+          "english": "be effective |(vi) có tác dụng, hiệu nghiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri(yousuru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "左利き（ひだりきき）",
         "meaning": {
-          "english": "left handed"
+          "english": "left handed |(vi) thuận tay trái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri(yousuru)_06_l.opus",
@@ -284,7 +284,7 @@
     "kanji": {
       "character": "利",
       "meaning": {
-        "english": "advantage, profit, be effective"
+        "english": "advantage, profit, be effective |(vi) lợi thế, lợi nhuận, có hiệu quả"
       },
       "strokes": {
         "count": 7,
@@ -336,7 +336,7 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, kiếm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -357,7 +357,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "203",
     "strokeCount": 7,
-    "meaning": "profit, advantage, benefit",
+    "meaning": "profit, advantage, benefit |(vi) lợi nhuận, lợi thế, lợi ích |(hv) Lợi",
     "kunyomi": [
       "き.く"
     ],
@@ -368,29 +368,29 @@
       {
         "example": "利",
         "reading": "リ",
-        "meaning": "advantage, benefit, profit, interest"
+        "meaning": "advantage, benefit, profit, interest |(vi) lợi ích, lợi nhuận, lãi suất"
       },
       {
         "example": "利上げ",
         "reading": "リアゲ",
-        "meaning": "increase in interest rates"
+        "meaning": "increase in interest rates |(vi) tăng lãi suất"
       },
       {
         "example": "低利",
         "reading": "テイリ",
-        "meaning": "low interest rate"
+        "meaning": "low interest rate |(vi) lãi suất thấp"
       },
       {
         "example": "水利",
         "reading": "スイリ",
-        "meaning": "utilization of water, water supply, irrigation, water transportation, navigability (e.g. of a river)"
+        "meaning": "utilization of water, water supply, irrigation, water transportation, navigability (e.g. of a river) |(vi) thủy lợi, sử dụng nguồn nước"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "効く",
         "reading": "きく",
-        "meaning": "to be effective, to take effect, to be good (for), to work, to function well, to be possible (to do, use, etc.), to be able to, to taste (alcohol), to try"
+        "meaning": "to be effective, to take effect, to be good (for), to work, to function well, to be possible (to do, use, etc.), to be able to, to taste (alcohol), to try |(vi) có tác dụng, hiệu nghiệm"
       }
     ],
     "radical": {
@@ -398,7 +398,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "刈",

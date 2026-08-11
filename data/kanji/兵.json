@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "soldier",
+    "meaning": "soldier |(vi) binh lính, quân lính",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "兵士（へいし）",
         "meaning": {
-          "english": "soldier"
+          "english": "soldier |(vi) binh sĩ, lính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei(tai)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "兵隊（へいたい）",
         "meaning": {
-          "english": "soldier, sailor"
+          "english": "soldier, sailor |(vi) quân lính, lính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei(tai)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "兵役（へいえき）",
         "meaning": {
-          "english": "military service, conscription"
+          "english": "military service, conscription |(vi) nghĩa vụ quân sự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei(tai)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "兵器（へいき）",
         "meaning": {
-          "english": "arms, weapons, ordinance"
+          "english": "arms, weapons, ordinance |(vi) vũ khí, binh khí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei(tai)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "騎兵隊（きへいたい）",
         "meaning": {
-          "english": "cavalry"
+          "english": "cavalry |(vi) kỵ binh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei(tai)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "核兵器（かくへいき）",
         "meaning": {
-          "english": "nuclear weapons"
+          "english": "nuclear weapons |(vi) vũ khí hạt nhân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei(tai)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "志願兵（しがんへい）",
         "meaning": {
-          "english": "volunteer soldier"
+          "english": "volunteer soldier |(vi) lính tình nguyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei(tai)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "徴兵する（ちょうへいする）",
         "meaning": {
-          "english": "draft, enlist"
+          "english": "draft, enlist |(vi) trưng binh, tuyển quân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei(tai)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "兵糧（ひょうろう）",
         "meaning": {
-          "english": "provisions, food"
+          "english": "provisions, food |(vi) quân lương, lương thực quân đội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei(tai)_06_i.opus",
@@ -190,7 +190,7 @@
     "kanji": {
       "character": "兵",
       "meaning": {
-        "english": "soldier"
+        "english": "soldier |(vi) binh lính, quân lính"
       },
       "strokes": {
         "count": 7,
@@ -242,7 +242,7 @@
         "romaji": "hachi"
       },
       "meaning": {
-        "english": "eight"
+        "english": "eight |(vi) Bát (số tám)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hachi0.svg",
@@ -263,7 +263,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "522",
     "strokeCount": 7,
-    "meaning": "soldier, private, troops, army, warfare, strategy, tactics",
+    "meaning": "soldier, private, troops, army, warfare, strategy, tactics |(vi) binh lính, lính trơn, quân đội, chiến tranh, chiến lược, chiến thuật |(hv) Binh",
     "kunyomi": [
       "つわもの"
     ],
@@ -275,59 +275,59 @@
       {
         "example": "兵",
         "reading": "ヘイ",
-        "meaning": "(common) soldier, rank and file, army, troops, warfare, strategy"
+        "meaning": "(common) soldier, rank and file, army, troops, warfare, strategy |(vi) binh lính, quân đội, chiến tranh, chiến lược"
       },
       {
         "example": "兵員",
         "reading": "ヘイイン",
-        "meaning": "military strength, military personnel"
+        "meaning": "military strength, military personnel |(vi) quân số, binh lực"
       },
       {
         "example": "伏兵",
         "reading": "フクヘイ",
-        "meaning": "ambush, troops in ambush, unexpected opposition, unexpected obstacle"
+        "meaning": "ambush, troops in ambush, unexpected opposition, unexpected obstacle |(vi) phục binh, quân mai phục, trở ngại bất ngờ"
       },
       {
         "example": "工兵",
         "reading": "コウヘイ",
-        "meaning": "combat engineer, military engineer, combat engineering, military engineering"
+        "meaning": "combat engineer, military engineer, combat engineering, military engineering |(vi) công binh"
       },
       {
         "example": "兵",
         "reading": "ヒョウ",
-        "meaning": "pawn"
+        "meaning": "pawn |(vi) quân tốt (cờ tướng/shogi)"
       },
       {
         "example": "兵法",
         "reading": "ヘイホウ",
-        "meaning": "art of war, strategy, tactics"
+        "meaning": "art of war, strategy, tactics |(vi) binh pháp, chiến lược, chiến thuật"
       },
       {
         "example": "小兵",
         "reading": "コヒョウ",
-        "meaning": "small build, small stature"
+        "meaning": "small build, small stature |(vi) vóc người nhỏ bé"
       },
       {
         "example": "大兵",
         "reading": "ダイヒョウ",
-        "meaning": "great stature, large build"
+        "meaning": "great stature, large build |(vi) vóc người to lớn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "兵",
         "reading": "つわもの",
-        "meaning": "soldier, warrior, person of courage, strong person, very capable person, master (in a field)"
+        "meaning": "soldier, warrior, person of courage, strong person, very capable person, master (in a field) |(vi) chiến binh, người dũng cảm, bậc thầy (trong lĩnh vực nào đó)"
       },
       {
         "example": "古強者",
         "reading": "ふるつわもの",
-        "meaning": "feudal warrior, samurai, old soldier, veteran, old hand"
+        "meaning": "feudal warrior, samurai, old soldier, veteran, old hand |(vi) võ sĩ kỳ cựu, lão tướng, người dày dạn kinh nghiệm"
       }
     ],
     "radical": {
       "symbol": "八",
-      "meaning": "eight"
+      "meaning": "eight |(vi) Bát (số tám)"
     },
     "parts": [
       "ハ",

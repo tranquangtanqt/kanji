@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "stamp, seal, judge",
+    "meaning": "stamp, seal, judge |(vi) con dấu, ấn, phán xét",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "判（はん）",
         "meaning": {
-          "english": "stamp [n.]"
+          "english": "stamp [n.] |(vi) con dấu, dấu ấn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "判事（はんじ）",
         "meaning": {
-          "english": "judge [n.]"
+          "english": "judge [n.] |(vi) thẩm phán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "判決（はんけつ）",
         "meaning": {
-          "english": "judicial decision"
+          "english": "judicial decision |(vi) phán quyết, bản án"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "判断する（はんだんする）",
         "meaning": {
-          "english": "judge, decipher"
+          "english": "judge, decipher |(vi) phán đoán, nhận định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "判明する（はんめいする）",
         "meaning": {
-          "english": "prove, turn out"
+          "english": "prove, turn out |(vi) làm sáng tỏ, hóa ra là"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "批判する（ひはんする）",
         "meaning": {
-          "english": "criticize"
+          "english": "criticize |(vi) phê bình, phê phán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "評判（ひょうばん）",
         "meaning": {
-          "english": "reputation"
+          "english": "reputation |(vi) danh tiếng, tiếng tăm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "裁判（さいばん）",
         "meaning": {
-          "english": "trial"
+          "english": "trial |(vi) xét xử, phiên tòa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "裁判所（さいばんしょ）",
         "meaning": {
-          "english": "court"
+          "english": "court |(vi) tòa án"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_i.opus",
@@ -211,7 +211,7 @@
     "kanji": {
       "character": "判",
       "meaning": {
-        "english": "stamp, seal, judge"
+        "english": "stamp, seal, judge |(vi) con dấu, ấn, phán xét"
       },
       "strokes": {
         "count": 7,
@@ -263,7 +263,7 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, kiếm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -284,7 +284,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "197",
     "strokeCount": 7,
-    "meaning": "judgement, judgment, signature, stamp, seal",
+    "meaning": "judgement, judgment, signature, stamp, seal |(vi) phán quyết, chữ ký, con dấu |(hv) Phán",
     "kunyomi": [
       "わか.る"
     ],
@@ -296,44 +296,44 @@
       {
         "example": "判",
         "reading": "ハン",
-        "meaning": "seal, stamp, monogram signature, judgment, judgement, size (of paper or books)"
+        "meaning": "seal, stamp, monogram signature, judgment, judgement, size (of paper or books) |(vi) con dấu, chữ ký, phán quyết, khổ (giấy, sách)"
       },
       {
         "example": "判決",
         "reading": "ハンケツ",
-        "meaning": "judicial decision, judgement, judgment, sentence, decree"
+        "meaning": "judicial decision, judgement, judgment, sentence, decree |(vi) phán quyết, bản án"
       },
       {
         "example": "誤判",
         "reading": "ゴハン",
-        "meaning": "misjudgement, misjudgment, erroneous judgement, miscarriage of justice"
+        "meaning": "misjudgement, misjudgment, erroneous judgement, miscarriage of justice |(vi) phán đoán sai, xử án sai"
       },
       {
         "example": "木版",
         "reading": "モクハン",
-        "meaning": "wood-block printing, wood engraving"
+        "meaning": "wood-block printing, wood engraving |(vi) khắc gỗ, in mộc bản"
       },
       {
         "example": "判",
         "reading": "ハン",
-        "meaning": "seal, stamp, monogram signature, judgment, judgement, size (of paper or books)"
+        "meaning": "seal, stamp, monogram signature, judgment, judgement, size (of paper or books) |(vi) con dấu, chữ ký, phán quyết, khổ (giấy, sách)"
       },
       {
         "example": "司法裁判",
         "reading": "シホウサイバン",
-        "meaning": "judicial trial"
+        "meaning": "judicial trial |(vi) xét xử tư pháp"
       },
       {
         "example": "大判",
         "reading": "オオバン",
-        "meaning": "large size (paper, book, etc.), ōban, large oval gold coin used in the Edo period"
+        "meaning": "large size (paper, book, etc.), ōban, large oval gold coin used in the Edo period |(vi) khổ lớn (giấy, sách); đồng tiền vàng ōban thời Edo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "分かる",
         "reading": "わかる",
-        "meaning": "to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out, I know!, I think so too!"
+        "meaning": "to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out, I know!, I think so too! |(vi) hiểu, nắm rõ, nhận ra, được biết"
       }
     ],
     "radical": {
@@ -341,7 +341,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "二",

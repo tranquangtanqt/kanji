@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 6,
     "kunyomi": "hara",
-    "meaning": "belly, heart, mind",
+    "meaning": "belly, heart, mind |(vi) bụng, tâm, ý nghĩ",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "腹部（ふくぶ）",
         "meaning": {
-          "english": "abdomen"
+          "english": "abdomen |(vi) bụng, phần bụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-hara_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "腹痛（ふくつう）",
         "meaning": {
-          "english": "stomach ache, abdominal pain"
+          "english": "stomach ache, abdominal pain |(vi) đau bụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-hara_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "腹心（ふくしん）",
         "meaning": {
-          "english": "confidant, trusted friend"
+          "english": "confidant, trusted friend |(vi) người tâm phúc, bạn thân tín"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-hara_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "満腹（まんぷく）",
         "meaning": {
-          "english": "full, glutted [n.]"
+          "english": "full, glutted [n.] |(vi) no căng, ăn no"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-hara_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "空腹（くうふく）",
         "meaning": {
-          "english": "hunger"
+          "english": "hunger |(vi) đói bụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-hara_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "切腹する（せっぷくする）",
         "meaning": {
-          "english": "commit seppuku"
+          "english": "commit seppuku |(vi) mổ bụng tự sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-hara_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "立腹する（りっぷくする）",
         "meaning": {
-          "english": "anger, get angry"
+          "english": "anger, get angry |(vi) tức giận, nổi giận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-hara_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "腹（はら）",
         "meaning": {
-          "english": "abdomen, belly, stomach"
+          "english": "abdomen, belly, stomach |(vi) bụng, phần bụng, dạ dày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-hara_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "腹違い（はらちがい）",
         "meaning": {
-          "english": "born of a different mother [n.]"
+          "english": "born of a different mother [n.] |(vi) khác mẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-hara_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "腹を立てる（はらをたてる）",
         "meaning": {
-          "english": "take offense, get angry [v.t.]"
+          "english": "take offense, get angry [v.t.] |(vi) phật ý, nổi giận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-hara_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "腹が立つ（はらがたつ）",
         "meaning": {
-          "english": "take offense, get angry [v.i.]"
+          "english": "take offense, get angry [v.i.] |(vi) phật ý, nổi giận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-hara_06_k.opus",
@@ -222,7 +222,7 @@
     "kanji": {
       "character": "腹",
       "meaning": {
-        "english": "belly, heart, mind"
+        "english": "belly, heart, mind |(vi) bụng, tâm, ý nghĩ"
       },
       "strokes": {
         "count": 13,
@@ -286,7 +286,7 @@
         "romaji": "nikuzuki"
       },
       "meaning": {
-        "english": "meat, flesh"
+        "english": "meat, flesh |(vi) Nhục (thịt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nikuzuki0.svg",
@@ -307,7 +307,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1286",
     "strokeCount": 13,
-    "meaning": "abdomen, belly, stomach",
+    "meaning": "abdomen, belly, stomach |(vi) bụng, phần bụng, dạ dày |(hv) Phúc",
     "kunyomi": [
       "はら"
     ],
@@ -318,44 +318,44 @@
       {
         "example": "腹痛",
         "reading": "フクツウ",
-        "meaning": "stomach ache, abdominal pain"
+        "meaning": "stomach ache, abdominal pain |(vi) đau bụng"
       },
       {
         "example": "腹心",
         "reading": "フクシン",
-        "meaning": "one's confidant, trusted friend, trusted retainer"
+        "meaning": "one's confidant, trusted friend, trusted retainer |(vi) người tâm phúc, bạn thân tín, thuộc hạ tin cậy"
       },
       {
         "example": "私腹",
         "reading": "シフク",
-        "meaning": "one's own profits, one's own pockets"
+        "meaning": "one's own profits, one's own pockets |(vi) lợi lộc riêng, túi tiền riêng"
       },
       {
         "example": "開腹",
         "reading": "カイフク",
-        "meaning": "making an incision in the abdomen, performing a laparotomy"
+        "meaning": "making an incision in the abdomen, performing a laparotomy |(vi) mổ bụng, phẫu thuật mở bụng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "腹",
         "reading": "はら",
-        "meaning": "abdomen, belly, stomach, womb, one's mind, one's real intentions, one's true motive, courage, nerve, willpower, generosity, magnanimity, feelings, emotions, wide middle part, bulging part, inside, interior, inner part, anti-node, counter for hard roe, counter for containers with bulging middles (pots, vases, etc.)"
+        "meaning": "abdomen, belly, stomach, womb, one's mind, one's real intentions, one's true motive, courage, nerve, willpower, generosity, magnanimity, feelings, emotions, wide middle part, bulging part, inside, interior, inner part, anti-node, counter for hard roe, counter for containers with bulging middles (pots, vases, etc.) |(vi) bụng, phần bụng, dạ dày, tử cung, tâm trí, ý định thật, động cơ thật, sự can đảm, gan dạ, ý chí, lòng khoan dung, cảm xúc, phần giữa phình to, phần lồi, bên trong, phần trong, phản nút (vật lý), lượng từ đếm trứng cá, lượng từ đếm vật có phần giữa phình to (nồi, bình...)"
       },
       {
         "example": "腹痛",
         "reading": "ふくつう",
-        "meaning": "stomach ache, abdominal pain"
+        "meaning": "stomach ache, abdominal pain |(vi) đau bụng"
       },
       {
         "example": "業腹",
         "reading": "ごうはら",
-        "meaning": "spite, resentment"
+        "meaning": "spite, resentment |(vi) sự oán giận, hờn giận"
       },
       {
         "example": "赤腹",
         "reading": "あかはら",
-        "meaning": "brown-headed thrush (Turdus chrysolaus), Japanese dace (Tribolodon hakonensis), Japanese fire belly newt (Cynops pyrrhogaster), dysentery"
+        "meaning": "brown-headed thrush (Turdus chrysolaus), Japanese dace (Tribolodon hakonensis), Japanese fire belly newt (Cynops pyrrhogaster), dysentery |(vi) chim hét đầu nâu, cá dace Nhật, sa giông bụng lửa Nhật, bệnh kiết lỵ"
       }
     ],
     "radical": {
@@ -363,7 +363,7 @@
       "forms": [
         "⺼"
       ],
-      "meaning": "meat"
+      "meaning": "meat |(vi) Nhục (thịt)"
     },
     "parts": [
       "ノ",

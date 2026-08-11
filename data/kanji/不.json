@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "not",
+    "meaning": "not |(vi) không, chẳng",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "不規則な（ふきそくな）",
         "meaning": {
-          "english": "irregular"
+          "english": "irregular |(vi) không đều, bất thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "不可能な（ふかのうな）",
         "meaning": {
-          "english": "impossible"
+          "english": "impossible |(vi) không thể, bất khả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "不親切な（ふしんせつな）",
         "meaning": {
-          "english": "unkind"
+          "english": "unkind |(vi) không tử tế, bất thân thiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "不都合な（ふつごうな）",
         "meaning": {
-          "english": "inconvenient"
+          "english": "inconvenient |(vi) bất tiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "不公平な（ふこうへいな）",
         "meaning": {
-          "english": "unfair"
+          "english": "unfair |(vi) bất công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "不思議な（ふしぎな）",
         "meaning": {
-          "english": "mysterious, strange"
+          "english": "mysterious, strange |(vi) kỳ lạ, bí ẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "不安（ふあん）",
         "meaning": {
-          "english": "anxiety"
+          "english": "anxiety |(vi) lo lắng, bất an"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "不満（ふまん）",
         "meaning": {
-          "english": "dissatisfaction"
+          "english": "dissatisfaction |(vi) bất mãn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "不足する（ふそくする）",
         "meaning": {
-          "english": "be short of"
+          "english": "be short of |(vi) thiếu, bất túc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "不器用な（ぶきような）",
         "meaning": {
-          "english": "clumsy"
+          "english": "clumsy |(vi) vụng về"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "不用心な（ぶようじんな）",
         "meaning": {
-          "english": "careless, unsafe"
+          "english": "careless, unsafe |(vi) bất cẩn, không an toàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_k.opus",
@@ -284,7 +284,7 @@
     "kanji": {
       "character": "不",
       "meaning": {
-        "english": "not"
+        "english": "not |(vi) không, chẳng"
       },
       "strokes": {
         "count": 4,
@@ -330,7 +330,7 @@
         "romaji": "ichi"
       },
       "meaning": {
-        "english": "one, horizontal stroke"
+        "english": "one, horizontal stroke |(vi) Nhất (một, nét ngang)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ichi0.svg",
@@ -351,7 +351,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "101",
     "strokeCount": 4,
-    "meaning": "negative, non-, bad, ugly, clumsy",
+    "meaning": "negative, non-, bad, ugly, clumsy |(vi) phủ định, không, bất-, xấu, xấu xí, vụng về |(hv) Bất",
     "kunyomi": [],
     "onyomi": [
       "フ",
@@ -361,38 +361,38 @@
       {
         "example": "不",
         "reading": "フ",
-        "meaning": "un-, non-"
+        "meaning": "un-, non- |(vi) bất-, không-"
       },
       {
         "example": "不安",
         "reading": "フアン",
-        "meaning": "anxiety, uneasiness, worry, apprehension, fear, insecurity, suspense"
+        "meaning": "anxiety, uneasiness, worry, apprehension, fear, insecurity, suspense |(vi) lo lắng, bất an, bồn chồn, sợ hãi"
       },
       {
         "example": "意味不",
         "reading": "イミフ",
-        "meaning": "of uncertain meaning, ambiguous, cryptic, nonsensical, incomprehensible, perplexing"
+        "meaning": "of uncertain meaning, ambiguous, cryptic, nonsensical, incomprehensible, perplexing |(vi) nghĩa không rõ, khó hiểu, khó hiểu ý nghĩa"
       },
       {
         "example": "社不",
         "reading": "シャフ",
-        "meaning": "person unfit for society, misfit"
+        "meaning": "person unfit for society, misfit |(vi) người lạc lõng trong xã hội, người không hòa nhập"
       },
       {
         "example": "無",
         "reading": "ブ",
-        "meaning": "un-, non-, bad ..., poor ..."
+        "meaning": "un-, non-, bad ..., poor ... |(vi) bất-, vô-, xấu ..., kém ..."
       },
       {
         "example": "不気味",
         "reading": "ブキミ",
-        "meaning": "weird, eerie, ominous, creepy, uncanny, unearthly"
+        "meaning": "weird, eerie, ominous, creepy, uncanny, unearthly |(vi) kỳ dị, rùng rợn, ma quái, bí hiểm"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": "one |(vi) Nhất (một, nét ngang)"
     },
     "parts": [
       "ノ",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 50,
     "kunyomi": "n/a",
-    "meaning": "section",
+    "meaning": "section |(vi) bộ phận, phòng ban",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "部（ぶ）",
         "meaning": {
-          "english": "section, category, department"
+          "english": "section, category, department |(vi) bộ, phần, phòng ban"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(ya)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "部分（ぶぶん）",
         "meaning": {
-          "english": "portion"
+          "english": "portion |(vi) phần, bộ phận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(ya)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "部長（ぶちょう）",
         "meaning": {
-          "english": "head of a section or department"
+          "english": "head of a section or department |(vi) trưởng phòng, trưởng bộ phận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(ya)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "部下（ぶか）",
         "meaning": {
-          "english": "subordinate person"
+          "english": "subordinate person |(vi) cấp dưới, thuộc hạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(ya)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "全部（ぜんぶ）",
         "meaning": {
-          "english": "all"
+          "english": "all |(vi) toàn bộ, tất cả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(ya)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "北部（ほくぶ）",
         "meaning": {
-          "english": "northern part"
+          "english": "northern part |(vi) phía bắc, miền bắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(ya)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "内部（ないぶ）",
         "meaning": {
-          "english": "inside, interior, inward"
+          "english": "inside, interior, inward |(vi) bên trong, nội bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(ya)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "学部（がくぶ）",
         "meaning": {
-          "english": "department of a university"
+          "english": "department of a university |(vi) khoa (đại học)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(ya)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "営業部（えいぎょうぶ）",
         "meaning": {
-          "english": "sales department"
+          "english": "sales department |(vi) phòng kinh doanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(ya)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "*阿部（あべ）",
         "meaning": {
-          "english": "Abe (surname)"
+          "english": "Abe (surname) |(vi) họ Abe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(ya)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "*部屋（へや）",
         "meaning": {
-          "english": "room"
+          "english": "room |(vi) phòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/he(ya)_06_k.opus",
@@ -293,7 +293,7 @@
     "kanji": {
       "character": "部",
       "meaning": {
-        "english": "section"
+        "english": "section |(vi) bộ phận, phòng ban"
       },
       "strokes": {
         "count": 11,
@@ -353,7 +353,7 @@
         "romaji": "oozato"
       },
       "meaning": {
-        "english": "village, country, city"
+        "english": "village, country, city |(vi) Ấp (thôn xóm, thành thị)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/oozato0.svg",
@@ -374,7 +374,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "36",
     "strokeCount": 11,
-    "meaning": "section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",
+    "meaning": "section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine |(vi) bộ phận, cục, phòng ban, lớp, bản (sách/báo), phần, lượng từ đếm số bản báo/tạp chí |(hv) Bộ",
     "kunyomi": [
       "-べ"
     ],
@@ -385,22 +385,22 @@
       {
         "example": "部",
         "reading": "ブ",
-        "meaning": "department (in an organization, company, etc.), division, bureau, faculty, club (at a school, university, etc.), team, part, portion, region, area, category, class, division, section, heading, counter for copies of a newspaper, magazine, book, etc."
+        "meaning": "department (in an organization, company, etc.), division, bureau, faculty, club (at a school, university, etc.), team, part, portion, region, area, category, class, division, section, heading, counter for copies of a newspaper, magazine, book, etc. |(vi) bộ phận, phòng ban, khoa, câu lạc bộ, đội, phần, khu vực, hạng mục, lượng từ đếm bản sách/báo"
       },
       {
         "example": "部位",
         "reading": "ブイ",
-        "meaning": "part (esp. of the body), region, site, cut (of meat)"
+        "meaning": "part (esp. of the body), region, site, cut (of meat) |(vi) vị trí, bộ phận (cơ thể), phần thịt"
       },
       {
         "example": "情報部",
         "reading": "ジョウホウブ",
-        "meaning": "information bureau, intelligence department"
+        "meaning": "information bureau, intelligence department |(vi) phòng tình báo, cục tình báo"
       },
       {
         "example": "首脳部",
         "reading": "シュノウブ",
-        "meaning": "executives, top management, governing body"
+        "meaning": "executives, top management, governing body |(vi) ban lãnh đạo, giới chóp bu"
       }
     ],
     "kunyomiExamples": [],
@@ -409,7 +409,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "town (阝 right)"
+      "meaning": "town (阝 right) |(vi) Ấp (thôn xóm, thành thị)"
     },
     "parts": [
       "口",

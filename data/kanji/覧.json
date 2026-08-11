@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "look over, see",
+    "meaning": "look over, see |(vi) xem qua, nhìn",
     "kstroke": 17,
     "examples": [
       {
         "japanese": "要覧（ようらん）",
         "meaning": {
-          "english": "outline, survey, handbook"
+          "english": "outline, survey, handbook |(vi) sổ tay, tổng quan, cẩm nang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ten)ran(kai)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "一覧表（いちらんひょう）",
         "meaning": {
-          "english": "list, table"
+          "english": "list, table |(vi) bảng danh sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ten)ran(kai)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "観覧車（かんらんしゃ）",
         "meaning": {
-          "english": "Ferris wheel"
+          "english": "Ferris wheel |(vi) vòng đu quay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ten)ran(kai)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "展覧会（てんらんかい）",
         "meaning": {
-          "english": "exhibition"
+          "english": "exhibition |(vi) triển lãm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ten)ran(kai)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "博覧会（はくらんかい）",
         "meaning": {
-          "english": "fair, exhibition, exposition"
+          "english": "fair, exhibition, exposition |(vi) hội chợ, triển lãm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ten)ran(kai)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "一覧する（いちらんする）",
         "meaning": {
-          "english": "take a glance, look over"
+          "english": "take a glance, look over |(vi) xem lướt qua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ten)ran(kai)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "回覧する（かいらんする）",
         "meaning": {
-          "english": "circulate (a magazine, etc.)"
+          "english": "circulate (a magazine, etc.) |(vi) luân chuyển, truyền tay xem"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ten)ran(kai)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "ご覧になる（ごらんになる）",
         "meaning": {
-          "english": "look [hon.]"
+          "english": "look [hon.] |(vi) xem (kính ngữ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ten)ran(kai)_06_h.opus",
@@ -208,7 +208,7 @@
     "kanji": {
       "character": "覧",
       "meaning": {
-        "english": "look over, see"
+        "english": "look over, see |(vi) xem qua, nhìn"
       },
       "strokes": {
         "count": 17,
@@ -280,7 +280,7 @@
         "romaji": "miru"
       },
       "meaning": {
-        "english": "to see"
+        "english": "to see |(vi) Kiến (nhìn thấy)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/miru0.svg",
@@ -301,7 +301,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1510",
     "strokeCount": 17,
-    "meaning": "perusal, see",
+    "meaning": "perusal, see |(vi) xem xét kỹ, nhìn |(hv) Lãm",
     "kunyomi": [
       "み.る"
     ],
@@ -312,24 +312,24 @@
       {
         "example": "一覧",
         "reading": "イチラン",
-        "meaning": "look, glance, sight, having a look at, looking over, glancing through, running one's eyes over, summary, list, table, catalog, catalogue"
+        "meaning": "look, glance, sight, having a look at, looking over, glancing through, running one's eyes over, summary, list, table, catalog, catalogue |(vi) cái nhìn tổng quan, danh sách, bảng liệt kê"
       },
       {
         "example": "遊覧",
         "reading": "ユウラン",
-        "meaning": "sightseeing"
+        "meaning": "sightseeing |(vi) du ngoạn, tham quan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "見る",
         "reading": "みる",
-        "meaning": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ..."
+        "meaning": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ... |(vi) xem, nhìn, quan sát, chăm sóc, trải nghiệm"
       }
     ],
     "radical": {
       "symbol": "見",
-      "meaning": "see"
+      "meaning": "see |(vi) Kiến (nhìn thấy)"
     },
     "parts": [
       "ノ",

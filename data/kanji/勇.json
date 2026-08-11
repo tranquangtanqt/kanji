@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "isa, isamu, isamashii",
-    "meaning": "brave, be spirited, encouraged",
+    "meaning": "brave, be spirited, encouraged |(vi) dũng cảm, hăng hái, phấn chấn",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "勇気（ゆうき）",
         "meaning": {
-          "english": "courage"
+          "english": "courage |(vi) dũng khí, can đảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isa(mashii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "勇士（ゆうし）",
         "meaning": {
-          "english": "brave warrior"
+          "english": "brave warrior |(vi) dũng sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isa(mashii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "武勇伝（ぶゆうでん）",
         "meaning": {
-          "english": "tale of heroic exploits"
+          "english": "tale of heroic exploits |(vi) chuyện chiến công anh dũng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isa(mashii)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "勇敢な（ゆうかんな）",
         "meaning": {
-          "english": "brave"
+          "english": "brave |(vi) dũng cảm, can đảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isa(mashii)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "勇退する（ゆうたいする）",
         "meaning": {
-          "english": "retire voluntarily"
+          "english": "retire voluntarily |(vi) tự nguyện từ chức, lui về"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isa(mashii)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "勇ましい（いさましい）",
         "meaning": {
-          "english": "brave"
+          "english": "brave |(vi) dũng mãnh, gan dạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isa(mashii)_06_f.opus",
@@ -172,7 +172,7 @@
     "kanji": {
       "character": "勇",
       "meaning": {
-        "english": "brave, be spirited, encouraged"
+        "english": "brave, be spirited, encouraged |(vi) dũng cảm, hăng hái, phấn chấn"
       },
       "strokes": {
         "count": 9,
@@ -228,7 +228,7 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power |(vi) Lực (sức mạnh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -249,7 +249,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1319",
     "strokeCount": 9,
-    "meaning": "courage, cheer up, be in high spirits, bravery, heroism",
+    "meaning": "courage, cheer up, be in high spirits, bravery, heroism |(vi) dũng khí, phấn chấn, hăng hái, can đảm, anh hùng |(hv) Dũng",
     "kunyomi": [
       "いさ.む"
     ],
@@ -260,34 +260,34 @@
       {
         "example": "勇",
         "reading": "ユウ",
-        "meaning": "bravery, courage, heroism"
+        "meaning": "bravery, courage, heroism |(vi) dũng khí, can đảm, anh hùng"
       },
       {
         "example": "勇気",
         "reading": "ユウキ",
-        "meaning": "courage, bravery, valour, valor, nerve, boldness"
+        "meaning": "courage, bravery, valour, valor, nerve, boldness |(vi) dũng khí, can đảm, gan dạ"
       },
       {
         "example": "義勇",
         "reading": "ギユウ",
-        "meaning": "heroism, loyalty and courage"
+        "meaning": "heroism, loyalty and courage |(vi) nghĩa dũng, trung nghĩa và can đảm"
       },
       {
         "example": "武勇",
         "reading": "ブユウ",
-        "meaning": "bravery, military prowess, valour, valor"
+        "meaning": "bravery, military prowess, valour, valor |(vi) võ dũng, tài thao lược can đảm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "勇む",
         "reading": "いさむ",
-        "meaning": "to be in high spirits, to be encouraged, to be lively, to cheer up"
+        "meaning": "to be in high spirits, to be encouraged, to be lively, to cheer up |(vi) hăng hái, phấn khởi, hào hứng"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": "power, force |(vi) Lực (sức mạnh)"
     },
     "parts": [
       "マ",

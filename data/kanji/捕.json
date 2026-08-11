@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "to, tsuka, toraeru, torawareru, toru, tsukamaeru, tsukamaru",
-    "meaning": "catch, grasp, capture",
+    "meaning": "catch, grasp, capture |(vi) bắt, tóm, bắt giữ",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "捕手（ほしゅ）",
         "meaning": {
-          "english": "catcher"
+          "english": "catcher |(vi) người bắt bóng (bóng chày)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho-to(raeru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "捕虜（ほりょ）",
         "meaning": {
-          "english": "prisoner of war"
+          "english": "prisoner of war |(vi) tù binh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho-to(raeru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "捕鯨船（ほげいせん）",
         "meaning": {
-          "english": "whaling ship"
+          "english": "whaling ship |(vi) tàu săn cá voi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho-to(raeru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "捕獲する（ほかくする）",
         "meaning": {
-          "english": "capture, seize"
+          "english": "capture, seize |(vi) bắt giữ, tóm được"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho-to(raeru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "逮捕する（たいほする）",
         "meaning": {
-          "english": "arrest, apprehend"
+          "english": "arrest, apprehend |(vi) bắt giữ, bắt giam"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho-to(raeru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "捕らえる（とらえる）",
         "meaning": {
-          "english": "seize, capture, arrest [v.t.]"
+          "english": "seize, capture, arrest [v.t.] |(vi) bắt, tóm, bắt giữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho-to(raeru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "捕る（とる）",
         "meaning": {
-          "english": "take, catch, capture [v.t.]"
+          "english": "take, catch, capture [v.t.] |(vi) bắt, tóm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho-to(raeru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "捕まえる（つかまえる）",
         "meaning": {
-          "english": "catch, arrest, seize [v.t.]"
+          "english": "catch, arrest, seize [v.t.] |(vi) bắt, tóm, chộp lấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho-to(raeru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "捕まる（つかまる）",
         "meaning": {
-          "english": "be caught, be arrested [v.i.]"
+          "english": "be caught, be arrested [v.i.] |(vi) bị bắt, bị tóm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho-to(raeru)_06_i.opus",
@@ -217,7 +217,7 @@
     "kanji": {
       "character": "捕",
       "meaning": {
-        "english": "catch, grasp, capture"
+        "english": "catch, grasp, capture |(vi) bắt, tóm, bắt giữ"
       },
       "strokes": {
         "count": 10,
@@ -275,7 +275,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -296,7 +296,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "604",
     "strokeCount": 10,
-    "meaning": "catch, capture",
+    "meaning": "catch, capture |(vi) bắt, bắt giữ |(hv) Bộ",
     "kunyomi": [
       "と.らえる",
       "と.らわれる",
@@ -313,59 +313,59 @@
       {
         "example": "捕鯨",
         "reading": "ホゲイ",
-        "meaning": "whaling, whale hunting, whale fishing"
+        "meaning": "whaling, whale hunting, whale fishing |(vi) săn cá voi, đánh bắt cá voi"
       },
       {
         "example": "捕獲",
         "reading": "ホカク",
-        "meaning": "capture, seizure"
+        "meaning": "capture, seizure |(vi) bắt giữ, tóm bắt"
       },
       {
         "example": "採捕",
         "reading": "サイホ",
-        "meaning": "collecting (plants and animals), gathering, capturing, catching"
+        "meaning": "collecting (plants and animals), gathering, capturing, catching |(vi) thu bắt, thu lượm (động thực vật)"
       },
       {
         "example": "再逮捕",
         "reading": "サイタイホ",
-        "meaning": "rearrest, recapture"
+        "meaning": "rearrest, recapture |(vi) bắt lại, tái bắt giữ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "捉える",
         "reading": "とらえる",
-        "meaning": "to catch, to capture, to seize, to arrest, to grab, to catch hold of, to grasp (e.g. meaning), to perceive, to capture (e.g. features), to captivate, to move (one's heart)"
+        "meaning": "to catch, to capture, to seize, to arrest, to grab, to catch hold of, to grasp (e.g. meaning), to perceive, to capture (e.g. features), to captivate, to move (one's heart) |(vi) bắt, tóm, nắm bắt (ý nghĩa), thu hút, lay động (lòng người)"
       },
       {
         "example": "囚われる",
         "reading": "とらわれる",
-        "meaning": "to be caught, to be captured, to be taken prisoner, to be arrested, to be apprehended, to be seized with (fear, etc.), to be a slave to, to stick to, to adhere to, to be swayed by"
+        "meaning": "to be caught, to be captured, to be taken prisoner, to be arrested, to be apprehended, to be seized with (fear, etc.), to be a slave to, to stick to, to adhere to, to be swayed by |(vi) bị bắt, bị giam giữ, bị chi phối, bị ràng buộc bởi"
       },
       {
         "example": "捕る",
         "reading": "とる",
-        "meaning": "to catch (a wild animal, fish, insect, baseball, etc.), to capture"
+        "meaning": "to catch (a wild animal, fish, insect, baseball, etc.), to capture |(vi) bắt (thú, cá, côn trùng, bóng)"
       },
       {
         "example": "捉える",
         "reading": "とらえる",
-        "meaning": "to catch, to capture, to seize, to arrest, to grab, to catch hold of, to grasp (e.g. meaning), to perceive, to capture (e.g. features), to captivate, to move (one's heart)"
+        "meaning": "to catch, to capture, to seize, to arrest, to grab, to catch hold of, to grasp (e.g. meaning), to perceive, to capture (e.g. features), to captivate, to move (one's heart) |(vi) bắt, tóm, nắm bắt (ý nghĩa), thu hút, lay động (lòng người)"
       },
       {
         "example": "囚われる",
         "reading": "とらわれる",
-        "meaning": "to be caught, to be captured, to be taken prisoner, to be arrested, to be apprehended, to be seized with (fear, etc.), to be a slave to, to stick to, to adhere to, to be swayed by"
+        "meaning": "to be caught, to be captured, to be taken prisoner, to be arrested, to be apprehended, to be seized with (fear, etc.), to be a slave to, to stick to, to adhere to, to be swayed by |(vi) bị bắt, bị giam giữ, bị chi phối, bị ràng buộc bởi"
       },
       {
         "example": "捕まえる",
         "reading": "つかまえる",
-        "meaning": "to catch, to capture, to arrest, to seize, to restrain, to grab, to clutch, to grasp, to seize, to hold on to, to catch hold of (someone), to stop (e.g. a stranger in the street), to hail (a taxi, waiter, etc.), to hold (someone) back, to detain, towards (someone), at (someone), in (someone's) face"
+        "meaning": "to catch, to capture, to arrest, to seize, to restrain, to grab, to clutch, to grasp, to seize, to hold on to, to catch hold of (someone), to stop (e.g. a stranger in the street), to hail (a taxi, waiter, etc.), to hold (someone) back, to detain, towards (someone), at (someone), in (someone's) face |(vi) bắt, tóm, giữ lại, chặn lại (taxi, người qua đường)"
       },
       {
         "example": "捕まる",
         "reading": "つかまる",
-        "meaning": "to be caught, to be arrested, to hold on to, to grasp, to find (e.g. proof), to get (e.g. a taxi), to be detained by"
+        "meaning": "to be caught, to be arrested, to hold on to, to grasp, to find (e.g. proof), to get (e.g. a taxi), to be detained by |(vi) bị bắt, bám vào, tìm được (bằng chứng), bắt được (taxi)"
       }
     ],
     "radical": {
@@ -373,7 +373,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "丶",

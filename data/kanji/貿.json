@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "trade, exchange",
+    "meaning": "trade, exchange |(vi) mậu dịch, buôn bán, trao đổi",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "貿易（ぼうえき）",
         "meaning": {
-          "english": "trade"
+          "english": "trade |(vi) mậu dịch, buôn bán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou(ekifuu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "貿易業（ぼうえきぎょう）",
         "meaning": {
-          "english": "trading business"
+          "english": "trading business |(vi) ngành mậu dịch, ngành thương mại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou(ekifuu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "貿易風（ぼうえきふう）",
         "meaning": {
-          "english": "trade wind"
+          "english": "trade wind |(vi) gió mậu dịch, tín phong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou(ekifuu)_06_c.opus",
@@ -133,7 +133,7 @@
     "kanji": {
       "character": "貿",
       "meaning": {
-        "english": "trade, exchange"
+        "english": "trade, exchange |(vi) mậu dịch, buôn bán, trao đổi"
       },
       "strokes": {
         "count": 12,
@@ -195,7 +195,7 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (vỏ sò, tài sản, của cải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -216,7 +216,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "652",
     "strokeCount": 12,
-    "meaning": "trade, exchange",
+    "meaning": "trade, exchange |(vi) mậu dịch, buôn bán, trao đổi |(hv) Mậu",
     "kunyomi": [],
     "onyomi": [
       "ボウ"
@@ -225,23 +225,23 @@
       {
         "example": "貿易",
         "reading": "ボウエキ",
-        "meaning": "(foreign) trade, (international) commerce, importing and exporting"
+        "meaning": "(foreign) trade, (international) commerce, importing and exporting |(vi) mậu dịch (nước ngoài), thương mại (quốc tế), xuất nhập khẩu"
       },
       {
         "example": "貿易赤字",
         "reading": "ボウエキアカジ",
-        "meaning": "trade deficit"
+        "meaning": "trade deficit |(vi) thâm hụt thương mại"
       },
       {
         "example": "内貿",
         "reading": "ナイボウ",
-        "meaning": "domestic commerce, internal trade"
+        "meaning": "domestic commerce, internal trade |(vi) mậu dịch nội địa, thương mại trong nước"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò)"
     },
     "parts": [
       "ハ",

@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "nami, na, naraberu, nara, narabu, narabini, narabi",
-    "meaning": "line up, ordinary",
+    "meaning": "line up, ordinary |(vi) xếp hàng, tầm thường",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "並列する（へいれつする）",
         "meaning": {
-          "english": "stand in a row"
+          "english": "stand in a row |(vi) xếp thành hàng, sắp thành dãy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "並（なみ）",
         "meaning": {
-          "english": "common, ordinary, average"
+          "english": "common, ordinary, average |(vi) bình thường, thông thường, trung bình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "並木（なみき）",
         "meaning": {
-          "english": "row of trees"
+          "english": "row of trees |(vi) hàng cây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "並外れる（なみはずれる）",
         "meaning": {
-          "english": "out of the ordinary"
+          "english": "out of the ordinary |(vi) khác thường, vượt trội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "町並み（まちなみ）",
         "meaning": {
-          "english": "stores and houses on a street"
+          "english": "stores and houses on a street |(vi) dãy phố, cảnh phố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "軒並み（のきなみ）",
         "meaning": {
-          "english": "row of houses, at every door"
+          "english": "row of houses, at every door |(vi) dãy nhà, khắp mọi nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "人並み（ひとなみ）",
         "meaning": {
-          "english": "average, ordinary"
+          "english": "average, ordinary |(vi) bình thường như mọi người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "月並みな（つきなみな）",
         "meaning": {
-          "english": "trite, commonplace, hackneyed"
+          "english": "trite, commonplace, hackneyed |(vi) sáo rỗng, tầm thường, nhàm chán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "並べる（ならべる）",
         "meaning": {
-          "english": "line up [v.t.]"
+          "english": "line up [v.t.] |(vi) xếp, sắp hàng (tha động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "並ぶ（ならぶ）",
         "meaning": {
-          "english": "line up [v.i.]"
+          "english": "line up [v.i.] |(vi) xếp hàng, đứng thành hàng (tự động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "並びに（ならびに）",
         "meaning": {
-          "english": "and"
+          "english": "and |(vi) và, cùng với"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_k.opus",
@@ -259,7 +259,7 @@
     "kanji": {
       "character": "並",
       "meaning": {
-        "english": "line up, ordinary"
+        "english": "line up, ordinary |(vi) xếp hàng, tầm thường"
       },
       "strokes": {
         "count": 8,
@@ -313,7 +313,7 @@
         "romaji": "ichi"
       },
       "meaning": {
-        "english": "one, horizontal stroke"
+        "english": "one, horizontal stroke |(vi) Nhất (một, nét ngang)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ichi0.svg",
@@ -334,7 +334,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "599",
     "strokeCount": 8,
-    "meaning": "row, and, besides, as well as, line up, rank with, rival, equal",
+    "meaning": "row, and, besides, as well as, line up, rank with, rival, equal |(vi) hàng, và, ngoài ra, cũng như, xếp hàng, sánh ngang, ngang bằng |(hv) Tịnh",
     "kunyomi": [
       "な.み",
       "なみ",
@@ -350,74 +350,74 @@
       {
         "example": "併用",
         "reading": "ヘイヨウ",
-        "meaning": "combined use, using together (with), using jointly, using at the same time"
+        "meaning": "combined use, using together (with), using jointly, using at the same time |(vi) sử dụng kết hợp, dùng chung, dùng đồng thời"
       },
       {
         "example": "並行",
         "reading": "ヘイコウ",
-        "meaning": "going side-by-side, going abreast, running concurrently, occurring at the same time, keeping pace with"
+        "meaning": "going side-by-side, going abreast, running concurrently, occurring at the same time, keeping pace with |(vi) song song, diễn ra đồng thời, cùng tiến hành"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "並",
         "reading": "なみ",
-        "meaning": "average, medium, common, ordinary, mid-grade (item), regular grade, same level as, equal to, equivalent to, on par with, each (e.g. month), every, row of (teeth, houses, etc.), line of"
+        "meaning": "average, medium, common, ordinary, mid-grade (item), regular grade, same level as, equal to, equivalent to, on par with, each (e.g. month), every, row of (teeth, houses, etc.), line of |(vi) bình thường, trung bình, ngang hàng, mỗi (tháng, v.v.), hàng (răng, nhà, v.v.)"
       },
       {
         "example": "並木",
         "reading": "なみき",
-        "meaning": "roadside trees, row of trees"
+        "meaning": "roadside trees, row of trees |(vi) hàng cây ven đường"
       },
       {
         "example": "足並み",
         "reading": "あしなみ",
-        "meaning": "pace, step"
+        "meaning": "pace, step |(vi) bước chân, nhịp bước (đồng đều)"
       },
       {
         "example": "軒並み",
         "reading": "のきなみ",
-        "meaning": "row of houses, every house, each house, every door, all, totally, altogether, across the board"
+        "meaning": "row of houses, every house, each house, every door, all, totally, altogether, across the board |(vi) dãy nhà, khắp mọi nhà, toàn bộ, đồng loạt"
       },
       {
         "example": "並",
         "reading": "なみ",
-        "meaning": "average, medium, common, ordinary, mid-grade (item), regular grade, same level as, equal to, equivalent to, on par with, each (e.g. month), every, row of (teeth, houses, etc.), line of"
+        "meaning": "average, medium, common, ordinary, mid-grade (item), regular grade, same level as, equal to, equivalent to, on par with, each (e.g. month), every, row of (teeth, houses, etc.), line of |(vi) bình thường, trung bình, ngang hàng, mỗi (tháng, v.v.), hàng (răng, nhà, v.v.)"
       },
       {
         "example": "並木",
         "reading": "なみき",
-        "meaning": "roadside trees, row of trees"
+        "meaning": "roadside trees, row of trees |(vi) hàng cây ven đường"
       },
       {
         "example": "足並み",
         "reading": "あしなみ",
-        "meaning": "pace, step"
+        "meaning": "pace, step |(vi) bước chân, nhịp bước (đồng đều)"
       },
       {
         "example": "軒並み",
         "reading": "のきなみ",
-        "meaning": "row of houses, every house, each house, every door, all, totally, altogether, across the board"
+        "meaning": "row of houses, every house, each house, every door, all, totally, altogether, across the board |(vi) dãy nhà, khắp mọi nhà, toàn bộ, đồng loạt"
       },
       {
         "example": "並べる",
         "reading": "ならべる",
-        "meaning": "to line up, to set up, to arrange in a line, to enumerate, to itemize, to be equal (to), to compare well (with), to be as good (as)"
+        "meaning": "to line up, to set up, to arrange in a line, to enumerate, to itemize, to be equal (to), to compare well (with), to be as good (as) |(vi) xếp hàng, sắp xếp, bày ra, liệt kê, sánh ngang"
       },
       {
         "example": "並ぶ",
         "reading": "ならぶ",
-        "meaning": "to line up, to stand in a line, to rival, to match, to equal"
+        "meaning": "to line up, to stand in a line, to rival, to match, to equal |(vi) xếp hàng, đứng thành hàng, sánh ngang, ngang bằng"
       },
       {
         "example": "並びに",
         "reading": "ならびに",
-        "meaning": "and (also), both ... and, as well as"
+        "meaning": "and (also), both ... and, as well as |(vi) và, cùng với, cũng như"
       }
     ],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": "one |(vi) Nhất (một, nét ngang)"
     },
     "parts": [
       "一",

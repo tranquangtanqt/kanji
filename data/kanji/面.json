@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "omo, omote, tsura",
-    "meaning": "face, mask, surface",
+    "meaning": "face, mask, surface |(vi) khuôn mặt, mặt nạ, bề mặt",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "表面（ひょうめん）",
         "meaning": {
-          "english": "surface"
+          "english": "surface |(vi) bề mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/men-omote_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "両面（りょうめん）",
         "meaning": {
-          "english": "both sides"
+          "english": "both sides |(vi) cả hai mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/men-omote_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "場面（ばめん）",
         "meaning": {
-          "english": "scene"
+          "english": "scene |(vi) cảnh, khung cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/men-omote_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "洗面所（せんめんじょ）",
         "meaning": {
-          "english": "washroom"
+          "english": "washroom |(vi) phòng rửa mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/men-omote_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "直面する（ちょくめんする）",
         "meaning": {
-          "english": "confront"
+          "english": "confront |(vi) đối mặt, đương đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/men-omote_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "面接する（めんせつする）",
         "meaning": {
-          "english": "interview [v.t.]"
+          "english": "interview [v.t.] |(vi) phỏng vấn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/men-omote_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "面倒くさい（めんどうくさい）",
         "meaning": {
-          "english": "troublesome"
+          "english": "troublesome |(vi) phiền phức, rắc rối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/men-omote_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "面白い（おもしろい）",
         "meaning": {
-          "english": "interesting"
+          "english": "interesting |(vi) thú vị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/men-omote_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "面（おもて）",
         "meaning": {
-          "english": "face"
+          "english": "face |(vi) mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/men-omote_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "面（つら）",
         "meaning": {
-          "english": "face [derogatory]"
+          "english": "face [derogatory] |(vi) mặt (mang tính miệt thị)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/men-omote_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "仏頂面（ぶっちょうづら）",
         "meaning": {
-          "english": "sour look"
+          "english": "sour look |(vi) vẻ mặt khó chịu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/men-omote_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "字面（じづら）",
         "meaning": {
-          "english": "typeface"
+          "english": "typeface |(vi) kiểu chữ, phông chữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/men-omote_06_l.opus",
@@ -275,7 +275,7 @@
     "kanji": {
       "character": "面",
       "meaning": {
-        "english": "face, mask, surface"
+        "english": "face, mask, surface |(vi) khuôn mặt, mặt nạ, bề mặt"
       },
       "strokes": {
         "count": 9,
@@ -331,7 +331,7 @@
         "romaji": "men"
       },
       "meaning": {
-        "english": "face, surface"
+        "english": "face, surface |(vi) Diện (mặt, bề mặt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/men0.svg",
@@ -352,7 +352,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "186",
     "strokeCount": 9,
-    "meaning": "mask, face, features, surface",
+    "meaning": "mask, face, features, surface |(vi) mặt nạ, khuôn mặt, đặc điểm, bề mặt |(hv) Diện",
     "kunyomi": [
       "おも",
       "おもて",
@@ -366,74 +366,74 @@
       {
         "example": "面",
         "reading": "メン",
-        "meaning": "face, mask, face guard, striking the head (in kendo), surface (esp. a geometrical surface), page, aspect, facet, side, chamfer, counter for broad, flat objects, levels or stages, e.g. in a video game"
+        "meaning": "face, mask, face guard, striking the head (in kendo), surface (esp. a geometrical surface), page, aspect, facet, side, chamfer, counter for broad, flat objects, levels or stages, e.g. in a video game |(vi) mặt, mặt nạ, mặt nạ bảo hộ, đánh vào đầu (trong kiếm đạo), bề mặt (đặc biệt bề mặt hình học), trang, khía cạnh, mặt cắt, cạnh, mặt vát, lượng từ đếm vật phẳng rộng, cấp độ hoặc giai đoạn (ví dụ trong trò chơi điện tử)"
       },
       {
         "example": "面会",
         "reading": "メンカイ",
-        "meaning": "meeting (face-to-face), seeing, visit, interview"
+        "meaning": "meeting (face-to-face), seeing, visit, interview |(vi) gặp mặt trực tiếp, gặp gỡ, thăm viếng, phỏng vấn"
       },
       {
         "example": "平面",
         "reading": "ヘイメン",
-        "meaning": "level surface, plane"
+        "meaning": "level surface, plane |(vi) mặt phẳng, bề mặt phẳng"
       },
       {
         "example": "対面",
         "reading": "タイメン",
-        "meaning": "meeting face-to-face, seeing in person, facing (each other), opposing (traffic, etc.), confronting"
+        "meaning": "meeting face-to-face, seeing in person, facing (each other), opposing (traffic, etc.), confronting |(vi) gặp mặt trực tiếp, gặp gỡ trực tiếp, đối diện (nhau), ngược chiều (giao thông...), đối đầu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "面",
         "reading": "おもて",
-        "meaning": "face, surface, mask (esp. a noh or kyogen mask)"
+        "meaning": "face, surface, mask (esp. a noh or kyogen mask) |(vi) mặt, bề mặt, mặt nạ (đặc biệt mặt nạ tuồng Noh hoặc Kyogen)"
       },
       {
         "example": "面影",
         "reading": "おもかげ",
-        "meaning": "face, looks, countenance, vestige, trace, reminder"
+        "meaning": "face, looks, countenance, vestige, trace, reminder |(vi) khuôn mặt, diện mạo, dấu vết, kỷ niệm gợi nhớ"
       },
       {
         "example": "水の面",
         "reading": "みのも",
-        "meaning": "surface of the water, face of the water"
+        "meaning": "surface of the water, face of the water |(vi) mặt nước"
       },
       {
         "example": "面",
         "reading": "おもて",
-        "meaning": "face, surface, mask (esp. a noh or kyogen mask)"
+        "meaning": "face, surface, mask (esp. a noh or kyogen mask) |(vi) mặt, bề mặt, mặt nạ (đặc biệt mặt nạ tuồng Noh hoặc Kyogen)"
       },
       {
         "example": "面伏せ",
         "reading": "おもてぶせ",
-        "meaning": "being so embarrassed as to keep one's face down"
+        "meaning": "being so embarrassed as to keep one's face down |(vi) sự ngại ngùng đến mức cúi mặt xuống"
       },
       {
         "example": "細面",
         "reading": "ほそおもて",
-        "meaning": "slender face"
+        "meaning": "slender face |(vi) khuôn mặt thon dài"
       },
       {
         "example": "面",
         "reading": "つら",
-        "meaning": "face, mug, surface, cheek meat, cheek, cheeks, surrounding area"
+        "meaning": "face, mug, surface, cheek meat, cheek, cheeks, surrounding area |(vi) mặt, mặt (thô tục), bề mặt, thịt má, má, vùng xung quanh"
       },
       {
         "example": "面当て",
         "reading": "つらあて",
-        "meaning": "spiteful remarks"
+        "meaning": "spiteful remarks |(vi) lời nói cay nghiệt, châm biếm mỉa mai"
       },
       {
         "example": "川面",
         "reading": "かわも",
-        "meaning": "river surface, surface of a river"
+        "meaning": "river surface, surface of a river |(vi) mặt sông"
       },
       {
         "example": "赤面",
         "reading": "あかつら",
-        "meaning": "red face, villain (in kabuki, jōruri, etc.)"
+        "meaning": "red face, villain (in kabuki, jōruri, etc.) |(vi) mặt đỏ, vai phản diện (trong kabuki, joruri...)"
       }
     ],
     "radical": {
@@ -441,7 +441,7 @@
       "forms": [
         "靣"
       ],
-      "meaning": "face"
+      "meaning": "face |(vi) Diện (mặt)"
     },
     "parts": [
       "面"

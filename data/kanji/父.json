@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "chichi",
-    "meaning": "father",
+    "meaning": "father |(vi) cha, người cha",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "父母（ふぼ）",
         "meaning": {
-          "english": "one's own father and mother"
+          "english": "one's own father and mother |(vi) cha mẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-chichi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "祖父（そふ）",
         "meaning": {
-          "english": "one's own grandfather"
+          "english": "one's own grandfather |(vi) ông (nội/ngoại)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-chichi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "父（ちち）",
         "meaning": {
-          "english": "one's own father"
+          "english": "one's own father |(vi) cha (cách nói khiêm tốn về cha mình)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-chichi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "父親（ちちおや）",
         "meaning": {
-          "english": "father"
+          "english": "father |(vi) cha, người cha"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-chichi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "*お父さん（おとうさん）",
         "meaning": {
-          "english": "father [hon.]"
+          "english": "father [hon.] |(vi) bố, cha (cách gọi kính trọng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-chichi_06_e.opus",
@@ -214,7 +214,7 @@
     "kanji": {
       "character": "父",
       "meaning": {
-        "english": "father"
+        "english": "father |(vi) cha, người cha"
       },
       "strokes": {
         "count": 4,
@@ -260,7 +260,7 @@
         "romaji": "chichi"
       },
       "meaning": {
-        "english": "father"
+        "english": "father |(vi) Phụ (cha)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chichi0.svg",
@@ -281,7 +281,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "646",
     "strokeCount": 4,
-    "meaning": "father",
+    "meaning": "father |(vi) cha, người cha |(hv) Phụ",
     "kunyomi": [
       "ちち"
     ],
@@ -292,49 +292,49 @@
       {
         "example": "父母",
         "reading": "フボ",
-        "meaning": "father and mother, parents"
+        "meaning": "father and mother, parents |(vi) cha mẹ, song thân"
       },
       {
         "example": "父子",
         "reading": "フシ",
-        "meaning": "father and child, father and son, father and daughter"
+        "meaning": "father and child, father and son, father and daughter |(vi) cha con"
       },
       {
         "example": "義父",
         "reading": "ギフ",
-        "meaning": "father-in-law, foster father, stepfather"
+        "meaning": "father-in-law, foster father, stepfather |(vi) cha vợ/chồng, cha nuôi, cha kế"
       },
       {
         "example": "養父",
         "reading": "ヨウフ",
-        "meaning": "foster father, adoptive father"
+        "meaning": "foster father, adoptive father |(vi) cha nuôi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "父",
         "reading": "ちち",
-        "meaning": "father"
+        "meaning": "father |(vi) cha"
       },
       {
         "example": "父親",
         "reading": "ちちおや",
-        "meaning": "father"
+        "meaning": "father |(vi) cha, người cha"
       },
       {
         "example": "亡き父",
         "reading": "なきちち",
-        "meaning": "(one's) late father"
+        "meaning": "(one's) late father |(vi) cha đã khuất"
       },
       {
         "example": "建国の父",
         "reading": "けんこくのちち",
-        "meaning": "founding father (of a country)"
+        "meaning": "founding father (of a country) |(vi) quốc phụ, người sáng lập đất nước"
       }
     ],
     "radical": {
       "symbol": "父",
-      "meaning": "father"
+      "meaning": "father |(vi) Phụ (cha)"
     },
     "parts": [
       "父"

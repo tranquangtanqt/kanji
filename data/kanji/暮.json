@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 6,
     "kunyomi": "ku, kureru, kurasu",
-    "meaning": "dusk, live, come to an end",
+    "meaning": "dusk, live, come to an end |(vi) hoàng hôn, sống, kết thúc",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "暮色（ぼしょく）",
         "meaning": {
-          "english": "dusk, evening shades"
+          "english": "dusk, evening shades |(vi) sắc chiều tà, ánh hoàng hôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bo-ku(rasu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "薄暮（はくぼ）",
         "meaning": {
-          "english": "nightfall"
+          "english": "nightfall |(vi) chạng vạng, sẩm tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bo-ku(rasu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "歳暮（せいぼ）",
         "meaning": {
-          "english": "end of the year, year-end gift"
+          "english": "end of the year, year-end gift |(vi) cuối năm, quà biếu cuối năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bo-ku(rasu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "野暮（やぼ）",
         "meaning": {
-          "english": "uncouthness"
+          "english": "uncouthness |(vi) quê mùa, thô lỗ, không tinh tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bo-ku(rasu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "暮らす（くらす）",
         "meaning": {
-          "english": "live [v.i.]"
+          "english": "live [v.i.] |(vi) sống, sinh sống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bo-ku(rasu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "暮れる（くれる）",
         "meaning": {
-          "english": "end, get dark"
+          "english": "end, get dark |(vi) tối, kết thúc (ngày, năm)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bo-ku(rasu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "夕暮れ（ゆうぐれ）",
         "meaning": {
-          "english": "evening twilight"
+          "english": "evening twilight |(vi) hoàng hôn, chiều tà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bo-ku(rasu)_06_g.opus",
@@ -207,7 +207,7 @@
     "kanji": {
       "character": "暮",
       "meaning": {
-        "english": "dusk, live, come to an end"
+        "english": "dusk, live, come to an end |(vi) hoàng hôn, sống, kết thúc"
       },
       "strokes": {
         "count": 14,
@@ -273,7 +273,7 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time |(vi) Nhật (mặt trời, ngày)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi0.svg",
@@ -294,7 +294,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "978",
     "strokeCount": 14,
-    "meaning": "evening, twilight, season's end, livelihood, make a living, spend time",
+    "meaning": "evening, twilight, season's end, livelihood, make a living, spend time |(vi) buổi chiều tối, hoàng hôn, cuối mùa, sinh kế, mưu sinh, trải qua thời gian |(hv) Mộ",
     "kunyomi": [
       "く.れる",
       "く.らす"
@@ -306,39 +306,39 @@
       {
         "example": "暮雨",
         "reading": "ボウ",
-        "meaning": "evening rain"
+        "meaning": "evening rain |(vi) mưa chiều"
       },
       {
         "example": "暮雲",
         "reading": "ボウン",
-        "meaning": "twilight clouds"
+        "meaning": "twilight clouds |(vi) mây chiều"
       },
       {
         "example": "歳暮",
         "reading": "セイボ",
-        "meaning": "year-end gift, end of the year, year end"
+        "meaning": "year-end gift, end of the year, year end |(vi) quà biếu cuối năm, cuối năm"
       },
       {
         "example": "朝々暮々",
         "reading": "チョウチョウボボ",
-        "meaning": "every morning and evening"
+        "meaning": "every morning and evening |(vi) sớm tối, ngày này qua ngày khác"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "暮れる",
         "reading": "くれる",
-        "meaning": "to get dark, to grow dark, to end (of a day, year, season, etc.), to come to an end, to close, to be sunk in (e.g. despair), to be lost in (e.g. thought), to be overcome with"
+        "meaning": "to get dark, to grow dark, to end (of a day, year, season, etc.), to come to an end, to close, to be sunk in (e.g. despair), to be lost in (e.g. thought), to be overcome with |(vi) tối dần, kết thúc (ngày, năm, mùa), chìm trong (tuyệt vọng, suy nghĩ)"
       },
       {
         "example": "暮らす",
         "reading": "くらす",
-        "meaning": "to live, to get along, to spend (time)"
+        "meaning": "to live, to get along, to spend (time) |(vi) sống, sinh sống, trải qua (thời gian)"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": "sun, day |(vi) Nhật (mặt trời, ngày)"
     },
     "parts": [
       "大",

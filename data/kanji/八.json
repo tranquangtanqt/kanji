@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "ya, you, yattsu",
-    "meaning": "eight",
+    "meaning": "eight |(vi) tám",
     "kstroke": 2,
     "examples": [
       {
         "japanese": "八月（はちがつ）",
         "meaning": {
-          "english": "August"
+          "english": "August |(vi) tháng Tám"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/8_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "八時間（はちじかん）",
         "meaning": {
-          "english": "8 hours"
+          "english": "8 hours |(vi) 8 tiếng, tám giờ đồng hồ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/8_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "尺八（しゃくはち）",
         "meaning": {
-          "english": "bamboo flute"
+          "english": "bamboo flute |(vi) sáo trúc shakuhachi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/8_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "八回（はっかい）",
         "meaning": {
-          "english": "8 times"
+          "english": "8 times |(vi) 8 lần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/8_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "八分（はっぷん）",
         "meaning": {
-          "english": "8 minutes"
+          "english": "8 minutes |(vi) 8 phút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/8_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "八百（はっぴゃく）",
         "meaning": {
-          "english": "800"
+          "english": "800 |(vi) tám trăm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/8_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "八つ（やっつ）",
         "meaning": {
-          "english": "8 (objects)"
+          "english": "8 (objects) |(vi) tám (đồ vật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/8_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "八百屋（やおや）",
         "meaning": {
-          "english": "greengrocer"
+          "english": "greengrocer |(vi) cửa hàng rau quả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/8_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "八重桜（やえざくら）",
         "meaning": {
-          "english": "double-flowered cherry-tree"
+          "english": "double-flowered cherry-tree |(vi) hoa anh đào tám cánh (yaezakura)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/8_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "八日（ようか）",
         "meaning": {
-          "english": "8 days, 8th of the month"
+          "english": "8 days, 8th of the month |(vi) 8 ngày, ngày mùng 8"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/8_06_j.opus",
@@ -269,7 +269,7 @@
     "kanji": {
       "character": "八",
       "meaning": {
-        "english": "eight"
+        "english": "eight |(vi) tám"
       },
       "strokes": {
         "count": 2,
@@ -311,7 +311,7 @@
         "romaji": "hachi"
       },
       "meaning": {
-        "english": "eight"
+        "english": "eight |(vi) Bát (tám)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hachi0.svg",
@@ -332,7 +332,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "92",
     "strokeCount": 2,
-    "meaning": "eight, eight radical (no. 12)",
+    "meaning": "eight, eight radical (no. 12) |(vi) tám, bộ tám (bộ số 12) |(hv) Bát",
     "kunyomi": [
       "や",
       "や.つ",
@@ -347,64 +347,64 @@
       {
         "example": "八",
         "reading": "ハチ",
-        "meaning": "eight, 8"
+        "meaning": "eight, 8 |(vi) tám, số 8"
       },
       {
         "example": "８月",
         "reading": "ハチガツ",
-        "meaning": "August, eighth month of the lunar calendar"
+        "meaning": "August, eighth month of the lunar calendar |(vi) tháng Tám, tháng 8 âm lịch"
       },
       {
         "example": "十八",
         "reading": "ジュウハチ",
-        "meaning": "eighteen, 18"
+        "meaning": "eighteen, 18 |(vi) mười tám, 18"
       },
       {
         "example": "尺八",
         "reading": "シャクハチ",
-        "meaning": "shakuhachi, end-blown fippleless bamboo flute, blow job, fellatio"
+        "meaning": "shakuhachi, end-blown fippleless bamboo flute, blow job, fellatio |(vi) sáo trúc shakuhachi; (tiếng lóng) khẩu dâm"
       },
       {
         "example": "鳶尾",
         "reading": "イチハツ",
-        "meaning": "wall iris, roof iris, Iris tectorum, fleur-de-lis"
+        "meaning": "wall iris, roof iris, Iris tectorum, fleur-de-lis |(vi) hoa diên vĩ tường (Iris tectorum)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "八",
         "reading": "はち",
-        "meaning": "eight, 8"
+        "meaning": "eight, 8 |(vi) tám, số 8"
       },
       {
         "example": "八重",
         "reading": "やえ",
-        "meaning": "multilayered, doubled"
+        "meaning": "multilayered, doubled |(vi) nhiều lớp, xếp chồng"
       },
       {
         "example": "八つ",
         "reading": "やっつ",
-        "meaning": "eight, eight years of age, two o'clock (old time system)"
+        "meaning": "eight, eight years of age, two o'clock (old time system) |(vi) tám, tám tuổi, hai giờ (giờ cổ)"
       },
       {
         "example": "八つ当たり",
         "reading": "やつあたり",
-        "meaning": "venting one's anger (on someone or something), taking out one's anger on"
+        "meaning": "venting one's anger (on someone or something), taking out one's anger on |(vi) trút giận (lên người/vật khác)"
       },
       {
         "example": "八つ",
         "reading": "やっつ",
-        "meaning": "eight, eight years of age, two o'clock (old time system)"
+        "meaning": "eight, eight years of age, two o'clock (old time system) |(vi) tám, tám tuổi, hai giờ (giờ cổ)"
       },
       {
         "example": "８日",
         "reading": "ようか",
-        "meaning": "8th day of the month, eight days"
+        "meaning": "8th day of the month, eight days |(vi) ngày mùng 8, tám ngày"
       }
     ],
     "radical": {
       "symbol": "八",
-      "meaning": "eight"
+      "meaning": "eight |(vi) Bát (tám)"
     },
     "parts": [
       "ハ"

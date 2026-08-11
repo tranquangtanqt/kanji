@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kata",
-    "meaning": "direction, way, square",
+    "meaning": "direction, way, square |(vi) hướng, cách, vuông",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "方向（ほうこう）",
         "meaning": {
-          "english": "direction"
+          "english": "direction |(vi) phương hướng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "方言（ほうげん）",
         "meaning": {
-          "english": "dialect"
+          "english": "dialect |(vi) phương ngữ, tiếng địa phương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "地方（ちほう）",
         "meaning": {
-          "english": "area"
+          "english": "area |(vi) địa phương, vùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "方針（ほうしん）",
         "meaning": {
-          "english": "policy, principle"
+          "english": "policy, principle |(vi) phương châm, chính sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "話し方（はなしかた）",
         "meaning": {
-          "english": "way of talking"
+          "english": "way of talking |(vi) cách nói chuyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "仕方（しかた）",
         "meaning": {
-          "english": "way, method, style"
+          "english": "way, method, style |(vi) cách làm, phương pháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "夕方（ゆうがた）",
         "meaning": {
-          "english": "evening"
+          "english": "evening |(vi) buổi chiều tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "父方（ちちかた）",
         "meaning": {
-          "english": "father's side of family"
+          "english": "father's side of family |(vi) bên nội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "先生方（せんせいがた）",
         "meaning": {
-          "english": "teachers, doctors"
+          "english": "teachers, doctors |(vi) quý thầy cô, quý vị bác sĩ (số nhiều kính ngữ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_i.opus",
@@ -276,7 +276,7 @@
     "kanji": {
       "character": "方",
       "meaning": {
-        "english": "direction, way, square"
+        "english": "direction, way, square |(vi) hướng, cách, vuông"
       },
       "strokes": {
         "count": 4,
@@ -322,7 +322,7 @@
         "romaji": "hou"
       },
       "meaning": {
-        "english": "direction, flag"
+        "english": "direction, flag |(vi) Phương (hướng, lá cờ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hou0.svg",
@@ -343,7 +343,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "46",
     "strokeCount": 4,
-    "meaning": "direction, person, alternative",
+    "meaning": "direction, person, alternative |(vi) hướng, người, cách khác |(hv) Phương",
     "kunyomi": [
       "かた",
       "-かた",
@@ -356,49 +356,49 @@
       {
         "example": "方",
         "reading": "ホウ",
-        "meaning": "direction, way, side, area (in a particular direction), side (of an argument, etc.), one's part, type, category, field (of study, etc.), indicates one side of a comparison, way, method, manner, means, length (of each side of a square)"
+        "meaning": "direction, way, side, area (in a particular direction), side (of an argument, etc.), one's part, type, category, field (of study, etc.), indicates one side of a comparison, way, method, manner, means, length (of each side of a square) |(vi) phương hướng, cách, phía, lĩnh vực, cạnh (hình vuông)"
       },
       {
         "example": "方言",
         "reading": "ホウゲン",
-        "meaning": "dialect, provincialism"
+        "meaning": "dialect, provincialism |(vi) phương ngữ, tiếng địa phương"
       },
       {
         "example": "途方",
         "reading": "トホウ",
-        "meaning": "way, destination, reason"
+        "meaning": "way, destination, reason |(vi) cách, hướng đi, lý do (thường trong \"bế tắc\")"
       },
       {
         "example": "右方",
         "reading": "ウホウ",
-        "meaning": "right side, style of Japanese court music"
+        "meaning": "right side, style of Japanese court music |(vi) bên phải, phong cách nhạc cung đình (phía hữu)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "方",
         "reading": "かた",
-        "meaning": "direction, way, person, lady, gentleman, method of, manner of, way of, care of ..., person in charge of ..., side (e.g. \"on my mother's side\")"
+        "meaning": "direction, way, person, lady, gentleman, method of, manner of, way of, care of ..., person in charge of ..., side (e.g. \"on my mother's side\") |(vi) hướng, cách, vị (kính ngữ chỉ người), cách thức, người phụ trách"
       },
       {
         "example": "方々",
         "reading": "かたがた",
-        "meaning": "people, (all) persons, everyone, ladies and gentlemen, you (usu. plural)"
+        "meaning": "people, (all) persons, everyone, ladies and gentlemen, you (usu. plural) |(vi) mọi người, quý vị"
       },
       {
         "example": "親方",
         "reading": "おやかた",
-        "meaning": "master, boss, chief, foreman, supervisor, stable master, craftsman, artisan, foster parent"
+        "meaning": "master, boss, chief, foreman, supervisor, stable master, craftsman, artisan, foster parent |(vi) ông chủ, sư phụ, người đứng đầu, cha nuôi"
       },
       {
         "example": "出方",
         "reading": "でかた",
-        "meaning": "attitude, approach, move, theater usher, theatre usher"
+        "meaning": "attitude, approach, move, theater usher, theatre usher |(vi) thái độ, cách ứng xử, người soát vé rạp hát"
       }
     ],
     "radical": {
       "symbol": "方",
-      "meaning": "square"
+      "meaning": "square |(vi) Phương (vuông, hướng)"
     },
     "parts": [
       "方"

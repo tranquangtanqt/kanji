@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "u, umeru, umaru, umoreru",
-    "meaning": "bury, fill up",
+    "meaning": "bury, fill up |(vi) chôn, lấp, vùi lấp",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "埋蔵物（まいぞうぶつ）",
         "meaning": {
-          "english": "buried property"
+          "english": "buried property |(vi) vật chôn giấu, tài sản chôn giấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(maru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "埋没する（まいぼつする）",
         "meaning": {
-          "english": "be buried, sink into ground"
+          "english": "be buried, sink into ground |(vi) bị chôn vùi, chìm xuống đất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(maru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "埋葬する（まいそうする）",
         "meaning": {
-          "english": "bury (a person)"
+          "english": "bury (a person) |(vi) chôn cất, mai táng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(maru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "埋める（うめる）",
         "meaning": {
-          "english": "bury, fill, plug gaps"
+          "english": "bury, fill, plug gaps |(vi) chôn, lấp đầy, bịt lỗ hổng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(maru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "埋め立て地（うめたてち）",
         "meaning": {
-          "english": "reclaimed land"
+          "english": "reclaimed land |(vi) đất lấn biển, đất khai hoang lấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(maru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "生き埋め（いきうめ）",
         "meaning": {
-          "english": "burying alive"
+          "english": "burying alive |(vi) chôn sống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(maru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "埋まる（うまる）",
         "meaning": {
-          "english": "be buried, be filled [v.i.]"
+          "english": "be buried, be filled [v.i.] |(vi) bị chôn, bị lấp đầy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(maru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "埋もれる（うもれる）",
         "meaning": {
-          "english": "be buried, be covered [v.i.]"
+          "english": "be buried, be covered [v.i.] |(vi) bị chôn vùi, bị che phủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(maru)_06_h.opus",
@@ -191,7 +191,7 @@
     "kanji": {
       "character": "埋",
       "meaning": {
-        "english": "bury, fill up"
+        "english": "bury, fill up |(vi) chôn, lấp, vùi lấp"
       },
       "strokes": {
         "count": 10,
@@ -249,7 +249,7 @@
         "romaji": "tsuchihen"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth |(vi) Thổ (đất)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
@@ -270,7 +270,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1110",
     "strokeCount": 10,
-    "meaning": "bury, be filled up, embedded",
+    "meaning": "bury, be filled up, embedded |(vi) chôn, lấp đầy, vùi lấp |(hv) Mai",
     "kunyomi": [
       "う.める",
       "う.まる",
@@ -286,49 +286,49 @@
       {
         "example": "埋蔵",
         "reading": "マイゾウ",
-        "meaning": "burying in the ground, having underground deposits"
+        "meaning": "burying in the ground, having underground deposits |(vi) chôn giấu dưới đất, có trữ lượng ngầm"
       },
       {
         "example": "埋葬",
         "reading": "マイソウ",
-        "meaning": "burial"
+        "meaning": "burial |(vi) mai táng, chôn cất"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "埋める",
         "reading": "うめる",
-        "meaning": "to bury (e.g. in the ground), to fill up (e.g. audience fills a hall), to cause to be packed, to plug (a gap), to stop (a gap), to bridge (a difference, a gap), to fill (a seat, a vacant position), to fill out (a form, a sheet), to make up for (a loss, shortage, etc.), to make amends, to compensate for, to put cold water (in a bath), to cover, to scatter something over"
+        "meaning": "to bury (e.g. in the ground), to fill up (e.g. audience fills a hall), to cause to be packed, to plug (a gap), to stop (a gap), to bridge (a difference, a gap), to fill (a seat, a vacant position), to fill out (a form, a sheet), to make up for (a loss, shortage, etc.), to make amends, to compensate for, to put cold water (in a bath), to cover, to scatter something over |(vi) chôn, lấp đầy, lấp kín, bịt (lỗ hổng), bù đắp (thiếu hụt), điền vào (biểu mẫu), pha nước lạnh (vào bồn tắm)"
       },
       {
         "example": "埋まる",
         "reading": "うまる",
-        "meaning": "to be buried, to be covered, to be surrounded, to overflow, to be crowded, to be filled, to be repaid (e.g. debt), to be replenished, to be filled (e.g. blank, vacancy, schedule)"
+        "meaning": "to be buried, to be covered, to be surrounded, to overflow, to be crowded, to be filled, to be repaid (e.g. debt), to be replenished, to be filled (e.g. blank, vacancy, schedule) |(vi) bị chôn, bị che phủ, bị bao quanh, đầy tràn, đông kín, được lấp đầy, được trả hết (nợ)"
       },
       {
         "example": "埋もれる",
         "reading": "うもれる",
-        "meaning": "to be buried, to be covered, to be hidden"
+        "meaning": "to be buried, to be covered, to be hidden |(vi) bị chôn vùi, bị che phủ, bị ẩn giấu"
       },
       {
         "example": "埋める",
         "reading": "うずめる",
-        "meaning": "to cover, to bury (e.g. one's face in hands), to submerge, to fill (completely), to stuff, to pack, to cram, to fill up"
+        "meaning": "to cover, to bury (e.g. one's face in hands), to submerge, to fill (completely), to stuff, to pack, to cram, to fill up |(vi) che, vùi (mặt vào tay), nhấn chìm, lấp đầy hoàn toàn, nhồi nhét"
       },
       {
         "example": "埋まる",
         "reading": "うまる",
-        "meaning": "to be buried, to be covered, to be surrounded, to overflow, to be crowded, to be filled, to be repaid (e.g. debt), to be replenished, to be filled (e.g. blank, vacancy, schedule)"
+        "meaning": "to be buried, to be covered, to be surrounded, to overflow, to be crowded, to be filled, to be repaid (e.g. debt), to be replenished, to be filled (e.g. blank, vacancy, schedule) |(vi) bị chôn, bị che phủ, bị bao quanh, đầy tràn, đông kín, được lấp đầy, được trả hết (nợ)"
       },
       {
         "example": "埋ける",
         "reading": "いける",
-        "meaning": "to bury (in the ground), to cover (coals) with ash, to bank (a fire), to get (charcoal) going (in a hibachi)"
+        "meaning": "to bury (in the ground), to cover (coals) with ash, to bank (a fire), to get (charcoal) going (in a hibachi) |(vi) chôn (xuống đất), phủ tro lên than, ủ lửa, nhóm than (trong lò hibachi)"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": "earth |(vi) Thổ (đất)"
     },
     "parts": [
       "土",

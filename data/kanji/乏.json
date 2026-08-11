@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "tobo, toboshii, toboshisa",
-    "meaning": "scanty, meager, scarce",
+    "meaning": "scanty, meager, scarce |(vi) khan hiếm, thiếu thốn, ít ỏi",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "貧乏な（びんぼうな）",
         "meaning": {
-          "english": "poor"
+          "english": "poor |(vi) nghèo khó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tobo(shii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "欠乏する（けつぼうする）",
         "meaning": {
-          "english": "run short"
+          "english": "run short |(vi) thiếu hụt, khan hiếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tobo(shii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "乏しい（とぼしい）",
         "meaning": {
-          "english": "meagre, scarce"
+          "english": "meagre, scarce |(vi) ít ỏi, khan hiếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tobo(shii)_06_c.opus",
@@ -148,7 +148,7 @@
     "kanji": {
       "character": "乏",
       "meaning": {
-        "english": "scanty, meager, scarce"
+        "english": "scanty, meager, scarce |(vi) khan hiếm, thiếu thốn, ít ỏi"
       },
       "strokes": {
         "count": 4,
@@ -194,7 +194,7 @@
         "romaji": "nokanmuri"
       },
       "meaning": {
-        "english": "diagonal sweeping stroke"
+        "english": "diagonal sweeping stroke |(vi) Phiệt (nét phẩy, nét sổ xiên)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nokanmuri0.svg",
@@ -215,7 +215,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1646",
     "strokeCount": 4,
-    "meaning": "destitution, scarce, limited",
+    "meaning": "destitution, scarce, limited |(vi) thiếu thốn, khan hiếm, hạn chế |(hv) Phạp",
     "kunyomi": [
       "とぼ.しい",
       "とも.しい"
@@ -227,39 +227,39 @@
       {
         "example": "乏精子症",
         "reading": "ボウセイシショウ",
-        "meaning": "oligozoospermia, oligospermia"
+        "meaning": "oligozoospermia, oligospermia |(vi) chứng thiểu tinh trùng"
       },
       {
         "example": "乏尿",
         "reading": "ボウニョウ",
-        "meaning": "oliguria"
+        "meaning": "oliguria |(vi) chứng thiểu niệu"
       },
       {
         "example": "耐乏",
         "reading": "タイボウ",
-        "meaning": "austerity, voluntary privation"
+        "meaning": "austerity, voluntary privation |(vi) chịu đựng thiếu thốn, tiết kiệm khắc khổ"
       },
       {
         "example": "困苦窮乏",
         "reading": "コンクキュウボウ",
-        "meaning": "hardships and privations"
+        "meaning": "hardships and privations |(vi) gian khổ thiếu thốn, cùng cực khốn khó"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "乏しい",
         "reading": "とぼしい",
-        "meaning": "meagre, meager, scarce, limited, destitute, hard up, lacking, scanty, poor"
+        "meaning": "meagre, meager, scarce, limited, destitute, hard up, lacking, scanty, poor |(vi) ít ỏi, khan hiếm, thiếu thốn, nghèo nàn"
       },
       {
         "example": "乏しい",
         "reading": "とぼしい",
-        "meaning": "meagre, meager, scarce, limited, destitute, hard up, lacking, scanty, poor"
+        "meaning": "meagre, meager, scarce, limited, destitute, hard up, lacking, scanty, poor |(vi) ít ỏi, khan hiếm, thiếu thốn, nghèo nàn"
       }
     ],
     "radical": {
       "symbol": "丿",
-      "meaning": "slash"
+      "meaning": "slash |(vi) Phiệt (nét phẩy, nét sổ xiên)"
     },
     "parts": [
       "ノ",

@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "anado, anadoru",
-    "meaning": "insult, despise, scorn",
+    "meaning": "insult, despise, scorn |(vi) xúc phạm, khinh thường, coi khinh",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "侮辱する（ぶじょくする）",
         "meaning": {
-          "english": "treat with contempt, insult"
+          "english": "treat with contempt, insult |(vi) làm nhục, xúc phạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/anado(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "侮蔑する（ぶべつする）",
         "meaning": {
-          "english": "scorn, disdain"
+          "english": "scorn, disdain |(vi) khinh miệt, coi thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/anado(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "軽侮する（けいぶする）",
         "meaning": {
-          "english": "scorn"
+          "english": "scorn |(vi) khinh thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/anado(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "侮る（あなどる）",
         "meaning": {
-          "english": "despise, disdain, make light of"
+          "english": "despise, disdain, make light of |(vi) coi khinh, coi nhẹ, xem thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/anado(ru)_06_d.opus",
@@ -145,7 +145,7 @@
     "kanji": {
       "character": "侮",
       "meaning": {
-        "english": "insult, despise, scorn"
+        "english": "insult, despise, scorn |(vi) xúc phạm, khinh thường, coi khinh"
       },
       "strokes": {
         "count": 8,
@@ -199,7 +199,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -220,7 +220,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2004",
     "strokeCount": 8,
-    "meaning": "scorn, despise, make light of, contempt",
+    "meaning": "scorn, despise, make light of, contempt |(vi) khinh thường, coi khinh, xem nhẹ, khinh miệt |(hv) Vũ",
     "kunyomi": [
       "あなど.る",
       "あなず.る"
@@ -232,24 +232,24 @@
       {
         "example": "侮",
         "reading": "ブ",
-        "meaning": "(something) despised, (something) made light of"
+        "meaning": "(something) despised, (something) made light of |(vi) (điều gì đó) bị khinh thường, bị xem nhẹ"
       },
       {
         "example": "侮辱",
         "reading": "ブジョク",
-        "meaning": "insult, affront, slight, contempt (e.g. of court)"
+        "meaning": "insult, affront, slight, contempt (e.g. of court) |(vi) sự xúc phạm, sự lăng mạ, sự khinh miệt"
       },
       {
         "example": "軽侮",
         "reading": "ケイブ",
-        "meaning": "contempt, scorn"
+        "meaning": "contempt, scorn |(vi) sự khinh miệt, coi thường"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "侮る",
         "reading": "あなどる",
-        "meaning": "to disdain, to look down on, to make light of, to hold in contempt, to scorn, to despise"
+        "meaning": "to disdain, to look down on, to make light of, to hold in contempt, to scorn, to despise |(vi) coi thường, coi khinh, xem nhẹ, khinh miệt, khinh rẻ, coi thường"
       }
     ],
     "radical": {
@@ -257,7 +257,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "乞",

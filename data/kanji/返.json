@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "kae, kaesu, kaeru, kaeri",
-    "meaning": "return",
+    "meaning": "return |(vi) trả lại, quay về",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "返事する（へんじする）",
         "meaning": {
-          "english": "reply"
+          "english": "reply |(vi) trả lời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kae(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "返品する（へんぴんする）",
         "meaning": {
-          "english": "return goods"
+          "english": "return goods |(vi) trả hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kae(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "返却する（へんきゃくする）",
         "meaning": {
-          "english": "return something"
+          "english": "return something |(vi) hoàn trả, trả lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kae(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "返送する（へんそうする）",
         "meaning": {
-          "english": "send back"
+          "english": "send back |(vi) gửi trả lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kae(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "返答する（へんとうする）",
         "meaning": {
-          "english": "reply"
+          "english": "reply |(vi) trả lời, đáp lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kae(su)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "返す（かえす）",
         "meaning": {
-          "english": "return something"
+          "english": "return something |(vi) trả lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kae(su)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "生き返る（いきかえる）",
         "meaning": {
-          "english": "revive"
+          "english": "revive |(vi) hồi sinh, sống lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kae(su)_06_g.opus",
@@ -193,7 +193,7 @@
     "kanji": {
       "character": "返",
       "meaning": {
-        "english": "return"
+        "english": "return |(vi) trả lại, quay về"
       },
       "strokes": {
         "count": 7,
@@ -245,7 +245,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đi, tiến bước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -266,7 +266,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "685",
     "strokeCount": 7,
-    "meaning": "return, answer, fade, repay",
+    "meaning": "return, answer, fade, repay |(vi) trả lại, đáp lại, phai nhạt, hoàn trả |(hv) Phản",
     "kunyomi": [
       "かえ.す",
       "-かえ.す",
@@ -280,39 +280,39 @@
       {
         "example": "返",
         "reading": "ヘン",
-        "meaning": "reply, answer"
+        "meaning": "reply, answer |(vi) trả lời, đáp lại"
       },
       {
         "example": "遍",
         "reading": "ヘン",
-        "meaning": "number of times"
+        "meaning": "number of times |(vi) lần, số lần"
       },
       {
         "example": "代返",
         "reading": "ダイヘン",
-        "meaning": "answer a roll call for another"
+        "meaning": "answer a roll call for another |(vi) trả lời điểm danh thay người khác"
       },
       {
         "example": "往返",
         "reading": "オウヘン",
-        "meaning": "round trip"
+        "meaning": "round trip |(vi) khứ hồi, đi và về"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "返す",
         "reading": "かえす",
-        "meaning": "to return (something), to restore, to put back, to turn over, to turn upside down, to overturn, to pay back, to retaliate, to reciprocate, to respond (with), to retort, to reply, to say back, to do ... back (e.g. speak back, throw back), to do again, to do repeatedly"
+        "meaning": "to return (something), to restore, to put back, to turn over, to turn upside down, to overturn, to pay back, to retaliate, to reciprocate, to respond (with), to retort, to reply, to say back, to do ... back (e.g. speak back, throw back), to do again, to do repeatedly |(vi) trả lại, hoàn trả, lật lại, đáp trả"
       },
       {
         "example": "返す刀",
         "reading": "かえすかたな",
-        "meaning": "attacking one opponent then immediately attacking another"
+        "meaning": "attacking one opponent then immediately attacking another |(vi) chém liên tiếp hai đối thủ (bằng một nhát kiếm)"
       },
       {
         "example": "返る",
         "reading": "かえる",
-        "meaning": "to return, to come back, to go back, to turn over, to become extremely, to become completely"
+        "meaning": "to return, to come back, to go back, to turn over, to become extremely, to become completely |(vi) trở về, quay lại, trở nên hoàn toàn"
       }
     ],
     "radical": {
@@ -322,7 +322,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, bước đi)"
     },
     "parts": [
       "厂",

@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "mugi",
-    "meaning": "wheat",
+    "meaning": "wheat |(vi) lúa mì",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "麦秋（ばくしゅう）",
         "meaning": {
-          "english": "early summer"
+          "english": "early summer |(vi) đầu mùa hè (mùa lúa mạch chín)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mugi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "麦芽（ばくが）",
         "meaning": {
-          "english": "malt"
+          "english": "malt |(vi) mạch nha"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mugi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "麦（むぎ）",
         "meaning": {
-          "english": "wheat, barley"
+          "english": "wheat, barley |(vi) lúa mì, lúa mạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mugi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "小麦（こむぎ）",
         "meaning": {
-          "english": "wheat"
+          "english": "wheat |(vi) lúa mì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mugi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "大麦（おおむぎ）",
         "meaning": {
-          "english": "barley"
+          "english": "barley |(vi) lúa mạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mugi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "ライ麦（ライむぎ）",
         "meaning": {
-          "english": "rye"
+          "english": "rye |(vi) lúa mạch đen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mugi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "小麦粉（こむぎこ）",
         "meaning": {
-          "english": "wheat flour"
+          "english": "wheat flour |(vi) bột mì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mugi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "*蕎麦（そば）",
         "meaning": {
-          "english": "soba (buckwheat noodles)"
+          "english": "soba (buckwheat noodles) |(vi) mì soba (mì kiều mạch)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mugi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "*麦酒（ビール）",
         "meaning": {
-          "english": "beer"
+          "english": "beer |(vi) bia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mugi_06_i.opus",
@@ -189,7 +189,7 @@
     "kanji": {
       "character": "麦",
       "meaning": {
-        "english": "wheat"
+        "english": "wheat |(vi) lúa mì"
       },
       "strokes": {
         "count": 7,
@@ -241,7 +241,7 @@
         "romaji": "mugi"
       },
       "meaning": {
-        "english": "wheat"
+        "english": "wheat |(vi) Mạch (lúa mạch)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mugi0.svg",
@@ -262,7 +262,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1615",
     "strokeCount": 7,
-    "meaning": "barley, wheat",
+    "meaning": "barley, wheat |(vi) lúa mạch, lúa mì |(hv) Mạch",
     "kunyomi": [
       "むぎ"
     ],
@@ -273,49 +273,49 @@
       {
         "example": "麦芽",
         "reading": "バクガ",
-        "meaning": "malt"
+        "meaning": "malt |(vi) mạch nha"
       },
       {
         "example": "麦価",
         "reading": "バクカ",
-        "meaning": "price of wheat"
+        "meaning": "price of wheat |(vi) giá lúa mì"
       },
       {
         "example": "精麦",
         "reading": "セイバク",
-        "meaning": "barley cleaning, wheat cleaning, cleaned barley, cleaned wheat"
+        "meaning": "barley cleaning, wheat cleaning, cleaned barley, cleaned wheat |(vi) sự xay xát lúa mạch, lúa mạch đã xay xát"
       },
       {
         "example": "米麦",
         "reading": "ベイバク",
-        "meaning": "rice and barley, corn"
+        "meaning": "rice and barley, corn |(vi) gạo và lúa mạch, ngũ cốc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "麦",
         "reading": "むぎ",
-        "meaning": "wheat, barley, oat (oats)"
+        "meaning": "wheat, barley, oat (oats) |(vi) lúa mì, lúa mạch, yến mạch"
       },
       {
         "example": "麦茶",
         "reading": "むぎちゃ",
-        "meaning": "barley tea"
+        "meaning": "barley tea |(vi) trà lúa mạch"
       },
       {
         "example": "はだか麦",
         "reading": "はだかむぎ",
-        "meaning": "naked barley (Hordeum vulgare var. nudum)"
+        "meaning": "naked barley (Hordeum vulgare var. nudum) |(vi) lúa mạch trần (Hordeum vulgare var. nudum)"
       },
       {
         "example": "毒麦",
         "reading": "どくむぎ",
-        "meaning": "darnel (Lolium temulentum)"
+        "meaning": "darnel (Lolium temulentum) |(vi) cỏ lúa mạch độc (Lolium temulentum)"
       }
     ],
     "radical": {
       "symbol": "麥",
-      "meaning": "wheat"
+      "meaning": "wheat |(vi) Mạch (lúa mạch)"
     },
     "parts": [
       "二",

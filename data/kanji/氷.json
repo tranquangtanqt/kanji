@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "koori, hi",
-    "meaning": "ice",
+    "meaning": "ice |(vi) băng, nước đá",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "氷山（ひょうざん）",
         "meaning": {
-          "english": "iceberg"
+          "english": "iceberg |(vi) băng sơn, núi băng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-koori_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "氷河（ひょうが）",
         "meaning": {
-          "english": "glacier"
+          "english": "glacier |(vi) sông băng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-koori_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "氷河期（ひょうがき）",
         "meaning": {
-          "english": "glacial period"
+          "english": "glacial period |(vi) kỷ băng hà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-koori_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "氷点下（ひょうてんか）",
         "meaning": {
-          "english": "below freezing"
+          "english": "below freezing |(vi) dưới điểm đóng băng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-koori_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "樹氷（じゅひょう）",
         "meaning": {
-          "english": "frost covered trees"
+          "english": "frost covered trees |(vi) cây phủ sương băng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-koori_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "製氷（せいひょう）",
         "meaning": {
-          "english": "ice making"
+          "english": "ice making |(vi) làm đá, chế băng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-koori_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "流氷（りゅうひょう）",
         "meaning": {
-          "english": "drift ice, ice floe"
+          "english": "drift ice, ice floe |(vi) băng trôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-koori_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "氷（こおり）",
         "meaning": {
-          "english": "ice"
+          "english": "ice |(vi) nước đá, băng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-koori_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "氷枕（こおりまくら）",
         "meaning": {
-          "english": "ice pillow"
+          "english": "ice pillow |(vi) gối đá lạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-koori_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "かき氷（かきごおり）",
         "meaning": {
-          "english": "snow cone, flavored ice"
+          "english": "snow cone, flavored ice |(vi) đá bào (có siro)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-koori_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "氷雨（ひさめ）",
         "meaning": {
-          "english": "hail, freezing rain"
+          "english": "hail, freezing rain |(vi) mưa đá, mưa lạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-koori_06_k.opus",
@@ -237,7 +237,7 @@
     "kanji": {
       "character": "氷",
       "meaning": {
-        "english": "ice"
+        "english": "ice |(vi) băng, nước đá"
       },
       "strokes": {
         "count": 5,
@@ -285,7 +285,7 @@
         "romaji": "mizu"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mizu0.svg",
@@ -306,7 +306,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1450",
     "strokeCount": 5,
-    "meaning": "icicle, ice, hail, freeze, congeal",
+    "meaning": "icicle, ice, hail, freeze, congeal |(vi) băng, nước đá, mưa đá, đông cứng |(hv) Băng",
     "kunyomi": [
       "こおり",
       "ひ",
@@ -319,64 +319,64 @@
       {
         "example": "氷柱",
         "reading": "ツララ",
-        "meaning": "icicle, ice pillar (for cooling a room), ice"
+        "meaning": "icicle, ice pillar (for cooling a room), ice |(vi) băng trụ, cột nước đá"
       },
       {
         "example": "氷山",
         "reading": "ヒョウザン",
-        "meaning": "iceberg"
+        "meaning": "iceberg |(vi) băng sơn, núi băng"
       },
       {
         "example": "海氷",
         "reading": "カイヒョウ",
-        "meaning": "sea ice"
+        "meaning": "sea ice |(vi) băng biển"
       },
       {
         "example": "解氷",
         "reading": "カイヒョウ",
-        "meaning": "thawing (of rivers, lakes, etc.), thaw"
+        "meaning": "thawing (of rivers, lakes, etc.), thaw |(vi) tan băng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "氷",
         "reading": "こおり",
-        "meaning": "ice, shaved ice (usually served with flavored simple syrup)"
+        "meaning": "ice, shaved ice (usually served with flavored simple syrup) |(vi) nước đá, đá bào"
       },
       {
         "example": "氷水",
         "reading": "こおりみず",
-        "meaning": "ice water, shaved ice (usually served with flavored simple syrup)"
+        "meaning": "ice water, shaved ice (usually served with flavored simple syrup) |(vi) nước đá, đá bào có nước"
       },
       {
         "example": "人造氷",
         "reading": "じんぞうこおり",
-        "meaning": "artificial ice"
+        "meaning": "artificial ice |(vi) băng nhân tạo"
       },
       {
         "example": "雪氷",
         "reading": "せっぴょう",
-        "meaning": "snow and ice, snow ice, frozen snow"
+        "meaning": "snow and ice, snow ice, frozen snow |(vi) băng tuyết"
       },
       {
         "example": "氷",
         "reading": "ひ",
-        "meaning": "ice, hail"
+        "meaning": "ice, hail |(vi) băng, mưa đá"
       },
       {
         "example": "氷柱",
         "reading": "つらら",
-        "meaning": "icicle, ice pillar (for cooling a room), ice"
+        "meaning": "icicle, ice pillar (for cooling a room), ice |(vi) băng trụ, cột nước đá"
       },
       {
         "example": "薄ら氷",
         "reading": "うすらひ",
-        "meaning": "thin ice"
+        "meaning": "thin ice |(vi) băng mỏng"
       },
       {
         "example": "凍る",
         "reading": "こおる",
-        "meaning": "to freeze, to become frozen, to freeze over"
+        "meaning": "to freeze, to become frozen, to freeze over |(vi) đóng băng, đông lại"
       }
     ],
     "radical": {
@@ -385,7 +385,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "丶",

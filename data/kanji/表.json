@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 3,
     "kunyomi": "omote, arawa, arawasu, arawareru",
-    "meaning": "express, surface, table",
+    "meaning": "express, surface, table |(vi) biểu lộ, bề mặt, bảng biểu",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "表（ひょう）",
         "meaning": {
-          "english": "table, chart"
+          "english": "table, chart |(vi) bảng, biểu đồ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "表情（ひょうじょう）",
         "meaning": {
-          "english": "facial expression"
+          "english": "facial expression |(vi) biểu cảm khuôn mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "表面（ひょうめん）",
         "meaning": {
-          "english": "surface"
+          "english": "surface |(vi) bề mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "予定表（よていひょう）",
         "meaning": {
-          "english": "schedule"
+          "english": "schedule |(vi) lịch trình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "表現する（ひょうげんする）",
         "meaning": {
-          "english": "express [v.t.]"
+          "english": "express [v.t.] |(vi) biểu hiện, thể hiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "代表する（だいひょうする）",
         "meaning": {
-          "english": "represent"
+          "english": "represent |(vi) đại diện, đại biểu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "発表する（はっぴょうする）",
         "meaning": {
-          "english": "announce, present"
+          "english": "announce, present |(vi) công bố, trình bày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "表（おもて）",
         "meaning": {
-          "english": "surface, front"
+          "english": "surface, front |(vi) bề mặt, mặt trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "裏表（うらおもて）",
         "meaning": {
-          "english": "both sides"
+          "english": "both sides |(vi) cả hai mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "表す（あらわす）",
         "meaning": {
-          "english": "show [v.t.]"
+          "english": "show [v.t.] |(vi) thể hiện, biểu lộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "表れる（あらわれる）",
         "meaning": {
-          "english": "appear, come out [v.i.]"
+          "english": "appear, come out [v.i.] |(vi) xuất hiện, hiện ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_k.opus",
@@ -289,7 +289,7 @@
     "kanji": {
       "character": "表",
       "meaning": {
-        "english": "express, surface, table"
+        "english": "express, surface, table |(vi) biểu lộ, bề mặt, bảng biểu"
       },
       "strokes": {
         "count": 8,
@@ -343,7 +343,7 @@
         "romaji": "koromo"
       },
       "meaning": {
-        "english": "clothing"
+        "english": "clothing |(vi) Y (áo, quần áo)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/koromo0.svg",
@@ -364,7 +364,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "77",
     "strokeCount": 8,
-    "meaning": "surface, table, chart, diagram",
+    "meaning": "surface, table, chart, diagram |(vi) bề mặt, bảng, biểu đồ, sơ đồ |(hv) Biểu",
     "kunyomi": [
       "おもて",
       "-おもて",
@@ -379,59 +379,59 @@
       {
         "example": "表",
         "reading": "ヒョウ",
-        "meaning": "table, chart, list, memorial to an emperor"
+        "meaning": "table, chart, list, memorial to an emperor |(vi) bảng, biểu đồ, danh sách, biểu tấu dâng vua"
       },
       {
         "example": "表記",
         "reading": "ヒョウキ",
-        "meaning": "expression in writing, written representation, notation, transcription, orthography, writing on the surface (e.g. an address on an envelope), inscribing on the face"
+        "meaning": "expression in writing, written representation, notation, transcription, orthography, writing on the surface (e.g. an address on an envelope), inscribing on the face |(vi) cách ghi chép, cách biểu diễn bằng chữ viết, ký hiệu, cách phiên âm, chính tả, ghi trên bề mặt (như địa chỉ trên phong bì), khắc trên mặt trước"
       },
       {
         "example": "一覧表",
         "reading": "イチランヒョウ",
-        "meaning": "list, table, schedule, catalogue, catalog"
+        "meaning": "list, table, schedule, catalogue, catalog |(vi) danh sách, bảng, lịch trình, mục lục"
       },
       {
         "example": "意表",
         "reading": "イヒョウ",
-        "meaning": "surprise, something unexpected"
+        "meaning": "surprise, something unexpected |(vi) sự bất ngờ, điều không lường trước"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "表",
         "reading": "おもて",
-        "meaning": "surface, face (i.e. the visible side of an object), front (of a building, etc.), obverse side (i.e. \"head\") of a coin, outside, exterior, appearance, public, first half (of an inning), top (of an inning), cover (for tatami mats, etc.), foreground, Omotesenke school of tea ceremony"
+        "meaning": "surface, face (i.e. the visible side of an object), front (of a building, etc.), obverse side (i.e. \"head\") of a coin, outside, exterior, appearance, public, first half (of an inning), top (of an inning), cover (for tatami mats, etc.), foreground, Omotesenke school of tea ceremony |(vi) bề mặt, mặt (phía thấy được của vật), mặt trước (tòa nhà...), mặt ngửa (đồng xu), bên ngoài, ngoại thất, vẻ ngoài, công khai, nửa đầu hiệp đấu, mặt trên (chiếu tatami...), tiền cảnh, trường phái trà đạo Omotesenke"
       },
       {
         "example": "表裏",
         "reading": "ひょうり",
-        "meaning": "front and back, inside and outside, two sides, both sides, duplicity, double-dealing, being two-faced"
+        "meaning": "front and back, inside and outside, two sides, both sides, duplicity, double-dealing, being two-faced |(vi) mặt trước và mặt sau, bên trong và bên ngoài, hai mặt, cả hai mặt, tính hai mặt, sự giả dối"
       },
       {
         "example": "京表",
         "reading": "きょうおもて",
-        "meaning": "vicinity of Kyoto"
+        "meaning": "vicinity of Kyoto |(vi) vùng lân cận Kyoto"
       },
       {
         "example": "中表",
         "reading": "なかおもて",
-        "meaning": "cloth folded inside out"
+        "meaning": "cloth folded inside out |(vi) vải gấp lộn mặt trong ra ngoài"
       },
       {
         "example": "表す",
         "reading": "あらわす",
-        "meaning": "to represent, to signify, to stand for, to reveal, to show, to display, to express, to make widely known"
+        "meaning": "to represent, to signify, to stand for, to reveal, to show, to display, to express, to make widely known |(vi) đại diện cho, biểu thị, tượng trưng cho, bộc lộ, thể hiện, phổ biến rộng rãi"
       },
       {
         "example": "現れる",
         "reading": "あらわれる",
-        "meaning": "to appear, to come in sight, to become visible, to come out, to embody, to materialize, to materialise, to be expressed (e.g. emotions), to become apparent (e.g. trends, effects)"
+        "meaning": "to appear, to come in sight, to become visible, to come out, to embody, to materialize, to materialise, to be expressed (e.g. emotions), to become apparent (e.g. trends, effects) |(vi) xuất hiện, hiện ra, trở nên rõ ràng, hiện hình, được thể hiện (cảm xúc), bộc lộ (xu hướng, ảnh hưởng)"
       },
       {
         "example": "表す",
         "reading": "あらわす",
-        "meaning": "to represent, to signify, to stand for, to reveal, to show, to display, to express, to make widely known"
+        "meaning": "to represent, to signify, to stand for, to reveal, to show, to display, to express, to make widely known |(vi) đại diện cho, biểu thị, tượng trưng cho, bộc lộ, thể hiện, phổ biến rộng rãi"
       }
     ],
     "radical": {
@@ -439,7 +439,7 @@
       "forms": [
         "衤"
       ],
-      "meaning": "clothes"
+      "meaning": "clothes |(vi) Y (áo, quần áo)"
     },
     "parts": [
       "二",

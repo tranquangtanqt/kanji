@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "appearance, contain",
+    "meaning": "appearance, contain |(vi) diện mạo, dung chứa",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "形容詞（けいようし）",
         "meaning": {
-          "english": "adjective"
+          "english": "adjective |(vi) tính từ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bi)you_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "美容院（びよういん）",
         "meaning": {
-          "english": "beauty salon"
+          "english": "beauty salon |(vi) thẩm mỹ viện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bi)you_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "内容（ないよう）",
         "meaning": {
-          "english": "contents, details"
+          "english": "contents, details |(vi) nội dung, chi tiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bi)you_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "容器（ようき）",
         "meaning": {
-          "english": "container"
+          "english": "container |(vi) vật chứa, hộp đựng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bi)you_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "容姿（ようし）",
         "meaning": {
-          "english": "appearance"
+          "english": "appearance |(vi) dung mạo, vóc dáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bi)you_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "容量（ようりょう）",
         "meaning": {
-          "english": "capacity"
+          "english": "capacity |(vi) dung lượng, dung tích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bi)you_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "容態（ようだい/ようたい）",
         "meaning": {
-          "english": "one's condition, health"
+          "english": "one's condition, health |(vi) tình trạng sức khỏe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bi)you_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "容疑者（ようぎしゃ）",
         "meaning": {
-          "english": "suspect [n.]"
+          "english": "suspect [n.] |(vi) nghi phạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bi)you_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "許容する（きょようする）",
         "meaning": {
-          "english": "pardon [v.t.]"
+          "english": "pardon [v.t.] |(vi) cho phép, dung thứ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bi)you_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "収容する（しゅうようする）",
         "meaning": {
-          "english": "house, seat [v.t.]"
+          "english": "house, seat [v.t.] |(vi) thu nhận, chứa đựng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bi)you_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "受容する（じゅようする）",
         "meaning": {
-          "english": "accept, receive"
+          "english": "accept, receive |(vi) tiếp nhận, chấp nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bi)you_06_k.opus",
@@ -246,7 +246,7 @@
     "kanji": {
       "character": "容",
       "meaning": {
-        "english": "appearance, contain"
+        "english": "appearance, contain |(vi) diện mạo, dung chứa"
       },
       "strokes": {
         "count": 10,
@@ -304,7 +304,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -325,7 +325,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "264",
     "strokeCount": 10,
-    "meaning": "contain, form, looks",
+    "meaning": "contain, form, looks |(vi) chứa đựng, hình dạng, diện mạo |(hv) Dung",
     "kunyomi": [
       "い.れる"
     ],
@@ -336,34 +336,34 @@
       {
         "example": "形",
         "reading": "カタチ",
-        "meaning": "form, shape, figure, visage"
+        "meaning": "form, shape, figure, visage |(vi) hình dạng, hình thù, dáng vẻ"
       },
       {
         "example": "容易",
         "reading": "ヨウイ",
-        "meaning": "easy, simple, plain"
+        "meaning": "easy, simple, plain |(vi) dễ dàng, đơn giản"
       },
       {
         "example": "陣容",
         "reading": "ジンヨウ",
-        "meaning": "battle formation, battle array, lineup (of a team, etc.), cast, staff, team structure"
+        "meaning": "battle formation, battle array, lineup (of a team, etc.), cast, staff, team structure |(vi) đội hình, thành phần nhân sự"
       },
       {
         "example": "受容",
         "reading": "ジュヨウ",
-        "meaning": "reception"
+        "meaning": "reception |(vi) tiếp nhận"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "入れる",
         "reading": "いれる",
-        "meaning": "to put in, to let in, to take in, to bring in, to insert, to install (e.g. software), to set (a jewel, etc.), to ink in (e.g. tattoo), to admit, to accept, to employ, to hire, to accept, to comply, to grant, to adopt (a policy, etc.), to take (advice, etc.), to listen to, to pay attention to, to include, to pay (one's rent, etc.), to cast (a vote), to make (tea, coffee, etc.), to turn on (a switch, etc.), to send (a fax), to call"
+        "meaning": "to put in, to let in, to take in, to bring in, to insert, to install (e.g. software), to set (a jewel, etc.), to ink in (e.g. tattoo), to admit, to accept, to employ, to hire, to accept, to comply, to grant, to adopt (a policy, etc.), to take (advice, etc.), to listen to, to pay attention to, to include, to pay (one's rent, etc.), to cast (a vote), to make (tea, coffee, etc.), to turn on (a switch, etc.), to send (a fax), to call |(vi) đưa vào, cho vào, chấp nhận"
       }
     ],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà)"
     },
     "parts": [
       "ハ",

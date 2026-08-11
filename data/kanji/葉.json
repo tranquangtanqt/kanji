@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "ha",
-    "meaning": "leaf、foliage",
+    "meaning": "leaf、foliage |(vi) lá, tán lá",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "葉緑素（ようりょくそ）",
         "meaning": {
-          "english": "chlorophyl"
+          "english": "chlorophyl |(vi) diệp lục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ochi)ba_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "紅葉（こうよう）",
         "meaning": {
-          "english": "autumn colors, autumn leaves"
+          "english": "autumn colors, autumn leaves |(vi) lá đỏ mùa thu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ochi)ba_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "針葉樹（しんようじゅ）",
         "meaning": {
-          "english": "conifer, needle-leaved tree"
+          "english": "conifer, needle-leaved tree |(vi) cây lá kim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ochi)ba_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "枝葉末節（しようまっせつ）",
         "meaning": {
-          "english": "trivial details"
+          "english": "trivial details |(vi) chi tiết vụn vặt, cành lá ngọn ngành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ochi)ba_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "葉（は）",
         "meaning": {
-          "english": "leaf, foliage"
+          "english": "leaf, foliage |(vi) lá cây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ochi)ba_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "葉っぱ（はっぱ）",
         "meaning": {
-          "english": "leaf"
+          "english": "leaf |(vi) lá cây (thân mật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ochi)ba_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "葉書（はがき）",
         "meaning": {
-          "english": "postcard"
+          "english": "postcard |(vi) bưu thiếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ochi)ba_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "言葉（ことば）",
         "meaning": {
-          "english": "word, language, speech"
+          "english": "word, language, speech |(vi) từ ngữ, ngôn ngữ, lời nói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ochi)ba_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "落ち葉（おちば）",
         "meaning": {
-          "english": "fallen leaves"
+          "english": "fallen leaves |(vi) lá rụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ochi)ba_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "*紅葉（もみじ）",
         "meaning": {
-          "english": "Japanese maple"
+          "english": "Japanese maple |(vi) cây phong Nhật Bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ochi)ba_06_j.opus",
@@ -259,7 +259,7 @@
     "kanji": {
       "character": "葉",
       "meaning": {
-        "english": "leaf、foliage"
+        "english": "leaf、foliage |(vi) lá, tán lá"
       },
       "strokes": {
         "count": 12,
@@ -321,7 +321,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -342,7 +342,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "414",
     "strokeCount": 12,
-    "meaning": "leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece",
+    "meaning": "leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece |(vi) lá, mặt phẳng, thùy, lá kim, lưỡi, lượng từ vật phẳng |(hv) Diệp",
     "kunyomi": [
       "は"
     ],
@@ -353,44 +353,44 @@
       {
         "example": "葉",
         "reading": "ヨウ",
-        "meaning": "counter for leaves, pieces of paper, etc., counter for boats"
+        "meaning": "counter for leaves, pieces of paper, etc., counter for boats |(vi) lượng từ đếm lá, tờ giấy, thuyền"
       },
       {
         "example": "葉胃",
         "reading": "ヨウイ",
-        "meaning": "omasum, psalterium, third compartment of the stomach in ruminants"
+        "meaning": "omasum, psalterium, third compartment of the stomach in ruminants |(vi) dạ lá sách (dạ dày động vật nhai lại)"
       },
       {
         "example": "紅葉",
         "reading": "コウヨウ",
-        "meaning": "leaves turning red (in autumn), red leaves, autumn colours, fall colors"
+        "meaning": "leaves turning red (in autumn), red leaves, autumn colours, fall colors |(vi) lá đỏ mùa thu"
       },
       {
         "example": "前頭葉",
         "reading": "ゼントウヨウ",
-        "meaning": "frontal lobe"
+        "meaning": "frontal lobe |(vi) thùy trán"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "葉",
         "reading": "は",
-        "meaning": "leaf, blade (of grass), (pine) needle"
+        "meaning": "leaf, blade (of grass), (pine) needle |(vi) lá, lá cỏ, lá kim (thông)"
       },
       {
         "example": "葉書",
         "reading": "はがき",
-        "meaning": "postcard, memo, note, card"
+        "meaning": "postcard, memo, note, card |(vi) bưu thiếp, tấm thiệp"
       },
       {
         "example": "一葉",
         "reading": "いちよう",
-        "meaning": "one leaf, one page, one sheet, one card, one photo, one boat"
+        "meaning": "one leaf, one page, one sheet, one card, one photo, one boat |(vi) một lá, một trang, một tấm"
       },
       {
         "example": "枝葉",
         "reading": "えだは",
-        "meaning": "branches and leaves, foliage, unimportant details, nonessentials, side issue, digression"
+        "meaning": "branches and leaves, foliage, unimportant details, nonessentials, side issue, digression |(vi) cành lá, chi tiết vụn vặt"
       }
     ],
     "radical": {
@@ -398,7 +398,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "世",

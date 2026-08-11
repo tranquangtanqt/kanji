@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "comment, criticism",
+    "meaning": "comment, criticism |(vi) bình luận, phê bình",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "評判（ひょうばん）",
         "meaning": {
-          "english": "reputation"
+          "english": "reputation |(vi) danh tiếng, tiếng tăm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)hyou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "評論（ひょうろん）",
         "meaning": {
-          "english": "critique"
+          "english": "critique |(vi) bình luận, phê bình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)hyou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "評決（ひょうけつ）",
         "meaning": {
-          "english": "verdict"
+          "english": "verdict |(vi) phán quyết, biểu quyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)hyou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "評議会（ひょうぎかい）",
         "meaning": {
-          "english": "council"
+          "english": "council |(vi) hội đồng thẩm nghị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)hyou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "好評（こうひょう）",
         "meaning": {
-          "english": "established opinion, favorable reputation"
+          "english": "established opinion, favorable reputation |(vi) tiếng tốt, được đánh giá cao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)hyou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "書評（しょひょう）",
         "meaning": {
-          "english": "book review"
+          "english": "book review |(vi) bài phê bình sách, bài điểm sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)hyou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "定評（ていひょう）",
         "meaning": {
-          "english": "established opinion"
+          "english": "established opinion |(vi) đánh giá đã được công nhận, tiếng tăm đã định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)hyou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "評価する（ひょうかする）",
         "meaning": {
-          "english": "evaluate"
+          "english": "evaluate |(vi) đánh giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)hyou_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "批評する（ひひょうする）",
         "meaning": {
-          "english": "criticize, review"
+          "english": "criticize, review |(vi) phê bình, nhận xét"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)hyou_06_i.opus",
@@ -220,7 +220,7 @@
     "kanji": {
       "character": "評",
       "meaning": {
-        "english": "comment, criticism"
+        "english": "comment, criticism |(vi) bình luận, phê bình"
       },
       "strokes": {
         "count": 12,
@@ -282,7 +282,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói, nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -303,7 +303,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "454",
     "strokeCount": 12,
-    "meaning": "evaluate, criticism, comment",
+    "meaning": "evaluate, criticism, comment |(vi) đánh giá, phê bình, bình luận |(hv) Bình",
     "kunyomi": [],
     "onyomi": [
       "ヒョウ"
@@ -312,22 +312,22 @@
       {
         "example": "評",
         "reading": "ヒョウ",
-        "meaning": "criticism, commentary, review"
+        "meaning": "criticism, commentary, review |(vi) phê bình, bình luận, nhận xét"
       },
       {
         "example": "評価",
         "reading": "ヒョウカ",
-        "meaning": "valuation, appraisal, evaluation, assessment, estimation, rating, judging, appreciation, recognition, acknowledgement, rating highly, praising"
+        "meaning": "valuation, appraisal, evaluation, assessment, estimation, rating, judging, appreciation, recognition, acknowledgement, rating highly, praising |(vi) định giá, thẩm định, đánh giá, xếp hạng, khen ngợi"
       },
       {
         "example": "総評",
         "reading": "ソウヒョウ",
-        "meaning": "general comment"
+        "meaning": "general comment |(vi) nhận xét chung, tổng bình"
       },
       {
         "example": "大好評",
         "reading": "ダイコウヒョウ",
-        "meaning": "very highly commended, highly lauded, very well-received, very popular"
+        "meaning": "very highly commended, highly lauded, very well-received, very popular |(vi) được khen ngợi rất cao, rất được ưa chuộng"
       }
     ],
     "kunyomiExamples": [],
@@ -336,7 +336,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói, nói)"
     },
     "parts": [
       "一",

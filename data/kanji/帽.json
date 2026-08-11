@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "headgear, cap, hat",
+    "meaning": "headgear, cap, hat |(vi) mũ, nón",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "帽子（ぼうし）",
         "meaning": {
-          "english": "hat"
+          "english": "hat |(vi) mũ, nón"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(beree)bou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "赤帽（あかぼう）",
         "meaning": {
-          "english": "redcap, porter"
+          "english": "redcap, porter |(vi) người khuân vác (đội mũ đỏ), phu khuân vác ở ga tàu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(beree)bou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "登山帽（とざんぼう）",
         "meaning": {
-          "english": "climber's hat"
+          "english": "climber's hat |(vi) mũ leo núi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(beree)bou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "ベレー帽（ベレーぼう）",
         "meaning": {
-          "english": "beret"
+          "english": "beret |(vi) mũ nồi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(beree)bou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "脱帽する（だつぼうする）",
         "meaning": {
-          "english": "take off one's hat"
+          "english": "take off one's hat |(vi) ngả mũ, bái phục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(beree)bou_06_e.opus",
@@ -149,7 +149,7 @@
     "kanji": {
       "character": "帽",
       "meaning": {
-        "english": "headgear, cap, hat"
+        "english": "headgear, cap, hat |(vi) mũ, nón"
       },
       "strokes": {
         "count": 12,
@@ -211,7 +211,7 @@
         "romaji": "habahen"
       },
       "meaning": {
-        "english": "cloth"
+        "english": "cloth |(vi) Cân (khăn, vải)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/habahen0.svg",
@@ -232,7 +232,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1742",
     "strokeCount": 12,
-    "meaning": "cap, headgear",
+    "meaning": "cap, headgear |(vi) mũ, nón |(hv) Mạo",
     "kunyomi": [
       "ずきん",
       "おお.う"
@@ -245,28 +245,28 @@
       {
         "example": "帽",
         "reading": "ボウ",
-        "meaning": "hat, cap"
+        "meaning": "hat, cap |(vi) mũ, nón"
       },
       {
         "example": "帽子",
         "reading": "ボウシ",
-        "meaning": "hat, cap"
+        "meaning": "hat, cap |(vi) mũ, nón"
       },
       {
         "example": "水泳帽",
         "reading": "スイエイボウ",
-        "meaning": "swimming or bathing cap"
+        "meaning": "swimming or bathing cap |(vi) mũ bơi"
       },
       {
         "example": "海水帽",
         "reading": "カイスイボウ",
-        "meaning": "bathing cap, swimcap"
+        "meaning": "bathing cap, swimcap |(vi) mũ bơi, mũ tắm biển"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "巾",
-      "meaning": "turban, scarf"
+      "meaning": "turban, scarf |(vi) Cân (khăn, vải)"
     },
     "parts": [
       "巾",

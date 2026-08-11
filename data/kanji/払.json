@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "hara, harau, harai",
-    "meaning": "sweep away, pay",
+    "meaning": "sweep away, pay |(vi) quét sạch, trả tiền",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "払拭する（ふっしょくする）",
         "meaning": {
-          "english": "wipe out"
+          "english": "wipe out |(vi) xóa bỏ, quét sạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)hara(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "払う（はらう）",
         "meaning": {
-          "english": "pay, brush"
+          "english": "pay, brush |(vi) trả tiền, phủi, quét"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)hara(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "払い落とす（はらいおとす）",
         "meaning": {
-          "english": "brush off"
+          "english": "brush off |(vi) phủi bỏ, gạt bỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)hara(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "分割払い（ぶんかつばらい）",
         "meaning": {
-          "english": "payment by installments"
+          "english": "payment by installments |(vi) trả góp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)hara(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "酔っ払い（よっぱらい）",
         "meaning": {
-          "english": "drunkard"
+          "english": "drunkard |(vi) người say rượu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)hara(u)_06_e.opus",
@@ -207,7 +207,7 @@
     "kanji": {
       "character": "払",
       "meaning": {
-        "english": "sweep away, pay"
+        "english": "sweep away, pay |(vi) quét sạch, trả tiền"
       },
       "strokes": {
         "count": 5,
@@ -255,7 +255,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -276,7 +276,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "813",
     "strokeCount": 5,
-    "meaning": "pay, clear out, prune, banish, dispose of",
+    "meaning": "pay, clear out, prune, banish, dispose of |(vi) trả tiền, dọn sạch, tỉa bớt, xua đuổi, xử lý |(hv) Phất",
     "kunyomi": [
       "はら.う",
       "-はら.い",
@@ -291,14 +291,14 @@
       {
         "example": "払暁",
         "reading": "フツギョウ",
-        "meaning": "dawn, daybreak"
+        "meaning": "dawn, daybreak |(vi) lúc rạng đông, tờ mờ sáng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "払う",
         "reading": "はらう",
-        "meaning": "to pay (e.g. money, bill), to brush off, to wipe away, to clear away, to dust off, to cut off (e.g. branches), to drive away (e.g. one's competitors), to sell off (something unneeded), to dispose of, to pay (e.g. attention), to show (e.g. respect, concern), to make (e.g. effort, sacrifice), to expend, to exert, to move out (of one's own place), to vacate, to sweep (e.g. one's legs), to knock aside, to make a sweeping stroke (in Japanese calligraphy), to reset (an abacus)"
+        "meaning": "to pay (e.g. money, bill), to brush off, to wipe away, to clear away, to dust off, to cut off (e.g. branches), to drive away (e.g. one's competitors), to sell off (something unneeded), to dispose of, to pay (e.g. attention), to show (e.g. respect, concern), to make (e.g. effort, sacrifice), to expend, to exert, to move out (of one's own place), to vacate, to sweep (e.g. one's legs), to knock aside, to make a sweeping stroke (in Japanese calligraphy), to reset (an abacus) |(vi) trả (tiền, hóa đơn), phủi, quét sạch, chặt tỉa (cành), xua đuổi (đối thủ), bán bớt, chú ý, bày tỏ (sự tôn trọng), dốc (nỗ lực, hy sinh), dọn đi, quét (chân), gạt sang bên, nét phẩy (thư pháp), xóa (bàn tính)"
       }
     ],
     "radical": {
@@ -306,7 +306,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "厶",

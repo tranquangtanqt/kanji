@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 2,
     "kunyomi": "utsuku, utsukushii",
-    "meaning": "beautiful, beauty",
+    "meaning": "beautiful, beauty |(vi) đẹp, cái đẹp",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "美（び）",
         "meaning": {
-          "english": "beauty"
+          "english": "beauty |(vi) cái đẹp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuku(shii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "美学（びがく）",
         "meaning": {
-          "english": "aesthetics"
+          "english": "aesthetics |(vi) mỹ học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuku(shii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "美人（びじん）",
         "meaning": {
-          "english": "beautiful woman"
+          "english": "beautiful woman |(vi) người đẹp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuku(shii)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "美女（びじょ）",
         "meaning": {
-          "english": "beautiful woman"
+          "english": "beautiful woman |(vi) mỹ nữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuku(shii)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "美術館（びじゅつかん）",
         "meaning": {
-          "english": "art museum"
+          "english": "art museum |(vi) bảo tàng mỹ thuật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuku(shii)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "美容院（びよういん）",
         "meaning": {
-          "english": "beauty salon"
+          "english": "beauty salon |(vi) thẩm mỹ viện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuku(shii)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "美化する（びかする）",
         "meaning": {
-          "english": "beautify, glorify"
+          "english": "beautify, glorify |(vi) làm đẹp, tôn vinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuku(shii)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "賛美する（さんびする）",
         "meaning": {
-          "english": "praise"
+          "english": "praise |(vi) ca ngợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuku(shii)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "優美な（ゆうびな）",
         "meaning": {
-          "english": "graceful"
+          "english": "graceful |(vi) duyên dáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuku(shii)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "甘美な（かんびな）",
         "meaning": {
-          "english": "sweet"
+          "english": "sweet |(vi) ngọt ngào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuku(shii)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "美しい（うつくしい）",
         "meaning": {
-          "english": "beautiful"
+          "english": "beautiful |(vi) đẹp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuku(shii)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "*美味しい（おいしい）",
         "meaning": {
-          "english": "delicious"
+          "english": "delicious |(vi) ngon"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuku(shii)_06_l.opus",
@@ -293,7 +293,7 @@
     "kanji": {
       "character": "美",
       "meaning": {
-        "english": "beautiful, beauty"
+        "english": "beautiful, beauty |(vi) đẹp, cái đẹp"
       },
       "strokes": {
         "count": 9,
@@ -349,7 +349,7 @@
         "romaji": "hitsuji"
       },
       "meaning": {
-        "english": "sheep"
+        "english": "sheep |(vi) Dương (con cừu, con dê)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitsuji0.svg",
@@ -370,7 +370,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "462",
     "strokeCount": 9,
-    "meaning": "beauty, beautiful",
+    "meaning": "beauty, beautiful |(vi) đẹp, cái đẹp |(hv) Mỹ",
     "kunyomi": [
       "うつく.しい"
     ],
@@ -382,49 +382,49 @@
       {
         "example": "美",
         "reading": "ビ",
-        "meaning": "beauty"
+        "meaning": "beauty |(vi) cái đẹp"
       },
       {
         "example": "美意識",
         "reading": "ビイシキ",
-        "meaning": "sense of beauty, aesthetic sense"
+        "meaning": "sense of beauty, aesthetic sense |(vi) ý thức thẩm mỹ, khiếu thẩm mỹ"
       },
       {
         "example": "華美",
         "reading": "カビ",
-        "meaning": "splendor, splendour, gorgeousness, pomp, magnificence, showiness, gaudiness, extravagance, luxury"
+        "meaning": "splendor, splendour, gorgeousness, pomp, magnificence, showiness, gaudiness, extravagance, luxury |(vi) sự lộng lẫy, xa hoa, phô trương, hào nhoáng"
       },
       {
         "example": "造形美",
         "reading": "ゾウケイビ",
-        "meaning": "beauty of form (oft. used of nature), beauty of a sculpted shape"
+        "meaning": "beauty of form (oft. used of nature), beauty of a sculpted shape |(vi) cái đẹp về hình thể (thường dùng cho thiên nhiên), vẻ đẹp tạo hình"
       },
       {
         "example": "御",
         "reading": "ミ",
-        "meaning": "august, beautiful"
+        "meaning": "august, beautiful |(vi) cao quý, đẹp đẽ"
       },
       {
         "example": "見事",
         "reading": "ミゴト",
-        "meaning": "splendid, magnificent, excellent, fine, superb, beautiful, admirable, utter (esp. defeat), total, complete, something worth seeing, sight, spectacle"
+        "meaning": "splendid, magnificent, excellent, fine, superb, beautiful, admirable, utter (esp. defeat), total, complete, something worth seeing, sight, spectacle |(vi) tuyệt vời, tráng lệ, xuất sắc, tinh tế, đẹp đẽ, đáng khâm phục, hoàn toàn (đặc biệt là thất bại), toàn bộ, cảnh tượng đáng xem"
       },
       {
         "example": "水野亜美",
         "reading": "ミズノアミ",
-        "meaning": "Ami Mizuno (Sailor Moon character)"
+        "meaning": "Ami Mizuno (Sailor Moon character) |(vi) Ami Mizuno (nhân vật trong Sailor Moon)"
       },
       {
         "example": "伊邪那美",
         "reading": "イザナミ",
-        "meaning": "Izanami (Shinto goddess)"
+        "meaning": "Izanami (Shinto goddess) |(vi) Izanami (nữ thần Thần đạo)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "美しい",
         "reading": "うつくしい",
-        "meaning": "beautiful, pretty, lovely, sweet, pure (heart, friendship, etc.)"
+        "meaning": "beautiful, pretty, lovely, sweet, pure (heart, friendship, etc.) |(vi) đẹp, xinh xắn, đáng yêu, ngọt ngào, trong sáng (tấm lòng, tình bạn...)"
       }
     ],
     "radical": {
@@ -432,7 +432,7 @@
       "forms": [
         "⺶"
       ],
-      "meaning": "sheep"
+      "meaning": "sheep |(vi) Dương (con cừu, con dê)"
     },
     "parts": [
       "大",

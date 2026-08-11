@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "inochi",
-    "meaning": "order, life",
+    "meaning": "order, life |(vi) ra lệnh, mạng sống",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "使命（しめい）",
         "meaning": {
-          "english": "mission"
+          "english": "mission |(vi) sứ mệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "運命（うんめい）",
         "meaning": {
-          "english": "fate"
+          "english": "fate |(vi) số phận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "生命（せいめい）",
         "meaning": {
-          "english": "life"
+          "english": "life |(vi) sinh mệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "革命（かくめい）",
         "meaning": {
-          "english": "revolution"
+          "english": "revolution |(vi) cách mạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "任命する（にんめいする）",
         "meaning": {
-          "english": "appoint"
+          "english": "appoint |(vi) bổ nhiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "命令する（めいれいする）",
         "meaning": {
-          "english": "order, command [v.t.]"
+          "english": "order, command [v.t.] |(vi) ra lệnh, chỉ thị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "命中する（めいちゅうする）",
         "meaning": {
-          "english": "hit a target"
+          "english": "hit a target |(vi) trúng đích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "命じる（めいじる）",
         "meaning": {
-          "english": "order, command [v.t.]"
+          "english": "order, command [v.t.] |(vi) ra lệnh, chỉ thị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "寿命（じゅみょう）",
         "meaning": {
-          "english": "life expectancy"
+          "english": "life expectancy |(vi) tuổi thọ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "命（いのち）",
         "meaning": {
-          "english": "life"
+          "english": "life |(vi) mạng sống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_j.opus",
@@ -232,7 +232,7 @@
     "kanji": {
       "character": "命",
       "meaning": {
-        "english": "order, life"
+        "english": "order, life |(vi) ra lệnh, mạng sống"
       },
       "strokes": {
         "count": 8,
@@ -286,7 +286,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -307,7 +307,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "465",
     "strokeCount": 8,
-    "meaning": "fate, command, decree, destiny, life, appoint",
+    "meaning": "fate, command, decree, destiny, life, appoint |(vi) số phận, mệnh lệnh, sắc lệnh, định mệnh, sinh mệnh, bổ nhiệm |(hv) Mệnh",
     "kunyomi": [
       "いのち"
     ],
@@ -319,64 +319,64 @@
       {
         "example": "命",
         "reading": "メイ",
-        "meaning": "order, command, decree, life, destiny, fate"
+        "meaning": "order, command, decree, life, destiny, fate |(vi) mệnh lệnh, sắc lệnh, sinh mệnh, định mệnh, số phận"
       },
       {
         "example": "命運",
         "reading": "メイウン",
-        "meaning": "fate, destiny"
+        "meaning": "fate, destiny |(vi) vận mệnh, số phận"
       },
       {
         "example": "延命",
         "reading": "エンメイ",
-        "meaning": "keeping alive longer, prolonging life, life extension, life-support"
+        "meaning": "keeping alive longer, prolonging life, life extension, life-support |(vi) kéo dài sự sống, gia hạn tuổi thọ, duy trì sự sống"
       },
       {
         "example": "十月革命",
         "reading": "ジュウガツカクメイ",
-        "meaning": "October Revolution"
+        "meaning": "October Revolution |(vi) Cách mạng Tháng Mười"
       },
       {
         "example": "命婦",
         "reading": "ミョウブ",
-        "meaning": "title for high-ranking court ladies"
+        "meaning": "title for high-ranking court ladies |(vi) chức danh dành cho nữ quan cao cấp trong triều"
       },
       {
         "example": "延命",
         "reading": "エンメイ",
-        "meaning": "keeping alive longer, prolonging life, life extension, life-support"
+        "meaning": "keeping alive longer, prolonging life, life extension, life-support |(vi) kéo dài sự sống, gia hạn tuổi thọ, duy trì sự sống"
       },
       {
         "example": "安心立命",
         "reading": "アンシンリツメイ",
-        "meaning": "spiritual peace and enlightenment, keeping an unperturbed mind through faith"
+        "meaning": "spiritual peace and enlightenment, keeping an unperturbed mind through faith |(vi) sự an tâm và giác ngộ tinh thần, giữ tâm bình thản nhờ đức tin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "命",
         "reading": "いのち",
-        "meaning": "life, life force, lifetime, lifespan, most important thing, foundation, core, paired tattoos of the \"life\" kanji on the upper arms of a man and woman (indicating unwavering love), fate, destiny, karma"
+        "meaning": "life, life force, lifetime, lifespan, most important thing, foundation, core, paired tattoos of the \"life\" kanji on the upper arms of a man and woman (indicating unwavering love), fate, destiny, karma |(vi) mạng sống, sinh lực, tuổi thọ, điều quan trọng nhất, nền tảng, cốt lõi, hình xăm đôi chữ 'mệnh' trên cánh tay biểu tượng tình yêu bền chặt, định mệnh, số phận, nghiệp"
       },
       {
         "example": "命からがら",
         "reading": "いのちからがら",
-        "meaning": "for dear life, barely escaping alive"
+        "meaning": "for dear life, barely escaping alive |(vi) liều mạng, thoát chết trong gang tấc"
       },
       {
         "example": "貴い命",
         "reading": "たっといいのち",
-        "meaning": "precious life"
+        "meaning": "precious life |(vi) sinh mạng quý giá"
       },
       {
         "example": "露の命",
         "reading": "つゆのいのち",
-        "meaning": "life as evanescent as the dew"
+        "meaning": "life as evanescent as the dew |(vi) kiếp người mong manh như sương"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "一",

@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "tamotsu, tamo",
-    "meaning": "preserve",
+    "meaning": "preserve |(vi) bảo tồn, gìn giữ",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "保険（ほけん）",
         "meaning": {
-          "english": "insurance"
+          "english": "insurance |(vi) bảo hiểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "保護者（ほごしゃ）",
         "meaning": {
-          "english": "guardian"
+          "english": "guardian |(vi) người giám hộ, người bảo hộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "保育園（ほいくえん）",
         "meaning": {
-          "english": "nursery school"
+          "english": "nursery school |(vi) nhà trẻ, trường mẫu giáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "保証する（ほしょうする）",
         "meaning": {
-          "english": "guarantee"
+          "english": "guarantee |(vi) bảo đảm, bảo lãnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "保護する（ほごする）",
         "meaning": {
-          "english": "shelter, protect"
+          "english": "shelter, protect |(vi) bảo vệ, che chở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "保有する（ほゆうする）",
         "meaning": {
-          "english": "possess"
+          "english": "possess |(vi) sở hữu, giữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "保存する（ほぞんする）",
         "meaning": {
-          "english": "preserve, store"
+          "english": "preserve, store |(vi) bảo quản, lưu giữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "保管する（ほかんする）",
         "meaning": {
-          "english": "deposit, store"
+          "english": "deposit, store |(vi) lưu trữ, cất giữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "保つ（たもつ）",
         "meaning": {
-          "english": "keep, retain, maintain"
+          "english": "keep, retain, maintain |(vi) giữ, duy trì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_i.opus",
@@ -218,7 +218,7 @@
     "kanji": {
       "character": "保",
       "meaning": {
-        "english": "preserve"
+        "english": "preserve |(vi) bảo tồn, gìn giữ"
       },
       "strokes": {
         "count": 9,
@@ -274,7 +274,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -295,7 +295,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "146",
     "strokeCount": 9,
-    "meaning": "protect, guarantee, keep, preserve, sustain, support",
+    "meaning": "protect, guarantee, keep, preserve, sustain, support |(vi) bảo vệ, bảo đảm, giữ gìn, bảo tồn, duy trì, hỗ trợ |(hv) Bảo",
     "kunyomi": [
       "たも.つ"
     ],
@@ -307,49 +307,49 @@
       {
         "example": "保育",
         "reading": "ホイク",
-        "meaning": "nurturing, rearing, childcare, day care"
+        "meaning": "nurturing, rearing, childcare, day care |(vi) nuôi dưỡng, chăm sóc trẻ, giữ trẻ"
       },
       {
         "example": "保安",
         "reading": "ホアン",
-        "meaning": "peace preservation, security, safety"
+        "meaning": "peace preservation, security, safety |(vi) giữ gìn an ninh, an toàn"
       },
       {
         "example": "留保",
         "reading": "リュウホ",
-        "meaning": "reserving, withholding"
+        "meaning": "reserving, withholding |(vi) bảo lưu, giữ lại"
       },
       {
         "example": "生保",
         "reading": "セイホ",
-        "meaning": "life insurance, livelihood protection, public assistance, welfare"
+        "meaning": "life insurance, livelihood protection, public assistance, welfare |(vi) bảo hiểm nhân thọ, trợ cấp sinh hoạt"
       },
       {
         "example": "保する",
         "reading": "ホスル",
-        "meaning": "to guarantee"
+        "meaning": "to guarantee |(vi) bảo đảm"
       },
       {
         "example": "保安",
         "reading": "ホウアン",
-        "meaning": "Hōan era (1120.4.10-1124.4.3)"
+        "meaning": "Hōan era (1120.4.10-1124.4.3) |(vi) niên hiệu Hōan (1120-1124)"
       },
       {
         "example": "永保",
         "reading": "エイホウ",
-        "meaning": "Eihō era (1081.2.10-1084.2.7), Eiho era"
+        "meaning": "Eihō era (1081.2.10-1084.2.7), Eiho era |(vi) niên hiệu Eihō (1081-1084)"
       },
       {
         "example": "太保",
         "reading": "タイホウ",
-        "meaning": "Grand Protector (lowest of the top three civil positions of the Zhou dynasty), Minister of the Right (official in Nara and Heian periods)"
+        "meaning": "Grand Protector (lowest of the top three civil positions of the Zhou dynasty), Minister of the Right (official in Nara and Heian periods) |(vi) Thái Bảo (chức quan cao thời Chu, hoặc Hữu đại thần thời Nara-Heian)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "保つ",
         "reading": "たもつ",
-        "meaning": "to keep, to preserve, to hold, to retain, to maintain, to sustain, to last, to endure, to keep well (food), to wear well, to be durable"
+        "meaning": "to keep, to preserve, to hold, to retain, to maintain, to sustain, to last, to endure, to keep well (food), to wear well, to be durable |(vi) giữ, duy trì, gìn giữ, bền bỉ"
       }
     ],
     "radical": {
@@ -357,7 +357,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "化",

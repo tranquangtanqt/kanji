@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "hi, himeru",
-    "meaning": "secret",
+    "meaning": "secret |(vi) bí mật",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "秘密（ひみつ）",
         "meaning": {
-          "english": "secret, secrecy"
+          "english": "secret, secrecy |(vi) bí mật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(mitsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "秘訣（ひけつ）",
         "meaning": {
-          "english": "key, the secret (of)"
+          "english": "key, the secret (of) |(vi) bí quyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(mitsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "秘書（ひしょ）",
         "meaning": {
-          "english": "secretary"
+          "english": "secretary |(vi) thư ký"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(mitsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "秘伝（ひでん）",
         "meaning": {
-          "english": "secret, mystery, secret formula"
+          "english": "secret, mystery, secret formula |(vi) bí truyền, công thức bí mật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(mitsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "秘蔵（ひぞう）",
         "meaning": {
-          "english": "treasure, prize, cherish"
+          "english": "treasure, prize, cherish |(vi) cất giữ quý báu, trân trọng cất giấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(mitsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "秘宝（ひほう）",
         "meaning": {
-          "english": "treasure, treasured article"
+          "english": "treasure, treasured article |(vi) bảo vật quý, vật báu cất giấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(mitsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "極秘（ごくひ）",
         "meaning": {
-          "english": "absolute secrecy"
+          "english": "absolute secrecy |(vi) tối mật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(mitsu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "便秘（べんぴ）",
         "meaning": {
-          "english": "constipation"
+          "english": "constipation |(vi) táo bón"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(mitsu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "神秘的な（しんぴてきな）",
         "meaning": {
-          "english": "mysterious"
+          "english": "mysterious |(vi) huyền bí, thần bí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(mitsu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "黙秘する（もくひする）",
         "meaning": {
-          "english": "keep silent, stand mute"
+          "english": "keep silent, stand mute |(vi) giữ im lặng, từ chối khai báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(mitsu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "秘める（ひめる）",
         "meaning": {
-          "english": "hide, keep to oneself"
+          "english": "hide, keep to oneself |(vi) giấu kín, ẩn chứa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(mitsu)_06_k.opus",
@@ -220,7 +220,7 @@
     "kanji": {
       "character": "秘",
       "meaning": {
-        "english": "secret"
+        "english": "secret |(vi) bí mật"
       },
       "strokes": {
         "count": 10,
@@ -278,7 +278,7 @@
         "romaji": "nogihen"
       },
       "meaning": {
-        "english": "grain"
+        "english": "grain |(vi) Hòa (lúa, bộ hòa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nogihen0.svg",
@@ -299,7 +299,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "862",
     "strokeCount": 10,
-    "meaning": "secret, conceal",
+    "meaning": "secret, conceal |(vi) bí mật, che giấu |(hv) Bí",
     "kunyomi": [
       "ひ.める",
       "ひそ.か",
@@ -312,39 +312,39 @@
       {
         "example": "秘",
         "reading": "ヒ",
-        "meaning": "secret, mystery"
+        "meaning": "secret, mystery |(vi) bí mật, điều huyền bí"
       },
       {
         "example": "秘書",
         "reading": "ヒショ",
-        "meaning": "(private) secretary, treasured book, secret book"
+        "meaning": "(private) secretary, treasured book, secret book |(vi) thư ký (riêng), sách quý cất giữ, sách bí truyền"
       },
       {
         "example": "部外秘",
         "reading": "ブガイヒ",
-        "meaning": "restricted, confidential"
+        "meaning": "restricted, confidential |(vi) mật, không phổ biến ra ngoài (bộ phận)"
       },
       {
         "example": "社外秘",
         "reading": "シャガイヒ",
-        "meaning": "company secret, information for internal use only"
+        "meaning": "company secret, information for internal use only |(vi) bí mật công ty, thông tin nội bộ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "秘める",
         "reading": "ひめる",
-        "meaning": "to hide, to keep to oneself"
+        "meaning": "to hide, to keep to oneself |(vi) giấu kín, ẩn chứa, cất giữ trong lòng"
       },
       {
         "example": "密か",
         "reading": "ひそか",
-        "meaning": "secret, private, surreptitious"
+        "meaning": "secret, private, surreptitious |(vi) bí mật, riêng tư, lén lút"
       }
     ],
     "radical": {
       "symbol": "禾",
-      "meaning": "grain"
+      "meaning": "grain |(vi) Hòa (lúa)"
     },
     "parts": [
       "ノ",

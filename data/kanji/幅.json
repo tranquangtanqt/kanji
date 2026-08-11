@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "haba",
-    "meaning": "width, breadth, range",
+    "meaning": "width, breadth, range |(vi) chiều rộng, độ rộng, phạm vi",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "全幅（ぜんぷく）",
         "meaning": {
-          "english": "overall width, all, every"
+          "english": "overall width, all, every |(vi) toàn bộ chiều rộng, tất cả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-haba_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "振幅数（しんぷくすう）",
         "meaning": {
-          "english": "amplitude, swing of pendulum"
+          "english": "amplitude, swing of pendulum |(vi) biên độ, độ lắc của con lắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-haba_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "増幅する（ぞうふくする）",
         "meaning": {
-          "english": "amplify"
+          "english": "amplify |(vi) khuếch đại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-haba_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "幅（はば）",
         "meaning": {
-          "english": "width, breadth"
+          "english": "width, breadth |(vi) chiều rộng, độ rộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-haba_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "幅跳び（はばとび）",
         "meaning": {
-          "english": "long jump"
+          "english": "long jump |(vi) nhảy xa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-haba_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "横幅（よこはば）",
         "meaning": {
-          "english": "breadth, width"
+          "english": "breadth, width |(vi) bề ngang, chiều rộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-haba_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "大幅に（おおはばに）",
         "meaning": {
-          "english": "in large scale, drastically"
+          "english": "in large scale, drastically |(vi) quy mô lớn, mạnh mẽ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku-haba_06_g.opus",
@@ -174,7 +174,7 @@
     "kanji": {
       "character": "幅",
       "meaning": {
-        "english": "width, breadth, range"
+        "english": "width, breadth, range |(vi) chiều rộng, độ rộng, phạm vi"
       },
       "strokes": {
         "count": 12,
@@ -236,7 +236,7 @@
         "romaji": "habahen"
       },
       "meaning": {
-        "english": "cloth"
+        "english": "cloth |(vi) Cân (khăn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/habahen0.svg",
@@ -257,7 +257,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "641",
     "strokeCount": 12,
-    "meaning": "hanging scroll, width",
+    "meaning": "hanging scroll, width |(vi) tranh cuộn treo, chiều rộng |(hv) Bức",
     "kunyomi": [
       "はば"
     ],
@@ -268,49 +268,49 @@
       {
         "example": "幅",
         "reading": "フク",
-        "meaning": "scroll, counter for scrolls"
+        "meaning": "scroll, counter for scrolls |(vi) cuộn tranh, lượng từ đếm tranh cuộn"
       },
       {
         "example": "幅員",
         "reading": "フクイン",
-        "meaning": "width (of a road, bridge, etc.)"
+        "meaning": "width (of a road, bridge, etc.) |(vi) chiều rộng (của đường, cầu, v.v.)"
       },
       {
         "example": "増幅",
         "reading": "ゾウフク",
-        "meaning": "amplification, magnification, amplification, making larger"
+        "meaning": "amplification, magnification, amplification, making larger |(vi) sự khuếch đại, sự phóng đại, sự làm lớn hơn"
       },
       {
         "example": "双幅",
         "reading": "ソウフク",
-        "meaning": "pair of hanging scrolls"
+        "meaning": "pair of hanging scrolls |(vi) cặp tranh cuộn treo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "幅",
         "reading": "はば",
-        "meaning": "width, breadth, freedom (e.g. of thought), latitude, gap, difference (e.g. in price), range (e.g. of voice)"
+        "meaning": "width, breadth, freedom (e.g. of thought), latitude, gap, difference (e.g. in price), range (e.g. of voice) |(vi) chiều rộng, độ rộng, sự tự do (ví dụ tư tưởng), phạm vi cho phép, khoảng cách, chênh lệch (ví dụ giá), phạm vi (ví dụ giọng nói)"
       },
       {
         "example": "幅広い",
         "reading": "はばひろい",
-        "meaning": "extensive, wide, broad"
+        "meaning": "extensive, wide, broad |(vi) rộng lớn, rộng rãi, bao quát"
       },
       {
         "example": "小幅",
         "reading": "こはば",
-        "meaning": "small, narrow, single-breadth cloth (approx. 36 cm wide)"
+        "meaning": "small, narrow, single-breadth cloth (approx. 36 cm wide) |(vi) vải khổ hẹp, khổ đơn (khoảng 36 cm)"
       },
       {
         "example": "値幅",
         "reading": "ねはば",
-        "meaning": "price range or fluctuation"
+        "meaning": "price range or fluctuation |(vi) biên độ hoặc dao động giá"
       }
     ],
     "radical": {
       "symbol": "巾",
-      "meaning": "turban, scarf"
+      "meaning": "turban, scarf |(vi) Cân (khăn quàng)"
     },
     "parts": [
       "一",

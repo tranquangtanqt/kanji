@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "urban prefecture, government office, capital city",
+    "meaning": "urban prefecture, government office, capital city |(vi) phủ đô thị, cơ quan chính phủ, thành phố thủ đô",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "府立（ふりつ）",
         "meaning": {
-          "english": "managed by an urban prefecture"
+          "english": "managed by an urban prefecture |(vi) thuộc quản lý của phủ đô thị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(souri)fu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "首府（しゅふ）",
         "meaning": {
-          "english": "metropolis"
+          "english": "metropolis |(vi) thủ đô, đô thị lớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(souri)fu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "政府（せいふ）",
         "meaning": {
-          "english": "government"
+          "english": "government |(vi) chính phủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(souri)fu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "幕府（ばくふ）",
         "meaning": {
-          "english": "bakufu, shogunate"
+          "english": "bakufu, shogunate |(vi) mạc phủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(souri)fu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "大阪府（おおさかふ）",
         "meaning": {
-          "english": "Osaka prefecture"
+          "english": "Osaka prefecture |(vi) phủ Osaka"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(souri)fu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "京都府（きょうとふ）",
         "meaning": {
-          "english": "Kyoto prefecture"
+          "english": "Kyoto prefecture |(vi) phủ Kyoto"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(souri)fu_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "総理府（そうりふ）",
         "meaning": {
-          "english": "Prime Minister's office"
+          "english": "Prime Minister's office |(vi) văn phòng thủ tướng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(souri)fu_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "無政府（むせいふ）",
         "meaning": {
-          "english": "anarchy"
+          "english": "anarchy |(vi) vô chính phủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(souri)fu_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "都道府県（とどうふけん）",
         "meaning": {
-          "english": "administrative divisions of Japan"
+          "english": "administrative divisions of Japan |(vi) các đơn vị hành chính của Nhật Bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(souri)fu_06_i.opus",
@@ -246,7 +246,7 @@
     "kanji": {
       "character": "府",
       "meaning": {
-        "english": "urban prefecture, government office, capital city"
+        "english": "urban prefecture, government office, capital city |(vi) phủ đô thị, cơ quan chính phủ, thành phố thủ đô"
       },
       "strokes": {
         "count": 8,
@@ -300,7 +300,7 @@
         "romaji": "madare"
       },
       "meaning": {
-        "english": "slanting roof"
+        "english": "slanting roof |(vi) Nghiễm (mái nhà nghiêng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/madare0.svg",
@@ -321,7 +321,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "170",
     "strokeCount": 8,
-    "meaning": "borough, urban prefecture, govt office, representative body, storehouse",
+    "meaning": "borough, urban prefecture, govt office, representative body, storehouse |(vi) quận, phủ đô thị, cơ quan chính phủ, cơ quan đại diện, kho chứa |(hv) Phủ",
     "kunyomi": [],
     "onyomi": [
       "フ"
@@ -330,28 +330,28 @@
       {
         "example": "府",
         "reading": "フ",
-        "meaning": "(urban) prefecture (i.e. Osaka and Kyoto), centre (e.g. of learning), center, seat, (government) office, fu (administrative unit in China, Korea and Vietnam)"
+        "meaning": "(urban) prefecture (i.e. Osaka and Kyoto), centre (e.g. of learning), center, seat, (government) office, fu (administrative unit in China, Korea and Vietnam) |(vi) phủ đô thị (Osaka và Kyoto), trung tâm (ví dụ học thuật), trụ sở, cơ quan (chính phủ), phủ (đơn vị hành chính ở Trung Quốc, Triều Tiên và Việt Nam)"
       },
       {
         "example": "府警",
         "reading": "フケイ",
-        "meaning": "prefectural police (Osaka or Kyoto)"
+        "meaning": "prefectural police (Osaka or Kyoto) |(vi) cảnh sát phủ (Osaka hoặc Kyoto)"
       },
       {
         "example": "総理府",
         "reading": "ソウリフ",
-        "meaning": "Prime Minister's office, PMO"
+        "meaning": "Prime Minister's office, PMO |(vi) văn phòng thủ tướng"
       },
       {
         "example": "無政府",
         "reading": "ムセイフ",
-        "meaning": "anarchy"
+        "meaning": "anarchy |(vi) vô chính phủ"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "广",
-      "meaning": "house on cliff"
+      "meaning": "house on cliff |(vi) Nghiễm (nhà trên vách đá)"
     },
     "parts": [
       "化",

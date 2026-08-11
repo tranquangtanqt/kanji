@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "ki, ko",
-    "meaning": "tree, wood",
+    "meaning": "tree, wood |(vi) cây, gỗ",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "大木（たいぼく）",
         "meaning": {
-          "english": "large tree"
+          "english": "large tree |(vi) cây to"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-ki_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "木曜日（もくようび）",
         "meaning": {
-          "english": "Thursday"
+          "english": "Thursday |(vi) thứ Năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-ki_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "木材（もくざい）",
         "meaning": {
-          "english": "lumber"
+          "english": "lumber |(vi) gỗ xẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-ki_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "木造（もくぞう）",
         "meaning": {
-          "english": "wooden"
+          "english": "wooden |(vi) bằng gỗ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-ki_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "木村（きむら）",
         "meaning": {
-          "english": "Kimura (surname)"
+          "english": "Kimura (surname) |(vi) Kimura (họ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-ki_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "青木（あおき）",
         "meaning": {
-          "english": "Aoki (surname)"
+          "english": "Aoki (surname) |(vi) Aoki (họ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-ki_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "植木（うえき）",
         "meaning": {
-          "english": "garden shrubs"
+          "english": "garden shrubs |(vi) cây cảnh trong vườn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-ki_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "木の葉（このは）",
         "meaning": {
-          "english": "foliage, leaf"
+          "english": "foliage, leaf |(vi) tán lá, lá cây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-ki_06_h.opus",
@@ -249,7 +249,7 @@
     "kanji": {
       "character": "木",
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) cây, gỗ"
       },
       "strokes": {
         "count": 4,
@@ -295,7 +295,7 @@
         "romaji": "ki"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ki0.svg",
@@ -316,7 +316,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "317",
     "strokeCount": 4,
-    "meaning": "tree, wood",
+    "meaning": "tree, wood |(vi) cây, gỗ |(hv) Mộc",
     "kunyomi": [
       "き",
       "こ-"
@@ -329,69 +329,69 @@
       {
         "example": "木刀",
         "reading": "ボクトウ",
-        "meaning": "wooden sword"
+        "meaning": "wooden sword |(vi) kiếm gỗ"
       },
       {
         "example": "木偶",
         "reading": "デク",
-        "meaning": "wooden doll, wooden figure, puppet, blockhead, good-for-nothing, fool"
+        "meaning": "wooden doll, wooden figure, puppet, blockhead, good-for-nothing, fool |(vi) búp bê gỗ, hình nộm gỗ, con rối, kẻ đần độn, kẻ vô dụng, kẻ ngốc"
       },
       {
         "example": "土木",
         "reading": "ドボク",
-        "meaning": "engineering works, civil engineering, public works"
+        "meaning": "engineering works, civil engineering, public works |(vi) công trình xây dựng, kỹ thuật dân dụng, công trình công cộng"
       },
       {
         "example": "名木",
         "reading": "メイボク",
-        "meaning": "old tree of historical interest, excellent wood, precious woods, choice wood"
+        "meaning": "old tree of historical interest, excellent wood, precious woods, choice wood |(vi) cây cổ thụ có giá trị lịch sử, gỗ quý, gỗ tốt"
       },
       {
         "example": "木",
         "reading": "モク",
-        "meaning": "Thursday, wood (first of the five elements)"
+        "meaning": "Thursday, wood (first of the five elements) |(vi) thứ Năm, mộc (hành đầu tiên trong ngũ hành)"
       },
       {
         "example": "木材",
         "reading": "モクザイ",
-        "meaning": "lumber, timber, wood"
+        "meaning": "lumber, timber, wood |(vi) gỗ xẻ, gỗ nguyên liệu"
       },
       {
         "example": "水木",
         "reading": "スイモク",
-        "meaning": "Wednesday and Thursday"
+        "meaning": "Wednesday and Thursday |(vi) thứ Tư và thứ Năm"
       },
       {
         "example": "火水木",
         "reading": "カスイモク",
-        "meaning": "Tuesday, Wednesday and Thursday"
+        "meaning": "Tuesday, Wednesday and Thursday |(vi) thứ Ba, thứ Tư và thứ Năm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "木",
         "reading": "き",
-        "meaning": "tree, shrub, bush, wood, timber, wooden clappers (signalling the beginning or end of a performance)"
+        "meaning": "tree, shrub, bush, wood, timber, wooden clappers (signalling the beginning or end of a performance) |(vi) cây, bụi cây, gỗ, gỗ xẻ, phách gỗ (báo hiệu đầu/cuối buổi biểu diễn)"
       },
       {
         "example": "木々",
         "reading": "きぎ",
-        "meaning": "(many) trees, every tree, all kinds of trees"
+        "meaning": "(many) trees, every tree, all kinds of trees |(vi) nhiều cây, mọi cây, các loại cây"
       },
       {
         "example": "本木",
         "reading": "もとき",
-        "meaning": "original stock"
+        "meaning": "original stock |(vi) gốc ban đầu"
       },
       {
         "example": "青木",
         "reading": "あおき",
-        "meaning": "Japanese laurel (Aucuba japonica), spotted laurel, lush, green tree"
+        "meaning": "Japanese laurel (Aucuba japonica), spotted laurel, lush, green tree |(vi) cây nguyệt quế Nhật (Aucuba japonica), cây xanh tươi tốt"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây)"
     },
     "parts": [
       "木"

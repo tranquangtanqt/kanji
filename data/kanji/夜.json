@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "yo, yoru",
-    "meaning": "night",
+    "meaning": "night |(vi) đêm",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "今夜（こんや）",
         "meaning": {
-          "english": "tonight"
+          "english": "tonight |(vi) đêm nay, tối nay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "深夜（しんや）",
         "meaning": {
-          "english": "midnight"
+          "english": "midnight |(vi) đêm khuya, nửa đêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "夜間（やかん）",
         "meaning": {
-          "english": "nighttime"
+          "english": "nighttime |(vi) ban đêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "徹夜する（てつやする）",
         "meaning": {
-          "english": "stay up all night"
+          "english": "stay up all night |(vi) thức trắng đêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "夜更かしする（よふかしする）",
         "meaning": {
-          "english": "stay up late"
+          "english": "stay up late |(vi) thức khuya"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "夜中（よなか）",
         "meaning": {
-          "english": "late at night"
+          "english": "late at night |(vi) giữa đêm khuya"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "夜明け（よあけ）",
         "meaning": {
-          "english": "dawn"
+          "english": "dawn |(vi) bình minh, rạng sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "夜空（よぞら）",
         "meaning": {
-          "english": "night sky"
+          "english": "night sky |(vi) bầu trời đêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "月夜（つきよ）",
         "meaning": {
-          "english": "moonlit night"
+          "english": "moonlit night |(vi) đêm trăng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "夜（よる）",
         "meaning": {
-          "english": "night"
+          "english": "night |(vi) đêm, ban đêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_j.opus",
@@ -270,7 +270,7 @@
     "kanji": {
       "character": "夜",
       "meaning": {
-        "english": "night"
+        "english": "night |(vi) đêm"
       },
       "strokes": {
         "count": 8,
@@ -324,7 +324,7 @@
         "romaji": "yuube"
       },
       "meaning": {
-        "english": "evening"
+        "english": "evening |(vi) Tịch (buổi tối, chiều tà)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yuube0.svg",
@@ -345,7 +345,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "487",
     "strokeCount": 8,
-    "meaning": "night, evening",
+    "meaning": "night, evening |(vi) đêm, buổi tối |(hv) Dạ",
     "kunyomi": [
       "よ",
       "よる"
@@ -357,69 +357,69 @@
       {
         "example": "夜",
         "reading": "ヤ",
-        "meaning": "counter for nights"
+        "meaning": "counter for nights |(vi) lượng từ đếm số đêm"
       },
       {
         "example": "夜間",
         "reading": "ヤカン",
-        "meaning": "night, nighttime"
+        "meaning": "night, nighttime |(vi) ban đêm"
       },
       {
         "example": "同夜",
         "reading": "ドウヤ",
-        "meaning": "the same night, that night"
+        "meaning": "the same night, that night |(vi) cùng đêm đó, đêm hôm ấy"
       },
       {
         "example": "通夜",
         "reading": "ツヤ",
-        "meaning": "all-night vigil over a body, wake"
+        "meaning": "all-night vigil over a body, wake |(vi) lễ thức canh linh cữu qua đêm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "夜",
         "reading": "よる",
-        "meaning": "night, evening, dinner"
+        "meaning": "night, evening, dinner |(vi) đêm, buổi tối, bữa tối"
       },
       {
         "example": "夜明け",
         "reading": "よあけ",
-        "meaning": "dawn, daybreak"
+        "meaning": "dawn, daybreak |(vi) bình minh, rạng sáng"
       },
       {
         "example": "毎夜",
         "reading": "まいよ",
-        "meaning": "every evening, every night"
+        "meaning": "every evening, every night |(vi) mỗi đêm, hằng đêm"
       },
       {
         "example": "短夜",
         "reading": "みじかよ",
-        "meaning": "short summer night"
+        "meaning": "short summer night |(vi) đêm hè ngắn"
       },
       {
         "example": "夜",
         "reading": "よる",
-        "meaning": "night, evening, dinner"
+        "meaning": "night, evening, dinner |(vi) đêm, buổi tối, bữa tối"
       },
       {
         "example": "夜ご飯",
         "reading": "よるごはん",
-        "meaning": "dinner, evening meal"
+        "meaning": "dinner, evening meal |(vi) bữa tối"
       },
       {
         "example": "御寝",
         "reading": "およる",
-        "meaning": "sleep, rest"
+        "meaning": "sleep, rest |(vi) ngủ, nghỉ ngơi"
       },
       {
         "example": "銀河鉄道の夜",
         "reading": "ぎんがてつどうのよる",
-        "meaning": "Night on the Galactic Railroad (novel by Kenji Miyazawa), Milky Way Railroad"
+        "meaning": "Night on the Galactic Railroad (novel by Kenji Miyazawa), Milky Way Railroad |(vi) Đêm trên đường sắt Ngân Hà (tiểu thuyết của Miyazawa Kenji)"
       }
     ],
     "radical": {
       "symbol": "夕",
-      "meaning": "evening, sunset"
+      "meaning": "evening, sunset |(vi) Tịch (buổi tối, hoàng hôn)"
     },
     "parts": [
       "亠",

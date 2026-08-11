@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "compound, double, multiple",
+    "meaning": "compound, double, multiple |(vi) phức hợp, kép, nhiều",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "複数（ふくすう）",
         "meaning": {
-          "english": "plural, multiple"
+          "english": "plural, multiple |(vi) số nhiều, nhiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(suu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "複利（ふくり）",
         "meaning": {
-          "english": "compound interest"
+          "english": "compound interest |(vi) lãi kép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(suu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "複写機（ふくしゃき）",
         "meaning": {
-          "english": "photocopying machine"
+          "english": "photocopying machine |(vi) máy photocopy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(suu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "複雑な（ふくざつな）",
         "meaning": {
-          "english": "complex, complicated"
+          "english": "complex, complicated |(vi) phức tạp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(suu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "複製する（ふくせいする）",
         "meaning": {
-          "english": "reproduce, duplicate, reprint"
+          "english": "reproduce, duplicate, reprint |(vi) sao chép, tái bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(suu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "複合する（ふくごうする）",
         "meaning": {
-          "english": "combine"
+          "english": "combine |(vi) kết hợp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(suu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "重複する（ちょうふくする）",
         "meaning": {
-          "english": "be repeated, overlap [v.i.]"
+          "english": "be repeated, overlap [v.i.] |(vi) lặp lại, trùng lặp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(suu)_06_g.opus",
@@ -213,7 +213,7 @@
     "kanji": {
       "character": "複",
       "meaning": {
-        "english": "compound, double, multiple"
+        "english": "compound, double, multiple |(vi) phức hợp, kép, nhiều"
       },
       "strokes": {
         "count": 14,
@@ -279,7 +279,7 @@
         "romaji": "koromohen"
       },
       "meaning": {
-        "english": "clothing"
+        "english": "clothing |(vi) Y (áo, quần áo)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/koromohen0.svg",
@@ -300,7 +300,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "915",
     "strokeCount": 14,
-    "meaning": "duplicate, double, compound, multiple",
+    "meaning": "duplicate, double, compound, multiple |(vi) sao chép, kép, phức hợp, nhiều |(hv) Phức",
     "kunyomi": [],
     "onyomi": [
       "フク"
@@ -309,22 +309,22 @@
       {
         "example": "複",
         "reading": "フク",
-        "meaning": "compound, composite, multiple, re-, bi-, doubles (tennis, badminton, etc.), place bet (in horse racing, etc.), show bet, bet that predicts a top 2 or top 3 finish (depending on number of horses, etc. in race)"
+        "meaning": "compound, composite, multiple, re-, bi-, doubles (tennis, badminton, etc.), place bet (in horse racing, etc.), show bet, bet that predicts a top 2 or top 3 finish (depending on number of horses, etc. in race) |(vi) phức hợp, tổng hợp, nhiều, tái-, song- (đôi trong tennis, cầu lông...), cược vị trí (đua ngựa...), cược show, cược dự đoán về ngựa trong top 2 hoặc top 3"
       },
       {
         "example": "複合",
         "reading": "フクゴウ",
-        "meaning": "composite, combined, complex"
+        "meaning": "composite, combined, complex |(vi) tổng hợp, kết hợp, phức tạp"
       },
       {
         "example": "重複",
         "reading": "チョウフク",
-        "meaning": "duplication, repetition, overlapping, redundancy, restoration"
+        "meaning": "duplication, repetition, overlapping, redundancy, restoration |(vi) sự trùng lặp, lặp lại, chồng chéo, dư thừa, phục hồi"
       },
       {
         "example": "遺伝子重複",
         "reading": "イデンシチョウフク",
-        "meaning": "gene duplication"
+        "meaning": "gene duplication |(vi) sự nhân đôi gen"
       }
     ],
     "kunyomiExamples": [],
@@ -333,7 +333,7 @@
       "forms": [
         "衤"
       ],
-      "meaning": "clothes"
+      "meaning": "clothes |(vi) Y (áo, quần áo)"
     },
     "parts": [
       "乞",

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "nozo, nozomu, nozomi",
-    "meaning": "hope, desire, look after",
+    "meaning": "hope, desire, look after |(vi) hy vọng, mong muốn, trông nom",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "希望する（きぼうする）",
         "meaning": {
-          "english": "hope [v.t.]"
+          "english": "hope [v.t.] |(vi) hy vọng [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-nozo(mi)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "要望する（ようぼうする）",
         "meaning": {
-          "english": "request [v.t.]"
+          "english": "request [v.t.] |(vi) yêu cầu, đòi hỏi [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-nozo(mi)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "絶望する（ぜつぼうする）",
         "meaning": {
-          "english": "despair [v.t.]"
+          "english": "despair [v.t.] |(vi) tuyệt vọng [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-nozo(mi)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "失望する（しつぼうする）",
         "meaning": {
-          "english": "be disappointed"
+          "english": "be disappointed |(vi) thất vọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-nozo(mi)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "望遠鏡（ぼうえんきょう）",
         "meaning": {
-          "english": "telescope"
+          "english": "telescope |(vi) kính viễn vọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-nozo(mi)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "欲望（よくぼう）",
         "meaning": {
-          "english": "desire [n.]"
+          "english": "desire [n.] |(vi) ham muốn, dục vọng [danh từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-nozo(mi)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "本望（ほんもう）",
         "meaning": {
-          "english": "long cherished ambition"
+          "english": "long cherished ambition |(vi) ước nguyện ấp ủ từ lâu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-nozo(mi)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "望む（のぞむ）",
         "meaning": {
-          "english": "wish for"
+          "english": "wish for |(vi) mong muốn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-nozo(mi)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "望ましい（のぞましい）",
         "meaning": {
-          "english": "desirable"
+          "english": "desirable |(vi) đáng mong đợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-nozo(mi)_06_i.opus",
@@ -246,7 +246,7 @@
     "kanji": {
       "character": "望",
       "meaning": {
-        "english": "hope, desire, look after"
+        "english": "hope, desire, look after |(vi) hy vọng, mong muốn, trông nom"
       },
       "strokes": {
         "count": 11,
@@ -306,7 +306,7 @@
         "romaji": "tsuki"
       },
       "meaning": {
-        "english": "moon, month, period"
+        "english": "moon, month, period |(vi) Nguyệt (mặt trăng, tháng, kỳ hạn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuki0.svg",
@@ -327,7 +327,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "470",
     "strokeCount": 11,
-    "meaning": "ambition, full moon, hope, desire, aspire to, expect",
+    "meaning": "ambition, full moon, hope, desire, aspire to, expect |(vi) hoài bão, trăng tròn, hy vọng, mong muốn, khao khát, kỳ vọng |(hv) Vọng",
     "kunyomi": [
       "のぞ.む",
       "もち"
@@ -340,59 +340,59 @@
       {
         "example": "望",
         "reading": "モチ",
-        "meaning": "full moon, 15th day of the lunar month"
+        "meaning": "full moon, 15th day of the lunar month |(vi) trăng tròn, ngày rằm âm lịch"
       },
       {
         "example": "望遠鏡",
         "reading": "ボウエンキョウ",
-        "meaning": "telescope"
+        "meaning": "telescope |(vi) kính viễn vọng"
       },
       {
         "example": "眺望",
         "reading": "チョウボウ",
-        "meaning": "view, vista, panorama, outlook, prospect"
+        "meaning": "view, vista, panorama, outlook, prospect |(vi) tầm nhìn, cảnh quan, toàn cảnh, triển vọng"
       },
       {
         "example": "太公望",
         "reading": "タイコウボウ",
-        "meaning": "(avid) angler"
+        "meaning": "(avid) angler |(vi) người câu cá (kiên nhẫn chờ thời)"
       },
       {
         "example": "本望",
         "reading": "ホンモウ",
-        "meaning": "long-cherished desire, satisfaction (from achieving one's desire)"
+        "meaning": "long-cherished desire, satisfaction (from achieving one's desire) |(vi) ước nguyện ấp ủ từ lâu, mãn nguyện (khi đạt được điều mong muốn)"
       },
       {
         "example": "宿望",
         "reading": "シュクボウ",
-        "meaning": "long-cherished desire, one's heart's desire"
+        "meaning": "long-cherished desire, one's heart's desire |(vi) ước nguyện ấp ủ từ lâu, tâm nguyện"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "望む",
         "reading": "のぞむ",
-        "meaning": "to desire, to want, to wish for, to hope for, to expect (of someone), to hope for, to look forward to, to see, to command (a view of), to overlook"
+        "meaning": "to desire, to want, to wish for, to hope for, to expect (of someone), to hope for, to look forward to, to see, to command (a view of), to overlook |(vi) mong muốn, khao khát, hy vọng, kỳ vọng (ở ai đó), trông đợi, nhìn ngắm, bao quát (tầm nhìn)"
       },
       {
         "example": "望むところ",
         "reading": "のぞむところ",
-        "meaning": "what one desires, what one hopes for, suits me well, could ask for nothing better, bring it on, make my day"
+        "meaning": "what one desires, what one hopes for, suits me well, could ask for nothing better, bring it on, make my day |(vi) điều mong muốn, điều ước ao, rất hợp ý, không thể mong gì hơn, cứ thế mà đến, làm tôi hài lòng"
       },
       {
         "example": "望",
         "reading": "もち",
-        "meaning": "full moon, 15th day of the lunar month"
+        "meaning": "full moon, 15th day of the lunar month |(vi) trăng tròn, ngày rằm âm lịch"
       },
       {
         "example": "望月",
         "reading": "もちづき",
-        "meaning": "full moon, moon on the 15th day of the month (by the lunar calendar), full moon of the eighth lunar month"
+        "meaning": "full moon, moon on the 15th day of the month (by the lunar calendar), full moon of the eighth lunar month |(vi) trăng tròn, trăng rằm âm lịch, trăng tròn tháng tám âm lịch"
       }
     ],
     "radical": {
       "symbol": "月",
-      "meaning": "moon, month"
+      "meaning": "moon, month |(vi) Nguyệt (mặt trăng, tháng)"
     },
     "parts": [
       "亡",

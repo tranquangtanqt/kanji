@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "furu, furuu",
-    "meaning": "rouse up, be enlivened",
+    "meaning": "rouse up, be enlivened |(vi) phấn chấn, hăng hái",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "奮発する（ふんぱつする）",
         "meaning": {
-          "english": "make a great effort, splurge"
+          "english": "make a great effort, splurge |(vi) cố gắng hết sức, chi mạnh tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun(sensuru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "奮起する（ふんきする）",
         "meaning": {
-          "english": "stir, rouse oneself"
+          "english": "stir, rouse oneself |(vi) phấn chấn, tự thúc giục bản thân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun(sensuru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "奮戦する（ふんせんする）",
         "meaning": {
-          "english": "fight hard"
+          "english": "fight hard |(vi) chiến đấu hăng hái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun(sensuru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "発奮する（はっぷんする）",
         "meaning": {
-          "english": "be stimulated, be inspired"
+          "english": "be stimulated, be inspired |(vi) được kích thích, được truyền cảm hứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun(sensuru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "興奮する（こうふんする）",
         "meaning": {
-          "english": "get excited, be excited"
+          "english": "get excited, be excited |(vi) phấn khích, hưng phấn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun(sensuru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "奮う（ふるう）",
         "meaning": {
-          "english": "show, wield"
+          "english": "show, wield |(vi) phát huy, thể hiện mạnh mẽ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun(sensuru)_06_f.opus",
@@ -170,7 +170,7 @@
     "kanji": {
       "character": "奮",
       "meaning": {
-        "english": "rouse up, be enlivened"
+        "english": "rouse up, be enlivened |(vi) phấn chấn, hăng hái"
       },
       "strokes": {
         "count": 16,
@@ -240,7 +240,7 @@
         "romaji": "dai"
       },
       "meaning": {
-        "english": "large, big"
+        "english": "large, big |(vi) Đại (to, lớn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/dai0.svg",
@@ -261,7 +261,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1521",
     "strokeCount": 16,
-    "meaning": "stirred up, be invigorated, flourish",
+    "meaning": "stirred up, be invigorated, flourish |(vi) phấn chấn, hăng hái, hưng thịnh |(hv) Phấn",
     "kunyomi": [
       "ふる.う"
     ],
@@ -272,29 +272,29 @@
       {
         "example": "奮闘",
         "reading": "フントウ",
-        "meaning": "strenuous effort, hard struggle, working hard, hard fighting, fierce fighting"
+        "meaning": "strenuous effort, hard struggle, working hard, hard fighting, fierce fighting |(vi) cố gắng hết sức, chiến đấu gian khổ, chiến đấu ác liệt"
       },
       {
         "example": "奮起",
         "reading": "フンキ",
-        "meaning": "stirring, rousing oneself"
+        "meaning": "stirring, rousing oneself |(vi) phấn chấn, tự vực dậy tinh thần"
       },
       {
         "example": "性的興奮",
         "reading": "セイテキコウフン",
-        "meaning": "sexual arousal, sexual excitation"
+        "meaning": "sexual arousal, sexual excitation |(vi) hưng phấn tình dục, kích thích tình dục"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "奮う",
         "reading": "ふるう",
-        "meaning": "to muster (e.g. one's courage), to call forth, to rouse up, to be enlivened, to be invigorated"
+        "meaning": "to muster (e.g. one's courage), to call forth, to rouse up, to be enlivened, to be invigorated |(vi) vực dậy (can đảm), phát huy, phấn chấn, hăng hái"
       }
     ],
     "radical": {
       "symbol": "大",
-      "meaning": "big, very"
+      "meaning": "big, very |(vi) Đại (to, lớn)"
     },
     "parts": [
       "大",

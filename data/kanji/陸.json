@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "land",
+    "meaning": "land |(vi) đất liền",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "陸（りく）",
         "meaning": {
-          "english": "land, shore"
+          "english": "land, shore |(vi) đất liền, bờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "陸地（りくち）",
         "meaning": {
-          "english": "land"
+          "english": "land |(vi) đất liền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "陸上（りくじょう）",
         "meaning": {
-          "english": "land, ground, shore"
+          "english": "land, ground, shore |(vi) trên đất liền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "陸橋（りっきょう）",
         "meaning": {
-          "english": "overland bridge, overpass"
+          "english": "overland bridge, overpass |(vi) cầu vượt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "陸軍（りくぐん）",
         "meaning": {
-          "english": "army"
+          "english": "army |(vi) lục quân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "陸路（りくろ）",
         "meaning": {
-          "english": "overland route, land route"
+          "english": "overland route, land route |(vi) đường bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "大陸（たいりく）",
         "meaning": {
-          "english": "continent"
+          "english": "continent |(vi) đại lục, châu lục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "着陸する（ちゃくりくする）",
         "meaning": {
-          "english": "land, touch down"
+          "english": "land, touch down |(vi) hạ cánh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "上陸する（じょうりくする）",
         "meaning": {
-          "english": "land, go ashore"
+          "english": "land, go ashore |(vi) đổ bộ, lên bờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_i.opus",
@@ -211,7 +211,7 @@
     "kanji": {
       "character": "陸",
       "meaning": {
-        "english": "land"
+        "english": "land |(vi) đất liền"
       },
       "strokes": {
         "count": 11,
@@ -271,7 +271,7 @@
         "romaji": "kozatohen"
       },
       "meaning": {
-        "english": "hill, mound"
+        "english": "hill, mound |(vi) Phụ (gò đất, đê)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kozatohen0.svg",
@@ -292,7 +292,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "736",
     "strokeCount": 11,
-    "meaning": "land, six",
+    "meaning": "land, six |(vi) đất liền, số sáu |(hv) Lục",
     "kunyomi": [
       "おか"
     ],
@@ -304,54 +304,54 @@
       {
         "example": "陸",
         "reading": "リク",
-        "meaning": "land, shore"
+        "meaning": "land, shore |(vi) đất liền, bờ"
       },
       {
         "example": "陸海",
         "reading": "リクカイ",
-        "meaning": "land and sea, army and navy"
+        "meaning": "land and sea, army and navy |(vi) đất liền và biển, lục quân và hải quân"
       },
       {
         "example": "北陸",
         "reading": "ホクリク",
-        "meaning": "Hokuriku region (of Honshu; incl. Niigata, Toyama, Ishikawa and Fukui prefectures)"
+        "meaning": "Hokuriku region (of Honshu; incl. Niigata, Toyama, Ishikawa and Fukui prefectures) |(vi) vùng Hokuriku (Nhật Bản)"
       },
       {
         "example": "内陸",
         "reading": "ナイリク",
-        "meaning": "inland"
+        "meaning": "inland |(vi) nội địa"
       },
       {
         "example": "六",
         "reading": "ロク",
-        "meaning": "six, 6"
+        "meaning": "six, 6 |(vi) số sáu"
       },
       {
         "example": "碌",
         "reading": "ロク",
-        "meaning": "satisfactory, decent, good, proper, worthy"
+        "meaning": "satisfactory, decent, good, proper, worthy |(vi) tử tế, đàng hoàng"
       },
       {
         "example": "碌々",
         "reading": "ロクロク",
-        "meaning": "(not) well, (not) properly, (not) enough, (not) sufficiently"
+        "meaning": "(not) well, (not) properly, (not) enough, (not) sufficiently |(vi) không tử tế, không đầy đủ (dùng ở thể phủ định)"
       },
       {
         "example": "双六",
         "reading": "スゴロク",
-        "meaning": "race game (board game played with dice in which the object is to reach the end of a track), ban-sugoroku, sugoroku, traditional Japanese board game similar to backgammon"
+        "meaning": "race game (board game played with dice in which the object is to reach the end of a track), ban-sugoroku, sugoroku, traditional Japanese board game similar to backgammon |(vi) sugoroku (trò chơi cờ tương tự backgammon)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "陸",
         "reading": "りく",
-        "meaning": "land, shore"
+        "meaning": "land, shore |(vi) đất liền, bờ"
       },
       {
         "example": "丘",
         "reading": "おか",
-        "meaning": "hill, height, knoll, rising ground, bonus points awarded to the winner at the end of a game"
+        "meaning": "hill, height, knoll, rising ground, bonus points awarded to the winner at the end of a game |(vi) đồi, gò đất"
       }
     ],
     "radical": {
@@ -359,7 +359,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "mound, dam (阝 left)"
+      "meaning": "mound, dam (阝 left) |(vi) Phụ (gò đất, đê)"
     },
     "parts": [
       "儿",

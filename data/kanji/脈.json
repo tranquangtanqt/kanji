@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "vein, pulse",
+    "meaning": "vein, pulse |(vi) mạch máu, mạch đập",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "脈（みゃく）",
         "meaning": {
-          "english": "pulse"
+          "english": "pulse |(vi) mạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/myaku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "脈拍（みゃくはく）",
         "meaning": {
-          "english": "pulse, pulsation"
+          "english": "pulse, pulsation |(vi) nhịp mạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/myaku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "脈絡（みゃくらく）",
         "meaning": {
-          "english": "chain of reasoning, coherence"
+          "english": "chain of reasoning, coherence |(vi) mạch lạc, sự liên kết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/myaku_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "文脈（ぶんみゃく）",
         "meaning": {
-          "english": "context"
+          "english": "context |(vi) văn mạch, ngữ cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/myaku_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "動脈（どうみゃく）",
         "meaning": {
-          "english": "artery"
+          "english": "artery |(vi) động mạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/myaku_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "静脈（じょうみゃく）",
         "meaning": {
-          "english": "vein"
+          "english": "vein |(vi) tĩnh mạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/myaku_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "山脈（さんみゃく）",
         "meaning": {
-          "english": "mountain range"
+          "english": "mountain range |(vi) dãy núi, sơn mạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/myaku_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "葉脈（ようみゃく）",
         "meaning": {
-          "english": "veins of a leaf"
+          "english": "veins of a leaf |(vi) gân lá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/myaku_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "不整脈（ふせいみゃく）",
         "meaning": {
-          "english": "irregular pulse, arrhythmia"
+          "english": "irregular pulse, arrhythmia |(vi) loạn nhịp tim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/myaku_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "乱脈な（らんみゃくな）",
         "meaning": {
-          "english": "chaotic, disorderly"
+          "english": "chaotic, disorderly |(vi) hỗn loạn, lộn xộn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/myaku_06_j.opus",
@@ -214,7 +214,7 @@
     "kanji": {
       "character": "脈",
       "meaning": {
-        "english": "vein, pulse"
+        "english": "vein, pulse |(vi) mạch máu, mạch đập"
       },
       "strokes": {
         "count": 10,
@@ -272,7 +272,7 @@
         "romaji": "nikuzuki"
       },
       "meaning": {
-        "english": "meat, flesh"
+        "english": "meat, flesh |(vi) Nhục (thịt - bộ thịt đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nikuzuki0.svg",
@@ -293,7 +293,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1477",
     "strokeCount": 10,
-    "meaning": "vein, pulse, hope",
+    "meaning": "vein, pulse, hope |(vi) mạch máu, mạch đập, hy vọng |(hv) Mạch",
     "kunyomi": [
       "すじ"
     ],
@@ -304,22 +304,22 @@
       {
         "example": "脈",
         "reading": "ミャク",
-        "meaning": "pulse, vein, chain (of mountains, etc.), hope, thread (of an argument)"
+        "meaning": "pulse, vein, chain (of mountains, etc.), hope, thread (of an argument) |(vi) mạch đập, mạch máu, dãy (núi...), hy vọng, mạch (lập luận)"
       },
       {
         "example": "脈拍",
         "reading": "ミャクハク",
-        "meaning": "pulse, pulse rate, pulsation, stroke of pulse"
+        "meaning": "pulse, pulse rate, pulsation, stroke of pulse |(vi) nhịp mạch, tần số mạch, nhịp đập"
       },
       {
         "example": "大動脈",
         "reading": "ダイドウミャク",
-        "meaning": "aorta, important traffic route"
+        "meaning": "aorta, important traffic route |(vi) động mạch chủ, tuyến giao thông quan trọng"
       },
       {
         "example": "動脈",
         "reading": "ドウミャク",
-        "meaning": "artery, arterial road, major route"
+        "meaning": "artery, arterial road, major route |(vi) động mạch, đường giao thông chính"
       }
     ],
     "kunyomiExamples": [],
@@ -328,7 +328,7 @@
       "forms": [
         "⺼"
       ],
-      "meaning": "meat"
+      "meaning": "meat |(vi) Nhục (thịt)"
     },
     "parts": [
       "厂",

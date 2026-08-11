@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "maki",
-    "meaning": "pasture",
+    "meaning": "pasture |(vi) đồng cỏ, chăn thả",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "牧場（ぼくじょう/まきば）",
         "meaning": {
-          "english": "farm pasture land, meadow"
+          "english": "farm pasture land, meadow |(vi) đồng cỏ chăn nuôi, bãi chăn thả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/boku(jou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "牧草（ぼくそう）",
         "meaning": {
-          "english": "pasture, grass"
+          "english": "pasture, grass |(vi) cỏ chăn nuôi, đồng cỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/boku(jou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "牧畜（ぼくちく）",
         "meaning": {
-          "english": "livestock farming"
+          "english": "livestock farming |(vi) chăn nuôi gia súc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/boku(jou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "遊牧民（ゆうぼくみん）",
         "meaning": {
-          "english": "nomads"
+          "english": "nomads |(vi) dân du mục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/boku(jou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "牧歌的な（ぼっかてきな）",
         "meaning": {
-          "english": "pastoral, idyllic"
+          "english": "pastoral, idyllic |(vi) mang tính điền viên, thanh bình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/boku(jou)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "放牧する（ほうぼくする）",
         "meaning": {
-          "english": "put out to pasture"
+          "english": "put out to pasture |(vi) thả (gia súc) ra đồng cỏ, chăn thả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/boku(jou)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "牧（まき）",
         "meaning": {
-          "english": "pasture, grazing land"
+          "english": "pasture, grazing land |(vi) đồng cỏ, bãi chăn thả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/boku(jou)_06_g.opus",
@@ -177,7 +177,7 @@
     "kanji": {
       "character": "牧",
       "meaning": {
-        "english": "pasture"
+        "english": "pasture |(vi) đồng cỏ, chăn thả"
       },
       "strokes": {
         "count": 8,
@@ -231,7 +231,7 @@
         "romaji": "ushihen"
       },
       "meaning": {
-        "english": "cow"
+        "english": "cow |(vi) Ngưu (bò, trâu)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ushihen0.svg",
@@ -252,7 +252,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1360",
     "strokeCount": 8,
-    "meaning": "breed, care for, shepherd, feed, pasture",
+    "meaning": "breed, care for, shepherd, feed, pasture |(vi) nuôi dưỡng, chăm sóc, chăn dắt, cho ăn, chăn thả |(hv) Mục",
     "kunyomi": [
       "まき"
     ],
@@ -263,34 +263,34 @@
       {
         "example": "牧",
         "reading": "ボク",
-        "meaning": "regional governor in ancient China"
+        "meaning": "regional governor in ancient China |(vi) quan cai trị vùng (thời Trung Quốc cổ đại)"
       },
       {
         "example": "牧師",
         "reading": "ボクシ",
-        "meaning": "pastor, minister, clergyman, reverend"
+        "meaning": "pastor, minister, clergyman, reverend |(vi) mục sư, giáo sĩ"
       },
       {
         "example": "遊牧",
         "reading": "ユウボク",
-        "meaning": "nomadism"
+        "meaning": "nomadism |(vi) du mục"
       },
       {
         "example": "移牧",
         "reading": "イボク",
-        "meaning": "transhumance, moving stock between pastures according to season"
+        "meaning": "transhumance, moving stock between pastures according to season |(vi) di chuyển gia súc theo mùa, du canh du mục theo mùa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "牧",
         "reading": "まき",
-        "meaning": "pasture, grazing land"
+        "meaning": "pasture, grazing land |(vi) đồng cỏ, bãi chăn thả"
       },
       {
         "example": "牧場",
         "reading": "ぼくじょう",
-        "meaning": "farm (livestock), stock farm, ranch, station, pasture, meadow, grazing land"
+        "meaning": "farm (livestock), stock farm, ranch, station, pasture, meadow, grazing land |(vi) trang trại chăn nuôi, nông trại, đồng cỏ chăn thả"
       }
     ],
     "radical": {
@@ -298,7 +298,7 @@
       "forms": [
         "牜"
       ],
-      "meaning": "cow"
+      "meaning": "cow |(vi) Ngưu (bò, trâu)"
     },
     "parts": [
       "乞",

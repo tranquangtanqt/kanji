@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "kata",
-    "meaning": "fragment, one (of two), part",
+    "meaning": "fragment, one (of two), part |(vi) mảnh, một (trong hai), phần",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "破片（はへん）",
         "meaning": {
-          "english": "fragment, splinter, piece"
+          "english": "fragment, splinter, piece |(vi) mảnh vỡ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kata_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "断片（だんぺん）",
         "meaning": {
-          "english": "fragment, shred"
+          "english": "fragment, shred |(vi) mảnh vụn, đoạn rời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kata_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "片手（かたて）",
         "meaning": {
-          "english": "one hand"
+          "english": "one hand |(vi) một tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kata_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "片目（かため）",
         "meaning": {
-          "english": "one eye"
+          "english": "one eye |(vi) một mắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kata_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "片側（かたがわ）",
         "meaning": {
-          "english": "one side"
+          "english": "one side |(vi) một bên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kata_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "片面（かためん）",
         "meaning": {
-          "english": "one side"
+          "english": "one side |(vi) một mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kata_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "片道（かたみち）",
         "meaning": {
-          "english": "one-way"
+          "english": "one-way |(vi) một chiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kata_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "片言（かたこと）",
         "meaning": {
-          "english": "baby talk, broken speech"
+          "english": "baby talk, broken speech |(vi) nói bập bẹ, nói không sõi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kata_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "片仮名（かたかな）",
         "meaning": {
-          "english": "katakana"
+          "english": "katakana |(vi) chữ katakana"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kata_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "片思い（かたおもい）",
         "meaning": {
-          "english": "unrequited love"
+          "english": "unrequited love |(vi) tình yêu đơn phương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kata_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "片寄る（かたよる）",
         "meaning": {
-          "english": "lean, incline, be biased"
+          "english": "lean, incline, be biased |(vi) nghiêng lệch, thiên vị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kata_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "片付ける（かたづける）",
         "meaning": {
-          "english": "tidy up"
+          "english": "tidy up |(vi) dọn dẹp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-kata_06_l.opus",
@@ -245,7 +245,7 @@
     "kanji": {
       "character": "片",
       "meaning": {
-        "english": "fragment, one (of two), part"
+        "english": "fragment, one (of two), part |(vi) mảnh, một (trong hai), phần"
       },
       "strokes": {
         "count": 4,
@@ -291,7 +291,7 @@
         "romaji": "kata"
       },
       "meaning": {
-        "english": "split wood"
+        "english": "split wood |(vi) Phiến (gỗ tách đôi, mảnh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kata0.svg",
@@ -312,7 +312,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1076",
     "strokeCount": 4,
-    "meaning": "one-sided, leaf, sheet, right-side kata radical (no. 91)",
+    "meaning": "one-sided, leaf, sheet, right-side kata radical (no. 91) |(vi) một bên, tờ, tấm, bộ thủ kata bên phải (số 91) |(hv) Phiến",
     "kunyomi": [
       "かた-",
       "かた"
@@ -324,39 +324,39 @@
       {
         "example": "片",
         "reading": "ヘン",
-        "meaning": "counter for scraps, fragments, petals, etc."
+        "meaning": "counter for scraps, fragments, petals, etc. |(vi) lượng từ đếm mảnh vụn, cánh hoa..."
       },
       {
         "example": "片時",
         "reading": "カタトキ",
-        "meaning": "a (single) moment, an instant"
+        "meaning": "a (single) moment, an instant |(vi) khoảnh khắc, chốc lát"
       },
       {
         "example": "紙片",
         "reading": "シヘン",
-        "meaning": "piece (scrap, bit, strip) of paper"
+        "meaning": "piece (scrap, bit, strip) of paper |(vi) mảnh giấy"
       },
       {
         "example": "砕片",
         "reading": "サイヘン",
-        "meaning": "debris"
+        "meaning": "debris |(vi) mảnh vỡ, vụn vỡ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "片",
         "reading": "かた",
-        "meaning": "one (of a pair), incomplete, imperfect, fragmentary, few, little, off-centre, remote, side, problem, question, matters"
+        "meaning": "one (of a pair), incomplete, imperfect, fragmentary, few, little, off-centre, remote, side, problem, question, matters |(vi) một (trong cặp), không trọn vẹn, ít ỏi, lệch, xa xôi, vấn đề"
       },
       {
         "example": "片側",
         "reading": "かたがわ",
-        "meaning": "one side"
+        "meaning": "one side |(vi) một bên"
       }
     ],
     "radical": {
       "symbol": "片",
-      "meaning": "slice"
+      "meaning": "slice |(vi) Phiến (mảnh, lát)"
     },
     "parts": [
       "片"

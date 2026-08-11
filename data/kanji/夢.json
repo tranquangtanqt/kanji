@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 6,
     "kunyomi": "yume",
-    "meaning": "dream",
+    "meaning": "dream |(vi) giấc mơ",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "夢中で（むちゅうで）",
         "meaning": {
-          "english": "be absorbed, be engrossed"
+          "english": "be absorbed, be engrossed |(vi) say mê, mải mê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yume_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "夢想家（むそうか）",
         "meaning": {
-          "english": "dreamer"
+          "english": "dreamer |(vi) kẻ mộng mơ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yume_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "悪夢（あくむ）",
         "meaning": {
-          "english": "nightmare"
+          "english": "nightmare |(vi) ác mộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yume_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "夢（ゆめ）",
         "meaning": {
-          "english": "dream [n.]"
+          "english": "dream [n.] |(vi) giấc mơ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yume_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "初夢（はつゆめ）",
         "meaning": {
-          "english": "first dream of the year"
+          "english": "first dream of the year |(vi) giấc mơ đầu năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yume_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "正夢（まさゆめ）",
         "meaning": {
-          "english": "dream that comes true"
+          "english": "dream that comes true |(vi) giấc mơ thành hiện thực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yume_06_f.opus",
@@ -200,7 +200,7 @@
     "kanji": {
       "character": "夢",
       "meaning": {
-        "english": "dream"
+        "english": "dream |(vi) giấc mơ"
       },
       "strokes": {
         "count": 13,
@@ -264,7 +264,7 @@
         "romaji": "yuube"
       },
       "meaning": {
-        "english": "evening"
+        "english": "evening |(vi) Tịch (buổi tối)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yuube0.svg",
@@ -285,7 +285,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "943",
     "strokeCount": 13,
-    "meaning": "dream, vision, illusion",
+    "meaning": "dream, vision, illusion |(vi) giấc mơ, ảo tưởng, ảo ảnh |(hv) Mộng",
     "kunyomi": [
       "ゆめ",
       "ゆめ.みる",
@@ -299,54 +299,54 @@
       {
         "example": "夢中",
         "reading": "ムチュウ",
-        "meaning": "absorbed in, immersed in, crazy about, obsessed with, devoted to, forgetting oneself, daze, trance, ecstasy, delirium, within a dream, while dreaming"
+        "meaning": "absorbed in, immersed in, crazy about, obsessed with, devoted to, forgetting oneself, daze, trance, ecstasy, delirium, within a dream, while dreaming |(vi) mải mê, say sưa, cuồng nhiệt, ám ảnh, quên bản thân, trạng thái ngây ngất, mê sảng, trong mơ, đang mơ"
       },
       {
         "example": "夢想",
         "reading": "ムソウ",
-        "meaning": "dream, vision, reverie"
+        "meaning": "dream, vision, reverie |(vi) giấc mơ, ảo tưởng, sự mộng mơ"
       },
       {
         "example": "同床異夢",
         "reading": "ドウショウイム",
-        "meaning": "cohabiting but living in different worlds"
+        "meaning": "cohabiting but living in different worlds |(vi) cùng chăn nhưng khác mộng (đồng sàng dị mộng)"
       },
       {
         "example": "怪夢",
         "reading": "カイム",
-        "meaning": "strange dream"
+        "meaning": "strange dream |(vi) giấc mơ kỳ lạ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "夢",
         "reading": "ゆめ",
-        "meaning": "dream"
+        "meaning": "dream |(vi) giấc mơ"
       },
       {
         "example": "夢にも",
         "reading": "ゆめにも",
-        "meaning": "(not) in the slightest, (not) at all"
+        "meaning": "(not) in the slightest, (not) at all |(vi) không hề, tuyệt nhiên không"
       },
       {
         "example": "初夢",
         "reading": "はつゆめ",
-        "meaning": "first dream of the New year (believed to foretell one's luck), dream on the night of setsubun"
+        "meaning": "first dream of the New year (believed to foretell one's luck), dream on the night of setsubun |(vi) giấc mơ đầu năm mới (được cho là báo trước vận may), giấc mơ đêm tiết phân"
       },
       {
         "example": "逆夢",
         "reading": "さかゆめ",
-        "meaning": "a dream which is contradicted by reality"
+        "meaning": "a dream which is contradicted by reality |(vi) giấc mơ trái ngược với thực tế"
       },
       {
         "example": "夢見る",
         "reading": "ゆめみる",
-        "meaning": "to dream (of)"
+        "meaning": "to dream (of) |(vi) mơ (về), mơ thấy"
       }
     ],
     "radical": {
       "symbol": "夕",
-      "meaning": "evening, sunset"
+      "meaning": "evening, sunset |(vi) Tịch (buổi tối, hoàng hôn)"
     },
     "parts": [
       "冖",

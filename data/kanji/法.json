@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "law, method",
+    "meaning": "law, method |(vi) pháp luật, phương pháp",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "法則（ほうそく）",
         "meaning": {
-          "english": "law, principle, theorem"
+          "english": "law, principle, theorem |(vi) quy luật, nguyên lý, định lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-nori_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "法律（ほうりつ）",
         "meaning": {
-          "english": "law"
+          "english": "law |(vi) luật pháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-nori_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "法律学（ほうりつがく）",
         "meaning": {
-          "english": "jurisprudence"
+          "english": "jurisprudence |(vi) luật học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-nori_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "文法（ぶんぽう）",
         "meaning": {
-          "english": "grammar"
+          "english": "grammar |(vi) ngữ pháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-nori_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "方法（ほうほう）",
         "meaning": {
-          "english": "method"
+          "english": "method |(vi) phương pháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-nori_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "憲法（けんぽう）",
         "meaning": {
-          "english": "constitution"
+          "english": "constitution |(vi) hiến pháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-nori_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "御法度（ごはっと）",
         "meaning": {
-          "english": "taboo"
+          "english": "taboo |(vi) điều cấm kỵ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-nori_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "法華宗（ほっけしゅう）",
         "meaning": {
-          "english": "Hokke sect of Buddhism"
+          "english": "Hokke sect of Buddhism |(vi) tông phái Pháp Hoa (Phật giáo)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-nori_06_h.opus",
@@ -236,7 +236,7 @@
     "kanji": {
       "character": "法",
       "meaning": {
-        "english": "law, method"
+        "english": "law, method |(vi) pháp luật, phương pháp"
       },
       "strokes": {
         "count": 8,
@@ -290,7 +290,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -311,7 +311,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "100",
     "strokeCount": 8,
-    "meaning": "method, law, rule, principle, model, system",
+    "meaning": "method, law, rule, principle, model, system |(vi) phương pháp, luật pháp, quy tắc, nguyên lý, khuôn mẫu, chế độ |(hv) Pháp",
     "kunyomi": [
       "のり"
     ],
@@ -325,64 +325,64 @@
       {
         "example": "法",
         "reading": "ホウ",
-        "meaning": "law, act, principle, method, mood, dharma, law"
+        "meaning": "law, act, principle, method, mood, dharma, law |(vi) pháp luật, đạo luật, nguyên lý, phương pháp, pháp (Phật giáo)"
       },
       {
         "example": "法案",
         "reading": "ホウアン",
-        "meaning": "bill (law), measure"
+        "meaning": "bill (law), measure |(vi) dự luật, biện pháp"
       },
       {
         "example": "航法",
         "reading": "コウホウ",
-        "meaning": "sailing, navigation"
+        "meaning": "sailing, navigation |(vi) hàng hải, dẫn đường"
       },
       {
         "example": "会社更生法",
         "reading": "カイシャコウセイホウ",
-        "meaning": "Corporate Reorganization Act"
+        "meaning": "Corporate Reorganization Act |(vi) Luật Phục hồi Công ty"
       },
       {
         "example": "法被",
         "reading": "ハッピ",
-        "meaning": "happi coat, happy coat, workman's livery coat, traditional Japanese straight-sleeved coat"
+        "meaning": "happi coat, happy coat, workman's livery coat, traditional Japanese straight-sleeved coat |(vi) áo happi (áo khoác lao động truyền thống Nhật Bản)"
       },
       {
         "example": "法度",
         "reading": "ハット",
-        "meaning": "ban, prohibition, taboo, something forbidden, law, ordinance (esp. in the middle ages)"
+        "meaning": "ban, prohibition, taboo, something forbidden, law, ordinance (esp. in the middle ages) |(vi) điều cấm, lệnh cấm (thời trung cổ)"
       },
       {
         "example": "法師",
         "reading": "ホウシ",
-        "meaning": "Buddhist priest, bonze, layman dressed like a priest, person"
+        "meaning": "Buddhist priest, bonze, layman dressed like a priest, person |(vi) pháp sư, nhà sư"
       },
       {
         "example": "法華経",
         "reading": "ホケキョウ",
-        "meaning": "Lotus Sutra"
+        "meaning": "Lotus Sutra |(vi) Kinh Pháp Hoa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "法",
         "reading": "のり",
-        "meaning": "rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope"
+        "meaning": "rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope |(vi) quy tắc, luật lệ, giáo lý Phật đà, độ dốc, kích thước ngang"
       },
       {
         "example": "法の筵",
         "reading": "のりのむしろ",
-        "meaning": "preaching place"
+        "meaning": "preaching place |(vi) nơi thuyết pháp"
       },
       {
         "example": "内法",
         "reading": "うちのり",
-        "meaning": "inside measure"
+        "meaning": "inside measure |(vi) kích thước bên trong"
       },
       {
         "example": "外法",
         "reading": "そとのり",
-        "meaning": "outside measurements"
+        "meaning": "outside measurements |(vi) kích thước bên ngoài"
       }
     ],
     "radical": {
@@ -391,7 +391,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "厶",

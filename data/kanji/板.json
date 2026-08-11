@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "ita",
-    "meaning": "board, plate",
+    "meaning": "board, plate |(vi) tấm ván, tấm bảng",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "黒板（こくばん）",
         "meaning": {
-          "english": "blackboard"
+          "english": "blackboard |(vi) bảng đen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ita_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "看板（かんばん）",
         "meaning": {
-          "english": "signboard, billboard"
+          "english": "signboard, billboard |(vi) biển hiệu, bảng quảng cáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ita_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "掲示板（けいじばん）",
         "meaning": {
-          "english": "bulletin board, clipboard"
+          "english": "bulletin board, clipboard |(vi) bảng thông báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ita_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "鉄板（てっぱん）",
         "meaning": {
-          "english": "iron plate"
+          "english": "iron plate |(vi) tấm sắt, vỉ sắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ita_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "甲板（かんぱん）",
         "meaning": {
-          "english": "deck"
+          "english": "deck |(vi) boong tàu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ita_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "板（いた）",
         "meaning": {
-          "english": "board, plank"
+          "english": "board, plank |(vi) tấm ván"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ita_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "板前（いたまえ）",
         "meaning": {
-          "english": "chef, cook"
+          "english": "chef, cook |(vi) đầu bếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ita_06_g.opus",
@@ -188,7 +188,7 @@
     "kanji": {
       "character": "板",
       "meaning": {
-        "english": "board, plate"
+        "english": "board, plate |(vi) tấm ván, tấm bảng"
       },
       "strokes": {
         "count": 8,
@@ -242,7 +242,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -263,7 +263,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "926",
     "strokeCount": 8,
-    "meaning": "plank, board, plate, stage",
+    "meaning": "plank, board, plate, stage |(vi) tấm ván, bảng, tấm, sân khấu |(hv) Bản",
     "kunyomi": [
       "いた"
     ],
@@ -275,69 +275,69 @@
       {
         "example": "板門店",
         "reading": "パンムンジョム",
-        "meaning": "Panmunjom (Korea), Panmunjeom, Joint Security Area (Korean Demilitarized Zone)"
+        "meaning": "Panmunjom (Korea), Panmunjeom, Joint Security Area (Korean Demilitarized Zone) |(vi) Bàn Môn Điếm (Hàn Quốc), khu an ninh chung (khu phi quân sự Triều Tiên)"
       },
       {
         "example": "版画",
         "reading": "ハンガ",
-        "meaning": "woodcut, woodblock print, art print"
+        "meaning": "woodcut, woodblock print, art print |(vi) tranh khắc gỗ, bản in nghệ thuật"
       },
       {
         "example": "合板",
         "reading": "ゴウハン",
-        "meaning": "veneer board, plywood, joint publication"
+        "meaning": "veneer board, plywood, joint publication |(vi) ván ép, gỗ dán"
       },
       {
         "example": "鋼板",
         "reading": "コウハン",
-        "meaning": "steel sheet, steel plate"
+        "meaning": "steel sheet, steel plate |(vi) tấm thép"
       },
       {
         "example": "版木",
         "reading": "ハンギ",
-        "meaning": "(printing) block, woodcut"
+        "meaning": "(printing) block, woodcut |(vi) bản khắc gỗ (in ấn)"
       },
       {
         "example": "板金",
         "reading": "バンキン",
-        "meaning": "sheet metal, metal plate"
+        "meaning": "sheet metal, metal plate |(vi) tấm kim loại, gò kim loại"
       },
       {
         "example": "降板",
         "reading": "コウバン",
-        "meaning": "leaving the mound, being knocked out, resignation, stepping down, withdrawing"
+        "meaning": "leaving the mound, being knocked out, resignation, stepping down, withdrawing |(vi) rời khỏi ụ ném bóng (bóng chày), bị thay ra, từ chức, rút lui"
       },
       {
         "example": "鋼板",
         "reading": "コウハン",
-        "meaning": "steel sheet, steel plate"
+        "meaning": "steel sheet, steel plate |(vi) tấm thép"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "板",
         "reading": "いた",
-        "meaning": "board, plank, sheet (of metal), plate (of glass), pane, slab, cutting board, chopping board, chef (esp. of high-end Japanese cuisine), cook, stage (i.e. at a theatre)"
+        "meaning": "board, plank, sheet (of metal), plate (of glass), pane, slab, cutting board, chopping board, chef (esp. of high-end Japanese cuisine), cook, stage (i.e. at a theatre) |(vi) tấm ván, tấm gỗ, tấm kim loại, tấm kính, thớt, đầu bếp (đặc biệt món Nhật cao cấp), sân khấu (nhà hát)"
       },
       {
         "example": "板ガラス",
         "reading": "いたガラス",
-        "meaning": "plate glass, sheet glass"
+        "meaning": "plate glass, sheet glass |(vi) kính tấm"
       },
       {
         "example": "まな板",
         "reading": "まないた",
-        "meaning": "chopping board, cutting board, flat chest, tiny breasts"
+        "meaning": "chopping board, cutting board, flat chest, tiny breasts |(vi) thớt, ngực phẳng (tiếng lóng)"
       },
       {
         "example": "厚板",
         "reading": "あついた",
-        "meaning": "thick board, plank, steel plate (with a thickness of at least 3 mm), heavy brocade cloth, Elaphoglossum yoshinagae (species of fern)"
+        "meaning": "thick board, plank, steel plate (with a thickness of at least 3 mm), heavy brocade cloth, Elaphoglossum yoshinagae (species of fern) |(vi) tấm ván dày, tấm thép dày (từ 3mm trở lên), vải gấm dày, một loại dương xỉ"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây)"
     },
     "parts": [
       "厂",

@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ya",
-    "meaning": "arrow",
+    "meaning": "arrow |(vi) mũi tên",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "一矢（いっし）",
         "meaning": {
-          "english": "an arrow, a retort"
+          "english": "an arrow, a retort |(vi) một mũi tên, lời đáp trả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ya_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "矢（や）",
         "meaning": {
-          "english": "arrow"
+          "english": "arrow |(vi) mũi tên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ya_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "矢印（やじるし）",
         "meaning": {
-          "english": "directional arrow"
+          "english": "directional arrow |(vi) mũi tên chỉ hướng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ya_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "矢先（やさき）",
         "meaning": {
-          "english": "arrowhead, brunt, target"
+          "english": "arrowhead, brunt, target |(vi) đầu mũi tên, ngay lúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ya_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "弓矢（ゆみや）",
         "meaning": {
-          "english": "bow and arrow"
+          "english": "bow and arrow |(vi) cung tên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ya_06_e.opus",
@@ -163,7 +163,7 @@
     "kanji": {
       "character": "矢",
       "meaning": {
-        "english": "arrow"
+        "english": "arrow |(vi) mũi tên"
       },
       "strokes": {
         "count": 5,
@@ -211,7 +211,7 @@
         "romaji": "ya"
       },
       "meaning": {
-        "english": "arrow"
+        "english": "arrow |(vi) Thỉ (mũi tên)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ya0.svg",
@@ -232,7 +232,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1294",
     "strokeCount": 5,
-    "meaning": "dart, arrow",
+    "meaning": "dart, arrow |(vi) phi tiêu, mũi tên |(hv) Thỉ",
     "kunyomi": [
       "や"
     ],
@@ -243,49 +243,49 @@
       {
         "example": "矢状",
         "reading": "シジョウ",
-        "meaning": "sagittal"
+        "meaning": "sagittal |(vi) hình mũi tên (giải phẫu)"
       },
       {
         "example": "矢状縫合",
         "reading": "シジョウホウゴウ",
-        "meaning": "sagittal suture"
+        "meaning": "sagittal suture |(vi) đường khớp dọc (hộp sọ)"
       },
       {
         "example": "弓矢",
         "reading": "ユミヤ",
-        "meaning": "bow and arrow, weapon, arms"
+        "meaning": "bow and arrow, weapon, arms |(vi) cung tên, vũ khí"
       },
       {
         "example": "嚆矢",
         "reading": "コウシ",
-        "meaning": "whistling arrow used to signal the start of battle, start (e.g. of a movement), beginning, dawn"
+        "meaning": "whistling arrow used to signal the start of battle, start (e.g. of a movement), beginning, dawn |(vi) tên hiệu mở đầu trận đánh; khởi đầu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "矢",
         "reading": "や",
-        "meaning": "arrow, wedge, chock"
+        "meaning": "arrow, wedge, chock |(vi) mũi tên, cái nêm"
       },
       {
         "example": "矢先",
         "reading": "やさき",
-        "meaning": "arrowhead, target of a flying arrow, brunt (of an attack), the very moment (when), the point (of doing)"
+        "meaning": "arrowhead, target of a flying arrow, brunt (of an attack), the very moment (when), the point (of doing) |(vi) đầu mũi tên, đúng lúc, mũi nhọn (của cuộc tấn công)"
       },
       {
         "example": "弓矢",
         "reading": "ゆみや",
-        "meaning": "bow and arrow, weapon, arms"
+        "meaning": "bow and arrow, weapon, arms |(vi) cung tên, vũ khí"
       },
       {
         "example": "洗い矢",
         "reading": "あらいや",
-        "meaning": "ramrod, cleaning rod"
+        "meaning": "ramrod, cleaning rod |(vi) que thông nòng súng"
       }
     ],
     "radical": {
       "symbol": "矢",
-      "meaning": "arrow"
+      "meaning": "arrow |(vi) Thỉ (mũi tên)"
     },
     "parts": [
       "ノ",

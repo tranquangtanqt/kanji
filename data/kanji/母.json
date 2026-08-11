@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "haha",
-    "meaning": "mother",
+    "meaning": "mother |(vi) mẹ",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "母国語（ぼこくご）",
         "meaning": {
-          "english": "mother tongue"
+          "english": "mother tongue |(vi) tiếng mẹ đẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "母音（ぼいん）",
         "meaning": {
-          "english": "vowel"
+          "english": "vowel |(vi) nguyên âm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "母校（ぼこう）",
         "meaning": {
-          "english": "alma mater"
+          "english": "alma mater |(vi) trường cũ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "祖母（そぼ）",
         "meaning": {
-          "english": "grandmother"
+          "english": "grandmother |(vi) bà (nội/ngoại)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "母（はは）",
         "meaning": {
-          "english": "one's own mother"
+          "english": "one's own mother |(vi) mẹ (cách gọi khiêm tốn)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "母親（ははおや）",
         "meaning": {
-          "english": "mother"
+          "english": "mother |(vi) mẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "*お母さん（おかあさん）",
         "meaning": {
-          "english": "mother [hon.]"
+          "english": "mother [hon.] |(vi) mẹ (cách gọi kính trọng)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_g.opus",
@@ -240,7 +240,7 @@
     "kanji": {
       "character": "母",
       "meaning": {
-        "english": "mother"
+        "english": "mother |(vi) mẹ"
       },
       "strokes": {
         "count": 5,
@@ -288,7 +288,7 @@
         "romaji": "nakare"
       },
       "meaning": {
-        "english": "not, mother"
+        "english": "not, mother |(vi) Mẫu (mẹ, chớ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nakare0.svg",
@@ -309,7 +309,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "570",
     "strokeCount": 5,
-    "meaning": "mother",
+    "meaning": "mother |(vi) mẹ |(hv) Mẫu",
     "kunyomi": [
       "はは",
       "も"
@@ -321,64 +321,64 @@
       {
         "example": "母国",
         "reading": "ボコク",
-        "meaning": "one's home country, one's homeland"
+        "meaning": "one's home country, one's homeland |(vi) quê hương, tổ quốc"
       },
       {
         "example": "母校",
         "reading": "ボコウ",
-        "meaning": "alma mater"
+        "meaning": "alma mater |(vi) trường cũ"
       },
       {
         "example": "養父母",
         "reading": "ヨウフボ",
-        "meaning": "adoptive parents"
+        "meaning": "adoptive parents |(vi) cha mẹ nuôi"
       },
       {
         "example": "空母",
         "reading": "クウボ",
-        "meaning": "aircraft carrier"
+        "meaning": "aircraft carrier |(vi) tàu sân bay"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "母",
         "reading": "はは",
-        "meaning": "mother"
+        "meaning": "mother |(vi) mẹ"
       },
       {
         "example": "母親",
         "reading": "ははおや",
-        "meaning": "mother"
+        "meaning": "mother |(vi) mẹ"
       },
       {
         "example": "必要は発明の母",
         "reading": "ひつようははつめいのはは",
-        "meaning": "necessity is the mother of invention"
+        "meaning": "necessity is the mother of invention |(vi) cái khó ló cái khôn (nhu cầu là mẹ của phát minh)"
       },
       {
         "example": "失敗は成功の母",
         "reading": "しっぱいはせいこうのはは",
-        "meaning": "failure is the mother of success"
+        "meaning": "failure is the mother of success |(vi) thất bại là mẹ thành công"
       },
       {
         "example": "母屋",
         "reading": "もや",
-        "meaning": "purlin (structural beam in a roof), purline, main building (of a manor), central room (in traditional palatial-style architecture)"
+        "meaning": "purlin (structural beam in a roof), purline, main building (of a manor), central room (in traditional palatial-style architecture) |(vi) xà nhà, nhà chính (kiến trúc truyền thống)"
       },
       {
         "example": "母屋桁",
         "reading": "もやげた",
-        "meaning": "purlin (structural beam in a roof), purline"
+        "meaning": "purlin (structural beam in a roof), purline |(vi) xà đòn tay (kết cấu mái nhà)"
       },
       {
         "example": "雲母",
         "reading": "うんも",
-        "meaning": "mica, isinglass"
+        "meaning": "mica, isinglass |(vi) mica, đá vân mẫu"
       },
       {
         "example": "乳母",
         "reading": "うば",
-        "meaning": "wet nurse, nursing mother"
+        "meaning": "wet nurse, nursing mother |(vi) vú nuôi, bảo mẫu"
       }
     ],
     "radical": {
@@ -387,7 +387,7 @@
         "母",
         "⺟"
       ],
-      "meaning": "mother, do not"
+      "meaning": "mother, do not |(vi) Mẫu (mẹ, chớ)"
     },
     "parts": [
       "毋",

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "ka, kawaru, kawari, kaeru",
-    "meaning": "change, abnormal",
+    "meaning": "change, abnormal |(vi) thay đổi, bất thường",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "変化する（へんかする）",
         "meaning": {
-          "english": "change"
+          "english": "change |(vi) biến đổi, thay đổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-ka(waru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "変動する（へんどうする）",
         "meaning": {
-          "english": "fluctuate"
+          "english": "fluctuate |(vi) biến động, dao động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-ka(waru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "変更する（へんこうする）",
         "meaning": {
-          "english": "change, modify"
+          "english": "change, modify |(vi) thay đổi, sửa đổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-ka(waru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "変な（へんな）",
         "meaning": {
-          "english": "strange"
+          "english": "strange |(vi) kỳ lạ, khác thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-ka(waru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "大変な（たいへんな）",
         "meaning": {
-          "english": "terrible"
+          "english": "terrible |(vi) khủng khiếp, ghê gớm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-ka(waru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "異変（いへん）",
         "meaning": {
-          "english": "accident"
+          "english": "accident |(vi) sự bất thường, biến cố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-ka(waru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "変わる（かわる）",
         "meaning": {
-          "english": "change [v.i.]"
+          "english": "change [v.i.] |(vi) thay đổi (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-ka(waru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "変える（かえる）",
         "meaning": {
-          "english": "change [v.t.]"
+          "english": "change [v.t.] |(vi) thay đổi (ngoại động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-ka(waru)_06_h.opus",
@@ -279,7 +279,7 @@
     "kanji": {
       "character": "変",
       "meaning": {
-        "english": "change, abnormal"
+        "english": "change, abnormal |(vi) thay đổi, bất thường"
       },
       "strokes": {
         "count": 9,
@@ -335,7 +335,7 @@
         "romaji": "nomata"
       },
       "meaning": {
-        "english": "to follow"
+        "english": "to follow |(vi) Chuy (đi chậm, theo sau)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nomata0.svg",
@@ -356,7 +356,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "238",
     "strokeCount": 9,
-    "meaning": "unusual, change, strange",
+    "meaning": "unusual, change, strange |(vi) khác thường, thay đổi, kỳ lạ |(hv) Biến",
     "kunyomi": [
       "か.わる",
       "か.わり",
@@ -369,49 +369,49 @@
       {
         "example": "変",
         "reading": "ヘン",
-        "meaning": "strange, odd, peculiar, weird, curious, eccentric, funny, suspicious, fishy, unexpected, change, incident, disturbance, disaster, accident, emergency, flat"
+        "meaning": "strange, odd, peculiar, weird, curious, eccentric, funny, suspicious, fishy, unexpected, change, incident, disturbance, disaster, accident, emergency, flat |(vi) kỳ lạ, khác thường, lạ lùng, kỳ quái, lập dị, buồn cười, đáng ngờ, khả nghi, bất ngờ, thay đổi, sự cố, biến động, tai họa, tai nạn, khẩn cấp, giáng (nốt nhạc)"
       },
       {
         "example": "変化",
         "reading": "ヘンカ",
-        "meaning": "change, variation, alteration, mutation, transition, transformation, transfiguration, metamorphosis, variety, diversity, inflection, declension, conjugation, sidestepping"
+        "meaning": "change, variation, alteration, mutation, transition, transformation, transfiguration, metamorphosis, variety, diversity, inflection, declension, conjugation, sidestepping |(vi) sự thay đổi, biến đổi, biến hóa, đột biến, chuyển tiếp, biến hình, đa dạng, sự chia (ngữ pháp), biến cách, chia động từ, né tránh"
       },
       {
         "example": "政変",
         "reading": "セイヘン",
-        "meaning": "political disturbance, political change, change of government, political upheaval, overthrowing of a government, coup d'état, coup, revolution"
+        "meaning": "political disturbance, political change, change of government, political upheaval, overthrowing of a government, coup d'état, coup, revolution |(vi) biến động chính trị, thay đổi chính quyền, đảo chính, cách mạng"
       },
       {
         "example": "異変",
         "reading": "イヘン",
-        "meaning": "unusual event, strange occurrence, strange phenomenon, something abnormal, change (for the worse), accident, disaster"
+        "meaning": "unusual event, strange occurrence, strange phenomenon, something abnormal, change (for the worse), accident, disaster |(vi) sự việc khác thường, hiện tượng lạ, điều bất thường, thay đổi (theo hướng xấu), tai nạn, tai họa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "変わる",
         "reading": "かわる",
-        "meaning": "to change, to be transformed, to be altered, to vary, to move to, to be different, to be uncommon, to be unusual"
+        "meaning": "to change, to be transformed, to be altered, to vary, to move to, to be different, to be uncommon, to be unusual |(vi) thay đổi, biến đổi, biến hóa, khác biệt, khác thường, bất thường"
       },
       {
         "example": "変わり",
         "reading": "かわり",
-        "meaning": "change, alteration, difference, distinction, something wrong, abnormality, unusual event, accident, incident"
+        "meaning": "change, alteration, difference, distinction, something wrong, abnormality, unusual event, accident, incident |(vi) thay đổi, biến đổi, khác biệt, điều bất thường, sự cố, tai nạn"
       },
       {
         "example": "変わり種",
         "reading": "かわりだね",
-        "meaning": "something out of the ordinary, variant, variety, exception, novelty, person with an unusual character or background, unique figure, exceptional type, eccentric, oddball"
+        "meaning": "something out of the ordinary, variant, variety, exception, novelty, person with an unusual character or background, unique figure, exceptional type, eccentric, oddball |(vi) điều khác thường, biến thể, ngoại lệ, mới lạ, người có tính cách hoặc xuất thân khác thường, nhân vật độc đáo, kiểu người đặc biệt, người lập dị"
       },
       {
         "example": "変える",
         "reading": "かえる",
-        "meaning": "to change, to alter, to transform, to convert, to turn, to vary, to reform, to revise, to amend"
+        "meaning": "to change, to alter, to transform, to convert, to turn, to vary, to reform, to revise, to amend |(vi) thay đổi, biến đổi, chuyển hóa, cải cách, sửa đổi, tu chỉnh"
       }
     ],
     "radical": {
       "symbol": "夂",
-      "meaning": "go"
+      "meaning": "go |(vi) Chuy (đi chậm, theo sau)"
     },
     "parts": [
       "亠",

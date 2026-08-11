@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "moto",
-    "meaning": "basis, book, this",
+    "meaning": "basis, book, this |(vi) gốc, sách, này",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "本（ほん）",
         "meaning": {
-          "english": "book"
+          "english": "book |(vi) sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hon-moto_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "本日（ほんじつ）",
         "meaning": {
-          "english": "today"
+          "english": "today |(vi) hôm nay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hon-moto_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "本店（ほんてん）",
         "meaning": {
-          "english": "head office"
+          "english": "head office |(vi) trụ sở chính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hon-moto_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "本当に（ほんとうに）",
         "meaning": {
-          "english": "really"
+          "english": "really |(vi) thực sự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hon-moto_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "基本（きほん）",
         "meaning": {
-          "english": "basis"
+          "english": "basis |(vi) cơ bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hon-moto_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "絵本（えほん）",
         "meaning": {
-          "english": "picture book"
+          "english": "picture book |(vi) sách tranh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hon-moto_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "日本（にほん）",
         "meaning": {
-          "english": "Japan"
+          "english": "Japan |(vi) Nhật Bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hon-moto_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "日本語（にほんご）",
         "meaning": {
-          "english": "Japanese language"
+          "english": "Japanese language |(vi) tiếng Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hon-moto_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "三本（さんぼん）",
         "meaning": {
-          "english": "3 (long cylindrical objects)"
+          "english": "3 (long cylindrical objects) |(vi) 3 (vật hình trụ dài)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hon-moto_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "六本（ろっぽん）",
         "meaning": {
-          "english": "6 (long cylindrical objects)"
+          "english": "6 (long cylindrical objects) |(vi) 6 (vật hình trụ dài)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hon-moto_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "十本（じゅっぽん）",
         "meaning": {
-          "english": "10 (long cylindrical objects)"
+          "english": "10 (long cylindrical objects) |(vi) 10 (vật hình trụ dài)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hon-moto_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "山本（やまもと）",
         "meaning": {
-          "english": "Yamamoto (surname)"
+          "english": "Yamamoto (surname) |(vi) Yamamoto (họ người)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hon-moto_06_l.opus",
@@ -302,7 +302,7 @@
     "kanji": {
       "character": "本",
       "meaning": {
-        "english": "basis, book, this"
+        "english": "basis, book, this |(vi) gốc, sách, này"
       },
       "strokes": {
         "count": 5,
@@ -350,7 +350,7 @@
         "romaji": "ki"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây, gỗ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ki0.svg",
@@ -371,7 +371,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "10",
     "strokeCount": 5,
-    "meaning": "book, present, main, origin, true, real, counter for long cylindrical things",
+    "meaning": "book, present, main, origin, true, real, counter for long cylindrical things |(vi) sách, hiện tại, chính, gốc, thật, thực, lượng từ cho vật hình trụ dài |(hv) Bản",
     "kunyomi": [
       "もと"
     ],
@@ -382,49 +382,49 @@
       {
         "example": "本",
         "reading": "ホン",
-        "meaning": "book, volume, script, this, present, current, ... in question, ... at issue, main, head, principal, real, genuine, regular, proper, counter for long, cylindrical things, counter for films, TV shows, etc., counter for goals, home runs, etc., counter for telephone calls"
+        "meaning": "book, volume, script, this, present, current, ... in question, ... at issue, main, head, principal, real, genuine, regular, proper, counter for long, cylindrical things, counter for films, TV shows, etc., counter for goals, home runs, etc., counter for telephone calls |(vi) sách, quyển, kịch bản, này, hiện tại, đang nói đến, chính, đầu, chính yếu, thật, thật sự, chính quy, lượng từ cho vật hình trụ dài, lượng từ cho phim, chương trình TV, lượng từ cho bàn thắng, home run, lượng từ cho cuộc điện thoại"
       },
       {
         "example": "本位",
         "reading": "ホンイ",
-        "meaning": "standard, basis, principle"
+        "meaning": "standard, basis, principle |(vi) tiêu chuẩn, cơ sở, nguyên tắc"
       },
       {
         "example": "社会資本",
         "reading": "シャカイシホン",
-        "meaning": "social capital, SOC"
+        "meaning": "social capital, SOC |(vi) vốn xã hội, SOC"
       },
       {
         "example": "配本",
         "reading": "ハイホン",
-        "meaning": "distribution of books"
+        "meaning": "distribution of books |(vi) phân phối sách"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "元",
         "reading": "もと",
-        "meaning": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry)"
+        "meaning": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry) |(vi) nguồn gốc, khởi đầu, cơ sở, nền tảng, gốc rễ, nguyên nhân, nguyên liệu, thành phần, nước dùng, phía (mình), vốn, tiền vốn, giá gốc, rễ (cây), thân (cây), phần cầm tay (bút lông, đũa), lượng từ cho cây, lượng từ cho chim ưng (thuật săn chim ưng)"
       },
       {
         "example": "本木",
         "reading": "もとき",
-        "meaning": "original stock"
+        "meaning": "original stock |(vi) gốc giống, cây gốc"
       },
       {
         "example": "大本",
         "reading": "おおもと",
-        "meaning": "root, origin, source, cause, basis, foundation, Ōmoto (religion)"
+        "meaning": "root, origin, source, cause, basis, foundation, Ōmoto (religion) |(vi) gốc rễ, cội nguồn, nguyên nhân, cơ sở, nền tảng, đạo Ōmoto"
       },
       {
         "example": "旗本",
         "reading": "はたもと",
-        "meaning": "shogunal vassal, direct retainer of a shogun"
+        "meaning": "shogunal vassal, direct retainer of a shogun |(vi) gia thần trực thuộc mạc phủ, thuộc hạ trực tiếp của tướng quân"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây)"
     },
     "parts": [
       "一",

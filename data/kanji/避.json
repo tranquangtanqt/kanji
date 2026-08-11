@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "sa, sakeru",
-    "meaning": "avoid",
+    "meaning": "avoid |(vi) tránh, né tránh",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "避暑地（ひしょち）",
         "meaning": {
-          "english": "summer resort"
+          "english": "summer resort |(vi) khu nghỉ mát tránh nóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-sa(keru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "避雷針（ひらいしん）",
         "meaning": {
-          "english": "lightning rod"
+          "english": "lightning rod |(vi) cột thu lôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-sa(keru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "不可避な（ふかひな）",
         "meaning": {
-          "english": "inevitable, inescapable"
+          "english": "inevitable, inescapable |(vi) không thể tránh khỏi, tất yếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-sa(keru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "避難する（ひなんする）",
         "meaning": {
-          "english": "seek refuge, find shelter"
+          "english": "seek refuge, find shelter |(vi) lánh nạn, tìm nơi trú ẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-sa(keru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "避妊する（ひにんする）",
         "meaning": {
-          "english": "use contraception"
+          "english": "use contraception |(vi) tránh thai, ngừa thai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-sa(keru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "逃避する（とうひする）",
         "meaning": {
-          "english": "escape, evade"
+          "english": "escape, evade |(vi) trốn tránh, lẩn tránh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-sa(keru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "回避する（かいひする）",
         "meaning": {
-          "english": "avoid, evade"
+          "english": "avoid, evade |(vi) né tránh, tránh né"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-sa(keru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "避ける（さける）",
         "meaning": {
-          "english": "avoid, ward off, avert"
+          "english": "avoid, ward off, avert |(vi) tránh, né, ngăn ngừa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-sa(keru)_06_h.opus",
@@ -210,7 +210,7 @@
     "kanji": {
       "character": "避",
       "meaning": {
-        "english": "avoid"
+        "english": "avoid |(vi) tránh, né tránh"
       },
       "strokes": {
         "count": 16,
@@ -280,7 +280,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đường đi, bước đi, tiến tới)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -301,7 +301,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "756",
     "strokeCount": 16,
-    "meaning": "evade, avoid, avert, ward off, shirk, shun",
+    "meaning": "evade, avoid, avert, ward off, shirk, shun |(vi) né tránh, tránh, ngăn ngừa, chống đỡ, trốn tránh, xa lánh |(hv) Tị",
     "kunyomi": [
       "さ.ける",
       "よ.ける"
@@ -313,34 +313,34 @@
       {
         "example": "避難民",
         "reading": "ヒナンミン",
-        "meaning": "evacuees, displaced persons, refugees"
+        "meaning": "evacuees, displaced persons, refugees |(vi) người sơ tán, người tị nạn"
       },
       {
         "example": "避難",
         "reading": "ヒナン",
-        "meaning": "taking refuge, finding shelter, evacuation, escape, seeking safe haven"
+        "meaning": "taking refuge, finding shelter, evacuation, escape, seeking safe haven |(vi) lánh nạn, sơ tán, trú ẩn"
       },
       {
         "example": "不可避",
         "reading": "フカヒ",
-        "meaning": "inevitable, inescapable, unavoidable"
+        "meaning": "inevitable, inescapable, unavoidable |(vi) tất yếu, không thể tránh khỏi"
       },
       {
         "example": "退避",
         "reading": "タイヒ",
-        "meaning": "taking refuge, evacuation, backup (of data)"
+        "meaning": "taking refuge, evacuation, backup (of data) |(vi) lánh nạn, sơ tán, sao lưu (dữ liệu)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "避ける",
         "reading": "さける",
-        "meaning": "to avoid (physical contact with), to avoid (situation), to evade (question, subject), to shirk (one's responsibilities), to ward off, to avert, to put aside, to move out of the way"
+        "meaning": "to avoid (physical contact with), to avoid (situation), to evade (question, subject), to shirk (one's responsibilities), to ward off, to avert, to put aside, to move out of the way |(vi) tránh (tiếp xúc trực tiếp), tránh (tình huống), né tránh (câu hỏi, chủ đề), trốn tránh (trách nhiệm), ngăn ngừa, đề phòng, gạt sang một bên, tránh đường"
       },
       {
         "example": "避ける",
         "reading": "さける",
-        "meaning": "to avoid (physical contact with), to avoid (situation), to evade (question, subject), to shirk (one's responsibilities), to ward off, to avert, to put aside, to move out of the way"
+        "meaning": "to avoid (physical contact with), to avoid (situation), to evade (question, subject), to shirk (one's responsibilities), to ward off, to avert, to put aside, to move out of the way |(vi) tránh (tiếp xúc trực tiếp), tránh (tình huống), né tránh (câu hỏi, chủ đề), trốn tránh (trách nhiệm), ngăn ngừa, đề phòng, gạt sang một bên, tránh đường"
       }
     ],
     "radical": {
@@ -350,7 +350,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, bước đi)"
     },
     "parts": [
       "十",

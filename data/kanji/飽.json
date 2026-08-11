@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "a, akiru, akasu",
-    "meaning": "satiated, get tired of",
+    "meaning": "satiated, get tired of |(vi) no đủ, chán ngấy",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "飽和する（ほうわする）",
         "meaning": {
-          "english": "saturate"
+          "english": "saturate |(vi) bão hòa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-a(kiru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "飽食する（ほうしょくする）",
         "meaning": {
-          "english": "glut oneself, eat well"
+          "english": "glut oneself, eat well |(vi) ăn no nê, ăn thỏa thích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-a(kiru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "飽きる（あきる）",
         "meaning": {
-          "english": "get tired of [v.i.]"
+          "english": "get tired of [v.i.] |(vi) chán, phát ngán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-a(kiru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "飽きっぽい（あきっぽい）",
         "meaning": {
-          "english": "fickle, capricious"
+          "english": "fickle, capricious |(vi) hay chán, dễ thay đổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-a(kiru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "飽き飽きする（あきあきする）",
         "meaning": {
-          "english": "be bored, be sick of"
+          "english": "be bored, be sick of |(vi) chán ngấy, ngán ngẩm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-a(kiru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "飽かす（あかす）",
         "meaning": {
-          "english": "satiate, glut, indulge [v.t.]"
+          "english": "satiate, glut, indulge [v.t.] |(vi) làm cho no chán, thỏa mãn quá mức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-a(kiru)_06_f.opus",
@@ -181,7 +181,7 @@
     "kanji": {
       "character": "飽",
       "meaning": {
-        "english": "satiated, get tired of"
+        "english": "satiated, get tired of |(vi) no đủ, chán ngấy"
       },
       "strokes": {
         "count": 13,
@@ -245,7 +245,7 @@
         "romaji": "shokuhen"
       },
       "meaning": {
-        "english": "food, to eat"
+        "english": "food, to eat |(vi) Thực (ăn, thức ăn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shokuhen0.svg",
@@ -266,7 +266,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1780",
     "strokeCount": 13,
-    "meaning": "sated, tired of, bored, satiate",
+    "meaning": "sated, tired of, bored, satiate |(vi) no đủ, chán, buồn tẻ, thỏa mãn |(hv) Bão",
     "kunyomi": [
       "あ.きる",
       "あ.かす",
@@ -279,34 +279,34 @@
       {
         "example": "飽和",
         "reading": "ホウワ",
-        "meaning": "saturation, satiation"
+        "meaning": "saturation, satiation |(vi) bão hòa, no đủ"
       },
       {
         "example": "飽食",
         "reading": "ホウショク",
-        "meaning": "eating until one is full, eating one's fill, gorging (on), satiation, having adequate food, having all one needs (for daily living), plenty"
+        "meaning": "eating until one is full, eating one's fill, gorging (on), satiation, having adequate food, having all one needs (for daily living), plenty |(vi) ăn no đủ, ăn thỏa thích, sung túc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "飽きる",
         "reading": "あきる",
-        "meaning": "to get tired of, to tire of, to lose interest in, to grow weary of, to get fed up with, to get sick of, to become bored with, to become sated, to become satiated, to have one's fill"
+        "meaning": "to get tired of, to tire of, to lose interest in, to grow weary of, to get fed up with, to get sick of, to become bored with, to become sated, to become satiated, to have one's fill |(vi) chán, ngán, mất hứng thú, phát ngấy"
       },
       {
         "example": "飽かす",
         "reading": "あかす",
-        "meaning": "to bore, to tire, to weary, to stultify, to use lavishly (and without regret)"
+        "meaning": "to bore, to tire, to weary, to stultify, to use lavishly (and without regret) |(vi) làm chán, làm mệt mỏi, dùng thoải mái không tiếc"
       },
       {
         "example": "飽く",
         "reading": "あく",
-        "meaning": "to get tired of, to tire of, to lose interest in, to grow weary of, to get fed up with, to get sick of, to become bored with, to be satisfied, to be sated, to be satiated"
+        "meaning": "to get tired of, to tire of, to lose interest in, to grow weary of, to get fed up with, to get sick of, to become bored with, to be satisfied, to be sated, to be satiated |(vi) chán, ngán, thỏa mãn, no đủ"
       },
       {
         "example": "飽くまでも",
         "reading": "あくまでも",
-        "meaning": "to the end, to the bitter end, to the last, stubbornly, persistently, consistently, to the utmost, after all, it must be remembered, only, purely, simply"
+        "meaning": "to the end, to the bitter end, to the last, stubbornly, persistently, consistently, to the utmost, after all, it must be remembered, only, purely, simply |(vi) đến cùng, kiên quyết, nhất quyết, chỉ đơn thuần"
       }
     ],
     "radical": {
@@ -314,7 +314,7 @@
       "forms": [
         "飠"
       ],
-      "meaning": "eat, food"
+      "meaning": "eat, food |(vi) Thực (ăn, thức ăn)"
     },
     "parts": [
       "勹",

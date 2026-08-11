@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "sort, carry, all, general",
+    "meaning": "sort, carry, all, general |(vi) loại, chở, tất cả, chung",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "諸般（しょはん）",
         "meaning": {
-          "english": "circumstances"
+          "english": "circumstances |(vi) các loại, mọi mặt, tình hình chung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zen)pan_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "一般的な（いっぱんてきな）",
         "meaning": {
-          "english": "common, usual, average"
+          "english": "common, usual, average |(vi) thông thường, phổ biến, chung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zen)pan_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "全般的な（ぜんぱんてきな）",
         "meaning": {
-          "english": "general [adj.]"
+          "english": "general [adj.] |(vi) tổng quát, toàn diện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(zen)pan_06_c.opus",
@@ -141,7 +141,7 @@
     "kanji": {
       "character": "般",
       "meaning": {
-        "english": "sort, carry, all, general"
+        "english": "sort, carry, all, general |(vi) loại, chở, tất cả, chung"
       },
       "strokes": {
         "count": 10,
@@ -199,7 +199,7 @@
         "romaji": "funehen"
       },
       "meaning": {
-        "english": "ship, boat"
+        "english": "ship, boat |(vi) Chu (thuyền)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/funehen0.svg",
@@ -220,7 +220,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "649",
     "strokeCount": 10,
-    "meaning": "carrier, carry, all, general, sort, kind",
+    "meaning": "carrier, carry, all, general, sort, kind |(vi) người chở, chở, tất cả, chung, loại, dạng |(hv) Ban",
     "kunyomi": [],
     "onyomi": [
       "ハン"
@@ -229,28 +229,28 @@
       {
         "example": "般若",
         "reading": "ハンニャ",
-        "meaning": "prajna (wisdom required to attain enlightenment), hannya, mask of a grinning, horned demoness (represents a woman's rage and jealousy), dreadful face (esp. of a woman driven mad by jealousy), terrifying facial expression"
+        "meaning": "prajna (wisdom required to attain enlightenment), hannya, mask of a grinning, horned demoness (represents a woman's rage and jealousy), dreadful face (esp. of a woman driven mad by jealousy), terrifying facial expression |(vi) bát nhã (trí tuệ để đạt giác ngộ), mặt nạ quỷ nữ sừng nhe răng (tượng trưng cơn ghen giận của phụ nữ), gương mặt đáng sợ"
       },
       {
         "example": "汎化",
         "reading": "ハンカ",
-        "meaning": "generalization (psychology, linguistics, etc.)"
+        "meaning": "generalization (psychology, linguistics, etc.) |(vi) sự khái quát hóa (tâm lý học, ngôn ngữ học...)"
       },
       {
         "example": "諸般",
         "reading": "ショハン",
-        "meaning": "various, several"
+        "meaning": "various, several |(vi) nhiều loại, các mặt, mọi thứ"
       },
       {
         "example": "過般",
         "reading": "カハン",
-        "meaning": "some time ago, recently"
+        "meaning": "some time ago, recently |(vi) vừa qua, gần đây, mới đây"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "舟",
-      "meaning": "boat"
+      "meaning": "boat |(vi) Chu (thuyền)"
     },
     "parts": [
       "几",

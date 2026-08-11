@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 5,
     "kunyomi": "mayo, mayou, mayoi",
-    "meaning": "perplexed, get lost",
+    "meaning": "perplexed, get lost |(vi) bối rối, lạc đường",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "迷路（めいろ）",
         "meaning": {
-          "english": "maze, labyrinth, blind alley"
+          "english": "maze, labyrinth, blind alley |(vi) mê cung, ngõ cụt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mayo(u)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "迷信（めいしん）",
         "meaning": {
-          "english": "superstition"
+          "english": "superstition |(vi) mê tín"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mayo(u)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "迷惑な（めいわくな）",
         "meaning": {
-          "english": "annoying, troubling"
+          "english": "annoying, troubling |(vi) phiền phức, gây rắc rối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mayo(u)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "低迷する（ていめいする）",
         "meaning": {
-          "english": "hang low , hover"
+          "english": "hang low , hover |(vi) trì trệ, lơ lửng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mayo(u)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "混迷する（こんめいする）",
         "meaning": {
-          "english": "be confused, be stupefied"
+          "english": "be confused, be stupefied |(vi) bối rối, choáng váng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mayo(u)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "迷う（まよう）",
         "meaning": {
-          "english": "hesitate, be confused [v.i.]"
+          "english": "hesitate, be confused [v.i.] |(vi) do dự, bối rối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mayo(u)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "迷わす（まよわす）",
         "meaning": {
-          "english": "put in doubt, perplex [v.t.]"
+          "english": "put in doubt, perplex [v.t.] |(vi) khiến nghi ngờ, làm bối rối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mayo(u)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "*迷子（まいご）",
         "meaning": {
-          "english": "lost child"
+          "english": "lost child |(vi) trẻ lạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mayo(u)_06_h.opus",
@@ -223,7 +223,7 @@
     "kanji": {
       "character": "迷",
       "meaning": {
-        "english": "perplexed, get lost"
+        "english": "perplexed, get lost |(vi) bối rối, lạc đường"
       },
       "strokes": {
         "count": 9,
@@ -279,7 +279,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đi, tiến bước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -300,7 +300,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "942",
     "strokeCount": 9,
-    "meaning": "astray, be perplexed, in doubt, lost, err, illusion",
+    "meaning": "astray, be perplexed, in doubt, lost, err, illusion |(vi) lạc lối, bối rối, nghi ngờ, mất phương hướng, sai lầm, ảo tưởng |(hv) Mê",
     "kunyomi": [
       "まよ.う"
     ],
@@ -311,29 +311,29 @@
       {
         "example": "迷惑",
         "reading": "メイワク",
-        "meaning": "trouble, bother, annoyance, nuisance, inconvenience, to be troubled (by), to be bothered (by), to be inconvenienced (by)"
+        "meaning": "trouble, bother, annoyance, nuisance, inconvenience, to be troubled (by), to be bothered (by), to be inconvenienced (by) |(vi) phiền toái, rắc rối, gây khó chịu, bất tiện, bị làm phiền (bởi), bị bất tiện (bởi)"
       },
       {
         "example": "迷路",
         "reading": "メイロ",
-        "meaning": "maze, labyrinth, inner ear"
+        "meaning": "maze, labyrinth, inner ear |(vi) mê cung, ngõ cụt, tai trong"
       },
       {
         "example": "混迷",
         "reading": "コンメイ",
-        "meaning": "turmoil, chaos, confusion"
+        "meaning": "turmoil, chaos, confusion |(vi) hỗn loạn, hỗn mang, bối rối"
       },
       {
         "example": "愛迷",
         "reading": "アイメイ",
-        "meaning": "straying from love, falling out of love, lost love"
+        "meaning": "straying from love, falling out of love, lost love |(vi) lạc lối tình yêu, hết yêu, tình yêu tan vỡ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "迷う",
         "reading": "まよう",
-        "meaning": "to lose one's way, to get lost, to go astray, to waver, to hesitate, to vacillate, to be of two minds (about), to be unable to make up one's mind, to not know what to do, to be at a loss, to be puzzled, to be perplexed, to be captivated (by), to be infatuated (with), to be charmed (by), to be carried away (by), to be blinded (by), to be lost (in), to lose oneself (to), to linger (of a departed soul), to be restless in one's grave, to be unable to rest in peace"
+        "meaning": "to lose one's way, to get lost, to go astray, to waver, to hesitate, to vacillate, to be of two minds (about), to be unable to make up one's mind, to not know what to do, to be at a loss, to be puzzled, to be perplexed, to be captivated (by), to be infatuated (with), to be charmed (by), to be carried away (by), to be blinded (by), to be lost (in), to lose oneself (to), to linger (of a departed soul), to be restless in one's grave, to be unable to rest in peace |(vi) lạc đường, mất phương hướng, đi lạc, dao động, do dự, phân vân, không quyết định được, bối rối, lúng túng, say mê (bởi), si mê (với), bị mê hoặc (bởi), bị cuốn theo (bởi), bị lóa mắt (bởi), lạc vào (trong), đánh mất bản thân (vào), vấn vương (linh hồn đã khuất), không siêu thoát được"
       }
     ],
     "radical": {
@@ -343,7 +343,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi bộ)"
     },
     "parts": [
       "米",

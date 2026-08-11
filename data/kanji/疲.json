@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "tsuka, tsukareru, tsukare",
-    "meaning": "tired",
+    "meaning": "tired |(vi) mệt mỏi",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "疲労する（ひろうする）",
         "meaning": {
-          "english": "be exhausted"
+          "english": "be exhausted |(vi) kiệt sức, mệt mỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-tsuka(reru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "疲れる（つかれる）",
         "meaning": {
-          "english": "get tired"
+          "english": "get tired |(vi) mệt, mệt mỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-tsuka(reru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "気疲れする（きづかれする）",
         "meaning": {
-          "english": "get mentally tired"
+          "english": "get mentally tired |(vi) mệt mỏi về tinh thần, căng thẳng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-tsuka(reru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "疲れ果てる（つかれはてる）",
         "meaning": {
-          "english": "get tired out"
+          "english": "get tired out |(vi) kiệt sức hoàn toàn, mệt lử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-tsuka(reru)_06_d.opus",
@@ -176,7 +176,7 @@
     "kanji": {
       "character": "疲",
       "meaning": {
-        "english": "tired"
+        "english": "tired |(vi) mệt mỏi"
       },
       "strokes": {
         "count": 10,
@@ -234,7 +234,7 @@
         "romaji": "yamaidare"
       },
       "meaning": {
-        "english": "sickness"
+        "english": "sickness |(vi) Nạch (bệnh, bộ bệnh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yamaidare0.svg",
@@ -255,7 +255,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1263",
     "strokeCount": 10,
-    "meaning": "exhausted, tire, weary",
+    "meaning": "exhausted, tire, weary |(vi) kiệt sức, mệt mỏi, mệt nhọc |(hv) Bì",
     "kunyomi": [
       "つか.れる",
       "-づか.れ",
@@ -268,29 +268,29 @@
       {
         "example": "疲労",
         "reading": "ヒロウ",
-        "meaning": "fatigue, weariness, exhaustion, tiredness, fatigue (of metal, etc.)"
+        "meaning": "fatigue, weariness, exhaustion, tiredness, fatigue (of metal, etc.) |(vi) mệt mỏi, kiệt sức, mỏi mệt (của kim loại, v.v.)"
       },
       {
         "example": "疲弊",
         "reading": "ヒヘイ",
-        "meaning": "exhaustion, fatigue, impoverishment, (financial) exhaustion, ruin"
+        "meaning": "exhaustion, fatigue, impoverishment, (financial) exhaustion, ruin |(vi) kiệt quệ, suy yếu, bần cùng (về kinh tế)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "疲れる",
         "reading": "つかれる",
-        "meaning": "to get tired, to tire, to get fatigued, to become exhausted, to grow weary, to become worn out (of a well-used object), to starve"
+        "meaning": "to get tired, to tire, to get fatigued, to become exhausted, to grow weary, to become worn out (of a well-used object), to starve |(vi) mệt, mệt mỏi, kiệt sức, kiệt lực, mòn (vật dùng nhiều), đói lả"
       },
       {
         "example": "疲らす",
         "reading": "つからす",
-        "meaning": "to tire, to weary, to exhaust, to fatigue"
+        "meaning": "to tire, to weary, to exhaust, to fatigue |(vi) làm cho mệt mỏi, làm kiệt sức"
       }
     ],
     "radical": {
       "symbol": "疒",
-      "meaning": "sickness"
+      "meaning": "sickness |(vi) Nạch (bệnh tật)"
     },
     "parts": [
       "又",

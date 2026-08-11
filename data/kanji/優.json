@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 50,
     "kunyomi": "yasashi, yasashisa, sugureru, yasa, sugu",
-    "meaning": "superior, actor, gentle, excel",
+    "meaning": "superior, actor, gentle, excel |(vi) ưu tú, diễn viên, dịu dàng, xuất sắc",
     "kstroke": 17,
     "examples": [
       {
         "japanese": "俳優（はいゆう）",
         "meaning": {
-          "english": "actor, actress"
+          "english": "actor, actress |(vi) diễn viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "男優（だんゆう）",
         "meaning": {
-          "english": "actor"
+          "english": "actor |(vi) diễn viên nam"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "女優（じょゆう）",
         "meaning": {
-          "english": "actress"
+          "english": "actress |(vi) diễn viên nữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "優先権（ゆうせんけん）",
         "meaning": {
-          "english": "priority"
+          "english": "priority |(vi) quyền ưu tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "優等生（ゆうとうせい）",
         "meaning": {
-          "english": "honor student"
+          "english": "honor student |(vi) học sinh ưu tú"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "優越感（ゆうえつかん）",
         "meaning": {
-          "english": "superiority complex"
+          "english": "superiority complex |(vi) cảm giác ưu việt, mặc cảm tự tôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "優秀な（ゆうしゅうな）",
         "meaning": {
-          "english": "superior, excellent"
+          "english": "superior, excellent |(vi) xuất sắc, ưu tú"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "優雅な（ゆうがな）",
         "meaning": {
-          "english": "elegant, refined"
+          "english": "elegant, refined |(vi) thanh lịch, tao nhã"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "優勝する（ゆうしょうする）",
         "meaning": {
-          "english": "win a championship"
+          "english": "win a championship |(vi) vô địch, đoạt giải nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "優先する（ゆうせんする）",
         "meaning": {
-          "english": "prioritize"
+          "english": "prioritize |(vi) ưu tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "優しい（やさしい）",
         "meaning": {
-          "english": "tender, kind, gentle"
+          "english": "tender, kind, gentle |(vi) dịu dàng, hiền hậu, tử tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "優れる（すぐれる）",
         "meaning": {
-          "english": "excel"
+          "english": "excel |(vi) vượt trội, xuất sắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_l.opus",
@@ -278,7 +278,7 @@
     "kanji": {
       "character": "優",
       "meaning": {
-        "english": "superior, actor, gentle, excel"
+        "english": "superior, actor, gentle, excel |(vi) ưu tú, diễn viên, dịu dàng, xuất sắc"
       },
       "strokes": {
         "count": 17,
@@ -350,7 +350,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người, bộ nhân đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -371,7 +371,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "334",
     "strokeCount": 17,
-    "meaning": "tenderness, excel, surpass, actor, superiority, gentleness",
+    "meaning": "tenderness, excel, surpass, actor, superiority, gentleness |(vi) dịu dàng, vượt trội, diễn viên, ưu việt, hiền hậu |(hv) Ưu",
     "kunyomi": [
       "やさ.しい",
       "すぐ.れる",
@@ -385,69 +385,69 @@
       {
         "example": "優",
         "reading": "ユウ",
-        "meaning": "Excellent (grade), A, superiority, excellence, gentle, graceful, elegant, skillful"
+        "meaning": "Excellent (grade), A, superiority, excellence, gentle, graceful, elegant, skillful |(vi) hạng ưu, xuất sắc, thanh nhã, khéo léo"
       },
       {
         "example": "優位",
         "reading": "ユウイ",
-        "meaning": "predominance, superiority, ascendancy, advantage, supremacy"
+        "meaning": "predominance, superiority, ascendancy, advantage, supremacy |(vi) ưu thế, thế thượng phong"
       },
       {
         "example": "声優",
         "reading": "セイユウ",
-        "meaning": "voice actor or actress (radio, animation, etc.)"
+        "meaning": "voice actor or actress (radio, animation, etc.) |(vi) diễn viên lồng tiếng"
       },
       {
         "example": "怪優",
         "reading": "カイユウ",
-        "meaning": "actor or performer with fascinating acting and appearance"
+        "meaning": "actor or performer with fascinating acting and appearance |(vi) diễn viên tài hoa kỳ dị"
       },
       {
         "example": "優曇華",
         "reading": "ウドンゲ",
-        "meaning": "udumbara (mythical Indian plant often identified with the cluster fig, Ficus glomerata), something very rare (from the legend that the udumbara flowers once in 3000 years), Japanese fiber banana flower, green lacewing eggs"
+        "meaning": "udumbara (mythical Indian plant often identified with the cluster fig, Ficus glomerata), something very rare (from the legend that the udumbara flowers once in 3000 years), Japanese fiber banana flower, green lacewing eggs |(vi) hoa ưu đàm, vật cực hiếm"
       },
       {
         "example": "優婆夷",
         "reading": "ウバイ",
-        "meaning": "upasika (devout female lay follower of Buddhism)"
+        "meaning": "upasika (devout female lay follower of Buddhism) |(vi) ưu-bà-di (nữ cư sĩ Phật giáo)"
       },
       {
         "example": "声優",
         "reading": "セイユウ",
-        "meaning": "voice actor or actress (radio, animation, etc.)"
+        "meaning": "voice actor or actress (radio, animation, etc.) |(vi) diễn viên lồng tiếng"
       },
       {
         "example": "怪優",
         "reading": "カイユウ",
-        "meaning": "actor or performer with fascinating acting and appearance"
+        "meaning": "actor or performer with fascinating acting and appearance |(vi) diễn viên tài hoa kỳ dị"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "優しい",
         "reading": "やさしい",
-        "meaning": "tender, kind, gentle, graceful, affectionate, amiable"
+        "meaning": "tender, kind, gentle, graceful, affectionate, amiable |(vi) dịu dàng, hiền hậu, ân cần"
       },
       {
         "example": "優しい声",
         "reading": "やさしいこえ",
-        "meaning": "soft voice"
+        "meaning": "soft voice |(vi) giọng nói dịu dàng"
       },
       {
         "example": "優れる",
         "reading": "すぐれる",
-        "meaning": "to be better (than), to be superior, to surpass, to excel, to be excellent"
+        "meaning": "to be better (than), to be superior, to surpass, to excel, to be excellent |(vi) vượt trội, xuất sắc, giỏi hơn"
       },
       {
         "example": "勝る",
         "reading": "まさる",
-        "meaning": "to excel, to surpass, to exceed, to have an edge, to be superior, to outrival, to outweigh, to preponderate"
+        "meaning": "to excel, to surpass, to exceed, to have an edge, to be superior, to outrival, to outweigh, to preponderate |(vi) vượt trội, hơn hẳn"
       },
       {
         "example": "優るとも劣らない",
         "reading": "まさるともおとらない",
-        "meaning": "not at all inferior to, rival or surpass, compare favorably (with)"
+        "meaning": "not at all inferior to, rival or surpass, compare favorably (with) |(vi) không hề thua kém, ngang bằng hoặc hơn"
       }
     ],
     "radical": {
@@ -455,7 +455,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "一",

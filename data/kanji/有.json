@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "a, aru",
-    "meaning": "have",
+    "meaning": "have |(vi) có",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "有料（ゆうりょう）",
         "meaning": {
-          "english": "toll"
+          "english": "toll |(vi) phí, mất tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-a(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "有名な（ゆうめいな）",
         "meaning": {
-          "english": "famous"
+          "english": "famous |(vi) nổi tiếng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-a(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "有力な（ゆうりょくな）",
         "meaning": {
-          "english": "influential, powerful"
+          "english": "influential, powerful |(vi) có ảnh hưởng, quyền lực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-a(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "有利な（ゆうりな）",
         "meaning": {
-          "english": "advantageous"
+          "english": "advantageous |(vi) có lợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-a(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "有望な（ゆうぼうな）",
         "meaning": {
-          "english": "promising"
+          "english": "promising |(vi) đầy triển vọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-a(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "有害な（ゆうがいな）",
         "meaning": {
-          "english": "harmful"
+          "english": "harmful |(vi) có hại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-a(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "有意義な（ゆういぎな）",
         "meaning": {
-          "english": "worthwhile"
+          "english": "worthwhile |(vi) có ý nghĩa, đáng giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-a(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "所有する（しょゆうする）",
         "meaning": {
-          "english": "possess"
+          "english": "possess |(vi) sở hữu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-a(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "有無（うむ）",
         "meaning": {
-          "english": "presence or absence"
+          "english": "presence or absence |(vi) có hay không"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-a(ru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "有る（ある）",
         "meaning": {
-          "english": "be, have"
+          "english": "be, have |(vi) có, tồn tại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-a(ru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "有り難う（ありがとう）",
         "meaning": {
-          "english": "Thank you"
+          "english": "Thank you |(vi) cảm ơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-a(ru)_06_k.opus",
@@ -273,7 +273,7 @@
     "kanji": {
       "character": "有",
       "meaning": {
-        "english": "have"
+        "english": "have |(vi) có"
       },
       "strokes": {
         "count": 6,
@@ -323,7 +323,7 @@
         "romaji": "tsuki"
       },
       "meaning": {
-        "english": "moon, month, period"
+        "english": "moon, month, period |(vi) mặt trăng, tháng, khoảng thời gian"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuki0.svg",
@@ -344,7 +344,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "282",
     "strokeCount": 6,
-    "meaning": "possess, have, exist, happen, occur, approx",
+    "meaning": "possess, have, exist, happen, occur, approx |(vi) sở hữu, có, tồn tại, xảy ra, khoảng chừng |(hv) Hữu",
     "kunyomi": [
       "あ.る"
     ],
@@ -356,59 +356,59 @@
       {
         "example": "有",
         "reading": "ユウ",
-        "meaning": "existence, possession, having, limited company"
+        "meaning": "existence, possession, having, limited company |(vi) sự tồn tại, sự sở hữu, có, công ty trách nhiệm hữu hạn"
       },
       {
         "example": "有意義",
         "reading": "ユウイギ",
-        "meaning": "significant, useful, meaningful, worthwhile, valuable, of interest"
+        "meaning": "significant, useful, meaningful, worthwhile, valuable, of interest |(vi) có ý nghĩa, hữu ích, đáng chú ý, đáng giá, có giá trị, thú vị"
       },
       {
         "example": "領有",
         "reading": "リョウユウ",
-        "meaning": "possession (esp. of a territory)"
+        "meaning": "possession (esp. of a territory) |(vi) sự chiếm hữu, sở hữu (nhất là lãnh thổ)"
       },
       {
         "example": "公有",
         "reading": "コウユウ",
-        "meaning": "public ownership, public domain"
+        "meaning": "public ownership, public domain |(vi) sở hữu công, tài sản công"
       },
       {
         "example": "有",
         "reading": "ウ",
-        "meaning": "bhava (becoming, existence)"
+        "meaning": "bhava (becoming, existence) |(vi) hữu (sự sinh thành, tồn tại - thuật ngữ Phật giáo bhava)"
       },
       {
         "example": "有無",
         "reading": "ウム",
-        "meaning": "existence or nonexistence, presence or absence, consent or refusal, yes or no"
+        "meaning": "existence or nonexistence, presence or absence, consent or refusal, yes or no |(vi) có hay không, hiện diện hay vắng mặt, đồng ý hay từ chối"
       },
       {
         "example": "領有",
         "reading": "リョウユウ",
-        "meaning": "possession (esp. of a territory)"
+        "meaning": "possession (esp. of a territory) |(vi) sự chiếm hữu, sở hữu (nhất là lãnh thổ)"
       },
       {
         "example": "公有",
         "reading": "コウユウ",
-        "meaning": "public ownership, public domain"
+        "meaning": "public ownership, public domain |(vi) sở hữu công, tài sản công"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "有る",
         "reading": "ある",
-        "meaning": "to be, to exist, to live, to have, to be located, to be equipped with, to happen, to come about, to exist (in a completed state), to be (something unchanged in its current state)"
+        "meaning": "to be, to exist, to live, to have, to be located, to be equipped with, to happen, to come about, to exist (in a completed state), to be (something unchanged in its current state) |(vi) có, tồn tại, sống, có (sở hữu), nằm ở, được trang bị, xảy ra, diễn ra, tồn tại ở trạng thái hoàn tất, giữ nguyên trạng thái hiện tại"
       },
       {
         "example": "ある限り",
         "reading": "あるかぎり",
-        "meaning": "all (there is), as long as there is"
+        "meaning": "all (there is), as long as there is |(vi) tất cả những gì có, chừng nào còn có"
       }
     ],
     "radical": {
       "symbol": "月",
-      "meaning": "moon, month"
+      "meaning": "moon, month |(vi) Nguyệt (mặt trăng, tháng)"
     },
     "parts": [
       "ノ",

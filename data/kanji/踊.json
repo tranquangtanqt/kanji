@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 50,
     "kunyomi": "odo, odoru, odori",
-    "meaning": "dance",
+    "meaning": "dance |(vi) múa, nhảy",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "舞踊（ぶよう）",
         "meaning": {
-          "english": "dance [n.]"
+          "english": "dance [n.] |(vi) điệu múa [d.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-odo(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "踊る（おどる）",
         "meaning": {
-          "english": "dance [v.i.]"
+          "english": "dance [v.i.] |(vi) múa, nhảy múa [đ.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-odo(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "踊り子（おどりこ）",
         "meaning": {
-          "english": "dancer"
+          "english": "dancer |(vi) vũ công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-odo(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "盆踊り（ぼんおどり）",
         "meaning": {
-          "english": "Bon festival dance"
+          "english": "Bon festival dance |(vi) múa hội Bon"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you-odo(ru)_06_d.opus",
@@ -159,7 +159,7 @@
     "kanji": {
       "character": "踊",
       "meaning": {
-        "english": "dance"
+        "english": "dance |(vi) múa, nhảy"
       },
       "strokes": {
         "count": 14,
@@ -225,7 +225,7 @@
         "romaji": "ashihen"
       },
       "meaning": {
-        "english": "foot, leg"
+        "english": "foot, leg |(vi) Túc (chân, cẳng chân)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ashihen0.svg",
@@ -246,7 +246,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1308",
     "strokeCount": 14,
-    "meaning": "jump, dance, leap, skip",
+    "meaning": "jump, dance, leap, skip |(vi) nhảy, múa, bật lên |(hv) Dũng",
     "kunyomi": [
       "おど.る"
     ],
@@ -257,29 +257,29 @@
       {
         "example": "踊躍",
         "reading": "ヨウヤク",
-        "meaning": "leaping with joy, jumping about"
+        "meaning": "leaping with joy, jumping about |(vi) nhảy cẫng lên vì vui mừng"
       },
       {
         "example": "現代舞踊",
         "reading": "ゲンダイブヨウ",
-        "meaning": "contemporary dance, modern dance"
+        "meaning": "contemporary dance, modern dance |(vi) vũ đạo hiện đại"
       },
       {
         "example": "歌舞伎舞踊",
         "reading": "カブキブヨウ",
-        "meaning": "kabuki dance"
+        "meaning": "kabuki dance |(vi) vũ đạo kabuki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "踊る",
         "reading": "おどる",
-        "meaning": "to dance (orig. a hopping dance), to be manipulated, to dance to someone's tune"
+        "meaning": "to dance (orig. a hopping dance), to be manipulated, to dance to someone's tune |(vi) nhảy múa (vốn là điệu nhảy lò cò), bị giật dây, múa theo ý người khác"
       },
       {
         "example": "踊る阿呆に見る阿呆",
         "reading": "おどるあほうにみるあほう",
-        "meaning": "you're a fool if you dance, and a fool if you just look on; we're all fools, so let's dance"
+        "meaning": "you're a fool if you dance, and a fool if you just look on; we're all fools, so let's dance |(vi) múa cũng ngốc, đứng xem cũng ngốc; đằng nào cũng ngốc thì cứ múa cho vui"
       }
     ],
     "radical": {
@@ -287,7 +287,7 @@
       "forms": [
         "⻊"
       ],
-      "meaning": "foot"
+      "meaning": "foot |(vi) Túc (chân)"
     },
     "parts": [
       "マ",

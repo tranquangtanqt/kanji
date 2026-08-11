@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "mono",
-    "meaning": "thing",
+    "meaning": "thing |(vi) vật, đồ vật",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "動物園（どうぶつえん）",
         "meaning": {
-          "english": "zoo"
+          "english": "zoo |(vi) vườn thú"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "物価（ぶっか）",
         "meaning": {
-          "english": "cost of living"
+          "english": "cost of living |(vi) giá cả sinh hoạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "物理（ぶつり）",
         "meaning": {
-          "english": "physics"
+          "english": "physics |(vi) vật lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "見物する（けんぶつする）",
         "meaning": {
-          "english": "go sightseeing"
+          "english": "go sightseeing |(vi) đi tham quan, ngắm cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "荷物（にもつ）",
         "meaning": {
-          "english": "luggage"
+          "english": "luggage |(vi) hành lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "物（もの）",
         "meaning": {
-          "english": "thing"
+          "english": "thing |(vi) vật, đồ vật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "建物（たてもの）",
         "meaning": {
-          "english": "building"
+          "english": "building |(vi) tòa nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "食べ物（たべもの）",
         "meaning": {
-          "english": "food"
+          "english": "food |(vi) đồ ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "買い物（かいもの）",
         "meaning": {
-          "english": "shopping"
+          "english": "shopping |(vi) mua sắm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "乗り物（のりもの）",
         "meaning": {
-          "english": "vehicle"
+          "english": "vehicle |(vi) phương tiện đi lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "着物（きもの）",
         "meaning": {
-          "english": "kimono"
+          "english": "kimono |(vi) kimono, y phục truyền thống Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "贈り物（おくりもの）",
         "meaning": {
-          "english": "gift"
+          "english": "gift |(vi) quà tặng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_l.opus",
@@ -317,7 +317,7 @@
     "kanji": {
       "character": "物",
       "meaning": {
-        "english": "thing"
+        "english": "thing |(vi) vật, đồ vật"
       },
       "strokes": {
         "count": 8,
@@ -371,7 +371,7 @@
         "romaji": "ushihen"
       },
       "meaning": {
-        "english": "cow"
+        "english": "cow |(vi) Ngưu (con bò)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ushihen0.svg",
@@ -392,7 +392,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "215",
     "strokeCount": 8,
-    "meaning": "thing, object, matter",
+    "meaning": "thing, object, matter |(vi) vật, đồ vật, sự việc |(hv) Vật",
     "kunyomi": [
       "もの",
       "もの-"
@@ -405,54 +405,54 @@
       {
         "example": "物",
         "reading": "ブツ",
-        "meaning": "stock, products, goods (esp. stolen), loot, spoils, stuff"
+        "meaning": "stock, products, goods (esp. stolen), loot, spoils, stuff |(vi) hàng hóa, sản phẩm, đồ (nhất là đồ ăn cắp), chiến lợi phẩm, đồ đạc"
       },
       {
         "example": "物議",
         "reading": "ブツギ",
-        "meaning": "public discussion, public criticism, controversy"
+        "meaning": "public discussion, public criticism, controversy |(vi) tranh luận công khai, chỉ trích của công chúng, gây tranh cãi"
       },
       {
         "example": "異物",
         "reading": "イブツ",
-        "meaning": "foreign substance, foreign body, foreign contamination, foreign material, strange object, unusual object, dead body, corpse, remains"
+        "meaning": "foreign substance, foreign body, foreign contamination, foreign material, strange object, unusual object, dead body, corpse, remains |(vi) dị vật, vật thể lạ, ô nhiễm lạ, vật liệu lạ, thi thể, xác chết"
       },
       {
         "example": "遺物",
         "reading": "イブツ",
-        "meaning": "relic, remains, memento"
+        "meaning": "relic, remains, memento |(vi) di vật, di tích, kỷ vật"
       },
       {
         "example": "一物",
         "reading": "イチモツ",
-        "meaning": "one thing, one article, ulterior motive, secret intention, secret scheme, plot, penis, money"
+        "meaning": "one thing, one article, ulterior motive, secret intention, secret scheme, plot, penis, money |(vi) một vật, một món, ý đồ riêng, ý định thầm kín, âm mưu, dương vật, tiền bạc"
       },
       {
         "example": "財物",
         "reading": "ザイブツ",
-        "meaning": "property"
+        "meaning": "property |(vi) tài sản"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "物",
         "reading": "もの",
-        "meaning": "thing, object, article, stuff, substance, one's things, possessions, property, belongings, things, something, anything, everything, nothing, quality, reason, the way of things, used to emphasize emotion, judgment, etc., used to indicate a common occurrence in the past (after a verb in past tense), used to indicate a general tendency, used to indicate something that should happen, item classified as ..., item related to ..., work in the genre of ..., cause of ..., cause for ..., somehow, somewhat, for some reason, really, truly"
+        "meaning": "thing, object, article, stuff, substance, one's things, possessions, property, belongings, things, something, anything, everything, nothing, quality, reason, the way of things, used to emphasize emotion, judgment, etc., used to indicate a common occurrence in the past (after a verb in past tense), used to indicate a general tendency, used to indicate something that should happen, item classified as ..., item related to ..., work in the genre of ..., cause of ..., cause for ..., somehow, somewhat, for some reason, really, truly |(vi) vật, đồ vật, thứ, chất, đồ đạc của mình, tài sản, sở hữu, cái gì đó, mọi thứ, không có gì, phẩm chất, lý do, lẽ thường, dùng để nhấn mạnh cảm xúc, chỉ việc thường xảy ra trong quá khứ, chỉ xu hướng chung, loại thuộc về..., tác phẩm thuộc thể loại..., nguyên nhân của..., không hiểu sao, phần nào, thật sự"
       },
       {
         "example": "物言い",
         "reading": "ものいい",
-        "meaning": "manner of speaking, verbal argument, objection, protesting a decision (esp. that of a sumo referee), rumor, rumour"
+        "meaning": "manner of speaking, verbal argument, objection, protesting a decision (esp. that of a sumo referee), rumor, rumour |(vi) cách nói, tranh luận bằng lời, phản đối quyết định (nhất là của trọng tài sumo), lời đồn"
       },
       {
         "example": "先物",
         "reading": "さきもの",
-        "meaning": "futures, futures contract"
+        "meaning": "futures, futures contract |(vi) hợp đồng tương lai"
       },
       {
         "example": "拾い物",
         "reading": "ひろいもの",
-        "meaning": "found article, thing picked up (e.g. in the street), (lucky) find, piece of good luck, windfall, bargain"
+        "meaning": "found article, thing picked up (e.g. in the street), (lucky) find, piece of good luck, windfall, bargain |(vi) đồ nhặt được, món hời, may mắn bất ngờ"
       }
     ],
     "radical": {
@@ -460,7 +460,7 @@
       "forms": [
         "牜"
       ],
-      "meaning": "cow"
+      "meaning": "cow |(vi) Ngưu (con bò)"
     },
     "parts": [
       "ノ",

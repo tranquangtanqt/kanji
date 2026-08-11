@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "wa, waku, wakasu",
-    "meaning": "boil, seethe",
+    "meaning": "boil, seethe |(vi) sôi, sục sôi",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "沸点（ふってん）",
         "meaning": {
-          "english": "boiling point"
+          "english": "boiling point |(vi) điểm sôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futsu-wa(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "沸騰する（ふっとうする）",
         "meaning": {
-          "english": "boil, seethe [v.i.]"
+          "english": "boil, seethe [v.i.] |(vi) sôi, sục sôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futsu-wa(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "煮沸する（しゃふつする）",
         "meaning": {
-          "english": "boil, scald [v.t.]"
+          "english": "boil, scald [v.t.] |(vi) đun sôi, tiệt trùng bằng cách đun sôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futsu-wa(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "沸かす（わかす）",
         "meaning": {
-          "english": "boil up [v.t.]"
+          "english": "boil up [v.t.] |(vi) đun sôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futsu-wa(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "湯沸かし器（ゆわかしき）",
         "meaning": {
-          "english": "hot-water heater"
+          "english": "hot-water heater |(vi) bình đun nước nóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futsu-wa(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "沸く（わく）",
         "meaning": {
-          "english": "boil, get excited [v.i.]"
+          "english": "boil, get excited [v.i.] |(vi) sôi lên, phấn khích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futsu-wa(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "沸き返る（わきかえる）",
         "meaning": {
-          "english": "seethe, get excited"
+          "english": "seethe, get excited |(vi) sôi sục, náo động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futsu-wa(ku)_06_g.opus",
@@ -173,7 +173,7 @@
     "kanji": {
       "character": "沸",
       "meaning": {
-        "english": "boil, seethe"
+        "english": "boil, seethe |(vi) sôi, sục sôi"
       },
       "strokes": {
         "count": 8,
@@ -227,7 +227,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -248,7 +248,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1709",
     "strokeCount": 8,
-    "meaning": "seethe, boil, ferment, uproar, breed",
+    "meaning": "seethe, boil, ferment, uproar, breed |(vi) sôi sục, sôi, lên men, náo động, sinh sôi |(hv) Phí",
     "kunyomi": [
       "わ.く",
       "わ.かす"
@@ -260,24 +260,24 @@
       {
         "example": "沸々",
         "reading": "フツフツ",
-        "meaning": "simmer, bubble out, flow out"
+        "meaning": "simmer, bubble out, flow out |(vi) sủi tăm, sôi lăn tăn, trào ra"
       },
       {
         "example": "沸々",
         "reading": "フツフツ",
-        "meaning": "simmer, bubble out, flow out"
+        "meaning": "simmer, bubble out, flow out |(vi) sủi tăm, sôi lăn tăn, trào ra"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "沸く",
         "reading": "わく",
-        "meaning": "to grow hot (e.g. water), to boil, to get excited (at), to erupt (in applause, cheering, etc.), to be in a ferment, to take place energetically, to ferment, to melt (of metal)"
+        "meaning": "to grow hot (e.g. water), to boil, to get excited (at), to erupt (in applause, cheering, etc.), to be in a ferment, to take place energetically, to ferment, to melt (of metal) |(vi) nóng lên, sôi, phấn khích, bùng nổ (tiếng vỗ tay, reo hò), sôi sục, diễn ra sôi nổi, lên men, chảy (kim loại)"
       },
       {
         "example": "沸かす",
         "reading": "わかす",
-        "meaning": "to boil, to heat (a liquid), to prepare (a bath, hot drink), to excite, to rouse, to stir"
+        "meaning": "to boil, to heat (a liquid), to prepare (a bath, hot drink), to excite, to rouse, to stir |(vi) đun sôi, làm nóng (chất lỏng), chuẩn bị (bồn tắm, đồ uống nóng), kích động, khuấy động"
       }
     ],
     "radical": {
@@ -286,7 +286,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "ノ",

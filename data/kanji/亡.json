@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 2,
     "kunyomi": "na, nai, naki, nakusu, nakunaru",
-    "meaning": "decease, dead",
+    "meaning": "decease, dead |(vi) chết, mất, qua đời",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "亡霊（ぼうれい）",
         "meaning": {
-          "english": "ghost, departed spirits"
+          "english": "ghost, departed spirits |(vi) hồn ma, vong linh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou(mei)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "存亡（そんぼう）",
         "meaning": {
-          "english": "life or death"
+          "english": "life or death |(vi) sống còn, tồn vong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou(mei)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "未亡人（みぼうじん）",
         "meaning": {
-          "english": "widow"
+          "english": "widow |(vi) quả phụ, góa phụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou(mei)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "亡命する（ぼうめいする）",
         "meaning": {
-          "english": "flee one's country, defect"
+          "english": "flee one's country, defect |(vi) lưu vong, đào tẩu ra nước ngoài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou(mei)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "死亡する（しぼうする）",
         "meaning": {
-          "english": "die"
+          "english": "die |(vi) tử vong, chết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou(mei)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "逃亡する（とうぼうする）",
         "meaning": {
-          "english": "escape [v.i.]"
+          "english": "escape [v.i.] |(vi) trốn chạy, đào tẩu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou(mei)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "滅亡する（めつぼうする）",
         "meaning": {
-          "english": "fall, be ruined, collapse"
+          "english": "fall, be ruined, collapse |(vi) diệt vong, sụp đổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou(mei)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "亡者（もうじゃ）",
         "meaning": {
-          "english": "the dead"
+          "english": "the dead |(vi) người đã chết, vong hồn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou(mei)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "亡くす（なくす）",
         "meaning": {
-          "english": "lose (a loved one)"
+          "english": "lose (a loved one) |(vi) mất (người thân)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou(mei)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "亡くなる（なくなる）",
         "meaning": {
-          "english": "pass away"
+          "english": "pass away |(vi) qua đời, từ trần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou(mei)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "亡き母（なきはは）",
         "meaning": {
-          "english": "one's deceased mother"
+          "english": "one's deceased mother |(vi) người mẹ đã khuất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou(mei)_06_k.opus",
@@ -268,7 +268,7 @@
     "kanji": {
       "character": "亡",
       "meaning": {
-        "english": "decease, dead"
+        "english": "decease, dead |(vi) chết, mất, qua đời"
       },
       "strokes": {
         "count": 3,
@@ -312,7 +312,7 @@
         "romaji": "nabebuta"
       },
       "meaning": {
-        "english": "lid, top"
+        "english": "lid, top |(vi) Đầu (nắp, đầu)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nabebuta0.svg",
@@ -333,7 +333,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "661",
     "strokeCount": 3,
-    "meaning": "deceased, the late, dying, perish",
+    "meaning": "deceased, the late, dying, perish |(vi) đã mất, quá cố, sắp chết, diệt vong |(hv) Vong",
     "kunyomi": [
       "な.い",
       "な.き-",
@@ -349,69 +349,69 @@
       {
         "example": "亡",
         "reading": "ボウ",
-        "meaning": "death, the late, the deceased"
+        "meaning": "death, the late, the deceased |(vi) cái chết, người đã khuất, người quá cố"
       },
       {
         "example": "亡命",
         "reading": "ボウメイ",
-        "meaning": "fleeing from one's country, seeking asylum, defection, emigration (for political reasons), (going into) exile, becoming a (political) refugee"
+        "meaning": "fleeing from one's country, seeking asylum, defection, emigration (for political reasons), (going into) exile, becoming a (political) refugee |(vi) lưu vong, tị nạn chính trị, đào tẩu ra nước ngoài"
       },
       {
         "example": "存亡",
         "reading": "ソンボウ",
-        "meaning": "life or death, existence, destiny"
+        "meaning": "life or death, existence, destiny |(vi) sống còn, tồn vong, vận mệnh"
       },
       {
         "example": "興亡",
         "reading": "コウボウ",
-        "meaning": "rise and fall, ups and downs"
+        "meaning": "rise and fall, ups and downs |(vi) hưng vong, thịnh suy"
       },
       {
         "example": "亡者",
         "reading": "モウジャ",
-        "meaning": "the dead, ghost, person who is obsessed (with money, power, etc.), person with a blind lust (for)"
+        "meaning": "the dead, ghost, person who is obsessed (with money, power, etc.), person with a blind lust (for) |(vi) vong hồn, người chết, kẻ mê muội (vì tiền, quyền lực, v.v.)"
       },
       {
         "example": "亡者船",
         "reading": "モウジャブネ",
-        "meaning": "ship of the dead which appears if one goes fishing during the Bon festival"
+        "meaning": "ship of the dead which appears if one goes fishing during the Bon festival |(vi) thuyền ma (xuất hiện khi đi câu cá vào dịp lễ Obon)"
       },
       {
         "example": "焼亡",
         "reading": "ショウボウ",
-        "meaning": "destruction by fire"
+        "meaning": "destruction by fire |(vi) thiêu hủy, cháy rụi"
       },
       {
         "example": "損亡",
         "reading": "ソンモウ",
-        "meaning": "loss"
+        "meaning": "loss |(vi) tổn thất, mất mát"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "亡い",
         "reading": "ない",
-        "meaning": "dead"
+        "meaning": "dead |(vi) đã chết, không còn nữa"
       },
       {
         "example": "滅びる",
         "reading": "ほろびる",
-        "meaning": "to go to ruin, to go under, to fall, to be destroyed, to die out, to become extinct, to perish"
+        "meaning": "to go to ruin, to go under, to fall, to be destroyed, to die out, to become extinct, to perish |(vi) diệt vong, suy tàn, tuyệt diệt"
       },
       {
         "example": "滅ぶ",
         "reading": "ほろぶ",
-        "meaning": "to be ruined, to go under, to perish, to be destroyed"
+        "meaning": "to be ruined, to go under, to perish, to be destroyed |(vi) bị diệt vong, sụp đổ"
       },
       {
         "example": "滅ぼす",
         "reading": "ほろぼす",
-        "meaning": "to destroy, to overthrow, to wreck, to ruin"
+        "meaning": "to destroy, to overthrow, to wreck, to ruin |(vi) tiêu diệt, phá hủy, làm sụp đổ"
       }
     ],
     "radical": {
       "symbol": "亠",
-      "meaning": "lid"
+      "meaning": "lid |(vi) Đầu (nắp, đầu)"
     },
     "parts": [
       "亠",

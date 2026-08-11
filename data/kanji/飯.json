@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "meshi",
-    "meaning": "cooked rice, meal",
+    "meaning": "cooked rice, meal |(vi) cơm, bữa ăn",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "御飯（ごはん）",
         "meaning": {
-          "english": "rice (cooked), meal"
+          "english": "rice (cooked), meal |(vi) cơm, bữa ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/meshi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "夕飯（ゆうはん）",
         "meaning": {
-          "english": "dinner"
+          "english": "dinner |(vi) bữa tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/meshi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "朝御飯（あさごはん）",
         "meaning": {
-          "english": "breakfast"
+          "english": "breakfast |(vi) bữa sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/meshi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "昼御飯（ひるごはん）",
         "meaning": {
-          "english": "lunch"
+          "english": "lunch |(vi) bữa trưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/meshi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "晩御飯（ばんごはん）",
         "meaning": {
-          "english": "dinner"
+          "english": "dinner |(vi) bữa tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/meshi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "炊飯器（すいはんき）",
         "meaning": {
-          "english": "rice cooker"
+          "english": "rice cooker |(vi) nồi cơm điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/meshi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "飯（めし）",
         "meaning": {
-          "english": "meal, food (derogatory)"
+          "english": "meal, food (derogatory) |(vi) cơm, đồ ăn (cách nói suồng sã)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/meshi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "朝飯前（あさめしまえ）",
         "meaning": {
-          "english": "simple, a piece of cake"
+          "english": "simple, a piece of cake |(vi) dễ như trở bàn tay, chuyện nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/meshi_06_h.opus",
@@ -255,7 +255,7 @@
     "kanji": {
       "character": "飯",
       "meaning": {
-        "english": "cooked rice, meal"
+        "english": "cooked rice, meal |(vi) cơm, bữa ăn"
       },
       "strokes": {
         "count": 12,
@@ -317,7 +317,7 @@
         "romaji": "shokuhen"
       },
       "meaning": {
-        "english": "food, to eat"
+        "english": "food, to eat |(vi) Thực (ăn, thức ăn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shokuhen0.svg",
@@ -338,7 +338,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1046",
     "strokeCount": 12,
-    "meaning": "meal, boiled rice",
+    "meaning": "meal, boiled rice |(vi) bữa ăn, cơm |(hv) Phạn",
     "kunyomi": [
       "めし"
     ],
@@ -349,44 +349,44 @@
       {
         "example": "飯店",
         "reading": "ハンテン",
-        "meaning": "Chinese restaurant"
+        "meaning": "Chinese restaurant |(vi) nhà hàng Trung Hoa"
       },
       {
         "example": "飯切",
         "reading": "ハンギリ",
-        "meaning": "flat-bottomed wooden bowl for preparing sushi rice"
+        "meaning": "flat-bottomed wooden bowl for preparing sushi rice |(vi) thùng gỗ đáy phẳng để trộn cơm sushi"
       },
       {
         "example": "米飯",
         "reading": "ベイハン",
-        "meaning": "cooked rice"
+        "meaning": "cooked rice |(vi) cơm"
       },
       {
         "example": "赤飯",
         "reading": "セキハン",
-        "meaning": "red rice (beans and mochi) for auspicious occasions"
+        "meaning": "red rice (beans and mochi) for auspicious occasions |(vi) cơm đỏ (xôi đậu đỏ dùng trong dịp mừng)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "飯",
         "reading": "めし",
-        "meaning": "cooked rice, meal, food, one's living, livelihood"
+        "meaning": "cooked rice, meal, food, one's living, livelihood |(vi) cơm, bữa ăn, thức ăn, kế sinh nhai"
       },
       {
         "example": "飯売女",
         "reading": "めしうりおんな",
-        "meaning": "maid at an inn who served clients and worked as a prostitute (Edo period)"
+        "meaning": "maid at an inn who served clients and worked as a prostitute (Edo period) |(vi) nữ hầu quán trọ kiêm kỹ nữ (thời Edo)"
       },
       {
         "example": "握り飯",
         "reading": "にぎりめし",
-        "meaning": "onigiri, rice ball"
+        "meaning": "onigiri, rice ball |(vi) cơm nắm onigiri"
       },
       {
         "example": "冷や飯",
         "reading": "ひやめし",
-        "meaning": "cold rice, hanger-on, dependent, disgraced former actor"
+        "meaning": "cold rice, hanger-on, dependent, disgraced former actor |(vi) cơm nguội; kẻ ăn bám, người sống nhờ, diễn viên thất sủng"
       }
     ],
     "radical": {
@@ -394,7 +394,7 @@
       "forms": [
         "飠"
       ],
-      "meaning": "eat, food"
+      "meaning": "eat, food |(vi) Thực (ăn, thức ăn)"
     },
     "parts": [
       "厂",

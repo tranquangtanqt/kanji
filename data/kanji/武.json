@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "military",
+    "meaning": "military |(vi) quân sự",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "武士（ぶし）",
         "meaning": {
-          "english": "warrior, samurai"
+          "english": "warrior, samurai |(vi) võ sĩ, samurai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bu(ryoku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "武器（ぶき）",
         "meaning": {
-          "english": "weapon, arms"
+          "english": "weapon, arms |(vi) vũ khí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bu(ryoku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "武力（ぶりょく）",
         "meaning": {
-          "english": "military power"
+          "english": "military power |(vi) vũ lực, sức mạnh quân sự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bu(ryoku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "武術（ぶじゅつ）",
         "meaning": {
-          "english": "martial arts"
+          "english": "martial arts |(vi) võ thuật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bu(ryoku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "武道（ぶどう）",
         "meaning": {
-          "english": "martial arts, Bushido"
+          "english": "martial arts, Bushido |(vi) võ đạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bu(ryoku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "武装する（ぶそうする）",
         "meaning": {
-          "english": "be armed"
+          "english": "be armed |(vi) vũ trang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bu(ryoku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "武者震い（むしゃぶるい）",
         "meaning": {
-          "english": "shake with excitement [n.]"
+          "english": "shake with excitement [n.] |(vi) run lên vì phấn khích, hồi hộp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bu(ryoku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "影武者（かげむしゃ）",
         "meaning": {
-          "english": "secret power broker"
+          "english": "secret power broker |(vi) người giật dây phía sau, kẻ thế thân nắm quyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bu(ryoku)_06_h.opus",
@@ -190,7 +190,7 @@
     "kanji": {
       "character": "武",
       "meaning": {
-        "english": "military"
+        "english": "military |(vi) quân sự"
       },
       "strokes": {
         "count": 8,
@@ -244,7 +244,7 @@
         "romaji": "tomeru"
       },
       "meaning": {
-        "english": "to stop"
+        "english": "to stop |(vi) Chỉ (dừng lại)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tomeru0.svg",
@@ -265,7 +265,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "387",
     "strokeCount": 8,
-    "meaning": "warrior, military, chivalry, arms",
+    "meaning": "warrior, military, chivalry, arms |(vi) chiến binh, quân sự, hiệp sĩ, vũ khí |(hv) Vũ",
     "kunyomi": [
       "たけ",
       "たけ.し"
@@ -278,64 +278,64 @@
       {
         "example": "武",
         "reading": "ブ",
-        "meaning": "the art of war, martial arts, military arts, military force, the sword, valor, bravery, military officer, military man"
+        "meaning": "the art of war, martial arts, military arts, military force, the sword, valor, bravery, military officer, military man |(vi) võ thuật, binh pháp, quân lực, kiếm thuật, dũng cảm, võ quan, người giỏi võ"
       },
       {
         "example": "武器",
         "reading": "ブキ",
-        "meaning": "weapon, arms, ordnance, weapon (something used to gain an advantage), asset"
+        "meaning": "weapon, arms, ordnance, weapon (something used to gain an advantage), asset |(vi) vũ khí, khí giới"
       },
       {
         "example": "文武",
         "reading": "ブンブ",
-        "meaning": "literary and military arts, the pen and the sword"
+        "meaning": "literary and military arts, the pen and the sword |(vi) văn võ song toàn"
       },
       {
         "example": "威武",
         "reading": "イブ",
-        "meaning": "authority and force"
+        "meaning": "authority and force |(vi) uy vũ, quyền uy và sức mạnh"
       },
       {
         "example": "武者",
         "reading": "ムシャ",
-        "meaning": "warrior"
+        "meaning": "warrior |(vi) võ sĩ, chiến binh"
       },
       {
         "example": "武者修行",
         "reading": "ムシャシュギョウ",
-        "meaning": "traveling about to gain skill in combat (travelling)"
+        "meaning": "traveling about to gain skill in combat (travelling) |(vi) đi khắp nơi luyện võ, tầm sư học võ"
       },
       {
         "example": "建武",
         "reading": "ケンム",
-        "meaning": "Kenmu era (of unified Japan; 1334.1.29-1336.2.29), Kenmu era (of the Northern Court; 1336.2.29-1338.8.28)"
+        "meaning": "Kenmu era (of unified Japan; 1334.1.29-1336.2.29), Kenmu era (of the Northern Court; 1336.2.29-1338.8.28) |(vi) niên hiệu Kiến Vũ (Nhật Bản)"
       },
       {
         "example": "玄武",
         "reading": "ゲンブ",
-        "meaning": "Black Tortoise (god said to rule over the northern heavens), seven mansions (Chinese constellations) of the northern heavens"
+        "meaning": "Black Tortoise (god said to rule over the northern heavens), seven mansions (Chinese constellations) of the northern heavens |(vi) Huyền Vũ (thần rùa đen phương Bắc), chòm sao phương Bắc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "武し",
         "reading": "たけし",
-        "meaning": "brave"
+        "meaning": "brave |(vi) dũng cảm"
       },
       {
         "example": "武田薬品工業",
         "reading": "たけだやくひんこうぎょう",
-        "meaning": "Takeda Pharmaceutical"
+        "meaning": "Takeda Pharmaceutical |(vi) Công ty Dược phẩm Takeda"
       },
       {
         "example": "武し",
         "reading": "たけし",
-        "meaning": "brave"
+        "meaning": "brave |(vi) dũng cảm"
       }
     ],
     "radical": {
       "symbol": "止",
-      "meaning": "stop"
+      "meaning": "stop |(vi) Chỉ (dừng lại)"
     },
     "parts": [
       "弋",

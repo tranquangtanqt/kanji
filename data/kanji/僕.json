@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "I, manservant",
+    "meaning": "I, manservant |(vi) tôi, tớ (nam), đầy tớ",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "僕（ぼく）",
         "meaning": {
-          "english": "I (masculine)"
+          "english": "I (masculine) |(vi) tôi (nam giới)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/boku(ra)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "従僕（じゅうぼく）",
         "meaning": {
-          "english": "servant"
+          "english": "servant |(vi) gia nhân, người hầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/boku(ra)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "下僕（げぼく）",
         "meaning": {
-          "english": "servant"
+          "english": "servant |(vi) đầy tớ, nô bộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/boku(ra)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "公僕（こうぼく）",
         "meaning": {
-          "english": "public servant"
+          "english": "public servant |(vi) công bộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/boku(ra)_06_d.opus",
@@ -161,7 +161,7 @@
     "kanji": {
       "character": "僕",
       "meaning": {
-        "english": "I, manservant"
+        "english": "I, manservant |(vi) tôi, tớ (nam), đầy tớ"
       },
       "strokes": {
         "count": 14,
@@ -227,7 +227,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -248,7 +248,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1236",
     "strokeCount": 14,
-    "meaning": "me, I (male), servant, manservant",
+    "meaning": "me, I (male), servant, manservant |(vi) tôi, tớ (nam), đầy tớ, nô bộc |(hv) Bộc",
     "kunyomi": [
       "しもべ"
     ],
@@ -259,34 +259,34 @@
       {
         "example": "僕",
         "reading": "ボク",
-        "meaning": "I, me, you, manservant"
+        "meaning": "I, me, you, manservant |(vi) tôi, tớ, đầy tớ"
       },
       {
         "example": "僕たち",
         "reading": "ボクタチ",
-        "meaning": "we"
+        "meaning": "we |(vi) chúng tôi, bọn tớ"
       },
       {
         "example": "校僕",
         "reading": "コウボク",
-        "meaning": "student studying and working at the school"
+        "meaning": "student studying and working at the school |(vi) học sinh vừa học vừa làm việc tại trường"
       },
       {
         "example": "童僕",
         "reading": "ドウボク",
-        "meaning": "young male servant, page"
+        "meaning": "young male servant, page |(vi) tiểu đồng, đầy tớ trai trẻ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "僕",
         "reading": "しもべ",
-        "meaning": "servant, manservant, menial"
+        "meaning": "servant, manservant, menial |(vi) đầy tớ, tôi tớ, kẻ hầu"
       },
       {
         "example": "神の僕",
         "reading": "かみのしもべ",
-        "meaning": "Servant of God"
+        "meaning": "Servant of God |(vi) tôi tớ của Chúa"
       }
     ],
     "radical": {
@@ -294,7 +294,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "二",

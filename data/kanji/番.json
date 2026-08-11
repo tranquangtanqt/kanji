@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "numerical order, watch",
+    "meaning": "numerical order, watch |(vi) thứ tự số, canh gác",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "番号（ばんごう）",
         "meaning": {
-          "english": "number"
+          "english": "number |(vi) số hiệu, con số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ban(gou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "番地（ばんち）",
         "meaning": {
-          "english": "house number, address"
+          "english": "house number, address |(vi) số nhà, địa chỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ban(gou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "一番（いちばん）",
         "meaning": {
-          "english": "number one"
+          "english": "number one |(vi) số một, hạng nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ban(gou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "交番（こうばん）",
         "meaning": {
-          "english": "police box"
+          "english": "police box |(vi) đồn cảnh sát khu vực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ban(gou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "当番（とうばん）",
         "meaning": {
-          "english": "being on duty"
+          "english": "being on duty |(vi) trực, phiên trực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ban(gou)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "留守番（るすばん）",
         "meaning": {
-          "english": "house-watching"
+          "english": "house-watching |(vi) trông nhà, giữ nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ban(gou)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "テレビ番組（テレビばんぐみ）",
         "meaning": {
-          "english": "TV program"
+          "english": "TV program |(vi) chương trình truyền hình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ban(gou)_06_g.opus",
@@ -233,7 +233,7 @@
     "kanji": {
       "character": "番",
       "meaning": {
-        "english": "numerical order, watch"
+        "english": "numerical order, watch |(vi) thứ tự số, canh gác"
       },
       "strokes": {
         "count": 12,
@@ -295,7 +295,7 @@
         "romaji": "ta"
       },
       "meaning": {
-        "english": "rice paddy"
+        "english": "rice paddy |(vi) Điền (ruộng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ta0.svg",
@@ -316,7 +316,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "348",
     "strokeCount": 12,
-    "meaning": "turn, number in a series",
+    "meaning": "turn, number in a series |(vi) lượt, phiên, số thứ tự |(hv) Phiên",
     "kunyomi": [
       "つが.い"
     ],
@@ -327,44 +327,44 @@
       {
         "example": "番",
         "reading": "バン",
-        "meaning": "number (in a series), (one's) turn, watch, guard, lookout, rank, standing, position, bout, match, pieces (in a collection)"
+        "meaning": "number (in a series), (one's) turn, watch, guard, lookout, rank, standing, position, bout, match, pieces (in a collection) |(vi) số thứ tự, lượt, phiên gác, canh gác, thứ hạng, vị trí, trận đấu, các phần (trong bộ sưu tập)"
       },
       {
         "example": "番組",
         "reading": "バングミ",
-        "meaning": "program (e.g. TV), programme"
+        "meaning": "program (e.g. TV), programme |(vi) chương trình (truyền hình)"
       },
       {
         "example": "出番",
         "reading": "デバン",
-        "meaning": "one's turn, one's shift, one's turn on stage, screen time, one's time (to act), one's chance, one's part (to play)"
+        "meaning": "one's turn, one's shift, one's turn on stage, screen time, one's time (to act), one's chance, one's part (to play) |(vi) lượt của mình, phiên trực, thời điểm ra sân/xuất hiện, cơ hội của mình"
       },
       {
         "example": "春一番",
         "reading": "ハルイチバン",
-        "meaning": "first storm of spring, strong winds during the change from winter to spring"
+        "meaning": "first storm of spring, strong winds during the change from winter to spring |(vi) trận gió mạnh đầu tiên báo hiệu mùa xuân"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "番い",
         "reading": "つがい",
-        "meaning": "pair (esp. of mated animals), brace, couple, (anatomical) joint"
+        "meaning": "pair (esp. of mated animals), brace, couple, (anatomical) joint |(vi) đôi (nhất là động vật giao phối), cặp, khớp (giải phẫu)"
       },
       {
         "example": "つがい目",
         "reading": "つがいめ",
-        "meaning": "joint, hinge"
+        "meaning": "joint, hinge |(vi) khớp nối, bản lề"
       },
       {
         "example": "手番",
         "reading": "てつがい",
-        "meaning": "plan, arrangements"
+        "meaning": "plan, arrangements |(vi) kế hoạch, sự sắp xếp"
       }
     ],
     "radical": {
       "symbol": "田",
-      "meaning": "field"
+      "meaning": "field |(vi) Điền (ruộng)"
     },
     "parts": [
       "田",

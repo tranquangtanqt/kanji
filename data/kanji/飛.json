@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 4,
     "kunyomi": "to, tobu, tobasu",
-    "meaning": "fly",
+    "meaning": "fly |(vi) bay",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "飛行機（ひこうき）",
         "meaning": {
-          "english": "airplane"
+          "english": "airplane |(vi) máy bay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-to(bu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "飛行場（ひこうじょう）",
         "meaning": {
-          "english": "airport"
+          "english": "airport |(vi) sân bay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-to(bu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "飛行船（ひこうせん）",
         "meaning": {
-          "english": "airship"
+          "english": "airship |(vi) khinh khí cầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-to(bu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "飛躍する（ひやくする）",
         "meaning": {
-          "english": "leap [v.i.]"
+          "english": "leap [v.i.] |(vi) nhảy vọt, tiến vượt bậc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-to(bu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "飛ぶ（とぶ）",
         "meaning": {
-          "english": "jump, fly [v.i.]"
+          "english": "jump, fly [v.i.] |(vi) nhảy, bay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-to(bu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "飛び込む（とびこむ）",
         "meaning": {
-          "english": "jump in"
+          "english": "jump in |(vi) nhảy vào, lao vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-to(bu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "飛び上がる（とびあがる）",
         "meaning": {
-          "english": "jump up"
+          "english": "jump up |(vi) nhảy lên, bật lên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-to(bu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "飛ばす（とばす）",
         "meaning": {
-          "english": "send, fly [v.t.]"
+          "english": "send, fly [v.t.] |(vi) làm bay, phóng đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-to(bu)_06_h.opus",
@@ -240,7 +240,7 @@
     "kanji": {
       "character": "飛",
       "meaning": {
-        "english": "fly"
+        "english": "fly |(vi) bay"
       },
       "strokes": {
         "count": 9,
@@ -296,7 +296,7 @@
         "romaji": "tobu"
       },
       "meaning": {
-        "english": "to fly"
+        "english": "to fly |(vi) Phi (bay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tobu0.svg",
@@ -317,7 +317,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "580",
     "strokeCount": 9,
-    "meaning": "fly, skip (pages), scatter",
+    "meaning": "fly, skip (pages), scatter |(vi) bay, bỏ qua (trang), tản mác |(hv) Phi",
     "kunyomi": [
       "と.ぶ",
       "と.ばす",
@@ -330,44 +330,44 @@
       {
         "example": "飛",
         "reading": "ヒ",
-        "meaning": "rook, fly ball"
+        "meaning": "rook, fly ball |(vi) quân xe (shogi), bóng bay cao"
       },
       {
         "example": "飛球",
         "reading": "ヒキュウ",
-        "meaning": "fly (ball)"
+        "meaning": "fly (ball) |(vi) bóng bay cao (fly ball)"
       },
       {
         "example": "犠飛",
         "reading": "ギヒ",
-        "meaning": "sacrifice fly"
+        "meaning": "sacrifice fly |(vi) cú đánh hy sinh bóng bay (sacrifice fly)"
       },
       {
         "example": "中飛",
         "reading": "チュウヒ",
-        "meaning": "center fly, centre fly"
+        "meaning": "center fly, centre fly |(vi) bóng bay cao vào giữa sân"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "飛ぶ",
         "reading": "とぶ",
-        "meaning": "to fly, to soar, to jump, to leap, to spring, to bound, to hop, to spatter, to scatter, to splash, to fly (e.g. of sparks), to hurry, to rush, to flee, to run off, to escape, to disappear, to vanish, to fade, to thin out, to break off, to come off, to fall off, to blow (of a fuse), to be sent out (of an order), to fly (of false rumours, catcalls, etc.), to come flying (of a punch, kick, etc.), to be missing (of a page, stitch, etc.), to skip, to jump (e.g. of a conversation)"
+        "meaning": "to fly, to soar, to jump, to leap, to spring, to bound, to hop, to spatter, to scatter, to splash, to fly (e.g. of sparks), to hurry, to rush, to flee, to run off, to escape, to disappear, to vanish, to fade, to thin out, to break off, to come off, to fall off, to blow (of a fuse), to be sent out (of an order), to fly (of false rumours, catcalls, etc.), to come flying (of a punch, kick, etc.), to be missing (of a page, stitch, etc.), to skip, to jump (e.g. of a conversation) |(vi) bay, lượn, nhảy, phóng, bật, nảy, bắn tóe (như tia lửa), vội vã, chạy trốn, biến mất, phai nhạt, mờ dần, đứt quãng, bị rơi ra, bị đứt cầu chì, được gửi đi (đơn hàng), lan truyền (tin đồn thất thiệt), bay tới (cú đấm, cú đá), bị thiếu (trang, mũi khâu), bỏ qua, nhảy cóc (cuộc trò chuyện)"
       },
       {
         "example": "飛ぶ鳥",
         "reading": "とぶとり",
-        "meaning": "flying bird, soaring bird"
+        "meaning": "flying bird, soaring bird |(vi) chim đang bay, chim lượn"
       },
       {
         "example": "飛ばす",
         "reading": "とばす",
-        "meaning": "to let fly, to make fly, to send flying, to blow off (e.g. in the wind), to launch, to fire, to hurl, to shoot, to skip over, to leave out, to omit, to drop (e.g. a stitch), to run fast, to drive fast, to gallop, to spray, to splash, to spatter, to say without reservation, to call out (e.g. a jeer), to rattle off (e.g. a joke), to spread (e.g. a rumour), to circulate, to send out (a message), to issue (e.g. an appeal), to transfer (to a less important post), to send away (e.g. to a provincial branch), to demote, to dispatch quickly (e.g. a reporter), to get rid of, to burn off (alcohol), to attack (e.g. with a leg manoeuvre), to do vigorously, to do roughly, to do energetically"
+        "meaning": "to let fly, to make fly, to send flying, to blow off (e.g. in the wind), to launch, to fire, to hurl, to shoot, to skip over, to leave out, to omit, to drop (e.g. a stitch), to run fast, to drive fast, to gallop, to spray, to splash, to spatter, to say without reservation, to call out (e.g. a jeer), to rattle off (e.g. a joke), to spread (e.g. a rumour), to circulate, to send out (a message), to issue (e.g. an appeal), to transfer (to a less important post), to send away (e.g. to a provincial branch), to demote, to dispatch quickly (e.g. a reporter), to get rid of, to burn off (alcohol), to attack (e.g. with a leg manoeuvre), to do vigorously, to do roughly, to do energetically |(vi) làm bay, cho bay, thổi bay, thổi tung (trong gió), phóng, bắn, ném, bỏ qua, lược bỏ, làm rớt (như một mũi khâu), chạy nhanh, lái nhanh, phi nước đại, phun, bắn tóe, nói thẳng không giữ ý, hét lên (lời chế giễu), kể nhanh (chuyện đùa), lan truyền (tin đồn), phát tán, gửi đi (thông điệp), ban hành (lời kêu gọi), thuyên chuyển (đến chức vụ kém quan trọng hơn), giáng chức, cử đi nhanh (phóng viên), loại bỏ, đốt bay hơi (cồn), tấn công (bằng đòn chân), làm mạnh mẽ, làm thô bạo, làm hăng hái"
       }
     ],
     "radical": {
       "symbol": "飛",
-      "meaning": "fly"
+      "meaning": "fly |(vi) Phi (bay)"
     },
     "parts": [
       "飛"

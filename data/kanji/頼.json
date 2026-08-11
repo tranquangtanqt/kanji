@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "tano, tanomu, tanomoshii, tayo, tayoru",
-    "meaning": "rely on, request",
+    "meaning": "rely on, request |(vi) dựa vào, nhờ vả",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "信頼する（しんらいする）",
         "meaning": {
-          "english": "trust [v.t.]"
+          "english": "trust [v.t.] |(vi) tin tưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tayo(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "依頼する（いらいする）",
         "meaning": {
-          "english": "request [v.t.]"
+          "english": "request [v.t.] |(vi) yêu cầu, nhờ cậy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tayo(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "頼む（たのむ）",
         "meaning": {
-          "english": "request, ask"
+          "english": "request, ask |(vi) nhờ, yêu cầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tayo(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "頼もしい（たのもしい）",
         "meaning": {
-          "english": "trustworthy"
+          "english": "trustworthy |(vi) đáng tin cậy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tayo(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "頼る（たよる）",
         "meaning": {
-          "english": "depend on"
+          "english": "depend on |(vi) dựa vào, nương tựa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tayo(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "頼りない（たよりない）",
         "meaning": {
-          "english": "undependable"
+          "english": "undependable |(vi) không đáng tin cậy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tayo(ru)_06_f.opus",
@@ -221,7 +221,7 @@
     "kanji": {
       "character": "頼",
       "meaning": {
-        "english": "rely on, request"
+        "english": "rely on, request |(vi) dựa vào, nhờ vả"
       },
       "strokes": {
         "count": 16,
@@ -291,7 +291,7 @@
         "romaji": "oogai"
       },
       "meaning": {
-        "english": "head, page"
+        "english": "head, page |(vi) Hiệt (đầu, trang)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/oogai0.svg",
@@ -312,7 +312,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "708",
     "strokeCount": 16,
-    "meaning": "trust, request",
+    "meaning": "trust, request |(vi) tin tưởng, nhờ cậy |(hv) Lại",
     "kunyomi": [
       "たの.む",
       "たの.もしい",
@@ -325,44 +325,44 @@
       {
         "example": "頼信紙",
         "reading": "ライシンシ",
-        "meaning": "telegram form, telegram blank"
+        "meaning": "telegram form, telegram blank |(vi) mẫu điện tín"
       },
       {
         "example": "無頼",
         "reading": "ブライ",
-        "meaning": "villainous, rascally, knavish, independent, self-reliant"
+        "meaning": "villainous, rascally, knavish, independent, self-reliant |(vi) vô lại, du côn, ngang tàng"
       },
       {
         "example": "市井無頼",
         "reading": "シセイブライ",
-        "meaning": "urban villain, street hoodlum"
+        "meaning": "urban villain, street hoodlum |(vi) du côn đường phố"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "頼む",
         "reading": "たのむ",
-        "meaning": "to request, to beg, to ask, to call, to order, to reserve, to entrust to, to rely on, please, please do"
+        "meaning": "to request, to beg, to ask, to call, to order, to reserve, to entrust to, to rely on, please, please do |(vi) nhờ, xin, yêu cầu, nhờ cậy"
       },
       {
         "example": "頼むから",
         "reading": "たのむから",
-        "meaning": "please!, I'm asking you, for heaven's sake"
+        "meaning": "please!, I'm asking you, for heaven's sake |(vi) làm ơn đi, tôi xin bạn đấy"
       },
       {
         "example": "頼もしい",
         "reading": "たのもしい",
-        "meaning": "reliable, dependable, trustworthy, reassuring, hopeful, promising"
+        "meaning": "reliable, dependable, trustworthy, reassuring, hopeful, promising |(vi) đáng tin cậy, đáng trông cậy"
       },
       {
         "example": "頼る",
         "reading": "たよる",
-        "meaning": "to rely on, to depend on, to count on, to turn to (for help)"
+        "meaning": "to rely on, to depend on, to count on, to turn to (for help) |(vi) dựa vào, nương tựa, cậy nhờ"
       }
     ],
     "radical": {
       "symbol": "頁",
-      "meaning": "leaf"
+      "meaning": "leaf |(vi) Hiệt (đầu, trang)"
     },
     "parts": [
       "ハ",

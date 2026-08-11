@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "ata, atari, be",
-    "meaning": "vicinity, borderland",
+    "meaning": "vicinity, borderland |(vi) vùng lân cận, vùng biên giới",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "この辺（このへん）",
         "meaning": {
-          "english": "around here"
+          "english": "around here |(vi) khu vực này, quanh đây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-ata(ri)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "周辺（しゅうへん）",
         "meaning": {
-          "english": "circumference"
+          "english": "circumference |(vi) xung quanh, vùng lân cận, ngoại vi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-ata(ri)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "近辺（きんぺん）",
         "meaning": {
-          "english": "vicinity"
+          "english": "vicinity |(vi) vùng lân cận, gần đây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-ata(ri)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "辺り（あたり）",
         "meaning": {
-          "english": "nearby"
+          "english": "nearby |(vi) gần đó, xung quanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-ata(ri)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "窓辺（まどべ）",
         "meaning": {
-          "english": "by the window"
+          "english": "by the window |(vi) bên cửa sổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-ata(ri)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "川辺（かわべ）",
         "meaning": {
-          "english": "riverside"
+          "english": "riverside |(vi) bờ sông, ven sông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-ata(ri)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "渡辺（わたなべ）",
         "meaning": {
-          "english": "Watanabe (surname)"
+          "english": "Watanabe (surname) |(vi) Watanabe (họ người Nhật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hen-ata(ri)_06_g.opus",
@@ -190,7 +190,7 @@
     "kanji": {
       "character": "辺",
       "meaning": {
-        "english": "vicinity, borderland"
+        "english": "vicinity, borderland |(vi) vùng lân cận, vùng biên giới"
       },
       "strokes": {
         "count": 5,
@@ -238,7 +238,7 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance |(vi) Sước (đi, bước đi)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -259,7 +259,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "428",
     "strokeCount": 5,
-    "meaning": "environs, boundary, border, vicinity",
+    "meaning": "environs, boundary, border, vicinity |(vi) vùng phụ cận, ranh giới, biên giới, vùng lân cận |(hv) Biên",
     "kunyomi": [
       "あた.り",
       "ほと.り",
@@ -272,49 +272,49 @@
       {
         "example": "辺",
         "reading": "ヘン",
-        "meaning": "area, vicinity, region, side, edge, circumstances"
+        "meaning": "area, vicinity, region, side, edge, circumstances |(vi) khu vực, vùng lân cận, vùng, phía, cạnh, hoàn cảnh"
       },
       {
         "example": "辺境",
         "reading": "ヘンキョウ",
-        "meaning": "remote region, outlying district, border district, frontier"
+        "meaning": "remote region, outlying district, border district, frontier |(vi) vùng biên giới xa xôi, vùng biên viễn, vùng biên cương"
       },
       {
         "example": "普遍",
         "reading": "フヘン",
-        "meaning": "universal, general, ubiquitous, omnipresent"
+        "meaning": "universal, general, ubiquitous, omnipresent |(vi) phổ biến, phổ quát, khắp nơi"
       },
       {
         "example": "どの辺",
         "reading": "ドノヘン",
-        "meaning": "whereabouts, what part, how much, what point"
+        "meaning": "whereabouts, what part, how much, what point |(vi) chỗ nào, phần nào, khoảng bao nhiêu, điểm nào"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "辺り",
         "reading": "あたり",
-        "meaning": "(in the) neighbourhood, neighborhood, vicinity, nearby, surroundings, around, about, or thereabouts, for instance, say, such as"
+        "meaning": "(in the) neighbourhood, neighborhood, vicinity, nearby, surroundings, around, about, or thereabouts, for instance, say, such as |(vi) vùng lân cận, xung quanh, gần đó, khoảng chừng, ví dụ như, chẳng hạn"
       },
       {
         "example": "あたり一面",
         "reading": "あたりいちめん",
-        "meaning": "whole area, surrounding area, all around, everywhere, all over the place"
+        "meaning": "whole area, surrounding area, all around, everywhere, all over the place |(vi) khắp mọi nơi, toàn bộ khu vực xung quanh"
       },
       {
         "example": "御辺",
         "reading": "ごへん",
-        "meaning": "you"
+        "meaning": "you |(vi) ngài, ông (đại từ nhân xưng cổ)"
       },
       {
         "example": "辺",
         "reading": "ほとり",
-        "meaning": "side (esp. of a waterbody), edge, bank, shore"
+        "meaning": "side (esp. of a waterbody), edge, bank, shore |(vi) bờ (sông, hồ...), ven, mép, bến"
       },
       {
         "example": "片辺",
         "reading": "かたほとり",
-        "meaning": "corner, remote country place"
+        "meaning": "corner, remote country place |(vi) góc hẻo lánh, vùng quê xa xôi"
       }
     ],
     "radical": {
@@ -324,7 +324,7 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": "walk |(vi) Sước (đi, bước đi)"
     },
     "parts": [
       "刀",

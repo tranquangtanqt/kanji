@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "kowa, kowai, kowagaru",
-    "meaning": "fearful, scary",
+    "meaning": "fearful, scary |(vi) sợ hãi, đáng sợ",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "恐怖（きょうふ）",
         "meaning": {
-          "english": "terror"
+          "english": "terror |(vi) khủng bố, kinh hoàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-kowa(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "恐怖症（きょうふしょう）",
         "meaning": {
-          "english": "phobia"
+          "english": "phobia |(vi) chứng sợ hãi, ám ảnh sợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-kowa(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "怖い（こわい）",
         "meaning": {
-          "english": "scary, frightening [adj.]"
+          "english": "scary, frightening [adj.] |(vi) đáng sợ, kinh khủng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-kowa(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "怖がる（こわがる）",
         "meaning": {
-          "english": "be afraid of, fear [v.i.]"
+          "english": "be afraid of, fear [v.i.] |(vi) sợ, e sợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-kowa(i)_06_d.opus",
@@ -162,7 +162,7 @@
     "kanji": {
       "character": "怖",
       "meaning": {
-        "english": "fearful, scary"
+        "english": "fearful, scary |(vi) sợ hãi, đáng sợ"
       },
       "strokes": {
         "count": 8,
@@ -216,7 +216,7 @@
         "romaji": "risshinben"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (trái tim, tấm lòng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/risshinben0.svg",
@@ -237,7 +237,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1325",
     "strokeCount": 8,
-    "meaning": "dreadful, be frightened, fearful",
+    "meaning": "dreadful, be frightened, fearful |(vi) đáng sợ, khiếp sợ, sợ hãi |(hv) Bố",
     "kunyomi": [
       "こわ.い",
       "こわ.がる",
@@ -252,39 +252,39 @@
       {
         "example": "畏怖",
         "reading": "イフ",
-        "meaning": "awe, fear, dread, fright"
+        "meaning": "awe, fear, dread, fright |(vi) sợ hãi, kính sợ"
       },
       {
         "example": "衝撃と畏怖",
         "reading": "ショウゲキトイフ",
-        "meaning": "shock and awe"
+        "meaning": "shock and awe |(vi) gây sốc và kinh hoàng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "怖い",
         "reading": "こわい",
-        "meaning": "scary, frightening, eerie, dreadful"
+        "meaning": "scary, frightening, eerie, dreadful |(vi) đáng sợ, rùng rợn"
       },
       {
         "example": "怖い顔",
         "reading": "こわいかお",
-        "meaning": "grim face, angry look"
+        "meaning": "grim face, angry look |(vi) vẻ mặt dữ tợn, khuôn mặt giận dữ"
       },
       {
         "example": "怖がる",
         "reading": "こわがる",
-        "meaning": "to be afraid (of), to fear, to be frightened (of), to be scared (of), to worry (about)"
+        "meaning": "to be afraid (of), to fear, to be frightened (of), to be scared (of), to worry (about) |(vi) sợ hãi, e ngại, lo sợ"
       },
       {
         "example": "怖じる",
         "reading": "おじる",
-        "meaning": "to be scared"
+        "meaning": "to be scared |(vi) sợ hãi, nhút nhát"
       },
       {
         "example": "恐れる",
         "reading": "おそれる",
-        "meaning": "to fear, to be afraid of"
+        "meaning": "to fear, to be afraid of |(vi) sợ, lo sợ"
       }
     ],
     "radical": {
@@ -293,7 +293,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim, tấm lòng)"
     },
     "parts": [
       "ノ",

@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "yuu",
-    "meaning": "evening",
+    "meaning": "evening |(vi) buổi tối, chiều tà",
     "kstroke": 3,
     "examples": [
       {
         "japanese": "一朝一夕（いっちょういっせき）",
         "meaning": {
-          "english": "in a brief space of time"
+          "english": "in a brief space of time |(vi) trong khoảnh khắc ngắn ngủi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-yuu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "夕方（ゆうがた）",
         "meaning": {
-          "english": "evening"
+          "english": "evening |(vi) buổi chiều tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-yuu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "夕食（ゆうしょく）",
         "meaning": {
-          "english": "dinner"
+          "english": "dinner |(vi) bữa tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-yuu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "夕日（ゆうひ）",
         "meaning": {
-          "english": "the evening sun"
+          "english": "the evening sun |(vi) mặt trời lặn, ánh chiều tà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-yuu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "夕刊（ゆうかん）",
         "meaning": {
-          "english": "evening paper"
+          "english": "evening paper |(vi) báo buổi chiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-yuu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "夕暮れ（ゆうぐれ）",
         "meaning": {
-          "english": "twilight"
+          "english": "twilight |(vi) hoàng hôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-yuu_06_f.opus",
@@ -215,7 +215,7 @@
     "kanji": {
       "character": "夕",
       "meaning": {
-        "english": "evening"
+        "english": "evening |(vi) buổi tối, chiều tà"
       },
       "strokes": {
         "count": 3,
@@ -259,7 +259,7 @@
         "romaji": "yuube"
       },
       "meaning": {
-        "english": "evening"
+        "english": "evening |(vi) Tịch (buổi tối, chiều tà)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yuube0.svg",
@@ -280,7 +280,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "924",
     "strokeCount": 3,
-    "meaning": "evening",
+    "meaning": "evening |(vi) buổi tối, chiều tà |(hv) Tịch",
     "kunyomi": [
       "ゆう"
     ],
@@ -291,49 +291,49 @@
       {
         "example": "勺",
         "reading": "シャク",
-        "meaning": "shaku, traditional unit of volume, approx. 18 ml, shaku, traditional unit of area, approx. 0.033 meters square"
+        "meaning": "shaku, traditional unit of volume, approx. 18 ml, shaku, traditional unit of area, approx. 0.033 meters square |(vi) shaku (đơn vị đo dung tích ~18ml hoặc diện tích ~0,033m²)"
       },
       {
         "example": "夕日",
         "reading": "ユウヒ",
-        "meaning": "evening sun, setting sun"
+        "meaning": "evening sun, setting sun |(vi) mặt trời lặn, ánh chiều tà"
       },
       {
         "example": "秋夕",
         "reading": "シュウセキ",
-        "meaning": "autumn evening"
+        "meaning": "autumn evening |(vi) chiều thu"
       },
       {
         "example": "一夕",
         "reading": "イッセキ",
-        "meaning": "one evening, some evenings"
+        "meaning": "one evening, some evenings |(vi) một buổi tối, một đêm nọ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "夕",
         "reading": "ゆう",
-        "meaning": "evening"
+        "meaning": "evening |(vi) buổi tối"
       },
       {
         "example": "夕べ",
         "reading": "ゆうべ",
-        "meaning": "evening, evening (of a special event)"
+        "meaning": "evening, evening (of a special event) |(vi) tối qua, buổi tối (của một sự kiện)"
       },
       {
         "example": "昨夕",
         "reading": "さくゆう",
-        "meaning": "yesterday evening, last night"
+        "meaning": "yesterday evening, last night |(vi) tối hôm qua"
       },
       {
         "example": "春の夕",
         "reading": "はるのゆう",
-        "meaning": "spring evening"
+        "meaning": "spring evening |(vi) buổi tối mùa xuân"
       }
     ],
     "radical": {
       "symbol": "夕",
-      "meaning": "evening, sunset"
+      "meaning": "evening, sunset |(vi) Tịch (buổi tối, hoàng hôn)"
     },
     "parts": [
       "夕"

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "kanara, kanarazu",
-    "meaning": "without failure, surely",
+    "meaning": "without failure, surely |(vi) chắc chắn, ắt hẳn",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "必要な（ひつような）",
         "meaning": {
-          "english": "necessary"
+          "english": "necessary |(vi) cần thiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kanara(zu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "必然的な（ひつぜんてきな）",
         "meaning": {
-          "english": "inevitable"
+          "english": "inevitable |(vi) tất nhiên, tất yếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kanara(zu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "必死（ひっし）",
         "meaning": {
-          "english": "desperate"
+          "english": "desperate |(vi) liều mạng, cố hết sức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kanara(zu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "必勝（ひっしょう）",
         "meaning": {
-          "english": "certain victory"
+          "english": "certain victory |(vi) ắt thắng, quyết thắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kanara(zu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "必読書（ひつどくしょ）",
         "meaning": {
-          "english": "a must-read book"
+          "english": "a must-read book |(vi) sách phải đọc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kanara(zu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "必ず（かならず）",
         "meaning": {
-          "english": "without fail"
+          "english": "without fail |(vi) nhất định, chắc chắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kanara(zu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "必ずしも（かならずしも）",
         "meaning": {
-          "english": "(not) always"
+          "english": "(not) always |(vi) không hẳn, không nhất thiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kanara(zu)_06_g.opus",
@@ -236,7 +236,7 @@
     "kanji": {
       "character": "必",
       "meaning": {
-        "english": "without failure, surely"
+        "english": "without failure, surely |(vi) chắc chắn, ắt hẳn"
       },
       "strokes": {
         "count": 5,
@@ -284,7 +284,7 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (trái tim, tấm lòng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -305,7 +305,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "265",
     "strokeCount": 5,
-    "meaning": "invariably, certain, inevitable",
+    "meaning": "invariably, certain, inevitable |(vi) ắt hẳn, chắc chắn, tất yếu |(hv) Tất",
     "kunyomi": [
       "かなら.ず"
     ],
@@ -316,24 +316,24 @@
       {
         "example": "必",
         "reading": "ヒツ",
-        "meaning": "definiteness, certainty"
+        "meaning": "definiteness, certainty |(vi) sự chắc chắn, tính xác định"
       },
       {
         "example": "必需",
         "reading": "ヒツジュ",
-        "meaning": "necessary"
+        "meaning": "necessary |(vi) cần thiết, tất yếu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "必ず",
         "reading": "かならず",
-        "meaning": "always, without exception, necessarily, certainly, without fail, positively, invariably"
+        "meaning": "always, without exception, necessarily, certainly, without fail, positively, invariably |(vi) nhất định, chắc chắn, không sai"
       },
       {
         "example": "必ずしも",
         "reading": "かならずしも",
-        "meaning": "(not) always, (not) necessarily, (not) entirely, (not) all"
+        "meaning": "(not) always, (not) necessarily, (not) entirely, (not) all |(vi) không hẳn, không nhất thiết"
       }
     ],
     "radical": {
@@ -342,7 +342,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim, tấm lòng)"
     },
     "parts": [
       "ノ",

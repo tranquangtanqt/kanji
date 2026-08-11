@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "explode",
+    "meaning": "explode |(vi) nổ, bùng nổ",
     "kstroke": 19,
     "examples": [
       {
         "japanese": "爆弾（ばくだん）",
         "meaning": {
-          "english": "bomb [n.]"
+          "english": "bomb [n.] |(vi) quả bom"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/baku(dan)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "爆風（ばくふう）",
         "meaning": {
-          "english": "blast [n.]"
+          "english": "blast [n.] |(vi) sức nổ, luồng gió do vụ nổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/baku(dan)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "爆薬（ばくやく）",
         "meaning": {
-          "english": "explosive, blasting powder"
+          "english": "explosive, blasting powder |(vi) thuốc nổ, chất nổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/baku(dan)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "原爆（げんばく）",
         "meaning": {
-          "english": "atomic bomb"
+          "english": "atomic bomb |(vi) bom nguyên tử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/baku(dan)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "被爆者（ひばくしゃ）",
         "meaning": {
-          "english": "atomic bomb victim"
+          "english": "atomic bomb victim |(vi) nạn nhân bom nguyên tử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/baku(dan)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "爆発的な（ばくはつてきな）",
         "meaning": {
-          "english": "explosive, tremendous"
+          "english": "explosive, tremendous |(vi) mang tính bùng nổ, dữ dội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/baku(dan)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "爆撃する（ばくげきする）",
         "meaning": {
-          "english": "bomb, drop bombs"
+          "english": "bomb, drop bombs |(vi) ném bom, oanh tạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/baku(dan)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "爆笑する（ばくしょうする）",
         "meaning": {
-          "english": "roar with laughter"
+          "english": "roar with laughter |(vi) cười phá lên, cười rộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/baku(dan)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "爆発する（ばくはつする）",
         "meaning": {
-          "english": "explode"
+          "english": "explode |(vi) nổ, bùng nổ, phát nổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/baku(dan)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "爆破する（ばくはする）",
         "meaning": {
-          "english": "blow up, blast"
+          "english": "blow up, blast |(vi) cho nổ tung, phá nổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/baku(dan)_06_j.opus",
@@ -231,7 +231,7 @@
     "kanji": {
       "character": "爆",
       "meaning": {
-        "english": "explode"
+        "english": "explode |(vi) nổ, bùng nổ"
       },
       "strokes": {
         "count": 19,
@@ -307,7 +307,7 @@
         "romaji": "hihen"
       },
       "meaning": {
-        "english": "fire"
+        "english": "fire |(vi) Hỏa (lửa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hihen-fire0.svg",
@@ -328,7 +328,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "735",
     "strokeCount": 19,
-    "meaning": "bomb, burst open, pop, split",
+    "meaning": "bomb, burst open, pop, split |(vi) bom, nổ tung, bật ra, vỡ ra |(hv) Bộc",
     "kunyomi": [
       "は.ぜる"
     ],
@@ -339,29 +339,29 @@
       {
         "example": "爆",
         "reading": "バク",
-        "meaning": "burst of laughter, roar of laughter, in copious amounts"
+        "meaning": "burst of laughter, roar of laughter, in copious amounts |(vi) cười phá lên, tràn đầy, dồi dào"
       },
       {
         "example": "爆音",
         "reading": "バクオン",
-        "meaning": "(sound of an) explosion or detonation, roar (of a machine)"
+        "meaning": "(sound of an) explosion or detonation, roar (of a machine) |(vi) tiếng nổ, tiếng gầm (của máy móc)"
       },
       {
         "example": "起爆",
         "reading": "キバク",
-        "meaning": "ignition, detonation, triggering, explosion"
+        "meaning": "ignition, detonation, triggering, explosion |(vi) kích nổ, gây nổ"
       },
       {
         "example": "水爆",
         "reading": "スイバク",
-        "meaning": "hydrogen bomb"
+        "meaning": "hydrogen bomb |(vi) bom khinh khí, bom hydro"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "爆ぜる",
         "reading": "はぜる",
-        "meaning": "to burst open, to pop, to split"
+        "meaning": "to burst open, to pop, to split |(vi) vỡ tung, bật nổ, nứt ra"
       }
     ],
     "radical": {
@@ -369,7 +369,7 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": "fire |(vi) Hỏa (lửa)"
     },
     "parts": [
       "ハ",

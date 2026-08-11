@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "in advance",
+    "meaning": "in advance |(vi) trước, sẵn trước",
     "kstroke": 4,
     "examples": [
       {
         "japanese": "天気予報（てんきよほう）",
         "meaning": {
-          "english": "weather forecast"
+          "english": "weather forecast |(vi) dự báo thời tiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(tei)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "予算（よさん）",
         "meaning": {
-          "english": "budget"
+          "english": "budget |(vi) ngân sách, dự toán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(tei)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "予備（よび）",
         "meaning": {
-          "english": "spare"
+          "english": "spare |(vi) dự bị, dự phòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(tei)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "予習する（よしゅうする）",
         "meaning": {
-          "english": "prepare for a lesson"
+          "english": "prepare for a lesson |(vi) chuẩn bị bài trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(tei)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "予定する（よていする）",
         "meaning": {
-          "english": "plan [v.t.]"
+          "english": "plan [v.t.] |(vi) dự định, lên kế hoạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(tei)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "予知する（よちする）",
         "meaning": {
-          "english": "know by foresight"
+          "english": "know by foresight |(vi) biết trước, dự tri"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(tei)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "予期する（よきする）",
         "meaning": {
-          "english": "expect"
+          "english": "expect |(vi) dự kiến, mong đợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(tei)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "予約する（よやくする）",
         "meaning": {
-          "english": "reserve"
+          "english": "reserve |(vi) đặt trước, dự ước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(tei)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "予感する（よかんする）",
         "meaning": {
-          "english": "know by premonition"
+          "english": "know by premonition |(vi) linh cảm, dự cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(tei)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "予防する（よぼうする）",
         "meaning": {
-          "english": "prevent"
+          "english": "prevent |(vi) phòng ngừa, dự phòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(tei)_06_j.opus",
@@ -260,7 +260,7 @@
     "kanji": {
       "character": "予",
       "meaning": {
-        "english": "in advance"
+        "english": "in advance |(vi) trước, sẵn trước"
       },
       "strokes": {
         "count": 4,
@@ -306,7 +306,7 @@
         "romaji": "hanebou"
       },
       "meaning": {
-        "english": "vertical stroke with a hook"
+        "english": "vertical stroke with a hook |(vi) Quyết (móc câu, nét móc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hanebou0.svg",
@@ -327,7 +327,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "180",
     "strokeCount": 4,
-    "meaning": "beforehand, previous, myself, I",
+    "meaning": "beforehand, previous, myself, I |(vi) trước, sẵn trước, ta, tôi |(hv) Dự",
     "kunyomi": [
       "あらかじ.め"
     ],
@@ -339,34 +339,34 @@
       {
         "example": "予",
         "reading": "ヨ",
-        "meaning": "I, me"
+        "meaning": "I, me |(vi) ta, tôi"
       },
       {
         "example": "予感",
         "reading": "ヨカン",
-        "meaning": "presentiment, premonition, hunch, to have a premonition, to have a hunch"
+        "meaning": "presentiment, premonition, hunch, to have a premonition, to have a hunch |(vi) linh cảm, dự cảm, trực giác"
       },
       {
         "example": "起訴猶予",
         "reading": "キソユウヨ",
-        "meaning": "suspension of indictment, leaving charge on the file"
+        "meaning": "suspension of indictment, leaving charge on the file |(vi) hoãn truy tố, tạm hoãn khởi tố"
       },
       {
         "example": "執行猶予",
         "reading": "シッコウユウヨ",
-        "meaning": "stay of execution, suspended sentence"
+        "meaning": "stay of execution, suspended sentence |(vi) án treo, hoãn thi hành án"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "予め",
         "reading": "あらかじめ",
-        "meaning": "beforehand, in advance, ahead of time, previously"
+        "meaning": "beforehand, in advance, ahead of time, previously |(vi) trước, từ trước, sẵn trước"
       }
     ],
     "radical": {
       "symbol": "亅",
-      "meaning": "hook"
+      "meaning": "hook |(vi) Quyết (móc câu)"
     },
     "parts": [
       "マ",

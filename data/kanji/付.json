@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "tsu, tsukeru, tsuku, tsuki, zukeru, zuku",
-    "meaning": "attach, belong, apply",
+    "meaning": "attach, belong, apply |(vi) gắn vào, thuộc về, áp dụng",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "付属品（ふぞくひん）",
         "meaning": {
-          "english": "accessory, fittings"
+          "english": "accessory, fittings |(vi) phụ kiện, đồ đi kèm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "付加価値（ふかかち）",
         "meaning": {
-          "english": "added value"
+          "english": "added value |(vi) giá trị gia tăng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "寄付する（きふする）",
         "meaning": {
-          "english": "contribute, donate"
+          "english": "contribute, donate |(vi) đóng góp, quyên góp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "添付する（てんぷする）",
         "meaning": {
-          "english": "append, attach"
+          "english": "append, attach |(vi) đính kèm, gắn thêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "付く（つく）",
         "meaning": {
-          "english": "adjoin, be attached, adhere [v.i.]"
+          "english": "adjoin, be attached, adhere [v.i.] |(vi) gắn liền, dính vào, bám vào [nội động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "気付く（きづく）",
         "meaning": {
-          "english": "notice, recognize"
+          "english": "notice, recognize |(vi) nhận ra, để ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "期限付き（きげんつき）",
         "meaning": {
-          "english": "with a time limit, with a deadline"
+          "english": "with a time limit, with a deadline |(vi) có thời hạn, có hạn chót"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "付ける（つける）",
         "meaning": {
-          "english": "attach, add, append [v.t.]"
+          "english": "attach, add, append [v.t.] |(vi) gắn, thêm vào, đính kèm [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "裏付ける（うらづける）",
         "meaning": {
-          "english": "support, endorse, substantiate"
+          "english": "support, endorse, substantiate |(vi) ủng hộ, xác nhận, chứng thực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "付け（つけ）",
         "meaning": {
-          "english": "bill, credit account"
+          "english": "bill, credit account |(vi) hóa đơn, tài khoản ghi nợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "１０日付け（とおかづけ）",
         "meaning": {
-          "english": "dated the 10th"
+          "english": "dated the 10th |(vi) đề ngày mùng 10"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "*受付（うけつけ）",
         "meaning": {
-          "english": "reception desk"
+          "english": "reception desk |(vi) quầy lễ tân, quầy tiếp tân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_l.opus",
@@ -275,7 +275,7 @@
     "kanji": {
       "character": "付",
       "meaning": {
-        "english": "attach, belong, apply"
+        "english": "attach, belong, apply |(vi) gắn vào, thuộc về, áp dụng"
       },
       "strokes": {
         "count": 5,
@@ -323,7 +323,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -344,7 +344,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "322",
     "strokeCount": 5,
-    "meaning": "adhere, attach, refer to, append",
+    "meaning": "adhere, attach, refer to, append |(vi) gắn vào, dính, tham chiếu, đính kèm |(hv) Phó",
     "kunyomi": [
       "つ.ける",
       "-つ.ける",
@@ -369,79 +369,79 @@
       {
         "example": "付近",
         "reading": "フキン",
-        "meaning": "neighborhood, neighbourhood, vicinity, environs, surrounding area, district"
+        "meaning": "neighborhood, neighbourhood, vicinity, environs, surrounding area, district |(vi) vùng lân cận, khu vực xung quanh"
       },
       {
         "example": "付加",
         "reading": "フカ",
-        "meaning": "addition, annexation, appendage"
+        "meaning": "addition, annexation, appendage |(vi) phần phụ thêm, phụ lục, phần đính kèm"
       },
       {
         "example": "貼付",
         "reading": "チョウフ",
-        "meaning": "pasting, sticking, attaching, affixing, appending"
+        "meaning": "pasting, sticking, attaching, affixing, appending |(vi) dán, dán lên, đính kèm"
       },
       {
         "example": "回付",
         "reading": "カイフ",
-        "meaning": "transmitting, referring to, passing on"
+        "meaning": "transmitting, referring to, passing on |(vi) chuyển giao, chuyển tiếp, chuyển đạt"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "付ける",
         "reading": "つける",
-        "meaning": "to attach, to join, to connect, to add, to append, to affix, to stick, to glue, to fasten, to sew on, to apply (ointment), to put against, to furnish (a house with), to wear, to put on, to keep a diary, to make an entry, to appraise, to set (a price), to allot, to budget, to assign, to bring alongside, to place (under guard or doctor), to follow (someone), to shadow, to tail, to stalk, to load, to give (courage to), to keep (an eye on), to establish (relations or understanding), to turn on (a light), to produce flowers (of a plant), to produce fruit, to do intensely, to do fiercely, to do strongly, to be used to (doing), to be accustomed to"
+        "meaning": "to attach, to join, to connect, to add, to append, to affix, to stick, to glue, to fasten, to sew on, to apply (ointment), to put against, to furnish (a house with), to wear, to put on, to keep a diary, to make an entry, to appraise, to set (a price), to allot, to budget, to assign, to bring alongside, to place (under guard or doctor), to follow (someone), to shadow, to tail, to stalk, to load, to give (courage to), to keep (an eye on), to establish (relations or understanding), to turn on (a light), to produce flowers (of a plant), to produce fruit, to do intensely, to do fiercely, to do strongly, to be used to (doing), to be accustomed to |(vi) gắn, nối, ghép, thêm vào, đính kèm, dán, dính, khâu vào, bôi (thuốc mỡ), đặt sát vào, trang bị (cho nhà), mặc, ghi sổ, định giá, phân bổ, cho đi kèm, theo dõi (ai đó), chở, mang lại (can đảm), giữ (theo dõi), thiết lập (quan hệ), bật (đèn), ra hoa, kết trái, làm mạnh mẽ, quen (làm việc gì)"
       },
       {
         "example": "付け",
         "reading": "つけ",
-        "meaning": "bill, bill of sale, payment invoice, tab (for later payment), credit, contact move, direct attack to an enemy stone, sound effect produced by striking a wooden board with clappers, letter, reason, motive, pretext, one's fortune, one's luck"
+        "meaning": "bill, bill of sale, payment invoice, tab (for later payment), credit, contact move, direct attack to an enemy stone, sound effect produced by striking a wooden board with clappers, letter, reason, motive, pretext, one's fortune, one's luck |(vi) hóa đơn, phiếu bán hàng, sổ ghi nợ, tín dụng, nước đi tiếp xúc (cờ vây), tiếng gõ nhịp bằng phách gỗ, lý do, vận may"
       },
       {
         "example": "付け根",
         "reading": "つけね",
-        "meaning": "root, joint, base, crotch"
+        "meaning": "root, joint, base, crotch |(vi) gốc, khớp nối, chân, háng"
       },
       {
         "example": "振り付け",
         "reading": "ふりつけ",
-        "meaning": "choreography, dance composition, dance coaching"
+        "meaning": "choreography, dance composition, dance coaching |(vi) biên đạo múa, dàn dựng vũ đạo"
       },
       {
         "example": "締め付け",
         "reading": "しめつけ",
-        "meaning": "pressure, clamping, tightening, fastening"
+        "meaning": "pressure, clamping, tightening, fastening |(vi) áp lực, kẹp chặt, siết chặt"
       },
       {
         "example": "付く",
         "reading": "つく",
-        "meaning": "to be attached, to be connected with, to adhere, to stick, to cling, to remain imprinted, to scar, to stain, to dye, to bear (fruit, interest, etc.), to be acquired (of a habit, ability, etc.), to increase (of strength, etc.), to take root, to accompany, to attend, to follow, to study with, to side with, to belong to, to possess, to haunt, to be lit, to catch fire, to ignite, to be turned on (of a light, appliance, etc.), to be settled, to be resolved, to be decided, to be given (of a name, price, etc.), to be sensed, to be perceived, to be lucky, to become (a state, condition, etc.)"
+        "meaning": "to be attached, to be connected with, to adhere, to stick, to cling, to remain imprinted, to scar, to stain, to dye, to bear (fruit, interest, etc.), to be acquired (of a habit, ability, etc.), to increase (of strength, etc.), to take root, to accompany, to attend, to follow, to study with, to side with, to belong to, to possess, to haunt, to be lit, to catch fire, to ignite, to be turned on (of a light, appliance, etc.), to be settled, to be resolved, to be decided, to be given (of a name, price, etc.), to be sensed, to be perceived, to be lucky, to become (a state, condition, etc.) |(vi) gắn liền, kết nối với, bám vào, dính, để lại dấu, để lại sẹo, nhuộm màu, sinh (quả, lãi), có được (thói quen, khả năng), tăng (sức mạnh), bén rễ, đi kèm, tham gia, theo học, theo phe, thuộc về, sở hữu, ám (ma), được thắp sáng, bén lửa, được bật, được quyết định, được đặt tên/giá, được cảm nhận, may mắn, trở thành (một trạng thái)"
       },
       {
         "example": "付喪神",
         "reading": "つくもがみ",
-        "meaning": "artifact spirit, in folk belief, long-lived objects (household objects, living beings, nature, etc.) become inhabited by a spirit"
+        "meaning": "artifact spirit, in folk belief, long-lived objects (household objects, living beings, nature, etc.) become inhabited by a spirit |(vi) linh hồn đồ vật, theo tín ngưỡng dân gian, vật dụng lâu năm hóa linh"
       },
       {
         "example": "付き",
         "reading": "つき",
-        "meaning": "furnished with, including, attached to, impression, appearance, luck, sociality, under, assistant (e.g. to a manager), soup base"
+        "meaning": "furnished with, including, attached to, impression, appearance, luck, sociality, under, assistant (e.g. to a manager), soup base |(vi) kèm theo, bao gồm, gắn với, ấn tượng, dáng vẻ, may mắn, tính hòa đồng, dưới quyền, trợ lý, nước dùng"
       },
       {
         "example": "付き合い",
         "reading": "つきあい",
-        "meaning": "association, socializing, socialising, fellowship"
+        "meaning": "association, socializing, socialising, fellowship |(vi) kết giao, giao thiệp, tình bạn"
       },
       {
         "example": "お墨付き",
         "reading": "おすみつき",
-        "meaning": "certificate, certified document, authorization, authorisation, (the) thumbs up, seal of approval, paper with signature of the shogun or lord"
+        "meaning": "certificate, certified document, authorization, authorisation, (the) thumbs up, seal of approval, paper with signature of the shogun or lord |(vi) giấy chứng nhận, giấy phép, sự xác nhận, dấu chấp thuận, giấy có chữ ký của mạc chúa hoặc lãnh chúa"
       },
       {
         "example": "原付",
         "reading": "げんつき",
-        "meaning": "motorized two-wheeled vehicle (with a displacement of less than 50cc), scooter, moped"
+        "meaning": "motorized two-wheeled vehicle (with a displacement of less than 50cc), scooter, moped |(vi) xe máy động cơ nhỏ (dưới 50cc), xe tay ga"
       }
     ],
     "radical": {
@@ -449,7 +449,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "化",

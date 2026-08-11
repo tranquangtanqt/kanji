@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "oka, okasu",
-    "meaning": "risk, brave, desecrate",
+    "meaning": "risk, brave, desecrate |(vi) liều lĩnh, gan dạ, xúc phạm",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "冒険（ぼうけん）",
         "meaning": {
-          "english": "adventure [n.]"
+          "english": "adventure [n.] |(vi) mạo hiểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-oka(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "冒頭（ぼうとう）",
         "meaning": {
-          "english": "opening (of a story, article, etc.)"
+          "english": "opening (of a story, article, etc.) |(vi) phần mở đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-oka(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "冒涜する（ぼうとくする）",
         "meaning": {
-          "english": "desecrate, blaspheme"
+          "english": "desecrate, blaspheme |(vi) xúc phạm, báng bổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-oka(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "冒す（おかす）",
         "meaning": {
-          "english": "risk, take a risk"
+          "english": "risk, take a risk |(vi) liều, mạo hiểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-oka(su)_06_d.opus",
@@ -144,7 +144,7 @@
     "kanji": {
       "character": "冒",
       "meaning": {
-        "english": "risk, brave, desecrate"
+        "english": "risk, brave, desecrate |(vi) liều lĩnh, gan dạ, xúc phạm"
       },
       "strokes": {
         "count": 9,
@@ -200,7 +200,7 @@
         "romaji": "me"
       },
       "meaning": {
-        "english": "eye"
+        "english": "eye |(vi) Mục (mắt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/me0.svg",
@@ -221,7 +221,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1317",
     "strokeCount": 9,
-    "meaning": "risk, face, defy, dare, damage, assume (a name)",
+    "meaning": "risk, face, defy, dare, damage, assume (a name) |(vi) liều lĩnh, đối mặt, thách thức, dám, làm hại, mạo nhận (tên) |(hv) Mạo",
     "kunyomi": [
       "おか.す"
     ],
@@ -232,34 +232,34 @@
       {
         "example": "冒頭",
         "reading": "ボウトウ",
-        "meaning": "beginning, opening, start, outset"
+        "meaning": "beginning, opening, start, outset |(vi) khởi đầu, mở đầu"
       },
       {
         "example": "冒険",
         "reading": "ボウケン",
-        "meaning": "adventure, venture, venture which is unlikely to succeed, risky attempt, danger, hazard, risk"
+        "meaning": "adventure, venture, venture which is unlikely to succeed, risky attempt, danger, hazard, risk |(vi) mạo hiểm, phiêu lưu"
       },
       {
         "example": "感冒",
         "reading": "カンボウ",
-        "meaning": "(common) cold"
+        "meaning": "(common) cold |(vi) cảm mạo, cảm lạnh"
       },
       {
         "example": "流行性感冒",
         "reading": "リュウコウセイカンボウ",
-        "meaning": "influenza, flu"
+        "meaning": "influenza, flu |(vi) cúm, cảm cúm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "冒す",
         "reading": "おかす",
-        "meaning": "to brave, to risk, to face, to venture, to harm, to afflict, to affect, to desecrate, to profane, to assume (someone else's surname), to take"
+        "meaning": "to brave, to risk, to face, to venture, to harm, to afflict, to affect, to desecrate, to profane, to assume (someone else's surname), to take |(vi) liều, mạo hiểm, xúc phạm, mạo nhận, làm hại"
       }
     ],
     "radical": {
       "symbol": "冂",
-      "meaning": "open country"
+      "meaning": "open country |(vi) Quynh (vùng ngoài, khung bao)"
     },
     "parts": [
       "日",

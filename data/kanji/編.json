@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 50,
     "kunyomi": "a, amu, ami",
-    "meaning": "compile, knit, edit",
+    "meaning": "compile, knit, edit |(vi) biên soạn, đan, biên tập",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "編集者（へんしゅうしゃ）",
         "meaning": {
-          "english": "editor"
+          "english": "editor |(vi) biên tập viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "長編（ちょうへん）",
         "meaning": {
-          "english": "full-length novel or film"
+          "english": "full-length novel or film |(vi) tiểu thuyết/phim dài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "短編（たんぺん）",
         "meaning": {
-          "english": "short story of film"
+          "english": "short story of film |(vi) truyện ngắn/phim ngắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "予告編（よこくへん）",
         "meaning": {
-          "english": "(film) preview"
+          "english": "(film) preview |(vi) đoạn giới thiệu phim (trailer)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "編集する（へんしゅうする）",
         "meaning": {
-          "english": "edit"
+          "english": "edit |(vi) biên tập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(mu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "編曲する（へんきょくする）",
         "meaning": {
-          "english": "arrange (a musical piece)"
+          "english": "arrange (a musical piece) |(vi) phối khí, hòa âm (một bản nhạc)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(mu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "編成する（へんせいする）",
         "meaning": {
-          "english": "form, organize, draw up"
+          "english": "form, organize, draw up |(vi) tổ chức, sắp xếp, lập ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(mu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "編む（あむ）",
         "meaning": {
-          "english": "knit, braid, compile, edit"
+          "english": "knit, braid, compile, edit |(vi) đan, tết, biên soạn, biên tập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(mu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "編み物（あみもの）",
         "meaning": {
-          "english": "knitting"
+          "english": "knitting |(vi) đan len"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(mu)_06_i.opus",
@@ -214,7 +214,7 @@
     "kanji": {
       "character": "編",
       "meaning": {
-        "english": "compile, knit, edit"
+        "english": "compile, knit, edit |(vi) biên soạn, đan, biên tập"
       },
       "strokes": {
         "count": 15,
@@ -282,7 +282,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (sợi tơ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -303,7 +303,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "591",
     "strokeCount": 15,
-    "meaning": "compilation, knit, plait, braid, twist, editing, completed poem, part of a book",
+    "meaning": "compilation, knit, plait, braid, twist, editing, completed poem, part of a book |(vi) biên soạn, đan, tết, bện, xoắn, biên tập, bài thơ hoàn chỉnh, phần của cuốn sách |(hv) Biên",
     "kunyomi": [
       "あ.む",
       "-あ.み"
@@ -315,29 +315,29 @@
       {
         "example": "編",
         "reading": "ヘン",
-        "meaning": "compilation (of a text), editing, volume (of a text), completed literary work"
+        "meaning": "compilation (of a text), editing, volume (of a text), completed literary work |(vi) biên soạn (văn bản), biên tập, quyển (sách), tác phẩm văn học hoàn chỉnh"
       },
       {
         "example": "編者",
         "reading": "ヘンシャ",
-        "meaning": "editor, compiler"
+        "meaning": "editor, compiler |(vi) biên tập viên, người biên soạn"
       },
       {
         "example": "再編",
         "reading": "サイヘン",
-        "meaning": "reorganization, reorganisation, reshuffle"
+        "meaning": "reorganization, reorganisation, reshuffle |(vi) tái tổ chức, cải tổ"
       },
       {
         "example": "改編",
         "reading": "カイヘン",
-        "meaning": "reorganization, reorganisation"
+        "meaning": "reorganization, reorganisation |(vi) cải tổ, sắp xếp lại"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "編む",
         "reading": "あむ",
-        "meaning": "to knit, to plait, to braid, to compile (anthology, dictionary, etc.), to edit"
+        "meaning": "to knit, to plait, to braid, to compile (anthology, dictionary, etc.), to edit |(vi) đan, tết, bện, biên soạn (tuyển tập, từ điển...), biên tập"
       }
     ],
     "radical": {
@@ -345,7 +345,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (sợi tơ nhỏ)"
     },
     "parts": [
       "一",

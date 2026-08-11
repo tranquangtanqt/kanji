@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 50,
     "kunyomi": "naka, nakaba",
-    "meaning": "half",
+    "meaning": "half |(vi) một nửa",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "半分（はんぶん）",
         "meaning": {
-          "english": "half"
+          "english": "half |(vi) một nửa, phân nửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-naka(ba)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "半額（はんがく）",
         "meaning": {
-          "english": "half price"
+          "english": "half price |(vi) nửa giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-naka(ba)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "半導体（はんどうたい）",
         "meaning": {
-          "english": "semiconductor"
+          "english": "semiconductor |(vi) chất bán dẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-naka(ba)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "半熟（はんじゅく）",
         "meaning": {
-          "english": "soft-boiled"
+          "english": "soft-boiled |(vi) lòng đào, nấu chín tái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-naka(ba)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "一時半（いちじはん）",
         "meaning": {
-          "english": "half past one"
+          "english": "half past one |(vi) một giờ rưỡi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-naka(ba)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "二年半（にねんはん）",
         "meaning": {
-          "english": "two and a half years"
+          "english": "two and a half years |(vi) hai năm rưỡi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-naka(ba)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "月半ば（つきなかば）",
         "meaning": {
-          "english": "middle of the month"
+          "english": "middle of the month |(vi) giữa tháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-naka(ba)_06_g.opus",
@@ -224,7 +224,7 @@
     "kanji": {
       "character": "半",
       "meaning": {
-        "english": "half"
+        "english": "half |(vi) một nửa"
       },
       "strokes": {
         "count": 5,
@@ -272,7 +272,7 @@
         "romaji": "juu"
       },
       "meaning": {
-        "english": "ten"
+        "english": "ten |(vi) Thập (mười)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/juu0.svg",
@@ -293,7 +293,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "224",
     "strokeCount": 5,
-    "meaning": "half, middle, odd number, semi-, part-",
+    "meaning": "half, middle, odd number, semi-, part- |(vi) một nửa, giữa, số lẻ, bán-, phần- |(hv) Bán",
     "kunyomi": [
       "なか.ば"
     ],
@@ -304,39 +304,39 @@
       {
         "example": "半",
         "reading": "ハン",
-        "meaning": "half, semi-, partial, half-past, odd number, han (unit of land area, approx. 595.8 m^2)"
+        "meaning": "half, semi-, partial, half-past, odd number, han (unit of land area, approx. 595.8 m^2) |(vi) nửa, bán-, một phần, quá nửa, số lẻ, han (đơn vị diện tích đất khoảng 595,8 m²)"
       },
       {
         "example": "半額",
         "reading": "ハンガク",
-        "meaning": "half the amount (of money), half price, half fare"
+        "meaning": "half the amount (of money), half price, half fare |(vi) nửa tiền, nửa giá, nửa vé"
       },
       {
         "example": "四畳半",
         "reading": "ヨジョウハン",
-        "meaning": "four and a half tatami mats, four-and-a-half-mat room, small room esp. for assignations"
+        "meaning": "four and a half tatami mats, four-and-a-half-mat room, small room esp. for assignations |(vi) phòng bốn chiếu rưỡi (phòng nhỏ)"
       },
       {
         "example": "過半",
         "reading": "カハン",
-        "meaning": "the greater part"
+        "meaning": "the greater part |(vi) quá nửa, phần lớn"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "半ば",
         "reading": "なかば",
-        "meaning": "middle, halfway, midway, half (of), one half, half (e.g. done, jokingly), partly, in part, partially, mostly, almost, nearly"
+        "meaning": "middle, halfway, midway, half (of), one half, half (e.g. done, jokingly), partly, in part, partially, mostly, almost, nearly |(vi) giữa, nửa chừng, một nửa, phần nào, gần như"
       },
       {
         "example": "半ば過ぎ",
         "reading": "なかばすぎ",
-        "meaning": "beyond the middle"
+        "meaning": "beyond the middle |(vi) quá nửa chừng, qua giữa"
       }
     ],
     "radical": {
       "symbol": "十",
-      "meaning": "ten, complete"
+      "meaning": "ten, complete |(vi) Thập (mười, đầy đủ)"
     },
     "parts": [
       "二",

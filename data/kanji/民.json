@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "tami",
-    "meaning": "people",
+    "meaning": "people |(vi) dân, nhân dân",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "民衆（みんしゅう）",
         "meaning": {
-          "english": "people, populace, masses"
+          "english": "people, populace, masses |(vi) dân chúng, quần chúng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "民族（みんぞく）",
         "meaning": {
-          "english": "race, nation, people"
+          "english": "race, nation, people |(vi) chủng tộc, dân tộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "民謡（みんよう）",
         "meaning": {
-          "english": "(traditional) folk song"
+          "english": "(traditional) folk song |(vi) dân ca (truyền thống)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "民営（みんえい）",
         "meaning": {
-          "english": "private management"
+          "english": "private management |(vi) quản lý tư nhân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "国民（こくみん）",
         "meaning": {
-          "english": "citizen, people, nation"
+          "english": "citizen, people, nation |(vi) công dân, quốc dân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "市民（しみん）",
         "meaning": {
-          "english": "citizen, townspeople"
+          "english": "citizen, townspeople |(vi) thị dân, công dân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "県民（けんみん）",
         "meaning": {
-          "english": "citizens of a prefecture"
+          "english": "citizens of a prefecture |(vi) cư dân của một tỉnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "住民（じゅうみん）",
         "meaning": {
-          "english": "residents, population"
+          "english": "residents, population |(vi) cư dân, dân số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "庶民（しょみん）",
         "meaning": {
-          "english": "masses, common people"
+          "english": "masses, common people |(vi) quần chúng, dân thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "農民（のうみん）",
         "meaning": {
-          "english": "farmers, peasants"
+          "english": "farmers, peasants |(vi) nông dân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "民主主義（みんしゅしゅぎ）",
         "meaning": {
-          "english": "democracy"
+          "english": "democracy |(vi) dân chủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "民（たみ）",
         "meaning": {
-          "english": "nation, people"
+          "english": "nation, people |(vi) quốc gia, nhân dân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_l.opus",
@@ -266,7 +266,7 @@
     "kanji": {
       "character": "民",
       "meaning": {
-        "english": "people"
+        "english": "people |(vi) dân, nhân dân"
       },
       "strokes": {
         "count": 5,
@@ -314,7 +314,7 @@
         "romaji": "uji"
       },
       "meaning": {
-        "english": "family, clan"
+        "english": "family, clan |(vi) Thị (dòng họ, thị tộc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/uji0.svg",
@@ -335,7 +335,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "28",
     "strokeCount": 5,
-    "meaning": "people, nation, subjects",
+    "meaning": "people, nation, subjects |(vi) dân, quốc gia, thần dân |(hv) Dân",
     "kunyomi": [
       "たみ"
     ],
@@ -346,49 +346,49 @@
       {
         "example": "民",
         "reading": "ミン",
-        "meaning": "citizen, resident, person, user (of a website, esp. as a collective, e.g. Twittersphere)"
+        "meaning": "citizen, resident, person, user (of a website, esp. as a collective, e.g. Twittersphere) |(vi) công dân, cư dân, người, người dùng (một trang web, đặc biệt như một tập thể, ví dụ cộng đồng Twitter)"
       },
       {
         "example": "民意",
         "reading": "ミンイ",
-        "meaning": "popular will, will of the people"
+        "meaning": "popular will, will of the people |(vi) ý chí của dân, ý dân"
       },
       {
         "example": "自民",
         "reading": "ジミン",
-        "meaning": "Liberal Democratic Party, LDP"
+        "meaning": "Liberal Democratic Party, LDP |(vi) Đảng Dân chủ Tự do (LDP)"
       },
       {
         "example": "公民",
         "reading": "コウミン",
-        "meaning": "citizen"
+        "meaning": "citizen |(vi) công dân"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "民",
         "reading": "たみ",
-        "meaning": "people, citizens, subjects, folk"
+        "meaning": "people, citizens, subjects, folk |(vi) người dân, công dân, thần dân, dân chúng"
       },
       {
         "example": "民草",
         "reading": "たみくさ",
-        "meaning": "people, populace"
+        "meaning": "people, populace |(vi) dân chúng, quần chúng"
       },
       {
         "example": "国民",
         "reading": "くにたみ",
-        "meaning": "people of a country"
+        "meaning": "people of a country |(vi) người dân của một nước"
       },
       {
         "example": "流浪の民",
         "reading": "るろうのたみ",
-        "meaning": "wandering people, nomadic tribe"
+        "meaning": "wandering people, nomadic tribe |(vi) dân du mục, bộ tộc du cư"
       }
     ],
     "radical": {
       "symbol": "氏",
-      "meaning": "clan"
+      "meaning": "clan |(vi) Thị (dòng họ)"
     },
     "parts": [
       "口",

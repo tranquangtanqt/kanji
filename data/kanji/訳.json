@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "wake",
-    "meaning": "translate, sense, reason",
+    "meaning": "translate, sense, reason |(vi) dịch, ý nghĩa, lý do",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "訳（やく）",
         "meaning": {
-          "english": "translation"
+          "english": "translation |(vi) bản dịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wake_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "訳者（やくしゃ）",
         "meaning": {
-          "english": "translator"
+          "english": "translator |(vi) dịch giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wake_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "訳す（やくす）",
         "meaning": {
-          "english": "translate"
+          "english": "translate |(vi) dịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wake_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "通訳する（つうやくする）",
         "meaning": {
-          "english": "translate (speech)"
+          "english": "translate (speech) |(vi) phiên dịch (lời nói)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wake_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "翻訳する（ほんやくする）",
         "meaning": {
-          "english": "translate (text)"
+          "english": "translate (text) |(vi) dịch thuật (văn bản)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wake_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "訳（わけ）",
         "meaning": {
-          "english": "reason"
+          "english": "reason |(vi) lý do"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wake_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "言い訳（いいわけ）",
         "meaning": {
-          "english": "excuse [n.]"
+          "english": "excuse [n.] |(vi) lời bào chữa, lời biện hộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wake_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "申し訳ない（もうしわけない）",
         "meaning": {
-          "english": "inexcusable"
+          "english": "inexcusable |(vi) không thể biện hộ, xin lỗi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wake_06_h.opus",
@@ -213,7 +213,7 @@
     "kanji": {
       "character": "訳",
       "meaning": {
-        "english": "translate, sense, reason"
+        "english": "translate, sense, reason |(vi) dịch, ý nghĩa, lý do"
       },
       "strokes": {
         "count": 11,
@@ -273,7 +273,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói, nói)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -294,7 +294,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1050",
     "strokeCount": 11,
-    "meaning": "translate, reason, circumstance, case",
+    "meaning": "translate, reason, circumstance, case |(vi) dịch, lý do, hoàn cảnh, trường hợp |(hv) Dịch",
     "kunyomi": [
       "わけ"
     ],
@@ -305,44 +305,44 @@
       {
         "example": "訳",
         "reading": "ヤク",
-        "meaning": "translation, version (e.g. \"English version\")"
+        "meaning": "translation, version (e.g. \"English version\") |(vi) bản dịch, phiên bản (vd \"bản tiếng Anh\")"
       },
       {
         "example": "訳者",
         "reading": "ヤクシャ",
-        "meaning": "translator"
+        "meaning": "translator |(vi) dịch giả"
       },
       {
         "example": "点訳",
         "reading": "テンヤク",
-        "meaning": "translating into Braille"
+        "meaning": "translating into Braille |(vi) dịch sang chữ nổi Braille"
       },
       {
         "example": "名訳",
         "reading": "メイヤク",
-        "meaning": "excellent translation, fine translation"
+        "meaning": "excellent translation, fine translation |(vi) bản dịch xuất sắc, bản dịch hay"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "訳",
         "reading": "わけ",
-        "meaning": "reason, cause, grounds, meaning, sense, (good) sense, reason, circumstances, case, (romantic) relationship, love affair"
+        "meaning": "reason, cause, grounds, meaning, sense, (good) sense, reason, circumstances, case, (romantic) relationship, love affair |(vi) lý do, nguyên nhân, căn cứ, ý nghĩa, hợp lý, hoàn cảnh, trường hợp, mối quan hệ (tình cảm)"
       },
       {
         "example": "訳がない",
         "reading": "わけがない",
-        "meaning": "there is no way that ..., easy, simple"
+        "meaning": "there is no way that ..., easy, simple |(vi) không có lý do gì mà..., dễ dàng, đơn giản"
       },
       {
         "example": "申し訳",
         "reading": "もうしわけ",
-        "meaning": "apology, excuse"
+        "meaning": "apology, excuse |(vi) lời xin lỗi, lời bào chữa"
       },
       {
         "example": "仕分け",
         "reading": "しわけ",
-        "meaning": "classification, sorting (out), grouping, assortment, assortment journalizing (in bookkeeping)"
+        "meaning": "classification, sorting (out), grouping, assortment, assortment journalizing (in bookkeeping) |(vi) phân loại, sắp xếp, chia nhóm, hạch toán phân loại (trong kế toán)"
       }
     ],
     "radical": {
@@ -350,7 +350,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "丶",

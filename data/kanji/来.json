@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ku, kuru, kita, kitaru",
-    "meaning": "come",
+    "meaning": "come |(vi) đến",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "来月（らいげつ）",
         "meaning": {
-          "english": "next month"
+          "english": "next month |(vi) tháng sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rai-ku(ru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "来週（らいしゅう）",
         "meaning": {
-          "english": "next week"
+          "english": "next week |(vi) tuần sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rai-ku(ru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "来年（らいねん）",
         "meaning": {
-          "english": "next year"
+          "english": "next year |(vi) năm sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rai-ku(ru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "未来（みらい）",
         "meaning": {
-          "english": "future"
+          "english": "future |(vi) tương lai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rai-ku(ru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "将来（しょうらい）",
         "meaning": {
-          "english": "future"
+          "english": "future |(vi) tương lai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rai-ku(ru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "以来（いらい）",
         "meaning": {
-          "english": "since"
+          "english": "since |(vi) kể từ khi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rai-ku(ru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "来日する（らいにちする）",
         "meaning": {
-          "english": "visit Japan"
+          "english": "visit Japan |(vi) đến Nhật Bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rai-ku(ru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "来る（くる）",
         "meaning": {
-          "english": "come"
+          "english": "come |(vi) đến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rai-ku(ru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "来す（きたす）",
         "meaning": {
-          "english": "cause"
+          "english": "cause |(vi) gây ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rai-ku(ru)_06_i.opus",
@@ -272,7 +272,7 @@
     "kanji": {
       "character": "来",
       "meaning": {
-        "english": "come"
+        "english": "come |(vi) đến"
       },
       "strokes": {
         "count": 7,
@@ -324,7 +324,7 @@
         "romaji": "ki"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ki0.svg",
@@ -345,7 +345,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "102",
     "strokeCount": 7,
-    "meaning": "come, due, next, cause, become",
+    "meaning": "come, due, next, cause, become |(vi) đến, sắp tới, kế tiếp, gây ra, trở thành |(hv) Lai",
     "kunyomi": [
       "く.る",
       "きた.る",
@@ -363,99 +363,99 @@
       {
         "example": "来",
         "reading": "ライ",
-        "meaning": "next (year, spring, etc.), coming, since (e.g. last month), for (e.g. 20 years)"
+        "meaning": "next (year, spring, etc.), coming, since (e.g. last month), for (e.g. 20 years) |(vi) sắp tới, kể từ, đã qua (khoảng thời gian)"
       },
       {
         "example": "来客",
         "reading": "ライキャク",
-        "meaning": "visitor, caller"
+        "meaning": "visitor, caller |(vi) khách đến thăm"
       },
       {
         "example": "在来",
         "reading": "ザイライ",
-        "meaning": "pre-existing, already there, conventional"
+        "meaning": "pre-existing, already there, conventional |(vi) sẵn có, truyền thống, thông thường"
       },
       {
         "example": "再来",
         "reading": "サイライ",
-        "meaning": "return, coming back, second coming (e.g. of Christ), second advent, reincarnation"
+        "meaning": "return, coming back, second coming (e.g. of Christ), second advent, reincarnation |(vi) tái lai, trở lại, tái sinh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "来る",
         "reading": "くる",
-        "meaning": "to come (spatially or temporally), to approach, to arrive, to come back, to do ... and come back, to come to be, to become, to get, to grow, to continue, to come from, to be caused by, to derive from, to come to (e.g. \"when it comes to spinach ...\")"
+        "meaning": "to come (spatially or temporally), to approach, to arrive, to come back, to do ... and come back, to come to be, to become, to get, to grow, to continue, to come from, to be caused by, to derive from, to come to (e.g. \"when it comes to spinach ...\") |(vi) đến, tới, trở thành"
       },
       {
         "example": "来る年",
         "reading": "くるとし",
-        "meaning": "the coming year"
+        "meaning": "the coming year |(vi) năm sắp tới"
       },
       {
         "example": "来る",
         "reading": "きたる",
-        "meaning": "next (e.g. \"next April\"), forthcoming, coming, to come, to arrive, to be due to"
+        "meaning": "next (e.g. \"next April\"), forthcoming, coming, to come, to arrive, to be due to |(vi) sắp tới, sắp đến"
       },
       {
         "example": "来るべき",
         "reading": "きたるべき",
-        "meaning": "expected to arrive (occur) in the near future"
+        "meaning": "expected to arrive (occur) in the near future |(vi) sắp xảy ra, sắp đến"
       },
       {
         "example": "来す",
         "reading": "きたす",
-        "meaning": "to cause, to induce, to bring about a result or state, to produce"
+        "meaning": "to cause, to induce, to bring about a result or state, to produce |(vi) gây ra, dẫn đến"
       },
       {
         "example": "来す",
         "reading": "きたす",
-        "meaning": "to cause, to induce, to bring about a result or state, to produce"
+        "meaning": "to cause, to induce, to bring about a result or state, to produce |(vi) gây ra, dẫn đến"
       },
       {
         "example": "来る",
         "reading": "きたる",
-        "meaning": "next (e.g. \"next April\"), forthcoming, coming, to come, to arrive, to be due to"
+        "meaning": "next (e.g. \"next April\"), forthcoming, coming, to come, to arrive, to be due to |(vi) sắp tới, sắp đến"
       },
       {
         "example": "来るべき",
         "reading": "きたるべき",
-        "meaning": "expected to arrive (occur) in the near future"
+        "meaning": "expected to arrive (occur) in the near future |(vi) sắp xảy ra, sắp đến"
       },
       {
         "example": "来合わせる",
         "reading": "きあわせる",
-        "meaning": "to happen to come along"
+        "meaning": "to happen to come along |(vi) tình cờ đến cùng lúc"
       },
       {
         "example": "来掛かる",
         "reading": "きかかる",
-        "meaning": "to happen to come"
+        "meaning": "to happen to come |(vi) tình cờ đi ngang qua"
       },
       {
         "example": "不出来",
         "reading": "ふでき",
-        "meaning": "bad job, poor workmanship, bungle"
+        "meaning": "bad job, poor workmanship, bungle |(vi) làm dở, kém chất lượng"
       },
       {
         "example": "行ってき",
         "reading": "いってき",
-        "meaning": "bye, see ya (afterwards), have fun, get going, now"
+        "meaning": "bye, see ya (afterwards), have fun, get going, now |(vi) tạm biệt, đi nhé"
       },
       {
         "example": "来い",
         "reading": "こい",
-        "meaning": "come!, come on!"
+        "meaning": "come!, come on! |(vi) đến đây!, lại đây!"
       },
       {
         "example": "来し方",
         "reading": "きしかた",
-        "meaning": "the past"
+        "meaning": "the past |(vi) quá khứ, những ngày đã qua"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây)"
     },
     "parts": [
       "二",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "kusuri",
-    "meaning": "drug, medicine",
+    "meaning": "drug, medicine |(vi) thuốc, dược phẩm",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "薬品（やくひん）",
         "meaning": {
-          "english": "medicine, chemical [n.]"
+          "english": "medicine, chemical [n.] |(vi) dược phẩm, hóa chất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusuri_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "薬局（やっきょく）",
         "meaning": {
-          "english": "pharmacy"
+          "english": "pharmacy |(vi) hiệu thuốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusuri_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "薬味（やくみ）",
         "meaning": {
-          "english": "spice"
+          "english": "spice |(vi) gia vị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusuri_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "麻薬（まやく）",
         "meaning": {
-          "english": "narcotic drug"
+          "english": "narcotic drug |(vi) ma túy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusuri_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "火薬（かやく）",
         "meaning": {
-          "english": "gunpowder"
+          "english": "gunpowder |(vi) thuốc súng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusuri_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "農薬（のうやく）",
         "meaning": {
-          "english": "agricultural chemicals"
+          "english": "agricultural chemicals |(vi) thuốc trừ sâu, hóa chất nông nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusuri_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "胃腸薬（いちょうやく）",
         "meaning": {
-          "english": "medicine for digestion"
+          "english": "medicine for digestion |(vi) thuốc tiêu hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusuri_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "薬（くすり）",
         "meaning": {
-          "english": "medicine"
+          "english": "medicine |(vi) thuốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusuri_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "薬屋（くすりや）",
         "meaning": {
-          "english": "pharmacy"
+          "english": "pharmacy |(vi) hiệu thuốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusuri_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "薬指（くすりゆび）",
         "meaning": {
-          "english": "ring finger"
+          "english": "ring finger |(vi) ngón đeo nhẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusuri_06_j.opus",
@@ -275,7 +275,7 @@
     "kanji": {
       "character": "薬",
       "meaning": {
-        "english": "drug, medicine"
+        "english": "drug, medicine |(vi) thuốc, dược phẩm"
       },
       "strokes": {
         "count": 16,
@@ -345,7 +345,7 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass |(vi) Thảo (cỏ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -366,7 +366,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "702",
     "strokeCount": 16,
-    "meaning": "medicine, chemical, enamel, gunpowder, benefit",
+    "meaning": "medicine, chemical, enamel, gunpowder, benefit |(vi) thuốc, hóa chất, men gốm, thuốc súng, lợi ích |(hv) Dược",
     "kunyomi": [
       "くすり"
     ],
@@ -377,34 +377,34 @@
       {
         "example": "薬",
         "reading": "ヤク",
-        "meaning": "dope, narcotic, drug"
+        "meaning": "dope, narcotic, drug |(vi) ma túy, chất kích thích, thuốc"
       },
       {
         "example": "薬価",
         "reading": "ヤッカ",
-        "meaning": "drug price, cost of medicine"
+        "meaning": "drug price, cost of medicine |(vi) giá thuốc, chi phí thuốc men"
       },
       {
         "example": "製薬",
         "reading": "セイヤク",
-        "meaning": "medicine manufacture, drug manufacture"
+        "meaning": "medicine manufacture, drug manufacture |(vi) sản xuất dược phẩm"
       },
       {
         "example": "医薬",
         "reading": "イヤク",
-        "meaning": "medicine, Pharmaceutical and Food Safety Bureau"
+        "meaning": "medicine, Pharmaceutical and Food Safety Bureau |(vi) y dược, Cục An toàn Dược phẩm và Thực phẩm"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "薬",
         "reading": "くすり",
-        "meaning": "medicine, pharmaceuticals, (legal) drugs, pill, ointment, salve, efficacious chemical (gunpowder, pesticide, etc.), (pottery) glaze, (illegal) drug, narcotic, small bribe"
+        "meaning": "medicine, pharmaceuticals, (legal) drugs, pill, ointment, salve, efficacious chemical (gunpowder, pesticide, etc.), (pottery) glaze, (illegal) drug, narcotic, small bribe |(vi) thuốc, dược phẩm, thuốc (hợp pháp), viên thuốc, thuốc mỡ, hóa chất công hiệu (thuốc súng, thuốc trừ sâu...), men gốm, ma túy (bất hợp pháp), của hối lộ nhỏ"
       },
       {
         "example": "薬指",
         "reading": "くすりゆび",
-        "meaning": "ring finger, third finger, fourth finger (in piano-playing), fourth toe"
+        "meaning": "ring finger, third finger, fourth finger (in piano-playing), fourth toe |(vi) ngón đeo nhẫn, ngón tay thứ ba, ngón tay thứ tư (khi chơi piano), ngón chân thứ tư"
       }
     ],
     "radical": {
@@ -412,7 +412,7 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": "grass |(vi) Thảo (cỏ)"
     },
     "parts": [
       "冫",

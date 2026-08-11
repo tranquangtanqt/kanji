@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "mazu, mazushii, mazushisa",
-    "meaning": "poor",
+    "meaning": "poor |(vi) nghèo",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "貧血（ひんけつ）",
         "meaning": {
-          "english": "anemia"
+          "english": "anemia |(vi) thiếu máu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mazu(shii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "貧困（ひんこん）",
         "meaning": {
-          "english": "poverty"
+          "english": "poverty |(vi) nghèo khổ, bần cùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mazu(shii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "貧富（ひんぷ）",
         "meaning": {
-          "english": "rich and poor"
+          "english": "rich and poor |(vi) giàu nghèo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mazu(shii)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "貧弱な（ひんじゃくな）",
         "meaning": {
-          "english": "meagre, insubstantial"
+          "english": "meagre, insubstantial |(vi) nghèo nàn, ít ỏi, yếu ớt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mazu(shii)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "貧乏な（びんぼうな）",
         "meaning": {
-          "english": "poor"
+          "english": "poor |(vi) nghèo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mazu(shii)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "貧相な（ひんそうな）",
         "meaning": {
-          "english": "seedy-looking"
+          "english": "seedy-looking |(vi) trông nghèo nàn, thảm hại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mazu(shii)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "貧乏人（びんぼうにん）",
         "meaning": {
-          "english": "the poor"
+          "english": "the poor |(vi) người nghèo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mazu(shii)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "貧しい（まずしい）",
         "meaning": {
-          "english": "poor"
+          "english": "poor |(vi) nghèo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mazu(shii)_06_h.opus",
@@ -230,7 +230,7 @@
     "kanji": {
       "character": "貧",
       "meaning": {
-        "english": "poor"
+        "english": "poor |(vi) nghèo"
       },
       "strokes": {
         "count": 11,
@@ -290,7 +290,7 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth |(vi) Bối (vỏ sò, của cải, tài sản)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -311,7 +311,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1211",
     "strokeCount": 11,
-    "meaning": "poverty, poor",
+    "meaning": "poverty, poor |(vi) nghèo khổ, bần cùng |(hv) Bần",
     "kunyomi": [
       "まず.しい"
     ],
@@ -323,44 +323,44 @@
       {
         "example": "貧",
         "reading": "ヒン",
-        "meaning": "poverty, penury, want, need, insufficiency, shortage, deficiency"
+        "meaning": "poverty, penury, want, need, insufficiency, shortage, deficiency |(vi) nghèo túng, thiếu thốn, khan hiếm"
       },
       {
         "example": "貧血",
         "reading": "ヒンケツ",
-        "meaning": "anemia, anaemia"
+        "meaning": "anemia, anaemia |(vi) thiếu máu"
       },
       {
         "example": "清貧",
         "reading": "セイヒン",
-        "meaning": "honourable poverty, honorable poverty"
+        "meaning": "honourable poverty, honorable poverty |(vi) nghèo mà thanh cao"
       },
       {
         "example": "極貧",
         "reading": "ゴクヒン",
-        "meaning": "destitution"
+        "meaning": "destitution |(vi) cực kỳ nghèo khổ, bần cùng"
       },
       {
         "example": "貧乏",
         "reading": "ビンボウ",
-        "meaning": "poverty-stricken, destitute, poor, penurious"
+        "meaning": "poverty-stricken, destitute, poor, penurious |(vi) nghèo túng, bần hàn"
       },
       {
         "example": "貧乏人",
         "reading": "ビンボウニン",
-        "meaning": "poor person, the poor"
+        "meaning": "poor person, the poor |(vi) người nghèo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "貧しい",
         "reading": "まずしい",
-        "meaning": "poor, needy, lacking (quantity and quality-wise), poor, scanty, skimpy, slight, inadequate"
+        "meaning": "poor, needy, lacking (quantity and quality-wise), poor, scanty, skimpy, slight, inadequate |(vi) nghèo, thiếu thốn, ít ỏi, nghèo nàn"
       }
     ],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": "shell |(vi) Bối (vỏ sò, của cải)"
     },
     "parts": [
       "ハ",

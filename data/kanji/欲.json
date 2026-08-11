@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "ho, hossuru, hoshii",
-    "meaning": "desire, want",
+    "meaning": "desire, want |(vi) ham muốn, mong muốn",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "欲（よく）",
         "meaning": {
-          "english": "greed"
+          "english": "greed |(vi) lòng tham"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho(shii)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "食欲（しょくよく）",
         "meaning": {
-          "english": "appetite (for food)"
+          "english": "appetite (for food) |(vi) cảm giác thèm ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho(shii)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "物欲（ぶつよく）",
         "meaning": {
-          "english": "materialistic desire"
+          "english": "materialistic desire |(vi) ham muốn vật chất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho(shii)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "意欲（いよく）",
         "meaning": {
-          "english": "ambition"
+          "english": "ambition |(vi) ý chí, tham vọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho(shii)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "知識欲（ちしきよく）",
         "meaning": {
-          "english": "intellectual thirst"
+          "english": "intellectual thirst |(vi) khát khao tri thức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho(shii)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "欲望（よくぼう）",
         "meaning": {
-          "english": "desire"
+          "english": "desire |(vi) dục vọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho(shii)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "欲張り（よくばり）",
         "meaning": {
-          "english": "greedy"
+          "english": "greedy |(vi) tham lam"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho(shii)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "貪欲な（どんよくな）",
         "meaning": {
-          "english": "greedy"
+          "english": "greedy |(vi) tham lam, tham dục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho(shii)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "欲する（ほっする）",
         "meaning": {
-          "english": "want"
+          "english": "want |(vi) muốn, khao khát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho(shii)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "欲しい（ほしい）",
         "meaning": {
-          "english": "want [adj.]"
+          "english": "want [adj.] |(vi) muốn có"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ho(shii)_06_j.opus",
@@ -250,7 +250,7 @@
     "kanji": {
       "character": "欲",
       "meaning": {
-        "english": "desire, want"
+        "english": "desire, want |(vi) ham muốn, mong muốn"
       },
       "strokes": {
         "count": 11,
@@ -310,7 +310,7 @@
         "romaji": "akubi"
       },
       "meaning": {
-        "english": "to lack, yawn"
+        "english": "to lack, yawn |(vi) Khiếm (thiếu, ngáp)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/akubi0.svg",
@@ -331,7 +331,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "902",
     "strokeCount": 11,
-    "meaning": "longing, covetousness, greed, passion, desire, craving",
+    "meaning": "longing, covetousness, greed, passion, desire, craving |(vi) khao khát, tham lam, dục vọng, ham muốn |(hv) Dục",
     "kunyomi": [
       "ほっ.する",
       "ほ.しい"
@@ -343,44 +343,44 @@
       {
         "example": "欲",
         "reading": "ヨク",
-        "meaning": "greed, craving, desire, appetite, hunger, avarice, wants"
+        "meaning": "greed, craving, desire, appetite, hunger, avarice, wants |(vi) ham muốn, thèm khát"
       },
       {
         "example": "欲望",
         "reading": "ヨクボウ",
-        "meaning": "desire, appetite, lust"
+        "meaning": "desire, appetite, lust |(vi) dục vọng, ham muốn"
       },
       {
         "example": "私欲",
         "reading": "シヨク",
-        "meaning": "self-interest, selfish desire"
+        "meaning": "self-interest, selfish desire |(vi) tư dục, lòng tham riêng"
       },
       {
         "example": "勤労意欲",
         "reading": "キンロウイヨク",
-        "meaning": "will to work"
+        "meaning": "will to work |(vi) ý chí làm việc"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "欲する",
         "reading": "ほっする",
-        "meaning": "to want, to desire"
+        "meaning": "to want, to desire |(vi) muốn, mong muốn"
       },
       {
         "example": "欲しい",
         "reading": "ほしい",
-        "meaning": "wanting (to have), desiring, wishing for, I want (you, them, etc.) to (do)"
+        "meaning": "wanting (to have), desiring, wishing for, I want (you, them, etc.) to (do) |(vi) muốn có, mong muốn"
       },
       {
         "example": "欲しいだけ",
         "reading": "ほしいだけ",
-        "meaning": "as much as one wants, as many as one wants, all that one wishes for"
+        "meaning": "as much as one wants, as many as one wants, all that one wishes for |(vi) bao nhiêu tùy thích"
       }
     ],
     "radical": {
       "symbol": "欠",
-      "meaning": "lack, yawn"
+      "meaning": "lack, yawn |(vi) Khiếm (thiếu, ngáp)"
     },
     "parts": [
       "ハ",

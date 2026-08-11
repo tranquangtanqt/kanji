@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "tai, hiratai, taira, hira",
-    "meaning": "flat, calm",
+    "meaning": "flat, calm |(vi) phẳng, yên bình, bình lặng",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "平野（へいや）",
         "meaning": {
-          "english": "plain, open field"
+          "english": "plain, open field |(vi) đồng bằng, cánh đồng rộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(ra)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "平均（へいきん）",
         "meaning": {
-          "english": "average [n.]"
+          "english": "average [n.] |(vi) trung bình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(ra)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "平日（へいじつ）",
         "meaning": {
-          "english": "weekdays"
+          "english": "weekdays |(vi) ngày thường, ngày trong tuần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(ra)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "平気な（へいきな）",
         "meaning": {
-          "english": "unconcerned"
+          "english": "unconcerned |(vi) bình thản, không bận tâm, thản nhiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(ra)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "平凡な（へいぼんな）",
         "meaning": {
-          "english": "mediocre"
+          "english": "mediocre |(vi) tầm thường, bình thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(ra)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "公平な（こうへいな）",
         "meaning": {
-          "english": "fair, impartial"
+          "english": "fair, impartial |(vi) công bằng, công tâm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(ra)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "平等な（びょうどうな）",
         "meaning": {
-          "english": "equal, impartial"
+          "english": "equal, impartial |(vi) bình đẳng, công bằng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(ra)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "平らな（たいらな）",
         "meaning": {
-          "english": "flat"
+          "english": "flat |(vi) bằng phẳng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(ra)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "平たい（ひらたい）",
         "meaning": {
-          "english": "flat"
+          "english": "flat |(vi) phẳng, dẹt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(ra)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "手の平（てのひら）",
         "meaning": {
-          "english": "palm (of one's hand)"
+          "english": "palm (of one's hand) |(vi) lòng bàn tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(ra)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "平社員（ひらしゃいん）",
         "meaning": {
-          "english": "employee without a title"
+          "english": "employee without a title |(vi) nhân viên bình thường (không chức danh)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(ra)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "平仮名（ひらがな）",
         "meaning": {
-          "english": "hiragana"
+          "english": "hiragana |(vi) chữ hiragana"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai(ra)_06_l.opus",
@@ -316,7 +316,7 @@
     "kanji": {
       "character": "平",
       "meaning": {
-        "english": "flat, calm"
+        "english": "flat, calm |(vi) phẳng, yên bình, bình lặng"
       },
       "strokes": {
         "count": 5,
@@ -364,7 +364,7 @@
         "romaji": "kan"
       },
       "meaning": {
-        "english": "to dry, shield"
+        "english": "to dry, shield |(vi) Can (lá chắn, khô, cái mộc)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kan0.svg",
@@ -385,7 +385,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "128",
     "strokeCount": 5,
-    "meaning": "even, flat, peace",
+    "meaning": "even, flat, peace |(vi) bằng phẳng, hòa bình |(hv) Bình",
     "kunyomi": [
       "たい.ら",
       "たい.らげる",
@@ -400,94 +400,94 @@
       {
         "example": "平",
         "reading": "ヘイ",
-        "meaning": "nth year in the Heisei era (1989.1.8-2019.4.30)"
+        "meaning": "nth year in the Heisei era (1989.1.8-2019.4.30) |(vi) niên hiệu Heisei năm thứ n (1989-2019)"
       },
       {
         "example": "平安",
         "reading": "ヘイアン",
-        "meaning": "peace, tranquility, tranquillity, Heian period (794-1185)"
+        "meaning": "peace, tranquility, tranquillity, Heian period (794-1185) |(vi) bình an, thời kỳ Heian (794-1185)"
       },
       {
         "example": "和平",
         "reading": "ワヘイ",
-        "meaning": "peace"
+        "meaning": "peace |(vi) hòa bình"
       },
       {
         "example": "公平",
         "reading": "コウヘイ",
-        "meaning": "fairness, impartiality, justice, objectivity"
+        "meaning": "fairness, impartiality, justice, objectivity |(vi) công bằng, công tâm, khách quan"
       },
       {
         "example": "平等",
         "reading": "ビョウドウ",
-        "meaning": "equality, impartiality, evenness"
+        "meaning": "equality, impartiality, evenness |(vi) bình đẳng, công bằng"
       },
       {
         "example": "平常心",
         "reading": "ビョウジョウシン",
-        "meaning": "everyday feelings, usual feelings"
+        "meaning": "everyday feelings, usual feelings |(vi) tâm bình thường, tâm thái bình tĩnh thường ngày"
       },
       {
         "example": "寛平",
         "reading": "カンピョウ",
-        "meaning": "Kanpyō era (889.4.27-898.4.26), Kanbyō era"
+        "meaning": "Kanpyō era (889.4.27-898.4.26), Kanbyō era |(vi) niên hiệu Kanpyō (889-898)"
       },
       {
         "example": "天平",
         "reading": "テンピョウ",
-        "meaning": "Tenpyō era (729.8.5-749.4.14), Tenbyō era, Tenhei era"
+        "meaning": "Tenpyō era (729.8.5-749.4.14), Tenbyō era, Tenhei era |(vi) niên hiệu Tenpyō (729-749)"
       },
       {
         "example": "平韻",
         "reading": "ヒョウイン",
-        "meaning": "level-tone rhyme (of Chinese)"
+        "meaning": "level-tone rhyme (of Chinese) |(vi) vần bình thanh (trong tiếng Hán)"
       },
       {
         "example": "平声",
         "reading": "ヒョウショウ",
-        "meaning": "first tone in old Chinese phonetics, level tone, (of a Japanese accent) having a low, flat tone"
+        "meaning": "first tone in old Chinese phonetics, level tone, (of a Japanese accent) having a low, flat tone |(vi) thanh bình (thanh điệu đầu trong ngữ âm Hán cổ), giọng thấp đều"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "平ら",
         "reading": "たいら",
-        "meaning": "flat, level, even, smooth, calm, tranquil, placid, composed, stable, relaxed (sitting posture), comfortable, plateau, tableland, plain"
+        "meaning": "flat, level, even, smooth, calm, tranquil, placid, composed, stable, relaxed (sitting posture), comfortable, plateau, tableland, plain |(vi) bằng phẳng, êm dịu, bình thản, cao nguyên, đồng bằng"
       },
       {
         "example": "平らか",
         "reading": "たいらか",
-        "meaning": "level, just, peaceful"
+        "meaning": "level, just, peaceful |(vi) bằng phẳng, công bằng, thái bình"
       },
       {
         "example": "平らげる",
         "reading": "たいらげる",
-        "meaning": "to eat up (completely), to put down (a rebellion), to suppress, to subjugate, to make flat, to level out"
+        "meaning": "to eat up (completely), to put down (a rebellion), to suppress, to subjugate, to make flat, to level out |(vi) ăn hết sạch, dẹp yên (loạn), trấn áp, san bằng"
       },
       {
         "example": "平",
         "reading": "ひら",
-        "meaning": "something broad and flat, common, ordinary, plain, rank-and-file, low-ranking employee, freshman, novice, private"
+        "meaning": "something broad and flat, common, ordinary, plain, rank-and-file, low-ranking employee, freshman, novice, private |(vi) phẳng và rộng, thông thường, nhân viên cấp thấp, người mới vào nghề, binh nhì"
       },
       {
         "example": "平泳ぎ",
         "reading": "ひらおよぎ",
-        "meaning": "breaststroke (swimming)"
+        "meaning": "breaststroke (swimming) |(vi) bơi ếch"
       },
       {
         "example": "嘉平次平",
         "reading": "かへいじひら",
-        "meaning": "hakama fabric made from meisen silk"
+        "meaning": "hakama fabric made from meisen silk |(vi) vải hakama dệt từ lụa meisen"
       },
       {
         "example": "金平",
         "reading": "かねひら",
-        "meaning": "Acheilognathus rhombeus (species of cyprinid)"
+        "meaning": "Acheilognathus rhombeus (species of cyprinid) |(vi) loài cá chép (Acheilognathus rhombeus)"
       }
     ],
     "radical": {
       "symbol": "干",
-      "meaning": "pestle"
+      "meaning": "pestle |(vi) Can (lá chắn, khô, cái mộc)"
     },
     "parts": [
       "干",

@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "transport",
+    "meaning": "transport |(vi) vận chuyển, chuyên chở",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "運輸会社（うんゆがいしゃ）",
         "meaning": {
-          "english": "transit company"
+          "english": "transit company |(vi) công ty vận tải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yu(ketsu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "輸送する（ゆそうする）",
         "meaning": {
-          "english": "transport [v.t.]"
+          "english": "transport [v.t.] |(vi) vận chuyển [ngo. đ.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yu(ketsu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "輸出する（ゆしゅつする）",
         "meaning": {
-          "english": "export"
+          "english": "export |(vi) xuất khẩu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yu(ketsu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "輸入する（ゆにゅうする）",
         "meaning": {
-          "english": "import"
+          "english": "import |(vi) nhập khẩu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yu(ketsu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "輸血する（ゆけつする）",
         "meaning": {
-          "english": "give a blood transfusion"
+          "english": "give a blood transfusion |(vi) truyền máu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yu(ketsu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "密輸する（みつゆする）",
         "meaning": {
-          "english": "smuggle"
+          "english": "smuggle |(vi) buôn lậu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yu(ketsu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "空輸する（くうゆする）",
         "meaning": {
-          "english": "transport by air"
+          "english": "transport by air |(vi) vận chuyển bằng đường hàng không"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yu(ketsu)_06_g.opus",
@@ -200,7 +200,7 @@
     "kanji": {
       "character": "輸",
       "meaning": {
-        "english": "transport"
+        "english": "transport |(vi) vận chuyển, chuyên chở"
       },
       "strokes": {
         "count": 16,
@@ -270,7 +270,7 @@
         "romaji": "kurumahen"
       },
       "meaning": {
-        "english": "vehicle, wheel, car"
+        "english": "vehicle, wheel, car |(vi) Xa (xe cộ, bánh xe)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kurumahen0.svg",
@@ -291,7 +291,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "371",
     "strokeCount": 16,
-    "meaning": "transport, send, be inferior",
+    "meaning": "transport, send, be inferior |(vi) vận chuyển, gửi, thua kém |(hv) Thâu",
     "kunyomi": [],
     "onyomi": [
       "ユ",
@@ -301,38 +301,38 @@
       {
         "example": "輸血",
         "reading": "ユケツ",
-        "meaning": "blood transfusion"
+        "meaning": "blood transfusion |(vi) truyền máu"
       },
       {
         "example": "輸銀",
         "reading": "ユギン",
-        "meaning": "import-export bank"
+        "meaning": "import-export bank |(vi) ngân hàng xuất nhập khẩu"
       },
       {
         "example": "禁輸",
         "reading": "キンユ",
-        "meaning": "embargo"
+        "meaning": "embargo |(vi) cấm vận"
       },
       {
         "example": "全日本空輸",
         "reading": "ゼンニッポンクウユ",
-        "meaning": "All Nippon Airways"
+        "meaning": "All Nippon Airways |(vi) Hãng hàng không toàn Nhật Bản (ANA)"
       },
       {
         "example": "輸入",
         "reading": "ユニュウ",
-        "meaning": "import, importation, introduction, afferent"
+        "meaning": "import, importation, introduction, afferent |(vi) nhập khẩu, du nhập, hướng tâm"
       },
       {
         "example": "輸出",
         "reading": "ユシュツ",
-        "meaning": "export, exportation, efferent"
+        "meaning": "export, exportation, efferent |(vi) xuất khẩu, ly tâm"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "車",
-      "meaning": "cart, car"
+      "meaning": "cart, car |(vi) Xa (xe cộ)"
     },
     "parts": [
       "一",

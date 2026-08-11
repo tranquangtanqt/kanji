@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "second (of time)",
+    "meaning": "second (of time) |(vi) giây (đơn vị thời gian)",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "秒（びょう）",
         "meaning": {
-          "english": "second"
+          "english": "second |(vi) giây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ichi)byou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "秒速（びょうそく）",
         "meaning": {
-          "english": "speed (m/s)"
+          "english": "speed (m/s) |(vi) tốc độ mỗi giây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ichi)byou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "秒針（びょうしん）",
         "meaning": {
-          "english": "second hand"
+          "english": "second hand |(vi) kim giây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ichi)byou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "秒読み（びょうよみ）",
         "meaning": {
-          "english": "countdown"
+          "english": "countdown |(vi) đếm ngược"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ichi)byou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "一秒（いちびょう）",
         "meaning": {
-          "english": "one second"
+          "english": "one second |(vi) một giây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ichi)byou_06_e.opus",
@@ -147,7 +147,7 @@
     "kanji": {
       "character": "秒",
       "meaning": {
-        "english": "second (of time)"
+        "english": "second (of time) |(vi) giây (đơn vị thời gian)"
       },
       "strokes": {
         "count": 9,
@@ -203,7 +203,7 @@
         "romaji": "nogihen"
       },
       "meaning": {
-        "english": "grain"
+        "english": "grain |(vi) Hòa (lúa, cây trồng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nogihen0.svg",
@@ -224,7 +224,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1015",
     "strokeCount": 9,
-    "meaning": "second (1/60 minute)",
+    "meaning": "second (1/60 minute) |(vi) giây (1/60 phút) |(hv) Miểu",
     "kunyomi": [],
     "onyomi": [
       "ビョウ"
@@ -233,28 +233,28 @@
       {
         "example": "秒",
         "reading": "ビョウ",
-        "meaning": "second (unit of time), arc second"
+        "meaning": "second (unit of time), arc second |(vi) giây, giây góc (đơn vị đo)"
       },
       {
         "example": "秒速",
         "reading": "ビョウソク",
-        "meaning": "speed per second, velocity per second, instant, moment, a few seconds"
+        "meaning": "speed per second, velocity per second, instant, moment, a few seconds |(vi) tốc độ mỗi giây, khoảnh khắc"
       },
       {
         "example": "壊変毎秒",
         "reading": "カイヘンマイビョウ",
-        "meaning": "decays per second, disintegrations per second, dps"
+        "meaning": "decays per second, disintegrations per second, dps |(vi) số phân rã mỗi giây (dps)"
       },
       {
         "example": "閏秒",
         "reading": "ウルウビョウ",
-        "meaning": "leap second"
+        "meaning": "leap second |(vi) giây nhuận"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "禾",
-      "meaning": "grain"
+      "meaning": "grain |(vi) Hòa (lúa, cây trồng)"
     },
     "parts": [
       "ノ",

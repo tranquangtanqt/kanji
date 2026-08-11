@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 5,
     "kunyomi": "tamago",
-    "meaning": "egg",
+    "meaning": "egg |(vi) trứng",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "卵黄（らんおう）",
         "meaning": {
-          "english": "egg yolk"
+          "english": "egg yolk |(vi) lòng đỏ trứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamago_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "卵白（らんぱく）",
         "meaning": {
-          "english": "white of an egg, albumin"
+          "english": "white of an egg, albumin |(vi) lòng trắng trứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamago_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "卵巣（らんそう）",
         "meaning": {
-          "english": "ovary"
+          "english": "ovary |(vi) buồng trứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamago_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "卵管（らんかん）",
         "meaning": {
-          "english": "fallopian tube, oviduct"
+          "english": "fallopian tube, oviduct |(vi) ống dẫn trứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamago_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "鶏卵（けいらん）",
         "meaning": {
-          "english": "hens egg"
+          "english": "hens egg |(vi) trứng gà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamago_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "産卵する（さんらんする）",
         "meaning": {
-          "english": "lay eggs, spawn"
+          "english": "lay eggs, spawn |(vi) đẻ trứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamago_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "卵（たまご）",
         "meaning": {
-          "english": "egg, spawn, roe"
+          "english": "egg, spawn, roe |(vi) trứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamago_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "卵焼き（たまごやき）",
         "meaning": {
-          "english": "omelet"
+          "english": "omelet |(vi) trứng chiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamago_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "卵形（たまごがた）",
         "meaning": {
-          "english": "oval, egg-shaped"
+          "english": "oval, egg-shaped |(vi) hình bầu dục, hình trứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamago_06_i.opus",
@@ -208,7 +208,7 @@
     "kanji": {
       "character": "卵",
       "meaning": {
-        "english": "egg"
+        "english": "egg |(vi) trứng"
       },
       "strokes": {
         "count": 7,
@@ -260,7 +260,7 @@
         "romaji": "fushizukuri"
       },
       "meaning": {
-        "english": "stamp, seal"
+        "english": "stamp, seal |(vi) Tiết (con dấu, quỳ, đốt)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/fushizukuri0.svg",
@@ -281,7 +281,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1342",
     "strokeCount": 7,
-    "meaning": "egg, ovum, spawn, roe",
+    "meaning": "egg, ovum, spawn, roe |(vi) trứng, noãn, trứng cá |(hv) Noãn",
     "kunyomi": [
       "たまご"
     ],
@@ -292,49 +292,49 @@
       {
         "example": "卵",
         "reading": "ラン",
-        "meaning": "ovum, ovule, egg cell"
+        "meaning": "ovum, ovule, egg cell |(vi) noãn, tế bào trứng"
       },
       {
         "example": "卵子",
         "reading": "ランシ",
-        "meaning": "ovum, ovule, egg cell"
+        "meaning": "ovum, ovule, egg cell |(vi) noãn bào, tế bào trứng"
       },
       {
         "example": "受精卵",
         "reading": "ジュセイラン",
-        "meaning": "fertilized egg, fertilised egg"
+        "meaning": "fertilized egg, fertilised egg |(vi) trứng đã thụ tinh"
       },
       {
         "example": "介卵",
         "reading": "カイラン",
-        "meaning": "brooding"
+        "meaning": "brooding |(vi) ấp trứng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "卵",
         "reading": "たまご",
-        "meaning": "eggs, egg, spawn, roe, (hen's) egg, a ... in the making, future (lawyer, doctor, etc.), budding ..., beginning, origin, infancy"
+        "meaning": "eggs, egg, spawn, roe, (hen's) egg, a ... in the making, future (lawyer, doctor, etc.), budding ..., beginning, origin, infancy |(vi) trứng; người sắp trở thành (bác sĩ, luật sư...), mới chớm nở"
       },
       {
         "example": "卵形",
         "reading": "らんけい",
-        "meaning": "oval shape, egg shape"
+        "meaning": "oval shape, egg shape |(vi) hình bầu dục, hình trứng"
       },
       {
         "example": "乾燥卵",
         "reading": "かんそうらん",
-        "meaning": "powdered eggs, dehydrated eggs, dried eggs"
+        "meaning": "powdered eggs, dehydrated eggs, dried eggs |(vi) trứng bột, trứng sấy khô"
       },
       {
         "example": "冷凍卵",
         "reading": "れいとうらん",
-        "meaning": "frozen egg"
+        "meaning": "frozen egg |(vi) trứng đông lạnh"
       }
     ],
     "radical": {
       "symbol": "卩",
-      "meaning": "kneel"
+      "meaning": "kneel |(vi) Tiết (quỳ, đốt)"
     },
     "parts": [
       "ノ",

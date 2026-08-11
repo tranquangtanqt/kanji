@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "criticize, critique",
+    "meaning": "criticize, critique |(vi) phê bình, phê phán",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "批評家（ひひょうか）",
         "meaning": {
-          "english": "critic"
+          "english": "critic |(vi) nhà phê bình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(han)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "批判する（ひはんする）",
         "meaning": {
-          "english": "criticize"
+          "english": "criticize |(vi) phê phán, chỉ trích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(han)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "批評する（ひひょうする）",
         "meaning": {
-          "english": "review (a book, etc.)"
+          "english": "review (a book, etc.) |(vi) phê bình, nhận xét (sách, v.v.)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(han)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "批難する（ひなんする）",
         "meaning": {
-          "english": "blame [v.t.]"
+          "english": "blame [v.t.] |(vi) khiển trách, chê trách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(han)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "批判的な（ひはんてきな）",
         "meaning": {
-          "english": "critical"
+          "english": "critical |(vi) có tính phê phán, chỉ trích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(han)_06_e.opus",
@@ -159,7 +159,7 @@
     "kanji": {
       "character": "批",
       "meaning": {
-        "english": "criticize, critique"
+        "english": "criticize, critique |(vi) phê bình, phê phán"
       },
       "strokes": {
         "count": 7,
@@ -211,7 +211,7 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand |(vi) Thủ (bàn tay)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -232,7 +232,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "568",
     "strokeCount": 7,
-    "meaning": "criticism, strike",
+    "meaning": "criticism, strike |(vi) phê bình, phê phán, chỉ trích |(hv) Phê",
     "kunyomi": [],
     "onyomi": [
       "ヒ"
@@ -241,17 +241,17 @@
       {
         "example": "非難",
         "reading": "ヒナン",
-        "meaning": "criticism, blame, censure, attack, reproach"
+        "meaning": "criticism, blame, censure, attack, reproach |(vi) phê bình, khiển trách, chỉ trích, công kích"
       },
       {
         "example": "批准",
         "reading": "ヒジュン",
-        "meaning": "ratification"
+        "meaning": "ratification |(vi) phê chuẩn"
       },
       {
         "example": "高批",
         "reading": "コウヒ",
-        "meaning": "your valued criticism"
+        "meaning": "your valued criticism |(vi) lời phê bình quý báu của ngài (kính ngữ)"
       }
     ],
     "kunyomiExamples": [],
@@ -260,7 +260,7 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": "hand |(vi) Thủ (tay)"
     },
     "parts": [
       "扎",

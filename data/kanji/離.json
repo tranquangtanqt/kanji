@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "hanareru, hanasu, hana",
-    "meaning": "separate, leave, keep apart",
+    "meaning": "separate, leave, keep apart |(vi) chia lìa, rời đi, tách biệt",
     "kstroke": 18,
     "examples": [
       {
         "japanese": "離島（りとう）",
         "meaning": {
-          "english": "outlying island"
+          "english": "outlying island |(vi) đảo xa, hải đảo hẻo lánh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri-hana(reru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "距離（きょり）",
         "meaning": {
-          "english": "distance, range"
+          "english": "distance, range |(vi) khoảng cách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri-hana(reru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "支離滅裂な（しりめつれつな）",
         "meaning": {
-          "english": "incoherent, illogical"
+          "english": "incoherent, illogical |(vi) lộn xộn, phi lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri-hana(reru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "離婚する（りこんする）",
         "meaning": {
-          "english": "divorce"
+          "english": "divorce |(vi) ly hôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri-hana(reru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "離陸する（りりくする）",
         "meaning": {
-          "english": "take off (e.g. airplane)"
+          "english": "take off (e.g. airplane) |(vi) cất cánh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri-hana(reru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "隔離する（かくりする）",
         "meaning": {
-          "english": "isolate, segregate"
+          "english": "isolate, segregate |(vi) cách ly"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri-hana(reru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "分離する（ぶんりする）",
         "meaning": {
-          "english": "separate"
+          "english": "separate |(vi) phân ly, tách rời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri-hana(reru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "剥離する（はくりする）",
         "meaning": {
-          "english": "peel off"
+          "english": "peel off |(vi) bong tróc, tách lớp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri-hana(reru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "離す（はなす）",
         "meaning": {
-          "english": "part, divide, separate [v.t.]"
+          "english": "part, divide, separate [v.t.] |(vi) tách ra, chia lìa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri-hana(reru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "離れる（はなれる）",
         "meaning": {
-          "english": "leave, separate [v.i.]"
+          "english": "leave, separate [v.i.] |(vi) rời xa, tách khỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri-hana(reru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "離れ離れ（はなればなれ）",
         "meaning": {
-          "english": "scattered, separated [n.]"
+          "english": "scattered, separated [n.] |(vi) ly tán, phân tán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ri-hana(reru)_06_k.opus",
@@ -250,7 +250,7 @@
     "kanji": {
       "character": "離",
       "meaning": {
-        "english": "separate, leave, keep apart"
+        "english": "separate, leave, keep apart |(vi) chia lìa, rời đi, tách biệt"
       },
       "strokes": {
         "count": 18,
@@ -324,7 +324,7 @@
         "romaji": "furutori"
       },
       "meaning": {
-        "english": "small bird"
+        "english": "small bird |(vi) Chuy (chim đuôi ngắn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/furutori0.svg",
@@ -345,7 +345,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "555",
     "strokeCount": 19,
-    "meaning": "detach, separation, disjoin, digress",
+    "meaning": "detach, separation, disjoin, digress |(vi) tách rời, chia ly, phân tách, lạc đề |(hv) Ly",
     "kunyomi": [
       "はな.れる",
       "はな.す"
@@ -357,39 +357,39 @@
       {
         "example": "離",
         "reading": "リ",
-        "meaning": "li (one of the trigrams of the I Ching: fire, south)"
+        "meaning": "li (one of the trigrams of the I Ching: fire, south) |(vi) quẻ Ly (một trong bát quái: lửa, phương nam)"
       },
       {
         "example": "離宮",
         "reading": "リキュウ",
-        "meaning": "imperial villa, royal villa, detached palace"
+        "meaning": "imperial villa, royal villa, detached palace |(vi) biệt cung, hành cung"
       },
       {
         "example": "短距離",
         "reading": "タンキョリ",
-        "meaning": "short distance, short range, short-haul"
+        "meaning": "short distance, short range, short-haul |(vi) cự ly ngắn"
       },
       {
         "example": "近距離",
         "reading": "キンキョリ",
-        "meaning": "short distance"
+        "meaning": "short distance |(vi) khoảng cách gần"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "離れる",
         "reading": "はなれる",
-        "meaning": "to be separated, to be apart, to be distant, to leave, to go away, to leave (a job, etc.), to quit, to give up, to lose connection with, to drift away from"
+        "meaning": "to be separated, to be apart, to be distant, to leave, to go away, to leave (a job, etc.), to quit, to give up, to lose connection with, to drift away from |(vi) rời xa, tách khỏi, cách biệt, từ bỏ"
       },
       {
         "example": "離す",
         "reading": "はなす",
-        "meaning": "to separate, to part, to divide, to keep apart"
+        "meaning": "to separate, to part, to divide, to keep apart |(vi) tách ra, chia lìa"
       }
     ],
     "radical": {
       "symbol": "隹",
-      "meaning": "small bird"
+      "meaning": "small bird |(vi) Chuy (chim đuôi ngắn)"
     },
     "parts": [
       "亠",
