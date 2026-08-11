@@ -201,7 +201,7 @@ function KanjiPageContentInner({
               ),
               content: (
                 <div className="relative mt-8 p-4 flex flex-col items-center gap-12">
-                  <SearchInput searchPlaceholder="Search kanji..." />
+                  <SearchInput searchPlaceholder="Tìm kanji..." />
                   <DrawInput />
                 </div>
               ),
@@ -217,7 +217,7 @@ function KanjiPageContentInner({
       <div className="w-full grow hidden md:grid grid-cols-1 md:grid-rows-[330px_1fr] overflow-hidden">
         <div className="top grid grid-cols-[252px_1.5fr_1fr] overflow-hidden border-b border-lighter">
           <div className="flex flex-col items-center gap-2 mt-3">
-            <SearchInput searchPlaceholder="Search..." />
+            <SearchInput searchPlaceholder="Tìm..." />
             <DrawInput />
           </div>
           <ScrollArea className="w-full h-full">

@@ -5,7 +5,7 @@ import { SearchInput } from "@/components/search-input";
 import { SearchIcon } from "lucide-react";
 
 export const metadata = {
-  title: "The Kanji Map",
+  title: "Bản Đồ Kanji",
   description:
     "Explore kanji decomposition, readings, radicals, and examples in an interactive graph.",
 };
@@ -24,7 +24,7 @@ export default function Home() {
               label: "漢字",
               content: (
                 <div className="relative mt-8 p-4 flex flex-col items-center gap-12">
-                  <SearchInput searchPlaceholder="Search kanji..." />
+                  <SearchInput searchPlaceholder="Tìm kanji..." />
                   <DrawInput />
                 </div>
               ),
@@ -51,7 +51,7 @@ export default function Home() {
               ),
               content: (
                 <div className="relative mt-8 p-4 flex flex-col items-center gap-12">
-                  <SearchInput searchPlaceholder="Search kanji..." />
+                  <SearchInput searchPlaceholder="Tìm kanji..." />
                   <DrawInput />
                 </div>
               ),
@@ -65,22 +65,22 @@ export default function Home() {
       <div className="w-full grow hidden md:grid grid-cols-1 md:grid-rows-[330px_1fr] overflow-hidden">
         <div className="top grid grid-cols-[252px_1.5fr_1fr] overflow-hidden border-b border-lighter">
           <div className="flex flex-col items-center gap-2 mt-3">
-            <SearchInput searchPlaceholder="Search..." />
+            <SearchInput searchPlaceholder="Tìm..." />
             <DrawInput />
           </div>
           <div className="p-4 border-l">
             <h1 className="text-lg font-semibold">Kanji</h1>
           </div>
           <div className="p-4 border-l">
-            <h1 className="text-lg font-semibold">Radical</h1>
+            <h1 className="text-lg font-semibold">Bộ thủ</h1>
           </div>
         </div>
         <div className="bottom grid grid-cols-[2fr_3fr] overflow-hidden">
           <div className="p-4">
-            <h1 className="text-lg font-semibold">Examples</h1>
+            <h1 className="text-lg font-semibold">Ví dụ</h1>
           </div>
           <div className="p-4 border-l">
-            <h1 className="text-lg font-semibold">Graph</h1>
+            <h1 className="text-lg font-semibold">Sơ đồ</h1>
           </div>
         </div>
       </div>

@@ -229,14 +229,14 @@ export const Graphs: React.FC<Props> = ({
                     value="rotate"
                     variant="outline"
                     className="size-8 bg-background p-0 data-[pressed]:bg-accent"
-                    aria-label="Autorotate"
+                    aria-label="Tự động xoay"
                   />
                 }
               >
                 <RefreshCcwIcon className="size-4" />
               </TooltipTrigger>
               <TooltipContent>
-                <p>Autorotate</p>
+                <p>Tự động xoay</p>
               </TooltipContent>
             </Tooltip>
           )}
@@ -248,14 +248,14 @@ export const Graphs: React.FC<Props> = ({
                   value="particles"
                   variant="outline"
                   className="size-8 bg-background p-0 data-[pressed]:bg-accent"
-                  aria-label="Show arrow particles"
+                  aria-label="Hiện hạt mũi tên"
                 />
               }
             >
               <ArrowUpFromDotIcon className="size-4" />
             </TooltipTrigger>
             <TooltipContent>
-              <p>Show arrow particles</p>
+              <p>Hiện hạt mũi tên</p>
             </TooltipContent>
           </Tooltip>
 
@@ -267,14 +267,14 @@ export const Graphs: React.FC<Props> = ({
                   variant="outline"
                   className="size-8 bg-background p-0 data-[pressed]:bg-accent"
                   size="sm"
-                  aria-label="Show out links"
+                  aria-label="Hiển thị liên kết đi ra"
                 />
               }
             >
               <CircleArrowOutUpRightIcon className="size-4" />
             </TooltipTrigger>
             <TooltipContent>
-              <p>Show outgoing links</p>
+              <p>Hiển thị liên kết đi ra</p>
             </TooltipContent>
           </Tooltip>
         </ToggleGroup>
@@ -286,7 +286,7 @@ export const Graphs: React.FC<Props> = ({
                   variant="outline"
                   size="icon"
                   className="!bg-background hover:!bg-muted dark:!bg-background dark:hover:!bg-muted"
-                  aria-label="Fit to screen"
+                  aria-label="Thu phóng vừa khung"
                   onClick={handleZoomToFit}
                 />
               }
@@ -294,7 +294,7 @@ export const Graphs: React.FC<Props> = ({
               <MaximizeIcon className="size-4" />
             </TooltipTrigger>
             <TooltipContent>
-              <p>Zoom to fit</p>
+              <p>Thu phóng vừa khung</p>
             </TooltipContent>
           </Tooltip>
         </div>

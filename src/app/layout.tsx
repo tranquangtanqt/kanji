@@ -10,11 +10,11 @@ const siteUrl = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  title: { default: "The Kanji Map", template: "%s | The Kanji Map" },
+  title: { default: "Bản Đồ Kanji", template: "%s | Bản Đồ Kanji" },
   description:
     "The Kanji Map is a Japanese language learning tool that shows kanji information and decomposition in graph form.",
   openGraph: {
-    title: "The Kanji Map",
+    title: "Bản Đồ Kanji",
     description:
       "The Kanji Map is a Japanese language learning tool that shows kanji information and decomposition in graph form.",
   },

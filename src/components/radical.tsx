@@ -135,7 +135,7 @@ export const Radical: React.FC<Props> = ({
   return (
     <div className="min-h-[330px] relative w-full h-full overflow-hidden grid grid-rows-[36px_100px_1fr] grid-cols-[120px_1fr]">
       <div>
-        <h3 className="text-lg font-semibold">Radical</h3>
+        <h3 className="text-lg font-semibold">Bộ thủ</h3>
       </div>
       <div className="pt-2 w-full h-full overflow-hidden text-sm leading-6 row-span-3">
         {kanjiInfo?.jishoData?.radical?.symbol && (

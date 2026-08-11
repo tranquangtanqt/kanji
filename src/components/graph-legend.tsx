@@ -17,10 +17,10 @@ interface Props {
 }
 
 const NODE_LEGEND = [
-  { label: "Selected kanji", color: NODE_SELECTED },
-  { label: "Joyo kanji", color: NODE_JOYO },
-  { label: "Jinmeiyo kanji", color: NODE_JINMEIYO },
-  { label: "Other", color: NODE_OTHER },
+  { label: "Kanji đang chọn", color: NODE_SELECTED },
+  { label: "Kanji Joyo", color: NODE_JOYO },
+  { label: "Kanji Jinmeiyo", color: NODE_JINMEIYO },
+  { label: "Khác", color: NODE_OTHER },
 ];
 
 export const GraphLegend: React.FC<Props> = ({
@@ -36,7 +36,7 @@ export const GraphLegend: React.FC<Props> = ({
               variant="outline"
               size="icon"
               className="!bg-background hover:!bg-muted dark:!bg-background dark:hover:!bg-muted"
-              aria-label="Open graph legend"
+              aria-label="Mở chú giải sơ đồ"
             >
               <InfoIcon className="size-4" />
             </Button>
@@ -44,7 +44,7 @@ export const GraphLegend: React.FC<Props> = ({
         />
         <PopoverContent align="start" side="top" className="w-72 space-y-3">
           <div>
-            <p className="text-sm font-semibold">Node colors</p>
+            <p className="text-sm font-semibold">Màu nút</p>
             <div className="mt-2 space-y-1.5">
               {NODE_LEGEND.map((entry) => (
                 <div
@@ -61,7 +61,7 @@ export const GraphLegend: React.FC<Props> = ({
             </div>
           </div>
           <div>
-            <p className="text-sm font-semibold">Links</p>
+            <p className="text-sm font-semibold">Liên kết</p>
             <div className="mt-2 space-y-1.5 text-xs">
               <div className="flex items-center gap-2">
                 <svg width="24" height="10" viewBox="0 0 24 10" aria-hidden>
@@ -75,18 +75,18 @@ export const GraphLegend: React.FC<Props> = ({
                   />
                   <path d="M18 2 L23 5 L18 8 Z" fill="currentColor" />
                 </svg>
-                <span>Arrow shows link direction</span>
+                <span>Mũi tên thể hiện chiều liên kết</span>
               </div>
-              <p>Shared onyomi is shown as text on links when available.</p>
+              <p>Âm Onyomi chung được hiển thị dưới dạng chữ trên liên kết (nếu có).</p>
               <p>
                 {showOutLinks
-                  ? "Outgoing links are visible."
-                  : "Outgoing links are hidden."}
+                  ? "Liên kết đi ra đang hiển thị."
+                  : "Liên kết đi ra đang ẩn."}
               </p>
               <p>
                 {showParticles
-                  ? "Arrow particles are enabled."
-                  : "Arrow particles are disabled."}
+                  ? "Hạt mũi tên đang bật."
+                  : "Hạt mũi tên đang tắt."}
               </p>
             </div>
           </div>

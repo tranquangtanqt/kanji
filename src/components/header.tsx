@@ -29,7 +29,7 @@ export const Header = ({
       <div className="flex items-center h-full">
         <Link href={`/`} className="flex h-full items-center">
           <LogoSVG className="h-full py-2 px-4 w-14 inline-block" />
-          <h1 className="text-lg font-semibold text-nowrap">The Kanji Map</h1>
+          <h1 className="text-lg font-semibold text-nowrap">Bản Đồ Kanji</h1>
         </Link>
       </div>
       <div className="flex px-4 gap-2">
@@ -48,7 +48,7 @@ export const Header = ({
             <InfoIcon className={cn("size-5")} />
           </TooltipTrigger>
           <TooltipContent>
-            <p>About this website</p>
+            <p>Giới thiệu về trang web này</p>
           </TooltipContent>
         </Tooltip>
         <ThemeSwitcherButton />

@@ -54,38 +54,38 @@ export const Kanji = ({
       <div className="p-2 w-full h-full overflow-hidden text-sm leading-6 row-span-3">
         {kanjiInfo && joyoList?.includes(kanjiInfo.id) && (
           <p>
-            <strong>Jōyō kanji</strong>
+            <strong>Kanji Jōyō</strong>
             {kanjiInfo?.jishoData?.taughtIn && (
               <span>
-                , Taught in <strong>{kanjiInfo?.jishoData?.taughtIn}</strong>
+                , dạy ở <strong>{kanjiInfo?.jishoData?.taughtIn}</strong>
               </span>
             )}
           </p>
         )}
         {kanjiInfo && jinmeiyoList?.includes(kanjiInfo.id) && (
-          <p>Jinmeiyō kanji, used in names</p>
+          <p>Kanji Jinmeiyō, dùng trong tên riêng</p>
         )}
 
         {kanjiInfo?.jishoData?.jlptLevel && (
           <p>
-            JLPT level: <strong>{kanjiInfo?.jishoData?.jlptLevel}</strong>
+            Cấp độ JLPT: <strong>{kanjiInfo?.jishoData?.jlptLevel}</strong>
           </p>
         )}
         {kanjiInfo?.jishoData?.newspaperFrequencyRank && (
           <p>
-            <strong>{kanjiInfo?.jishoData?.newspaperFrequencyRank}</strong> of
-            2500 most used kanji in newspapers
+            <strong>{kanjiInfo?.jishoData?.newspaperFrequencyRank}</strong> trong
+            2500 kanji dùng nhiều nhất trên báo
           </p>
         )}
         {kanjiInfo?.jishoData?.strokeCount && (
           <p>
-            Stroke count: <strong>{kanjiInfo?.jishoData?.strokeCount}</strong>
+            Số nét: <strong>{kanjiInfo?.jishoData?.strokeCount}</strong>
           </p>
         )}
         {kanjiInfo?.jishoData?.meaning && (
           <>
             <p>
-              Meaning:{" "}
+              Nghĩa:{" "}
               <strong>{extractViHvMeaning(kanjiInfo?.jishoData?.meaning)}</strong>
             </p>
           </>
@@ -108,7 +108,7 @@ export const Kanji = ({
         {composition.length > 0 && (
           <>
             <p>
-              Composition: 
+              Cấu tạo từ:
               {composition.map((comp: string) => (
                   <span key={comp}>{comp} </span>
                 ))}
@@ -118,7 +118,7 @@ export const Kanji = ({
 
         {variantInfo.aliases.length > 0 && (
           <p>
-            Variants: <strong>{variantInfo.aliases.join(", ")}</strong>
+            Biến thể: <strong>{variantInfo.aliases.join(", ")}</strong>
           </p>
         )}
       </div>

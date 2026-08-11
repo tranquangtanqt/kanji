@@ -40,13 +40,13 @@ export const Examples = ({ kanjiInfo }: { kanjiInfo: KanjiInfo | null }) => {
   return (
     <div className="size-full grid grid-rows-[36px_1fr] p-4 mb-14">
       <div>
-        <h3 className="text-lg font-semibold">Examples</h3>
+        <h3 className="text-lg font-semibold">Ví dụ</h3>
       </div>
       <div>
         {/* KANJIALIVE With AUDIO */}
         {kanjiInfo?.kanjialiveData?.examples && (
           <h5 className="text-foreground/50 text-sm my-2">
-            Examples with audio
+            Ví dụ có âm thanh
           </h5>
         )}
         {kanjiInfo?.kanjialiveData?.examples?.map(
@@ -84,7 +84,7 @@ export const Examples = ({ kanjiInfo }: { kanjiInfo: KanjiInfo | null }) => {
         {/* JISHO */}
         {kanjiInfo?.jishoData?.onyomiExamples &&
           kanjiInfo?.jishoData?.onyomiExamples?.length !== 0 && (
-            <h5 className="text-foreground/50 text-sm my-2">Onyomi Examples</h5>
+            <h5 className="text-foreground/50 text-sm my-2">Ví dụ âm Onyomi</h5>
           )}
         {kanjiInfo?.jishoData?.onyomiExamples?.map(
           (onExample: any, index: number) => (
@@ -103,7 +103,7 @@ export const Examples = ({ kanjiInfo }: { kanjiInfo: KanjiInfo | null }) => {
         {kanjiInfo?.jishoData?.kunyomiExamples &&
           kanjiInfo?.jishoData?.kunyomiExamples?.length !== 0 && (
             <h5 className="text-foreground/50 text-sm my-2">
-              Kunyomi Examples
+              Ví dụ âm Kunyomi
             </h5>
           )}
         {kanjiInfo?.jishoData?.kunyomiExamples?.map(

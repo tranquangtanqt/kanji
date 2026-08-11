@@ -25,7 +25,7 @@ const About = () => {
               About
             </h1>
             <p>
-              The Kanji Map is a Japanese language learning tool that shows
+              Bản Đồ Kanji is a Japanese language learning tool that shows
               kanji information and decomposition in graph form.
             </p>
             <h1 className="text-3xl font-semibold tracking-tight mt-8 mb-4">
@@ -269,7 +269,7 @@ const About = () => {
               Copyright
             </h1>
             <p>
-              The Kanji Map is an open-source project (2017-
+              Bản Đồ Kanji is an open-source project (2017-
               <span suppressHydrationWarning>{new Date().getFullYear()}</span>) maintained under the MIT license. Feel
               free to fork, contribute, or share it with other learners.
             </p>

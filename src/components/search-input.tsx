@@ -1,4 +1,5 @@
 "use client";
+import { extractViHvMeaning } from "@/lib/meaning";
 import { Button } from "@/components/ui/button";
 import {
   Combobox,
@@ -82,7 +83,7 @@ type JLPTFilters = Record<JlptFilter, boolean>;
 const GROUP_LABELS: Record<SearchGroup, string> = {
   joyo: "Joyo",
   jinmeiyo: "Jinmeiyo",
-  other: "Other",
+  other: "Khác",
 };
 
 const JLPT_LABELS: Record<JlptFilter, string> = {
@@ -91,7 +92,7 @@ const JLPT_LABELS: Record<JlptFilter, string> = {
   N3: "N3",
   N2: "N2",
   N1: "N1",
-  unknown: "Unknown",
+  unknown: "Không rõ",
 };
 
 const JLPT_FILTER_ITEMS = [...JLPT_LEVELS, "unknown"] as const;
@@ -384,7 +385,7 @@ function SearchFiltersPopover({
           <Filter
             className={activeFilterCount > 0 ? "size-3.5 text-primary" : "size-3.5"}
           />
-          Filters{activeFilterCount > 0 ? ` (${activeFilterCount})` : ""}
+          Bộ lọc{activeFilterCount > 0 ? ` (${activeFilterCount})` : ""}
         </PopoverTrigger>
         <PopoverContent
           anchor={filterPopoverAnchor}
@@ -394,7 +395,7 @@ function SearchFiltersPopover({
           className="w-[calc(100vw-3rem)] max-w-[18rem] p-3 md:w-[204px] md:max-w-none"
         >
           <div className="mb-2 flex items-center justify-between">
-            <div className="text-sm font-semibold">Search filters</div>
+            <div className="text-sm font-semibold">Bộ lọc tìm kiếm</div>
             <Button
               variant="ghost"
               size="sm"
@@ -402,13 +403,13 @@ function SearchFiltersPopover({
               onClick={onResetFilters}
             >
               <RotateCcw className="mr-1 size-3.5" />
-              Reset
+              Đặt lại
             </Button>
           </div>
 
           <div className="space-y-2">
             <div className="space-y-1">
-              <div className="text-xs text-muted-foreground">Collection</div>
+              <div className="text-xs text-muted-foreground">Bộ sưu tập</div>
               <Combobox
                 multiple
                 autoHighlight
@@ -434,7 +435,7 @@ function SearchFiltersPopover({
                   </ComboboxValue>
                 </ComboboxChips>
                 <ComboboxContent anchor={collectionAnchor} align="start">
-                  <ComboboxEmpty>No items found.</ComboboxEmpty>
+                  <ComboboxEmpty>Không tìm thấy mục nào.</ComboboxEmpty>
                   <ComboboxList>
                     {(item) => (
                       <ComboboxItem key={item} value={item}>
@@ -447,7 +448,7 @@ function SearchFiltersPopover({
             </div>
 
             <div className="space-y-1">
-              <div className="text-xs text-muted-foreground">JLPT Level</div>
+              <div className="text-xs text-muted-foreground">Cấp độ JLPT</div>
               <Combobox
                 multiple
                 autoHighlight
@@ -473,7 +474,7 @@ function SearchFiltersPopover({
                   </ComboboxValue>
                 </ComboboxChips>
                 <ComboboxContent anchor={jlptAnchor} align="start">
-                  <ComboboxEmpty>No items found.</ComboboxEmpty>
+                  <ComboboxEmpty>Không tìm thấy mục nào.</ComboboxEmpty>
                   <ComboboxList>
                     {(item) => (
                       <ComboboxItem key={item} value={item}>
@@ -487,7 +488,7 @@ function SearchFiltersPopover({
 
             <div className="space-y-2 pt-1">
               <div className="flex items-center justify-between text-xs">
-                <span className="text-muted-foreground">Stroke count</span>
+                <span className="text-muted-foreground">Số nét</span>
                 <span className="text-muted-foreground">
                   {strokeRange[0]}-{strokeRange[1]}
                 </span>
@@ -539,10 +540,12 @@ function SearchResultsList({
 
                   <div className="text-xs">
                     <div>{item.value.kunyomi}</div>
-                    <div className="line-clamp-1">{item.value.meaning}</div>
+                    <div className="line-clamp-1">
+                      {extractViHvMeaning(item.value.meaning)}
+                    </div>
                     <div className="text-muted-foreground">
-                      {item.value.jlptLevel ?? "Unknown"} JLPT{" • "}
-                      {item.value.strokeCount ?? "?"} strokes
+                      {item.value.jlptLevel ?? "Không rõ"} JLPT{" • "}
+                      {item.value.strokeCount ?? "?"} nét
                     </div>
                   </div>
                 </div>
@@ -755,7 +758,7 @@ const VirtualizedCommand = ({
 };
 
 export const SearchInput = ({
-  searchPlaceholder = "Search kanji...",
+  searchPlaceholder = "Tìm kanji...",
 }: {
   searchPlaceholder?: string;
 }) => {
