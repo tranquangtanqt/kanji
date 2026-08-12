@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "hakaru, hakari, haka",
-    "meaning": "quantity, measure, weigh",
+    "meaning": "quantity, measure, weigh |(vi) số lượng, đo lường, cân",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "量（りょう）",
         "meaning": {
-          "english": "quantity, amount"
+          "english": "quantity, amount |(vi) số lượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "数量（すうりょう）",
         "meaning": {
-          "english": "number, quantity"
+          "english": "number, quantity |(vi) số lượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "重量（じゅうりょう）",
         "meaning": {
-          "english": "weight"
+          "english": "weight |(vi) trọng lượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "交通量（こうつうりょう）",
         "meaning": {
-          "english": "traffic volume"
+          "english": "traffic volume |(vi) lưu lượng giao thông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "消費量（しょうひりょう）",
         "meaning": {
-          "english": "amount of consumption"
+          "english": "amount of consumption |(vi) lượng tiêu thụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "大量な（たいりょうな）",
         "meaning": {
-          "english": "large (quantity)"
+          "english": "large (quantity) |(vi) số lượng lớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "量産する（りょうさんする）",
         "meaning": {
-          "english": "produce in large quantity"
+          "english": "produce in large quantity |(vi) sản xuất hàng loạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "測量する（そくりょうする）",
         "meaning": {
-          "english": "measure"
+          "english": "measure |(vi) đo đạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "推量する（すいりょうする）",
         "meaning": {
-          "english": "guess"
+          "english": "guess |(vi) suy đoán, phỏng đoán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "量る（はかる）",
         "meaning": {
-          "english": "measure, weigh"
+          "english": "measure, weigh |(vi) đo, cân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "推し量る（おしはかる）",
         "meaning": {
-          "english": "conjecture, surmise"
+          "english": "conjecture, surmise |(vi) suy đoán, ước lượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_k.opus",
@@ -250,7 +250,7 @@
     "kanji": {
       "character": "量",
       "meaning": {
-        "english": "quantity, measure, weigh"
+        "english": "quantity, measure, weigh |(vi) số lượng, đo lường, cân"
       },
       "strokes": {
         "count": 12,
@@ -312,7 +312,7 @@
         "romaji": "sato"
       },
       "meaning": {
-        "english": "village, (3.93 km)"
+        "english": "village, (3.93 km) |(vi) Lý (làng, dặm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sato0.svg",
@@ -333,7 +333,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "469",
     "strokeCount": 12,
-    "meaning": "quantity, measure, weight, amount, consider, estimate, surmise",
+    "meaning": "quantity, measure, weight, amount, consider, estimate, surmise |(vi) số lượng, thước đo, trọng lượng, cân nhắc, ước lượng |(hv) Lượng",
     "kunyomi": [
       "はか.る"
     ],
@@ -344,34 +344,34 @@
       {
         "example": "量",
         "reading": "リョウ",
-        "meaning": "quantity, amount, volume, capacity, portion (of food), generosity, magnanimity, tolerance, pramana (means by which one gains accurate and valid knowledge; in Indian philosophy)"
+        "meaning": "quantity, amount, volume, capacity, portion (of food), generosity, magnanimity, tolerance, pramana (means by which one gains accurate and valid knowledge; in Indian philosophy) |(vi) số lượng, dung tích, khẩu phần, độ khoan dung, lượng (thuật ngữ triết học Ấn Độ)"
       },
       {
         "example": "量刑",
         "reading": "リョウケイ",
-        "meaning": "judge's sentence, assessment of a case"
+        "meaning": "judge's sentence, assessment of a case |(vi) định mức hình phạt"
       },
       {
         "example": "裁量",
         "reading": "サイリョウ",
-        "meaning": "discretion, judgement, judgment"
+        "meaning": "discretion, judgement, judgment |(vi) quyền quyết định, sự phán đoán"
       },
       {
         "example": "軽量",
         "reading": "ケイリョウ",
-        "meaning": "light weight"
+        "meaning": "light weight |(vi) trọng lượng nhẹ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "計る",
         "reading": "はかる",
-        "meaning": "to measure, to weigh, to survey, to time (sound, gauge, estimate), to conjecture, to infer, to surmise"
+        "meaning": "to measure, to weigh, to survey, to time (sound, gauge, estimate), to conjecture, to infer, to surmise |(vi) đo, cân, khảo sát, ước lượng, suy đoán"
       }
     ],
     "radical": {
       "symbol": "里",
-      "meaning": "village, mile"
+      "meaning": "village, mile |(vi) Lý (làng, dặm)"
     },
     "parts": [
       "一",

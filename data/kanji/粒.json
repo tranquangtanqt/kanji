@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "tsubu",
-    "meaning": "grain",
+    "meaning": "grain |(vi) hạt",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "粒子（りゅうし）",
         "meaning": {
-          "english": "particle, grain"
+          "english": "particle, grain |(vi) hạt, phân tử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsubu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "顆粒（かりゅう）",
         "meaning": {
-          "english": "granule"
+          "english": "granule |(vi) hạt nhỏ, viên nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsubu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "素粒子（そりゅうし）",
         "meaning": {
-          "english": "elementary particle, particle"
+          "english": "elementary particle, particle |(vi) hạt cơ bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsubu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "粒（つぶ）",
         "meaning": {
-          "english": "grain, drop"
+          "english": "grain, drop |(vi) hạt, giọt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsubu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "米粒（こめつぶ）",
         "meaning": {
-          "english": "grain of rice"
+          "english": "grain of rice |(vi) hạt gạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsubu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "一粒（ひとつぶ）",
         "meaning": {
-          "english": "a grain, a drop"
+          "english": "a grain, a drop |(vi) một hạt, một giọt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsubu_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "粒粒（つぶつぶ）",
         "meaning": {
-          "english": "granulated, lumpy"
+          "english": "granulated, lumpy |(vi) lổn nhổn, dạng hạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsubu_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "雨粒（あまつぶ）",
         "meaning": {
-          "english": "raindrop"
+          "english": "raindrop |(vi) giọt mưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsubu_06_h.opus",
@@ -183,7 +183,7 @@
     "kanji": {
       "character": "粒",
       "meaning": {
-        "english": "grain"
+        "english": "grain |(vi) hạt"
       },
       "strokes": {
         "count": 11,
@@ -243,7 +243,7 @@
         "romaji": "komehen"
       },
       "meaning": {
-        "english": "rice"
+        "english": "rice |(vi) Mễ (gạo)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/komehen0.svg",
@@ -264,7 +264,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1635",
     "strokeCount": 11,
-    "meaning": "grains, drop, counter for tiny particles",
+    "meaning": "grains, drop, counter for tiny particles |(vi) hạt, giọt, lượng từ đếm vật nhỏ |(hv) Lạp",
     "kunyomi": [
       "つぶ"
     ],
@@ -275,49 +275,49 @@
       {
         "example": "粒",
         "reading": "ツブ",
-        "meaning": "grain, bead, drop, counter for small round objects including grains, seeds, pills, drops"
+        "meaning": "grain, bead, drop, counter for small round objects including grains, seeds, pills, drops |(vi) hạt, viên, giọt, lượng từ vật nhỏ tròn"
       },
       {
         "example": "粒子",
         "reading": "リュウシ",
-        "meaning": "particle, grain"
+        "meaning": "particle, grain |(vi) hạt, phân tử"
       },
       {
         "example": "細粒",
         "reading": "サイリュウ",
-        "meaning": "fine grain, fine granule, microsphere"
+        "meaning": "fine grain, fine granule, microsphere |(vi) hạt mịn"
       },
       {
         "example": "粒々",
         "reading": "リュウリュウ",
-        "meaning": "each grain, every grain"
+        "meaning": "each grain, every grain |(vi) từng hạt một"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "粒",
         "reading": "つぶ",
-        "meaning": "grain, bead, drop, counter for small round objects including grains, seeds, pills, drops"
+        "meaning": "grain, bead, drop, counter for small round objects including grains, seeds, pills, drops |(vi) hạt, viên, giọt"
       },
       {
         "example": "粒状",
         "reading": "りゅうじょう",
-        "meaning": "granular, granulated"
+        "meaning": "granular, granulated |(vi) dạng hạt"
       },
       {
         "example": "米粒",
         "reading": "こめつぶ",
-        "meaning": "grain of rice"
+        "meaning": "grain of rice |(vi) hạt gạo"
       },
       {
         "example": "小粒",
         "reading": "こつぶ",
-        "meaning": "small (of a grain or berry, etc.), small (in stature), limited (in abilities)"
+        "meaning": "small (of a grain or berry, etc.), small (in stature), limited (in abilities) |(vi) hạt nhỏ, nhỏ con, kém cỏi"
       }
     ],
     "radical": {
       "symbol": "米",
-      "meaning": "rice"
+      "meaning": "rice |(vi) Mễ (gạo)"
     },
     "parts": [
       "立",

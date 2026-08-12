@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "kind, type, genus",
+    "meaning": "kind, type, genus |(vi) loại, kiểu, chủng loại",
     "kstroke": 18,
     "examples": [
       {
         "japanese": "類型（るいけい）",
         "meaning": {
-          "english": "type, pattern"
+          "english": "type, pattern |(vi) loại hình, khuôn mẫu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(jin)rui_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "類語（るいご）",
         "meaning": {
-          "english": "synonym"
+          "english": "synonym |(vi) từ đồng nghĩa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(jin)rui_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "類人猿（るいじんえん）",
         "meaning": {
-          "english": "anthropoid"
+          "english": "anthropoid |(vi) vượn người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(jin)rui_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "種類（しゅるい）",
         "meaning": {
-          "english": "variety, kind, type, category"
+          "english": "variety, kind, type, category |(vi) chủng loại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(jin)rui_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "人類（じんるい）",
         "meaning": {
-          "english": "mankind, humanity"
+          "english": "mankind, humanity |(vi) nhân loại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(jin)rui_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "同類（どうるい）",
         "meaning": {
-          "english": "the same kind, accomplice"
+          "english": "the same kind, accomplice |(vi) cùng loại, đồng bọn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(jin)rui_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "衣類（いるい）",
         "meaning": {
-          "english": "clothes, clothing, garments"
+          "english": "clothes, clothing, garments |(vi) quần áo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(jin)rui_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "親類（しんるい）",
         "meaning": {
-          "english": "relative, kin"
+          "english": "relative, kin |(vi) họ hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(jin)rui_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "哺乳類（ほにゅうるい）",
         "meaning": {
-          "english": "mammal, mammalian"
+          "english": "mammal, mammalian |(vi) động vật có vú"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(jin)rui_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "類似する（るいじする）",
         "meaning": {
-          "english": "similar to [v.i.]"
+          "english": "similar to [v.i.] |(vi) tương tự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(jin)rui_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "分類する（ぶんるいする）",
         "meaning": {
-          "english": "classify"
+          "english": "classify |(vi) phân loại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(jin)rui_06_k.opus",
@@ -251,7 +251,7 @@
     "kanji": {
       "character": "類",
       "meaning": {
-        "english": "kind, type, genus"
+        "english": "kind, type, genus |(vi) loại, kiểu, chủng loại"
       },
       "strokes": {
         "count": 18,
@@ -325,7 +325,7 @@
         "romaji": "oogai"
       },
       "meaning": {
-        "english": "head, page"
+        "english": "head, page |(vi) Hiệt (đầu, trang)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/oogai0.svg",
@@ -346,7 +346,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "678",
     "strokeCount": 18,
-    "meaning": "sort, kind, variety, class, genus",
+    "meaning": "sort, kind, variety, class, genus |(vi) loại, kiểu, chủng loại, lớp, giống |(hv) Loại",
     "kunyomi": [
       "たぐ.い"
     ],
@@ -357,39 +357,39 @@
       {
         "example": "類",
         "reading": "ルイ",
-        "meaning": "kind, sort, type, class, genus, order, family, similar example, parallel, the like"
+        "meaning": "kind, sort, type, class, genus, order, family, similar example, parallel, the like |(vi) loại, kiểu, lớp, chi, họ, ví dụ tương tự"
       },
       {
         "example": "類似",
         "reading": "ルイジ",
-        "meaning": "resemblance, similarity, likeness, analogy"
+        "meaning": "resemblance, similarity, likeness, analogy |(vi) tương tự, giống nhau"
       },
       {
         "example": "魚類",
         "reading": "ギョルイ",
-        "meaning": "fish, fishes"
+        "meaning": "fish, fishes |(vi) các loài cá"
       },
       {
         "example": "魚介類",
         "reading": "ギョカイルイ",
-        "meaning": "marine products, seafood, fish and shellfish"
+        "meaning": "marine products, seafood, fish and shellfish |(vi) hải sản, cá và động vật có vỏ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "類い",
         "reading": "たぐい",
-        "meaning": "kind, sort, type, equal, match, peer"
+        "meaning": "kind, sort, type, equal, match, peer |(vi) loại, kiểu, ngang hàng, đối thủ"
       },
       {
         "example": "類いする",
         "reading": "たぐいする",
-        "meaning": "to be equal to, to be as good as, to be a match for, to rival"
+        "meaning": "to be equal to, to be as good as, to be a match for, to rival |(vi) ngang bằng, sánh được, đối chọi"
       }
     ],
     "radical": {
       "symbol": "頁",
-      "meaning": "leaf"
+      "meaning": "leaf |(vi) Hiệt (đầu, trang)"
     },
     "parts": [
       "ハ",

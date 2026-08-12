@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "abridged, strategy, omit, abbreviate",
+    "meaning": "abridged, strategy, omit, abbreviate |(vi) rút gọn, chiến lược, lược bỏ, viết tắt",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "略（りゃく）",
         "meaning": {
-          "english": "abbreviation, omission"
+          "english": "abbreviation, omission |(vi) viết tắt, lược bỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sen)ryaku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "略語（りゃくご）",
         "meaning": {
-          "english": "abbreviation, acronym"
+          "english": "abbreviation, acronym |(vi) từ viết tắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sen)ryaku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "略字（りゃくじ）",
         "meaning": {
-          "english": "abbreviation, simplified character"
+          "english": "abbreviation, simplified character |(vi) chữ giản thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sen)ryaku_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "略歴（りゃくれき）",
         "meaning": {
-          "english": "brief personal record, short CV"
+          "english": "brief personal record, short CV |(vi) sơ yếu lý lịch tóm tắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sen)ryaku_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "戦略（せんりゃく）",
         "meaning": {
-          "english": "strategy, tactics"
+          "english": "strategy, tactics |(vi) chiến lược"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sen)ryaku_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "策略（さくりゃく）",
         "meaning": {
-          "english": "scheme, tactic, stratagem, trick"
+          "english": "scheme, tactic, stratagem, trick |(vi) mưu kế, sách lược"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sen)ryaku_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "略す（りゃくす）",
         "meaning": {
-          "english": "abbreviate"
+          "english": "abbreviate |(vi) viết tắt, lược bỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sen)ryaku_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "略奪する（りゃくだつする）",
         "meaning": {
-          "english": "loot, rob"
+          "english": "loot, rob |(vi) cướp bóc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sen)ryaku_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "攻略する（こうりゃくする）",
         "meaning": {
-          "english": "capture [v.t.]"
+          "english": "capture [v.t.] |(vi) chinh phục, chiếm lĩnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sen)ryaku_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "侵略する（しんりゃくする）",
         "meaning": {
-          "english": "invade"
+          "english": "invade |(vi) xâm lược"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sen)ryaku_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "省略する（しょうりゃくする）",
         "meaning": {
-          "english": "omit, abbreviate, abridge"
+          "english": "omit, abbreviate, abridge |(vi) lược bỏ, tóm tắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sen)ryaku_06_k.opus",
@@ -232,7 +232,7 @@
     "kanji": {
       "character": "略",
       "meaning": {
-        "english": "abridged, strategy, omit, abbreviate"
+        "english": "abridged, strategy, omit, abbreviate |(vi) rút gọn, chiến lược, lược bỏ, viết tắt"
       },
       "strokes": {
         "count": 11,
@@ -292,7 +292,7 @@
         "romaji": "tahen"
       },
       "meaning": {
-        "english": "rice paddy"
+        "english": "rice paddy |(vi) Điền (ruộng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tahen0.svg",
@@ -313,7 +313,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "774",
     "strokeCount": 11,
-    "meaning": "abbreviation, omission, outline, shorten, capture, plunder",
+    "meaning": "abbreviation, omission, outline, shorten, capture, plunder |(vi) viết tắt, lược bỏ, đại cương, rút gọn, chiếm lĩnh, cướp bóc |(hv) Lược",
     "kunyomi": [
       "ほぼ",
       "はぶ.く",
@@ -329,34 +329,34 @@
       {
         "example": "略",
         "reading": "リャク",
-        "meaning": "abbreviation, omission, outline, gist, plan, strategy, scheme"
+        "meaning": "abbreviation, omission, outline, gist, plan, strategy, scheme |(vi) viết tắt, lược bỏ, đại cương, kế hoạch, chiến lược"
       },
       {
         "example": "略式",
         "reading": "リャクシキ",
-        "meaning": "informal, simplified"
+        "meaning": "informal, simplified |(vi) không chính thức, giản lược"
       },
       {
         "example": "党略",
         "reading": "トウリャク",
-        "meaning": "party politics (tactics)"
+        "meaning": "party politics (tactics) |(vi) sách lược đảng phái"
       },
       {
         "example": "攻略",
         "reading": "コウリャク",
-        "meaning": "capture (of enemy territory), taking (by storm), conquest, attack, assault, defeating (an opponent), attacking (a problem) strategically"
+        "meaning": "capture (of enemy territory), taking (by storm), conquest, attack, assault, defeating (an opponent), attacking (a problem) strategically |(vi) chinh phục, đánh chiếm, giải quyết (vấn đề) có chiến lược"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "略",
         "reading": "ほぼ",
-        "meaning": "almost, roughly, approximately, about, around"
+        "meaning": "almost, roughly, approximately, about, around |(vi) gần như, xấp xỉ, khoảng"
       }
     ],
     "radical": {
       "symbol": "田",
-      "meaning": "field"
+      "meaning": "field |(vi) Điền (ruộng)"
     },
     "parts": [
       "口",

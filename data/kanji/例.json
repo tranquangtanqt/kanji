@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 50,
     "kunyomi": "tato, tatoeru",
-    "meaning": "example",
+    "meaning": "example |(vi) ví dụ",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "例（れい）",
         "meaning": {
-          "english": "instance, example, case"
+          "english": "instance, example, case |(vi) ví dụ, trường hợp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tato(eru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "例題（れいだい）",
         "meaning": {
-          "english": "example, exercise"
+          "english": "example, exercise |(vi) bài tập mẫu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tato(eru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "例文（れいぶん）",
         "meaning": {
-          "english": "model/example sentence"
+          "english": "model/example sentence |(vi) câu ví dụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tato(eru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "例外（れいがい）",
         "meaning": {
-          "english": "exception"
+          "english": "exception |(vi) ngoại lệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tato(eru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "例年（れいねん）",
         "meaning": {
-          "english": "every year, annually"
+          "english": "every year, annually |(vi) hằng năm, thường lệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tato(eru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "実例（じつれい）",
         "meaning": {
-          "english": "example, illustration, instance"
+          "english": "example, illustration, instance |(vi) ví dụ thực tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tato(eru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "条例（じょうれい）",
         "meaning": {
-          "english": "regulations, rules, laws"
+          "english": "regulations, rules, laws |(vi) quy định, điều lệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tato(eru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "前例（ぜんれい）",
         "meaning": {
-          "english": "precedence"
+          "english": "precedence |(vi) tiền lệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tato(eru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "恒例（こうれい）",
         "meaning": {
-          "english": "established practice, custom"
+          "english": "established practice, custom |(vi) thông lệ, tục lệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tato(eru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "比例する（ひれいする）",
         "meaning": {
-          "english": "be proportional, correlate"
+          "english": "be proportional, correlate |(vi) tỷ lệ với, tương quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tato(eru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "例える（たとえる）",
         "meaning": {
-          "english": "liken, use a simile"
+          "english": "liken, use a simile |(vi) ví như, so sánh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tato(eru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "例えば（たとえば）",
         "meaning": {
-          "english": "for example"
+          "english": "for example |(vi) ví dụ như"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tato(eru)_06_l.opus",
@@ -272,7 +272,7 @@
     "kanji": {
       "character": "例",
       "meaning": {
-        "english": "example"
+        "english": "example |(vi) ví dụ"
       },
       "strokes": {
         "count": 8,
@@ -326,7 +326,7 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -347,7 +347,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "399",
     "strokeCount": 8,
-    "meaning": "example, custom, usage, precedent",
+    "meaning": "example, custom, usage, precedent |(vi) ví dụ, thông lệ, tập quán, tiền lệ |(hv) Lệ",
     "kunyomi": [
       "たと.える"
     ],
@@ -358,34 +358,34 @@
       {
         "example": "例",
         "reading": "レイ",
-        "meaning": "example, instance, illustration, case, precedent, custom, habit, practice, usage"
+        "meaning": "example, instance, illustration, case, precedent, custom, habit, practice, usage |(vi) ví dụ, trường hợp, tiền lệ, thói quen"
       },
       {
         "example": "例会",
         "reading": "レイカイ",
-        "meaning": "regular meeting"
+        "meaning": "regular meeting |(vi) cuộc họp định kỳ"
       },
       {
         "example": "恒例",
         "reading": "コウレイ",
-        "meaning": "established practice, custom"
+        "meaning": "established practice, custom |(vi) thông lệ, tục lệ"
       },
       {
         "example": "定例",
         "reading": "テイレイ",
-        "meaning": "regular, ordinary (e.g. session of parliament), established usage, precedent, regular practice"
+        "meaning": "regular, ordinary (e.g. session of parliament), established usage, precedent, regular practice |(vi) định kỳ, thông thường, tiền lệ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "例える",
         "reading": "たとえる",
-        "meaning": "to compare (something) to, to liken, to speak figuratively, to use a simile, to use a metaphor"
+        "meaning": "to compare (something) to, to liken, to speak figuratively, to use a simile, to use a metaphor |(vi) ví như, so sánh, ẩn dụ"
       },
       {
         "example": "例えるなら",
         "reading": "たとえるなら",
-        "meaning": "for example"
+        "meaning": "for example |(vi) ví dụ như"
       }
     ],
     "radical": {
@@ -393,7 +393,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "刈",

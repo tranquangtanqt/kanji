@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "fee, materials",
+    "meaning": "fee, materials |(vi) phí, nguyên liệu",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "料理（りょうり）",
         "meaning": {
-          "english": "cuisine"
+          "english": "cuisine |(vi) món ăn, ẩm thực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(ri)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "料金（りょうきん）",
         "meaning": {
-          "english": "fee"
+          "english": "fee |(vi) phí, lệ phí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(ri)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "材料（ざいりょう）",
         "meaning": {
-          "english": "ingredients, material"
+          "english": "ingredients, material |(vi) nguyên liệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(ri)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "原料（げんりょう）",
         "meaning": {
-          "english": "raw material"
+          "english": "raw material |(vi) nguyên liệu thô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(ri)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "無料（むりょう）",
         "meaning": {
-          "english": "free of charge"
+          "english": "free of charge |(vi) miễn phí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(ri)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "送料（そうりょう）",
         "meaning": {
-          "english": "shipping fee"
+          "english": "shipping fee |(vi) phí vận chuyển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(ri)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "給料（きゅうりょう）",
         "meaning": {
-          "english": "wages"
+          "english": "wages |(vi) lương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(ri)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "授業料（じゅぎょうりょう）",
         "meaning": {
-          "english": "tuition"
+          "english": "tuition |(vi) học phí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(ri)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "入場料（にゅうじょうりょう）",
         "meaning": {
-          "english": "admission fee"
+          "english": "admission fee |(vi) phí vào cửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(ri)_06_i.opus",
@@ -273,7 +273,7 @@
     "kanji": {
       "character": "料",
       "meaning": {
-        "english": "fee, materials"
+        "english": "fee, materials |(vi) phí, nguyên liệu"
       },
       "strokes": {
         "count": 10,
@@ -331,7 +331,7 @@
         "romaji": "masuzukuri"
       },
       "meaning": {
-        "english": "big dipper, ladle, 18 liters"
+        "english": "big dipper, ladle, 18 liters |(vi) Đẩu (cái đấu, sao Bắc Đẩu)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/masuzukuri0.svg",
@@ -352,7 +352,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "295",
     "strokeCount": 10,
-    "meaning": "fee, materials",
+    "meaning": "fee, materials |(vi) phí, nguyên liệu |(hv) Liệu",
     "kunyomi": [],
     "onyomi": [
       "リョウ"
@@ -361,28 +361,28 @@
       {
         "example": "料",
         "reading": "リョウ",
-        "meaning": "fee, charge, rate, material"
+        "meaning": "fee, charge, rate, material |(vi) phí, mức phí, nguyên liệu"
       },
       {
         "example": "料金",
         "reading": "リョウキン",
-        "meaning": "fee, charge, fare"
+        "meaning": "fee, charge, fare |(vi) phí, lệ phí"
       },
       {
         "example": "史料",
         "reading": "シリョウ",
-        "meaning": "historical materials, historical records, historical sources, archives"
+        "meaning": "historical materials, historical records, historical sources, archives |(vi) sử liệu, tư liệu lịch sử"
       },
       {
         "example": "使用料",
         "reading": "シヨウリョウ",
-        "meaning": "use fee, rent"
+        "meaning": "use fee, rent |(vi) phí sử dụng, tiền thuê"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "斗",
-      "meaning": "dipper"
+      "meaning": "dipper |(vi) Đẩu (cái đấu, sao Bắc Đẩu)"
     },
     "parts": [
       "斗",

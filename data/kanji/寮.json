@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "dormitory",
+    "meaning": "dormitory |(vi) ký túc xá",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "寮（りょう）",
         "meaning": {
-          "english": "hostel, dormitory"
+          "english": "hostel, dormitory |(vi) ký túc xá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gakusei)ryou_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "寮長（りょうちょう）",
         "meaning": {
-          "english": "dormitory head"
+          "english": "dormitory head |(vi) trưởng ký túc xá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gakusei)ryou_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "寮生（りょうせい）",
         "meaning": {
-          "english": "boarder, boarding student"
+          "english": "boarder, boarding student |(vi) học sinh nội trú"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gakusei)ryou_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "寮母（りょうぼ）",
         "meaning": {
-          "english": "dorm mother"
+          "english": "dorm mother |(vi) quản lý ký túc xá (nữ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gakusei)ryou_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "独身寮（どくしんりょう）",
         "meaning": {
-          "english": "dormitory for unmarried people"
+          "english": "dormitory for unmarried people |(vi) ký túc xá cho người độc thân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gakusei)ryou_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "社員寮（しゃいんりょう）",
         "meaning": {
-          "english": "company dormitory"
+          "english": "company dormitory |(vi) ký túc xá công ty"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gakusei)ryou_06_f.opus",
@@ -172,7 +172,7 @@
     "kanji": {
       "character": "寮",
       "meaning": {
-        "english": "dormitory"
+        "english": "dormitory |(vi) ký túc xá"
       },
       "strokes": {
         "count": 15,
@@ -240,7 +240,7 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "english": "roof, house |(vi) Miên (mái nhà)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -261,7 +261,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1705",
     "strokeCount": 15,
-    "meaning": "dormitory, hostel, villa, tea pavillion",
+    "meaning": "dormitory, hostel, villa, tea pavillion |(vi) ký túc xá, nhà trọ, biệt thự, trà thất |(hv) Liêu",
     "kunyomi": [],
     "onyomi": [
       "リョウ"
@@ -270,28 +270,28 @@
       {
         "example": "寮",
         "reading": "リョウ",
-        "meaning": "hostel, dormitory, bureau (government department beneath a ministry under the ritsuryō system), tea-ceremony room, villa"
+        "meaning": "hostel, dormitory, bureau (government department beneath a ministry under the ritsuryō system), tea-ceremony room, villa |(vi) ký túc xá, cục/sở (thời ritsuryō), phòng trà đạo, biệt thự"
       },
       {
         "example": "寮生",
         "reading": "リョウセイ",
-        "meaning": "boarder, boarding student"
+        "meaning": "boarder, boarding student |(vi) học sinh nội trú"
       },
       {
         "example": "大炊寮",
         "reading": "オオイリョウ",
-        "meaning": "Bureau of the Imperial Palace Kitchens (under the ritsuryō system)"
+        "meaning": "Bureau of the Imperial Palace Kitchens (under the ritsuryō system) |(vi) Cục Ngự thiện (bếp hoàng cung, thời ritsuryō)"
       },
       {
         "example": "女男性寮",
         "reading": "メオセイリョウ",
-        "meaning": "co-ed dormitory, mixed student accommodation"
+        "meaning": "co-ed dormitory, mixed student accommodation |(vi) ký túc xá nam nữ chung"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": "roof |(vi) Miên (mái nhà)"
     },
     "parts": [
       "大",

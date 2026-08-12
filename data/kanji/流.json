@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": null,
     "kunyomi": "naga, nagareru, nagare, nagasu",
-    "meaning": "flow, current, style",
+    "meaning": "flow, current, style |(vi) dòng chảy, trào lưu, phong cách",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "流行する（りゅうこうする）",
         "meaning": {
-          "english": "be fashionable, widespread"
+          "english": "be fashionable, widespread |(vi) thịnh hành, phổ biến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-naga(re)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "合流する（ごうりゅうする）",
         "meaning": {
-          "english": "merge"
+          "english": "merge |(vi) hợp lưu, hội nhập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-naga(re)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "上流（じょうりゅう）",
         "meaning": {
-          "english": "upper stream, upper classes"
+          "english": "upper stream, upper classes |(vi) thượng lưu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-naga(re)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "下流（かりゅう）",
         "meaning": {
-          "english": "downstream, lower classes"
+          "english": "downstream, lower classes |(vi) hạ lưu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-naga(re)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "主流（しゅりゅう）",
         "meaning": {
-          "english": "main current"
+          "english": "main current |(vi) dòng chính, chủ lưu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-naga(re)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "一流（いちりゅう）",
         "meaning": {
-          "english": "first class, top-notch"
+          "english": "first class, top-notch |(vi) hạng nhất, đẳng cấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-naga(re)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "電流（でんりゅう）",
         "meaning": {
-          "english": "electric current"
+          "english": "electric current |(vi) dòng điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-naga(re)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "流派（りゅうは）",
         "meaning": {
-          "english": "school (e.g. of ikebana)"
+          "english": "school (e.g. of ikebana) |(vi) trường phái, môn phái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-naga(re)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "流暢な（りゅうちょうな）",
         "meaning": {
-          "english": "fluent"
+          "english": "fluent |(vi) lưu loát, trôi chảy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-naga(re)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "流布する（るふする）",
         "meaning": {
-          "english": "circulate, disseminate"
+          "english": "circulate, disseminate |(vi) lưu truyền, phổ biến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-naga(re)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "流れる（ながれる）",
         "meaning": {
-          "english": "flow [v.i.]"
+          "english": "flow [v.i.] |(vi) chảy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-naga(re)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "流す（ながす）",
         "meaning": {
-          "english": "drain, shed (blood, tears) [v.t.]"
+          "english": "drain, shed (blood, tears) [v.t.] |(vi) để chảy, rơi (nước mắt, máu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-naga(re)_06_l.opus",
@@ -267,7 +267,7 @@
     "kanji": {
       "character": "流",
       "meaning": {
-        "english": "flow, current, style"
+        "english": "flow, current, style |(vi) dòng chảy, trào lưu, phong cách"
       },
       "strokes": {
         "count": 10,
@@ -325,7 +325,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -346,7 +346,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "280",
     "strokeCount": 10,
-    "meaning": "current, a sink, flow, forfeit",
+    "meaning": "current, a sink, flow, forfeit |(vi) dòng chảy, bồn rửa, sự trôi chảy, mất quyền |(hv) Lưu",
     "kunyomi": [
       "なが.れる",
       "なが.れ",
@@ -361,64 +361,64 @@
       {
         "example": "流",
         "reading": "リュウ",
-        "meaning": "way, manner, style, fashion, mode, school (e.g. of flower arrangement), class, rate, rank, flow, current, stream"
+        "meaning": "way, manner, style, fashion, mode, school (e.g. of flower arrangement), class, rate, rank, flow, current, stream |(vi) cách thức, phong cách, môn phái, dòng chảy"
       },
       {
         "example": "旒",
         "reading": "リュウ",
-        "meaning": "counter for flags, banners, etc."
+        "meaning": "counter for flags, banners, etc. |(vi) lượng từ đếm cờ, phướn"
       },
       {
         "example": "清流",
         "reading": "セイリュウ",
-        "meaning": "clear stream"
+        "meaning": "clear stream |(vi) dòng nước trong"
       },
       {
         "example": "火砕流",
         "reading": "カサイリュウ",
-        "meaning": "pyroclastic flow"
+        "meaning": "pyroclastic flow |(vi) dòng chảy pyroclastic (núi lửa)"
       },
       {
         "example": "流",
         "reading": "ル",
-        "meaning": "exile (second most severe of the five ritsuryō punishments)"
+        "meaning": "exile (second most severe of the five ritsuryō punishments) |(vi) lưu đày (hình phạt thời ritsuryō)"
       },
       {
         "example": "流刑",
         "reading": "リュウケイ",
-        "meaning": "exile, banishment, deportation"
+        "meaning": "exile, banishment, deportation |(vi) án lưu đày"
       },
       {
         "example": "配流",
         "reading": "ハイル",
-        "meaning": "exile, banishment"
+        "meaning": "exile, banishment |(vi) đày ải, lưu đày"
       },
       {
         "example": "中流",
         "reading": "チュウル",
-        "meaning": "banishment (to a somewhat distant province), middle-degree punishment of the three banishment punishments under the ritsuryō system"
+        "meaning": "banishment (to a somewhat distant province), middle-degree punishment of the three banishment punishments under the ritsuryō system |(vi) lưu đày mức trung bình (thời ritsuryō)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "流れる",
         "reading": "ながれる",
-        "meaning": "to stream, to flow (liquid, time, etc.), to run (ink), to be washed away, to be carried, to drift, to float (e.g. clouds), to wander, to stray, to sweep (e.g. rumour, fire), to spread, to circulate, to be heard (e.g. music), to be played, to lapse (e.g. into indolence, despair), to pass, to elapse, to be transmitted, to be called off, to be forfeited, to disappear, to be removed"
+        "meaning": "to stream, to flow (liquid, time, etc.), to run (ink), to be washed away, to be carried, to drift, to float (e.g. clouds), to wander, to stray, to sweep (e.g. rumour, fire), to spread, to circulate, to be heard (e.g. music), to be played, to lapse (e.g. into indolence, despair), to pass, to elapse, to be transmitted, to be called off, to be forfeited, to disappear, to be removed |(vi) chảy, trôi, lan truyền, trôi qua, bị hủy bỏ"
       },
       {
         "example": "流れ",
         "reading": "ながれ",
-        "meaning": "flow (of a fluid or gas), stream, current, flow (of people, things), passage (of time), tide, passing, (changing) trends, tendency, course (of events), (step-by-step) procedure, process, group of people who remain together after the end of an event, descent, ancestry, school, forfeiture, foreclosure, cancellation, drifting, wandering, roaming"
+        "meaning": "flow (of a fluid or gas), stream, current, flow (of people, things), passage (of time), tide, passing, (changing) trends, tendency, course (of events), (step-by-step) procedure, process, group of people who remain together after the end of an event, descent, ancestry, school, forfeiture, foreclosure, cancellation, drifting, wandering, roaming |(vi) dòng chảy, xu hướng, tiến trình, môn phái, sự hủy bỏ"
       },
       {
         "example": "流れ込む",
         "reading": "ながれこむ",
-        "meaning": "to flow into, to pour into, to stream into"
+        "meaning": "to flow into, to pour into, to stream into |(vi) chảy vào, đổ vào"
       },
       {
         "example": "流す",
         "reading": "ながす",
-        "meaning": "to drain, to pour, to run, to let flow, to flush, to shed (blood, tears), to spill, to float (e.g. logs down a river), to set adrift, to wash away, to carry away, to sweep away, to broadcast, to play (e.g. music over a loudspeaker), to send (electricity through a wire), to circulate (a rumour, information, etc.), to spread, to distribute, to cruise (of a taxi), to stroll around (in search of customers, an audience, etc.), to go from place to place, to cancel (a plan, meeting, etc.), to call off, to reject (e.g. a bill), to forfeit (a pawn), to do leisurely (e.g. running, swimming), to do with ease, to do effortlessly, to exile, to banish, to hit (the ball) to the opposite field, to do inattentively, to do without concentrating, to put little effort into doing, to cause a miscarriage, to abort"
+        "meaning": "to drain, to pour, to run, to let flow, to flush, to shed (blood, tears), to spill, to float (e.g. logs down a river), to set adrift, to wash away, to carry away, to sweep away, to broadcast, to play (e.g. music over a loudspeaker), to send (electricity through a wire), to circulate (a rumour, information, etc.), to spread, to distribute, to cruise (of a taxi), to stroll around (in search of customers, an audience, etc.), to go from place to place, to cancel (a plan, meeting, etc.), to call off, to reject (e.g. a bill), to forfeit (a pawn), to do leisurely (e.g. running, swimming), to do with ease, to do effortlessly, to exile, to banish, to hit (the ball) to the opposite field, to do inattentively, to do without concentrating, to put little effort into doing, to cause a miscarriage, to abort |(vi) để chảy, tưới, rót, phát (nhạc), lan truyền, đày ải"
       }
     ],
     "radical": {
@@ -427,7 +427,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "亠",

@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "hoga, hogarakana",
-    "meaning": "cheerful, clear, bright",
+    "meaning": "cheerful, clear, bright |(vi) vui vẻ, trong trẻo, tươi sáng",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "朗報（ろうほう）",
         "meaning": {
-          "english": "good news"
+          "english": "good news |(vi) tin vui, tin mừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoga(rakana)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "明朗な（めいろうな）",
         "meaning": {
-          "english": "bright, clear, cheerful"
+          "english": "bright, clear, cheerful |(vi) sáng sủa, rõ ràng, vui vẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoga(rakana)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "朗々と（ろうろうと）",
         "meaning": {
-          "english": "clear, sonorous, full-sounding"
+          "english": "clear, sonorous, full-sounding |(vi) vang dội, sang sảng, du dương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoga(rakana)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "朗読する（ろうどくする）",
         "meaning": {
-          "english": "read aloud, recite"
+          "english": "read aloud, recite |(vi) đọc to, ngâm đọc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoga(rakana)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "朗らかな（ほがらかな）",
         "meaning": {
-          "english": "bright, cheerful"
+          "english": "bright, cheerful |(vi) vui vẻ, tươi sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoga(rakana)_06_e.opus",
@@ -150,7 +150,7 @@
     "kanji": {
       "character": "朗",
       "meaning": {
-        "english": "cheerful, clear, bright"
+        "english": "cheerful, clear, bright |(vi) vui vẻ, trong trẻo, tươi sáng"
       },
       "strokes": {
         "count": 10,
@@ -208,7 +208,7 @@
         "romaji": "tsuki"
       },
       "meaning": {
-        "english": "moon, month, period"
+        "english": "moon, month, period |(vi) Nguyệt (trăng, tháng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuki0.svg",
@@ -229,7 +229,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1374",
     "strokeCount": 10,
-    "meaning": "melodious, clear, bright, serene, cheerful",
+    "meaning": "melodious, clear, bright, serene, cheerful |(vi) du dương, trong trẻo, tươi sáng, thanh thản, vui vẻ |(hv) Lãng",
     "kunyomi": [
       "ほが.らか",
       "あき.らか"
@@ -241,34 +241,34 @@
       {
         "example": "朗報",
         "reading": "ロウホウ",
-        "meaning": "good news, happy news, glad tidings"
+        "meaning": "good news, happy news, glad tidings |(vi) tin vui, tin mừng"
       },
       {
         "example": "朗読",
         "reading": "ロウドク",
-        "meaning": "reading aloud, recitation"
+        "meaning": "reading aloud, recitation |(vi) đọc to, ngâm đọc, đọc diễn cảm"
       },
       {
         "example": "晃朗",
         "reading": "コウロウ",
-        "meaning": "bright and brilliant"
+        "meaning": "bright and brilliant |(vi) sáng ngời, rực rỡ"
       },
       {
         "example": "融朗",
         "reading": "ユウロウ",
-        "meaning": "brightness, clearness"
+        "meaning": "brightness, clearness |(vi) sáng sủa, trong sáng"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "朗らか",
         "reading": "ほがらか",
-        "meaning": "cheerful, merry, sunny, melodious, bright (sky, day, etc.), fine, clear"
+        "meaning": "cheerful, merry, sunny, melodious, bright (sky, day, etc.), fine, clear |(vi) vui vẻ, hoạt bát, tươi sáng, du dương, quang đãng, trong trẻo"
       }
     ],
     "radical": {
       "symbol": "月",
-      "meaning": "moon, month"
+      "meaning": "moon, month |(vi) Nguyệt (trăng, tháng)"
     },
     "parts": [
       "月",

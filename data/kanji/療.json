@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "treat",
+    "meaning": "treat |(vi) chữa trị",
     "kstroke": 17,
     "examples": [
       {
         "japanese": "療法（りょうほう）",
         "meaning": {
-          "english": "remedy, medical treatment"
+          "english": "remedy, medical treatment |(vi) liệu pháp điều trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(i)ryou(hoken)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "療養中（りょうようちゅう）",
         "meaning": {
-          "english": "under medical care"
+          "english": "under medical care |(vi) đang dưỡng bệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(i)ryou(hoken)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "療養所（りょうようじょ）",
         "meaning": {
-          "english": "sanatorium"
+          "english": "sanatorium |(vi) trại điều dưỡng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(i)ryou(hoken)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "医療（いりょう）",
         "meaning": {
-          "english": "medical care, medical treatment"
+          "english": "medical care, medical treatment |(vi) y tế, chăm sóc y tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(i)ryou(hoken)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "診療する（しんりょうする）",
         "meaning": {
-          "english": "examine, diagnose, treat"
+          "english": "examine, diagnose, treat |(vi) khám và điều trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(i)ryou(hoken)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "治療する（ちりょうする）",
         "meaning": {
-          "english": "treat, cure"
+          "english": "treat, cure |(vi) chữa trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(i)ryou(hoken)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "療養する（りょうようする）",
         "meaning": {
-          "english": "recuperate, convalesce"
+          "english": "recuperate, convalesce |(vi) dưỡng bệnh, điều dưỡng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(i)ryou(hoken)_06_g.opus",
@@ -185,7 +185,7 @@
     "kanji": {
       "character": "療",
       "meaning": {
-        "english": "treat"
+        "english": "treat |(vi) chữa trị"
       },
       "strokes": {
         "count": 17,
@@ -257,7 +257,7 @@
         "romaji": "yamaidare"
       },
       "meaning": {
-        "english": "sickness"
+        "english": "sickness |(vi) Nạch (bệnh tật)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yamaidare0.svg",
@@ -278,7 +278,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "600",
     "strokeCount": 17,
-    "meaning": "heal, cure",
+    "meaning": "heal, cure |(vi) chữa lành, chữa khỏi |(hv) Liệu",
     "kunyomi": [],
     "onyomi": [
       "リョウ"
@@ -287,28 +287,28 @@
       {
         "example": "療養",
         "reading": "リョウヨウ",
-        "meaning": "recuperation, medical treatment"
+        "meaning": "recuperation, medical treatment |(vi) điều dưỡng, dưỡng bệnh"
       },
       {
         "example": "療法",
         "reading": "リョウホウ",
-        "meaning": "therapy, treatment, remedy, cure"
+        "meaning": "therapy, treatment, remedy, cure |(vi) liệu pháp, phương pháp điều trị"
       },
       {
         "example": "早期治療",
         "reading": "ソウキチリョウ",
-        "meaning": "early treatment"
+        "meaning": "early treatment |(vi) điều trị sớm"
       },
       {
         "example": "加療",
         "reading": "カリョウ",
-        "meaning": "medical treatment"
+        "meaning": "medical treatment |(vi) điều trị y tế"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "疒",
-      "meaning": "sickness"
+      "meaning": "sickness |(vi) Nạch (bệnh tật)"
     },
     "parts": [
       "大",

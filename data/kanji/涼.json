@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "suzu, suzushii, suzumu",
-    "meaning": "cool",
+    "meaning": "cool |(vi) mát mẻ",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "涼風（りょうふう）",
         "meaning": {
-          "english": "cool breeze, refreshing breeze"
+          "english": "cool breeze, refreshing breeze |(vi) gió mát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suzu(mu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "納涼（のうりょう）",
         "meaning": {
-          "english": "cool of the summer evening"
+          "english": "cool of the summer evening |(vi) hóng mát mùa hè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suzu(mu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "清涼飲料水（せいりょういんりょうすい）",
         "meaning": {
-          "english": "soft drink"
+          "english": "soft drink |(vi) nước giải khát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suzu(mu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "涼む（すずむ）",
         "meaning": {
-          "english": "cool oneself, cool off"
+          "english": "cool oneself, cool off |(vi) hóng mát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suzu(mu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "涼しい（すずしい）",
         "meaning": {
-          "english": "cool"
+          "english": "cool |(vi) mát mẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suzu(mu)_06_e.opus",
@@ -182,7 +182,7 @@
     "kanji": {
       "character": "涼",
       "meaning": {
-        "english": "cool"
+        "english": "cool |(vi) mát mẻ"
       },
       "strokes": {
         "count": 11,
@@ -242,7 +242,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -263,7 +263,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1783",
     "strokeCount": 11,
-    "meaning": "refreshing, nice and cool",
+    "meaning": "refreshing, nice and cool |(vi) sảng khoái, mát mẻ dễ chịu |(hv) Lương",
     "kunyomi": [
       "すず.しい",
       "すず.む",
@@ -279,44 +279,44 @@
       {
         "example": "涼",
         "reading": "リョウ",
-        "meaning": "cool breeze, cool air, refreshing coolness"
+        "meaning": "cool breeze, cool air, refreshing coolness |(vi) gió mát, không khí mát, cảm giác mát mẻ"
       },
       {
         "example": "涼風",
         "reading": "リョウフウ",
-        "meaning": "cool breeze, refreshing breeze"
+        "meaning": "cool breeze, refreshing breeze |(vi) gió mát"
       },
       {
         "example": "清涼",
         "reading": "セイリョウ",
-        "meaning": "cool, refreshing"
+        "meaning": "cool, refreshing |(vi) mát mẻ, sảng khoái"
       },
       {
         "example": "納涼",
         "reading": "ノウリョウ",
-        "meaning": "escaping the heat to enjoy the cool breeze (by the river, etc.)"
+        "meaning": "escaping the heat to enjoy the cool breeze (by the river, etc.) |(vi) tránh nóng hóng mát"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "涼しい",
         "reading": "すずしい",
-        "meaning": "cool, refreshing, clear (e.g. eyes), bright, clear, distinct, composed (facial expression), unruffled, unconcerned, pure, upright, innocent"
+        "meaning": "cool, refreshing, clear (e.g. eyes), bright, clear, distinct, composed (facial expression), unruffled, unconcerned, pure, upright, innocent |(vi) mát mẻ, trong lành, điềm tĩnh, trong sáng"
       },
       {
         "example": "涼しい顔",
         "reading": "すずしいかお",
-        "meaning": "nonchalant air, unruffled air"
+        "meaning": "nonchalant air, unruffled air |(vi) vẻ mặt thản nhiên"
       },
       {
         "example": "涼む",
         "reading": "すずむ",
-        "meaning": "to cool oneself, to cool off, to enjoy the cool air"
+        "meaning": "to cool oneself, to cool off, to enjoy the cool air |(vi) hóng mát"
       },
       {
         "example": "涼やか",
         "reading": "すずやか",
-        "meaning": "refreshing, clear"
+        "meaning": "refreshing, clear |(vi) mát mẻ, trong trẻo"
       }
     ],
     "radical": {
@@ -325,7 +325,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "亠",

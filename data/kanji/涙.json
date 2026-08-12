@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "namida",
-    "meaning": "tear",
+    "meaning": "tear |(vi) nước mắt",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "涙腺（るいせん）",
         "meaning": {
-          "english": "tear gland"
+          "english": "tear gland |(vi) tuyến lệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/namida_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "感涙（かんるい）",
         "meaning": {
-          "english": "tears of gratitude"
+          "english": "tears of gratitude |(vi) nước mắt cảm động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/namida_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "催涙ガス（さいるいガス）",
         "meaning": {
-          "english": "tear gas"
+          "english": "tear gas |(vi) hơi cay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/namida_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "涙（なみだ）",
         "meaning": {
-          "english": "tear"
+          "english": "tear |(vi) nước mắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/namida_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "涙声（なみだごえ）",
         "meaning": {
-          "english": "tearful voice"
+          "english": "tearful voice |(vi) giọng nghẹn ngào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/namida_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "嬉し涙（うれしなみだ）",
         "meaning": {
-          "english": "happy tears, tears of joy"
+          "english": "happy tears, tears of joy |(vi) nước mắt vui sướng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/namida_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "悔し涙（くやしなみだ）",
         "meaning": {
-          "english": "tears of chagrin"
+          "english": "tears of chagrin |(vi) nước mắt tức tưởi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/namida_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "涙ぐむ（なみだぐむ）",
         "meaning": {
-          "english": "be moved to tears"
+          "english": "be moved to tears |(vi) rưng rưng nước mắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/namida_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "涙ぐましい（なみだぐましい）",
         "meaning": {
-          "english": "touching, pathetic"
+          "english": "touching, pathetic |(vi) cảm động, đáng thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/namida_06_i.opus",
@@ -194,7 +194,7 @@
     "kanji": {
       "character": "涙",
       "meaning": {
-        "english": "tear"
+        "english": "tear |(vi) nước mắt"
       },
       "strokes": {
         "count": 10,
@@ -252,7 +252,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -273,7 +273,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1381",
     "strokeCount": 10,
-    "meaning": "tears, sympathy",
+    "meaning": "tears, sympathy |(vi) nước mắt, sự đồng cảm |(hv) Lệ",
     "kunyomi": [
       "なみだ"
     ],
@@ -285,44 +285,44 @@
       {
         "example": "涙液",
         "reading": "ルイエキ",
-        "meaning": "lacrimal fluid, tears"
+        "meaning": "lacrimal fluid, tears |(vi) dịch lệ, nước mắt"
       },
       {
         "example": "涙活",
         "reading": "ルイカツ",
-        "meaning": "therapeutic crying for stress relief, having a good cry"
+        "meaning": "therapeutic crying for stress relief, having a good cry |(vi) hoạt động khóc để giải tỏa căng thẳng"
       },
       {
         "example": "催涙",
         "reading": "サイルイ",
-        "meaning": "tear-inducing"
+        "meaning": "tear-inducing |(vi) gây chảy nước mắt (như hơi cay)"
       },
       {
         "example": "感涙",
         "reading": "カンルイ",
-        "meaning": "tears (from being deeply moved), tears of gratitude"
+        "meaning": "tears (from being deeply moved), tears of gratitude |(vi) nước mắt cảm động, xúc động rơi lệ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "涙",
         "reading": "なみだ",
-        "meaning": "tear, tears, lachrymal secretion, sympathy"
+        "meaning": "tear, tears, lachrymal secretion, sympathy |(vi) nước mắt, sự đồng cảm"
       },
       {
         "example": "涙ぐましい",
         "reading": "なみだぐましい",
-        "meaning": "touching, moving, painful"
+        "meaning": "touching, moving, painful |(vi) cảm động, xúc động, đáng thương"
       },
       {
         "example": "悔し涙",
         "reading": "くやしなみだ",
-        "meaning": "tears of regret, bitter tears, vexation, chagrin"
+        "meaning": "tears of regret, bitter tears, vexation, chagrin |(vi) nước mắt tức tưởi, cay đắng"
       },
       {
         "example": "忝涙",
         "reading": "かたじけなみだ",
-        "meaning": "tears of gratitude"
+        "meaning": "tears of gratitude |(vi) nước mắt cảm kích, biết ơn"
       }
     ],
     "radical": {
@@ -331,7 +331,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "一",

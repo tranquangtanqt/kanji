@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "o, oiru, fu, fukeru",
-    "meaning": "old, grow old",
+    "meaning": "old, grow old |(vi) già, trở nên già",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "老人（ろうじん）",
         "meaning": {
-          "english": "the aged"
+          "english": "the aged |(vi) người già"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/o(iru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "老後（ろうご）",
         "meaning": {
-          "english": "old age"
+          "english": "old age |(vi) tuổi già"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/o(iru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "老眼（ろうがん）",
         "meaning": {
-          "english": "farsightedness due to old age"
+          "english": "farsightedness due to old age |(vi) viễn thị do tuổi già (lão thị)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/o(iru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "老化する（ろうかする）",
         "meaning": {
-          "english": "grow old, become senile"
+          "english": "grow old, become senile |(vi) già đi, lão hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/o(iru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "老いる（おいる）",
         "meaning": {
-          "english": "grow old [v.i.]"
+          "english": "grow old [v.i.] |(vi) già đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/o(iru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "老ける（ふける）",
         "meaning": {
-          "english": "grow old [v.i.]"
+          "english": "grow old [v.i.] |(vi) già đi, có vẻ già"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/o(iru)_06_f.opus",
@@ -194,7 +194,7 @@
     "kanji": {
       "character": "老",
       "meaning": {
-        "english": "old, grow old"
+        "english": "old, grow old |(vi) già, trở nên già"
       },
       "strokes": {
         "count": 6,
@@ -244,7 +244,7 @@
         "romaji": "oikanmuri"
       },
       "meaning": {
-        "english": "old, old-age"
+        "english": "old, old-age |(vi) Lão (già, tuổi già)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/oikanmuri0.svg",
@@ -265,7 +265,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "803",
     "strokeCount": 6,
-    "meaning": "old man, old age, grow old",
+    "meaning": "old man, old age, grow old |(vi) ông già, tuổi già, trở nên già |(hv) Lão",
     "kunyomi": [
       "お.いる",
       "ふ.ける"
@@ -277,34 +277,34 @@
       {
         "example": "老",
         "reading": "ロウ",
-        "meaning": "old age, age, old people, the old, the aged, senior, elder, I, me, my humble self"
+        "meaning": "old age, age, old people, the old, the aged, senior, elder, I, me, my humble self |(vi) tuổi già, người già, bậc cao niên, người lớn tuổi, (tôi, kẻ hèn này - cách tự xưng khiêm tốn)"
       },
       {
         "example": "老化",
         "reading": "ロウカ",
-        "meaning": "ageing, aging, senile deterioration"
+        "meaning": "ageing, aging, senile deterioration |(vi) lão hóa, sự già đi, suy giảm do tuổi già"
       },
       {
         "example": "養老",
         "reading": "ヨウロウ",
-        "meaning": "making provision for the elderly, making provision for one's old age, spending one's old age in comfort, Yōrō era (717.11.17-724.2.4)"
+        "meaning": "making provision for the elderly, making provision for one's old age, spending one's old age in comfort, Yōrō era (717.11.17-724.2.4) |(vi) chăm lo cho tuổi già, dưỡng lão, niên hiệu Yōrō (Dưỡng Lão)"
       },
       {
         "example": "敬老",
         "reading": "ケイロウ",
-        "meaning": "respect for the aged"
+        "meaning": "respect for the aged |(vi) kính trọng người già, kính lão"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "老いる",
         "reading": "おいる",
-        "meaning": "to age, to grow old"
+        "meaning": "to age, to grow old |(vi) già đi, cao tuổi"
       },
       {
         "example": "老ける",
         "reading": "ふける",
-        "meaning": "to age, to grow old (esp. in appearance), to show marks of age"
+        "meaning": "to age, to grow old (esp. in appearance), to show marks of age |(vi) già đi (nhất là về ngoại hình), có dấu hiệu tuổi tác"
       }
     ],
     "radical": {
@@ -312,7 +312,7 @@
       "forms": [
         "耂"
       ],
-      "meaning": "old"
+      "meaning": "old |(vi) Lão (già)"
     },
     "parts": [
       "匕",

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "ji",
-    "meaning": "road, way, street",
+    "meaning": "road, way, street |(vi) con đường, lối đi, phố",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "路上（ろじょう）",
         "meaning": {
-          "english": "street-side, road-side"
+          "english": "street-side, road-side |(vi) trên đường phố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tsuu)ro_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "路線（ろせん）",
         "meaning": {
-          "english": "route, line"
+          "english": "route, line |(vi) tuyến đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tsuu)ro_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "路地（ろじ）",
         "meaning": {
-          "english": "alley"
+          "english": "alley |(vi) ngõ hẻm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tsuu)ro_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "道路（どうろ）",
         "meaning": {
-          "english": "road"
+          "english": "road |(vi) đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tsuu)ro_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "線路（せんろ）",
         "meaning": {
-          "english": "train track"
+          "english": "train track |(vi) đường ray"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tsuu)ro_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "通路（つうろ）",
         "meaning": {
-          "english": "passage"
+          "english": "passage |(vi) lối đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tsuu)ro_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "回路（かいろ）",
         "meaning": {
-          "english": "circuit"
+          "english": "circuit |(vi) mạch điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tsuu)ro_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "滑走路（かっそうろ）",
         "meaning": {
-          "english": "runway"
+          "english": "runway |(vi) đường băng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tsuu)ro_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "旅路（たびじ）",
         "meaning": {
-          "english": "journey"
+          "english": "journey |(vi) hành trình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tsuu)ro_06_i.opus",
@@ -223,7 +223,7 @@
     "kanji": {
       "character": "路",
       "meaning": {
-        "english": "road, way, street"
+        "english": "road, way, street |(vi) con đường, lối đi, phố"
       },
       "strokes": {
         "count": 13,
@@ -287,7 +287,7 @@
         "romaji": "ashihen"
       },
       "meaning": {
-        "english": "foot, leg"
+        "english": "foot, leg |(vi) Túc (chân)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ashihen0.svg",
@@ -308,7 +308,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "529",
     "strokeCount": 13,
-    "meaning": "path, route, road, distance",
+    "meaning": "path, route, road, distance |(vi) lối đi, tuyến đường, con đường, khoảng cách |(hv) Lộ",
     "kunyomi": [
       "-じ",
       "みち"
@@ -321,49 +321,49 @@
       {
         "example": "路上",
         "reading": "ロジョウ",
-        "meaning": "on the road, on the street, in the street, on the way"
+        "meaning": "on the road, on the street, in the street, on the way |(vi) trên đường, trên phố"
       },
       {
         "example": "路地",
         "reading": "ロジ",
-        "meaning": "alley, alleyway, lane, path through a gate or garden, teahouse garden"
+        "meaning": "alley, alleyway, lane, path through a gate or garden, teahouse garden |(vi) ngõ hẻm, sân vườn trà đạo"
       },
       {
         "example": "活路",
         "reading": "カツロ",
-        "meaning": "means of survival, means of escape, way out of a difficulty"
+        "meaning": "means of survival, means of escape, way out of a difficulty |(vi) lối thoát, con đường sống"
       },
       {
         "example": "岐路",
         "reading": "キロ",
-        "meaning": "forked road, crossroads"
+        "meaning": "forked road, crossroads |(vi) ngã ba đường, bước ngoặt"
       },
       {
         "example": "路加",
         "reading": "ルカ",
-        "meaning": "St Luke"
+        "meaning": "St Luke |(vi) Thánh Luca"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "道",
         "reading": "みち",
-        "meaning": "road, path, street, lane, passage, route, way, distance, journey, road (e.g. to victory), course, way (of living, proper conduct, etc.), moral principles, teachings (esp. Confucian or Buddhist), dogma, field (e.g. of medicine), subject, speciality, means, way, method"
+        "meaning": "road, path, street, lane, passage, route, way, distance, journey, road (e.g. to victory), course, way (of living, proper conduct, etc.), moral principles, teachings (esp. Confucian or Buddhist), dogma, field (e.g. of medicine), subject, speciality, means, way, method |(vi) đường, con đường, đạo lý, chuyên ngành, cách thức"
       },
       {
         "example": "道草",
         "reading": "みちくさ",
-        "meaning": "loitering on the way, wayside grass"
+        "meaning": "loitering on the way, wayside grass |(vi) la cà dọc đường, cỏ ven đường"
       },
       {
         "example": "長路",
         "reading": "ながみち",
-        "meaning": "long road, far journey"
+        "meaning": "long road, far journey |(vi) đường dài, hành trình xa"
       },
       {
         "example": "脇道",
         "reading": "わきみち",
-        "meaning": "side road, byroad, digression (e.g. from argument)"
+        "meaning": "side road, byroad, digression (e.g. from argument) |(vi) đường tắt, lối rẽ, đi lạc đề"
       }
     ],
     "radical": {
@@ -371,7 +371,7 @@
       "forms": [
         "⻊"
       ],
-      "meaning": "foot"
+      "meaning": "foot |(vi) Túc (chân)"
     },
     "parts": [
       "口",

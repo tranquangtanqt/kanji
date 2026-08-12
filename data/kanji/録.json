@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "record",
+    "meaning": "record |(vi) ghi chép, ghi âm",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "目録（もくろく）",
         "meaning": {
-          "english": "catalogue, catalog"
+          "english": "catalogue, catalog |(vi) danh mục, mục lục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(moku)roku_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "付録（ふろく）",
         "meaning": {
-          "english": "appendix, supplement"
+          "english": "appendix, supplement |(vi) phụ lục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(moku)roku_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "語録（ごろく）",
         "meaning": {
-          "english": "analects, sayings"
+          "english": "analects, sayings |(vi) ngữ lục, lời nói ghi lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(moku)roku_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "会議録（かいぎろく）",
         "meaning": {
-          "english": "minutes, proceedings"
+          "english": "minutes, proceedings |(vi) biên bản họp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(moku)roku_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "録音する（ろくおんする）",
         "meaning": {
-          "english": "record [v.t.]"
+          "english": "record [v.t.] |(vi) ghi âm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(moku)roku_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "録画する（ろくがする）",
         "meaning": {
-          "english": "videotape [v.t.]"
+          "english": "videotape [v.t.] |(vi) ghi hình, quay video"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(moku)roku_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "記録する（きろくする）",
         "meaning": {
-          "english": "record, document [v.t.]"
+          "english": "record, document [v.t.] |(vi) ghi chép, ghi lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(moku)roku_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "収録する（しゅうろくする）",
         "meaning": {
-          "english": "record [v.t.]"
+          "english": "record [v.t.] |(vi) thu âm, thu hình, ghi lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(moku)roku_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "登録する（とうろくする）",
         "meaning": {
-          "english": "register"
+          "english": "register |(vi) đăng ký"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(moku)roku_06_i.opus",
@@ -218,7 +218,7 @@
     "kanji": {
       "character": "録",
       "meaning": {
-        "english": "record"
+        "english": "record |(vi) ghi chép, ghi âm"
       },
       "strokes": {
         "count": 16,
@@ -288,7 +288,7 @@
         "romaji": "kanehen"
       },
       "meaning": {
-        "english": "metal, gold, mineral"
+        "english": "metal, gold, mineral |(vi) Kim (kim loại, vàng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kanehen0.svg",
@@ -309,7 +309,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "546",
     "strokeCount": 16,
-    "meaning": "record",
+    "meaning": "record |(vi) ghi chép, ghi lại |(hv) Lục",
     "kunyomi": [
       "しる.す",
       "と.る"
@@ -321,29 +321,29 @@
       {
         "example": "録",
         "reading": "ロク",
-        "meaning": "record, transcript"
+        "meaning": "record, transcript |(vi) bản ghi, biên bản"
       },
       {
         "example": "録音",
         "reading": "ロクオン",
-        "meaning": "(audio) recording"
+        "meaning": "(audio) recording |(vi) ghi âm"
       },
       {
         "example": "付録",
         "reading": "フロク",
-        "meaning": "appendix, supplement, annex, extra (of a newspaper or magazine)"
+        "meaning": "appendix, supplement, annex, extra (of a newspaper or magazine) |(vi) phụ lục, phụ trang (báo, tạp chí)"
       },
       {
         "example": "採録",
         "reading": "サイロク",
-        "meaning": "recording, transcription"
+        "meaning": "recording, transcription |(vi) thu thập ghi chép, ghi lại"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "撮る",
         "reading": "とる",
-        "meaning": "to take (a photograph), to record (audio or video), to film, to shoot"
+        "meaning": "to take (a photograph), to record (audio or video), to film, to shoot |(vi) chụp (ảnh), ghi âm/quay (video), quay phim"
       }
     ],
     "radical": {
@@ -351,7 +351,7 @@
       "forms": [
         "釒"
       ],
-      "meaning": "metal, gold"
+      "meaning": "metal, gold |(vi) Kim (kim loại, vàng)"
     },
     "parts": [
       "ヨ",

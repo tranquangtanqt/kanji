@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "age",
+    "meaning": "age |(vi) tuổi",
     "kstroke": 17,
     "examples": [
       {
         "japanese": "年齢（ねんれい）",
         "meaning": {
-          "english": "age, years"
+          "english": "age, years |(vi) tuổi tác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(rou)rei_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "樹齢（じゅれい）",
         "meaning": {
-          "english": "age of a tree"
+          "english": "age of a tree |(vi) tuổi cây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(rou)rei_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "老齢（ろうれい）",
         "meaning": {
-          "english": "advanced age, senility"
+          "english": "advanced age, senility |(vi) tuổi già"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(rou)rei_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "月齢（げつれい）",
         "meaning": {
-          "english": "age of the moon"
+          "english": "age of the moon |(vi) tuổi trăng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(rou)rei_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "高齢者（こうれいしゃ）",
         "meaning": {
-          "english": "old person, senior citizen"
+          "english": "old person, senior citizen |(vi) người cao tuổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(rou)rei_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "学齢期（がくれいき）",
         "meaning": {
-          "english": "school age"
+          "english": "school age |(vi) tuổi đi học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(rou)rei_06_f.opus",
@@ -171,7 +171,7 @@
     "kanji": {
       "character": "齢",
       "meaning": {
-        "english": "age"
+        "english": "age |(vi) tuổi"
       },
       "strokes": {
         "count": 17,
@@ -243,7 +243,7 @@
         "romaji": "ha"
       },
       "meaning": {
-        "english": "tooth"
+        "english": "tooth |(vi) Xỉ (răng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ha0.svg",
@@ -264,7 +264,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "770",
     "strokeCount": 17,
-    "meaning": "age",
+    "meaning": "age |(vi) tuổi |(hv) Linh",
     "kunyomi": [
       "よわい",
       "とし"
@@ -276,34 +276,34 @@
       {
         "example": "齢",
         "reading": "レイ",
-        "meaning": "instar (developmental stage of arthropods), age, years"
+        "meaning": "instar (developmental stage of arthropods), age, years |(vi) tuổi, giai đoạn phát triển (côn trùng)"
       },
       {
         "example": "適齢",
         "reading": "テキレイ",
-        "meaning": "suitable age"
+        "meaning": "suitable age |(vi) tuổi thích hợp"
       },
       {
         "example": "加齢",
         "reading": "カレイ",
-        "meaning": "aging, ageing, growing older"
+        "meaning": "aging, ageing, growing older |(vi) lão hóa, già đi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "齢",
         "reading": "よわい",
-        "meaning": "(one's) age"
+        "meaning": "(one's) age |(vi) tuổi (của ai đó)"
       },
       {
         "example": "歯する",
         "reading": "よわいする",
-        "meaning": "to associate (with), to join the company of, to stand alongside (as an equal)"
+        "meaning": "to associate (with), to join the company of, to stand alongside (as an equal) |(vi) kết giao, sánh vai (ngang hàng)"
       }
     ],
     "radical": {
       "symbol": "齒",
-      "meaning": "tooth, molar"
+      "meaning": "tooth, molar |(vi) Xỉ (răng)"
     },
     "parts": [
       "一",

@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "bay",
+    "meaning": "bay |(vi) vịnh",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "湾（わん）",
         "meaning": {
-          "english": "bay, gulf, inlet"
+          "english": "bay, gulf, inlet |(vi) vịnh, vũng, cửa sông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mekishiko)wan_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "湾内（わんない）",
         "meaning": {
-          "english": "inside the bay"
+          "english": "inside the bay |(vi) trong vịnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mekishiko)wan_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "湾口（わんこう）",
         "meaning": {
-          "english": "entrance or mouth of a bay"
+          "english": "entrance or mouth of a bay |(vi) cửa vịnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mekishiko)wan_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "台湾（たいわん）",
         "meaning": {
-          "english": "Taiwan"
+          "english": "Taiwan |(vi) Đài Loan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mekishiko)wan_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "港湾局（こうわんきょく）",
         "meaning": {
-          "english": "Port and Harbor Authority"
+          "english": "Port and Harbor Authority |(vi) cục cảng vụ, cục quản lý cảng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mekishiko)wan_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "東京湾（とうきょうわん）",
         "meaning": {
-          "english": "Tokyo Bay"
+          "english": "Tokyo Bay |(vi) vịnh Tokyo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mekishiko)wan_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "湾曲する（わんきょくする）",
         "meaning": {
-          "english": "curve [v.i.]"
+          "english": "curve [v.i.] |(vi) cong, uốn cong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mekishiko)wan_06_g.opus",
@@ -171,7 +171,7 @@
     "kanji": {
       "character": "湾",
       "meaning": {
-        "english": "bay"
+        "english": "bay |(vi) vịnh"
       },
       "strokes": {
         "count": 12,
@@ -233,7 +233,7 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water |(vi) Thủy (nước)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -254,7 +254,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "545",
     "strokeCount": 12,
-    "meaning": "gulf, bay, inlet",
+    "meaning": "gulf, bay, inlet |(vi) vịnh, vũng, cửa sông |(hv) Loan",
     "kunyomi": [
       "いりえ"
     ],
@@ -265,22 +265,22 @@
       {
         "example": "湾",
         "reading": "ワン",
-        "meaning": "bay, gulf, inlet"
+        "meaning": "bay, gulf, inlet |(vi) vịnh, vũng"
       },
       {
         "example": "湾岸",
         "reading": "ワンガン",
-        "meaning": "gulf coast, bay coast"
+        "meaning": "gulf coast, bay coast |(vi) bờ vịnh, duyên hải vịnh"
       },
       {
         "example": "メキシコ湾",
         "reading": "メキシコワン",
-        "meaning": "Gulf of Mexico"
+        "meaning": "Gulf of Mexico |(vi) vịnh Mexico"
       },
       {
         "example": "海湾",
         "reading": "カイワン",
-        "meaning": "gulf, bay"
+        "meaning": "gulf, bay |(vi) vịnh biển"
       }
     ],
     "kunyomiExamples": [],
@@ -290,7 +290,7 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": "water |(vi) Thủy (nước)"
     },
     "parts": [
       "亠",

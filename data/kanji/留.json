@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 4,
     "kunyomi": "to, todo, tomeru, tomaru, todomaru, todomeru",
-    "meaning": "keep, stay",
+    "meaning": "keep, stay |(vi) giữ lại, lưu lại",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "留学する（りゅうがくする）",
         "meaning": {
-          "english": "study abroad"
+          "english": "study abroad |(vi) du học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-to(meru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "留年する（りゅうねんする）",
         "meaning": {
-          "english": "repeat the same grade (school)"
+          "english": "repeat the same grade (school) |(vi) lưu ban"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-to(meru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "保留する（ほりゅうする）",
         "meaning": {
-          "english": "put on hold"
+          "english": "put on hold |(vi) tạm hoãn, bảo lưu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-to(meru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "留学生（りゅうがくせい）",
         "meaning": {
-          "english": "overseas student"
+          "english": "overseas student |(vi) du học sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-to(meru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "停留所（ていりゅうじょ）",
         "meaning": {
-          "english": "bus stop"
+          "english": "bus stop |(vi) trạm dừng xe buýt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-to(meru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "留守（るす）",
         "meaning": {
-          "english": "being away from home [n.]"
+          "english": "being away from home [n.] |(vi) vắng nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-to(meru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "留守番（るすばん）",
         "meaning": {
-          "english": "house-watching"
+          "english": "house-watching |(vi) trông nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-to(meru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "留守番電話（るすばんでんわ）",
         "meaning": {
-          "english": "answering machine"
+          "english": "answering machine |(vi) máy trả lời tự động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-to(meru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "留める（とめる）",
         "meaning": {
-          "english": "fasten [v.t.]"
+          "english": "fasten [v.t.] |(vi) gắn chặt, cài lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-to(meru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "留まる（とまる）",
         "meaning": {
-          "english": "remain, come to a halt [v.i.]"
+          "english": "remain, come to a halt [v.i.] |(vi) dừng lại, đậu lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-to(meru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "留める（とどめる）",
         "meaning": {
-          "english": "hold, detain [v.t.]"
+          "english": "hold, detain [v.t.] |(vi) giữ lại, lưu giữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-to(meru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "留まる（とどまる）",
         "meaning": {
-          "english": "stay (in the one place) [v.i.]"
+          "english": "stay (in the one place) [v.i.] |(vi) ở lại, lưu lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryuu-to(meru)_06_l.opus",
@@ -298,7 +298,7 @@
     "kanji": {
       "character": "留",
       "meaning": {
-        "english": "keep, stay"
+        "english": "keep, stay |(vi) giữ lại, lưu lại"
       },
       "strokes": {
         "count": 10,
@@ -356,7 +356,7 @@
         "romaji": "ta"
       },
       "meaning": {
-        "english": "rice paddy"
+        "english": "rice paddy |(vi) Điền (ruộng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ta0.svg",
@@ -377,7 +377,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "731",
     "strokeCount": 10,
-    "meaning": "detain, fasten, halt, stop",
+    "meaning": "detain, fasten, halt, stop |(vi) giam giữ, gắn chặt, dừng lại |(hv) Lưu",
     "kunyomi": [
       "と.める",
       "と.まる",
@@ -393,74 +393,74 @@
       {
         "example": "留",
         "reading": "リュウ",
-        "meaning": "stationary point"
+        "meaning": "stationary point |(vi) điểm dừng, điểm cố định"
       },
       {
         "example": "留学",
         "reading": "リュウガク",
-        "meaning": "studying abroad, (temporarily) studying at another school (to learn a specific skill)"
+        "meaning": "studying abroad, (temporarily) studying at another school (to learn a specific skill) |(vi) du học"
       },
       {
         "example": "駐留",
         "reading": "チュウリュウ",
-        "meaning": "stationing (e.g. of troops), garrison"
+        "meaning": "stationing (e.g. of troops), garrison |(vi) đồn trú, đóng quân"
       },
       {
         "example": "在留",
         "reading": "ザイリュウ",
-        "meaning": "residing (esp. abroad), staying, living"
+        "meaning": "residing (esp. abroad), staying, living |(vi) cư trú (ở nước ngoài)"
       },
       {
         "example": "留",
         "reading": "ルーブル",
-        "meaning": "ruble (Russian currency), rouble"
+        "meaning": "ruble (Russian currency), rouble |(vi) đồng rúp (tiền Nga)"
       },
       {
         "example": "留守番",
         "reading": "ルスバン",
-        "meaning": "care-taking, house-sitting, house-watching, staying at home, caretaker, house-sitter"
+        "meaning": "care-taking, house-sitting, house-watching, staying at home, caretaker, house-sitter |(vi) trông nhà, người trông nhà"
       },
       {
         "example": "柳樽",
         "reading": "ヤナギダル",
-        "meaning": "lacquered sake barrel (often used at weddings and other celebratory events)"
+        "meaning": "lacquered sake barrel (often used at weddings and other celebratory events) |(vi) thùng rượu sake sơn mài (dùng trong lễ cưới)"
       },
       {
         "example": "柳多留",
         "reading": "ヤナギダル",
-        "meaning": "The Willow Barrel (collection of Edo-period senryu) (abbr), Haifu Yanagidaru"
+        "meaning": "The Willow Barrel (collection of Edo-period senryu) (abbr), Haifu Yanagidaru |(vi) Yanagidaru (tuyển tập senryu thời Edo)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "止める",
         "reading": "とめる",
-        "meaning": "to stop, to turn off, to park, to prevent, to suppress (a cough), to hold back (tears), to hold (one's breath), to relieve (pain), to stop (someone from doing something), to dissuade, to forbid, to prohibit, to notice, to be aware of, to concentrate on, to pay attention to, to remember, to bear in mind, to fix (in place), to fasten, to tack, to pin, to nail, to button, to staple, to detain, to keep in custody"
+        "meaning": "to stop, to turn off, to park, to prevent, to suppress (a cough), to hold back (tears), to hold (one's breath), to relieve (pain), to stop (someone from doing something), to dissuade, to forbid, to prohibit, to notice, to be aware of, to concentrate on, to pay attention to, to remember, to bear in mind, to fix (in place), to fasten, to tack, to pin, to nail, to button, to staple, to detain, to keep in custody |(vi) dừng lại, tắt, đỗ xe, ngăn cản, giam giữ"
       },
       {
         "example": "止まる",
         "reading": "とまる",
-        "meaning": "to stop (moving), to come to a stop, to stop (doing, working, being supplied), to come to a halt, to cease, to be stopped, to be suspended, to alight, to perch on"
+        "meaning": "to stop (moving), to come to a stop, to stop (doing, working, being supplied), to come to a halt, to cease, to be stopped, to be suspended, to alight, to perch on |(vi) dừng lại, ngừng, đậu (chim)"
       },
       {
         "example": "留める",
         "reading": "とどめる",
-        "meaning": "to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain"
+        "meaning": "to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain |(vi) dừng lại, ở lại, ghi lại, lưu giữ"
       },
       {
         "example": "止まる",
         "reading": "とどまる",
-        "meaning": "to remain, to abide, to stay (in the one place), to be limited to, to be confined to, to only account for"
+        "meaning": "to remain, to abide, to stay (in the one place), to be limited to, to be confined to, to only account for |(vi) ở lại, lưu lại, giới hạn ở"
       },
       {
         "example": "とどまるところを知らない",
         "reading": "とどまるところをしらない",
-        "meaning": "knowing no bounds, showing no signs of stopping or slowing down"
+        "meaning": "knowing no bounds, showing no signs of stopping or slowing down |(vi) không có giới hạn, không ngừng phát triển"
       }
     ],
     "radical": {
       "symbol": "田",
-      "meaning": "field"
+      "meaning": "field |(vi) Điền (ruộng)"
     },
     "parts": [
       "刀",

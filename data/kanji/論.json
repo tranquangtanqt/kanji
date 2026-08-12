@@ -7,13 +7,13 @@
     "grade": 6,
     "hint_group": 3,
     "kunyomi": "n/a",
-    "meaning": "argue, theory, thesis",
+    "meaning": "argue, theory, thesis |(vi) tranh luận, lý thuyết, luận văn",
     "kstroke": 15,
     "examples": [
       {
         "japanese": "論じる（ろんじる）",
         "meaning": {
-          "english": "argue, discuss"
+          "english": "argue, discuss |(vi) tranh luận, bàn luận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ron(jiru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "論文（ろんぶん）",
         "meaning": {
-          "english": "thesis"
+          "english": "thesis |(vi) luận văn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ron(jiru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "論拠（ろんきょ）",
         "meaning": {
-          "english": "grounds of an argument"
+          "english": "grounds of an argument |(vi) căn cứ lập luận, cơ sở lý luận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ron(jiru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "論理的な（ろんりてきな）",
         "meaning": {
-          "english": "logical"
+          "english": "logical |(vi) có tính logic, hợp lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ron(jiru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "論外な（ろんがいな）",
         "meaning": {
-          "english": "out of the question"
+          "english": "out of the question |(vi) không đáng bàn tới, ngoài vấn đề"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ron(jiru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "議論する（ぎろんする）",
         "meaning": {
-          "english": "argue, discuss"
+          "english": "argue, discuss |(vi) tranh luận, thảo luận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ron(jiru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "理論（りろん）",
         "meaning": {
-          "english": "theory"
+          "english": "theory |(vi) lý luận, lý thuyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ron(jiru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "結論（けつろん）",
         "meaning": {
-          "english": "conclusion"
+          "english": "conclusion |(vi) kết luận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ron(jiru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "世論（よろん/せろん）",
         "meaning": {
-          "english": "public opinion"
+          "english": "public opinion |(vi) dư luận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ron(jiru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "評論（ひょうろん）",
         "meaning": {
-          "english": "critique"
+          "english": "critique |(vi) bình luận, phê bình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ron(jiru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "卒論（そつろん）",
         "meaning": {
-          "english": "B.A. thesis"
+          "english": "B.A. thesis |(vi) luận văn tốt nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ron(jiru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "勿論（もちろん）",
         "meaning": {
-          "english": "of course, needless to say"
+          "english": "of course, needless to say |(vi) tất nhiên, dĩ nhiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ron(jiru)_06_l.opus",
@@ -270,7 +270,7 @@
     "kanji": {
       "character": "論",
       "meaning": {
-        "english": "argue, theory, thesis"
+        "english": "argue, theory, thesis |(vi) tranh luận, lý thuyết, luận văn"
       },
       "strokes": {
         "count": 15,
@@ -338,7 +338,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói, bộ lời nói đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -359,7 +359,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "227",
     "strokeCount": 15,
-    "meaning": "argument, discourse",
+    "meaning": "argument, discourse |(vi) tranh luận, lập luận, bàn luận |(hv) Luận",
     "kunyomi": [
       "あげつら.う"
     ],
@@ -370,29 +370,29 @@
       {
         "example": "論",
         "reading": "ロン",
-        "meaning": "argument, discussion, dispute, controversy, discourse, debate, theory (e.g. of evolution), doctrine, essay, treatise, comment"
+        "meaning": "argument, discussion, dispute, controversy, discourse, debate, theory (e.g. of evolution), doctrine, essay, treatise, comment |(vi) tranh luận, thảo luận, tranh cãi, bàn luận, lý thuyết (như thuyết tiến hóa), học thuyết, luận văn, bình luận"
       },
       {
         "example": "論客",
         "reading": "ロンキャク",
-        "meaning": "controversialist, polemic, disputant"
+        "meaning": "controversialist, polemic, disputant |(vi) người hay tranh luận, nhà biện luận"
       },
       {
         "example": "公論",
         "reading": "コウロン",
-        "meaning": "public opinion, unbiased criticism, unbiassed criticism"
+        "meaning": "public opinion, unbiased criticism, unbiassed criticism |(vi) dư luận công chúng, phê bình công tâm"
       },
       {
         "example": "対論",
         "reading": "タイロン",
-        "meaning": "arguing face to face"
+        "meaning": "arguing face to face |(vi) tranh luận trực diện, đối luận"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "論う",
         "reading": "あげつらう",
-        "meaning": "to discuss, to find fault with, to criticize, to criticise"
+        "meaning": "to discuss, to find fault with, to criticize, to criticise |(vi) bàn luận, bới lỗi, phê phán"
       }
     ],
     "radical": {
@@ -400,7 +400,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "一",

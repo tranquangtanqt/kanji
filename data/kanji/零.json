@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 50,
     "kunyomi": "n/a",
-    "meaning": "zero",
+    "meaning": "zero |(vi) số không",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "零（れい）",
         "meaning": {
-          "english": "zero, nought"
+          "english": "zero, nought |(vi) số không"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rei(do)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "零度（れいど）",
         "meaning": {
-          "english": "zero degree"
+          "english": "zero degree |(vi) 0 độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rei(do)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "零下（れいか）",
         "meaning": {
-          "english": "below zero"
+          "english": "below zero |(vi) dưới 0 độ, âm độ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rei(do)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "零時（れいじ）",
         "meaning": {
-          "english": "twelve o'clock"
+          "english": "twelve o'clock |(vi) 12 giờ (nửa đêm/trưa)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rei(do)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "零点（れいてん）",
         "meaning": {
-          "english": "zero point, no marks"
+          "english": "zero point, no marks |(vi) điểm 0, không điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rei(do)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "零細企業（れいさいきぎょう）",
         "meaning": {
-          "english": "small business"
+          "english": "small business |(vi) doanh nghiệp nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rei(do)_06_f.opus",
@@ -160,7 +160,7 @@
     "kanji": {
       "character": "零",
       "meaning": {
-        "english": "zero"
+        "english": "zero |(vi) số không"
       },
       "strokes": {
         "count": 13,
@@ -224,7 +224,7 @@
         "romaji": "amekanmuri"
       },
       "meaning": {
-        "english": "rain"
+        "english": "rain |(vi) Vũ (mưa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/amekanmuri0.svg",
@@ -245,7 +245,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1217",
     "strokeCount": 13,
-    "meaning": "zero, spill, overflow, nothing, cipher",
+    "meaning": "zero, spill, overflow, nothing, cipher |(vi) số không, tràn ra, đổ ra, hư vô, con số không |(hv) Linh",
     "kunyomi": [
       "ぜろ",
       "こぼ.す",
@@ -258,49 +258,49 @@
       {
         "example": "零",
         "reading": "レイ",
-        "meaning": "zero, nought"
+        "meaning": "zero, nought |(vi) số không"
       },
       {
         "example": "零細",
         "reading": "レイサイ",
-        "meaning": "insignificant, trifling, paltry, cottage (industry), tiny (company)"
+        "meaning": "insignificant, trifling, paltry, cottage (industry), tiny (company) |(vi) nhỏ bé, không đáng kể, quy mô nhỏ"
       },
       {
         "example": "漂零",
         "reading": "ヒョウレイ",
-        "meaning": "being ruined (reduced to poverty), falling low, going under, coming to ruin"
+        "meaning": "being ruined (reduced to poverty), falling low, going under, coming to ruin |(vi) sa sút, khánh kiệt, lụi tàn"
       },
       {
         "example": "飄零",
         "reading": "ヒョウレイ",
-        "meaning": "fluttering to the ground (of a leaf or petal), wandering, roaming, coming down in the world, going to ruin, falling low"
+        "meaning": "fluttering to the ground (of a leaf or petal), wandering, roaming, coming down in the world, going to ruin, falling low |(vi) phiêu bạt, lưu lạc, sa sút"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "０",
         "reading": "ゼロ",
-        "meaning": "zero, 0, nought, nil, nothing, zilch"
+        "meaning": "zero, 0, nought, nil, nothing, zilch |(vi) số không"
       },
       {
         "example": "零因子",
         "reading": "ゼロいんし",
-        "meaning": "zero divisor, null factor, nil factor"
+        "meaning": "zero divisor, null factor, nil factor |(vi) ước của không (đại số)"
       },
       {
         "example": "零す",
         "reading": "こぼす",
-        "meaning": "to spill, to drop, to shed (tears), to grumble (about), to complain (of), to let (one's feelings) show"
+        "meaning": "to spill, to drop, to shed (tears), to grumble (about), to complain (of), to let (one's feelings) show |(vi) làm đổ, làm rơi, than vãn"
       },
       {
         "example": "零れる",
         "reading": "こぼれる",
-        "meaning": "to spill, to fall out of, to overflow, to peek through, to become visible (although normally not), to escape (of a smile, tear, etc.)"
+        "meaning": "to spill, to fall out of, to overflow, to peek through, to become visible (although normally not), to escape (of a smile, tear, etc.) |(vi) bị đổ, tràn ra, lộ ra (nụ cười, nước mắt)"
       }
     ],
     "radical": {
       "symbol": "雨",
-      "meaning": "rain"
+      "meaning": "rain |(vi) Vũ (mưa)"
     },
     "parts": [
       "一",

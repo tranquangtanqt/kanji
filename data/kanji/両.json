@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "both",
+    "meaning": "both |(vi) cả hai",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "両親（りょうしん）",
         "meaning": {
-          "english": "parents"
+          "english": "parents |(vi) cha mẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "両側（りょうがわ）",
         "meaning": {
-          "english": "both sides"
+          "english": "both sides |(vi) hai bên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "両手（りょうて）",
         "meaning": {
-          "english": "both hands"
+          "english": "both hands |(vi) hai tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "車両（しゃりょう）",
         "meaning": {
-          "english": "vehicle"
+          "english": "vehicle |(vi) xe cộ, toa xe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "両替えする（りょうがえする）",
         "meaning": {
-          "english": "change (money)"
+          "english": "change (money) |(vi) đổi tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_e.opus",
@@ -225,7 +225,7 @@
     "kanji": {
       "character": "両",
       "meaning": {
-        "english": "both"
+        "english": "both |(vi) cả hai"
       },
       "strokes": {
         "count": 6,
@@ -274,7 +274,7 @@
         "romaji": "ichi"
       },
       "meaning": {
-        "english": "one, horizontal stroke"
+        "english": "one, horizontal stroke |(vi) Nhất (một, nét ngang)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ichi0.svg",
@@ -295,7 +295,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "247",
     "strokeCount": 6,
-    "meaning": "both, old Japanese coin, counter for carriages (e.g., in a train), two",
+    "meaning": "both, old Japanese coin, counter for carriages (e.g., in a train), two |(vi) cả hai, đồng tiền cổ Nhật, lượng từ đếm toa xe, hai |(hv) Lưỡng",
     "kunyomi": [
       "てる",
       "ふたつ"
@@ -307,28 +307,28 @@
       {
         "example": "両",
         "reading": "リョウ",
-        "meaning": "both (hands, parents, sides, etc.), counter for carriages (e.g. in a train), counter for vehicles, ryō, tael, traditional unit of weight (for gold, silver and drugs), 4-5 monme, 15-19 g, ryō, pre-Meiji unit of currency, orig. the value of one ryō of gold, ryō, traditional measure of fabric, 2 tan, ryō, tael, unit of weight under the ritsuryō system, 1/16 kin, 42-43 g, counter for suits of clothing, sets of armor, etc."
+        "meaning": "both (hands, parents, sides, etc.), counter for carriages (e.g. in a train), counter for vehicles, ryō, tael, traditional unit of weight (for gold, silver and drugs), 4-5 monme, 15-19 g, ryō, pre-Meiji unit of currency, orig. the value of one ryō of gold, ryō, traditional measure of fabric, 2 tan, ryō, tael, unit of weight under the ritsuryō system, 1/16 kin, 42-43 g, counter for suits of clothing, sets of armor, etc. |(vi) cả hai, lượng từ đếm toa xe, lạng/lượng (đơn vị đo cổ), đồng tiền cổ trước Minh Trị"
       },
       {
         "example": "両足",
         "reading": "リョウソク",
-        "meaning": "both feet, both legs"
+        "meaning": "both feet, both legs |(vi) hai chân"
       },
       {
         "example": "一両",
         "reading": "イチリョウ",
-        "meaning": "one vehicle, one ryō (an old coin)"
+        "meaning": "one vehicle, one ryō (an old coin) |(vi) một toa xe, một đồng ryō"
       },
       {
         "example": "十両",
         "reading": "ジュウリョウ",
-        "meaning": "second highest division, wrestlers of the second highest division"
+        "meaning": "second highest division, wrestlers of the second highest division |(vi) hạng juryo (hạng nhì trong sumo)"
       }
     ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": "one |(vi) Nhất (một, nét ngang)"
     },
     "parts": [
       "一",

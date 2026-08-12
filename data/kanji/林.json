@@ -7,13 +7,13 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "hayashi",
-    "meaning": "woods, forest",
+    "meaning": "woods, forest |(vi) rừng cây",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "林業（りんぎょう）",
         "meaning": {
-          "english": "forestry"
+          "english": "forestry |(vi) lâm nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "森林（しんりん）",
         "meaning": {
-          "english": "forest, woods"
+          "english": "forest, woods |(vi) rừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "山林（さんりん）",
         "meaning": {
-          "english": "mountain forest"
+          "english": "mountain forest |(vi) rừng núi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "原始林（げんしりん）",
         "meaning": {
-          "english": "primeval forest, virgin forest"
+          "english": "primeval forest, virgin forest |(vi) rừng nguyên sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "林（はやし）",
         "meaning": {
-          "english": "woods, forest"
+          "english": "woods, forest |(vi) rừng cây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "松林（まつばやし）",
         "meaning": {
-          "english": "pine forest"
+          "english": "pine forest |(vi) rừng thông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "雑木林（ぞうきばやし）",
         "meaning": {
-          "english": "grove of mixed trees, copse"
+          "english": "grove of mixed trees, copse |(vi) rừng cây tạp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_g.opus",
@@ -218,7 +218,7 @@
     "kanji": {
       "character": "林",
       "meaning": {
-        "english": "woods, forest"
+        "english": "woods, forest |(vi) rừng cây"
       },
       "strokes": {
         "count": 8,
@@ -272,7 +272,7 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood |(vi) Mộc (cây)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -293,7 +293,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "656",
     "strokeCount": 8,
-    "meaning": "grove, forest",
+    "meaning": "grove, forest |(vi) lùm cây, rừng |(hv) Lâm",
     "kunyomi": [
       "はやし"
     ],
@@ -304,39 +304,39 @@
       {
         "example": "林道",
         "reading": "リンドウ",
-        "meaning": "path through forest, woodland path, logging road"
+        "meaning": "path through forest, woodland path, logging road |(vi) đường mòn trong rừng, đường lâm nghiệp"
       },
       {
         "example": "林業",
         "reading": "リンギョウ",
-        "meaning": "forestry"
+        "meaning": "forestry |(vi) lâm nghiệp"
       },
       {
         "example": "雑木林",
         "reading": "ゾウキバヤシ",
-        "meaning": "grove of miscellaneous trees, copse, coppice, thicket"
+        "meaning": "grove of miscellaneous trees, copse, coppice, thicket |(vi) rừng cây tạp, bụi cây rậm"
       },
       {
         "example": "農林",
         "reading": "ノウリン",
-        "meaning": "agriculture and forestry"
+        "meaning": "agriculture and forestry |(vi) nông lâm nghiệp"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "林",
         "reading": "はやし",
-        "meaning": "wood, woods, forest, grove, copse, thicket, bunch (of something), cluster, line, collection"
+        "meaning": "wood, woods, forest, grove, copse, thicket, bunch (of something), cluster, line, collection |(vi) rừng cây, lùm cây, cụm, tập hợp"
       },
       {
         "example": "林原美術館",
         "reading": "はやしばらびじゅつかん",
-        "meaning": "Hayashibara Museum of Art"
+        "meaning": "Hayashibara Museum of Art |(vi) Bảo tàng Mỹ thuật Hayashibara"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": "tree |(vi) Mộc (cây)"
     },
     "parts": [
       "木"

@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "row",
+    "meaning": "row |(vi) hàng, dãy",
     "kstroke": 6,
     "examples": [
       {
         "japanese": "列（れつ）",
         "meaning": {
-          "english": "line"
+          "english": "line |(vi) hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "列車（れっしゃ）",
         "meaning": {
-          "english": "train"
+          "english": "train |(vi) tàu hỏa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "列島（れっとう）",
         "meaning": {
-          "english": "chain of islands"
+          "english": "chain of islands |(vi) quần đảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "行列（ぎょうれつ）",
         "meaning": {
-          "english": "line, procession, matrix"
+          "english": "line, procession, matrix |(vi) hàng người, đám rước, ma trận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "前列（ぜんれつ）",
         "meaning": {
-          "english": "front row"
+          "english": "front row |(vi) hàng trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "後列（こうれつ）",
         "meaning": {
-          "english": "back row"
+          "english": "back row |(vi) hàng sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "系列（けいれつ）",
         "meaning": {
-          "english": "a group of businesses"
+          "english": "a group of businesses |(vi) tập đoàn liên kết (keiretsu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "列挙する（れっきょする）",
         "meaning": {
-          "english": "enumerate, list"
+          "english": "enumerate, list |(vi) liệt kê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "整列する（せいれつする）",
         "meaning": {
-          "english": "stand in a row [v.i.]"
+          "english": "stand in a row [v.i.] |(vi) xếp hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_i.opus",
@@ -213,7 +213,7 @@
     "kanji": {
       "character": "列",
       "meaning": {
-        "english": "row"
+        "english": "row |(vi) hàng, dãy"
       },
       "strokes": {
         "count": 6,
@@ -263,7 +263,7 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword |(vi) Đao (dao, kiếm)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -284,7 +284,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "927",
     "strokeCount": 6,
-    "meaning": "file, row, rank, tier, column",
+    "meaning": "file, row, rank, tier, column |(vi) hàng, dãy, cấp bậc, cột |(hv) Liệt",
     "kunyomi": [],
     "onyomi": [
       "レツ",
@@ -294,37 +294,37 @@
       {
         "example": "列",
         "reading": "レツ",
-        "meaning": "row, line, file, column, queue, rank, procession, company (of someone), group, ranks, sequence, counter for rows"
+        "meaning": "row, line, file, column, queue, rank, procession, company (of someone), group, ranks, sequence, counter for rows |(vi) hàng, dãy, đoàn, cấp bậc, lượng từ đếm hàng"
       },
       {
         "example": "列伝",
         "reading": "レツデン",
-        "meaning": "series of biographies"
+        "meaning": "series of biographies |(vi) liệt truyện (chuỗi tiểu sử)"
       },
       {
         "example": "配列",
         "reading": "ハイレツ",
-        "meaning": "arrangement, disposition, array"
+        "meaning": "arrangement, disposition, array |(vi) sự sắp xếp, bố trí, mảng"
       },
       {
         "example": "系列",
         "reading": "ケイレツ",
-        "meaning": "series, sequence, system, succession, keiretsu (group), conglomeration of businesses linked by cross-shareholdings, affiliated, subsidiary"
+        "meaning": "series, sequence, system, succession, keiretsu (group), conglomeration of businesses linked by cross-shareholdings, affiliated, subsidiary |(vi) hệ thống, chuỗi, tập đoàn liên kết (keiretsu), công ty con"
       },
       {
         "example": "列",
         "reading": "レツ",
-        "meaning": "row, line, file, column, queue, rank, procession, company (of someone), group, ranks, sequence, counter for rows"
+        "meaning": "row, line, file, column, queue, rank, procession, company (of someone), group, ranks, sequence, counter for rows |(vi) hàng, dãy, đoàn, cấp bậc, lượng từ đếm hàng"
       },
       {
         "example": "列車",
         "reading": "レッシャ",
-        "meaning": "train, railway train"
+        "meaning": "train, railway train |(vi) tàu hỏa"
       },
       {
         "example": "加密列",
         "reading": "カミツレ",
-        "meaning": "German chamomile (Matricaria recutita), German camomile"
+        "meaning": "German chamomile (Matricaria recutita), German camomile |(vi) hoa cúc La Mã (chamomile Đức)"
       }
     ],
     "kunyomiExamples": [],
@@ -333,7 +333,7 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": "knife, sword |(vi) Đao (dao, kiếm)"
     },
     "parts": [
       "刈",

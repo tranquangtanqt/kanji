@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "command",
+    "meaning": "command |(vi) mệnh lệnh",
     "kstroke": 5,
     "examples": [
       {
         "japanese": "命令する（めいれいする）",
         "meaning": {
-          "english": "order, command [v.t.]"
+          "english": "order, command [v.t.] |(vi) ra lệnh, mệnh lệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mei)rei_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "辞令（じれい）",
         "meaning": {
-          "english": "notice of personnel change"
+          "english": "notice of personnel change |(vi) quyết định bổ nhiệm/điều chuyển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mei)rei_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "号令（ごうれい）",
         "meaning": {
-          "english": "word of command, order"
+          "english": "word of command, order |(vi) khẩu lệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mei)rei_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "政令（せいれい）",
         "meaning": {
-          "english": "government ordinance"
+          "english": "government ordinance |(vi) sắc lệnh, nghị định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mei)rei_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "戒厳令（かいげんれい）",
         "meaning": {
-          "english": "martial law"
+          "english": "martial law |(vi) thiết quân luật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mei)rei_06_e.opus",
@@ -149,7 +149,7 @@
     "kanji": {
       "character": "令",
       "meaning": {
-        "english": "command"
+        "english": "command |(vi) mệnh lệnh"
       },
       "strokes": {
         "count": 5,
@@ -197,7 +197,7 @@
         "romaji": "hitoyane"
       },
       "meaning": {
-        "english": "person "
+        "english": "person  |(vi) Nhân (người)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoyane0.svg",
@@ -218,7 +218,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "804",
     "strokeCount": 5,
-    "meaning": "orders, laws, command, decree, good",
+    "meaning": "orders, laws, command, decree, good |(vi) mệnh lệnh, luật lệ, chỉ thị, sắc lệnh, tốt |(hv) Lệnh",
     "kunyomi": [],
     "onyomi": [
       "レイ"
@@ -227,22 +227,22 @@
       {
         "example": "令",
         "reading": "レイ",
-        "meaning": "command, order, dictation, nth year in the Reiwa era (May 1, 2019-)"
+        "meaning": "command, order, dictation, nth year in the Reiwa era (May 1, 2019-) |(vi) mệnh lệnh, chỉ thị, năm thứ... (niên hiệu Lệnh Hòa)"
       },
       {
         "example": "令状",
         "reading": "レイジョウ",
-        "meaning": "warrant, summons, written order"
+        "meaning": "warrant, summons, written order |(vi) trát, lệnh bằng văn bản"
       },
       {
         "example": "号令",
         "reading": "ゴウレイ",
-        "meaning": "order (esp. to a number of people), command, ritual of bowing at start and end of school class"
+        "meaning": "order (esp. to a number of people), command, ritual of bowing at start and end of school class |(vi) khẩu lệnh, nghi thức chào đầu/cuối giờ học"
       },
       {
         "example": "政令",
         "reading": "セイレイ",
-        "meaning": "government ordinance, cabinet order"
+        "meaning": "government ordinance, cabinet order |(vi) sắc lệnh, nghị định chính phủ"
       }
     ],
     "kunyomiExamples": [],
@@ -251,7 +251,7 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": "man, human |(vi) Nhân (người)"
     },
     "parts": [
       "一",

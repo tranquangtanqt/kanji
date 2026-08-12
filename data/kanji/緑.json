@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "midori",
-    "meaning": "green",
+    "meaning": "green |(vi) màu xanh lá",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "緑茶（りょくちゃ）",
         "meaning": {
-          "english": "green tea, Japanese tea"
+          "english": "green tea, Japanese tea |(vi) trà xanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryoku-midori_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "新緑（しんりょく）",
         "meaning": {
-          "english": "fresh verdure"
+          "english": "fresh verdure |(vi) màu xanh non"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryoku-midori_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "葉緑素（ようりょくそ）",
         "meaning": {
-          "english": "chlorophyl"
+          "english": "chlorophyl |(vi) diệp lục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryoku-midori_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "緑青（ろくしょう）",
         "meaning": {
-          "english": "copper rust, verdigris"
+          "english": "copper rust, verdigris |(vi) gỉ đồng (màu xanh)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryoku-midori_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "緑（みどり）",
         "meaning": {
-          "english": "greenery"
+          "english": "greenery |(vi) màu xanh lá, cây cối xanh tươi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryoku-midori_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "緑色（みどりいろ）",
         "meaning": {
-          "english": "green"
+          "english": "green |(vi) màu xanh lá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryoku-midori_06_f.opus",
@@ -191,7 +191,7 @@
     "kanji": {
       "character": "緑",
       "meaning": {
-        "english": "green"
+        "english": "green |(vi) màu xanh lá"
       },
       "strokes": {
         "count": 14,
@@ -257,7 +257,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (sợi tơ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -278,7 +278,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1180",
     "strokeCount": 14,
-    "meaning": "green",
+    "meaning": "green |(vi) màu xanh lá |(hv) Lục",
     "kunyomi": [
       "みどり"
     ],
@@ -290,54 +290,54 @@
       {
         "example": "緑色",
         "reading": "ミドリイロ",
-        "meaning": "green, green color"
+        "meaning": "green, green color |(vi) màu xanh lá"
       },
       {
         "example": "緑化",
         "reading": "リョッカ",
-        "meaning": "greening (i.e. planting to increase greenery), tree planting, afforestation"
+        "meaning": "greening (i.e. planting to increase greenery), tree planting, afforestation |(vi) phủ xanh, trồng cây gây rừng"
       },
       {
         "example": "新緑",
         "reading": "シンリョク",
-        "meaning": "fresh verdure, new green leaves"
+        "meaning": "fresh verdure, new green leaves |(vi) màu xanh non"
       },
       {
         "example": "常緑",
         "reading": "ジョウリョク",
-        "meaning": "evergreen"
+        "meaning": "evergreen |(vi) thường xanh"
       },
       {
         "example": "緑青",
         "reading": "ロクショウ",
-        "meaning": "verdigris, green rust, copper rust"
+        "meaning": "verdigris, green rust, copper rust |(vi) gỉ đồng xanh"
       },
       {
         "example": "四緑",
         "reading": "シロク",
-        "meaning": "fourth of nine traditional astrological signs (corresponding to Jupiter and south-east)"
+        "meaning": "fourth of nine traditional astrological signs (corresponding to Jupiter and south-east) |(vi) Tứ Lục (một trong cửu tinh chiêm tinh cổ)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "緑",
         "reading": "みどり",
-        "meaning": "green, greenery, verdure"
+        "meaning": "green, greenery, verdure |(vi) màu xanh lá, cây cối xanh tươi"
       },
       {
         "example": "緑色",
         "reading": "みどりいろ",
-        "meaning": "green, green color"
+        "meaning": "green, green color |(vi) màu xanh lá"
       },
       {
         "example": "黄緑",
         "reading": "きみどり",
-        "meaning": "pea green, yellow-green"
+        "meaning": "pea green, yellow-green |(vi) xanh vàng"
       },
       {
         "example": "青緑",
         "reading": "あおみどり",
-        "meaning": "blue-green, turquoise, aqua, spirogyra, algae forming pond scum"
+        "meaning": "blue-green, turquoise, aqua, spirogyra, algae forming pond scum |(vi) xanh lam ngọc, tảo xanh"
       }
     ],
     "radical": {
@@ -345,7 +345,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (sợi tơ)"
     },
     "parts": [
       "ヨ",

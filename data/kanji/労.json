@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": null,
     "kunyomi": "n/a",
-    "meaning": "labor, toil",
+    "meaning": "labor, toil |(vi) lao động, vất vả",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "労力（ろうりょく）",
         "meaning": {
-          "english": "labor, effort, toil, trouble"
+          "english": "labor, effort, toil, trouble |(vi) công sức, sức lao động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "労働（ろうどう）",
         "meaning": {
-          "english": "manual labor, toil, work"
+          "english": "manual labor, toil, work |(vi) lao động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "労働時間（ろうどうじかん）",
         "meaning": {
-          "english": "working hours, man-hours"
+          "english": "working hours, man-hours |(vi) giờ làm việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "労働条件（ろうどうじょうけん）",
         "meaning": {
-          "english": "working conditions"
+          "english": "working conditions |(vi) điều kiện làm việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "労働組合（ろうどうくみあい）",
         "meaning": {
-          "english": "labor union"
+          "english": "labor union |(vi) công đoàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "心労（しんろう）",
         "meaning": {
-          "english": "anxiety, worry, fear"
+          "english": "anxiety, worry, fear |(vi) lo âu, tâm lao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "勤労（きんろう）",
         "meaning": {
-          "english": "labor, exertion, diligent service"
+          "english": "labor, exertion, diligent service |(vi) lao động cần cù"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "苦労する（くろうする）",
         "meaning": {
-          "english": "undergo hardship, suffer"
+          "english": "undergo hardship, suffer |(vi) chịu khổ, vất vả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "疲労する（ひろうする）",
         "meaning": {
-          "english": "be tired"
+          "english": "be tired |(vi) mệt mỏi, kiệt sức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_i.opus",
@@ -212,7 +212,7 @@
     "kanji": {
       "character": "労",
       "meaning": {
-        "english": "labor, toil"
+        "english": "labor, toil |(vi) lao động, vất vả"
       },
       "strokes": {
         "count": 7,
@@ -264,7 +264,7 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power |(vi) Lực (sức mạnh)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -285,7 +285,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "398",
     "strokeCount": 7,
-    "meaning": "labor, thank for, reward for, toil, trouble",
+    "meaning": "labor, thank for, reward for, toil, trouble |(vi) lao động, cảm ơn, tưởng thưởng, vất vả, phiền toái |(hv) Lao",
     "kunyomi": [
       "ろう.する",
       "いたわ.る",
@@ -301,59 +301,59 @@
       {
         "example": "労",
         "reading": "ロウ",
-        "meaning": "labor, labour, toil, trouble, pains, work, effort, striving"
+        "meaning": "labor, labour, toil, trouble, pains, work, effort, striving |(vi) lao động, vất vả, công sức"
       },
       {
         "example": "労組",
         "reading": "ロウソ",
-        "meaning": "labor union, labour union, trade union"
+        "meaning": "labor union, labour union, trade union |(vi) công đoàn"
       },
       {
         "example": "国労",
         "reading": "コクロウ",
-        "meaning": "National Railway Workers Union"
+        "meaning": "National Railway Workers Union |(vi) Công đoàn Đường sắt Quốc gia (Nhật)"
       },
       {
         "example": "功労",
         "reading": "コウロウ",
-        "meaning": "meritorious deed, services"
+        "meaning": "meritorious deed, services |(vi) công lao, cống hiến"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "労する",
         "reading": "ろうする",
-        "meaning": "to work, to labor, to labour, to put to work, to make (someone) work"
+        "meaning": "to work, to labor, to labour, to put to work, to make (someone) work |(vi) làm việc, lao động, bắt làm việc"
       },
       {
         "example": "労る",
         "reading": "いたわる",
-        "meaning": "to pity, to sympathize with, to sympathise with, to treat with sympathy, to console, to be kind to, to tend to (e.g. an injury), to care for, to nurse, to soothe, to appreciate, to recognize (someone's efforts), to reward for"
+        "meaning": "to pity, to sympathize with, to sympathise with, to treat with sympathy, to console, to be kind to, to tend to (e.g. an injury), to care for, to nurse, to soothe, to appreciate, to recognize (someone's efforts), to reward for |(vi) quan tâm, an ủi, chăm sóc, ghi nhận công sức"
       },
       {
         "example": "労き",
         "reading": "いたずき",
-        "meaning": "pain, trouble, illness"
+        "meaning": "pain, trouble, illness |(vi) đau đớn, khổ sở, bệnh tật"
       },
       {
         "example": "労い",
         "reading": "ねぎらい",
-        "meaning": "expression of appreciation (for someone's efforts), thanks"
+        "meaning": "expression of appreciation (for someone's efforts), thanks |(vi) lời cảm ơn, ghi nhận công sức"
       },
       {
         "example": "労う",
         "reading": "ねぎらう",
-        "meaning": "to show appreciation for (efforts, esp. by someone of equal or lower status), to thank for, to reward for"
+        "meaning": "to show appreciation for (efforts, esp. by someone of equal or lower status), to thank for, to reward for |(vi) cảm ơn, ghi nhận công lao"
       },
       {
         "example": "労う",
         "reading": "ねぎらう",
-        "meaning": "to show appreciation for (efforts, esp. by someone of equal or lower status), to thank for, to reward for"
+        "meaning": "to show appreciation for (efforts, esp. by someone of equal or lower status), to thank for, to reward for |(vi) cảm ơn, ghi nhận công lao"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": "power, force |(vi) Lực (sức mạnh)"
     },
     "parts": [
       "冖",

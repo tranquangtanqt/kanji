@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 50,
     "kunyomi": "ko, kou, koi, koishii, koisuru",
-    "meaning": "love",
+    "meaning": "love |(vi) tình yêu",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "恋愛（れんあい）",
         "meaning": {
-          "english": "love affair"
+          "english": "love affair |(vi) yêu đương, tình yêu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ren-koi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "失恋する（しつれんする）",
         "meaning": {
-          "english": "be broken hearted"
+          "english": "be broken hearted |(vi) thất tình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ren-koi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "恋う（こう）",
         "meaning": {
-          "english": "love [v.t.]"
+          "english": "love [v.t.] |(vi) yêu, thương nhớ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ren-koi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "恋する（こいする）",
         "meaning": {
-          "english": "love [v.t.]"
+          "english": "love [v.t.] |(vi) yêu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ren-koi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "恋（こい）",
         "meaning": {
-          "english": "love [n.]"
+          "english": "love [n.] |(vi) tình yêu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ren-koi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "恋人（こいびと）",
         "meaning": {
-          "english": "lover"
+          "english": "lover |(vi) người yêu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ren-koi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "恋しい（こいしい）",
         "meaning": {
-          "english": "dear"
+          "english": "dear |(vi) nhớ nhung, thương nhớ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ren-koi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "初恋（はつこい）",
         "meaning": {
-          "english": "first love"
+          "english": "first love |(vi) mối tình đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ren-koi_06_h.opus",
@@ -220,7 +220,7 @@
     "kanji": {
       "character": "恋",
       "meaning": {
-        "english": "love"
+        "english": "love |(vi) tình yêu"
       },
       "strokes": {
         "count": 10,
@@ -278,7 +278,7 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit |(vi) Tâm (trái tim)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -299,7 +299,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1296",
     "strokeCount": 10,
-    "meaning": "romance, in love, yearn for, miss, darling",
+    "meaning": "romance, in love, yearn for, miss, darling |(vi) lãng mạn, đang yêu, khao khát, nhớ nhung, người yêu quý |(hv) Luyến",
     "kunyomi": [
       "こ.う",
       "こい",
@@ -312,54 +312,54 @@
       {
         "example": "恋愛",
         "reading": "レンアイ",
-        "meaning": "love, love-making, passion, emotion, affections"
+        "meaning": "love, love-making, passion, emotion, affections |(vi) tình yêu, chuyện yêu đương"
       },
       {
         "example": "恋歌",
         "reading": "コイウタ",
-        "meaning": "love song, love poem"
+        "meaning": "love song, love poem |(vi) bài hát/thơ tình"
       },
       {
         "example": "悲恋",
         "reading": "ヒレン",
-        "meaning": "blighted love, disappointed love"
+        "meaning": "blighted love, disappointed love |(vi) mối tình buồn, tình yêu tan vỡ"
       },
       {
         "example": "狂恋",
         "reading": "キョウレン",
-        "meaning": "mad love, excessive infatuation"
+        "meaning": "mad love, excessive infatuation |(vi) yêu si mê, đắm đuối"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "恋う",
         "reading": "こう",
-        "meaning": "to love"
+        "meaning": "to love |(vi) yêu, thương nhớ"
       },
       {
         "example": "恋",
         "reading": "こい",
-        "meaning": "(romantic) love"
+        "meaning": "(romantic) love |(vi) tình yêu"
       },
       {
         "example": "恋人",
         "reading": "こいびと",
-        "meaning": "lover, sweetheart, boyfriend, girlfriend"
+        "meaning": "lover, sweetheart, boyfriend, girlfriend |(vi) người yêu"
       },
       {
         "example": "リア恋",
         "reading": "リアこい",
-        "meaning": "being in love with an idol, actor, etc., fan who is in love with an idol, actor, etc."
+        "meaning": "being in love with an idol, actor, etc., fan who is in love with an idol, actor, etc. |(vi) yêu thần tượng ngoài đời thực (thuật ngữ fan)"
       },
       {
         "example": "片恋",
         "reading": "かたこい",
-        "meaning": "unrequited love, one-sided love"
+        "meaning": "unrequited love, one-sided love |(vi) tình yêu đơn phương"
       },
       {
         "example": "恋しい",
         "reading": "こいしい",
-        "meaning": "yearned for, longed for, missed"
+        "meaning": "yearned for, longed for, missed |(vi) nhớ nhung, khao khát"
       }
     ],
     "radical": {
@@ -368,7 +368,7 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": "heart |(vi) Tâm (trái tim)"
     },
     "parts": [
       "ハ",

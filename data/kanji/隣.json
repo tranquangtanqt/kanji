@@ -7,13 +7,13 @@
     "grade": null,
     "hint_group": 2,
     "kunyomi": "tona, tonari",
-    "meaning": "neighbor",
+    "meaning": "neighbor |(vi) hàng xóm, láng giềng",
     "kstroke": 16,
     "examples": [
       {
         "japanese": "隣人（りんじん）",
         "meaning": {
-          "english": "neighbor"
+          "english": "neighbor |(vi) hàng xóm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tona(ri)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "隣国（りんごく）",
         "meaning": {
-          "english": "neighboring country"
+          "english": "neighboring country |(vi) nước láng giềng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tona(ri)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "近隣（きんりん）",
         "meaning": {
-          "english": "neighborhood, vicinity"
+          "english": "neighborhood, vicinity |(vi) khu vực lân cận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tona(ri)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "隣接する（りんせつする）",
         "meaning": {
-          "english": "adjoin, be adjacent, be related"
+          "english": "adjoin, be adjacent, be related |(vi) tiếp giáp, liền kề"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tona(ri)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "隣席する（りんせきする）",
         "meaning": {
-          "english": "sit next to"
+          "english": "sit next to |(vi) ngồi cạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tona(ri)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "隣（となり）",
         "meaning": {
-          "english": "next to, next door to"
+          "english": "next to, next door to |(vi) bên cạnh, kế bên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tona(ri)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "隣近所（となりきんじょ）",
         "meaning": {
-          "english": "neighbors, neighborhood"
+          "english": "neighbors, neighborhood |(vi) hàng xóm láng giềng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tona(ri)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "隣り合う（となりあう）",
         "meaning": {
-          "english": "adjoin, sit side by side"
+          "english": "adjoin, sit side by side |(vi) liền kề nhau, ngồi cạnh nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tona(ri)_06_h.opus",
@@ -215,7 +215,7 @@
     "kanji": {
       "character": "隣",
       "meaning": {
-        "english": "neighbor"
+        "english": "neighbor |(vi) hàng xóm, láng giềng"
       },
       "strokes": {
         "count": 16,
@@ -285,7 +285,7 @@
         "romaji": "kozatohen"
       },
       "meaning": {
-        "english": "hill, mound"
+        "english": "hill, mound |(vi) Phụ (gò đất, đê)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kozatohen0.svg",
@@ -306,7 +306,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1083",
     "strokeCount": 16,
-    "meaning": "neighboring",
+    "meaning": "neighboring |(vi) lân cận, láng giềng |(hv) Lân",
     "kunyomi": [
       "とな.る",
       "となり"
@@ -318,49 +318,49 @@
       {
         "example": "隣国",
         "reading": "リンゴク",
-        "meaning": "neighbouring country, neighboring country, adjacent country"
+        "meaning": "neighbouring country, neighboring country, adjacent country |(vi) nước láng giềng"
       },
       {
         "example": "隣家",
         "reading": "リンカ",
-        "meaning": "neighbouring house, neighboring house"
+        "meaning": "neighbouring house, neighboring house |(vi) nhà hàng xóm"
       },
       {
         "example": "善隣",
         "reading": "ゼンリン",
-        "meaning": "good neighbour, good neighbor"
+        "meaning": "good neighbour, good neighbor |(vi) láng giềng tốt"
       },
       {
         "example": "四隣",
         "reading": "シリン",
-        "meaning": "whole neighborhood, whole neighbourhood, surrounding countries"
+        "meaning": "whole neighborhood, whole neighbourhood, surrounding countries |(vi) toàn khu vực lân cận, các nước xung quanh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "隣る",
         "reading": "となる",
-        "meaning": "to neighbor (neighbour), to be adjacent to, to be next to, to border"
+        "meaning": "to neighbor (neighbour), to be adjacent to, to be next to, to border |(vi) tiếp giáp, liền kề"
       },
       {
         "example": "隣",
         "reading": "となり",
-        "meaning": "next (to), adjoining, adjacent, house next door, neighbouring house, next-door neighbour, next-door neighbor"
+        "meaning": "next (to), adjoining, adjacent, house next door, neighbouring house, next-door neighbour, next-door neighbor |(vi) bên cạnh, nhà kế bên"
       },
       {
         "example": "隣り合う",
         "reading": "となりあう",
-        "meaning": "to adjoin each other, to sit side by side"
+        "meaning": "to adjoin each other, to sit side by side |(vi) liền kề nhau"
       },
       {
         "example": "先隣",
         "reading": "さきとなり",
-        "meaning": "next door but one, (a house) two doors away"
+        "meaning": "next door but one, (a house) two doors away |(vi) nhà cách hai căn"
       },
       {
         "example": "右隣",
         "reading": "みぎどなり",
-        "meaning": "neighbour to the right (person, building, etc.)"
+        "meaning": "neighbour to the right (person, building, etc.) |(vi) hàng xóm bên phải"
       }
     ],
     "radical": {
@@ -368,7 +368,7 @@
       "forms": [
         "阝"
       ],
-      "meaning": "mound, dam (阝 left)"
+      "meaning": "mound, dam (阝 left) |(vi) Phụ (gò đất, đê)"
     },
     "parts": [
       "夕",

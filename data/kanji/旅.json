@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 50,
     "kunyomi": "tabi",
-    "meaning": "travel",
+    "meaning": "travel |(vi) du hành, đi lại",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "旅行する（りょこうする）",
         "meaning": {
-          "english": "travel"
+          "english": "travel |(vi) đi du lịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryo-tabi_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "旅券（りょけん）",
         "meaning": {
-          "english": "passport"
+          "english": "passport |(vi) hộ chiếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryo-tabi_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "旅費（りょひ）",
         "meaning": {
-          "english": "travel expenses"
+          "english": "travel expenses |(vi) chi phí đi lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryo-tabi_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "旅館（りょかん）",
         "meaning": {
-          "english": "Japanese style hotel"
+          "english": "Japanese style hotel |(vi) nhà trọ kiểu Nhật (ryokan)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryo-tabi_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "旅（たび）",
         "meaning": {
-          "english": "journey"
+          "english": "journey |(vi) chuyến đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryo-tabi_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "旅先（たびさき）",
         "meaning": {
-          "english": "destination"
+          "english": "destination |(vi) điểm đến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryo-tabi_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "旅立つ（たびだつ）",
         "meaning": {
-          "english": "begin a trip [v.i.]"
+          "english": "begin a trip [v.i.] |(vi) lên đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryo-tabi_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "旅人（たびびと）",
         "meaning": {
-          "english": "traveller"
+          "english": "traveller |(vi) lữ khách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryo-tabi_06_h.opus",
@@ -249,7 +249,7 @@
     "kanji": {
       "character": "旅",
       "meaning": {
-        "english": "travel"
+        "english": "travel |(vi) du hành, đi lại"
       },
       "strokes": {
         "count": 10,
@@ -307,7 +307,7 @@
         "romaji": "houhen"
       },
       "meaning": {
-        "english": "direction, flag"
+        "english": "direction, flag |(vi) Phương (vuông, phương hướng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/houhen0.svg",
@@ -328,7 +328,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "783",
     "strokeCount": 10,
-    "meaning": "trip, travel",
+    "meaning": "trip, travel |(vi) chuyến đi, du hành |(hv) Lữ",
     "kunyomi": [
       "たび"
     ],
@@ -339,49 +339,49 @@
       {
         "example": "旅",
         "reading": "リョ",
-        "meaning": "500-man battalion (Zhou dynasty Chinese army)"
+        "meaning": "500-man battalion (Zhou dynasty Chinese army) |(vi) lữ đoàn 500 người (quân đội nhà Chu)"
       },
       {
         "example": "旅客",
         "reading": "リョカク",
-        "meaning": "passenger, traveller, traveler, tourist"
+        "meaning": "passenger, traveller, traveler, tourist |(vi) hành khách, lữ khách"
       },
       {
         "example": "行旅",
         "reading": "コウリョ",
-        "meaning": "traveling, travelling, traveler, traveller"
+        "meaning": "traveling, travelling, traveler, traveller |(vi) đi lại, hành trình"
       },
       {
         "example": "修旅",
         "reading": "シュウリョ",
-        "meaning": "excursion, field trip, school trip"
+        "meaning": "excursion, field trip, school trip |(vi) chuyến tham quan học tập"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "旅",
         "reading": "たび",
-        "meaning": "travel, trip, journey"
+        "meaning": "travel, trip, journey |(vi) chuyến đi, du hành"
       },
       {
         "example": "旅先",
         "reading": "たびさき",
-        "meaning": "destination, place one stays during a trip"
+        "meaning": "destination, place one stays during a trip |(vi) điểm đến, nơi lưu trú khi đi du lịch"
       },
       {
         "example": "あてなき旅",
         "reading": "あてなきたび",
-        "meaning": "journey without a destination"
+        "meaning": "journey without a destination |(vi) chuyến đi không đích đến"
       },
       {
         "example": "股旅",
         "reading": "またたび",
-        "meaning": "wandering life of a gambler"
+        "meaning": "wandering life of a gambler |(vi) cuộc đời lang bạt của kẻ cờ bạc"
       }
     ],
     "radical": {
       "symbol": "方",
-      "meaning": "square"
+      "meaning": "square |(vi) Phương (vuông, phương hướng)"
     },
     "parts": [
       "ノ",

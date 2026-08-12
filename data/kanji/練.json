@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "ne, neru, neri",
-    "meaning": "train, knead",
+    "meaning": "train, knead |(vi) rèn luyện, nhào nặn",
     "kstroke": 14,
     "examples": [
       {
         "japanese": "練習する（れんしゅうする）",
         "meaning": {
-          "english": "practice"
+          "english": "practice |(vi) luyện tập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ren(shuu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "訓練する（くんれんする）",
         "meaning": {
-          "english": "train"
+          "english": "train |(vi) huấn luyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ren(shuu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "熟練する（じゅくれんする）",
         "meaning": {
-          "english": "become skilled"
+          "english": "become skilled |(vi) thành thạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ren(shuu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "試練（しれん）",
         "meaning": {
-          "english": "trial"
+          "english": "trial |(vi) thử thách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ren(shuu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "練る（ねる）",
         "meaning": {
-          "english": "knead, work over"
+          "english": "knead, work over |(vi) nhào nặn, tôi luyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ren(shuu)_06_e.opus",
@@ -210,7 +210,7 @@
     "kanji": {
       "character": "練",
       "meaning": {
-        "english": "train, knead"
+        "english": "train, knead |(vi) rèn luyện, nhào nặn"
       },
       "strokes": {
         "count": 14,
@@ -276,7 +276,7 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread |(vi) Mịch (sợi tơ)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -297,7 +297,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "788",
     "strokeCount": 14,
-    "meaning": "practice, gloss, train, drill, polish, refine",
+    "meaning": "practice, gloss, train, drill, polish, refine |(vi) luyện tập, đánh bóng, huấn luyện, rèn giũa, tinh luyện |(hv) Luyện",
     "kunyomi": [
       "ね.る",
       "ね.り"
@@ -309,39 +309,39 @@
       {
         "example": "練習",
         "reading": "レンシュウ",
-        "meaning": "practice, training, drill, (an) exercise, workout"
+        "meaning": "practice, training, drill, (an) exercise, workout |(vi) luyện tập, bài tập"
       },
       {
         "example": "練達",
         "reading": "レンタツ",
-        "meaning": "expert(ise), skill, dexterity"
+        "meaning": "expert(ise), skill, dexterity |(vi) sự thành thạo, khéo léo"
       },
       {
         "example": "修練",
         "reading": "シュウレン",
-        "meaning": "training, drill, practice, practising, discipline"
+        "meaning": "training, drill, practice, practising, discipline |(vi) tu luyện, rèn luyện"
       },
       {
         "example": "水練",
         "reading": "スイレン",
-        "meaning": "swimming practice"
+        "meaning": "swimming practice |(vi) luyện tập bơi lội"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "練る",
         "reading": "ねる",
-        "meaning": "to knead, to thicken into a paste (stirring over a flame), to polish (a plan, etc.), to refine, to elaborate, to work out, to train, to drill, to exercise, to gloss (silk), to soften, to degum, to tan (leather), to temper (steel), to walk in procession, to parade, to march"
+        "meaning": "to knead, to thicken into a paste (stirring over a flame), to polish (a plan, etc.), to refine, to elaborate, to work out, to train, to drill, to exercise, to gloss (silk), to soften, to degum, to tan (leather), to temper (steel), to walk in procession, to parade, to march |(vi) nhào nặn, tinh luyện, rèn luyện, diễu hành"
       },
       {
         "example": "練り",
         "reading": "ねり",
-        "meaning": "kneading, gloss, tempering, paste (e.g. bean paste, mustard paste), parading of portable shrines and floats at festivals"
+        "meaning": "kneading, gloss, tempering, paste (e.g. bean paste, mustard paste), parading of portable shrines and floats at festivals |(vi) sự nhào nặn, hồ dán, diễu hành kiệu rước"
       },
       {
         "example": "練り上げる",
         "reading": "ねりあげる",
-        "meaning": "to knead well, to polish, to refine"
+        "meaning": "to knead well, to polish, to refine |(vi) nhào kỹ, mài giũa, hoàn thiện"
       }
     ],
     "radical": {
@@ -349,7 +349,7 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": "silk |(vi) Mịch (sợi tơ)"
     },
     "parts": [
       "ハ",

@@ -7,13 +7,13 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "hana, hanasu, hanashi",
-    "meaning": "speak",
+    "meaning": "speak |(vi) nói, nói chuyện",
     "kstroke": 13,
     "examples": [
       {
         "japanese": "電話（でんわ）",
         "meaning": {
-          "english": "telephone"
+          "english": "telephone |(vi) điện thoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa-hana(su)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "会話（かいわ）",
         "meaning": {
-          "english": "conversation"
+          "english": "conversation |(vi) hội thoại, trò chuyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa-hana(su)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "話題（わだい）",
         "meaning": {
-          "english": "topic"
+          "english": "topic |(vi) chủ đề, đề tài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa-hana(su)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "童話（どうわ）",
         "meaning": {
-          "english": "fairy tale"
+          "english": "fairy tale |(vi) truyện cổ tích, truyện thiếu nhi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa-hana(su)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "話す（はなす）",
         "meaning": {
-          "english": "speak"
+          "english": "speak |(vi) nói, nói chuyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa-hana(su)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "話し方（はなしかた）",
         "meaning": {
-          "english": "way of talking"
+          "english": "way of talking |(vi) cách nói chuyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa-hana(su)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "話（はなし）",
         "meaning": {
-          "english": "story, conversation"
+          "english": "story, conversation |(vi) câu chuyện, cuộc trò chuyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa-hana(su)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "話し中（はなしちゅう）",
         "meaning": {
-          "english": "while talking, the line is busy"
+          "english": "while talking, the line is busy |(vi) đang nói chuyện, máy đang bận (điện thoại)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa-hana(su)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "笑い話（わらいばなし）",
         "meaning": {
-          "english": "funny story"
+          "english": "funny story |(vi) chuyện cười, chuyện hài hước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa-hana(su)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "昔話（むかしばなし）",
         "meaning": {
-          "english": "folklore"
+          "english": "folklore |(vi) chuyện cổ tích, chuyện xưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa-hana(su)_06_j.opus",
@@ -283,7 +283,7 @@
     "kanji": {
       "character": "話",
       "meaning": {
-        "english": "speak"
+        "english": "speak |(vi) nói, nói chuyện"
       },
       "strokes": {
         "count": 13,
@@ -347,7 +347,7 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say |(vi) Ngôn (lời nói, bộ lời nói đứng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -368,7 +368,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "134",
     "strokeCount": 13,
-    "meaning": "tale, talk",
+    "meaning": "tale, talk |(vi) câu chuyện, cuộc nói chuyện |(hv) Thoại",
     "kunyomi": [
       "はな.す",
       "はなし"
@@ -380,49 +380,49 @@
       {
         "example": "話",
         "reading": "ワ",
-        "meaning": "counter for stories, episodes of TV series, etc."
+        "meaning": "counter for stories, episodes of TV series, etc. |(vi) lượng từ đếm câu chuyện, tập phim truyền hình..."
       },
       {
         "example": "話題",
         "reading": "ワダイ",
-        "meaning": "topic, subject, much talked about, topical, in the news, hot"
+        "meaning": "topic, subject, much talked about, topical, in the news, hot |(vi) chủ đề, đề tài, được bàn tán, thời sự, nóng hổi"
       },
       {
         "example": "懇話",
         "reading": "コンワ",
-        "meaning": "friendly talk, chat"
+        "meaning": "friendly talk, chat |(vi) trò chuyện thân mật, tâm sự"
       },
       {
         "example": "秘話",
         "reading": "ヒワ",
-        "meaning": "secret story, unknown episode"
+        "meaning": "secret story, unknown episode |(vi) câu chuyện bí mật, chuyện chưa từng được biết đến"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "話す",
         "reading": "はなす",
-        "meaning": "to talk, to speak, to converse, to chat, to tell, to explain, to narrate, to mention, to describe, to discuss, to speak (a language)"
+        "meaning": "to talk, to speak, to converse, to chat, to tell, to explain, to narrate, to mention, to describe, to discuss, to speak (a language) |(vi) nói, nói chuyện, trò chuyện, kể, giải thích, thuật lại, đề cập, bàn luận, nói (một ngôn ngữ)"
       },
       {
         "example": "話",
         "reading": "はなし",
-        "meaning": "talk, speech, chat, conversation, topic, subject, discussions, negotiation, argument, rumor, talk, hearsay, tale, story, fable, circumstances, particulars"
+        "meaning": "talk, speech, chat, conversation, topic, subject, discussions, negotiation, argument, rumor, talk, hearsay, tale, story, fable, circumstances, particulars |(vi) câu chuyện, lời nói, cuộc trò chuyện, chủ đề, thảo luận, đàm phán, tranh luận, tin đồn, truyện, ngụ ngôn, tình hình, chi tiết"
       },
       {
         "example": "話し合い",
         "reading": "はなしあい",
-        "meaning": "discussion, talk, tête-à-tête, conference"
+        "meaning": "discussion, talk, tête-à-tête, conference |(vi) thảo luận, trao đổi, đối thoại, hội đàm"
       },
       {
         "example": "いい話",
         "reading": "いいはなし",
-        "meaning": "good story, heartwarming story, good prospect (e.g. marriage, business)"
+        "meaning": "good story, heartwarming story, good prospect (e.g. marriage, business) |(vi) câu chuyện hay, chuyện cảm động, cơ hội tốt (hôn nhân, làm ăn)"
       },
       {
         "example": "固い話",
         "reading": "かたいはなし",
-        "meaning": "serious topic (of conversation)"
+        "meaning": "serious topic (of conversation) |(vi) chủ đề nghiêm túc (trong trò chuyện)"
       }
     ],
     "radical": {
@@ -430,7 +430,7 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": "speech |(vi) Ngôn (lời nói)"
     },
     "parts": [
       "口",

@@ -7,13 +7,13 @@
     "grade": 4,
     "hint_group": 2,
     "kunyomi": "yo, i, yoi, ii",
-    "meaning": "good",
+    "meaning": "good |(vi) tốt",
     "kstroke": 7,
     "examples": [
       {
         "japanese": "良心（りょうしん）",
         "meaning": {
-          "english": "conscience"
+          "english": "conscience |(vi) lương tâm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou-yo(i)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "良質（りょうしつ）",
         "meaning": {
-          "english": "good quality"
+          "english": "good quality |(vi) chất lượng tốt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou-yo(i)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "良識（りょうしき）",
         "meaning": {
-          "english": "good sense"
+          "english": "good sense |(vi) lương tri, sự phán đoán tốt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou-yo(i)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "良好な（りょうこうな）",
         "meaning": {
-          "english": "favorable"
+          "english": "favorable |(vi) tốt đẹp, thuận lợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou-yo(i)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "不良（ふりょう）",
         "meaning": {
-          "english": "bad, delinquent"
+          "english": "bad, delinquent |(vi) hư hỏng, xấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou-yo(i)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "最良（さいりょう）",
         "meaning": {
-          "english": "the best"
+          "english": "the best |(vi) tốt nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou-yo(i)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "善良な（ぜんりょうな）",
         "meaning": {
-          "english": "virtuous"
+          "english": "virtuous |(vi) hiền lành, lương thiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou-yo(i)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "優良な（ゆうりょうな）",
         "meaning": {
-          "english": "excellent"
+          "english": "excellent |(vi) ưu tú, xuất sắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou-yo(i)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "改良する（かいりょうする）",
         "meaning": {
-          "english": "improve"
+          "english": "improve |(vi) cải tiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou-yo(i)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "良い（よい/いい）",
         "meaning": {
-          "english": "good"
+          "english": "good |(vi) tốt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou-yo(i)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "仲良し（なかよし）",
         "meaning": {
-          "english": "close friend"
+          "english": "close friend |(vi) bạn thân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou-yo(i)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "*野良犬（のらいぬ）",
         "meaning": {
-          "english": "stray dog"
+          "english": "stray dog |(vi) chó hoang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou-yo(i)_06_l.opus",
@@ -285,7 +285,7 @@
     "kanji": {
       "character": "良",
       "meaning": {
-        "english": "good"
+        "english": "good |(vi) tốt"
       },
       "strokes": {
         "count": 7,
@@ -337,7 +337,7 @@
         "romaji": "kon"
       },
       "meaning": {
-        "english": "boundary"
+        "english": "boundary |(vi) Cấn (dừng lại, quẻ Cấn)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kon0.svg",
@@ -358,7 +358,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "501",
     "strokeCount": 7,
-    "meaning": "good, pleasing, skilled",
+    "meaning": "good, pleasing, skilled |(vi) tốt, dễ chịu, khéo léo |(hv) Lương",
     "kunyomi": [
       "よ.い",
       "-よ.い",
@@ -372,49 +372,49 @@
       {
         "example": "良",
         "reading": "リョウ",
-        "meaning": "good (quality, condition, etc.), Good (grade), B"
+        "meaning": "good (quality, condition, etc.), Good (grade), B |(vi) tốt, hạng khá (điểm số)"
       },
       {
         "example": "良好",
         "reading": "リョウコウ",
-        "meaning": "good, fine, excellent, favorable, favourable, satisfactory"
+        "meaning": "good, fine, excellent, favorable, favourable, satisfactory |(vi) tốt, khả quan, thuận lợi"
       },
       {
         "example": "優良",
         "reading": "ユウリョウ",
-        "meaning": "superior, excellent, fine"
+        "meaning": "superior, excellent, fine |(vi) ưu tú, xuất sắc"
       },
       {
         "example": "選良",
         "reading": "センリョウ",
-        "meaning": "member of parliament, the elite"
+        "meaning": "member of parliament, the elite |(vi) nghị sĩ, tầng lớp tinh hoa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "良い",
         "reading": "よい",
-        "meaning": "good, excellent, fine, nice, pleasant, agreeable, sufficient, enough, ready, prepared, profitable (deal, business offer, etc.), beneficial, OK, all right, fine, no problem, easy to ..."
+        "meaning": "good, excellent, fine, nice, pleasant, agreeable, sufficient, enough, ready, prepared, profitable (deal, business offer, etc.), beneficial, OK, all right, fine, no problem, easy to ... |(vi) tốt, hay, được, ổn"
       },
       {
         "example": "いい男",
         "reading": "いいおとこ",
-        "meaning": "handsome man, looker, good guy, great guy, influential person (esp. in the yakuza), sumo wrestler"
+        "meaning": "handsome man, looker, good guy, great guy, influential person (esp. in the yakuza), sumo wrestler |(vi) người đàn ông đẹp trai, đáng nể"
       },
       {
         "example": "いい加減",
         "reading": "いいかげん",
-        "meaning": "irresponsible, perfunctory, careless, lukewarm, half-baked, halfhearted, vague, (already) enough, considerably, quite, rather, pretty"
+        "meaning": "irresponsible, perfunctory, careless, lukewarm, half-baked, halfhearted, vague, (already) enough, considerably, quite, rather, pretty |(vi) hời hợt, cẩu thả; khá là, đáng kể"
       },
       {
         "example": "いい塩梅に",
         "reading": "いいあんばいに",
-        "meaning": "fortunately, luckily"
+        "meaning": "fortunately, luckily |(vi) may mắn thay"
       }
     ],
     "radical": {
       "symbol": "艮",
-      "meaning": "stopping"
+      "meaning": "stopping |(vi) Cấn (dừng lại, quẻ Cấn)"
     },
     "parts": [
       "艮"

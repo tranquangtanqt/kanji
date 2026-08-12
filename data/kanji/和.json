@@ -7,13 +7,13 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "yawa, yawaragu, yawarageru, nago, nagomu, nagoyaka",
-    "meaning": "harmony, peace, Japan",
+    "meaning": "harmony, peace, Japan |(vi) hòa hợp, hòa bình, Nhật Bản",
     "kstroke": 8,
     "examples": [
       {
         "japanese": "和食（わしょく）",
         "meaning": {
-          "english": "Japanese-style meal"
+          "english": "Japanese-style meal |(vi) món ăn kiểu Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yawa(ragu)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "和歌（わか）",
         "meaning": {
-          "english": "31 syllable poem"
+          "english": "31 syllable poem |(vi) thơ 31 âm tiết (waka)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yawa(ragu)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "平和（へいわ）",
         "meaning": {
-          "english": "peace, harmony"
+          "english": "peace, harmony |(vi) hòa bình, hòa hợp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yawa(ragu)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "温和な（おんわな）",
         "meaning": {
-          "english": "gentle, mild, moderate"
+          "english": "gentle, mild, moderate |(vi) ôn hòa, dịu dàng, ôn hòa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yawa(ragu)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "緩和する（かんわする）",
         "meaning": {
-          "english": "relief, mitigate"
+          "english": "relief, mitigate |(vi) giảm nhẹ, làm dịu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yawa(ragu)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "調和する（ちょうわする）",
         "meaning": {
-          "english": "harmonize, be in harmony"
+          "english": "harmonize, be in harmony |(vi) điều hòa, hài hòa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yawa(ragu)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "和尚（おしょう）",
         "meaning": {
-          "english": "Buddhist priest"
+          "english": "Buddhist priest |(vi) hòa thượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yawa(ragu)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "和らげる（やわらげる）",
         "meaning": {
-          "english": "soften, moderate, relieve"
+          "english": "soften, moderate, relieve |(vi) làm dịu, làm mềm, giảm bớt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yawa(ragu)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "和らぐ（やわらぐ）",
         "meaning": {
-          "english": "soften, calm down"
+          "english": "soften, calm down |(vi) dịu đi, lắng xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yawa(ragu)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "和やかな（なごやかな）",
         "meaning": {
-          "english": "peaceful, mild, amicable"
+          "english": "peaceful, mild, amicable |(vi) ôn hòa, êm đềm, thân thiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yawa(ragu)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "和む（なごむ）",
         "meaning": {
-          "english": "soften, calm down"
+          "english": "soften, calm down |(vi) dịu lại, thư thái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yawa(ragu)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "*大和（やまと）",
         "meaning": {
-          "english": "Yamato, Japan"
+          "english": "Yamato, Japan |(vi) Yamato, Nhật Bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yawa(ragu)_06_l.opus",
@@ -310,7 +310,7 @@
     "kanji": {
       "character": "和",
       "meaning": {
-        "english": "harmony, peace, Japan"
+        "english": "harmony, peace, Japan |(vi) hòa hợp, hòa bình, Nhật Bản"
       },
       "strokes": {
         "count": 8,
@@ -364,7 +364,7 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth |(vi) Khẩu (miệng)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -385,7 +385,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "124",
     "strokeCount": 8,
-    "meaning": "harmony, Japanese style, peace, soften, Japan",
+    "meaning": "harmony, Japanese style, peace, soften, Japan |(vi) hòa hợp, kiểu Nhật, hòa bình, làm dịu, Nhật Bản |(hv) Hòa",
     "kunyomi": [
       "やわ.らぐ",
       "やわ.らげる",
@@ -402,79 +402,79 @@
       {
         "example": "和",
         "reading": "ワ",
-        "meaning": "sum, harmony, peace, Japan, Japanese-style"
+        "meaning": "sum, harmony, peace, Japan, Japanese-style |(vi) tổng, hòa hợp, hòa bình, Nhật Bản, kiểu Nhật"
       },
       {
         "example": "和歌",
         "reading": "ワカ",
-        "meaning": "waka, classic Japanese poem, esp. a tanka, often 31 morae"
+        "meaning": "waka, classic Japanese poem, esp. a tanka, often 31 morae |(vi) hòa ca (thơ waka, thể thơ cổ điển Nhật, thường 31 âm tiết)"
       },
       {
         "example": "講和",
         "reading": "コウワ",
-        "meaning": "reconciliation (between warring nations), (making of) peace"
+        "meaning": "reconciliation (between warring nations), (making of) peace |(vi) giảng hòa, nghị hòa (giữa các nước đang chiến tranh)"
       },
       {
         "example": "英和",
         "reading": "エイワ",
-        "meaning": "English-Japanese, English-Japanese dictionary"
+        "meaning": "English-Japanese, English-Japanese dictionary |(vi) Anh-Nhật, từ điển Anh-Nhật"
       },
       {
         "example": "阿蘭陀",
         "reading": "オランダ",
-        "meaning": "Netherlands, Holland"
+        "meaning": "Netherlands, Holland |(vi) Hà Lan"
       },
       {
         "example": "和尚",
         "reading": "オショウ",
-        "meaning": "priestly teacher, preceptor, monk (esp. the head monk of a temple), priest, head priest, second highest priestly rank in Buddhism, master (of one's art, trade, etc.)"
+        "meaning": "priestly teacher, preceptor, monk (esp. the head monk of a temple), priest, head priest, second highest priestly rank in Buddhism, master (of one's art, trade, etc.) |(vi) hòa thượng, sư thầy, cao tăng, bậc thầy (trong nghề, nghệ thuật...)"
       },
       {
         "example": "和声",
         "reading": "ワセイ",
-        "meaning": "harmony, concord, consonance"
+        "meaning": "harmony, concord, consonance |(vi) hòa âm, hòa thanh"
       },
       {
         "example": "和尚",
         "reading": "オショウ",
-        "meaning": "priestly teacher, preceptor, monk (esp. the head monk of a temple), priest, head priest, second highest priestly rank in Buddhism, master (of one's art, trade, etc.)"
+        "meaning": "priestly teacher, preceptor, monk (esp. the head monk of a temple), priest, head priest, second highest priestly rank in Buddhism, master (of one's art, trade, etc.) |(vi) hòa thượng, sư thầy, cao tăng, bậc thầy (trong nghề, nghệ thuật...)"
       },
       {
         "example": "諧和",
         "reading": "カイワ",
-        "meaning": "gentle mutual affection, harmony, harmony"
+        "meaning": "gentle mutual affection, harmony, harmony |(vi) hòa hợp, hòa thuận, quý mến nhau"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "和らぐ",
         "reading": "やわらぐ",
-        "meaning": "to soften, to calm down, to be eased, to be mitigated, to subside, to abate"
+        "meaning": "to soften, to calm down, to be eased, to be mitigated, to subside, to abate |(vi) dịu đi, lắng xuống, được giảm bớt, được xoa dịu"
       },
       {
         "example": "和らげる",
         "reading": "やわらげる",
-        "meaning": "to soften, to moderate, to relieve"
+        "meaning": "to soften, to moderate, to relieve |(vi) làm dịu, làm mềm, giảm nhẹ"
       },
       {
         "example": "和む",
         "reading": "なごむ",
-        "meaning": "to be softened, to calm down"
+        "meaning": "to be softened, to calm down |(vi) dịu lại, trở nên thư thái"
       },
       {
         "example": "和やか",
         "reading": "なごやか",
-        "meaning": "mild, calm, gentle, quiet, congenial, amicable, amiable, friendly, genial, harmonious, peaceful"
+        "meaning": "mild, calm, gentle, quiet, congenial, amicable, amiable, friendly, genial, harmonious, peaceful |(vi) ôn hòa, điềm đạm, nhẹ nhàng, thân thiện, hòa nhã"
       },
       {
         "example": "和える",
         "reading": "あえる",
-        "meaning": "to dress (vegetables, salad, etc.)"
+        "meaning": "to dress (vegetables, salad, etc.) |(vi) trộn (rau, salad...)"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": "mouth, opening |(vi) Khẩu (miệng, lỗ mở)"
     },
     "parts": [
       "口",

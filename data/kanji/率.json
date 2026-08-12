@@ -7,13 +7,13 @@
     "grade": 5,
     "hint_group": 4,
     "kunyomi": "hikiiru, hiki",
-    "meaning": "rate, lead, command",
+    "meaning": "rate, lead, command |(vi) tỷ lệ, dẫn đầu, chỉ huy",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "引率する（いんそつする）",
         "meaning": {
-          "english": "lead (a group)"
+          "english": "lead (a group) |(vi) dẫn dắt (một nhóm)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiki(iru)_06_a.opus",
@@ -25,7 +25,7 @@
       {
         "japanese": "統率する（とうそつする）",
         "meaning": {
-          "english": "command, lead"
+          "english": "command, lead |(vi) thống lĩnh, chỉ huy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiki(iru)_06_b.opus",
@@ -37,7 +37,7 @@
       {
         "japanese": "率先する（そっせんする）",
         "meaning": {
-          "english": "take initiative"
+          "english": "take initiative |(vi) đi đầu, chủ động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiki(iru)_06_c.opus",
@@ -49,7 +49,7 @@
       {
         "japanese": "率直な（そっちょくな）",
         "meaning": {
-          "english": "frank, openhearted"
+          "english": "frank, openhearted |(vi) thẳng thắn, chân thành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiki(iru)_06_d.opus",
@@ -61,7 +61,7 @@
       {
         "japanese": "軽率な（けいそつな）",
         "meaning": {
-          "english": "rash"
+          "english": "rash |(vi) hấp tấp, khinh suất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiki(iru)_06_e.opus",
@@ -73,7 +73,7 @@
       {
         "japanese": "率（りつ）",
         "meaning": {
-          "english": "rate, proportion"
+          "english": "rate, proportion |(vi) tỷ lệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiki(iru)_06_f.opus",
@@ -85,7 +85,7 @@
       {
         "japanese": "比率（ひりつ）",
         "meaning": {
-          "english": "rate, proportion"
+          "english": "rate, proportion |(vi) tỷ lệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiki(iru)_06_g.opus",
@@ -97,7 +97,7 @@
       {
         "japanese": "利率（りりつ）",
         "meaning": {
-          "english": "interest rate"
+          "english": "interest rate |(vi) lãi suất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiki(iru)_06_h.opus",
@@ -109,7 +109,7 @@
       {
         "japanese": "確率（かくりつ）",
         "meaning": {
-          "english": "probability"
+          "english": "probability |(vi) xác suất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiki(iru)_06_i.opus",
@@ -121,7 +121,7 @@
       {
         "japanese": "能率（のうりつ）",
         "meaning": {
-          "english": "efficiency"
+          "english": "efficiency |(vi) hiệu suất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiki(iru)_06_j.opus",
@@ -133,7 +133,7 @@
       {
         "japanese": "競争率（きょうそうりつ）",
         "meaning": {
-          "english": "ratio of successful (applicants)"
+          "english": "ratio of successful (applicants) |(vi) tỷ lệ chọi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiki(iru)_06_k.opus",
@@ -145,7 +145,7 @@
       {
         "japanese": "率いる（ひきいる）",
         "meaning": {
-          "english": "spearhead (a group)"
+          "english": "spearhead (a group) |(vi) dẫn dắt, chỉ huy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiki(iru)_06_l.opus",
@@ -258,7 +258,7 @@
     "kanji": {
       "character": "率",
       "meaning": {
-        "english": "rate, lead, command"
+        "english": "rate, lead, command |(vi) tỷ lệ, dẫn đầu, chỉ huy"
       },
       "strokes": {
         "count": 11,
@@ -318,7 +318,7 @@
         "romaji": "gen"
       },
       "meaning": {
-        "english": "darkness"
+        "english": "darkness |(vi) Huyền (đen, sâu xa)"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gen0.svg",
@@ -339,7 +339,7 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "383",
     "strokeCount": 11,
-    "meaning": "ratio, rate, proportion, %, factor, lead, spearhead, command",
+    "meaning": "ratio, rate, proportion, %, factor, lead, spearhead, command |(vi) tỷ lệ, tỷ số, phần trăm, hệ số, dẫn đầu, chỉ huy |(hv) Suất",
     "kunyomi": [
       "ひき.いる"
     ],
@@ -352,54 +352,54 @@
       {
         "example": "卒爾",
         "reading": "ソツジ",
-        "meaning": "abrupt, sudden"
+        "meaning": "abrupt, sudden |(vi) đột ngột, thình lình"
       },
       {
         "example": "卒然",
         "reading": "ソツゼン",
-        "meaning": "sudden, unexpected, unannounced, abrupt"
+        "meaning": "sudden, unexpected, unannounced, abrupt |(vi) bất ngờ, đột nhiên"
       },
       {
         "example": "短慮軽率",
         "reading": "タンリョケイソツ",
-        "meaning": "impulsive and imprudent, rash and unthinking"
+        "meaning": "impulsive and imprudent, rash and unthinking |(vi) hấp tấp thiếu suy nghĩ"
       },
       {
         "example": "兜率",
         "reading": "トソツ",
-        "meaning": "Tusita (heaven, pure land)"
+        "meaning": "Tusita (heaven, pure land) |(vi) cõi trời Đâu Suất (Tusita)"
       },
       {
         "example": "率",
         "reading": "リツ",
-        "meaning": "rate, ratio, proportion, percentage"
+        "meaning": "rate, ratio, proportion, percentage |(vi) tỷ lệ, phần trăm"
       },
       {
         "example": "率を定める",
         "reading": "リツヲサダメル",
-        "meaning": "to fix the rate"
+        "meaning": "to fix the rate |(vi) ấn định tỷ lệ"
       },
       {
         "example": "倍率",
         "reading": "バイリツ",
-        "meaning": "magnification, leverage, amplification, scaling factor, scale factor, competitiveness rating (e.g. for university entrance), applicant-to-acceptance ratio"
+        "meaning": "magnification, leverage, amplification, scaling factor, scale factor, competitiveness rating (e.g. for university entrance), applicant-to-acceptance ratio |(vi) độ phóng đại, hệ số, tỷ lệ chọi"
       },
       {
         "example": "定率",
         "reading": "テイリツ",
-        "meaning": "fixed rate"
+        "meaning": "fixed rate |(vi) tỷ lệ cố định"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "率いる",
         "reading": "ひきいる",
-        "meaning": "to lead, to spearhead (a group), to command (troops)"
+        "meaning": "to lead, to spearhead (a group), to command (troops) |(vi) dẫn dắt, chỉ huy, lãnh đạo"
       }
     ],
     "radical": {
       "symbol": "玄",
-      "meaning": "dark, profound"
+      "meaning": "dark, profound |(vi) Huyền (đen, sâu xa)"
     },
     "parts": [
       "亠",
