@@ -99,6 +99,33 @@ ví dụ đi kèm) **và** nghĩa tiếng Anh đã có sẵn — không dịch m
    lần nữa. Nếu bước 1 trả về mảng rỗng, chỉ cần copy file gốc sang `out/<file>.json`
    (không cần chạy apply-meanings.js).
 
+## Điều phối song song (khi có nhiều file cần xử lý)
+
+Trước tiên xác định danh sách file thực sự cần xử lý bằng cách so sánh `in/` với `out/`
+(ví dụ `comm -23 <(ls in/ | sort) <(ls out/ | sort)`), không đoán tên file, không tự ý xử
+lý lại các file đã có sẵn trong `out/`.
+
+Nếu số file cần xử lý > ~10, đừng tự xử lý tuần tự từng file trong context chính. Thay vào
+đó:
+
+1. Chia danh sách file thành các batch ~10 file/batch (ví dụ dùng
+   `split -n l/<N> --numeric-suffixes=1 --additional-suffix=.txt`, N = ceil(tổng số file/10)).
+2. Với mỗi batch, gọi một agent `general-purpose` chạy nền (`run_in_background: true`),
+   **tất cả trong cùng một message/lượt gọi tool** để chạy thật sự song song — không gọi
+   tuần tự từng agent một. Prompt cho mỗi agent phải tự chứa đủ ngữ cảnh: bảo agent đọc
+   file SKILL.md này (đường dẫn `.claude/skills/kanji-vi-meaning/SKILL.md` tính từ working
+   directory của project) rồi làm theo đúng quy trình 4 bước ở trên cho đúng danh sách file
+   được giao (liệt kê rõ tên từng file trong prompt), viết kết quả vào `out/`, không hỏi lại
+   người dùng (tự quyết định, tra hvdic.thivien.net khi cần), và báo cáo ngắn gọn danh sách
+   file đã ghi thành công/thất bại khi xong.
+3. Không tự đọc file output JSONL của agent qua Bash — chờ thông báo hoàn thành tự động của
+   từng agent.
+4. Sau khi tất cả các agent đã báo hoàn thành, xác nhận lại bằng cách so sánh `in/` và `out/`
+   (không còn file nào thiếu) trước khi báo cáo tổng kết cho người dùng.
+5. Trong suốt quá trình, không hỏi xác nhận người dùng ở các bước trung gian (chọn batch,
+   cách dịch, có nên tra cứu Hán Việt hay không...) — chỉ dùng phán đoán tốt nhất và làm
+   theo đúng SKILL.md; chỉ báo cáo kết quả cuối khi mọi việc đã hoàn tất.
+
 ## Lưu ý
 
 - Chỉ xử lý các file thực sự tồn tại trong `in/` (dùng `ls`/Glob để liệt kê, đừng đoán tên).
